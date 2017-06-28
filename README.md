@@ -25,17 +25,17 @@ Perfect.  Thunkable was designed for people who have no prior coding experience.
 
 The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our team and from our amazing community of Thunkers.  To preview these apps, we recommend either downloading the apps to your phone.
 
-* iOS
+iOS
 
-  * Coming soon!
+* Coming soon!
 
-* Android
+Android
 
-| Games | Social | Tools | Business | Mapping | Latest Technologies | World Changing |
+| Games | Social | Tools | Business | Mapping | Latest Tech | World Changing |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![](/assets/inside2016.png)          [**Inside 2016: Latest Trends in India**](https://goo.gl/TF1vAV)** **created by Nimesh Kumar from Delhi, India_ _\#bestapp2016 | Chat | Taschenlampe | New Market Goods | SF Trees | Thunkableagram | ![](/assets/pvsolar.png) [ **PV Solar Power System**](https://goo.gl/rcBXOW) created by Anwar Al-Haddid, [read more about his inspiringstory](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
+| ![](/assets/inside2016.png)          [**Inside 2016: Latest Trends in India**](https://goo.gl/TF1vAV)** **created by Nimesh Kumar from Delhi, India_ _\#bestapps2016 | Chat | Taschenlampe | New Market Goods | SF Trees | Thunkableagram | ![](/assets/pvsolar.png) [ **PV Solar Power System**](https://goo.gl/rcBXOW) created by Anwar Al-Haddid, [read more about his inspiringstory](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
 |  |  |  |  |  |  |  |
-| ![](/assets/rockpaper.png)Rock, Paper, Scissors, Spock | ALOHA | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable VR |  |
+| ![](/assets/rockpaper.png)Rock, Paper, Scissors, Spock created by Domhnall O'Hanlon from Dublin, Ireland | ALOHA | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable VR |  |
 
 ---
 
@@ -43,13 +43,24 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 
 If it's your first time here, we recommend that you take a look at some of our favorite tutorials:
 
-* Overview
+iOS
+
+* Coming soon!
+
+Android
+
+* [Product overview](https://www.youtube.com/watch?v=hZ7z3t-98O0)
+* [Live testing](https://www.youtube.com/watch?v=igGYHXfgawQ)
 * Maps
 * Official YouTube Channel
 
 ---
 
-## We're here to help! {#were-here-to-help}
+## Questions? {#were-here-to-help}
+
+| Community | Chat support | Contact us |
+| :--- | :--- | :--- |
+|  |  | hello@thunkable.com |
 
 
 
