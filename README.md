@@ -33,15 +33,15 @@ Android
 
 | Games | Social | Tools | Business | Mapping | Latest Tech | World Changing |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![](/assets/inside2016.png)          [**Inside 2016: Latest Trends in India**](https://goo.gl/TF1vAV)** **created by Nimesh Kumar from Delhi, India_ _\#bestapps2016 | Chat | Taschenlampe | New Market Goods | SF Trees | Thunkableagram | ![](/assets/pvsolar.png) [ **PV Solar Power System**](https://goo.gl/rcBXOW) created by Anwar Al-Haddid, [read more about his inspiringstory](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
+| ![](/assets/inside2016.png)[Inside 2016: Latest Trends in India](https://goo.gl/3tKoQT) created by Nimesh Kumar from Delhi, India_ _\#bestapps2016 | Chat | Taschenlampe | New Market Goods | SF Trees | Thunkableagram | ![](/assets/pvsolar.png) [ PV Solar Power System](https://goo.gl/rcBXOW) created by Anwar Al-Haddid, [read more about his inspiringstory](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
 |  |  |  |  |  |  |  |
-| ![](/assets/rockpaper.png)Rock, Paper, Scissors, Spock created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016 | ALOHA | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable VR |  |
+| ![](/assets/rockpaper.png)[Rock, Paper, Scissors, Lizard Spock](https://goo.gl/CGF5uy) created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016 | ALOHA | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable VR |  |
 
 ---
 
 ## Quick, bite-sized tutorials
 
-If it's your first time here, we recommend that you take a look at some of our favorite tutorials:
+If it's your first time here, we recommend that you get started with some of our favorite tutorials:
 
 iOS
 
@@ -54,14 +54,15 @@ Android
 * Sample apps
   * [Google maps ](https://www.youtube.com/watch?v=dXi55Rai7pQ)
   * [Mobile responsive website](https://www.youtube.com/watch?v=dXi55Rai7pQ)
+  * [Interactive game](https://www.youtube.com/watch?v=OJAmgDQjS4Q&t=125s)
 
 ---
 
 ## Questions? {#were-here-to-help}
 
-| Community | Chat support | Contact us |
+| Community | Chat support \(California work hours\) | Email us |
 | :--- | :--- | :--- |
-| [Join our community](https://community.thunkable.com/) of Thunkers        Get the latest developments on what Thunkers around the world are building and answers to your toughest questions |  | hello@thunkable.com |
+| [Join our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | ![](/assets/Webp.net-resizeimage %281%29.png) Click on this icon to ask us anything  | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com) |
 
 
 
