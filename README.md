@@ -35,13 +35,17 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ![](/assets/inside2016.png)          [**Inside 2016: Latest Trends in India**](https://goo.gl/TF1vAV)** **created by Nimesh Kumar from Delhi, India_ _\#bestapp2016 | Chat | Taschenlampe | New Market Goods | SF Trees | Thunkableagram | ![](/assets/pvsolar.png) [ **PV Solar Power System**](https://goo.gl/rcBXOW) created by Anwar Al-Haddid, [read more about his inspiringstory](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
 |  |  |  |  |  |  |  |
-| Rock, Paper, Scissors, Spock  | ALOHA | Simple Notes | ![](/assets/simplenotes.png)Simple Notes by  | First Bus Map of Dhaka | Thunkable VR |  |
+| ![](/assets/rockpaper.png)Rock, Paper, Scissors, Spock | ALOHA | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable VR |  |
 
 ---
 
 ## Quick, bite-sized tutorials
 
-If it's your first time here, we recommend that you take a look at some of our favorite tutorials
+If it's your first time here, we recommend that you take a look at some of our favorite tutorials:
+
+* Overview
+* Maps
+* Official YouTube Channel
 
 ---
 
