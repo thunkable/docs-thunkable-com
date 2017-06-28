@@ -32,7 +32,8 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 * Android
 
 | Games | Social |  |  |  |
-| :--- | :--- | :--- | :--- | :--- |
+| :---: | :--- | :--- | :--- | :--- |
+| ![](/assets/inside2016.png)          [Inside 2016: Latest Trends in India](https://goo.gl/TF1vAV) _created by Nimesh Kumar from Delhi, India             _Game that combines touch and sound |  |  |  |  |
 |  |  |  |  |  |
 
 ---
