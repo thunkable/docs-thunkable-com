@@ -35,7 +35,7 @@ Android
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | ![](/assets/inside2016.png)          [**Inside 2016: Latest Trends in India**](https://goo.gl/TF1vAV)** **created by Nimesh Kumar from Delhi, India_ _\#bestapps2016 | Chat | Taschenlampe | New Market Goods | SF Trees | Thunkableagram | ![](/assets/pvsolar.png) [ **PV Solar Power System**](https://goo.gl/rcBXOW) created by Anwar Al-Haddid, [read more about his inspiringstory](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
 |  |  |  |  |  |  |  |
-| ![](/assets/rockpaper.png)Rock, Paper, Scissors, Spock created by Domhnall O'Hanlon from Dublin, Ireland | ALOHA | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable VR |  |
+| ![](/assets/rockpaper.png)Rock, Paper, Scissors, Spock created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016 | ALOHA | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable VR |  |
 
 ---
 
@@ -51,8 +51,9 @@ Android
 
 * [Product overview](https://www.youtube.com/watch?v=hZ7z3t-98O0)
 * [Live testing](https://www.youtube.com/watch?v=igGYHXfgawQ)
-* Maps
-* Official YouTube Channel
+* Sample apps
+  * [Google maps ](https://www.youtube.com/watch?v=dXi55Rai7pQ)
+  * [Mobile responsive website](https://www.youtube.com/watch?v=dXi55Rai7pQ)
 
 ---
 
@@ -60,7 +61,7 @@ Android
 
 | Community | Chat support | Contact us |
 | :--- | :--- | :--- |
-|  |  | hello@thunkable.com |
+| [Join our community](https://community.thunkable.com/) of Thunkers        Get the latest developments on what Thunkers around the world are building and answers to your toughest questions |  | hello@thunkable.com |
 
 
 
