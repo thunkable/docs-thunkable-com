@@ -33,7 +33,7 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 
 | Games | Social | Education | Tools | Business | World-Changing |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![](/assets/inside2016.png)          [Inside 2016: Latest Trends in India](https://goo.gl/TF1vAV) _created by Nimesh Kumar from Delhi, India_ |  |  |  |  |  |
+| ![](/assets/inside2016.png)          [Inside 2016: Latest Trends in India](https://goo.gl/TF1vAV) _created by Nimesh Kumar from Delhi, India \#bestapp2016_ | ALOHA: AI-powered chat translation app created by Albert from Honolulu, Hawaii Read more about it here |  |  |  | ![](/assets/pvsolar.png) [ PV Solar Power System](https://goo.gl/rcBXOW) created by Anwar Al-Haddid, read more about his amazing story \#bestapps2016 |
 |  |  |  |  |  |  |
 
 ---
