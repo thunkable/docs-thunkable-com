@@ -6,6 +6,6 @@
   * [Creating your app](chapter1/creating-your-app.md)
   * [Testing your app](chapter1/testing-your-app.md)
   * [Advanced](chapter1/advanced.md)
-* [Thunkable for Android](thunkable-for-android.md)
+* [❤ Thunkable for Android](thunkable-for-android.md)
   * [Set-up](thunkable-for-android/set-up.md)
 

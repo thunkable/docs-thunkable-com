@@ -1,17 +1,24 @@
-## Welcome to Thunkable!
+# Welcome to Thunkable!
 
-> ![](/assets/logo-beaver.png) "Every human should have life, liberty, and the pursuit of your own apps" - Barack Obeaver
+![](/assets/logo-beaver.png)
+
+**"I believe in life, liberty, and the pursuit of your own apps" **_- Barack Obeaver_
+
+---
+
+## What is Thunkable?
 
 Thunkable is a drag and drop platform for building native, mobile apps on Android and now iOS. No coding required.
 
 Get familiar with our platforms and explore their features:
 
-* #### **Thunkable for iOS ** \|** **[**Login**](https://ios.thunkable.com/#/login?_k=ptmhad)
+#### **Thunkable for iOS ** \|** **[**Login**](https://ios.thunkable.com/#/login?_k=ptmhad)
 
-  * Brand new platform for iOS featuring the same drag and drop, no code app building experience with fast live testing and a few added surprises
-* #### **Thunkable for Android **\|** **[**Login**](http://app.thunkable.com/)
+* Brand new platform for iOS featuring the same drag and drop, no code app building experience with live testing and a few added surprises
 
-  * Compatible with MIT App Inventor, features Material Design, Artificial Intelligence, Google Spreadsheets and more!
+#### **Thunkable for Android **❤** **\|** **[**Login**](http://app.thunkable.com/)
+
+* Compatible with MIT App Inventor, features Material Design, Artificial Intelligence, Google Spreadsheets and more!
 
 ---
 
@@ -25,11 +32,11 @@ Perfect.  `Thunkable was designed for people who have no prior coding experience
 
 The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our amazing community of Thunkers.  To preview these apps, we recommend [downloading our live testing app](https://play.google.com/store/apps/details?id=com.thunkable.appinventor.aicompanion3&hl=en) or downloading them straight to your phone.
 
-iOS
+iOS  
 
 * Coming soon!
 
-Android
+Android ❤
 
 | Games | Social | Tools | Business | Mapping | Latest Tech | World Changing |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -43,11 +50,11 @@ Android
 
 If it's your first time here, we recommend that you get started with some of our favorite tutorials:
 
-iOS
+iOS  
 
 * Coming soon!
 
-Android
+Android ❤
 
 * [Product overview](https://www.youtube.com/watch?v=hZ7z3t-98O0)
 * [Live testing](https://www.youtube.com/watch?v=igGYHXfgawQ)
