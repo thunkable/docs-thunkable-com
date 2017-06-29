@@ -1,5 +1,7 @@
 # Welcome to Thunkable!
 
+
+
 ![](/assets/logo-beaver.png)
 
 **"I believe in life, liberty, and the pursuit of your own apps" **_- Barack Obeaver_
@@ -45,10 +47,13 @@ Android ❤
   * [Rock, Paper, Scissors, Lizard, Spock](#) created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016
 
 * Social
+
   * [Thunkableagram: AI-powered Instagram](#) created by Albert from Honolulu, Hawaii, [learn more on our blog](#)
 
 * Tools
+
   * [Taschenlampe](#) \(Flashlight\) created by Mika from Lenkersdorf, Germany \#bestapps2016, [read his story](https://blog.thunkable.com/how-app-development-changed-mikas-life-and-allows-him-to-give-back-to-his-community-c80a5d7d3c47)
+
 * Business
 
   * [New Market Goods E-commerce](#) created by Albert from Honolulu, Hawaii, [learn more on our blog](#)
