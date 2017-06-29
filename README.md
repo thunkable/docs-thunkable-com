@@ -33,9 +33,9 @@ Android
 
 | Games | Social | Tools | Business | Mapping | Latest Tech | World Changing |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![](/assets/inside2016.png)[Inside 2016: Latest Trends in India](https://goo.gl/3tKoQT) created by Nimesh Kumar from Delhi, India_ _\#bestapps2016 | Chat | Taschenlampe | New Market Goods | SF Trees | Thunkableagram | ![](/assets/pvsolar.png) [ PV Solar Power System](https://goo.gl/rcBXOW) created by Anwar Al-Haddid, [read more about his inspiringstory](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
+| ![](/assets/inside2016.png)[Inside 2016: Latest Trends in India](https://goo.gl/3tKoQT) _created by Nimesh Kumar from Delhi, India \#bestapps2016_ | Chat | ![](/assets/taschenlampe.png)[Taschenlampe](https://goo.gl/5MN7LL) \(Flashlight\) _created by Mika from_ _Lenkersdorf, Germany \#bestapps2016_ | New Market Goods | SF Trees | ![](/assets/icon-thunkablegram.png)[Thunkableagram: AI-powered Instagram](https://goo.gl/QYHCcv)_ created by Albert from Honolulu, Hawaii,_ [read more on our blog](https://blog.thunkable.com/make-your-own-instagram-because-youre-worth-it-b6ad9c27a22c) | ![](/assets/pvsolar.png) [ PV Solar Power System](https://goo.gl/rcBXOW) _created by Anwar Al-Haddid from Sanaa, Yemen_, [read more about his inspiring story](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) _\#bestapps2016_ |
 |  |  |  |  |  |  |  |
-| ![](/assets/rockpaper.png)[Rock, Paper, Scissors, Lizard Spock](https://goo.gl/CGF5uy) created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016 | ALOHA | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable VR |  |
+| ![](/assets/rockpaper.png)[Rock, Paper, Scissors, Lizard, Spock](https://goo.gl/CGF5uy) _created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016_ | Thunkable Chat Translation App | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable Cardboard VR created by Albert from Honolulu, Hawaii, read more on our blog |  |
 
 ---
 
@@ -62,7 +62,7 @@ Android
 
 | Community | Chat support \(California work hours\) | Email us |
 | :--- | :--- | :--- |
-| [Join our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | ![](/assets/Webp.net-resizeimage %281%29.png) Click on this icon to ask us anything  | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com) |
+| [Join our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | ![](/assets/Webp.net-resizeimage %281%29.png) Click on this icon to ask us anything | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com) |
 
 
 
