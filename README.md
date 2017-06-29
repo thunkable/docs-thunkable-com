@@ -1,16 +1,16 @@
-## 
-
-## ![](/assets/logo-beaver.png)
-
 ## Welcome to Thunkable!
+
+> ![](/assets/logo-beaver.png) "Every human should have life, liberty, and the pursuit of apps" - Barack Obeaver
 
 Thunkable is a drag and drop platform for building native, mobile apps on Android and now iOS. No coding required.
 
 Get familiar with our platforms and explore their features:
 
-* **Thunkable for iOS** \|** **[**Login**](https://ios.thunkable.com/#/login?_k=ptmhad)
+* #### **Thunkable for iOS** \|** **[**Login**](https://ios.thunkable.com/#/login?_k=ptmhad)
+
   * Brand new platform for iOS featuring the same drag and drop, no code app building experience with fast live testing and a few added surprises
-* **Thunkable for Android **\|** Login**
+* #### **Thunkable for Android **\|** **[**Login**](http://app.thunkable.com/)
+
   * Compatible with MIT App Inventor, features Material Design, Artificial Intelligence, Google Spreadsheets and more!
 
 ---
