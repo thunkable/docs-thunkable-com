@@ -25,7 +25,7 @@ To connect via USB, please download the sofware package compatible with your ope
 
 ---
 
-### Step 3: Set up your device for USB by turning USB Debugging ON {#step-3-set-up-your-device-for-usb-by-turning-usb-debugging-on}
+### Step 3. Set up your device for USB by turning USB Debugging ON {#step-3-set-up-your-device-for-usb-by-turning-usb-debugging-on}
 
 On your Android device, go to System Settings, Developer Options, turn them on, and be sure that "USB Debugging" is allowed.
 
@@ -39,7 +39,7 @@ Note: On Android 4.2 and newer, Developer options is hidden by default. To make 
 
 ---
 
-### Step 4: Open a Thunkable project and connect it to your device, and authenticate \(if necessary\) {#step-4-open-a-thunkable-project-and-connect-it-to-your-device-and-authenticate-if-necessary}
+### Step 4. Open a Thunkable project and connect it to your device, and authenticate \(if necessary\) {#step-4-open-a-thunkable-project-and-connect-it-to-your-device-and-authenticate-if-necessary}
 
 Choose "Test" and "USB Connection" from the top menu in the Thunkable browser.
 
@@ -59,21 +59,11 @@ Within a few seconds, you should see the app you are building on your device. It
 
 If your app does not appear on your device, the most likely problems are:
 
-* You did not download the software package above to your computer \(see
-  _Step 2_
-  \)
+* You did not download the software package above to your computer \(see _Step 2_\)
 * Your USB plug is not securely connected to your computer or mobile device
-* You need to turn USB debugging ON on your mobile device \(see
-  _Step 3_
-  \)
-* You did not allow the connection to your computer after selecting "Test 
-  &gt;
-   USB Connection" from the top menu in the Thunkable browser \(see
-  _Step 4_
-  \)
-* You may have an outdated version of the Thunkable app. Download the latest Thunkable Live app for Thunkable from above \(see
-  _Step 1_
-  \)
+* You need to turn USB debugging ON on your mobile device \(see _Step 3_\)
+* You did not allow the connection to your computer after selecting "Test &gt; USB Connection" from the top menu in the Thunkable browser \(see _Step 4_\)
+* You may have an outdated version of the Thunkable app. Download the latest Thunkable Live app for Thunkable from above \(see _Step 1_\)
 
 
 
