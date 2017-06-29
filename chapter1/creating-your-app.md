@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Creating your app
+# Create your app
 
 ---
 

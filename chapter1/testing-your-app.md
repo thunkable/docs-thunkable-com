@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Testing your app
+# Test your app
 
 ---
 
