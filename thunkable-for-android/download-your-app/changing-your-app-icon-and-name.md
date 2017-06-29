@@ -1,5 +1,3 @@
-
-
 #### **Thunkable for Android **❤
 
 # Changing your app icon and name
@@ -13,8 +11,7 @@
 * **To change the Title Bar Name **-** **Change the Text in the "Title" property to be the name you want the title bar on the app to say
 * **To remove the Title Bar **-** **Uncheck the TitleVisible option
 
+
+
 ![](/assets/change-app-icon.png)
-
-  
-
 
