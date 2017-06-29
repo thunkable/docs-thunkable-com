@@ -17,7 +17,7 @@ Get familiar with our platforms and explore their features:
 
 ## Not a developer?
 
-Perfect.  Thunkable was designed for people who have no prior coding experience. All you need is a problem to solve and some lego skills. Instead of writing code, you connect lego blocks. We'll do the rest.
+Perfect.  `Thunkable was designed for people who have no prior coding experience.` All you need is a problem to solve, an idea on how technology can be applied to solve it and some lego skills. Instead of writing code, you connect lego blocks. We'll do the rest.
 
 ---
 
@@ -33,9 +33,9 @@ Android
 
 | Games | Social | Tools | Business | Mapping | Latest Tech | World Changing |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![](/assets/inside2016.png)[Inside 2016: Latest Trends in India](https://goo.gl/3tKoQT) _created by Nimesh Kumar from Delhi, India \#bestapps2016_ | Chat | ![](/assets/taschenlampe.png)[Taschenlampe](https://goo.gl/5MN7LL) \(Flashlight\) _created by Mika from_ _Lenkersdorf, Germany \#bestapps2016_ | New Market Goods | SF Trees | ![](/assets/icon-thunkablegram.png)[Thunkableagram: AI-powered Instagram](https://goo.gl/QYHCcv)_ created by Albert from Honolulu, Hawaii,_ [read more on our blog](https://blog.thunkable.com/make-your-own-instagram-because-youre-worth-it-b6ad9c27a22c) | ![](/assets/pvsolar.png) [ PV Solar Power System](https://goo.gl/rcBXOW) _created by Anwar Al-Haddid from Sanaa, Yemen_, [read more about his inspiring story](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) _\#bestapps2016_ |
+| ![](/assets/inside2016.png)[Inside 2016: Latest Trends in India](https://goo.gl/3tKoQT) created by Nimesh Kumar from Delhi, India \#bestapps2016 | Chat | ![](/assets/taschenlampe.png)[Taschenlampe](https://goo.gl/5MN7LL) \(Flashlight\) created by Mika from Lenkersdorf, Germany \#bestapps2016 | ![](/assets/newmarket.png)[New Market Goods E-commerce](https://goo.gl/7YsHiA) created by Albert from Honolulu, Hawaii, [read more on our blog](https://blog.thunkable.com/apps-for-your-most-loyal-customers-with-a-website-you-already-have-made-by-you-on-thunkable-824e6744f9f7?source=collection_home---6------8-----------) | SF Trees | ![](/assets/icon-thunkablegram.png)[Thunkableagram: AI-powered Instagram](https://goo.gl/QYHCcv) created by Albert from Honolulu, Hawaii, [read more on our blog](https://blog.thunkable.com/make-your-own-instagram-because-youre-worth-it-b6ad9c27a22c) | ![](/assets/pvsolar.png) [ PV Solar Power System](https://goo.gl/rcBXOW) created by Anwar Al-Haddid from Sanaa, Yemen, [read more about his inspiring story](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
 |  |  |  |  |  |  |  |
-| ![](/assets/rockpaper.png)[Rock, Paper, Scissors, Lizard, Spock](https://goo.gl/CGF5uy) _created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016_ | Thunkable Chat Translation App | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable Cardboard VR created by Albert from Honolulu, Hawaii, read more on our blog |  |
+| ![](/assets/rockpaper.png)[Rock, Paper, Scissors, Lizard, Spock](https://goo.gl/CGF5uy) created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016 | Thunkable Chat Translation App | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable Cardboard VR created by Albert from Honolulu, Hawaii, read more on our blog |  |
 
 ---
 
