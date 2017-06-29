@@ -16,6 +16,8 @@
   * [Share your app](thunkable-for-android/share-your-app.md)
   * [Publish your app](thunkable-for-android/publish-your-app.md)
   * [Sample apps](thunkable-for-android/sample-apps.md)
+  * [Blocks](thunkable-for-android/blocks.md)
+  * [Components](components.md)
   * [Advanced](thunkable-for-android/advanced.md)
     * [Import from App Inventor](thunkable-for-android/advanced/import-from-app-inventor.md)
 
