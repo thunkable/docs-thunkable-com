@@ -19,6 +19,7 @@
   * [Blocks](thunkable-for-android/blocks.md)
     * [Control](thunkable-for-android/blocks/control.md)
   * [Components](components.md)
+    * [Button](components/user-interface.md)
   * [Advanced](thunkable-for-android/advanced.md)
     * [Import from App Inventor](thunkable-for-android/advanced/import-from-app-inventor.md)
 
