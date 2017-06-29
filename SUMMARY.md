@@ -12,6 +12,8 @@
   * [Test your app live](thunkable-for-android/test-your-app.md)
     * [Test via USB](thunkable-for-android/test-your-app/test-via-usb.md)
   * [Download your app](thunkable-for-android/download-your-app.md)
+    * [Changing your app icon and name](thunkable-for-android/download-your-app/changing-your-app-icon-and-name.md)
   * [Publish your app](thunkable-for-android/publish-your-app.md)
   * [Sample apps](thunkable-for-android/sample-apps.md)
+  * [Advanced](thunkable-for-android/advanced.md)
 
