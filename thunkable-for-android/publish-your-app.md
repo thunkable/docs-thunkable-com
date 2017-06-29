@@ -16,15 +16,19 @@ You will need to increase the`VersionCode`and change the`VersionName`of your app
 
 ---
 
-### Download .apk
+### Download app \(.apk\) to your computer {#exporting-your-keystore-from-mit-app-inventor}
 
-Once you are done making your app, you can download your Android .apk file as follows:
+Package the app \(.apk file\) by going to the "Export" menu on the Thunkable toolbar
 
-1. Navigate to the home screen of the app you want to download in Thunkable
-2. Click the dropdown labled “Export”
-3. Click “App \(save .apk to my computer\)”
+![](https://thunkable.com/explore/img/share/Build_Dropdown.png)
 
-This will prompt you to save the application somewhere. Once you have the .apk downloaded, you are ready to begin the publishing process.
+Select "App \(save .apk to my computer\)." A pop-up box \(seen below\) should alert you that your download has begun. Note: The other option \(provide QR code for .apk\) produces a scannable QR code that will download the app for two hours. You can share this code with others, but they have to use it within 2 hours of your generating it.
+
+![](https://thunkable.com/explore/img/share/Build_Popup.png)
+
+You can also download the apk directly from your apps home page by clicking on the download arrow next to any app project.
+
+![](https://thunkable.com/explore/img/share/download_apk.png)
 
 ---
 

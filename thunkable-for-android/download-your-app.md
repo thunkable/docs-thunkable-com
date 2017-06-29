@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Download your app
+# Download your app to your phone
 
 ---
 
