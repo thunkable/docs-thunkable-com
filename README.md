@@ -9,7 +9,7 @@ Thunkable is a drag and drop platform for building native, mobile apps on Androi
 Get familiar with our platforms and explore their features:
 
 * **Thunkable for iOS** \|** **[**Login**](https://ios.thunkable.com/#/login?_k=ptmhad)
-  * Brand new platform for iOS featuring the same drag and drop experience with a few added surprises
+  * Brand new platform for iOS featuring the same drag and drop, no code app building experience with fast live testing and a few added surprises
 * **Thunkable for Android **\|** Login**
   * Compatible with MIT App Inventor, features Material Design, Artificial Intelligence, Google Spreadsheets and more!
 
@@ -23,7 +23,7 @@ Perfect.  `Thunkable was designed for people who have no prior coding experience
 
 ## Get started with our favorite apps
 
-The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our team and from our amazing community of Thunkers.  To preview these apps, we recommend either downloading the apps to your phone.
+The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our team and from our amazing community of Thunkers.  To preview these apps, we recommend [downloading our live testing app](https://play.google.com/store/apps/details?id=com.thunkable.appinventor.aicompanion3&hl=en) or downloading them straight to your phone.
 
 iOS
 
@@ -33,9 +33,9 @@ Android
 
 | Games | Social | Tools | Business | Mapping | Latest Tech | World Changing |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![](/assets/inside2016.png)[Inside 2016: Latest Trends in India](https://goo.gl/3tKoQT) created by Nimesh Kumar from Delhi, India \#bestapps2016 | Chat | ![](/assets/taschenlampe.png)[Taschenlampe](https://goo.gl/5MN7LL) \(Flashlight\) created by Mika from Lenkersdorf, Germany \#bestapps2016 | ![](/assets/newmarket.png)[New Market Goods E-commerce](https://goo.gl/7YsHiA) created by Albert from Honolulu, Hawaii, [read more on our blog](https://blog.thunkable.com/apps-for-your-most-loyal-customers-with-a-website-you-already-have-made-by-you-on-thunkable-824e6744f9f7?source=collection_home---6------8-----------) | SF Trees | ![](/assets/icon-thunkablegram.png)[Thunkableagram: AI-powered Instagram](https://goo.gl/QYHCcv) created by Albert from Honolulu, Hawaii, [read more on our blog](https://blog.thunkable.com/make-your-own-instagram-because-youre-worth-it-b6ad9c27a22c) | ![](/assets/pvsolar.png) [ PV Solar Power System](https://goo.gl/rcBXOW) created by Anwar Al-Haddid from Sanaa, Yemen, [read more about his inspiring story](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
+| ![](/assets/inside2016.png)[Inside 2016: Latest Trends in India](https://goo.gl/3tKoQT) created by Nimesh Kumar from Delhi, India \#bestapps2016 |  | ![](/assets/taschenlampe.png)[Taschenlampe](https://goo.gl/5MN7LL) \(Flashlight\) created by Mika from Lenkersdorf, Germany \#bestapps2016 | ![](/assets/newmarket.png)[New Market Goods E-commerce](https://goo.gl/7YsHiA) created by Albert from Honolulu, Hawaii, [read more on our blog](https://blog.thunkable.com/apps-for-your-most-loyal-customers-with-a-website-you-already-have-made-by-you-on-thunkable-824e6744f9f7?source=collection_home---6------8-----------) | ![](/assets/busmap.png)[First Bus Map of Dhaka](https://goo.gl/ikpkui) created by Albert from Honolulu, Hawaii, [read more on our blog](https://blog.thunkable.com/apps-for-the-city-that-you-love-part-1-15ec5b86f905) | ![](/assets/icon-thunkablegram.png)[Thunkableagram: AI-powered Instagram](https://goo.gl/QYHCcv) created by Albert from Honolulu, Hawaii, [read more on our blog](https://blog.thunkable.com/make-your-own-instagram-because-youre-worth-it-b6ad9c27a22c) | ![](/assets/pvsolar.png) [ PV Solar Power System](https://goo.gl/rcBXOW) created by Anwar Al-Haddid from Sanaa, Yemen, [read more about his inspiring story](https://www.fastcompany.com/40417060/how-a-man-with-no-coding-experience-built-an-app-thats-bringing-solar-power-to-yemen) \#bestapps2016 |
 |  |  |  |  |  |  |  |
-| ![](/assets/rockpaper.png)[Rock, Paper, Scissors, Lizard, Spock](https://goo.gl/CGF5uy) created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016 | Thunkable Chat Translation App | ![](/assets/simplenotes.png)Simple Notes |  | First Bus Map of Dhaka | Thunkable Cardboard VR created by Albert from Honolulu, Hawaii, read more on our blog |  |
+| ![](/assets/rockpaper.png)[Rock, Paper, Scissors, Lizard, Spock](https://goo.gl/CGF5uy) created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016 | Thunkable Chat Translation App | ![](/assets/simplenotes.png)Simple Notes |  |  | ![](/assets/cardboard.png)[Thunkable Cardboard VR](https://goo.gl/C2S68X) created by Albert from Honolulu, Hawaii, [read more on our blog](https://blog.thunkable.com/making-apps-for-google-cardboard-d112758a4cee) |  |
 
 ---
 
