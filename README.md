@@ -23,7 +23,7 @@ Perfect.  `Thunkable was designed for people who have no prior coding experience
 
 ## Get started with our favorite apps
 
-The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our team and from our amazing community of Thunkers.  To preview these apps, we recommend [downloading our live testing app](https://play.google.com/store/apps/details?id=com.thunkable.appinventor.aicompanion3&hl=en) or downloading them straight to your phone.
+The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our amazing community of Thunkers.  To preview these apps, we recommend [downloading our live testing app](https://play.google.com/store/apps/details?id=com.thunkable.appinventor.aicompanion3&hl=en) or downloading them straight to your phone.
 
 iOS
 
