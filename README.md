@@ -1,12 +1,12 @@
 ## Welcome to Thunkable!
 
-> ![](/assets/logo-beaver.png) "Every human should have life, liberty, and the pursuit of apps" - Barack Obeaver
+> ![](/assets/logo-beaver.png) "Every human should have life, liberty, and the pursuit of your own apps" - Barack Obeaver
 
 Thunkable is a drag and drop platform for building native, mobile apps on Android and now iOS. No coding required.
 
 Get familiar with our platforms and explore their features:
 
-* #### **Thunkable for iOS** \|** **[**Login**](https://ios.thunkable.com/#/login?_k=ptmhad)
+* #### **Thunkable for iOS ** \|** **[**Login**](https://ios.thunkable.com/#/login?_k=ptmhad)
 
   * Brand new platform for iOS featuring the same drag and drop, no code app building experience with fast live testing and a few added surprises
 * #### **Thunkable for Android **\|** **[**Login**](http://app.thunkable.com/)
@@ -17,7 +17,7 @@ Get familiar with our platforms and explore their features:
 
 ## Not a developer?
 
-Perfect.  `Thunkable was designed for people who have no prior coding experience.` All you need is a problem to solve, an idea on how technology can be applied to solve it and some lego skills. Instead of writing code, you connect lego blocks. We'll do the rest.
+Perfect.  `Thunkable was designed for people who have no prior coding experience.` Mobile app development today can be quite a challenge especially for someone who is not a full-time developer but on Thunkable, all you need is a problem that can be solved with the latest technologies and some lego skills. Really, instead of writing code, you connect lego blocks. We'll do the rest.
 
 ---
 
