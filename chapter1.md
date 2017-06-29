@@ -6,7 +6,8 @@ Thunkable offers one of the few drag and drop platform for building native, mobi
 
 ## Features
 
-* 
+
+
 ---
 
 ## Quick start with our favorite apps & tutorials
@@ -15,15 +16,17 @@ Thunkable offers one of the few drag and drop platform for building native, mobi
 
 ---
 
-## Must do's
+## Before you get started
 
 1. Download the Thunkable Live companion app
 
 ---
 
-## Coming from Android / App Inventor?
+## Getting started
 
 
+
+---
 
 
 
