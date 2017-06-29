@@ -17,7 +17,7 @@ Get familiar with our platforms and explore their features:
 
 ## Not a developer?
 
-Perfect.  `Thunkable was designed for people who have no prior coding experience.` Mobile app development today can be quite a challenge especially for someone who is not a full-time developer but on Thunkable, all you need is a problem that can be solved with the latest technologies and some lego skills. Really, instead of writing code, you connect lego blocks. We'll do the rest.
+Perfect.  `Thunkable was designed for people who have no prior coding experience.` Building mobile apps can be quite a challenge especially for someone who is not a coder. On Thunkable, all you need to build an app is a problem that can be solved with the latest technologies and some lego skills. Instead of writing code, you connect lego blocks. We'll help you do the rest.
 
 ---
 
