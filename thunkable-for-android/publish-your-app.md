@@ -1,10 +1,56 @@
-
-
 #### **Thunkable for Android **❤
 
-# Publish your app
+# Publish your app to the Google Play Store
 
 ---
 
+### **Version Your App**
 
+Every app you publish must have a`VersionCode`and a`VersionName`. You can set these in the designer under the properties panel for the`Screen1`component.
+
+`VersionCode`is an integer value that will not be visible to Google Play Store users. It is used by other apps to check if your app has been upgraded or downgraded. It defaults to 1 and should be increased by one with every successive change whether it is a major change or a minor change.
+
+`VersionName`is a String which can be anything you would like. It is defaulted to`1.0`. A common structure is a decimal number which is increased by 1 for every major change and`0.1`for every minor change. For example, an initial`VersionName`could be`1.0`which can be updated to`1.1`after a small change and`2.0`after a larger change.
+
+You will need to increase the`VersionCode`and change the`VersionName`of your application when you upload a new version to the Play Store.
+
+---
+
+### Download .apk
+
+Once you are done making your app, you can download your Android .apk file as follows:
+
+1. Navigate to the home screen of the app you want to download in Thunkable
+2. Click the dropdown labled “Export”
+3. Click “App \(save .apk to my computer\)”
+
+This will prompt you to save the application somewhere. Once you have the .apk downloaded, you are ready to begin the publishing process.
+
+---
+
+### Publish Your App
+
+You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play.
+
+For more details, you may want to start with [Introduction to Publishing on Google Play](https://developer.android.com/distribute/tools/launch-checklist.html) and [Google Support on Uploading to Google Play](https://support.google.com/googleplay/android-developer/answer/113469?hl=en&topic=2365624&ctx=topic).
+
+---
+
+### A Word about Backups
+
+Once you publish your application in the Google Play Store, other people will now be depending upon you to fix bugs and otherwise maintain your application. It is therefore very important that you backup your application's source code. To do this, click on "Project--&gt;My Projects", check the box next to the name of your project and then select "Project--&gt;Export selected project \(.aia\) to my computer." This will download a zip file which contains your projects source code. Store it in a safe place!
+
+Thunkable and Google, which operate the App Engine service on which Thunkable relies, make best efforts to ensure that Thunkable does not lose projects. HOWEVER WE CAN OFFER NO GUARANTEE THAT DATA \(LIKE YOUR PROJECTS\) WILL NEVER BE LOST. IT IS IMPERATIVE THAT YOU MAKE YOUR OWN BACKUPS!
+
+---
+
+### A Word about Keystores
+
+During the .apk building process your application is signed with a digital private key which is associated with your account. Whenever you build a new version this same key is used to sign the new version. When an android phone has an application installed on it, it remembers the key that was used to sign it. In order to install an updated version of an application, the new application must be signed by the same key. It is therefore important that you not lose this key!
+
+Your private digital key is stored in a keystore file. Normally the Thunkable server will create this file when needed and store it for you so you do not need to worry about it. Although we do not anticipate losing your keystore file, we recommend that you back it up. From the designer under the "Projects" menu there is a choice labeled "Export Keystore". Select this option. This will download your keystore file to your local computer. Save it in a safe place. It should not be publicly readable as your private digital key is a secret which should not be shared.
+
+If you move your project to another Thunkable server, you will want to upload your keystore to that server \(you will see that under "Projects" there is a "Import Keystore" option as well\). You only need to do this if you are publishing .apk files to Google Play or if you intend to share your application with other people in general.
+
+IF YOUR keyfile IS LOST OR DELETED IT CANNOT BE RECOVERED. If you were to lose your project's source code, you could always re-enter it from scratch \(this may be a lot of work, but is something you can do\). NEITHER YOU NOR THUNKABLE CAN RECOVER A LOST keyfile. NO AMOUNT OF EFFORT WILL RECOVER IT, SO BE SURE TO BACK IT UP!!!
 
