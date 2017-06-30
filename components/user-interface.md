@@ -6,10 +6,6 @@
 
 Buttons are a key input for many apps and one of the most popular components on Thunkable. Many aspects of its appearance can be changed and different events can be triggered with different types of clicks - regular, long and touch up or touch down.
 
-### Default appearance
-
-
-
 ### Popular block snippets
 
 ![](https://lh6.googleusercontent.com/-eX4BJE0wpzpN0AcnFV2uxnemnpNmNgD57UV8ptfr8LNr1rupalQ2yRDT3LSLWamp7ZQjIIV3JIbjgLrfNWwoCvl1O2Q_aZ6dRnz5wpAq1JbFHZXeWeMbb2xyv-ebfCt0AVMzY4W)
@@ -52,8 +48,6 @@ Opens a new screen after button is clicked
 | Enabled | If checked, button functionality is enabled |
 | Got Focus | User's finger is over the button, making it possible to click |
 | Lost Focus | User's finder is away from the button, making it no longer possible to click |
-
-
 
 
 
