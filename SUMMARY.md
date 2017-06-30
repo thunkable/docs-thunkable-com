@@ -19,6 +19,7 @@
   * [Sample apps](thunkable-for-android/sample-apps.md)
   * [Components](components.md)
     * [Button](components/user-interface.md)
+    * [Screen](components/screen.md)
   * [Extensions](thunkable-for-android/extensions.md)
   * [Built in Blocks](thunkable-for-android/blocks.md)
     * [Control](thunkable-for-android/blocks/control.md)
