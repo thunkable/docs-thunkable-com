@@ -16,13 +16,15 @@ Screens are where you set layouts and program navigation. Screen1 is also where 
 
 ---
 
-### App settings \(Screen1 Only\)
+### App settings\* \(Screen1 Only\)
 
 | Property | Description |
 | :--- | :--- |
-| App Name\* | Name of the app as it appears below the icon on the phone. Will be set to the project name initially. |
-| Icon\* | App icon -- the recommended app icon size is 96 px by 96 px |
-|  |  |
+| App Name | Name of the app as it appears below the icon on the phone. Will be set to the project name initially. |
+| Icon | App icon -- the recommended app icon size is 96 px by 96 px |
+| Sizing | If set to responsive \(recommended\), screen layouts will autoscale to the size of the screen. Components should be sized to 'percent' height and width. If set to fixed, screen layouts will be created for a single fixed-sized screen and components should be sized to 'pixels' height and width |
+| Version Name | Description which helps users distinguish between different versions of your app on the Google Play Store |
+| Version Code | An integer value which must be incremented each time a new .apk is created for the Google Play Store |
 
 \*Can only be set in the Designer
 
@@ -32,9 +34,10 @@ Screens are where you set layouts and program navigation. Screen1 is also where 
 
 | Property | Description |
 | :--- | :--- |
-| About Screen | Appears when "About this Application" is selected from the system menu. The title must be visible |
+| Title |  |
 | Title |  |
 |  |  |
+| About Screen | Appears when "About this Application" is selected from the system menu. The title must be visib |
 |  |  |
 |  |  |
 |  |  |
@@ -45,7 +48,20 @@ Screens are where you set layouts and program navigation. Screen1 is also where 
 |  |  |
 |  |  |
 |  |  |
-|  |  |
+
+TitleVisible
+
+The title bar is the top gray bar on the screen. This property reports whether the title bar is visible.
+
+Title
+
+The caption for the form, which appears in the title bar.
+
+ShowStatusBar
+
+The status bar is the topmost bar on the screen. This property reports whether the status bar is visible.
+
+
 
 Align Horizontal
 
@@ -75,31 +91,5 @@ Scrollable
 
 When checked, there will be a vertical scrollbar on the screen, and the height of the application can exceed the physical height of the device. When unchecked, the application height is constrained to the height of the device.
 
-ShowStatusBar
 
-The status bar is the topmost bar on the screen. This property reports whether the status bar is visible.
-
-Sizing \(designer only\)
-
-If set to fixed, screen layouts will be created for a single fixed-size screen and autoscaled. If set to responsive, screen layouts will use the actual resolution of the device. See the documentation on responsive design in Thunkable for more information. This property appears on Screen1 only and controls the sizing for all screens in the app.
-
-TitleVisible
-
-The title bar is the top gray bar on the screen. This property reports whether the title bar is visible.
-
-Title
-
-The caption for the form, which appears in the title bar.
-
-VersionCode \(designer only\)
-
-An integer value which must be incremented each time a new Android Application Package File \(APK\) is created for the Google Play Store.
-
-VersionName \(designer only\)
-
-A string which can be changed to allow Google Play Store users to distinguish between different versions of the App.
-
-Width
-
-Screen width \(x-size\).
 
