@@ -42,24 +42,22 @@ Screens are where you set layouts, program the initial opening of the app and th
 | Alight Vertical | Center, Top or Bottom |
 | Background Image | You can upload an image to your app or reference an image url |
 | Background Color | Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Scrollable | If checked, there will be a vertical scrollbar on the screen. If unchecked, the app height is limited to the height of the device |
+| Screen Orientation | Unspecified \(default\), Portrait, Landscape, Sensor and User |
+| Open Screen Animation | Default, Fade, Zoom, Slide Horizontal, Slide Vertical and None |
+| Close Screen Animation | Default, Fade, Zoom, Slide Horizontal, Slide Vertical and None |
 
-Close Screen Animation
+---
 
-The animation for closing current screen and returning to the previous screen. Valid options are default, fade, zoom, slidehorizontal, slidevertical, and none.
+### Events
 
-OpenScreenAnimation
+| Event | Description |
+| :--- | :--- |
+| Initialize | If Screen1, starts all events when the app is open. If another screen, starts all events when that screen is open |
+| Back Pressed | When the device's back button is pressed |
+| Other Screen Closed \(otherScreenName, result\) | When another screen has closed and control has returned to this screen |
+| Error Occurred \(component, functionName, errorNumber, message\) | When an error occurs -- only some errors will trigger this event |
+| Screen Orientation Changed | When screen orientation changes |
 
-The animation for switching to another screen. Valid options are default, fade, zoom, slidehorizontal, slidevertical, and none.
 
-ScreenOrientation
-
-The requested screen orientation, specified as a text value. Commonly used values are landscape, portrait, sensor, user and unspecified. See the Android developer documentation for ActivityInfo.Screen\_Orientation for the complete list of possible settings.
-
-Scrollable
-
-When checked, there will be a vertical scrollbar on the screen, and the height of the application can exceed the physical height of the device. When unchecked, the application height is constrained to the height of the device.
 
