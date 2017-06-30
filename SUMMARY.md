@@ -23,5 +23,5 @@
   * [Extensions](thunkable-for-android/extensions.md)
   * [Built in Blocks](thunkable-for-android/blocks.md)
     * [Control](thunkable-for-android/blocks/control.md)
-  * Extensions
+  * [Advanced](thunkable-for-android/advanced.md)
 
