@@ -69,38 +69,41 @@ Opens a new screen after button is clicked
   * Font family for button text
 
 * **ShowFeedback**
+
   * Specifies if a visual feedback should be shown for a button that as an image as background
 
 * **Visible**
+
   * Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
 ---
 
 #### Functionality
 
-
-
-* **Enabled**
-  * If set, user can tap check box to cause action
-
 * **Click\(\)**
-  * User tapped and released the button
 
-* **GotFocus\(\)**
-  * Indicates the cursor moved over the button so it is now possible to click it
+  * * User tapped and released the button
 
 * **LongClick\(\)**
+
   * User held the button down
 
-**LostFocus\(\)**
+* **TouchDown\(\)**
+  * Indicates that the button was pressed down
 
-Indicates the cursor moved away from the button so it is now no longer possible to click it
+* **TouchUp\(\)**
+  * Indicates that a button has been released
 
-**TouchDown\(\)**
+* **Enabled**
 
-Indicates that the button was pressed down
+  * If set, user can tap check box to cause action
 
-**TouchUp\(\)**
+* **GotFocus\(\)**
 
-Indicates that a button has been released
+  * Indicates the cursor moved over the button so it is now possible to click it
+
+* **LostFocus\(\)**
+  * Indicates the cursor moved away from the button so it is now no longer possible to click it
+
+
 
