@@ -4,6 +4,21 @@
 
 ---
 
+### Set-up
+
+Here are the _minimum_ requirements for publishing to the Google Play Store:
+
+* Google Play Developer account \($25 one-time registration fee\)
+* Assets
+  * App icon at 512 px by 512 px
+  * 
+
+---
+
+### Package name
+
+---
+
 ### **Version Your App**
 
 Every app you publish must have a`VersionCode`and a`VersionName`. You can set these in the designer under the properties panel for the`Screen1`component.
