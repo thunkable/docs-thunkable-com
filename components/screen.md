@@ -6,7 +6,7 @@
 
 Screens are natural ways to break up your apps so that they are more digestible to your users. On Thunkable, there is a limit of 10 screens per app.
 
-Screens are where you set layouts and program navigation. Screen1 is also where you set many of your app level properties.
+Screens are where you set layouts, program the initial opening of the app and the navigation. Screen1 is also where you set many of your app level properties.
 
 ---
 
@@ -34,46 +34,18 @@ Screens are where you set layouts and program navigation. Screen1 is also where 
 
 | Property | Description |
 | :--- | :--- |
-| Title |  |
-| Title |  |
-|  |  |
-| About Screen | Appears when "About this Application" is selected from the system menu. The title must be visib |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Title | Displayed on title bar |
+| Title Visible | If checked, shows a default \(gray\) title bar on the screen |
+| About Screen | Appears when "About this Application" is selected from the system menu. The title must be visible for this screen to be visible |
+| Show Status Bar | If checked, shows the top most bar on the screen which displays time, battery etc |
+| Alight Horizontal | Center, Left or Right |
+| Alight Vertical | Center, Top or Bottom |
+| Background Image | You can upload an image to your app or reference an image url |
+| Background Color | Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-
-TitleVisible
-
-The title bar is the top gray bar on the screen. This property reports whether the title bar is visible.
-
-Title
-
-The caption for the form, which appears in the title bar.
-
-ShowStatusBar
-
-The status bar is the topmost bar on the screen. This property reports whether the status bar is visible.
-
-
-
-Align Horizontal
-
-A number that encodes how contents of the screen are aligned horizontally. The choices are: 1 = left aligned, 2 = horizontally centered, 3 = right aligned.
-
-Align Vertical
-
-A number that encodes how the contents of the arrangement are aligned vertically. The choices are: 1 = aligned at the top, 2 = vertically centered, 3 = aligned at the bottom. Vertical alignment has no effect if the screen is scrollable.
-
-Background Image
-
-The screen background image.
 
 Close Screen Animation
 
@@ -90,6 +62,4 @@ The requested screen orientation, specified as a text value. Commonly used value
 Scrollable
 
 When checked, there will be a vertical scrollbar on the screen, and the height of the application can exceed the physical height of the device. When unchecked, the application height is constrained to the height of the device.
-
-
 
