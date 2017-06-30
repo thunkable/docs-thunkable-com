@@ -10,11 +10,11 @@ Although the size of apps is 10MB, we recommend the following sizes for app icon
 
 * 96 px by 96 px
 
-We have seen apps crashing with larger app icon sizes.  
+We have seen apps crashing with larger app icon sizes.
 
 ---
 
-### How to change your app icon and name
+### How to change your app icon, name and title
 
 In the Designer, click on "Screen 1" in the "Components" section
 
