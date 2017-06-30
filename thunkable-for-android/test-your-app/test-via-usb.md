@@ -6,7 +6,7 @@
 
 |  | Strong and steady Wi-Fi | Weak or intermittent Wi-Fi |
 | :--- | :--- | :--- |
-| _Thunkable recommendation_ | Test via Wi-Fi | Test via USB |
+| Thunkable recommendation | Test via Wi-Fi | Test via USB |
 
 ---
 
