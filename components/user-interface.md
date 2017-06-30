@@ -25,9 +25,11 @@ Opens a new screen after button is clicked
   * Button height in pixels, percent, 'Automatic' or 'Fill'
 
 * **Width**
+
   * Button width in pixels, percent, 'Automatic' or 'Fill'
 
 * **Shape\***
+
   * Specifies the button's shape \(default, rounded, rectangular, oval\). The shape will not be visible if an Image is being displayed
 
 * **BackgroundColor**
@@ -39,12 +41,15 @@ Opens a new screen after button is clicked
   * Image to display on button. You can upload an image or reference an image url
 
 * **Text**
+
   * You have the option to add text to display on button.  Text is not recommended if you have an image
 
 * **TextAlignment\***
+
   * Align left, center, or right
 
 * **TextColor**
+
   * Color for button text
 
 * **FontBold**
@@ -63,53 +68,39 @@ Opens a new screen after button is clicked
 
   * Font family for button text
 
+* **ShowFeedback**
+  * Specifies if a visual feedback should be shown for a button that as an image as background
 
-
-
-
-ShowFeedback
-
-Specifies if a visual feedback should be shown for a button that as an image as background.
-
-
-
-Visible
-
-Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
-
-
-
-
+* **Visible**
+  * Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
 ---
 
 #### Functionality
 
-**Enabled**
 
-* If set, user can tap check box to cause action
 
-Click\(\)
+* **Enabled**
+  * If set, user can tap check box to cause action
 
-User tapped and released the button.
+* **Click\(\)**
+  * User tapped and released the button
 
-GotFocus\(\)
+* **GotFocus\(\)**
+  * Indicates the cursor moved over the button so it is now possible to click it
 
-Indicates the cursor moved over the button so it is now possible to click it.
+* **LongClick\(\)**
+  * User held the button down
 
-LongClick\(\)
+**LostFocus\(\)**
 
-User held the button down.
+Indicates the cursor moved away from the button so it is now no longer possible to click it
 
-LostFocus\(\)
+**TouchDown\(\)**
 
-Indicates the cursor moved away from the button so it is now no longer possible to click it.
+Indicates that the button was pressed down
 
-TouchDown\(\)
+**TouchUp\(\)**
 
-Indicates that the button was pressed down.
-
-TouchUp\(\)
-
-Indicates that a button has been released.
+Indicates that a button has been released
 
