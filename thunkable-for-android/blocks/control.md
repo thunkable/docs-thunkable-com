@@ -4,21 +4,36 @@
 
 ---
 
-* [if & if else](https://thunkable.com/explore/ai2/support/blocks/control.html#if)
-* [for each from to](https://thunkable.com/explore/ai2/support/blocks/control.html#forrange)
-* [for each in list](https://thunkable.com/explore/ai2/support/blocks/control.html#foreach)
-* [while](https://thunkable.com/explore/ai2/support/blocks/control.html#while)
-* [if then else](https://thunkable.com/explore/ai2/support/blocks/control.html#choose)
-* [do](https://thunkable.com/explore/ai2/support/blocks/control.html#doreturn)
-* [evaluate but ignore result](https://thunkable.com/explore/ai2/support/blocks/control.html#evaluate)
-* [open another screen](https://thunkable.com/explore/ai2/support/blocks/control.html#openscreen)
-* [open another screen with start value](https://thunkable.com/explore/ai2/support/blocks/control.html#openscreenwithvalue)
-* [get start value](https://thunkable.com/explore/ai2/support/blocks/control.html#getstartvalue)
-* [close screen](https://thunkable.com/explore/ai2/support/blocks/control.html#closescreen)
-* [close screen with value](https://thunkable.com/explore/ai2/support/blocks/control.html#closescreenwithvalue)
-* [close application](https://thunkable.com/explore/ai2/support/blocks/control.html#closeapp)
-* [get plain start text](https://thunkable.com/explore/ai2/support/blocks/control.html#getplainstarttext)
-* [close screen with plain text](https://thunkable.com/explore/ai2/support/blocks/control.html#closescreenwithplaintext)
+Control blocks are frequently used blocks for _adding conditions or logic on when an event happens_ i.e. if this, then and _navigating between screens_
+
+### Popular block snippets
+
+
+
+---
+
+### Control block types
+
+_Conditional and logic operators for events_
+
+* [if & if else](#if)
+* for each from to
+* for each in list
+* while
+* if then else
+* do
+* evaluate but ignore result
+
+_Screen navigation_
+
+* open another screen
+* open another screen with start value
+* get start value
+* close screen
+* close screen with value
+* close application
+* get plain start text
+* close screen with plain text
 
 ---
 

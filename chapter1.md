@@ -2,7 +2,9 @@
 
 ![](/assets/stevejeaver.png)
 
-"**Thunk different" - Steve Jeaver**
+"**Thunk different" **_- Steve Jeaver_
+
+---
 
 
 
