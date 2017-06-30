@@ -6,144 +6,110 @@
 
 Buttons are a key input for many apps and one of the most popular components on Thunkable. Many aspects of its appearance can be changed and different events can be triggered with different types of clicks - regular, long and touch up or touch down.
 
-####  Properties
+### Block snippets
 
-**BackgroundColor**
+![](https://lh6.googleusercontent.com/-eX4BJE0wpzpN0AcnFV2uxnemnpNmNgD57UV8ptfr8LNr1rupalQ2yRDT3LSLWamp7ZQjIIV3JIbjgLrfNWwoCvl1O2Q_aZ6dRnz5wpAq1JbFHZXeWeMbb2xyv-ebfCt0AVMzY4W)
 
-* Returns the button's background color
+Opens a new screen after button is clicked
 
-**Enabled**
+---
 
-* If set, user can tap check box to cause action.
+### Properties
 
-**FontBold**
+\*Can only be set in the Designer only
 
-* If set, button text is displayed in bold.
+#### **Appearance**
 
-**FontItalic**
+* **Height**
 
-* If set, button text is displayed in italics.
+  * Button height in pixels, percent, 'Automatic' or 'Fill'
 
-  
+* **Width**
+  * Button width in pixels, percent, 'Automatic' or 'Fill'
+
+* **Shape\***
+  * Specifies the button's shape \(default, rounded, rectangular, oval\). The shape will not be visible if an Image is being displayed
+
+* **BackgroundColor**
+
+  * Returns the button's background color.  The default color is Gray
+
+* **Image**
+
+  * Image to display on button. You can upload an image or reference an image url
+
+* **Text**
+  * You have the option to add text to display on button.  Text is not recommended if you have an image
+
+* **TextAlignment\***
+  * Align left, center, or right
+
+* **TextColor**
+  * Color for button text
+
+* **FontBold**
+
+  * If set, button text is displayed in bold
+
+* **FontItalic**
+
+  * If set, button text is displayed in italics
+
+* **FontSize**
+
+  * Point size for button text
+
+* **FontTypeface\***
+
+  * Font family for button text
 
 
-FontSize
 
-Point size for button text.
-
-  
-
-
-FontTypeface \(designer only\)
-
-Font family for button text.
-
-  
-
-
-Height
-
-Button height \(y-size\).
-
-  
-
-
-Image
-
-Image to display on button.
-
-  
-
-
-Shape \(designer only\)
-
-Specifies the button's shape \(default, rounded, rectangular, oval\). The shape will not be visible if an Image is being displayed.
-
-  
 
 
 ShowFeedback
 
 Specifies if a visual feedback should be shown for a button that as an image as background.
 
-  
-
-
-Text
-
-Text to display on button.
-
-  
-
-
-TextAlignment \(designer only\)
-
-Left, center, or right.
-
-  
-
-
-TextColor
-
-Color for button text.
-
-  
 
 
 Visible
 
 Specifies whether the component should be visible on the screen. Value is true if the component is showing and false if hidden.
 
-  
 
 
-Width
-
-Button width \(x-size\).
-
-  
 
 
-• Events
+---
+
+#### Functionality
+
+**Enabled**
+
+* If set, user can tap check box to cause action
 
 Click\(\)
 
 User tapped and released the button.
 
-  
-
-
 GotFocus\(\)
 
 Indicates the cursor moved over the button so it is now possible to click it.
-
-  
-
 
 LongClick\(\)
 
 User held the button down.
 
-  
-
-
 LostFocus\(\)
 
 Indicates the cursor moved away from the button so it is now no longer possible to click it.
-
-  
-
 
 TouchDown\(\)
 
 Indicates that the button was pressed down.
 
-  
-
-
 TouchUp\(\)
 
 Indicates that a button has been released.
-
-
 
