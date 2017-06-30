@@ -6,7 +6,7 @@
 
 Buttons are a key input for many apps and one of the most popular components on Thunkable. Many aspects of its appearance can be changed and different events can be triggered with different types of clicks - regular, long and touch up or touch down.
 
-### Block snippets
+### Block snippet
 
 ![](https://lh6.googleusercontent.com/-eX4BJE0wpzpN0AcnFV2uxnemnpNmNgD57UV8ptfr8LNr1rupalQ2yRDT3LSLWamp7ZQjIIV3JIbjgLrfNWwoCvl1O2Q_aZ6dRnz5wpAq1JbFHZXeWeMbb2xyv-ebfCt0AVMzY4W)
 
@@ -89,9 +89,11 @@ Opens a new screen after button is clicked
   * User held the button down
 
 * **TouchDown\(\)**
+
   * Indicates that the button was pressed down
 
 * **TouchUp\(\)**
+
   * Indicates that a button has been released
 
 * **Enabled**
@@ -103,6 +105,7 @@ Opens a new screen after button is clicked
   * Indicates the cursor moved over the button so it is now possible to click it
 
 * **LostFocus\(\)**
+
   * Indicates the cursor moved away from the button so it is now no longer possible to click it
 
 
