@@ -95,5 +95,5 @@ Android ❤
 | :--- | :--- | :--- |
 | [Join our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | ![](/assets/Webp.net-resizeimage %281%29.png) Click on this icon to ask us anything | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com) |
 
-
+![](/assets/logo-thunkable.png)
 
