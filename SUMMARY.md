@@ -8,6 +8,7 @@
   * [Advanced](chapter1/advanced.md)
 * [❤ Thunkable for Android](thunkable-for-android.md)
   * [Set-up](thunkable-for-android/set-up.md)
+    * [Login issues](thunkable-for-android/set-up/login-issues.md)
   * [Create your app](thunkable-for-android/create-your-app.md)
   * [Test your app live](thunkable-for-android/test-your-app.md)
     * [Test via USB](thunkable-for-android/test-your-app/test-via-usb.md)

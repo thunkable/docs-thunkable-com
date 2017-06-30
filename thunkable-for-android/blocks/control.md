@@ -8,10 +8,6 @@ Control blocks are frequently used blocks for _adding conditions or logic on whe
 
 ### Popular block snippets
 
-
-
-
-
 Opens a new screen after button is clicked
 
 ---
@@ -29,14 +25,14 @@ Opens a new screen after button is clicked
 
 **Screen navigation**
 
-* open another screen
-* open another screen with start value
-* get start value
-* close screen
-* close screen with value
-* close application
-* get plain start text
-* close screen with plain text
+* [open another screen](#open-screen)
+* [open another screen with start value](#open-screen-value)
+* [get start value](#get-start-value)
+* [close screen](#close-screen)
+* [close screen with value](#close-screen-value)
+* [close application](#close-app)
+* [get plain start text](#get-plain-start-text)
+* [close screen with plain text](/close screen with plain text)
 
 ---
 
@@ -86,51 +82,49 @@ Use this block when trying to trigger an event but the blocks may not seem to fi
 
 Provides a "dummy socket" for fitting a block that has a plug on its left into a place where there is no socket, such as one of the sequence of blocks in the do part of a procedure or an if block. The block you fit in will be run, but its returned result will be ignored. This can be useful if you define a procedure that returns a result, but want to call it in a context that does not accept a result.
 
-### open another screen {#openscreen}
+### open another screen {#open-screen}
 
 ![](https://thunkable.com/explore/img/blocks/control/openscreen.png)
 
 Opens the screen with the provided name.
 
-### open another screen with start value {#openscreenwithvalue}
+### open another screen with start value {#open-screen-value}
 
 ![](https://thunkable.com/explore/img/blocks/control/openscreenwithvalue.png)
 
 Opens another screen and passes a value to it.
 
-### get start value {#getstartvalue}
+### get start value {#get-start-value}
 
 ![](https://thunkable.com/explore/img/blocks/control/getstartvalue.png)
 
-Returns the start value given to the current screen.
+Returns the start value given to the current screen.This value is given from using open another screen with start value or close screen with value
 
-This value is given from usingopen another screen with start valueorclose screen with value.
-
-### close screen {#closescreen}
+### close screen {#close-screen}
 
 ![](https://thunkable.com/explore/img/blocks/control/closescreen.png)
 
-Closes the current screen.
+Closes the current screen
 
-### close screen with value {#closescreenwithvalue}
+### close screen with value {#close-screen-value}
 
 ![](https://thunkable.com/explore/img/blocks/control/closescreenwithvalue.png)
 
 Closes the current screen and returns a value to the screen that opened this one
 
-### close application {#closeapp}
+### close application {#close-app}
 
 ![](https://thunkable.com/explore/img/blocks/control/closeapp.png)
 
-Closes the application.
+Closes the application
 
-### get plain start text {#getplainstarttext}
+### get plain start text {#get-plain-start-text}
 
 ![](https://thunkable.com/explore/img/blocks/control/getplainstarttext.png)
 
 Returns the plain text that was passed to this screen when it was started by another app. If no value was passed, it returns the empty text. For multiple screen apps, use get start value rather than get plain start text
 
-### close screen with plain text {#closescreenwithplaintext}
+### close screen with plain text {#close-screen-with-plain-text}
 
 ![](https://thunkable.com/explore/img/blocks/control/closescreenwithplaintext.png)
 
