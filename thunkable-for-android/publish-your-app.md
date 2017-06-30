@@ -8,10 +8,11 @@
 
 Here are the _minimum_ requirements for publishing to the Google Play Store:
 
-* Google Play Developer account \($25 one-time registration fee\)
+* [Google Play Developer account](https://play.google.com/apps/publish/signup/) \($25 one-time registration fee\)
 * Assets
   * App icon at 512 px by 512 px
-  * Feature graphic at 1024 px by 
+  * Feature graphic at 1024 px by 500 px
+  * Screenshots
 
 ---
 

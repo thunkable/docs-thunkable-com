@@ -6,7 +6,7 @@
 
 We are working hard to make Thunkable’s service compatible with any browser that you currently use but if you are having trouble logging into our service, you may need to adjust your browser settings or in some cases, use a new browser.
 
-|  | Compatible with Thunkable | _Not _compatible with Thunkable |
+|  | Compatible with Thunkable | Not compatible with Thunkable |
 | :--- | :--- | :--- |
 | Browser | Chrome, Firefox or Safari | Microsoft Internet Explorer or Edge Web Browser |
 | Cookies | Cookies enabled in the browser | Cookies disabled in the browser |
@@ -18,7 +18,7 @@ We are working hard to make Thunkable’s service compatible with any browser th
 
 To enable cookies, please follow the directions below:
 
-### **Chrome** 
+### **Chrome**
 
 * You will need to have settings like the one below.  More info [here](https://support.google.com/accounts/answer/61416?hl=en).
 
