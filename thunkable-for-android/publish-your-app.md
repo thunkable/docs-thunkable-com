@@ -18,6 +18,12 @@ Here are the _minimum_ requirements for publishing to the Google Play Store:
 
 ### Package name
 
+The package name for all apps built completely on Thunkable:
+
+* com.thunkable.android.{username}.{appname}
+
+Currently, there is no way to customize your package name \(which is visible on the Google Play store url\)
+
 ---
 
 ### **Version Your App**
