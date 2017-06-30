@@ -1,4 +1,6 @@
-#### **Thunkable for iOS **
+#### ![](/assets/logo-thunkable.png)
+
+#### Thunkable **for iOS **
 
 # **Set-up**
 
