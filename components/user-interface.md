@@ -16,7 +16,7 @@ Opens a new screen after button is clicked
 
 ### Properties
 
-\*Can only be set in the Designer only
+\*Can only be set in the Designer
 
 #### **Appearance**
 
