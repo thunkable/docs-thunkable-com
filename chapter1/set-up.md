@@ -1,4 +1,4 @@
-#### ![](/assets/logo-thunkable.png)
+
 
 #### Thunkable **for iOS **
 
