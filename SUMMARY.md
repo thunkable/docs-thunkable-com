@@ -17,10 +17,10 @@
   * [Share your app](thunkable-for-android/share-your-app.md)
   * [Publish your app](thunkable-for-android/publish-your-app.md)
   * [Sample apps](thunkable-for-android/sample-apps.md)
-  * [Blocks](thunkable-for-android/blocks.md)
-    * [Control](thunkable-for-android/blocks/control.md)
   * [Components](components.md)
     * [Button](components/user-interface.md)
-  * [Advanced](thunkable-for-android/advanced.md)
-    * [Import from App Inventor](thunkable-for-android/advanced/import-from-app-inventor.md)
+  * [Extensions](thunkable-for-android/extensions.md)
+  * [Built in Blocks](thunkable-for-android/blocks.md)
+    * [Control](thunkable-for-android/blocks/control.md)
+  * Extensions
 
