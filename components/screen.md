@@ -10,39 +10,42 @@ Screens are where you set layouts and program navigation. Screen1 is also where 
 
 ---
 
-### App settings \(Screen 1 Only\)
+### How to add a screen
+
+![](https://lh6.googleusercontent.com/1oEzLB4YgohJ9xkkqyOox_Ljr9gbVxreM8EfuVqC0LX0jni6rhmNbBvZzbrqCCng0dHfeKh_g2bPthx2pfKrTpHZx3jOpAel5K_zXQPs3UyabZ1dYzq0VD4ikRJ0krCWMPZkpJZg)
+
+---
+
+### App settings \(Screen1 Only\)
 
 | Property | Description |
 | :--- | :--- |
+| App Name\* | Name of the app as it appears below the icon on the phone. Will be set to the project name initially. |
+| Icon\* | App icon -- the recommended app icon size is 96 px by 96 px |
 |  |  |
-|  |  |
-
-### Appearance and layout
-
-| Property | Description |
-| :--- | :--- |
-| Height | Button height in pixels, percent, 'Automatic' or 'Fill' |
-| Width | Button width in pixels, percent, 'Automatic' or 'Fill' |
-| Shape\* | Default \(rectangle\), rounded, rectangular or oval.  The shape will not be visible if an Image is being displayed |
-| Background Color | Default \(Gray\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
-| Image | You can upload an image to your app or reference an image url. If an image is uploaded, it will negate the background color and shape properties |
-| Text | Optional text that will display on the button |
-| Text Color | Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
-| Text Alignment\* | Left, center \(recommended\) or right |
-| Font Bold | If checked, button text is displayed in **bold** |
-| Font Italic | If checked, button text is displayed in _italic_ |
-| Font Size | Point size for button text |
-| Font Typeface\* | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
-| Show Feedback | If checked, shows visual feedback for a button with an image displayed |
-| Visible | If checked, the button will be visible on the screen. |
 
 \*Can only be set in the Designer
 
+---
 
+### Appearance, layout & animations
 
-About Screen
-
-Information about the screen. It appears when "About this Application" is selected from the system menu. Use it to tell users about your app. In multiple screen apps, each screen has its own AboutScreen info.
+| Property | Description |
+| :--- | :--- |
+| About Screen | Appears when "About this Application" is selected from the system menu. The title must be visible |
+| Title |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 Align Horizontal
 
@@ -52,23 +55,13 @@ Align Vertical
 
 A number that encodes how the contents of the arrangement are aligned vertically. The choices are: 1 = aligned at the top, 2 = vertically centered, 3 = aligned at the bottom. Vertical alignment has no effect if the screen is scrollable.
 
-App Name\* \(designer only\)
-
-This is the display name of the installed application in the phone. If the AppName is blank, it will be set to the name of the project when the project is built.
-
-BackgroundImage
+Background Image
 
 The screen background image.
 
-CloseScreenAnimation
+Close Screen Animation
 
 The animation for closing current screen and returning to the previous screen. Valid options are default, fade, zoom, slidehorizontal, slidevertical, and none.
-
-Height
-
-Screen height \(y-size\).
-
-Icon \(designer only\)
 
 OpenScreenAnimation
 
