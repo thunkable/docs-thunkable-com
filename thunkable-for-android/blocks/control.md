@@ -10,21 +10,24 @@ Control blocks are frequently used blocks for _adding conditions or logic on whe
 
 
 
+
+
+Opens a new screen after button is clicked
+
 ---
 
 ### Control block types
 
-_Conditional and logic operators for events_
+**Conditional and logic operators for events**
 
 * [if & if else](#if)
-* for each from to
-* for each in list
-* while
-* if then else
-* do
-* evaluate but ignore result
+* [for each from to](#for-each-from-to)
+* [for each in list](#for-each-in-list)
+* [while](#while)
+* [do](#do-this)
+* [evaluate but ignore result](#evaluate-but-ignore)
 
-_Screen navigation_
+**Screen navigation**
 
 * open another screen
 * open another screen with start value
@@ -51,17 +54,17 @@ Tests a given condition. If the result is true, performs the actions in the -do 
 
 Tests a given condition. If the result is true, performs the actions in the -do sequence of blocks; otherwise tests the statement in the -else if section. If the result is true, performs the actions in the -do sequence of blocks; otherwise, performs the actions in the -else sequence of blocks.
 
-### for each from to {#forrange}
+### for each from to {#for-each-from-to}
 
 ![](https://thunkable.com/explore/img/blocks/control/forrange.png)
 
-Runs the blocks in the do section for each numeric value in the range starting atfrom\_and ending at\_to, incrementing\_number\_by the value of\_by\_each time. Use the given variable name,\_number\_to refer to the current value. You can change the name\_number\_to something else if you wish.
+Great for loops, or repetitions of events. Runs the blocks in the do section for each numeric value in the range and incrementing by a certain range. You can change the `number` to something else if you wish.
 
-### for each in list {#foreach}
+### for each in list {#for-each-in-list}
 
 ![](https://thunkable.com/explore/img/blocks/control/foreach.png)
 
-Runs the blocks in the do section for each item in the list. Use the given variable name,item, to refer to the current list item. You can change the name\_item\_to something else if you wish.
+Great for loops, or repetitions of events.  Runs the blocks in the do section for each item in the list. You can change the `item` to something else if you wish.
 
 ### while {#while}
 
@@ -69,21 +72,17 @@ Runs the blocks in the do section for each item in the list. Use the given varia
 
 Tests the -test condition. If true, performs the action given in -do , then tests again. When test is false, the block ends and the action given in -do is no longer performed.
 
-### if then else {#choose}
-
-![](https://thunkable.com/explore/img/blocks/control/choose.png)
-
-Tests a given condition. If the statement is true, performs the actions in the then-return sequence of blocks and returns the then-return value; otherwise, performs the actions in the else-return sequence of blocks and returns the else-return value.
-
-### do {#doreturn}
+### do {#do-this}
 
 ![](https://thunkable.com/explore/img/blocks/control/doreturn.png)
 
 Sometimes in a procedure or another block of code, you may need to do something and return something, but for various reasons you may choose to use this block instead of creating a new procedure.
 
-### evaluate but ignore result {#evaluate}
+### evaluate but ignore result {#evaluate-but-ignore}
 
 ![](https://thunkable.com/explore/img/blocks/control/evaluate.png)
+
+Use this block when trying to trigger an event but the blocks may not seem to fit together.
 
 Provides a "dummy socket" for fitting a block that has a plug on its left into a place where there is no socket, such as one of the sequence of blocks in the do part of a procedure or an if block. The block you fit in will be run, but its returned result will be ignored. This can be useful if you define a procedure that returns a result, but want to call it in a context that does not accept a result.
 
