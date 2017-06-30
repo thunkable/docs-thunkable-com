@@ -4,11 +4,10 @@
 
 ---
 
-Games
-
-* * [Inside 2016: Latest Trends in India](#) created by Nimesh Kumar from Delhi, India \#bestapps2016
-
+* Games
+  * [Inside 2016: Latest Trends in India](#) created by Nimesh Kumar from Delhi, India \#bestapps2016
   * [Rock, Paper, Scissors, Lizard, Spock](#) created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016
+
 * Social
 
   * [Thunkableagram: AI-powered Instagram](#) created by Albert from Honolulu, Hawaii, [learn more on our blog](#)
