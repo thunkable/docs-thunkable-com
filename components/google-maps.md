@@ -72,17 +72,15 @@ Sets up map with a custom 'white' and 'gray' style![](/assets/maps-styling-block
 
 | Event | Description |
 | :--- | :--- |
-| OnLocation Changed\* | When Google Map senses a location change. The Google Maps location sensor is highly sensitive even when the user is stationary so this event becomes a |
-|  | Width in pixels, percent, 'Automatic' or 'Fill' |
-| Zoom Level | 1 to 20 where 1 is most zoomed out.  We recommend zoom levels between 13 and 16 |
-| Angle \(degrees\) | Tilt of the map from 0 to 90 degrees. We recommend tilts of 45 to 75 degrees and a Zoom Level of 16 for more immersive apps |
+| Add Standard Marker \(lat, lng, color, title, snippet, draggable\) | Adds a standard marker based on specifications. Lat is latitude in decimal degrees \(between -90 and 90\), lng is longitude in decimal degrees \(between -180 and 180\), color is the color the marker, title is the headline and the snippet is the subtitle. Note: The draggable property can be set to 'true' or 'false' but it does not work on a mobile device |
+| Add a Custom Marker \(lat, lng, icon, title, snippet, draggable\) | Same as standard marker except icon is replaced by color. We recommend that map icons be 48 px by 48 px |
+| Add Circle \(lat, lng, radius, alpha, hue, strokeWidth, strokeColor, draggable\) | Same as markers except radius is the radius of the circle in meters, alpha is the opacity of the fill from 0 to 100 \(100 is fully opaque\), hue is the color of the fill, strokeWidth is the width of the circle outline in pixels, and strokeColor is the color of the circle outline |
+|  |  |
 |  |  |
 
 
 
-Add Standard Marker \(lat, lng, color, title, snippet, draggable\)
 
-Adds a standard marker based on specifications.  Lat is latitude, lng is longitude, color is the color of the marker, title is the bold headline for the marker, and snippet is the subtitle. Note: The draggable property does not work on a mobile device.
 
 
 
