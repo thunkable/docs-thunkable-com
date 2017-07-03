@@ -44,6 +44,9 @@ Centers map on user location as depicted by blue dot
 | Theme | 'standard' \(default\), 'silver', 'retro', 'dark', 'night' & 'aubergine'. MapType must be set to 'normal' \(default\) for themes to be enabled |
 | Style \(json\)\* | Map style can be customized using a [Styling Wizard](https://mapstyle.withgoogle.com/) and importing the style JSON \(see example below\) |
 | Enable Compass\* | If 'true', adds a compass to the map |
+| Enable Rotate\* | If 'true', allows user to rotate the map  |
+| Enable Scroll\* | If 'true', allows user to scroll up and down the map  |
+| Enable ZoomControl\* | If 'true', displays '+' and '-' buttons for changing zoom level on the map |
 
 \*Can only be set in the Blocks
 
@@ -89,11 +92,24 @@ Sets up map with a custom 'white' and 'gray' style![](/assets/maps-styling-block
 | Enable MapLongClickListener | If 'true', enables an event when a user long presses on the map |
 | On MapClick | Triggers an event e.g. add marker when a user taps on the map. Enable MapClickListener must be set to 'true' |
 | On MapLongClick | Triggers an event e.g. add marker when a user long presses on the map. Enable MapLongClickListener must be set to 'true |
-| On MarkerClick | Triggers an event when a marker is touched |
 
 | Standard marker | Custom marker | Circle | Polyline |
 | :--- | :--- | :--- | :--- |
 | ![](/assets/add-marker-standard.jpg) | ![](/assets/add-marker-custom.jpg) | ![](/assets/add-circle.png) | ![](/assets/add-polyline.jpg) |
+
+#### Removing Markers, Circles and Polylines before you add a new one {#markers-json}
+
+Google maps does not remove any marker, circle or polyline you have added to your map which can quickly clutter up your map. We recommend that in many cases, you create a function for removing existing markers, circles or polylines before you add new ones like the one below:
+
+![](/assets/remove-markers.png)
+
+#### **Add Standard Marker**
+
+![](/assets/add-marker-standard-blocks.png)
+
+#### **Add Custom Marker**
+
+![](/assets/add-custom-marker-blocks.png)
 
 #### Add Markers From JSON string format {#markers-json}
 
@@ -104,6 +120,16 @@ string = `[{lat: 37.77, lng: 122.42, color: 210, title: Power Thunker}, {lat: 37
 Custom markers
 
 string = `[{lat: 37.77, lng: 122.42, icon: icon-thunkablemapsmall.png, title: Power Thunker}, {lat: 37.78, lng: 122.58, icon: icon-thunkablemapsmall.png, title: New Thunker}, {lat: 37.85, lng: 122.65, icon: icon-thunkablemapsmall.png, title: Funny Thunker}]`
+
+#### Add Circle {#markers-json}
+
+![](/assets/add-circle-blocks.png)
+
+#### Add Polyline Option 1 {#markers-json}
+
+![](/assets/add-polyline-blocks1.png)
+
+#### Add Polyline Option 2![](/assets/add-polyline-blocks2.png) {#markers-json}
 
 #### Get Points from JSON string format {#markers-json}
 
