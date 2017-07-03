@@ -20,8 +20,10 @@
     * [Screen](components/screen.md)
     * [Button](components/user-interface.md)
     * [Web Viewer](components/webview.md)
+    * [Mapping](components/mapping.md)
+      * [Google Maps](components/mapping/google-maps.md)
+      * [Location Sensor](components/mapping/location-sensor.md)
     * [Google Maps](components/google-maps.md)
-    * Mapping
   * [Extensions](thunkable-for-android/extensions.md)
   * [Built in Blocks](thunkable-for-android/blocks.md)
     * [Control](thunkable-for-android/blocks/control.md)
