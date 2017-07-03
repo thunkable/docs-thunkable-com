@@ -4,7 +4,7 @@
 
 ---
 
-Google Maps is one of the most popular and powerful components on Thunkable.  It enables users to locate themselves, share that location with others in real-time \(in combination with Firebase\) or map geo-located assets \(in combination with Spreadsheets powered by Cloudstitch\).
+**Google Maps is one of the most popular and powerful components on Thunkable**.  It enables users to locate themselves, share that location with others in real-time \(in combination with Firebase\) or map geo-located assets \(in combination with Spreadsheets powered by Cloudstitch\).
 
 The map itself can be styled in a million different ways and the markers you add to the map can be customized in a number of ways.
 
@@ -44,8 +44,8 @@ Centers map on user location as depicted by blue dot
 | Theme | 'standard' \(default\), 'silver', 'retro', 'dark', 'night' & 'aubergine'. MapType must be set to 'normal' \(default\) for themes to be enabled |
 | Style \(json\)\* | Map style can be customized using a [Styling Wizard](https://mapstyle.withgoogle.com/) and importing the style JSON \(see example below\) |
 | Enable Compass\* | If 'true', adds a compass to the map |
-| Enable Rotate\* | If 'true', allows user to rotate the map  |
-| Enable Scroll\* | If 'true', allows user to scroll up and down the map  |
+| Enable Rotate\* | If 'true', allows user to rotate the map |
+| Enable Scroll\* | If 'true', allows user to scroll up and down the map |
 | Enable ZoomControl\* | If 'true', displays '+' and '-' buttons for changing zoom level on the map |
 
 \*Can only be set in the Blocks
