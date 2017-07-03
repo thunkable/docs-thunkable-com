@@ -75,10 +75,30 @@ Sets up map with a custom 'white' and 'gray' style![](/assets/maps-styling-block
 | Add Standard Marker \(lat, lng, color, title, snippet, draggable\) | Adds a standard marker based on specifications. Lat is latitude in decimal degrees \(between -90 and 90\), lng is longitude in decimal degrees \(between -180 and 180\), color is the color the marker, title is the headline and the snippet is the subtitle. Note: The draggable property can be set to 'true' or 'false' but it does not work on a mobile device |
 | Add a Custom Marker \(lat, lng, icon, title, snippet, draggable\) | Same as standard marker except icon is replaced by color. We recommend that map icons be 48 px by 48 px |
 | Add Circle \(lat, lng, radius, alpha, hue, strokeWidth, strokeColor, draggable\) | Same as markers except radius is the radius of the circle in meters, alpha is the opacity of the fill from 0 to 100 \(100 is fully opaque\), hue is the color of the fill, strokeWidth is the width of the circle outline in pixels, and strokeColor is the color of the circle outline |
-|  |  |
+| Add Markers From JSON | Adds a single or multiple standard or custom markers based on a specified JSON string format \(see below |
 |  |  |
 
+Add Markers From JSON string format
 
+  
+
+
+string = \[{lat: 37.77, lng: 122.42, color: 210, title: Power Thunker}, {lat: 37.78, lng: 122.58, color: 240, title: New Thunker}, {lat: 37.85, lng: 122.65, color: 240, title: Funny Thunker}\]
+
+  
+
+
+For a custom marker, a sample JSON string format for mapping multiple markers is:
+
+  
+
+
+string = \[{lat: 37.77, lng: 122.42, icon: icon-thunkablemapsmall.png, title: Power Thunker}, {lat: 37.78, lng: 122.58, icon: icon-thunkablemapsmall.png, title: New Thunker}, {lat: 37.85, lng: 122.65, icon: icon-thunkablemapsmall.png, title: Funny Thunker}\]
+
+  
+
+
+You can add additional fields to the JSON strings that are not shown above
 
 
 
