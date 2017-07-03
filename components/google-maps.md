@@ -81,7 +81,16 @@ Sets up map with a custom 'white' and 'gray' style![](/assets/maps-styling-block
 | Add Markers From JSON \(string\) | Adds a single or multiple standard or custom markers based on a specified [JSON string format](#markers-json) |
 | Add Circle \(lat, lng, radius, alpha, hue, strokeWidth, strokeColor, draggable\) | Same as markers except radius is the radius of the circle in meters, alpha is the opacity of the fill from 0 to 100 \(100 is fully opaque\), hue is the color of the fill, strokeWidth is the width of the circle outline in pixels, and strokeColor is the color of the circle outline |
 | Add Polyline \(points, width, color\) | Adds a polyline based on specifications. Points is a string of points in lat, lng format, width is the width of the line in pixels and color is the color of the line |
-| Get Points from JSON \(string\) | Use in conjunction with Add Polyline to add a polyline points in a specified JSON string format |
+| Get Points from JSON \(string\) | Use in conjunction with Add Polyline to add a polyline points in a specified [JSON string format](#markers-json) |
+
+
+
+| Add a Standard Marker | Add a Custom Marker | Add a Circle | Add Polyline |
+| :--- | :--- | :--- | :--- |
+| ![](/assets/add-marker-standard.jpg) |  |  |  |
+| ![](/assets/add-marker-standard-blocks.png) |  |  |  |
+
+
 
 #### Add Markers From JSON string format {#markers-json}
 
@@ -96,8 +105,6 @@ string = `[{lat: 37.77, lng: 122.42, icon: icon-thunkablemapsmall.png, title: Po
 #### Get Points from JSON string format {#markers-json}
 
 string = `[[lat: 37.77, lng: 122.42], [lat: 37.78, lng: 122.58], . . .]`
-
-
 
 OnMap Click
 
