@@ -11,6 +11,8 @@ The map itself can be styled in a million different ways and the markers you add
 * [Auto-centering map on user's location](#map-autocenter)
 * [Styling your map](#styling-the-map)
 * [Adding standard and custom markers, circles & polylines to your map](#add-everything)
+* [Real-time location sharing with Firebase](#real-time-location-sharing-with-firebase)
+* [Mapping geo-located assets with Spreadsheets powered by Cloudstitch](#mapping-geo-located-assets-with-spreadsheets-powered-by-cloudstitch)
 
 ---
 
@@ -22,12 +24,10 @@ Centers map on user location as depicted by blue dot
 
 | Event | Description |
 | :--- | :--- |
-| Map IsReady\* | When Google Map loads. Please use this to load all map settings instead of Screen.Initialize |
-| Enable MyLocation\* | If 'true', displays user location as a blue dot |
-| OnLocation Changed\* | When Google Map senses a location change. The Google Maps location sensor is highly sensitive even when the user is stationary so this event is useful for initially centering the map on the user's location |
-| Move Map To Location\* | Centers map to a specific latitude and longitude |
-
-\*Can only be set in the Blocks
+| Map IsReady | When Google Map loads. Please use this to load all map settings instead of Screen.Initialize |
+| Enable MyLocation | If 'true', displays user location as a blue dot |
+| OnLocation Changed | When Google Map senses a location change. The Google Maps location sensor is highly sensitive even when the user is stationary so this event is useful for initially centering the map on the user's location |
+| Move Map To Location | Centers map to a specific latitude and longitude |
 
 ---
 
@@ -43,6 +43,9 @@ Centers map on user location as depicted by blue dot
 | MapType\* | 'normal', 'terrain', 'satellite' or 'hybrid'. 'Normal' maps can be further customized with the Themes and Style \(json\) options below |
 | Theme | 'standard' \(default\), 'silver', 'retro', 'dark', 'night' & 'aubergine'. MapType must be set to 'normal' \(default\) for themes to be enabled |
 | Style \(json\)\* | Map style can be customized using a [Styling Wizard](https://mapstyle.withgoogle.com/) and importing the style JSON \(see example below\) |
+| Enable Compass\* | If 'true', adds a compass to the map |
+
+\*Can only be set in the Blocks
 
 #### **MapType**
 
@@ -82,15 +85,16 @@ Sets up map with a custom 'white' and 'gray' style![](/assets/maps-styling-block
 | Add Circle \(lat, lng, radius, alpha, hue, strokeWidth, strokeColor, draggable\) | Same as markers except radius is the radius of the circle in meters, alpha is the opacity of the fill from 0 to 100 \(100 is fully opaque\), hue is the color of the fill, strokeWidth is the width of the circle outline in pixels, and strokeColor is the color of the circle outline |
 | Add Polyline \(points, width, color\) | Adds a polyline based on specifications. Points is a string of points in lat, lng format, width is the width of the line in pixels and color is the color of the line |
 | Get Points from JSON \(string\) | Use in conjunction with Add Polyline to add a polyline points in a specified [JSON string format](#markers-json) |
-
-
+| Enable MapClickListener | if 'true', enables an event e.g. add marker when a user taps on the map |
+| Enable MapLongClickListener | If 'true', enables an event when a user long presses on the map |
+| On MapClick | Triggers an event e.g. add marker when a user taps on the map. Enable MapClickListener must be set to 'true' |
+| On MapLongClick | Triggers an event e.g. add marker when a user long presses on the map. Enable MapLongClickListener must be set to 'true |
+| On MarkerClick | Triggers an event when a marker is touched |
 
 | Add a Standard Marker | Add a Custom Marker | Add a Circle | Add Polyline |
 | :--- | :--- | :--- | :--- |
-| ![](/assets/add-marker-standard.jpg) |  |  |  |
+| ![](/assets/add-marker-standard.jpg) | ![](/assets/add-marker-custom.jpg) | ![](/assets/add-circle.png) |  |
 | ![](/assets/add-marker-standard-blocks.png) |  |  |  |
-
-
 
 #### Add Markers From JSON string format {#markers-json}
 
@@ -106,25 +110,17 @@ string = `[{lat: 37.77, lng: 122.42, icon: icon-thunkablemapsmall.png, title: Po
 
 string = `[[lat: 37.77, lng: 122.42], [lat: 37.78, lng: 122.58], . . .]`
 
-OnMap Click
 
-When any part of the map is touched.  For this event to be enabled, you must first enable the MapClick Listener.
-
-OnMap LongClick
-
-When any part of the map is touched for a few seconds.  For this event to be enabled, you must first enable the MapLongClick Listener.
-
-OnMarker Click
-
-When a standard or custom marker is touched.
 
 ---
 
-### Auto-centering map on user location
+### Real-time location sharing with Firebase
 
-![](https://thunkable.com/reference/components/images/visualization/u3443.gif)
+
 
 ---
+
+### Mapping geo-located assets with Spreadsheets powered by Cloudstitch
 
 
 
