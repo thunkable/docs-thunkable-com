@@ -4,9 +4,11 @@
 
 ---
 
-Web Viewers are powerful components for not only displaying websites but also images and custom html.  Displaying custom html within a Web Viewer can enable Material Design effects or displaying simple websites when an internet connection is not available.
+**Web Viewers are powerful components for not only displaying websites but also images and custom html.**  Displaying custom html within a Web Viewer can enable Material Design effects or displaying simple websites when an internet connection is not available.
 
-### 
+Users of Android 4.4 and above should have access to the latest Web Viewer available. 
+
+The current Web Viewer does support image uploading but not full screen video playing within a browser.
 
 ---
 
@@ -14,8 +16,8 @@ Web Viewers are powerful components for not only displaying websites but also im
 
 | Property | Description |
 | :--- | :--- |
-| **Home URL** | Accepts website or image urls that must include 'https://' or 'http://'. Can also accept image \(e.g. .png\) or html assets \(e.g. .html\) that have been uploaded to the app project |
-| Follow Links | If checked, enables users to follow links when tapped in the WebViewer.   |
+| Home URL | Accepts website or image urls that must include 'https://' or 'http://'. Can also accept image \(e.g. .png\) or html assets \(e.g. .html\) that have been uploaded to the app project |
+| Follow Links | If checked, enables users to follow links when tapped in the WebViewer. |
 | Use External Browser | If checked, opens an external browser when links are followed |
 | Uses Location\* | If checked, gives app permission to use the geolocation API |
 | Prompt for Permission | If checked, prompts the user to give permission to use the geolocation API |
@@ -34,7 +36,17 @@ Web Viewers are powerful components for not only displaying websites but also im
 
 ---
 
-#### Events \(Websites Only\)
+#### Other Events \(Websites only\)
+
+|  |  |
+| :--- | :--- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 CurrentPageTitle
 
@@ -79,6 +91,4 @@ Loads the home URL page. This happens automatically when the home URL is changed
 GoToUrl\(text url\)
 
 Load the page at the given URL.
-
-
 
