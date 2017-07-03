@@ -59,11 +59,11 @@ Within a few seconds, you should see the app you are building on your device. It
 
 If your app does not appear on your device, the most likely problems are:
 
-* You did not download the software package above to your computer \(see _Step 2_\)
+* You did not download the software package above to your computer \(see Step 2\)
 * Your USB plug is not securely connected to your computer or mobile device
-* You need to turn USB debugging ON on your mobile device \(see _Step 3_\)
-* You did not allow the connection to your computer after selecting "Test &gt; USB Connection" from the top menu in the Thunkable browser \(see _Step 4_\)
-* You may have an outdated version of the Thunkable app. Download the latest Thunkable Live app for Thunkable from above \(see _Step 1_\)
+* You need to turn USB debugging ON on your mobile device \(see Step 3\)
+* You did not allow the connection to your computer after selecting "Test &gt; USB Connection" from the top menu in the Thunkable browser \(see Step 4\)
+* You may have an outdated version of the Thunkable app. Download the latest Thunkable Live app for Thunkable from above \(see Step 1\)
 
 
 
