@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Components: Button
+# Button
 
 ---
 
@@ -18,8 +18,8 @@ Opens a new screen after button is clicked
 
 | Property | Description |
 | :--- | :--- |
-| Height | Button height in pixels, percent, 'Automatic' or 'Fill' |
-| Width | Button width in pixels, percent, 'Automatic' or 'Fill' |
+| Height | Height in pixels, percent, 'Automatic' or 'Fill' |
+| Width | Width in pixels, percent, 'Automatic' or 'Fill' |
 | Shape\* | Default \(rectangle\), rounded, rectangular or oval.  The shape will not be visible if an Image is being displayed |
 | Background Color | Default \(Gray\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Image | You can upload an image to your app or reference an image url. If an image is uploaded, it will negate the background color and shape properties |
@@ -31,7 +31,7 @@ Opens a new screen after button is clicked
 | Font Size | Point size for button text |
 | Font Typeface\* | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
-| Visible | If checked, the button will be visible on the screen. |
+| Visible | If checked, the button will be visible on the screen |
 
 \*Can only be set in the Designer
 
