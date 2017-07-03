@@ -91,10 +91,9 @@ Sets up map with a custom 'white' and 'gray' style![](/assets/maps-styling-block
 | On MapLongClick | Triggers an event e.g. add marker when a user long presses on the map. Enable MapLongClickListener must be set to 'true |
 | On MarkerClick | Triggers an event when a marker is touched |
 
-| Add a Standard Marker | Add a Custom Marker | Add a Circle | Add Polyline |
+| Standard marker | Custom marker | Circle | Polyline |
 | :--- | :--- | :--- | :--- |
-| ![](/assets/add-marker-standard.jpg) | ![](/assets/add-marker-custom.jpg) | ![](/assets/add-circle.png) |  |
-| ![](/assets/add-marker-standard-blocks.png) |  |  |  |
+| ![](/assets/add-marker-standard.jpg) | ![](/assets/add-marker-custom.jpg) | ![](/assets/add-circle.png) | ![](/assets/add-polyline.jpg) |
 
 #### Add Markers From JSON string format {#markers-json}
 
@@ -110,13 +109,9 @@ string = `[{lat: 37.77, lng: 122.42, icon: icon-thunkablemapsmall.png, title: Po
 
 string = `[[lat: 37.77, lng: 122.42], [lat: 37.78, lng: 122.58], . . .]`
 
-
-
 ---
 
 ### Real-time location sharing with Firebase
-
-
 
 ---
 
