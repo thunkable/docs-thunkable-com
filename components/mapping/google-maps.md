@@ -145,5 +145,7 @@ string = `[[lat: 37.77, lng: 122.42], [lat: 37.78, lng: 122.58], . . .]`
 
 ### Mapping geo-located assets with Spreadsheets powered by Cloudstitch
 
+![](https://thunkable.com/reference/components/images/visualization/u3441.gif)
+
 
 
