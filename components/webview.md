@@ -6,7 +6,7 @@
 
 **Web Viewers are powerful components for not only displaying websites but also images and custom html.**  Displaying custom html within a Web Viewer can enable Material Design effects or displaying simple websites when an internet connection is not available.
 
-Users of Android 4.4 and above should have access to the latest Web Viewer available. 
+Users of Android 4.4 and above should have access to the latest Web Viewer available.
 
 The current Web Viewer does support image uploading but not full screen video playing within a browser.
 
@@ -36,59 +36,16 @@ The current Web Viewer does support image uploading but not full screen video pl
 
 ---
 
-#### Other Events \(Websites only\)
+#### Events
 
-|  |  |
+| Event | Description |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Go to URL | Loads the Web Viewer to a given url or source file |
+| Go Home | Loads the Home URL |
+| Go Back | Goes back to the previous page \(if available\) |
+| Go Forward | Goes forward to next page \(if available\) |
+| Clear Caches | Clears the Web Viewer caches |
+| Clear Locations | Clears stored location permissions |
 
-CurrentPageTitle
 
-Title of the page currently viewed
-
-IgnoreSslError
-
-Determine whether or not to ignore SSL errors. Set to true to ignore errors. Use this to accept self signed certificates from websites.
-
-WebViewString
-
-Gets the WebView's String, which is viewable through Javascript in the WebView as the window.AppInventor object
-
-Boolean CanGoBack\(\)
-
-Returns true if the WebViewer can go back in the history list.
-
-Boolean CanGoForward\(\)
-
-Returns true if the WebViewer can go forward in the history list.
-
-ClearCaches\(\)
-
-Clear the WebViewer caches
-
-ClearLocations\(\)
-
-Clear stored location permissions.
-
-GoBack\(\)
-
-Go back to the previous page in the history list. Does nothing if there is no previous page.
-
-GoForward\(\)
-
-Go forward to the next page in the history list. Does nothing if there is no next page.
-
-GoHome\(\)
-
-Loads the home URL page. This happens automatically when the home URL is changed.
-
-GoToUrl\(text url\)
-
-Load the page at the given URL.
 
