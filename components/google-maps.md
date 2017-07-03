@@ -51,5 +51,29 @@ Sets up map with a custom 'white' and 'gray' style![](/assets/maps-styling-block
 
 ---
 
+### Adding standard markers, custom markers, circles & polylines to your map
+
+| Event | Description |
+| :--- | :--- |
+| Height | Height in pixels, percent, 'Automatic' or 'Fill' |
+| Width | Width in pixels, percent, 'Automatic' or 'Fill' |
+| Zoom Level | 1 to 20 where 1 is most zoomed out.  We recommend zoom levels between 13 and 16 |
+| Angle \(degrees\) | Tilt of the map from 0 to 90 degrees. We recommend tilts of 45 to 75 degrees and a Zoom Level of 16 for more immersive apps |
+|  |  |
+
+ 
+
+ 
+
+---
+
+### Auto-centering map on user location
+
+![](https://thunkable.com/reference/components/images/visualization/u3443.gif)
+
+---
+
+
+
 
 
