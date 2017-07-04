@@ -139,13 +139,17 @@ string = `[[lat: 37.77, lng: 122.42], [lat: 37.78, lng: 122.58], . . .]`
 
 ### Real-time location sharing with Firebase
 
+[Click here to view the source code](http://app.thunkable.com/?locale=en&repo=share.thunkableapps.com/templates/MapsDemo2.asc)
+
 ![](https://thunkable.com/reference/components/images/visualization/u3445.gif)
 
 ---
 
 ### Mapping geo-located assets with Spreadsheets powered by Cloudstitch
 
+[Click here to view the source code](http://app.thunkable.com/?locale=en&repo=share.thunkableapps.com/templates/MapsDemo3.asc)
+
 ![](https://thunkable.com/reference/components/images/visualization/u3441.gif)
 
-
+![](/assets/spreadsheet.png)
 
