@@ -4,6 +4,12 @@
 
 ---
 
+### Drag and drop components
+
+### Add functionality
+
+---
+
 ### Limits
 
 | Property | Limit |
