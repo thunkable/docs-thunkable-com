@@ -4,7 +4,7 @@
 
 ---
 
-**Layout components allow you to organize your screen into a more readable and navigable interface.** 
+**Layout components allow you to organize your screen into a more readable and navigable interface.**
 
 Vertical arrangements are often used as a substitute for screens by turning their visibility to 'true' and 'false'.  Horizontal arrangements are often used for arranging content that goes across the screen like a top navigation menu or for creating padding on a screen \(empty labels can also be used\).  Scrollable arrangements can be useful for apps where there is a lot of content like images that you may not fit within a fixed space. Table arrangements are useful when the content should be spaced consistently like in a bottom tabbed menu
 
