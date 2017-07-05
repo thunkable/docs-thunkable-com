@@ -1,10 +1,16 @@
 #### **Thunkable for Android **❤
 
-# Best Practices
+# Pro-tips
 
 ---
 
-### Design
+### User experience and interface
+
+| [Branding Splash Screens](/pt-branding-screen) |  |
+| :--- | :--- |
+|  |  |
+
+---
 
 ### 
 
