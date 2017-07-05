@@ -20,17 +20,15 @@
   * [Components](components.md)
     * [Screen](components/screen.md)
     * [Layout](components/layout.md)
-    * [Touch](components/touch.md)
-      * [Button](components/touch/button.md)
-      * [Label](components/touch/label.md)
     * [Web Viewer](components/webview.md)
+    * [Touch](components/touch.md)
     * [Voice / Audio](components/voice-+-audio.md)
     * [Image / Video](components/image-+-video.md)
     * Time
-    * Social
     * Storage
+    * Social
     * [Gaming](components/gaming.md)
-    * [Mapping + Location](components/mapping.md)
+    * [Location / Mapping](components/mapping.md)
       * [Google Maps](components/mapping/google-maps.md)
       * [Location Sensor](components/mapping/location-sensor.md)
     * Internet of Things
