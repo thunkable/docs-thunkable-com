@@ -4,19 +4,25 @@
 
 ---
 
-### User experience and interface
+### Design
 
-| [Branding Splash Screens](/components/screen.md) |  |
+| [Branding Splash Screens](/components/screen.md) | Buttons and Icon Fonts |
 | :--- | :--- |
 |  |  |
 
 ---
 
-### 
+### Productivity
+
+| [Vertical Arrangements as Screen Substitutes](/components/layout.md) |  |
+| :--- | :--- |
+|  |  |
 
 ---
 
 ### Productivity
+
+
 
 ### Backpack
 

@@ -27,7 +27,7 @@ Below are the different touch interface components and what they look like on a 
 
 ---
 
-#### Pro-tip: Buttons and Icon Fonts
+#### Pro-tip: Buttons and Icon Fonts {#button-pro-tip}
 
 One of the most common customizations of buttons is to add an image to them but this can both take time to generate and also take up valuable space in your app.  One way to avoid this is to use one of the many icon fonts available to substitute a custom font for images.
 
