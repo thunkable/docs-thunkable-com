@@ -10,7 +10,7 @@ Below are the different touch interface components and what they look like on a 
 
 |  |  |  |  |
 | :--- | :--- | :--- | :--- |
-| [Button](/components/touch/button.md) | ![](/assets/button.png) | Label | ![](/assets/label.png) |
+| [Button](/components/touch/button.md) | ![](/assets/button.png) | [Label](#label) | ![](/assets/label.png) |
 | TextBox | ![](/assets/textbox.png) | Password TextBox | ![](/assets/password-textbox.png) |
 | ListPicker | ![](/assets/listpicker.png) | ListView | ![](/assets/listview.png) |
 | Spinner | ![](/assets/spinner.png) | CheckBox | ![](/assets/checkbox.png) |

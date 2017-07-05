@@ -16,6 +16,12 @@ The sample app [Thunkableagram: AI-powered Instagram](#) uses all of these types
 
 ---
 
+#### Pro-tip: Vertical arrangements as Screen substitutes
+
+
+
+---
+
 ### **Vertical, Horizontal or Scroll Arrangements**
 
 | Property | Description |

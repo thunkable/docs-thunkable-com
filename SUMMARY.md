@@ -17,14 +17,15 @@
   * [Share your app](thunkable-for-android/share-your-app.md)
   * [Publish your app](thunkable-for-android/publish-your-app.md)
   * [Sample apps](thunkable-for-android/sample-apps.md)
+  * [Pro-tips](thunkable-for-android/best-practices.md)
   * [Components](components.md)
     * [Screen](components/screen.md)
     * [Layout](components/layout.md)
     * [Web Viewer](components/webview.md)
     * [Touch](components/touch.md)
-    * [Voice / Audio](components/voice-+-audio.md)
-    * [Image / Video](components/image-+-video.md)
-    * Time
+    * [Voice](components/voice-+-audio.md)
+    * [Image](components/image-+-video.md)
+    * Device
     * Storage
     * Social
     * [Gaming](components/gaming.md)
@@ -36,8 +37,6 @@
     * Artificial Intelligence
     * Monetisation
   * [Extensions](thunkable-for-android/extensions.md)
-  * [Built in Blocks](thunkable-for-android/blocks.md)
-    * [Control](thunkable-for-android/blocks/control.md)
-  * [Best practices](thunkable-for-android/best-practices.md)
+  * [Pro-tips](thunkable-for-android/best-practices.md)
   * [Advanced](thunkable-for-android/advanced.md)
 
