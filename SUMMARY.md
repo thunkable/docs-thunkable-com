@@ -23,8 +23,8 @@
     * [Touch](components/touch.md)
       * [Button](components/touch/button.md)
     * [Web Viewer](components/webview.md)
-    * [Voice + Audio](components/voice-+-audio.md)
-    * [Image + Video](components/image-+-video.md)
+    * [Voice / Audio](components/voice-+-audio.md)
+    * [Image / Video](components/image-+-video.md)
     * Time
     * Social
     * Storage
