@@ -27,6 +27,13 @@
       * [Label](components/touch/label.md)
       * [TextBox / Password](components/touch/textbox.md)
       * [ListPicker](components/touch/listpicker.md)
+      * ListView
+      * Spinner
+      * CheckBox
+      * Slider
+      * Notifier
+      * DatePicker
+      * TimePicker
     * [Voice](components/voice-+-audio.md)
     * [Image](components/image-+-video.md)
     * Device
