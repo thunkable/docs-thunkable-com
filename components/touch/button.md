@@ -6,17 +6,21 @@
 
 **Buttons are a key input for many apps and one of the most popular components on Thunkable**. Many aspects of its appearance can be changed and different events can be triggered with different types of clicks - regular, long and touch up or touch down.
 
-![](/assets/button.png)
+---
 
-Default button on a Samsung S6
+#### Pro-tip: Buttons and Icon Fonts {#button-pro-tip}
 
-![](https://lh6.googleusercontent.com/-eX4BJE0wpzpN0AcnFV2uxnemnpNmNgD57UV8ptfr8LNr1rupalQ2yRDT3LSLWamp7ZQjIIV3JIbjgLrfNWwoCvl1O2Q_aZ6dRnz5wpAq1JbFHZXeWeMbb2xyv-ebfCt0AVMzY4W)
+One of the most common customizations of buttons is to add an image to them but this can both take time to generate and also take up valuable space in your app.  One way to avoid this is to use one of the many icon fonts available to substitute a custom font for images.
 
-Block snippet - Opens a new screen after button is clicked
+For navigation menus, we highly recommend the [Material Design Icon Font](https://material.io/icons/)
+
+For social media bars, we recommend the [Mono Social Font](http://drinchev.github.io/monosocialiconsfont/)
+
+The sample app [Thunkableagram: AI-powered Instagram](#) uses the Material Design Icon Font for the bottom navigation bar
 
 ---
 
-#### **Appearance**
+### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -50,6 +54,8 @@ Block snippet - Opens a new screen after button is clicked
 | Enabled | If checked, button functionality is enabled |
 | Got Focus | User's finger is over the button, making it possible to click |
 | Lost Focus | User's finder is away from the button, making it no longer possible to click |
+
+
 
 
 

@@ -23,6 +23,9 @@
     * [Layout](components/layout.md)
     * [Web Viewer](components/webview.md)
     * [Touch](components/touch.md)
+      * [Button](components/touch/button.md)
+      * [Label](components/touch/label.md)
+      * [TextBox / Password](components/touch/textbox.md)
     * [Voice](components/voice-+-audio.md)
     * [Image](components/image-+-video.md)
     * Device
