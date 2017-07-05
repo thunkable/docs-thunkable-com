@@ -6,7 +6,7 @@
 
 ### User experience and interface
 
-| [Branding Splash Screens](/pt-branding-screen) |  |
+| [Branding Splash Screens](/components/screen.md) |  |
 | :--- | :--- |
 |  |  |
 

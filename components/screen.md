@@ -10,7 +10,7 @@ Screens are where you set layouts, program the initial opening of the app and th
 
 ---
 
-#### Pro-tip: Branding Splash Screens {#pt-branding-screen}
+#### Pro-tip: Branding Splash Screens
 
 Apps often take a few seconds to load which can be very discouraging to a new user.  One way to create space for this loading period is by adding a screen with your logo and letting it run for a given amount of time \(we have found 3 seconds to feel just about right in most cases\).
 
