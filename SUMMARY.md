@@ -18,12 +18,23 @@
   * [Publish your app](thunkable-for-android/publish-your-app.md)
   * [Components](components.md)
     * [Screen](components/screen.md)
-    * [Button](components/user-interface.md)
-    * [Web Viewer](components/webview.md)
     * [Layout](components/layout.md)
-    * [Mapping](components/mapping.md)
+    * [Touch](components/touch.md)
+      * [Button](components/touch/button.md)
+    * [Web Viewer](components/webview.md)
+    * Voice + Audio
+    * Image + Video
+    * Time
+    * Social
+    * Storage
+    * Gaming
+    * [Mapping + Location](components/mapping.md)
       * [Google Maps](components/mapping/google-maps.md)
       * [Location Sensor](components/mapping/location-sensor.md)
+    * Internet of Things
+    * Virtual Reality
+    * Artificial Intelligence
+    * Monetisation
   * [Extensions](thunkable-for-android/extensions.md)
   * [Built in Blocks](thunkable-for-android/blocks.md)
     * [Control](thunkable-for-android/blocks/control.md)
