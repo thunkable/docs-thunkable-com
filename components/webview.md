@@ -4,7 +4,7 @@
 
 ---
 
-**The simplest app you can make on Thunkable is an app with your favorite website wrapped within it.**
+The simplest app you can make on Thunkable is an app with your favorite website wrapped within it.
 
 Web Viewers are powerful components for not only displaying websites but also images and custom html.  Displaying custom html within a Web Viewer can enable Material Design effects or displaying simple websites when an internet connection is not available.
 

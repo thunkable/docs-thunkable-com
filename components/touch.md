@@ -4,7 +4,7 @@
 
 ---
 
-**One of the first defining features of smartphones was the touch screen interface, which enabled developers to utilize all parts of a screen to perform distinct actions, unleashing an almost limitless number of user interface options.**
+One of the first defining features of smartphones was the touch screen interface, which enabled developers to utilize all parts of a screen to perform distinct actions, unleashing an almost limitless number of user interface options.
 
 Below are the different touch interface components and what they look like on a Samsung S6 phone by default
 

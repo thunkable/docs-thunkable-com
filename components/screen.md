@@ -4,7 +4,7 @@
 
 ---
 
-**Screens are natural ways to break up your apps so that they are more digestible for your users.** On Thunkable, there is a recommendation of 10 screens per app.
+Screens are natural ways to break up your apps so that they are more digestible for your users. On Thunkable, there is a recommendation of 10 screens per app.
 
 Screens are where you set layouts, program the initial opening of the app and the navigation. Screen1 is also where you set many of your app level properties.
 
