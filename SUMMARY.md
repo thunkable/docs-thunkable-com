@@ -22,12 +22,12 @@
     * [Touch](components/touch.md)
       * [Button](components/touch/button.md)
     * [Web Viewer](components/webview.md)
-    * Voice + Audio
-    * Image + Video
+    * [Voice + Audio](components/voice-+-audio.md)
+    * [Image + Video](components/image-+-video.md)
     * Time
     * Social
     * Storage
-    * Gaming
+    * [Gaming](components/gaming.md)
     * [Mapping + Location](components/mapping.md)
       * [Google Maps](components/mapping/google-maps.md)
       * [Location Sensor](components/mapping/location-sensor.md)
