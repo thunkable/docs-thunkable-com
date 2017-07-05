@@ -4,13 +4,13 @@
 
 ---
 
-Textboxes are an especially popular component especially in forms and login pages.
+Textboxes are a popular input component especially in apps with forms and login pages.
 
 A password text box is the same as an ordinary TextBox component, except that it displays an encoded character \* instead of the characters typed by the user
 
 ---
 
-### **Appearance** 
+### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
