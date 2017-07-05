@@ -32,7 +32,7 @@
     * Storage
     * Social
     * [Gaming](components/gaming.md)
-    * [Location / Mapping](components/mapping.md)
+    * [Mapping](components/mapping.md)
       * [Google Maps](components/mapping/google-maps.md)
       * [Location Sensor](components/mapping/location-sensor.md)
     * Internet of Things

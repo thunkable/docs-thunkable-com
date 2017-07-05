@@ -8,7 +8,7 @@
 
 | [Branding Splash Screens](/components/screen.md) | [Buttons and Icon Fonts](/components/touch/button.md) |
 | :--- | :--- |
-| [**Labels and HTML**](/components/touch/label.md) |  |
+| [Labels and HTML](/components/touch/label.md) |  |
 
 ---
 
