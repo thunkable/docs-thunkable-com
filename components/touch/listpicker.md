@@ -1,17 +1,17 @@
 #### **Thunkable for Android **❤
 
-# ListView, ListPicker, Spinner and CheckBox
+# ListPicker, ListView, Spinner and CheckBox
 
 ---
 
-|  | ListView | ListView | Spinner | CheckBox |
+|  | ListPicker | ListView | Spinner | CheckBox |
 | :--- | :--- | :--- | :--- | :--- |
-|  | ![](/assets/listview-example.png) | ![](/assets/listpicker-example.png) | ![](/assets/spinner-example.png) | ![](/assets/checkbox-example.png) |
-| Common use case | Drop down menus with a **large number of elements **since users can filter through them via search | Drop down menus with a **medium number of elements** \(up to 20\) where users select by scrolling | Drop down menus with a **small number of elements** \(up to 5\) where user options show next to item | Selections of a **single element or multiple elements in a small list** |
+|  | ![](/assets/listpicker-example.png) | ![](/assets/listview-example.png) | ![](/assets/spinner-example.png) | ![](/assets/checkbox-example.png) |
+| Common use case | Drop down menus with a **medium number of elements** \(up to 20\) where users select by scrolling | Drop down menus with a **large number of elements **since users can filter through them via search | Drop down menus with a **small number of elements** \(up to 5\) where user options show next to item | Selections of a **single element or multiple elements in a small list** |
 
 ---
 
-### ListView
+### ListPicker
 
 ---
 
