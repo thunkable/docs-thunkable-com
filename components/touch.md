@@ -12,8 +12,8 @@ Below are the different touch interface components and what they look like on a 
 | :--- | :--- | :--- | :--- |
 | [Button](/components/touch/button.md) | ![](/assets/button.png) | [Label](/components/touch/label.md) | ![](/assets/label.png) |
 | [TextBox](/components/touch/textbox.md) | ![](/assets/textbox.png) | [Password TextBox](/components/touch/textbox.md) | ![](/assets/password-textbox.png) |
-| [ListPicker](/components/touch/listpicker.md) | ![](/assets/listpicker.png) | ListView | ![](/assets/listview.png) |
-| Spinner | ![](/assets/spinner.png) | CheckBox | ![](/assets/checkbox.png) |
+| [ListPicker](/components/touch/listpicker.md) | ![](/assets/listpicker.png) | [ListView](/components/touch/listpicker.md) | ![](/assets/listview.png) |
+| [Spinner](/components/touch/listpicker.md) | ![](/assets/spinner.png) | [CheckBox](/components/touch/listpicker.md) | ![](/assets/checkbox.png) |
 | Slider | ![](/assets/slider.png) | Notifier | ![](/assets/notifier.png) |
 | DatePicker | ![](/assets/datepicker.png) | TimePicker | ![](/assets/timepicker.png) |
 

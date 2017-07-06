@@ -4,10 +4,10 @@
 
 ---
 
-|  | [ListPicker](#listpicker) | [ListView](#listview) | Spinner | CheckBox |
+|  | [ListPicker](#listpicker) | [ListView](#listview) | [Spinner](#spinner) | [CheckBox](#checkbox) |
 | :--- | :--- | :--- | :--- | :--- |
 |  | ![](/assets/listpicker-example.png) | ![](/assets/listview-example.png) | ![](/assets/spinner-example.png) | ![](/assets/checkbox-example.png) |
-| Common use case | Drop down menus with a **medium number** of elements users can select by scrolling or searching. **Opens in a new screen** | Drop down menus with a **medium number** of elements users can select by searching in the current screen  | Drop down menus with a **small number **of elements \(up to 5\) where user options show next to filter in the current screen | Selections of a **single element or multiple elements **in a small list in the current screen |
+| Common use case | Drop down menus with a **medium number** of elements users can select by scrolling or searching. **Opens in a new screen** | Drop down menus with a **medium number** of elements users can select by searching in the current screen | Drop down menus with a **small number **of elements \(up to 5\) where user options show next to filter in the current screen | Selections of a **single element or multiple elements **in a small list in the current screen |
 
 ---
 
@@ -88,10 +88,75 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 | :--- | :--- |
 | Height | Height in pixels, percent, 'Automatic' or 'Fill' |
 | Width | Width in pixels, percent, 'Automatic' or 'Fill' |
-| Shape | Default \(rectangle\), rounded, rectangular or oval. The shape will not be visible if an Image is being displayed |
 | Background Color | Background color of the list. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Text Color | Text color of the list. Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Visible | If checked, the Listpicker button will be visible on the screen |
+
+---
+
+### Spinner
+
+---
+
+The Spinner is a great drop down menu option for shorter lists
+
+---
+
+### Functionality
+
+| Event / Property | Description |
+| :--- | :--- |
+| Elements From String | Comma separated list of choices to use. For example apples, oranges, bananas |
+| Elements | List of choices to display \(as a list\) |
+| After Picking | After the user has selected from the list |
+| Selection | The selected item |
+| Selection Index | The index of the selected item, starting at 1. If no item is selected, the value will be 0 |
+| Display Dropdown | Displays the dropdown list similar to when user clicks on spinner |
+
+---
+
+### **Appearance**
+
+| Property | Description |
+| :--- | :--- |
+| Height | Height in pixels, percent, 'Automatic' or 'Fill' |
+| Width | Width in pixels, percent, 'Automatic' or 'Fill' |
+| Prompt | Text to display for the Spinner window |
+| Visible | If checked, the Listpicker button will be visible on the screen |
+
+---
+
+### CheckBox
+
+---
+
+The CheckBox is the simplest of menus because it has a single element that can be selected \(or unselected\)
+
+---
+
+### Functionality
+
+| Event / Property | Description |
+| :--- | :--- |
+| Checked | If checked, the element is selected |
+| Click | User taps and releases the CheckBox |
+| Enabled | If checked, CheckBox functionality is enabled |
+| Got Focus | User's finger is over the CheckBox, making it possible to click |
+| Lost Focus | User's finger is away from the CheckBox, making it no longer possible to click |
+
+---
+
+### **Appearance**
+
+| Property | Description |
+| :--- | :--- |
+| Height | Height in pixels, percent, 'Automatic' or 'Fill' |
+| Width | Width in pixels, percent, 'Automatic' or 'Fill' |
+| Text | Text to display next to the CheckBox.  |
+| Text Color | Text color of the label next to the CheckBox. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Visible | If checked, the Listpicker button will be visible on the screen |
+
+---
 
 
 
