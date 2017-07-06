@@ -1,16 +1,14 @@
 #### **Thunkable for Android **❤
 
-# ListPicker
+# ListPicker, ListView and Spinner
 
 ---
 
 | Popular use cases |
 | :--- |
+| Dropdown menus |
 
-
-| Inputs for login pages |
-| :--- |
-
+---
 
 ### **Appearance**
 
@@ -24,8 +22,8 @@
 | Text | Optional text that will display on the button |
 | Text Color | Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Text Alignment\* | Left, center \(recommended\) or right |
-| Font Bold | If checked, button text is displayed in**bold** |
-| Font Italic | If checked, button text is displayed in_italic_ |
+| Font Bold | If checked, button text is displayed in **bold** |
+| Font Italic | If checked, button text is displayed in _italic_ |
 | Font Size | Point size for button text |
 | Font Typeface\* | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |

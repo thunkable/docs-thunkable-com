@@ -26,11 +26,9 @@
       * [Button](components/touch/button.md)
       * [Label](components/touch/label.md)
       * [TextBox / Password](components/touch/textbox.md)
-      * [ListPicker](components/touch/listpicker.md)
-      * ListView
-      * Spinner
-      * CheckBox
-      * Slider
+      * [ListPicker / ListView / Spinner](components/touch/listpicker.md)
+      * [CheckBox](components/touch/checkbox.md)
+      * [Slider](components/touch/slider.md)
       * Notifier
       * DatePicker
       * TimePicker
