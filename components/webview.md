@@ -12,12 +12,9 @@ Users of Android 4.4 and above should have access to the latest Web Viewer avail
 
 The current Web Viewer does support image uploading but not full screen video playing within a browser.
 
-| Common use case |
-| :--- |
-| Display a website from url |
-| Display an image from url or file source |
-| Display an offline website from html |
-| Display a Material Design element from html |
+|  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- |
+| Common use case | Display a website from a url | Display an image from url or file source | Display an offline website from html | Display a Material Design element from html |
 
 ---
 
@@ -32,7 +29,7 @@ The current Web Viewer does support image uploading but not full screen video pl
 | Home URL | Accepts website or image urls that must include 'https://' or 'http://'. Can also accept image \(e.g. .png\) or html assets \(e.g. .html\) that have been uploaded to the app project |
 | Follow Links | If checked, enables users to follow links when tapped in the WebViewer. |
 | Use External Browser | If checked, opens an external browser when links are followed |
-| Uses Location\* | If checked, gives app permission to use the geolocation API |
+| Uses Location | If checked, gives app permission to use the geolocation API |
 | Prompt for Permission | If checked, prompts the user to give permission to use the geolocation API |
 | Ignore SSL Errors | If checked, ignores SSL errors.  Use this to accept self-signed certificates from websites |
 
