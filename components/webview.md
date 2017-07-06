@@ -12,7 +12,7 @@ Users of Android 4.4 and above should have access to the latest Web Viewer avail
 
 The current Web Viewer does support image uploading but not full screen video playing within a browser.
 
-| Popular use cases |
+| Common use case |
 | :--- |
 | Display a website from url |
 | Display an image from url or file source |

@@ -8,9 +8,9 @@ Textboxes are a popular input component especially in apps with forms and login 
 
 A password text box is the same as an ordinary TextBox component, except that it displays an encoded character \* instead of the characters typed by the user
 
-| Popular use cases |
-| :--- |
-| Inputs for login pages |
+|  | TextBox | Password TextBox |
+| :--- | :--- | :--- |
+| Common use case | Username inputs for app login | Password inputs for app login |
 
 ---
 

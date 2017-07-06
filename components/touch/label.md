@@ -6,7 +6,7 @@
 
 Labels are components used to display text. Empty labels are used to provide horizontal and vertical padding between elements.
 
-| Popular use cases |
+| Common use case |
 | :--- |
 | Display text |
 | Program text to change after certain events |
