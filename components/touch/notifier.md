@@ -4,26 +4,16 @@
 
 ---
 
-Sliders are useful components for inputs that can span a range of numerical values
+Notifiers 
 
-![](/assets/slider.png)
-
----
-
-### 
-
-### **Appearance**
-
-| Property | Description |
-| :--- | :--- |
-| Width | Width in pixels, percent, 'Automatic' or 'Fill' \(recommended\) |
-| Color Left | Default \(Orange\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
-| Color Right | Default \(Gray\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
-| Visible | If checked, the slider will be visible on the screen |
+|  | Dialog | Alerts |
+| :--- | :--- | :--- |
+|  | ![](/assets/notifier.png) |  |
+| Common use case |  |  |
 
 ---
 
-#### Functionality
+### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -33,5 +23,33 @@ Sliders are useful components for inputs that can span a range of numerical valu
 | Thumb Enabled | Sets whether or not to display the slider thumb |
 | Position Changed \(Thumb Position\) | If position of slider thumb has changed |
 
+---
 
+### **Appearance \(Alerts only!\)**
+
+| Property | Description |
+| :--- | :--- |
+| Text Color | Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks edito |
+| Background Color | Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Notifier Length | Default \(Gray\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+
+---
+
+BackgroundColor
+
+Specifies the background color for alerts \(not dialogs\).
+
+  
+
+
+NotifierLength \(designer only\)
+
+Specifies the length of time that the alert is shown -- either "short" or "long".
+
+  
+
+
+TextColor
+
+Specifies the text color for alerts \(not dialogs\).
 
