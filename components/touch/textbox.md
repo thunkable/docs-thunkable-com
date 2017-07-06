@@ -10,6 +10,7 @@ A password text box is the same as an ordinary TextBox component, except that it
 
 |  | TextBox | Password TextBox |
 | :--- | :--- | :--- |
+|  | ![](/assets/textbox.png) | ![](/assets/password-textbox.png) |
 | Common use case | Username inputs for app login | Password inputs for app login |
 
 ---
