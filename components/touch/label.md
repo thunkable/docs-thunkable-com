@@ -6,11 +6,17 @@
 
 Labels are components used to display text. Empty labels are used to provide horizontal and vertical padding between elements.
 
+| Popular use cases |
+| :--- |
+| Display text |
+| Program text to change after certain events |
+| Padding / spacing between elements |
+
 ---
 
 #### Pro-tip: Labels and HTML formatting
 
-Labels are the only component so far that supports HTML formatting, which can be helpful if you want to add a line break or bold only a few words.
+Labels are the only interface component so far that supports HTML formatting, which can be helpful if you want to add a line break or bold only a few words.
 
 Example:
 

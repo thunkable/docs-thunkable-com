@@ -4,9 +4,13 @@
 
 ---
 
-ListPickers are
+| Popular use cases |
+| :--- |
 
----
+
+| Inputs for login pages |
+| :--- |
+
 
 ### **Appearance**
 
@@ -42,9 +46,6 @@ ListPickers are
 | Enabled | If checked, button functionality is enabled |
 | Got Focus | User's finger is over the button, making it possible to click |
 | Lost Focus | User's finder is away from the button, making it no longer possible to click |
-
-  
-
 
 
 
