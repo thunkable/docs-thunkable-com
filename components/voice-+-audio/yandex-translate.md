@@ -4,7 +4,7 @@
 
 ---
 
-Yandex Translate is a powerful service that translate spoken or typed text into 90+ languages almost instantly. This component needs Internet access, as it will request translations to the Yandex Translate service. See http://api.yandex.com/translate/ for more information
+Yandex Translate is a powerful service that translate spoken or typed text into 90+ languages almost instantly. This component needs Internet access, as it will request translations to the Yandex Translate service. See [http://api.yandex.com/translate/](http://api.yandex.com/translate/) for more information
 
 The Yandex Translate component is used in the sample app [ThunkableChat: Chat with Instant Translation](https://www.gitbook.com/book/albertching/thunkable-docs/edit#)
 
