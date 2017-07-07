@@ -4,7 +4,7 @@
 
 ---
 
-**Google Maps is one of the most popular and powerful components on Thunkable**.  It enables users to locate themselves, share that location with others in real-time \(in combination with Firebase\) or map geo-located assets \(in combination with Spreadsheets powered by Cloudstitch\).
+Google Maps is one of the most popular and powerful components on Thunkable.  It enables users to locate themselves, share that location with others in real-time \(in combination with Firebase\) or map geo-located assets \(in combination with Spreadsheets powered by Cloudstitch\).
 
 The map itself can be styled in a million different ways and the markers you add to the map can be customized in a number of ways.
 
@@ -141,15 +141,11 @@ string = `[[lat: 37.77, lng: 122.42], [lat: 37.78, lng: 122.58], . . .]`
 
 [Click here to view the source code](http://app.thunkable.com/?locale=en&repo=share.thunkableapps.com/templates/MapsDemo2.asc)
 
-
-
 ---
 
 ### Mapping geo-located assets with Spreadsheets powered by Cloudstitch
 
 [Click here to view the source code](http://app.thunkable.com/?locale=en&repo=share.thunkableapps.com/templates/MapsDemo3.asc)
-
-
 
 [Click here to view the spreadsheet](https://docs.google.com/spreadsheets/d/11D2B4-Q0zoiKnYsAThUi2ix2kbhlmDsliycJexw5fSA/edit?usp=sharing)
 

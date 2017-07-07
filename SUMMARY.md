@@ -33,7 +33,7 @@
     * [Voice](components/voice-+-audio.md)
       * [Speech Recognizer](components/voice-+-audio/speech-recognizer.md)
       * [Text to Speech](components/voice-+-audio/text-to-speech.md)
-      * Yandex Translate
+      * [Yandex Translate](components/voice-+-audio/yandex-translate.md)
       * Sound / Player
       * Sound Recorder
     * [Image](components/image-+-video.md)

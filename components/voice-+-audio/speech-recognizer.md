@@ -4,9 +4,13 @@
 
 ---
 
-Speech Recognizer is a powerful Google component that uses artificial intelligence to transcribes a user's speech into text. The transcription is powered by a significant database of human speech and text that finds the best possible match for a given user's sound.
+Speech Recognizer is a powerful Google component that uses artificial intelligence to transcribes a user's speech into English text. The transcription is powered by a significant database of human speech and text that finds the best possible match for a given user's sound.
+
+The speech recognizer is used in the sample app [ThunkableChat: Chat with Instant Translation](https://www.gitbook.com/book/albertching/thunkable-docs/edit#)
 
 ---
+
+#### Launching the Speech Recognizer and setting a label to print the results
 
 ![](/assets/speech-recognizer-blocks.png)
 

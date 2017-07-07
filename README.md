@@ -47,6 +47,7 @@ Android ❤
 * Social
 
   * [Thunkableagram: AI-powered Instagram](#) created by Albert from Honolulu, Hawaii, [learn more on our blog](#)
+  * [ThunkableChat: Chat with Instant Translation](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) created by Albert from Honolulu, Hawaii
 
 * Tools
 
@@ -94,10 +95,6 @@ Android ❤
 | Community | Chat support \(California work hours\) | Email us |
 | :--- | :--- | :--- |
 | [Join our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | ![](/assets/Webp.net-resizeimage %281%29.png) Click on this icon to ask us anything | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com) |
-
-
-
-
 
 ![](/assets/logo-thunkable.png)
 
