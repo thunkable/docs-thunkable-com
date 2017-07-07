@@ -4,18 +4,18 @@
 
 ---
 
-Notifiers are temporary messages usually displayed on top of the current screen to alert the user before she or he proceeds.  Notifier dialogs can also be used to prompt users to make an important selection.
+Notifiers are temporary messages to alert the user before she or he proceeds.  Notifiers come in two flavors - alerts, which are more passive but whose appearance can be customized and dialogs which default to the Material Design design but prompt users to confirm \(Message Dialog\), make a choice \(Choose Dialog\), enter text \(Text Dialog\) or wait \(Progress Dialog\) for a certain event before proceeding.
 
-Note that only Alerts and not Dialogs can not be customized in terms of appearance. Dialogs will default to the Material Design default.
-
-|  | [Alerts](#alerts) | Dialog |
+|  | [Alerts](#alerts) | [Dialogs](#dialogs) |
 | :--- | :--- | :--- |
-|  |  | ![](/assets/notifier.png) |
-| Common use case | Notify the user of an important message | Confirm a selection |
+|  | ![](/assets/notifier-alert.png) | ![](/assets/notifier.png) |
+| Common use case | Passive notification that an event has or is about to occur | Active notification that requires the user to tap, wait or input text before proceeding |
 
 ---
 
 ### Alerts
+
+Alerts are useful as passive messages as the user is navigating your app but no action is required such as "Login successful"
 
 ---
 
@@ -39,47 +39,21 @@ Note that only Alerts and not Dialogs can not be customized in terms of appearan
 
 ### Dialogs
 
+Dialogs are useful when a message requires the user's attention and in some cases, a choice before proceeding
+
 ---
 
 #### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
-| Min Value | Sets the minimum value of the slider |
-| Max Value | Sets the maximum value of the slider |
-| Thumb Position | Sets the position of the slider thumb. Cannot be below the Min Value or exceed the Max Value |
-| Thumb Enabled | Sets whether or not to display the slider thumb |
-| Position Changed \(Thumb Position\) | If position of slider thumb has changed |
+| Show Message Dialog \(message, title, button text\) | Displays a dialog with a single button that dismisses the alert |
+| Show Progress Dialog \(message, title\) | Shows a dialog with an optinal title and message and a spinning animation to indicate that the program is working. Cannot be dismissed by the user and must be dismissed by the Dismiss Progress Dialog block |
+| Dimiss Progress Dialog | Dismisses a Progress Dialog |
+| Show Choose Dialog \(message, title, button1 text, button2 text, cancelable\) | Shows a dialog with two buttons, from which a user can choose. Pressing a button will start the After Choosing event. If cancelable is set to 'true', there will be an additional 'cancel' button, which if pressed, will dismiss the dialog |
+| After Choosing \(choice\) | Starts event after a choice is selected in a Choose Dialog |
+| Show Text Dialog \(message, title, cancelable\) | Shows a dialog button where user can enter text, which will start the After Text Input event. If cancelable is set to 'true', there will be a cancel button, which if pressed, will dismiss the dialog |
+| After Text Input \(response\) | Starts event after text is input in a Text Dialog |
 
-AfterChoosing\(text choice\)
 
-Event after the user has made a selection for ShowChooseDialog.
-
-AfterTextInput\(text response\)
-
-Event raised after the user has responded to ShowTextDialog.
-
-Notifier
-
-• Methods
-
-DismissProgressDialog\(\)
-
-Dismiss a previously displayed ProgressDialog box
-
-ShowChooseDialog\(text message, text title, text button1Text, text button2Text, boolean cancelable\)
-
-Shows a dialog box with two buttons, from which the user can choose. If cancelable is true there will be an additional CANCEL button. Pressing a button will raise the AfterChoosing event. The "choice" parameter to AfterChoosing will be the text on the button that was pressed, or "Cancel" if the CANCEL button was pressed.
-
-ShowMessageDialog\(text message, text title, text buttonText\)
-
-Display an alert dialog with a single button that dismisses the alert.
-
-ShowProgressDialog\(text message, text title\)
-
-Shows a dialog box with an optional title and message \(use empty strings if they are not wanted\). This dialog box contains a spinning artifact to indicate that the program is working. It cannot be canceled by the user but must be dismissed by the Thunkable Program by using the DismissProgressDialog block.
-
-ShowTextDialog\(text message, text title, boolean cancelable\)
-
-Shows a dialog box where the user can enter text, after which the AfterTextInput event will be raised. If cancelable is true there will be an additional CANCEL button. Entering text will raise the AfterTextInput event. The "response" parameter to AfterTextInput will be the text that was entered, or "Cancel" if the CANCEL button was pressed.
 

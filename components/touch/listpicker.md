@@ -61,8 +61,6 @@ The Listpicker is a popular choice for drop down menus with more than 5 choices 
 
 ### ListView
 
----
-
 The ListView is a less customizable but also simpler drop down menu that can be displayed on the user's current screen
 
 ---
@@ -94,8 +92,6 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 
 ### Spinner
 
----
-
 The Spinner is a great drop down menu option for shorter lists
 
 ---
@@ -125,8 +121,6 @@ The Spinner is a great drop down menu option for shorter lists
 ---
 
 ### CheckBox
-
----
 
 The CheckBox is the simplest of menus because it has a single element that can be selected \(or unselected\)
 

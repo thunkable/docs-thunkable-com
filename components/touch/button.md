@@ -6,10 +6,10 @@
 
 Buttons are a key input for many apps and one of the most popular components on Thunkable. Many aspects of its appearance can be changed and different events can be triggered with different types of clicks - regular, long and touch up or touch down.
 
-|  | Default | Icon |
+|  | Default | Material Icon |
 | :--- | :--- | :--- |
-|  | ![](/assets/button.png) |  |
-| Common use case | Start an event | Navigate between screens |
+|  | ![](/assets/button.png) | ![](/assets/button-material-icon.png) |
+| Common use case | Start an event | Navigation or settings |
 
 ---
 
