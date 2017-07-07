@@ -31,6 +31,11 @@
       * [Notifier](components/touch/notifier.md)
       * [DatePicker / TimePicker](components/touch/datepicker.md)
     * [Voice](components/voice-+-audio.md)
+      * [Speech Recognizer](components/voice-+-audio/speech-recognizer.md)
+      * [Text to Speech](components/voice-+-audio/text-to-speech.md)
+      * Yandex Translate
+      * Sound / Player
+      * Sound Recorder
     * [Image](components/image-+-video.md)
     * [Device](components/device.md)
     * [Storage](components/storage.md)
