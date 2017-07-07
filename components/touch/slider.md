@@ -10,7 +10,7 @@ Sliders are useful components for inputs that can span a range of numerical valu
 
 ---
 
-### **Appearance**
+#### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -21,7 +21,7 @@ Sliders are useful components for inputs that can span a range of numerical valu
 
 ---
 
-### Functionality
+#### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |

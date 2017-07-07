@@ -35,7 +35,7 @@ The Listpicker is a popular choice for drop down menus with more than 5 choices 
 
 ---
 
-### **Appearance**
+#### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -67,7 +67,7 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 
 ---
 
-### Functionality
+#### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -80,7 +80,7 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 
 ---
 
-### **Appearance**
+#### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -100,7 +100,7 @@ The Spinner is a great drop down menu option for shorter lists
 
 ---
 
-### Functionality
+#### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -113,7 +113,7 @@ The Spinner is a great drop down menu option for shorter lists
 
 ---
 
-### **Appearance**
+#### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -132,7 +132,7 @@ The CheckBox is the simplest of menus because it has a single element that can b
 
 ---
 
-### Functionality
+#### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -144,7 +144,7 @@ The CheckBox is the simplest of menus because it has a single element that can b
 
 ---
 
-### **Appearance**
+#### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -153,8 +153,6 @@ The CheckBox is the simplest of menus because it has a single element that can b
 | Text | Text to display next to the CheckBox. |
 | Text Color | Text color of the label next to the CheckBox. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Visible | If checked, the Listpicker button will be visible on the screen |
-
----
 
 
 
