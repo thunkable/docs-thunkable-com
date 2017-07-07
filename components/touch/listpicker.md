@@ -37,25 +37,27 @@ The Listpicker is a popular choice for drop down menus with more than 5 choices 
 
 #### **Appearance**
 
+There are two elements to a ListPicker, a button that opens the ListPicker and the ListPicker itself
+
 | Property | Description |
 | :--- | :--- |
 | Height | Height in pixels, percent, 'Automatic' or 'Fill' |
 | Width | Width in pixels, percent, 'Automatic' or 'Fill' |
 | Shape | Default \(rectangle\), rounded, rectangular or oval. The shape will not be visible if an Image is being displayed |
-| Background Color | Background color of the Listpicker button. Default \(Gray\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
-| Image | You can upload an image to your app or reference an image url for the Listpicker button. If an image is uploaded, it will negate the background color and shape properties |
+| Background Color | Background color of the button. Default \(Gray\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Image | You can upload an image to your app or reference an image url for the button. If an image is uploaded, it will negate the background color and shape properties |
 | Title | Optional title that will display at the top of the list |
-| Text | Optional text that will display on the ListPicker button |
-| Text Color | Text color of the Listpicker button. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Text | Optional text that will display on the button |
+| Text Color | Text color of the button. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Item Text Color | The text color of the list items. Default \(White\) |
 | Item Background Color | The background color of the list items. Default \(Black\) |
 | Text Alignment | Left \(recommended\), center or right |
-| Font Bold | If checked, Listpicker button text is displayed in **bold** |
-| Font Italic | If checked, Listpicker button text is displayed in _italic_ |
-| Font Size | Point size for Listpicker button text |
+| Font Bold | If checked, button text is displayed in **bold** |
+| Font Italic | If checked, button text is displayed in _italic_ |
+| Font Size | Point size for button text |
 | Font Typeface | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
-| Visible | If checked, the Listpicker button will be visible on the screen |
+| Visible | If checked, the button will be visible on the screen |
 
 ---
 
