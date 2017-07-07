@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Location Sensor
+# Virtual Reality
 
 ---
 

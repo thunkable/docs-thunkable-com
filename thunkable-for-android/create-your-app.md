@@ -4,15 +4,9 @@
 
 ---
 
-### Drag and drop components
-
-### Add functionality
-
----
-
 ### Limits
 
-| Property | Limit |
+|  | Limit |
 | :--- | :--- |
 | App size | 10 MB |
 | App icon size | 96 x 96 px \(recommended\) |

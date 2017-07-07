@@ -32,17 +32,17 @@
       * [DatePicker / TimePicker](components/touch/datepicker.md)
     * [Voice](components/voice-+-audio.md)
     * [Image](components/image-+-video.md)
-    * Device
-    * Storage
-    * Social
+    * [Device](components/device.md)
+    * [Storage](components/storage.md)
+    * [Social](components/social.md)
     * [Gaming](components/gaming.md)
     * [Mapping](components/mapping.md)
       * [Google Maps](components/mapping/google-maps.md)
       * [Location Sensor](components/mapping/location-sensor.md)
-    * Internet of Things
-    * Virtual Reality
-    * Artificial Intelligence
-    * Monetisation
+    * [Internet of Things](components/internet-of-things.md)
+    * [Virtual Reality](components/virtual-reality.md)
+    * [Artificial Intelligence](components/artificial-intelligence.md)
+    * [Monetisation](components/monetisation.md)
   * [Extensions](thunkable-for-android/extensions.md)
   * [Advanced](thunkable-for-android/advanced.md)
 
