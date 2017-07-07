@@ -41,6 +41,10 @@ Alerts are useful as passive messages as the user is navigating your app but no 
 
 Dialogs are useful when a message requires the user's attention and in some cases, a choice before proceeding
 
+|  | Message Dialog | Progress Dialog | Choose Dialog | Text Dialog |
+| :--- | :--- | :--- | :--- | :--- |
+|  | ![](/assets/notifier.png) | ![](/assets/dialog-progress.png) | ![](/assets/dialog-choose.png) | ![](/assets/dialog-text.png) |
+
 ---
 
 #### Functionality
