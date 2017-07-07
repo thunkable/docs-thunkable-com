@@ -22,6 +22,10 @@ The sample app [Thunkableagram: AI-powered Instagram](#) uses all of these types
 
 ### **Vertical, Horizontal or Scroll Arrangements**
 
+---
+
+#### Appearance
+
 | Property | Description |
 | :--- | :--- |
 | Height | Height in pixels, percent, 'Automatic' or 'Fill'. For most cases, we recommend setting to 'Automatic' or 'Fill' |
@@ -35,6 +39,10 @@ The sample app [Thunkableagram: AI-powered Instagram](#) uses all of these types
 ---
 
 ### Table Arrangement
+
+---
+
+#### Appearance
 
 | Property | Description |
 | :--- | :--- |

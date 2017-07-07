@@ -32,6 +32,12 @@ The current Web Viewer does support image uploading but not full screen video pl
 | Uses Location | If checked, gives app permission to use the geolocation API |
 | Prompt for Permission | If checked, prompts the user to give permission to use the geolocation API |
 | Ignore SSL Errors | If checked, ignores SSL errors.  Use this to accept self-signed certificates from websites |
+| Go to URL | Loads the Web Viewer to a given url or source file |
+| Go Home | Loads the Home URL |
+| Go Back | Goes back to the previous page \(if available\) |
+| Go Forward | Goes forward to next page \(if available\) |
+| Clear Caches | Clears the Web Viewer caches |
+| Clear Locations | Clears stored location permissions |
 
 ---
 
@@ -44,18 +50,7 @@ The current Web Viewer does support image uploading but not full screen video pl
 | Visible | If checked, the Web Viewer will be visible on the screen |
 | Zoom Display | Recommend to uncheck, which disables zoom control.  if checked, enables zoom control |
 
----
-
-#### Events
-
-| Event | Description |
-| :--- | :--- |
-| Go to URL | Loads the Web Viewer to a given url or source file |
-| Go Home | Loads the Home URL |
-| Go Back | Goes back to the previous page \(if available\) |
-| Go Forward | Goes forward to next page \(if available\) |
-| Clear Caches | Clears the Web Viewer caches |
-| Clear Locations | Clears stored location permissions |
+#### 
 
 
 

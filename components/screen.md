@@ -26,7 +26,7 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 
 ---
 
-### App settings\* \(Screen1 Only\)
+#### App settings \(Screen1 Only\)
 
 | Property | Description |
 | :--- | :--- |
@@ -36,11 +36,9 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 | Version Name | Description which helps users distinguish between different versions of your app on the Google Play Store |
 | Version Code | An integer value which must be incremented each time a new .apk is created for the Google Play Store |
 
-\*Can only be set in the Designer
-
 ---
 
-### Appearance, layout & animations
+#### Appearance
 
 | Property | Description |
 | :--- | :--- |
@@ -59,7 +57,7 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 
 ---
 
-### Events
+#### Functionality
 
 | Event | Description |
 | :--- | :--- |

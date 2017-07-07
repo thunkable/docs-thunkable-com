@@ -15,7 +15,7 @@ A password text box is the same as an ordinary TextBox component, except that it
 
 ---
 
-### **Appearance**
+#### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -27,14 +27,12 @@ A password text box is the same as an ordinary TextBox component, except that it
 | Width | Width in pixels, percent, 'Automatic' or 'Fill' |
 | Background Color | Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Text Color | Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
-| Text Alignment\* | Left, center \(recommended\) or right |
-| Font Bold\* | If checked, text is displayed in **bold** |
-| Font Italic\* | If checked, text is displayed in _italic_ |
+| Text Alignment | Left, center \(recommended\) or right |
+| Font Bold | If checked, text is displayed in **bold** |
+| Font Italic | If checked, text is displayed in _italic_ |
 | Font Size | Point size for text |
-| Font Typeface\* | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
+| Font Typeface | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
 | Visible | If checked, the textbox will be visible on the screen |
-
-\*Can only be set in the Designer
 
 ---
 
