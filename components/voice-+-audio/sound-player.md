@@ -46,8 +46,8 @@ The Sound and Player components are mainly used to  play sound files but they ca
 | Loop | If checked, the sound will play on a loop |
 | Vibrate \(milliseconds\) | Vibrates for the specified number of milliseconds e.g. 1000 is 1 second |
 | Plays Only in Foreground | If checked, the player will pause playing when leaving the current screen. If unchecked \(default\), the player will continue playing even if the user leaves the current screen |
-| IsPlaying | Reports whether the sound is playing |
-| Completed | Reports that the sound has reached the end |
+| IsPlaying | Indicates whether the sound is playing |
+| Completed | Indicates that the sound has reached the end |
 | Other Player Started | This event is signaled when another player has started \(and the current player is playing or paused but not stopped\) |
 
 
