@@ -37,10 +37,12 @@ There are two elements to an ImagePicker, a button that opens the ImagePicker an
 
 | Event | Description |
 | :--- | :--- |
-| After Picking | User tapped and releases the button |
-| Long Click | User holds the button down |
+| Open | Opens the Image Picker |
 | Touch Down | User gently presses the button |
 | Touch Up | User releases the button |
+| Selection | The selected image |
+| After Picking | Event after user selects an image |
+| Before Picking | Event before a user selects an image |
 | Enabled | If checked, button functionality is enabled |
 | Got Focus | User's finger is over the button, making it possible to click |
 | Lost Focus | User's finger is away from the button, making it no longer possible to click |
