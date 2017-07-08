@@ -12,9 +12,9 @@ Users of Android 4.4 and above should have access to the latest Web Viewer avail
 
 The current Web Viewer does support image uploading but not full screen video playing within a browser.
 
-|  |  |  |  |  |
+|  | Web Viewer Use 1 | Web Viewer Use 2 | Web Viewer Use 3 | Web Viewer Use 4 |
 | :--- | :--- | :--- | :--- | :--- |
-| Common use case | Display a website from a url | Display an image from url or file source | Display an offline website from html | Display a Material Design element from html |
+| Common use case | Display a website from a url | Display an image from url or file source. Supports .gifs unlike the Image component | Display an offline website from html | Display a Material Design element from html |
 
 ---
 

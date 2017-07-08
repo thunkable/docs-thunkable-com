@@ -37,9 +37,10 @@
       * [Sound / Player](components/voice-+-audio/sound-player.md)
       * [Sound Recorder](components/voice-+-audio/sound-recorder.md)
     * [Image](components/image-+-video.md)
-      * [Image Picker](components/image-+-video/image-picker.md)
+      * [Image](components/image-+-video/image.md)
       * [Camera](components/image-+-video/camera.md)
-      * Camcorder
+      * [Camcorder](components/image-+-video/camcorder.md)
+      * [Image Picker](components/image-+-video/image-picker.md)
       * [Cloudinary DB](components/image-+-video/cloudinary-db.md)
       * [Microsoft Image / Emotion Recognizer](components/image-+-video/microsoft-image-recognizer.md)
     * [Storage](components/storage.md)
