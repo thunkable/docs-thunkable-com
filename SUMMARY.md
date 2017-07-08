@@ -35,7 +35,7 @@
       * [Text to Speech](components/voice-+-audio/text-to-speech.md)
       * [Yandex Translate](components/voice-+-audio/yandex-translate.md)
       * [Sound / Player](components/voice-+-audio/sound-player.md)
-      * Sound Recorder
+      * [Sound Recorder](components/voice-+-audio/sound-recorder.md)
     * [Image](components/image-+-video.md)
     * [Device](components/device.md)
     * [Storage](components/storage.md)
