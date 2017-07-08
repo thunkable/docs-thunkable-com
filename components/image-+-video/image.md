@@ -4,7 +4,9 @@
 
 ---
 
-|  | Image | [WebViewer](/components/webview.md) |
+The image component displays a variety of image formats. We recommend the Web Viewer for displaying animated .gifs
+
+|  | Image | [Web Viewer](/components/webview.md) |
 | :--- | :--- | :--- |
 | Common use case | Display any images but .gifs | Display .gifs |
 
