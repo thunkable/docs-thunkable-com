@@ -4,7 +4,7 @@
 
 ---
 
-The Sound and Player components play sound files and can set the phone to vibrate
+The Sound and Player components are mainly used to  play sound files but they can also set the phone to vibrate. The Sound component is recommended for short sound files like sound effects while the Player is recommended for longer sound files like songs
 
 |  | Sound | Player |
 | :--- | :--- | :--- |
