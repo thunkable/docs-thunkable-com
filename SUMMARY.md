@@ -39,11 +39,9 @@
     * [Image](components/image-+-video.md)
       * [Image Picker](components/image-+-video/image-picker.md)
       * [Camera](components/image-+-video/camera.md)
-      * [Cloudinary DB](components/image-+-video/cloudinary-db.md)
-      * Barcode Scanner
-      * [Microsoft Image Recognizer](components/image-+-video/microsoft-image-recognizer.md)
-      * [Microsoft Emotion Recognizer](components/image-+-video/microsoft-emotion-recognizer.md)
       * Camcorder
+      * [Cloudinary DB](components/image-+-video/cloudinary-db.md)
+      * [Microsoft Image / Emotion Recognizer](components/image-+-video/microsoft-image-recognizer.md)
     * [Storage](components/storage.md)
     * [Device](components/device.md)
     * [Social](components/social.md)
