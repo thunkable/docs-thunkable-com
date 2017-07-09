@@ -8,7 +8,7 @@ Smartphones are fast becoming the default cameras for most people. With high per
 
 |  | Display Image | Capture Image | Capture Moving Images | Select Image | Store Image in the Cloud | Understand Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Component | [Image](/components/image-+-video/image.md) or [Webviewer](/components/webview.md) | [Camera](/components/image-+-video/camera.md) | [Camcorder](/components/image-+-video/camcorder.md) | [Image Picker](/components/image-+-video/image-picker.md) | [Cloudinary Datasbase](/components/image-+-video/cloudinary-db.md) | Microsoft Image and Emotion Recognizer |
+| Component | [Image](/components/image-+-video/image.md) or [Webviewer](/components/webview.md) | [Camera](/components/image-+-video/camera.md) | [Camcorder](/components/image-+-video/camcorder.md) | [Image Picker](/components/image-+-video/image-picker.md) | [Cloudinary Datasbase](/components/image-+-video/cloudinary-db.md) | [Microsoft Image and Emotion Recognizer](/components/image-+-video/microsoft-image-recognizer.md) |
 
 
 
