@@ -6,7 +6,12 @@
 
 Microsoft's Image and Emotion Recognizer services puts the power of some of the most advanced open artificial intelligence tools in your image-based apps.
 
-The Image Recognizer returns information about visual content found in an image while the Emotion Recognizer detects emotions from images with a single face.
+The Image Recognizer returns information about visual content found in an image while the Emotion Recognizer detects emotions from images containing a single face.
+
+|  | Image Recognizer | Emotion Recognizer |
+| :--- | :--- | :--- |
+| Recommended images | Any image | Images with a single face |
+| Expected result | Single line 'description' with a 'description score' and image 'tags' | Most likely 'emotion' and 'emotion score' from anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions |
 
 The sample app [Thunkableagram: AI-powered Instagram](#) uses the Image Recognizer to auto-caption images
 
@@ -37,12 +42,6 @@ The Image Recognizer returns information about visual content found in an image 
 ![](/assets/image-recognizer-blocks.png)
 
 ---
-
-
-
-
-
-
 
 The Emotion API takes a facial expression in an image as an input, and returns the confidence across a set of emotions for each face in the image, as well as bounding box for the face, using the Face API. If a user has already called the Face API, they can submit the face rectangle as an optional input.
 
