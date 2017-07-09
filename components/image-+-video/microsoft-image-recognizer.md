@@ -10,6 +10,7 @@ The Image Recognizer returns information about visual content found in an image 
 
 |  | Image Recognizer | Emotion Recognizer |
 | :--- | :--- | :--- |
+|  | ![](/assets/image-recognizer.jpg) | ![](/assets/emotion-recognizer.jpg) |
 | Recommended images | Any image | Images with a single face |
 | Expected result | Single line 'description' with a 'description score' and image 'tags' | Most likely 'emotion' and 'emotion score' from anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions |
 
@@ -34,8 +35,6 @@ Thunkable provides its own API key by default for your convenience but if you ex
 
 The Image Recognizer returns information about visual content found in an image and provides a set of tags and its best single line description.
 
-![](/assets/image-recognizer1.jpg)
-
 ---
 
 #### Select an image and let Microsoft's Image Recognizer detect its contents
@@ -55,9 +54,22 @@ The Image Recognizer returns information about visual content found in an image 
 
 ### Microsoft Emotion Recognizer
 
-The Image Recognizer returns information about visual content found in an image and provides a set of tags and its best single line description.
+The Emotion Recognizer detects emotions from images containing a single face. The emotions detected are anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions
 
-The Emotion API takes a facial expression in an image as an input, and returns the confidence across a set of emotions for each face in the image, as well as bounding box for the face, using the Face API. If a user has already called the Face API, they can submit the face rectangle as an optional input.
+---
 
-The emotions detected are anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions
+#### Take a picture with a single face and let Microsoft's Emotion Recognizer detect its emotion
+
+![](/assets/emotion-recognizer-blocks.png)
+
+---
+
+#### Functionality
+
+| Event | Description |
+| :--- | :--- |
+| Post Image \(path\) | Uploads the image \(specified by the path\) to the Microsoft Cognitive Service |
+| Got Response \(mostLikelyEmotion, mostLikelyEmotionScore, tags, responseCode, responseContent\) | If okay \('responseCode' = 200\), returns the 'most likely emotion' and a 'most likely emotion score' \(confidence between 0 and 1\). If not okay, will return an explanation for the error \('responseContent'\) |
+
+
 
