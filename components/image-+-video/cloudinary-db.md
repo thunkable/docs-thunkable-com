@@ -8,7 +8,7 @@ Cloudinary is an easy-to-use service for uploading your images in the cloud and 
 
 ---
 
-####  Take a picture, upload it to the Cloudinary cloud and store its url in Firebase
+#### Take a picture, upload it to the Cloudinary cloud and store its url in Firebase
 
 #### ![](/assets/cloudinary-blocks.png)
 
@@ -20,7 +20,7 @@ No set up is required. Thunkable provides its own subscription key as default. T
 
 You may want to create your own free account with [Cloudinary](http://cloudinary.com/) if you want to upload larger images or if you want to ensure better privacy for your user's images.
 
-| Event | Description |
+| Property | Description |
 | :--- | :--- |
 | Subscription Key | Thunkable provides its own subscription key as DEFAULT. Do not change unless you want to replace it with your own |
 | Subscription Secret | Thunkable provides its own API secret as DEFAULT. Do not change unless you want to replace it with your own |
