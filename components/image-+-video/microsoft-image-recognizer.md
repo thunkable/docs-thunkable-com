@@ -26,6 +26,7 @@ Thunkable provides its own API key by default for your convenience but if you ex
 | Property | Description |
 | :--- | :--- |
 | Subscription Key | Thunkable provides its own subscription key as DEFAULT. You can add your own if you expect your users to upload more than 1,000 images per month |
+| Server Url | Distinct Url required for the Computer Vision API. Do not change the DEFAULT unless you are trying to access this component from China, in which case you need to provide a different server Url |
 
 ---
 
@@ -42,6 +43,19 @@ The Image Recognizer returns information about visual content found in an image 
 ![](/assets/image-recognizer-blocks.png)
 
 ---
+
+#### Functionality
+
+| Event | Description |
+| :--- | :--- |
+| Post Image \(path\) | Uploads the image \(specified by the path\) to the Microsoft Cognitive Service |
+| Got Response \(description, descriptionScore, tags, responseCode, responseContent\) | If okay \('responseCode' = 200\), returns a one line 'description', a 'description score' \(confidence between 0 and 1\), and a set of image 'tags'. If not okay, will return an explanation for the error \('responseContent'\) |
+
+---
+
+### Microsoft Emotion Recognizer
+
+The Image Recognizer returns information about visual content found in an image and provides a set of tags and its best single line description.
 
 The Emotion API takes a facial expression in an image as an input, and returns the confidence across a set of emotions for each face in the image, as well as bounding box for the face, using the Face API. If a user has already called the Face API, they can submit the face rectangle as an optional input.
 
