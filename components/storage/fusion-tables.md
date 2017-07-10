@@ -1,12 +1,10 @@
 #### **Thunkable for Android **❤
 
-# Fusion Tables
+# Fusion Tables ![](/assets/fusion-tables-icon.png)
 
 ---
 
-Fusion Tables is a powerful database component that lets you store, share and query large data sets in a cloud powered by Google. 
-
-
+Fusion Tables is a powerful database component that lets you store, share and query large data sets in a cloud powered by Google.
 
 ---
 
