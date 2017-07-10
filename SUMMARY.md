@@ -44,8 +44,8 @@
       * [Cloudinary DB](components/image-+-video/cloudinary-db.md)
       * [Microsoft Image / Emotion Recognizer](components/image-+-video/microsoft-image-recognizer.md)
     * [Storage](components/storage.md)
-      * Tiny DB
-      * Firebase DB
+      * [Tiny DB](components/storage/tiny-db.md)
+      * [Firebase DB](components/storage/firebase-db.md)
       * Spreadsheets
     * [Device](components/device.md)
     * [Social](components/social.md)

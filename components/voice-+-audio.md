@@ -4,9 +4,9 @@
 
 ---
 
-For many users, smartphones are not the ideal device for typing into. Fortunately, every smartphone has a microphone and recent breakthroughs in speech recognition technology has made our voices a natural and increasingly popular way of interacting with our devices. 
+For many users, smartphones are not the ideal device for typing into. Fortunately, every smartphone has a microphone and recent breakthroughs in speech recognition technology has made our voices a natural and increasingly popular way of interacting with our devices.
 
-In places without strong data connections, voice and audio is a much more efficient medium to work with than images or video. 
+In places without strong data connections, voice and audio is a much more efficient medium to work with than images or video.
 
 |  | Understand user's voice | Convert words to speech | Translate user's speech | Record speech or sound | Play sound |
 | :--- | :--- | :--- | :--- | :--- | :--- |
