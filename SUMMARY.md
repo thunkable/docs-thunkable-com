@@ -46,7 +46,9 @@
     * [Storage](components/storage.md)
       * [Tiny DB](components/storage/tiny-db.md)
       * [Firebase DB](components/storage/firebase-db.md)
-      * Spreadsheets
+      * [Spreadsheets](components/storage/spreadsheets.md)
+      * [File](components/storage/file.md)
+      * Tiny Web DB
     * [Device](components/device.md)
     * [Social](components/social.md)
     * [Gaming](components/gaming.md)
