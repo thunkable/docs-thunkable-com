@@ -1,12 +1,12 @@
 #### **Thunkable for Android **❤
 
-# Firebase DB
+# Fusion Tables
 
 ---
 
-Tiny Web DB is a non-visible component that communicates with a Web service to store and retrieve information.
+Fusion Tables is a powerful database component that lets you store, share and query large data sets in a cloud powered by Google. 
 
-**Important Note** This database was created initial for prototyping and the data is public to all other users. We highly recommend using an alternate database like Firebase DB or Spreadsheets for storing and retrieving data in the cloud
+
 
 ---
 

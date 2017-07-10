@@ -23,5 +23,5 @@ Data is the content that powers most apps and storage is an essential elements o
 
 #### Special Cases
 
-For image files, we love the Cloudinary DB component.
+For image files, we love the [Cloudinary DB](/components/image-+-video/cloudinary-db.md) component.
 
