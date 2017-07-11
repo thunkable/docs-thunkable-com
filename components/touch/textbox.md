@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# TextBox ![](/assets/textbox-icon.png) and Password TextBox ![](/assets/password-textbox-icon.png)
+# TextBox ![](/assets/textbox-icon.png) + Password TextBox ![](/assets/password-textbox-icon.png)
 
 ---
 

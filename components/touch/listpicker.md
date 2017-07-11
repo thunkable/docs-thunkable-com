@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# ListPicker ![](/assets/listpicker-icon.png), ListView ![](/assets/listview-icon.png), Spinner ![](/assets/spinner-icon.png) and CheckBox ![](/assets/checkbox-icon.png)
+# ListPicker ![](/assets/listpicker-icon.png) + ListView ![](/assets/listview-icon.png) +  Spinner ![](/assets/spinner-icon.png)  + CheckBox ![](/assets/checkbox-icon.png)
 
 ---
 
