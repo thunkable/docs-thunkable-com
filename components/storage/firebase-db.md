@@ -47,7 +47,7 @@ To create your own database with Firebase, please [visit this link](https://fire
 | Event | Description |
 | :--- | :--- |
 | Store Value \(tag, valueToStore\) | Asks Firebase to store the given value under the given tag |
-| Data Changed \(tag, value\) | Indicates that the data in the Firebase has changed. Launches an event with the tag and value that have been updated. |  |
+| .Data Changed \(tag, value\) | Indicates that the data in the Firebase has changed. Launches an event with the tag and value that have been updated |
 | Get Value \(tag, valueIfTagNotThere\) | GetValue asks Firebase to get the value stored under the given tag. It will pass valueIfTagNotThere to GotValue if there is no value stored under the tag |
 | Got Value \(tag, value\) | Indicates that a GetValue request has succeeded |
 | Get TagList | Get the list of tags for this application. When complete a "TagList" event will be triggered with the list of known tags |
@@ -55,9 +55,9 @@ To create your own database with Firebase, please [visit this link](https://fire
 | Clear Tag \(tag\) | Remove the tag from Firebase |
 | Remove First \(tag\) | Return the first element of a list and atomically remove it. If two devices use this function simultaneously, one will get the first element and the the other will get the second element, or an error if there is no available element. When the element is available, the "FirstRemoved" event will be triggered |
 | First Removed \(value\) | Event triggered by the "RemoveFirst" function. The argument "value" is the object that was the first in the list, and which is now removed |
-|  Append Value \(tag, valueToAdd\) | Append a value to the end of a list atomically. If two devices use this function simultaneously, both will be appended and no data lost |
-|  Firebase Error \(message\) | Indicates an error with communicating with Firebase |
-|  Unauthenticate | For testing purposes only. If you are having difficulty with Thunkable Live and you are switching between different Firebase accounts, you may need to use this function to clear internal Firebase caches. You can just use the "Do It" function on this block in the blocks editor |
+| Append Value \(tag, valueToAdd\) | Append a value to the end of a list atomically. If two devices use this function simultaneously, both will be appended and no data lost |
+| Firebase Error \(message\) | Indicates an error with communicating with Firebase |
+| Unauthenticate | For testing purposes only. If you are having difficulty with Thunkable Live and you are switching between different Firebase accounts, you may need to use this function to clear internal Firebase caches. You can just use the "Do It" function on this block in the blocks editor |
 
 
 
