@@ -47,7 +47,7 @@ To create your own database with Firebase, please [visit this link](https://fire
 | Event | Description |
 | :--- | :--- |
 | Store Value \(tag, valueToStore\) | Asks Firebase to store the given value under the given tag |
-| .Data Changed \(tag, value\) | Indicates that the data in the Firebase has changed. Launches an event with the tag and value that have been updated |
+| Data Changed \(tag, value\) | Indicates that the data in the Firebase has changed. Launches an event with the tag and value that have been updated |
 | Get Value \(tag, valueIfTagNotThere\) | GetValue asks Firebase to get the value stored under the given tag. It will pass valueIfTagNotThere to GotValue if there is no value stored under the tag |
 | Got Value \(tag, value\) | Indicates that a GetValue request has succeeded |
 | Get TagList | Get the list of tags for this application. When complete a "TagList" event will be triggered with the list of known tags |
