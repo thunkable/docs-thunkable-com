@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Label
+# Label ![](/assets/label-icon.png)
 
 ---
 

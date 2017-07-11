@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# TextBox and Password TextBox
+# TextBox ![](/assets/textbox-icon.png) and Password TextBox ![](/assets/password-textbox-icon.png)
 
 ---
 
@@ -8,8 +8,9 @@ Textboxes are a popular input component especially in apps with forms and login 
 
 A password text box is the same as an ordinary TextBox component, except that it displays an encoded character \* instead of the characters typed by the user
 
-|  | TextBox | Password TextBox |
+|  | ![](/assets/textbox-icon.png) | ![](/assets/password-textbox-icon.png) |
 | :--- | :--- | :--- |
+|  | TextBox | Password TextBox |
 |  | ![](/assets/textbox.png) | ![](/assets/password-textbox.png) |
 | Common use case | Username inputs for app login | Password inputs for app login |
 
