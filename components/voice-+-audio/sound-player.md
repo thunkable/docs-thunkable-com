@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Sound and Player
+# Sound ![](/assets/sound-icon.png) and Player 
 
 ---
 

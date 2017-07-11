@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Speech Recognizer
+# Speech Recognizer ![](/assets/speech-recognizer-icon.png)
 
 ---
 

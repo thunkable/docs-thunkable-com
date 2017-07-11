@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Yandex Translate
+# Yandex Translate ![](/assets/yandex-icon.png)
 
 ---
 

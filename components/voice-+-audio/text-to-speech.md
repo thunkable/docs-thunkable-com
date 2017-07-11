@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Text to Speech
+# Text to Speech ![](/assets/text-to-speech-icon.png)
 
 ---
 

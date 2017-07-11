@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Notifier
+# Notifier ![](/assets/notifier-icon.png)
 
 ---
 

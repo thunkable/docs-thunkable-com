@@ -1,13 +1,14 @@
-#### **Thunkable for Android **❤
+#### [DatePicker](https://www.gitbook.com/book/albertching/thunkable-docs/edit#)**Thunkable for Android **❤
 
-# DatePicker and TimePicker
+# DatePicker ![](/assets/datepicker-icon.png) and TimePicker ![](/assets/timepicker-icon.png)
 
 ---
 
 Date and TimePicker are components that make it easier for users to select dates and times in a consistent format
 
-|  | [DatePicker](#datepicker) | [TimePicker](#timepicker) |
+|  | ![](/assets/datepicker-icon.png) | ![](/assets/timepicker-icon.png) |
 | :--- | :--- | :--- |
+|  | [DatePicker](#datepicker) | [TimePicker](#timepicker) |
 |  | ![](/assets/datepicker.png) | ![](/assets/timepicker.png) |
 | Common use case | Selecting day | Selecting time |
 

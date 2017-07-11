@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Slider
+# Slider ![](/assets/slider-icon.png)
 
 ---
 
