@@ -1,6 +1,6 @@
 #### T**hunkable for Android **❤
 
-# Layout
+# Layout ![](/assets/hor-arrange-icon.png)  ![](/assets/ver-arrange-icon.png)  ![](/assets/table-arrange-icon.png)
 
 ---
 
@@ -10,8 +10,9 @@ Vertical arrangements are often used as a substitute for screens by turning thei
 
 The sample app [Thunkableagram: AI-powered Instagram](#) uses all of these types of arrangements
 
-| Component | Vertical Arrangement | Horizontal Arrangement | Vertical or Horizontal Scroll Arrangement | Table Arrangement |
+|  | ![](/assets/ver-arrange-icon.png) | ![](/assets/hor-arrange-icon.png) |  | ![](/assets/table-arrange-icon.png) |
 | :--- | :--- | :--- | :--- | :--- |
+| Component | Vertical Arrangement | Horizontal Arrangement | Vertical or Horizontal Scroll Arrangement | Table Arrangement |
 | Common use case | Screen substitute | Top navigation menu or padding | Scrollable vertical content | Bottom tabbed menu |
 
 ---
@@ -20,7 +21,7 @@ The sample app [Thunkableagram: AI-powered Instagram](#) uses all of these types
 
 ---
 
-### **Vertical, Horizontal or Scroll Arrangements**
+### **Vertical, Horizontal or Scroll Arrangements **![](blob:https://www.gitbook.com/ead5a095-560e-4172-a93f-4450e0d7ac7d)  ![](/assets/hor-arrange-icon.png)
 
 ---
 
@@ -38,7 +39,7 @@ The sample app [Thunkableagram: AI-powered Instagram](#) uses all of these types
 
 ---
 
-### Table Arrangement
+### Table Arrangement ![](/assets/table-arrange-icon.png)
 
 ---
 

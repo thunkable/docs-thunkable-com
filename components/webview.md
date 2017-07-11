@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Web Viewer
+# Web Viewer ![](/assets/web-viewer-icon.png)
 
 ---
 

@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Screen
+# Screen ![](/assets/screen-icon.png)
 
 ---
 

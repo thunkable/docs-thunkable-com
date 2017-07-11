@@ -8,9 +8,8 @@ One of the first defining features of smartphones was the touch screen interface
 
 Below are the different touch interface components and what they look like on a Samsung S6 phone by default
 
-|  |  |  |  |
+| [Button](/components/touch/button.md)  | ![](/assets/button.png) | [Label](/components/touch/label.md) | ![](/assets/label.png) |
 | :--- | :--- | :--- | :--- |
-| [Button](/components/touch/button.md) | ![](/assets/button.png) | [Label](/components/touch/label.md) | ![](/assets/label.png) |
 | [TextBox](/components/touch/textbox.md) | ![](/assets/textbox.png) | [Password TextBox](/components/touch/textbox.md) | ![](/assets/password-textbox.png) |
 | [ListPicker](/components/touch/listpicker.md) | ![](/assets/listpicker.png) | [ListView](/components/touch/listpicker.md) | ![](/assets/listview.png) |
 | [Spinner](/components/touch/listpicker.md) | ![](/assets/spinner.png) | [CheckBox](/components/touch/listpicker.md) | ![](/assets/checkbox.png) |
