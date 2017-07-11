@@ -13,7 +13,7 @@ Data is the content that powers most apps and storage is an essential elements o
 |  | ![](/assets/tiny-db-icon.png) | ![](/assets/file-icon.png) | ![](/assets/firebase-icon.png) | ![](/assets/spreadsheets-icon.png) | ![](/assets/fusion-tables-icon.png) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | Tiny DB | File | Firebase DB | Spreadsheets | Fusion Tables |
-| Description | Simple \(tag, value\) data stored locally on the device; ideal for saving data from a previous app session | Access other file types \(e.g. PDFs\) stored locally on the device | Simple \(tag, value\) data stored in the cloud that can be set to private | More complex data \(field, multiple values\) stored in a Google or Microsoft spreadsheet | Most complex data sets |
+| Description | One row of data stored locally on the device; ideal for saving data from a previous app session | Access other file types \(e.g. PDFs\) stored locally on the device | One row of data stored in the cloud that can be set to private | Multiple rows of data stored in a Google or Microsoft spreadsheet | More than a thousand rows of data secured by Google Service authentication |
 | Local / cloud | Works offline | Works offline | Limited data connection okay | Reliable data connection | Reliable data connection |
 | Sample app types | All | PDF viewers | Messaging | Apps with lists, simple mapping | Complex mapping |
 

@@ -12,7 +12,7 @@
 
 ---
 
-### ListPicker
+### ListPicker ![](/assets/listpicker-icon.png)
 
 The Listpicker is a popular choice for drop down menus with more than 5 choices since the list itself opens in a new screen. A searchable filter bar is also available to make selection in long lists even easier for users.
 
@@ -62,7 +62,7 @@ There are two elements to a ListPicker, a button that opens the ListPicker and t
 
 ---
 
-### ListView
+### ListView ![](/assets/listview-icon.png)
 
 The ListView is a less customizable but also simpler drop down menu that can be displayed on the user's current screen
 
@@ -93,7 +93,7 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 
 ---
 
-### Spinner
+### Spinner ![](/assets/spinner-icon.png)
 
 The Spinner is a great drop down menu option for shorter lists
 
@@ -123,7 +123,7 @@ The Spinner is a great drop down menu option for shorter lists
 
 ---
 
-### CheckBox
+### CheckBox ![](/assets/checkbox-icon.png)
 
 The CheckBox is the simplest of menus because it has a single element that can be selected \(or unselected\)
 

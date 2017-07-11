@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Camera
+# Camera ![](/assets/camera-icon.png)
 
 ---
 

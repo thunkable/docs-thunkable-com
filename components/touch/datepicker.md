@@ -14,7 +14,7 @@ Date and TimePicker are components that make it easier for users to select dates
 
 ---
 
-### DatePicker
+### DatePicker ![](/assets/datepicker-icon.png)
 
 ---
 
@@ -60,7 +60,7 @@ There are two elements to a DatePicker, a button that opens the DatePicker and t
 
 ---
 
-### TimePicker
+### TimePicker ![](/assets/timepicker-icon.png)
 
 ---
 

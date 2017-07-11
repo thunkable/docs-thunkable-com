@@ -1,12 +1,10 @@
 #### **Thunkable for Android **❤
 
-# Image Picker
+# Image Picker ![](/assets/image-picker-icon.png)
 
 ---
 
 The Image Picker accesses all the images stored on the phone and in the cloud via other services
-
-![](/assets/image-picker.png)
 
 ---
 

@@ -1,18 +1,19 @@
 #### **Thunkable for Android **❤
 
-# Sound ![](/assets/sound-icon.png) and Player 
+# Sound ![](/assets/sound-icon.png) and Player ![](/assets/player-icon.png)
 
 ---
 
 The Sound and Player components are mainly used to  play sound files but they can also set the phone to vibrate. The Sound component is recommended for short sound files like sound effects while the Player is recommended for longer sound files like songs
 
-|  | Sound | Player |
+|  | ![](/assets/sound-icon.png) | ![](/assets/player-icon.png) |
 | :--- | :--- | :--- |
+|  | Sound | Player |
 | Common use case | Short sound files like sound effects | Long sound files like songs |
 
 ---
 
-### Sound
+### Sound ![](/assets/sound-icon.png)
 
 ---
 
@@ -30,7 +31,7 @@ The Sound and Player components are mainly used to  play sound files but they ca
 
 ---
 
-### Player
+### Player ![](/assets/player-icon.png)
 
 ---
 

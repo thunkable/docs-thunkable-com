@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Camcorder
+# Camcorder ![](/assets/camcorder-icon.png)
 
 ---
 

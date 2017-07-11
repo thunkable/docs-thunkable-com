@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Microsoft Image and Emotion Recognizer
+# Microsoft Image and Emotion Recognizer ![](/assets/microsoft-icon.png)
 
 ---
 

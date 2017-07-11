@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Image
+# Image ![](/assets/image-icon.png)
 
 ---
 

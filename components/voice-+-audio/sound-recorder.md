@@ -1,10 +1,10 @@
 #### **Thunkable for Android **❤
 
-# Sound Recorder
+# Sound Recorder ![](/assets/sound-recorder-icon.png)
 
 ---
 
-The Sound Recorder records audio
+The Sound Recorder records audio and saves it locally to your phone
 
 ---
 
@@ -14,7 +14,7 @@ The Sound Recorder records audio
 | :--- | :--- |
 | Saved Recording | Specifies the path where the sound recording should be stored. The path should specify an existing directory and a file name with the extension .3gp. If this property is empty, the Sound Recorder will automatically save a file in an appropriate location |
 | Start | Starts recording |
-| Stop | Stops recoding |
+| Stop | Stops recording |
 | After Sound Recorded \(sound\) | Provides location of newly recorded sound |
 | Stop | Stops playing the sound |
 | Started Recording | Indicates that the recorder has started, and can be stopped |
