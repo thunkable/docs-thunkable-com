@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Firebase DB
+# Firebase DB ![](/assets/firebase-icon.png)
 
 ---
 

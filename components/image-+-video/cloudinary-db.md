@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Cloudinary Database
+# Cloudinary Database ![](/assets/cloudinary-icon.png)
 
 ---
 
