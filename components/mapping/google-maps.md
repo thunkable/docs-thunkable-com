@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Google Maps
+# Google Maps ![](/assets/google-maps-icon.png)
 
 ---
 
