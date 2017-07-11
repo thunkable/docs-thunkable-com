@@ -44,9 +44,7 @@ To get set up, please follow [these instructions from our friends at MIT App Inv
 
 | Event | Description |
 | :--- | :--- |
-|  InsertRow \(tableId, columns, values\) | Inserts a row into the specified Fusion Table. The tableId field is the id of the Fusion Table. The columns field is a comma-separated list of the columns into which to insert values. The values field specifies what values to insert into each column |
-
-
+| InsertRow \(tableId, columns, values\) | Inserts a row into the specified Fusion Table. The tableId field is the id of the Fusion Table. The columns field is a comma-separated list of the columns into which to insert values. The values field specifies what values to insert into each column |
 
 
 
