@@ -4,7 +4,9 @@
 
 ---
 
-Tiny Web DB is a non-visible component that communicates with a Web service to store and retrieve information.
+Firebase DB is service that stores a single row of data in the cloud, similar to Tiny Web DB, except that it can be secured by creating your own instance with Firebase.
+
+
 
 **Important Note** This database was created initial for prototyping and the data is public to all other users. We highly recommend using an alternate database like Firebase DB or Spreadsheets for storing and retrieving data in the cloud
 
