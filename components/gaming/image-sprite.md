@@ -66,13 +66,15 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 | Touched \(x, y\) | When the user touches the sprite and then immediately lifts finger: provides the \(x,y\) position of the touch, relative to the upper left of the canvas |
 | Touch Down \(x, y\) | When the user begins touching the sprite \(places finger on sprite and leaves it there\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas |
 | Touch Up \(x, y\) | When the user stops touching the sprite \(lifts finger after a TouchDown event\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas |
-| Dragged \(startX, startY, prevX, prevY, ncurrentX, currentY\) | Handler for Dragged events. On all calls, the starting coordinates are where the screen was first touched, and the "current" coordinates describe the endpoint of the current line segment. On the first call within a given drag, the "previous" coordinates are the same as the starting coordinates; subsequently, they are the "current" coordinates from the prior call. Note that the Sprite won't actually move anywhere in response to the Dragged event unless MoveTo is specifically called. |
+| Dragged \(startX, startY, prevX, prevY, currentX, currentY\) | Handler for Dragged events. On all calls, the starting coordinates are where the screen was first touched, and the "current" coordinates describe the endpoint of the current line segment. On the first call within a given drag, the "previous" coordinates are the same as the starting coordinates; subsequently, they are the "current" coordinates from the prior call. Note that the Sprite won't actually move anywhere in response to the Dragged event unless MoveTo is specifically called. |
 | Flung \(x, y, speed, heading, xvel, yvel\) | When a fling gesture \(quick swipe\) is made on the sprite: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector. |
 | Move To \(x, y\) | Moves the sprite so that its left top corner is at the specfied x and y coordinates. |
 
 ---
 
 #### Bouncing and Collisions
+
+
 
 
 
@@ -87,8 +89,6 @@ Indicates whether a collision has been registered between this sprite and the pa
 MoveIntoBounds\(\)
 
 Moves the sprite back in bounds if part of it extends out of bounds, having no effect otherwise. If the sprite is too wide to fit on the canvas, this aligns the left side of the sprite with the left side of the canvas. If the sprite is too tall to fit on the canvas, this aligns the top side of the sprite with the top side of the canvas.
-
-
 
 CollidedWith\(component other\)
 
