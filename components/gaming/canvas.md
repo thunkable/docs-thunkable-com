@@ -35,6 +35,8 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Touch Up \(x, y\) | When the user stops touching the canvas \(lifts finger after a TouchDown event\). The \(x,y\) position of the touch, is relative to the upper left of the canvas |
 | Draw Circle \(center X, center Y, radius, fill\) | Draws a circle at the given coordinates on the canvas, with the given radius. If 'fill' is set to 'true', the circle will be filled |
 | Draw Point \(x, y\) | Draws a point at the given coordinates on the canvas |
+| Save | Saves a picture of this Canvas to the device's external storage. If an error occurs, the Screen's ErrorOccurred event will be called |
+| Save As \(fileName\) | Saves a picture of this Canvas to the device's external storage in the file named fileName. fileName must end with one of .jpg, .jpeg, or .png |
 | Clear | Clears the canvas of anything drawn |
 
 ---
@@ -48,6 +50,8 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Paint Color | The color in which lines are drawn. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Line Width | The width of the lines drawn on the canvas |
 | Dragged \(startX, startY, prevX, prevY, currentX, currentY, draggedSprite\) | When the user does a drag from one point \(prevX, prevY\) to another \(x, y\). The pair \(startX, startY\) indicates where the user first touched the screen, and "draggedSprite" indicates whether a sprite is being dragged |
+| Save | Saves a picture of this Canvas to the device's external storage. If an error occurs, the Screen's ErrorOccurred event will be called |
+| Save As \(fileName\) | Saves a picture of this Canvas to the device's external storage in the file named fileName. fileName must end with one of .jpg, .jpeg, or .png |
 | Clear | Clears the canvas of anything drawn |
 
 ---
@@ -61,9 +65,15 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Paint Color | The color in which the text is added. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Font Size | Point size for text drawn on the canvas |
 | Text Alignment | 'Center', 'left' or 'right.' Determines the alignment of the text drawn by DrawText\(\) or DrawAngle\(\) |
-|  |  |
-|  |  |
+| DrawText\(text, x, y\) | Draws the specified text relative to the specified coordinates using the values of the FontSize and TextAlignment properties |
+| Draw Text At Angle \(text, x, y,  angle\) | Draws the specified text starting at the specified coordinates at the specified angle using the values of the FontSize and TextAlignment properties |
+| Save | Saves a picture of this Canvas to the device's external storage. If an error occurs, the Screen's ErrorOccurred event will be called |
+| SaveAs \(fileName\) | Saves a picture of this Canvas to the device's external storage in the file named fileName. fileName must end with one of .jpg, .jpeg, or .png |
 | Clear | Clears the canvas of anything drawn |
+
+---
+
+#### Interacting with Balls and Image Sprites
 
 
 
