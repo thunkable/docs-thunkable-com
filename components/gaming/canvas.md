@@ -81,5 +81,17 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 #### Interacting with Balls or Image Sprites
 
+| Events | Description |
+| :--- | :--- |
+|  Touched \(x, y, touchedSprite\) |  | When the user touches the canvas and then immediately lifts finger. The \(x,y\) position of the touch is relative to the upper left of the canvas. TouchedSprite is true if the same touch also touched a sprite |
+|  Flung \(x, y, speed, heading, xvel, yvel, flungSprite\) |  | When a fling gesture \(quick swipe\) is made on the canvas: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector. The value "flungSprite" is true if a sprite was located near the the starting point of the fling gesture |  |
+| Dragged \(startX, startY, prevX, prevY, currentX, currentY, draggedSprite\) |  | When the user does a drag from one point \(prevX, prevY\) to another \(x, y\). The pair \(startX, startY\) indicates where the user first touched the screen, and "draggedSprite" indicates whether a sprite is being dragged |
+
+  
+
+
+  
+
+
 
 
