@@ -52,6 +52,7 @@
       * [Tiny Web DB](components/storage/tiny-web-db.md)
     * [Device](components/device.md)
     * [Social](components/social.md)
+      * Contact Picker
     * [Gaming](components/gaming.md)
       * [Canvas](components/gaming/canvas.md)
       * [Image Sprite + Ball](components/gaming/image-sprite.md)
