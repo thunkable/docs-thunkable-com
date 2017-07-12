@@ -46,46 +46,42 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 ---
 
-#### Moving an Image Sprite with Touch![](/assets/sprite-fig-1.png)Moving an Image Sprite horizontally when dragged
+#### Moving an Image Sprite by user's touch![](/assets/sprite-fig-1.png)Moving an Image Sprite horizontally when dragged
 
 ![](/assets/sprite-blocks-1.png)
 
 | Event | Description |
 | :--- | :--- |
 | Touched \(x, y\) | When the user touches the sprite and then immediately lifts finger: provides the \(x,y\) position of the touch, relative to the upper left of the canvas |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Touch Down \(x, y\) | When the user begins touching the sprite \(places finger on sprite and leaves it there\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas |
+| Touch Up \(x, y\) | When the user stops touching the sprite \(lifts finger after a TouchDown event\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas |
+| Dragged\(number startX, number startY, number prevX, number prevY, number currentX, number currentY\) |  | Handler for Dragged events. On all calls, the starting coordinates are where the screen was first touched, and the "current" coordinates describe the endpoint of the current line segment. On the first call within a given drag, the "previous" coordinates are the same as the starting coordinates; subsequently, they are the "current" coordinates from the prior call. Note that the Sprite won't actually move anywhere in response to the Dragged event unless MoveTo is specifically called. |
+| Flung\(number x, number y, number speed, number heading, number xvel, number yvel\) | When a fling gesture \(quick swipe\) is made on the sprite: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector. |
 |  |  |
 
 CollidedWith\(component other\)
 
 Handler for CollidedWith events, called when two sprites collide. Note that checking for collisions with a rotated ImageSprite currently checks against the sprite's unrotated position. Therefore, collision checking will be inaccurate for tall narrow or short wide sprites that are rotated.
 
-Dragged\(number startX, number startY, number prevX, number prevY, number currentX, number currentY\)
 
-Handler for Dragged events. On all calls, the starting coordinates are where the screen was first touched, and the "current" coordinates describe the endpoint of the current line segment. On the first call within a given drag, the "previous" coordinates are the same as the starting coordinates; subsequently, they are the "current" coordinates from the prior call. Note that the Sprite won't actually move anywhere in response to the Dragged event unless MoveTo is specifically called.
 
 EdgeReached\(number edge\)
 
 Event handler called when the sprite reaches an edge of the screen. If Bounce is then called with that edge, the sprite will appear to bounce off of the edge it reached. Edge here is represented as an integer that indicates one of eight directions north\(1\), northeast\(2\), east\(3\), southeast\(4\), south \(-1\), southwest\(-2\), west\(-3\), and northwest\(-4\).
 
-Flung\(number x, number y, number speed, number heading, number xvel, number yvel\)
 
-When a fling gesture \(quick swipe\) is made on the sprite: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector.
 
 NoLongerCollidingWith\(component other\)
 
 Event indicating that a pair of sprites are no longer colliding.
 
-TouchDown\(number x, number y\)
 
-When the user begins touching the sprite \(places finger on sprite and leaves it there\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas
 
-TouchUp\(number x, number y\)
 
-When the user stops touching the sprite \(lifts finger after a TouchDown event\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas
+
+
+
+
 
 #### Bouncing a Ball
 
