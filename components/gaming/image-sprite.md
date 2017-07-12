@@ -10,6 +10,14 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) uses both an image sprite and a ball to create a fun game of one player Pong
 
+* [Styling the Ball](#styling-the-ball)
+* [Styling the Image Sprite](#styling-the-image-sprite)
+* [Positioning the Sprite](#positioning-the-sprite-)
+* [Setting a Sprite in motion](#setting-a-sprite-in-motion-set-a-ball-in-motion-at-a-random-angle-between-225-and-315-degrees-at-a-speed-of-5-pixels-per-10-milliseconds)
+* [Moving a Sprite with touch](#moving-a-sprite-with-touch-moving-an-image-sprite-horizontally-when-dragged)
+* [Bouncing Sprites](#bouncing-sprites-keep-bouncing-unless-the-ball-hits-the-bottom-edge-game-over)
+* [Sprite Collisions](#sprite-collisions)
+
 ---
 
 #### Styling the Ball
@@ -34,7 +42,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Setting the initial position of the Sprite![](/assets/sprite-fig-2.png)
+#### Positioning the Sprite![](/assets/sprite-fig-2.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -44,7 +52,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Set a Sprite in motion![](/assets/sprite-fig-3.png)Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds
+#### Setting a Sprite in motion![](/assets/sprite-fig-3.png)Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds
 
 #### ![](/assets/sprite-blocks-2.png)
 
