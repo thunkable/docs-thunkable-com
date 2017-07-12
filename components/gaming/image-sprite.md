@@ -8,6 +8,8 @@ A 'sprite' is an Image or a Ball that can be placed on a Canvas, where it can re
 
 The difference between an Image Sprite and a Ball is that an Image Sprite can get its appearance from an image file, while a Ball's appearance can only be changed by varying its PaintColor and Radius properties.
 
+The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) uses both an image sprite and a ball to create a fun game of one player Pong
+
 ---
 
 #### Styling the Ball
