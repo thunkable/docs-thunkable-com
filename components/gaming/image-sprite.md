@@ -32,14 +32,17 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 ---
 
-#### Setting the initial position of the Ball or Image Sprite
+#### Setting the initial position and speed of the Ball or Image Sprite
 
 | Property | Description |
 | :--- | :--- |
-| Heading |  |
-| X |  |
-| Y |  |
-| Z |  |
+| Heading | Returns the sprite's heading in degrees above the positive x-axis. Zero degrees is toward the right of the screen; 90 degrees is toward the top of the screen. |
+| X | In pixels from left. The horizontal coordinate of the left edge of the sprite, increasing as the sprite moves to the right |
+| Y | In pixels from top. The vertical coordinate of the top edge of the sprite, increasing as the sprite moves down |
+| Z | Integers with higher numbers layered on top. How the sprite should be layered relative to other sprites, with higher-numbered layers in front of lower-numbered layers |
+| Speed \(pixels / interval\) | In pixels per interval. The speed at which the sprite moves in pixels per interval |
+| Interval \(milliseconds\) | The interval in milliseconds at which the sprite's position is updated. For example, if the interval is 50 and the speed is 10, then the sprite will move 10 pixels every 50 milliseconds |
+| Enabled | If checked, sprite will move when its speed is non-zero  |
 
 
 
