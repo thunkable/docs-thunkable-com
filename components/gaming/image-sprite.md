@@ -34,12 +34,12 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 #### Setting the initial position of the Ball or Image Sprite
 
-| P | Height in pixels, percent, 'Automatic' or 'Fill' |
+| Property | Description |
 | :--- | :--- |
 | Heading |  |
-| Width | Width in pixels, percent, 'Automatic' or 'Fill' |
-| Picture | You can upload an image to your app for the sprite |
-| Rotates | If checked, the sprite image rotates to match the sprite's heading. If unchecked, the sprite image does not rotate when the sprite cha |
+| X |  |
+| Y |  |
+| Z |  |
 
 
 
