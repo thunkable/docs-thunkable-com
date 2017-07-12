@@ -10,9 +10,13 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 * [Style Canvas Background](#style-canvas-background)
 * [Draw Dots](#draw-dots-add-a-circle-with-each-touch-of-the-canvas)
+  * Add a circle with each touch of the canvas
 * [Draw Lines](#draw-lines-draw-a-line-of-width-5-on-the-canvas)
+  * Draw a line of width 5 on the canvas
 * [Draw Text](#draw-text-add-text-developer-of-the-future-angled-at-30-degrees-with-each-touch-of-the-canvas)
+  * Add text "developer of the future" angled at 30 degrees with each touch of the canvas
 * [Interact with Balls or Image Sprites](#interacting-with-balls-or-image-sprites)
+  * Move a ball right and down 30 pixels every time it is touched
 
 ---
 
@@ -79,7 +83,9 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 ---
 
-#### Interacting with Balls or Image Sprites
+#### Interacting with Balls or Image Sprites![](/assets/canvas-fig-4.png)Move a ball right and down 30 pixels every time it is touched
+
+#### ![](/assets/canvas-blocks-4.png)
 
 | Events | Description |
 | :--- | :--- |
