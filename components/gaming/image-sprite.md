@@ -32,7 +32,7 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 ---
 
-#### Setting the initial position of the Ball or Image Sprite![](/assets/sprite-fig-2.png)
+#### Setting the initial position of the Sprite![](/assets/sprite-fig-2.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -42,7 +42,7 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 ---
 
-#### Set a Ball in motion![](/assets/sprite-fig-3.png)Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds
+#### Set a Sprite in motion![](/assets/sprite-fig-3.png)Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds
 
 #### ![](/assets/sprite-blocks-2.png)
 
@@ -57,7 +57,7 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 ---
 
-#### Moving an Image Sprite with touch![](/assets/sprite-fig-1.png)Moving an Image Sprite horizontally when dragged
+#### Moving a Sprite with touch![](/assets/sprite-fig-1.png)Moving an Image Sprite horizontally when dragged
 
 ![](/assets/sprite-blocks-1.png)
 
@@ -72,37 +72,25 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 ---
 
-#### Bouncing and Collisions
+#### Bouncing Sprites![](/assets/sprite-fig-4.png)Keep bouncing unless the ball hits the bottom edge \(game over\)
 
+#### ![](/assets/sprite-blocks-3.png)
 
+| Event | Description |
+| :--- | :--- |
+| Edge Reached \(edge\) | Event handler called when the sprite reaches an edge of the screen. If Bounce is then called with that edge, the sprite will appear to bounce off of the edge it reached. Edge here is represented as an integer that indicates one of eight directions north\(1\), northeast\(2\), east\(3\), southeast\(4\), south \(-1\), southwest\(-2\), west\(-3\), and northwest\(-4\) |
+| Bounce \(edge\) | Makes this sprite bounce, as if off a wall. For normal bouncing, the edge argument should be the one returned by EdgeReached |
+| Move Into Bounds | Moves the sprite back in bounds if part of it extends out of bounds, having no effect otherwise. If the sprite is too wide to fit on the canvas, this aligns the left side of the sprite with the left side of the canvas. If the sprite is too tall to fit on the canvas, this aligns the top side of the sprite with the top side of the canvas |
 
+---
 
+#### Sprite Collisions
 
-Bounce\(number edge\)
-
-Makes this sprite bounce, as if off a wall. For normal bouncing, the edge argument should be the one returned by EdgeReached.
-
-Boolean CollidingWith\(component other\)
-
-Indicates whether a collision has been registered between this sprite and the passed sprite.
-
-MoveIntoBounds\(\)
-
-Moves the sprite back in bounds if part of it extends out of bounds, having no effect otherwise. If the sprite is too wide to fit on the canvas, this aligns the left side of the sprite with the left side of the canvas. If the sprite is too tall to fit on the canvas, this aligns the top side of the sprite with the top side of the canvas.
-
-CollidedWith\(component other\)
-
-Handler for CollidedWith events, called when two sprites collide. Note that checking for collisions with a rotated ImageSprite currently checks against the sprite's unrotated position. Therefore, collision checking will be inaccurate for tall narrow or short wide sprites that are rotated.
-
-EdgeReached\(number edge\)
-
-Event handler called when the sprite reaches an edge of the screen. If Bounce is then called with that edge, the sprite will appear to bounce off of the edge it reached. Edge here is represented as an integer that indicates one of eight directions north\(1\), northeast\(2\), east\(3\), southeast\(4\), south \(-1\), southwest\(-2\), west\(-3\), and northwest\(-4\).
-
-NoLongerCollidingWith\(component other\)
-
-Event indicating that a pair of sprites are no longer colliding.
-
-#### 
+| Event | Description |
+| :--- | :--- |
+| Collided With \(other\) | Handler for CollidedWith events, called when two sprites collide. Note that checking for collisions with a rotated ImageSprite currently checks against the sprite's unrotated position. Therefore, collision checking will be inaccurate for tall narrow or short wide sprites that are rotated |
+| No Longer Colliding With \(other\) | Event indicating that a pair of sprites are no longer colliding |
+| Colliding With \(other\) | Indicates whether a collision has been registered between this sprite and the passed sprite |
 
 
 
