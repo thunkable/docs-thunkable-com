@@ -4,18 +4,52 @@
 
 ---
 
-File is a storage component for storing and retrieving files. Use this component to write or read files on your device. The default xxx
+If you are developing a gaming or drawing app, you're likely going to start with a Canvas component, a touchable background element that a user can both draw on and interact with moving elements known as Sprites.
+
+The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) uses a Canvas a backdrop to an interactive game
 
 ---
 
-#### Functionality
+#### Style Canvas Background
 
-| Event | Description |
+| Property | Description |
 | :--- | :--- |
-| Save File \(text, fileName\) | Saves text to a file. If the filename begins with a slash \(/\) the file is written to the sdcard \(for example, writing to /myFile.txt will write the file to /sdcard/myFile.txt\). If the filename does not start with a slash, it will be written in the program's private data directory where it will not be accessible to other programs on the phone. There is a special exception for the Thunkable Companion where these files are written to /sdcard/AppInventor/data to facilitate debugging. Note that this block will overwrite a file if it already exists. If you want to add content to a file use the append block |
-| Append to File \(text, fileName\) | Appends text to the end of a file. Creates the file if it does not already exist. See the help text under SaveFile for information about where files are written |
-| Read From \(fileName\) | Reads text from a file in storage. Prefix the filename with / to read from a specific file on the SD card \(for example, /myFile.txt will read the file /sdcard/myFile.txt\). To read assets packaged with an application \(also works for the Companion\) start the filename with // \(two slashes\). If a filename does not start with a slash, it will be read from the application's private storage \(for packaged apps\) and from /sdcard/AppInventor/data for the Companion |
-| Delete \(fileName\) | Deletes a file from storage. Prefix the filename with / to delete a specific file in the SD card \(for example, /myFile.txt will delete the file /sdcard/myFile.txt\). If the filename does not begin with a /, then the file located in the program's private storage will be deleted. Starting the file with // is an error because asset files cannot be deleted |
+| Height | Height in pixels, percent, 'Automatic' or 'Fill' |
+| Width | Width in pixels, percent, 'Automatic' or 'Fill' |
+| Background Color | The background of the Canvas. Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Background Image | You can upload an image to your app or reference an image url. If an image is uploaded, it will negate the background color property |
+| Text | Optional text that will display on the Canvas |
+| Text Alignment | Left, center or right |
+| Font Size | Point size for text drawn on the Canvas |
+| Visible | If checked, the Canvas will be visible on the screen |
+
+---
+
+#### Draw Dots![](/assets/canvas-fig-1.png)Add a circle with each touch of the Canvas
+
+#### ![](/assets/canvas-blocks-1.png)
+
+| Property | Description |
+| :--- | :--- |
+| Paint Color | The color in which lines are drawn. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Touch Down \(x, y\) | When the user begins touching the canvas \(places finger on canvas and leaves it there\). The \(x,y\) position of the touch, is relative to the upper left of the canvas |
+| Touch Up \(x, y\) | When the user stops touching the canvas \(lifts finger after a TouchDown event\). The \(x,y\) position of the touch, is relative to the upper left of the canvas |
+| Draw Circle \(center X, center Y, radius, fill\) | Draws a circle at the given coordinates on the canvas, with the given radius. If 'fill' is set to 'true', the circle will be filled |
+| Draw Point \(x, y\) | Draws a point at the given coordinates on the canvas |
+
+---
+
+#### Draw Lines![](/assets/canvas-fig-2.png)
+
+![](/assets/canvas-blocks-2.png)
+
+| Property | Description |
+| :--- | :--- |
+| Paint Color | The color in which lines are drawn. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Line Width | The width of the lines drawn on the canvas |
+|  |  |
+
+#### 
 
 
 
