@@ -32,21 +32,30 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 
 ---
 
-#### Setting the initial position and speed of the Ball or Image Sprite
+#### Setting the initial position of the Ball or Image Sprite![](/assets/sprite-fig-2.png)
 
 | Property | Description |
 | :--- | :--- |
-| Heading | Returns the sprite's heading in degrees above the positive x-axis. Zero degrees is toward the right of the screen; 90 degrees is toward the top of the screen. |
 | X | In pixels from left. The horizontal coordinate of the left edge of the sprite, increasing as the sprite moves to the right |
 | Y | In pixels from top. The vertical coordinate of the top edge of the sprite, increasing as the sprite moves down |
 | Z | Integers with higher numbers layered on top. How the sprite should be layered relative to other sprites, with higher-numbered layers in front of lower-numbered layers |
+
+---
+
+#### Set a Ball in motion![](/assets/sprite-fig-3.png)Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds
+
+#### ![](/assets/sprite-blocks-2.png)
+
+| Property | Description |
+| :--- | :--- |
+| Heading \(direction angle\) | Returns the sprite's heading in degrees above the positive x-axis. Zero degrees is toward the right of the screen; 90 degrees is toward the top of the screen. |
 | Speed \(pixels / interval\) | In pixels per interval. The speed at which the sprite moves in pixels per interval |
 | Interval \(milliseconds\) | The interval in milliseconds at which the sprite's position is updated. For example, if the interval is 50 and the speed is 10, then the sprite will move 10 pixels every 50 milliseconds |
 | Enabled | If checked, sprite will move when its speed is non-zero |
 
 ---
 
-#### Moving an Image Sprite by user's touch![](/assets/sprite-fig-1.png)Moving an Image Sprite horizontally when dragged
+#### Moving an Image Sprite with touch![](/assets/sprite-fig-1.png)Moving an Image Sprite horizontally when dragged
 
 ![](/assets/sprite-blocks-1.png)
 
@@ -57,9 +66,22 @@ The difference between an Image Sprite and a Ball is that an Image Sprite can ge
 | Touch Up \(x, y\) | When the user stops touching the sprite \(lifts finger after a TouchDown event\): provides the \(x,y\) position of the touch, relative to the upper left of the canvas |
 | Dragged \(startX, startY, prevX, prevY, ncurrentX, currentY\) | Handler for Dragged events. On all calls, the starting coordinates are where the screen was first touched, and the "current" coordinates describe the endpoint of the current line segment. On the first call within a given drag, the "previous" coordinates are the same as the starting coordinates; subsequently, they are the "current" coordinates from the prior call. Note that the Sprite won't actually move anywhere in response to the Dragged event unless MoveTo is specifically called. |
 | Flung\(number x, number y, number speed, number heading, number xvel, number yvel\) | When a fling gesture \(quick swipe\) is made on the sprite: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector. |
-|  MoveTo\(number x, number y\) |  Moves the sprite so that its left top corner is at the specfied x and y coordinates. |
+| MoveTo\(number x, number y\) | Moves the sprite so that its left top corner is at the specfied x and y coordinates. |
 |  |  |
 |  |  |
+
+---
+
+#### Set a ball in motion
+
+| Property | Description |
+| :--- | :--- |
+| Heading \(direction\) | Returns the sprite's heading in degrees above the positive x-axis. Zero degrees is toward the right of the screen; 90 degrees is toward the top of the screen. |
+| Speed \(pixels / interval\) | In pixels per interval. The speed at which the sprite moves in pixels per interval |
+| Interval \(milliseconds\) | The interval in milliseconds at which the sprite's position is updated. For example, if the interval is 50 and the speed is 10, then the sprite will move 10 pixels every 50 milliseconds |
+| Enabled | If checked, sprite will move when its speed is non-zero |
+
+
 
 Bounce\(number edge\)
 
@@ -72,8 +94,6 @@ Indicates whether a collision has been registered between this sprite and the pa
 MoveIntoBounds\(\)
 
 Moves the sprite back in bounds if part of it extends out of bounds, having no effect otherwise. If the sprite is too wide to fit on the canvas, this aligns the left side of the sprite with the left side of the canvas. If the sprite is too tall to fit on the canvas, this aligns the top side of the sprite with the top side of the canvas.
-
-
 
 PointInDirection\(number x, number y\)
 
