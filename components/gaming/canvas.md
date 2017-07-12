@@ -36,10 +36,11 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Touch Up \(x, y\) | When the user stops touching the canvas \(lifts finger after a TouchDown event\). The \(x,y\) position of the touch, is relative to the upper left of the canvas |
 | Draw Circle \(center X, center Y, radius, fill\) | Draws a circle at the given coordinates on the canvas, with the given radius. If 'fill' is set to 'true', the circle will be filled |
 | Draw Point \(x, y\) | Draws a point at the given coordinates on the canvas |
+| Clear | Clears the canvas of anything drawn |
 
 ---
 
-#### Draw Lines![](/assets/canvas-fig-2.png)
+#### Draw Lines![](/assets/canvas-fig-2.png)Draw a line of width 5 on the Canvas
 
 ![](/assets/canvas-blocks-2.png)
 
