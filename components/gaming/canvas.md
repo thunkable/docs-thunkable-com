@@ -16,9 +16,8 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | :--- | :--- |
 | Height | Height in pixels, percent, 'Automatic' or 'Fill' |
 | Width | Width in pixels, percent, 'Automatic' or 'Fill' |
-| Background Color | The background of the Canvas. Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Background Color | The background of the canvas. Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Background Image | You can upload an image to your app or reference an image url. If an image is uploaded, it will negate the background color property |
-| Text | Optional text that will display on the Canvas |
 | Text Alignment | Left, center or right |
 | Font Size | Point size for text drawn on the Canvas |
 | Visible | If checked, the Canvas will be visible on the screen |
@@ -31,7 +30,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 | Property | Description |
 | :--- | :--- |
-| Paint Color | The color in which lines are drawn. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Paint Color | The color in which the dots or circle are drawn. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Touch Down \(x, y\) | When the user begins touching the canvas \(places finger on canvas and leaves it there\). The \(x,y\) position of the touch, is relative to the upper left of the canvas |
 | Touch Up \(x, y\) | When the user stops touching the canvas \(lifts finger after a TouchDown event\). The \(x,y\) position of the touch, is relative to the upper left of the canvas |
 | Draw Circle \(center X, center Y, radius, fill\) | Draws a circle at the given coordinates on the canvas, with the given radius. If 'fill' is set to 'true', the circle will be filled |
@@ -48,9 +47,23 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | :--- | :--- |
 | Paint Color | The color in which lines are drawn. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Line Width | The width of the lines drawn on the canvas |
-|  |  |
+| Dragged \(startX, startY, prevX, prevY, currentX, currentY, draggedSprite\) | When the user does a drag from one point \(prevX, prevY\) to another \(x, y\). The pair \(startX, startY\) indicates where the user first touched the screen, and "draggedSprite" indicates whether a sprite is being dragged |
+| Clear | Clears the canvas of anything drawn |
 
-#### 
+---
+
+#### Draw Text![](/assets/canvas-fig-3.png)Add text "developer of the future" angled at 30 degrees with each touch of the canvas
+
+#### ![](/assets/canvas-blocks-3.png)
+
+| Property |  |
+| :--- | :--- |
+| Paint Color | The color in which the text is added. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Font Size | Point size for text drawn on the canvas |
+| Text Alignment | 'Center', 'left' or 'right.' Determines the alignment of the text drawn by DrawText\(\) or DrawAngle\(\) |
+|  |  |
+|  |  |
+| Clear | Clears the canvas of anything drawn |
 
 
 
