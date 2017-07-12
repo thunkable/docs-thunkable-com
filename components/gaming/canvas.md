@@ -66,7 +66,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 #### ![](/assets/canvas-blocks-3.png)
 
-| Property |  |
+| Property | Description |
 | :--- | :--- |
 | Paint Color | The color in which the text is added. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Font Size | Point size for text drawn on the canvas |
