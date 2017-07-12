@@ -22,7 +22,7 @@
     * [Screen](components/screen.md)
     * [Layout](components/layout.md)
     * [Web Viewer](components/webview.md)
-    * [Touch](components/touch.md)
+    * [User Interface](components/touch.md)
       * [Button](components/touch/button.md)
       * [Label](components/touch/label.md)
       * [TextBox + Password](components/touch/textbox.md)

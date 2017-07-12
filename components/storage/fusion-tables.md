@@ -46,5 +46,13 @@ To get set up, please follow [these instructions from our friends at MIT App Inv
 | :--- | :--- |
 | InsertRow \(tableId, columns, values\) | Inserts a row into the specified Fusion Table. The tableId field is the id of the Fusion Table. The columns field is a comma-separated list of the columns into which to insert values. The values field specifies what values to insert into each column |
 
+---
+
+#### Custom SQL queries with Fusion Tables
+
+The Send Query function lets you create a range of custom queries to Fusion Tables.  The full range of what is available is [here](https://developers.google.com/fusiontables/docs/v2/getting_started). You may need add a function that adds "quotes" to your data elements
+
+![](/assets/fusion-tables-blocks-1.png)
+
 
 
