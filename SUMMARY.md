@@ -61,7 +61,7 @@
     * [Gaming](components/gaming.md)
       * [Canvas](components/gaming/canvas.md)
       * [Image Sprite + Ball](components/gaming/image-sprite.md)
-    * [Mapping](components/mapping.md)
+    * [Location](components/mapping.md)
       * [Google Maps](components/mapping/google-maps.md)
       * [Location Sensor](components/mapping/location-sensor.md)
     * [Internet of Things](components/internet-of-things.md)
