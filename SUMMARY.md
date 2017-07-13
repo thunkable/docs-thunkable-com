@@ -54,7 +54,7 @@
     * [Social](components/social.md)
       * [Contact Picker + Phone Number Picker](components/social/contact-picker.md)
       * [Phone Call](components/social/phone-call.md)
-      * Texting
+      * [Texting](components/social/texting.md)
       * Sharing
       * Twitter
       * Activity Starter
