@@ -55,9 +55,9 @@
       * [Contact Picker + Phone Number Picker](components/social/contact-picker.md)
       * [Phone Call](components/social/phone-call.md)
       * [Texting](components/social/texting.md)
-      * [Sharing](components/social/sharing.md)
       * [Twitter](components/social/twitter.md)
-      * Activity Starter
+      * [Sharing](components/social/sharing.md)
+      * [Activity Starter](components/social/activity-starter.md)
     * [Gaming](components/gaming.md)
       * [Canvas](components/gaming/canvas.md)
       * [Image Sprite + Ball](components/gaming/image-sprite.md)
