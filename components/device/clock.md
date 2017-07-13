@@ -50,42 +50,38 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 
 | Property | Description |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Add Days \(instant, number days\) |  | Returns an instant in time some days after the argument |
+| Add Weeks \(instant, weeks\) | Returns an instant in time some weeks after the argument |
+| Add Months \(instant, months\) | Returns an instant in time some months after the argument |
+| Add Years \(instant, years\) | Returns an instant in time some years after the argument |
+| Add Seconds \(instant, seconds\) | Returns an instant in time some seconds after the argument |
+| Add Minutes \(instant, minutes\) | Returns an instant in time some minutes after the argument |
+| Add Hours \(instant, hours\) | Returns an instant in time some hours after the argument |
+|  Add Duration \(instant, duration\) |  Returns an instant in time some time after the argument. Duration can be obtained from Clock.Duration |
 
-Add Days \(instant, number days\)
 
-Returns an instant in time some days after the argument
 
-Add Duration \(instant, duration\)
 
-Returns an instant in time some time after the argument. Duration can be obtained from Clock.Duration
 
-Add Hours \(InstantInTime instant, number hours\)
 
-Returns an instant in time some hours after the argument
 
-AddMinutes\(InstantInTime instant, number minutes\)
 
-Returns an instant in time some minutes after the argument
 
-AddMonths\(InstantInTime instant, number months\)
 
-Returns an instant in time some months after the argument
 
-AddSeconds\(InstantInTime instant, number seconds\)
 
-Returns an instant in time some seconds after the argument
 
-AddWeeks\(InstantInTime instant, number weeks\)
 
-Returns an instant in time some weeks after the argument
 
-AddYears\(InstantInTime instant, number years\)
 
-Returns an instant in time some years after the argument
+
+
+
+
+
+
+
+
 
 Duration Duration\(InstantInTime start, InstantInTime end\)
 
