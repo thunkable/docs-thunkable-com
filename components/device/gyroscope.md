@@ -16,10 +16,10 @@ The sample app [Thunkable Cardboard VR](#) uses a Gyroscope to create a virtual 
 
 | Event / Property | Description |
 | :--- | :--- |
-| Available | Indicates whether the gyroscope is present on the device. Not all devices have gyroscopes |
+| Available | Indicates whether the gyroscope is present on the device |
 | Gyroscope Changed \(xAngularVelocity, yAngularVelocity, zAngularVelocity, timestamp \(nanoseconds\)\) | Indicates that the gyroscope sensor data has changed. The timestamp parameter is the time in nanoseconds at which the event occurred |
-| X  Angular Velocity |  The angular velocity around the X axis, in degrees per second |
-| Y Angular Velocity |  The angular velocity around the Y axis, in degrees per second |
+| X  Angular Velocity | The angular velocity around the X axis, in degrees per second |
+| Y Angular Velocity | The angular velocity around the Y axis, in degrees per second |
 | Z Angular Velocity | The angular velocity around the Z axis, in degrees per second |
 | Enabled | If 'true', the gyroscope sensor is enabled |
 
