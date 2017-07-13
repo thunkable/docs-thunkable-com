@@ -4,7 +4,7 @@
 
 ---
 
-The Twitter component enables most of the activities available in the Twitter app.
+The Twitter component enables most of the activities available in the Twitter app
 
 ---
 
@@ -25,7 +25,7 @@ The Twitter component enables most of the activities available in the Twitter ap
 | Event | Description |
 | :--- | :--- |
 | Authorize | Redirects user to login to Twitter via the Web browser using the OAuth protocol if we don't already have authorization |
-| Check Authorized  | Checks whether we already have access, and if so, causes Is Authorized event handler to be called. |
+| Check Authorized | Checks whether we already have access, and if so, causes Is Authorized event handler to be called. |
 | IsAuthorized | After the program calls Authorize if the authorization was successful. It is also called after a call to Check Authorized if we already have a valid access token. After this event has been raised, any other method for this component can be called |
 | DeAuthorize | Removes Twitter authorization from this running app instance |
 
@@ -35,7 +35,7 @@ The Twitter component enables most of the activities available in the Twitter ap
 
 | Event | Description |
 | :--- | :--- |
-| Tweet \(status\)  | This sends a tweet as the logged-in user with the specified Text, which will be trimmed if it exceeds 160 characters |
+| Tweet \(status\) | This sends a tweet as the logged-in user with the specified Text, which will be trimmed if it exceeds 160 characters |
 | Tweet With Image \(status, imagePath\) | This sends a tweet as the logged-in user with the specified Text and a path to the image to be uploaded, which will be trimmed if it exceeds 160 characters. If an image is not found or invalid, the update will not be sent |
 
 ---
@@ -69,7 +69,7 @@ The Twitter component enables most of the activities available in the Twitter ap
 | :--- | :--- |
 | Search Twitter \(query\) | Searches Twitter for the given String query |
 | Search Successful \(searchResults\) | When the results of the search requested through Search Twitter have been retrieved. A list of the results can then be found in the searchResults property |
-| Search Results  | This property, which is initially empty, is set to a list of search results after the program. The value of the property will then be the same as the parameter to Search Successful. |
+| Search Results | This property, which is initially empty, is set to a list of search results after the program. The value of the property will then be the same as the parameter to Search Successful. |
 
 ---
 
@@ -89,7 +89,7 @@ The Twitter component enables most of the activities available in the Twitter ap
 | :--- | :--- |
 | Request Mentions | Requests the 20 most recent mentions of the logged-in user |
 | Mentions Received \(mentions\) | When the mentions of the logged-in user requested through Request Mentions have been retrieved. A list of the mentions can then be found in the mentions parameter or the Mentions property |
-| Mentions |  A list of mentions of the logged-in user. Initially, the list is empty. The value of this property will then be set to the list of mentions \(and will maintain its value until any subsequent calls to Request Mentions\) |
+| Mentions | A list of mentions of the logged-in user. Initially, the list is empty. The value of this property will then be set to the list of mentions \(and will maintain its value until any subsequent calls to Request Mentions\) |
 
 
 
