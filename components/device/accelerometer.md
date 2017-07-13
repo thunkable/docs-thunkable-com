@@ -14,35 +14,29 @@ The Accelerometer is a phone sensor that detects shaking and measures accelerati
 
 #### Trigger an event by shaking your phone
 
-|  |  |
+| Event / Property | Description |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
+| Shaking |  Indicates the device started being shaken or continues to be shaken |
+|  Minimum Interval \(milliseconds\) |  The minimum interval, in milliseconds, between phone shakes |
+| Sensitivity | A number that encodes how sensitive the accelerometer is. The choices are: 1 = weak, 2 = moderate, 3 = strong. |
+| Enabled | If 'true', the accelerometer sensor is enabled |
+
+---
+
+#### Measure changes in acceleration
+
+| Event / Property | Description |
+| :--- | :--- |
+| Acceleration Changed \(xAccel, yAccel, zAccel\) |  Indicates the acceleration changed in the X, Y, and/or Z dimensions |
+| xAccel |  |
+| yAccel |  |
+| xAccel |  |
 
 
 
-Enabled
 
-MinimumInterval
 
-The minimum interval, in milliseconds, between phone shakes
 
-Sensitivity
 
-A number that encodes how sensitive the accelerometer is. The choices are: 1 = weak, 2 = moderate, 3 = strong.
 
-XAccel
-
-YAccel
-
-ZAccel
-
-AccelerationChanged\(number xAccel, number yAccel, number zAccel\)
-
-Indicates the acceleration changed in the X, Y, and/or Z dimensions.
-
-Shaking\(\)
-
-Indicates the device started being shaken or continues to be shaken.
 
