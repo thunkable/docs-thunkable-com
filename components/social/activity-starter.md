@@ -14,20 +14,17 @@ The sample app uses the Activity Starter to open the Facebook and Instagram app 
 
 #### Open a deep link to an installed app
 
-The Activity Starter can only open another app if it's installed on a user's device 
+The Activity Starter can only open another app if it's installed on a user's device
 
-|  | Action | Activity Class | DataURI | DataURI Example |
-| :--- | :--- | :--- | :--- | :--- |
-| Email \(default\) | android.intent.action.VIEW |  |  |  |
-| Facebook | android.intent.action.VIEW |  | fb://facewebmodal/f?href={weburl} | fb://facewebmodal/f?href=https://www.facebook.com/newmarketgoods |
-| Instagram | android.intent.action.VIEW |  |  |  |
-| YouTube | android.intent.action.VIEW |  | vnd.youtube:{youtubeuri} |  |
+|  | Action | Activity Class | Activity Package | DataURI | DataURI Example |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Email \(default\) | android.intent.action.VIEW |  |  | mailto:{emailAddress} | mailto:hello@thunkable.com |
+| Facebook | android.intent.action.VIEW |  |  | fb://facewebmodal/f?href={webUrl} | fb://facewebmodal/f?href=https://www.facebook.com/thunkable |
+| Instagram | android.intent.action.VIEW | com.instagram.android.activity.UrlHandlerActivity | com.instagram.android | http://instagram.com/\_u/{instagramHandle} | http://instagram.com/\_u/thunkable |
 
 ---
 
 #### Open Facebook page in app if available, website if not
 
 ![](/assets/activity-starter-blocks-1.png)
-
-
 
