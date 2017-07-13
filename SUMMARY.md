@@ -54,7 +54,7 @@
     * [Sensors](components/device.md)
       * [Clock](components/device/clock.md)
       * [Accelerometer](components/device/accelerometer.md)
-      * Orientation Sensor
+      * [Orientation Sensor](components/device/orientation-sensor.md)
       * Gyroscope
       * Proximity Sensor
     * [Social](components/social.md)

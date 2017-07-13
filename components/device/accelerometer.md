@@ -8,8 +8,6 @@ The Accelerometer is a phone sensor that detects shaking and measures accelerati
 
 ![](/assets/accelerometer-fig-1.png)
 
-
-
 ---
 
 #### Trigger an event by shaking your phone
