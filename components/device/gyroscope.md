@@ -4,9 +4,11 @@
 
 ---
 
-The Gyroscope component is a sensor that measures angular velocity along the x, y and z axis and is a common element in virtual reality apps.
+The Gyroscope is a sensor that utilizes the gravity of the earth to indicate its orientation. It consists of a freely-rotating disk mounted onto the center of larger wheels.
 
-The sample app [Thunkable Cardboard VR](#) uses a Gyroscope to create a virtual reality drawing app with Google Cardboard
+The Gyroscope sensor on a phone has become a central component in virtual and augmented reality apps because of its ability to detect how much the phone is being tilted, mostly to provide a smooth experience to a user turning her head.
+
+The sample app [Thunkable Cardboard VR](#) uses a Gyroscope to create a virtual reality drawing app for Google Cardboard
 
 ---
 
@@ -15,13 +17,11 @@ The sample app [Thunkable Cardboard VR](#) uses a Gyroscope to create a virtual 
 | Event / Property | Description |
 | :--- | :--- |
 | Available | Indicates whether the gyroscope is present on the device. Not all devices have gyroscopes |
-| Magnitude | Returns a number between 0 and 1 that indicates how much the device is tilted. It gives the magnitude of the force that would be felt by a ball rolling on the surface of the device |
-| Angle | Returns an angle that tells the direction in which the device is tiled. That is, it tells the direction of the force that would be felt by a ball rolling on the surface of the device |
-| Orientation Changed \(azimuth, pitch, roll\) | Called when the orientation has changed |
-| Azimuth | Returns the azimuth angle of the device |
-| Pitch | Returns the pitch angle of the device |
-| Roll | Returns the roll angle of the device |
-| Enabled |  |
+| Gyroscope Changed \(xAngularVelocity, yAngularVelocity, zAngularVelocity, timestamp \(nanoseconds\)\) | Indicates that the gyroscope sensor data has changed. The timestamp parameter is the time in nanoseconds at which the event occurred |
+| X  Angular Velocity |  The angular velocity around the X axis, in degrees per second |
+| Y Angular Velocity |  The angular velocity around the Y axis, in degrees per second |
+| Z Angular Velocity | The angular velocity around the Z axis, in degrees per second |
+| Enabled | If 'true', the gyroscope sensor is enabled |
 
 
 
