@@ -19,12 +19,12 @@ The Activity Starter can only open another app if it's installed on a user's dev
 |  | Action | Activity Class | Activity Package | DataURI | DataURI Example |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Email \(default\) | android.intent.action.VIEW |  |  | mailto:{emailAddress} | mailto:hello@thunkable.com |
-| Facebook | android.intent.action.VIEW |  |  | fb://facewebmodal/f?href={webUrl} | fb://facewebmodal/f?href=https://www.facebook.com/thunkable |
-| Instagram | android.intent.action.VIEW | com.instagram.android.activity.UrlHandlerActivity | com.instagram.android | http://instagram.com/\_u/{instagramHandle} | http://instagram.com/\_u/thunkable |
+| Facebook | android.intent.action.VIEW |  |  | fb://facewebmodal/f?href={webUrl} | fb://facewebmodal/f?href=[https://www.facebook.com/thunkable](https://www.facebook.com/thunkable) |
+| Instagram | android.intent.action.VIEW | com.instagram.android.activity.UrlHandlerActivity | com.instagram.android | [http://instagram.com/\_u/{instagramHandle}](http://instagram.com/_u/{instagramHandle}) | [http://instagram.com/\_u/thunkable](http://instagram.com/_u/thunkable) |
 
 ---
 
-#### Open Facebook page in app if available, website if not
+#### Open Facebook deep link in app if app is installed, open in website if not
 
 ![](/assets/activity-starter-blocks-1.png)
 
