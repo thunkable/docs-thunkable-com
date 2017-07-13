@@ -43,7 +43,7 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 | Hour \(instant\) | Returns the hour of the day \(0-23\) from the instant |
 | Minute \(instant\) | Returns the minute of the hour \(0-59\) from the instant |
 | Second \(instant\) | Returns the second of the minute \(0-59\) from the instant |
-| Get Millis \(instant\) |  |  Returns the instant in time measured as milliseconds since 1970 |  |
+| Get Millis \(instant\) | Returns the instant in time measured as milliseconds since 1970 |
 
 ---
 
@@ -66,12 +66,12 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 
 | Property | Description |
 | :--- | :--- |
-|  Duration \(start, end\) |  Returns duration, which is milliseconds elapsed between instants |
-|  Duration To Seconds \(duration\) |  Converts the duration to the number of seconds |
-|  Duration To Minutes \(duration\) |  Converts the duration to the number of minutes |
-|  Duration To Hours \(duration\) |  Converts the duration to the number of hours |
-|  Duration To Days \(duration\) |  Converts the duration to the number of days |
-|  Duration To Weeks \(duration\) | Converts the duration to the number of weeks |
+| Duration \(start, end\) | Returns duration, which is milliseconds elapsed between instants |
+| Duration To Seconds \(duration\) | Converts the duration to the number of seconds |
+| Duration To Minutes \(duration\) | Converts the duration to the number of minutes |
+| Duration To Hours \(duration\) | Converts the duration to the number of hours |
+| Duration To Days \(duration\) | Converts the duration to the number of days |
+| Duration To Weeks \(duration\) | Converts the duration to the number of weeks |
 
 
 
