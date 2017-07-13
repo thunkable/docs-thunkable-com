@@ -6,7 +6,7 @@
 
 Contact Picker and Phone Number Picker are identical components that allow users to select from stored contacts on a user's phone and retrieve a set of information about those contacts like name, phone number and email address.
 
-
+---
 
 #### Information available from Contact Picker or Phone Number Picker
 
@@ -21,6 +21,22 @@ After a user has made a selection, the following properties will be set to infor
 | Email Address List | A list of the contact's email addresses |
 | Contact URI | The path to the contact on the phone |
 | Picture | The name of the file containing the contact's image, which can be used as a Picture property value for the Image or ImageSprite component |
+
+---
+
+#### Selecting a contact
+
+| Event | Description |
+| :--- | :--- |
+| Open | Launches the Contact or Phone Number Picker |
+| View Contact \(uri\) | Views a contact given its URI or path on phone |
+| Before Picking | When the component is clicked but before the picker activity is started |
+| After Picking | After the picker activity returns its result and the properties have been filled in |
+| Touch Down | User gently presses the button |
+| Touch Up | User releases the button |
+| Enabled | If checked, button functionality is enabled |
+| Got Focus | User's finger is over the button, making it possible to click |
+| Lost Focus | User's finger is away from the button, making it no longer possible to click |
 
 ---
 
@@ -45,19 +61,7 @@ There are two elements to a Contact Picker and Phone Number Picker, a button tha
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
 | Visible | If checked, the button will be visible on the screen |
 
----
 
-#### Functionality
-
-| Event | Description |
-| :--- | :--- |
-| Click | User tapped and releases the button |
-| Long Click | User holds the button down |
-| Touch Down | User gently presses the button |
-| Touch Up | User releases the button |
-| Enabled | If checked, button functionality is enabled |
-| Got Focus | User's finger is over the button, making it possible to click |
-| Lost Focus | User's finger is away from the button, making it no longer possible to click |
 
 
 
