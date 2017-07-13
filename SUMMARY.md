@@ -56,7 +56,7 @@
       * [Phone Call](components/social/phone-call.md)
       * [Texting](components/social/texting.md)
       * [Sharing](components/social/sharing.md)
-      * Twitter
+      * [Twitter](components/social/twitter.md)
       * Activity Starter
     * [Gaming](components/gaming.md)
       * [Canvas](components/gaming/canvas.md)
