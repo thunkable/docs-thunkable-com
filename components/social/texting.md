@@ -4,7 +4,7 @@
 
 ---
 
-The Texting component send, receives and can be set up to automatically respond to texts \(like during driving\).  Standard messaging rates apply for the user.
+The Texting component sends, receives and can be set up to automatically respond to texts \(like during driving\).  Standard messaging rates apply for the user.
 
 ---
 
