@@ -10,7 +10,7 @@ The Companion writes files to `/sdcard/AppInventor/data` for easy debugging. If 
 
 ---
 
-#### Functionality
+#### Store and Retrieve File
 
 | Event | Description |
 | :--- | :--- |

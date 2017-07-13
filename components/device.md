@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Device
+# Sensors
 
 ---
 

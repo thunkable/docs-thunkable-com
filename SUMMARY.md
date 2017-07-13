@@ -52,6 +52,11 @@
       * [Web](components/storage/web.md)
       * [Tiny Web DB](components/storage/tiny-web-db.md)
     * [Sensors](components/device.md)
+      * [Clock](components/device/clock.md)
+      * [Accelerometer](components/device/accelerometer.md)
+      * Orientation Sensor
+      * Gyroscope
+      * Proximity Sensor
     * [Social](components/social.md)
       * [Contact Picker + Phone Number Picker](components/social/contact-picker.md)
       * [Phone Call](components/social/phone-call.md)
