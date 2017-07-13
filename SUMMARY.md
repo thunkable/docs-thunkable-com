@@ -54,8 +54,8 @@
     * [Sensors](components/device.md)
       * [Clock](components/device/clock.md)
       * [Accelerometer](components/device/accelerometer.md)
-      * [Orientation Sensor](components/device/orientation-sensor.md)
       * [Gyroscope](components/device/gyroscope.md)
+      * [Orientation Sensor](components/device/orientation-sensor.md)
       * Proximity Sensor
     * [Social](components/social.md)
       * [Contact Picker + Phone Number Picker](components/social/contact-picker.md)
