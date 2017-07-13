@@ -63,5 +63,3 @@ There are two elements to a Contact Picker and Phone Number Picker, a button tha
 
 
 
-
-

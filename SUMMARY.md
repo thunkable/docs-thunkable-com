@@ -53,7 +53,7 @@
     * [Device](components/device.md)
     * [Social](components/social.md)
       * [Contact Picker + Phone Number Picker](components/social/contact-picker.md)
-      * Phone Call
+      * [Phone Call](components/social/phone-call.md)
       * Texting
       * Sharing
       * Twitter
