@@ -14,7 +14,7 @@ The Orientation Sensor determines the phone's tilt orientation across 3 dimensio
 
 | Event / Property | Description |
 | :--- | :--- |
-| Available | Indicates whether the orientation sensor is present on the Android device. Not all Android devices have orientation sensors |
+| Available | Indicates whether the orientation sensor is present on the device. Not all devices have orientation sensors |
 | Magnitude | Returns a number between 0 and 1 that indicates how much the device is tilted. It gives the magnitude of the force that would be felt by a ball rolling on the surface of the device |
 | Angle | Returns an angle that tells the direction in which the device is tiled. That is, it tells the direction of the force that would be felt by a ball rolling on the surface of the device |
 | Orientation Changed \(azimuth, pitch, roll\) | Called when the orientation has changed |
