@@ -52,7 +52,12 @@
       * [Tiny Web DB](components/storage/tiny-web-db.md)
     * [Device](components/device.md)
     * [Social](components/social.md)
-      * Contact Picker
+      * [Contact Picker + Phone Number Picker](components/social/contact-picker.md)
+      * Phone Call
+      * Texting
+      * Sharing
+      * Twitter
+      * Activity Starter
     * [Gaming](components/gaming.md)
       * [Canvas](components/gaming/canvas.md)
       * [Image Sprite + Ball](components/gaming/image-sprite.md)
