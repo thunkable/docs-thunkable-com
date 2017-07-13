@@ -43,10 +43,11 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 | Hour \(instant\) | Returns the hour of the day \(0-23\) from the instant |
 | Minute \(instant\) | Returns the minute of the hour \(0-59\) from the instant |
 | Second \(instant\) | Returns the second of the minute \(0-59\) from the instant |
+| Get Millis \(instant\) |  |  Returns the instant in time measured as milliseconds since 1970 |  |
 
 ---
 
-#### Get a Future Time
+#### Set a Future Time
 
 | Property | Description |
 | :--- | :--- |
@@ -59,39 +60,18 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 | Add Hours \(instant, hours\) | Returns an instant in time some hours after the argument |
 | Add Duration \(instant, duration\) | Returns an instant in time some time after the argument. Duration can be obtained from Clock.Duration |
 
-Duration Duration\(InstantInTime start, InstantInTime end\)
+---
 
-Returns duration, which is milliseconds elapsed between instants
+#### Calculate Duration
 
-DurationToSeconds\(Duration duration\)
+| Property | Description |
+| :--- | :--- |
+|  Duration \(start, end\) |  Returns duration, which is milliseconds elapsed between instants |
+|  Duration To Seconds \(duration\) |  Converts the duration to the number of seconds |
+|  Duration To Minutes \(duration\) |  Converts the duration to the number of minutes |
+|  Duration To Hours \(duration\) |  Converts the duration to the number of hours |
+|  Duration To Days \(duration\) |  Converts the duration to the number of days |
+|  Duration To Weeks \(duration\) | Converts the duration to the number of weeks |
 
-Converts the duration to the number of seconds.
 
-DurationToMinutes\(Duration duration\)
-
-Converts the duration to the number of minutes.
-
-DurationToHours\(Duration duration\)
-
-Converts the duration to the number of hours.
-
-Number DurationToDays\(Duration duration\)
-
-Converts the duration to the number of days.
-
-Number DurationToWeeks\(Duration duration\)
-
-Converts the duration to the number of weeks.
-
-Number GetMillis\(InstantInTime instant\)
-
-Returns the instant in time measured as milliseconds since 1970.
-
-MakeInstant\(text from\)
-
-Returns an instant specified by MM/DD/YYYY hh:mm:ss or MM/DD/YYYY or hh:mm. An example text input is "06/22/2015 12:18"
-
-MakeInstantFromMillis\(number millis\)
-
-Returns an instant in time specified by the milliseconds since 1970.
 
