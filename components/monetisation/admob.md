@@ -8,12 +8,12 @@
 
 ---
 
-The AdMob components tap into one of the largest mobile ad networks currently available to help app developers maximize revenue from their apps.
+The AdMob components tap into one of the largest mobile ad networks currently available to help app developers maximize revenue from their apps. We have a [section on our community forum](https://community.thunkable.com/c/professional/admob) dedicated to helping users use this component effectively.
 
 * [Set up](/thunkable-for-android/set-up.md)
 * [Loading an Ad](#loading-an-ad)
 
-**Important**: We recommend that app developers audience first before implementing ads as ads can be harmful from the user experience. Google will also refund advertisers and debit developers if there are too many accidental clicks and even disable an ad or an account until the issue is fixed.
+**Important**: We recommend that app developers audience first before implementing ads both because it takes away from the user experience and without a sufficient audience, you won't generate much revenue anyway. Google will also refund advertisers and debit developers if there are too many accidental or fraudulent clicks and even disable an ad or an account where it detects there are.
 
 AdMob offers two types of ads:
 
