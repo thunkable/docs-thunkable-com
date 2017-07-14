@@ -4,7 +4,7 @@
 
 ---
 
-The Image Picker accesses all the images stored on the phone and in the cloud via other services
+The Image Picker accesses all the images stored on the phone and in the cloud via other services![](/assets/image-picker-fig-1.png)
 
 ---
 
