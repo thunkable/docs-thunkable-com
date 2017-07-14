@@ -4,23 +4,19 @@
 
 ---
 
-### Design
+#### Design
 
-| [Branding Splash Screens](/components/screen.md) | [Buttons and Icon Fonts](/components/touch/button.md) |
-| :--- | :--- |
-| [Labels and HTML](/components/touch/label.md) |  |
+* Branding Splash Screens
+* Buttons and Icon Fonts
+* Labels and HTML
 
----
+#### Productivity
 
-### Productivity
+* Vertical Arrangements as Screen Substitutes
 
-| [Vertical Arrangements as Screen Substitutes](/components/layout.md) |  |
-| :--- | :--- |
-|  |  |
 
----
 
-### Productivity
+
 
 ### Backpack
 

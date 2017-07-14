@@ -19,9 +19,22 @@ The sample app [Thunkableagram: AI-powered Instagram](#) uses all of these types
 
 #### Pro-tip: Vertical arrangements as Screen substitutes
 
+Screens are natural ways to organize an app but they have two limitations that make Vertical \(or Horizontal\) Arrangements a good substitute:
+
+* The maximum screen limit is 10 on Thunkable
+* They do not allow passing more than one value between screens
+
+To use Vertical Arrangements as screens:
+
+1. Add a Vertical Arrangement
+2. Set the Height and Width to 'Fill Parent'
+3. Set the Visible property to 'true' or 'false' depending on the event
+
+![](/assets/Screen Shot 2017-07-14 at 3.23.32 PM.png)
+
 ---
 
-### **Vertical, Horizontal or Scroll Arrangements **![](blob:https://www.gitbook.com/ead5a095-560e-4172-a93f-4450e0d7ac7d)  ![](/assets/hor-arrange-icon.png)
+### **Vertical, Horizontal or Scroll Arrangements **![](/assets/ver-arrange-icon.png)![](/assets/hor-arrange-icon.png)
 
 ---
 
