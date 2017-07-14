@@ -6,3 +6,9 @@
 
 
 
+|  | Wi-Fi | Bluetooth | NFC |
+| :--- | :--- | :--- | :--- |
+| Power | Some power | Lower power | No power |
+
+
+
