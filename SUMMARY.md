@@ -58,6 +58,7 @@
       * [Orientation Sensor](components/device/orientation-sensor.md)
       * [Pedometer](components/mapping/pedometer.md)
       * [Proximity Sensor](components/device/proximity-sensor.md)
+      * [Barcode Scanner](components/device/barcode-scanner.md)
     * [Social](components/social.md)
       * [Contact Picker + Phone Number Picker](components/social/contact-picker.md)
       * [Phone Call](components/social/phone-call.md)
