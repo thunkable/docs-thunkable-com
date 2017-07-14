@@ -77,7 +77,7 @@
       * [NFC Sensor](components/internet-of-things/nfc-sensor.md)
     * [Artificial Intelligence](components/artificial-intelligence.md)
     * [Monetisation](components/monetisation.md)
-      * AdMob
+      * [AdMob](components/monetisation/admob.md)
   * [Extensions](thunkable-for-android/extensions.md)
   * [Advanced](thunkable-for-android/advanced.md)
 

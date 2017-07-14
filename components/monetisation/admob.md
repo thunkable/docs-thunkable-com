@@ -1,0 +1,39 @@
+| `AdMob is currently available as part of our beta program so if you are interested in participating, please contact us at info@thunkable.com` |
+| :--- |
+
+
+#### **Thunkable for Android **❤
+
+# AdMob 
+
+---
+
+The AdMob components tap into one of the largest mobile ad networks currently available to help app developers maximize revenue from their apps.  
+
+**Important**: We recommend that app developers audience first before implementing ads as ads can be harmful from the user experience. Google will also refund advertisers and debit developers if there are too many accidental clicks and even disable an ad or an account until the issue is fixed.
+
+AdMob offers two types of ads:
+
+| Interstitial | Banner |
+| :--- | :--- |
+| ![](/assets/admob-fig-1.png) | ![](/assets/admob-fig-2.png) |
+| Full screen | 320 x 50 fixed ratio |
+| Best suited for apps with linear user experiences with clear starts and stops.  For a gaming app, a good time for an interstitial is after a level is complete.  For a non-gaming app, interstitials may be effective after a number of actions have been completed | Works well with most apps but avoid placing in the middle of screen esp in between interactive content as this may reduce the likelihood of users to engage with the ad or lead to accidental clicks |
+
+---
+
+#### Set up
+
+There is a bit of set-up required to start making money with AdMob.  The step that usually confuses users is the waiting period between when an account is created and when ads are ready to go live, which sometimes may take a day.
+
+1. [Go to AdMob](https://www.google.com/admob/) and create an account 
+2. Add an existing app on Google Play or one that is not yet published ![](/assets/admob-fig-3.png)![](/assets/admob-fig-4.png)![](/assets/admob-fig-5.png)![](/assets/admob-fig-6.png)
+3. Create an ad unit and find your Ad Unit ID to copy into Thunkable  ![](/assets/admob-fig-7.png)![](/assets/admob-fig-8.png)![](/assets/admob-fig-9.png)
+4. Go to the beta Set the Screen Size on Thunkable Screen1 to 'Responsive'
+5. Import your existing project \(.aia\) onto the Beta platform
+6. \(Optional\) If you are updating an 
+
+
+
+
+
