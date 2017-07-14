@@ -72,9 +72,11 @@
       * [Google Maps](components/mapping/google-maps.md)
       * [Location Sensor](components/mapping/location-sensor.md)
     * [Internet of Things](components/internet-of-things.md)
-    * [Virtual Reality](components/virtual-reality.md)
+      * [Bluetooth Client + Server](components/internet-of-things/bluetooth-client.md)
+      * [NFC Sensor](components/internet-of-things/nfc-sensor.md)
     * [Artificial Intelligence](components/artificial-intelligence.md)
     * [Monetisation](components/monetisation.md)
+      * AdMob
   * [Extensions](thunkable-for-android/extensions.md)
   * [Advanced](thunkable-for-android/advanced.md)
 

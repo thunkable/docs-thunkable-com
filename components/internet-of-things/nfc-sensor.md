@@ -1,8 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Location
+# NFC Sensor
 
 ---
-
-
 

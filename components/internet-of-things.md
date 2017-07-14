@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Internet of Things
+# Internet of Things \(iOT\)
 
 ---
 
