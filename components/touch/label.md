@@ -14,7 +14,7 @@ Labels are components used to display text. Empty labels are used to provide hor
 
 ---
 
-#### Pro-tip: Labels and HTML formatting
+#### ![](/assets/pro-tip-icon.png) Pro-tip: Labels and HTML formatting
 
 Labels are the only interface component so far that supports HTML formatting, which can be helpful if you want to add a line break or bold only a few words.
 

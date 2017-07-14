@@ -13,7 +13,7 @@ Buttons are a key input for many apps and one of the most popular components on 
 
 ---
 
-#### Pro-tip: Buttons and Icon Fonts {#button-pro-tip}
+#### ![](/assets/pro-tip-icon.png) Pro-tip: Buttons and Icon Fonts {#button-pro-tip}
 
 One of the most common customizations of buttons is to add an image to them but this can both take time to generate and also take up valuable space in your app.  One way to avoid this is to use one of the many icon fonts available to substitute a custom font for images.
 
