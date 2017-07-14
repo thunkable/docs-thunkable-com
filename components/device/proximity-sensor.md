@@ -15,7 +15,7 @@ The Proximity Sensor is a sensor that can measure the proximity of an object rel
 | Available | Indicates whether the proximity sensor is present on the device |
 | Maximum Range \(cm\) | Reports the maximum range of the device's proximity sensor |
 | Proximity Changed \(distance \(cm\)\) | Called when distance \(in cm\) of the object to the device changes |
-| Distance \(cm\) |  Returns the distance from the object to the device \(in cm\) |
+| Distance \(cm\) | Returns the distance from the object to the device \(in cm\) |
 | Keep Running When on Pause | If  'true', will keep sensing for proximity changes even when the app is not visible |
 | Enabled | If 'true', the proximity sensor is enabled |
 

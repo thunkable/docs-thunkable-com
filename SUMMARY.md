@@ -70,6 +70,7 @@
     * [Location](components/mapping.md)
       * [Google Maps](components/mapping/google-maps.md)
       * [Location Sensor](components/mapping/location-sensor.md)
+      * [Pedometer](components/mapping/pedometer.md)
     * [Internet of Things](components/internet-of-things.md)
     * [Virtual Reality](components/virtual-reality.md)
     * [Artificial Intelligence](components/artificial-intelligence.md)
