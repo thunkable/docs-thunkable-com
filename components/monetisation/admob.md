@@ -10,6 +10,9 @@
 
 The AdMob components tap into one of the largest mobile ad networks currently available to help app developers maximize revenue from their apps.
 
+* [Set up](/thunkable-for-android/set-up.md)
+* [Loading an Ad](#loading-an-ad)
+
 **Important**: We recommend that app developers audience first before implementing ads as ads can be harmful from the user experience. Google will also refund advertisers and debit developers if there are too many accidental clicks and even disable an ad or an account until the issue is fixed.
 
 AdMob offers two types of ads:
@@ -37,7 +40,7 @@ There is a bit of set-up required to start making money with AdMob.  The step th
 
 #### Loading an Ad
 
-Loads your AdMob banner ad after the user has been in your app for 20 seconds.  You can adjust the timer to vary the time before the ad loads but it may actually be both better for the user experience and for your earnings to wait a little bit of time before you trigger the ads to prevent app users from bouncing too quickly
+Loads your AdMob banner ad after the user has been in your app for 20 seconds.  You can adjust the timer to vary the time before the ad loads but it may actually be both better for the user experience and for your earnings to wait a little bit of time before you trigger the ads to prevent app users from bouncing too quickly
 
 ![](/assets/admob-blocks-1png)
 
