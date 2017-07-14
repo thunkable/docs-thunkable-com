@@ -1,4 +1,4 @@
-#### [DatePicker](https://www.gitbook.com/book/albertching/thunkable-docs/edit#)**Thunkable for Android **❤
+#### **Thunkable for Android **❤
 
 # DatePicker ![](/assets/datepicker-icon.png) + TimePicker ![](/assets/timepicker-icon.png)
 
