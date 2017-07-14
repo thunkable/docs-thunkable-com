@@ -18,7 +18,7 @@ The current Web Viewer does support image uploading but not full screen video pl
 
 ---
 
-#### Pro-tip: Web Viewer for displaying Material Design elements like Shadows
+#### ![](/assets/pro-tip-icon.png) Pro-tip: Web Viewer for displaying Material Design elements like Shadows
 
 ---
 

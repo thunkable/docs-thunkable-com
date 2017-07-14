@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Pro-tips
+# Pro-tips ![](/assets/pro-tip-icon.png)
 
 ---
 
@@ -12,11 +12,7 @@
 
 #### Productivity
 
-* Vertical Arrangements as Screen Substitutes
-
-
-
-
+* [Vertical Arrangements as Screen Substitutes](/components/layout.md)
 
 ### Backpack
 
