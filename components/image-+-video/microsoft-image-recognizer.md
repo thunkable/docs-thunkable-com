@@ -25,12 +25,7 @@ Thunkable provides its own API key by default for your convenience but if you ex
 
 ### Microsoft Image Recognizer
 
-The Image Recognizer returns information about visual content found in an image and provides a set of tags and its best single line description.
-
-| ![](blob:https://www.gitbook.com/0fabd3ff-25eb-40ec-af05-cb6285545534) |
-| :--- |
-| Any image |
-| Single line 'description' with a 'description score' and image 'tags' |
+The Image Recognizer returns information about visual content found in an image and provides a set of tags and its best single line description![](/assets/emotion-recognizer-fig-2.png)
 
 The sample app[Thunkableagram: AI-powered Instagram](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#)uses the Image Recognizer to auto-caption images
 
@@ -53,12 +48,7 @@ The sample app[Thunkableagram: AI-powered Instagram](https://www.gitbook.com/boo
 
 ### Microsoft Emotion Recognizer
 
-The Emotion Recognizer detects emotions from images containing a single face. The emotions detected are anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions
-
-| ![](blob:https://www.gitbook.com/84a1d15f-9965-4185-818b-097f7be056b5) |
-| :--- |
-| Images with a single face |
-| Most likely 'emotion' and 'emotion score' from anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions |
+The Emotion Recognizer detects emotions from images containing a single face. The emotions detected are anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions![](/assets/emotion-recognizer-fig-1.png)
 
 ---
 
