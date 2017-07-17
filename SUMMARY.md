@@ -73,7 +73,7 @@
     * [Built In Blocks](block-it.md)
       * [Control](block-it/control.md)
       * [Logic](block-it/logic.md)
-      * Math
+      * [Math](block-it/math.md)
       * Text
       * Lists
       * Colors
