@@ -90,6 +90,8 @@ Android ❤
   * [Google maps ](https://www.youtube.com/watch?v=dXi55Rai7pQ)
   * [Mobile responsive website](https://www.youtube.com/watch?v=dXi55Rai7pQ)
   * [Interactive game](https://www.youtube.com/watch?v=OJAmgDQjS4Q&t=125s)
+* Community
+  * [Evolution of Chat](https://domhnallohanlon.gitbooks.io/the-evolution-of-chat/content/) by Domhnall O'Hanlon from Dublin, Ireland
 
 ---
 
