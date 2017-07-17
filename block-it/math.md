@@ -42,7 +42,7 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 #### ![](/assets/math-block-9.png)
 
-\(a\) ![](/assets/math-block-10.png) \(b\) ![](/assets/math-block-11.png) \(c\) ![](/assets/math-block-12.png) \(d\) ![](/assets/math-block-13.png) \(e\)![](/assets/math-block-24.png) 
+\(a\) ![](/assets/math-block-10.png) \(b\) ![](/assets/math-block-11.png) \(c\) ![](/assets/math-block-12.png) \(d\) ![](/assets/math-block-13.png) \(e\)![](/assets/math-block-24.png)
 
 \(a\) **Addition** `Returns the result of adding any amount of blocks that have a number value together. Blocks with a number value include the basic number block, length of list or text, variables with a number value, etc`
 
@@ -70,8 +70,6 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 \(l\) ![](/assets/math-block-18.png)\(m\) ![](/assets/math-block-25.png)\(n\) ![](/assets/math-block-26.png)\(o\) ![](/assets/math-block-27.png)\(p\) ![](/assets/math-block-28png)
 
-
-
 \(l\) **Max** `Returns the largest value of a set of numbers. If there are unplugged sockets in the block, max will also consider 0 in its set of numbers`
 
 \(m\) **Min** `Returns the smallest value of a set of numbers. If there are unplugged sockets in the block, min will also consider 0 in its set of numbers`
@@ -82,17 +80,33 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 \(p\) **Floor** `Returns the greatest integer that's less than or equal to the given number`
 
-\(q\) 
+\(q\) ![](/assets/math-block-30.png)\(r\) ![](/assets/math-block-31.png)\(s\) ![](/assets/math-block-32.png)\(t\) ![](/assets/math-block-33.png)\(u\) ![](/assets/math-block-34.png)\(v\) ![](/assets/math-block-35.png)\(w\) ![](/assets/math-block-36.png)
 
-\(q\) 
+\(q\) **Sine** `Returns the sine of the given number in degrees`
 
+\(r\) **Cosine **`Returns the cosine of the given number in degrees`
 
+\(s\) **Tangent **`Returns the tangent of the given number in degrees`
+
+\(t\) **Arcsine **`Returns the arcsine of the given number in degrees`
+
+\(u\) **Arccosine**` Returns the arccosine of the given number in degrees`
+
+\(v\) **Arctangent** `Returns the arctangent of the given number in degrees `
+
+\(w\) **Arctangent 2 **`Returns the arctangent of y/x, given y and x`
 
 ---
 
 #### Reformatting numbers
 
-\(a\) ![](/assets/math-block-28.png)
+\(a\) ![](/assets/math-block-28.png)\(b\) ![](/assets/math-block-37.png)\(c\) ![](/assets/math-block-38.png)
+
+\(a\) **Decimal **`Formats a number as a decimal with a given number of places after the decimal point. The number of places must be a non-negative integer. The result is produced by rounding the number (if there were too many places) or by adding zeros on the right (if there were too few)`
+
+\(b\) **Radians to degrees **`Returns the value in degrees of the given number in radians. The result will be an angle in the range [0, 360)`
+
+\(c\) **Degrees to radians **`Returns the value in radians of the given number in degrees. The result will be an angle in the range [-π , +π)`
 
 ---
 
@@ -100,9 +114,9 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 \(a\) ![](/assets/math-block-15.png)\(b\) ![](/assets/math-block-16.png)\(c\) ![](/assets/math-block-17.png)
 
-\(a\) `Returns a random integer value between the given values, inclusive. The order of the arguments doesn't matter`
+\(a\) **Random integer**  `Returns a random integer value between the given values, inclusive. The order of the arguments doesn't matter`
 
-\(b\) `Returns a random value between 0 and 1`
+\(b\) **Random fraction** `Returns a random value between 0 and 1`
 
-\(c\) `Use this block to generate repeatable sequences of random numbers. You can generate the same sequence of random numbers by first calling random set seed with the same value. This is useful for testing programs that involve random values`
+\(c\) **Random sequence **`Use this block to generate repeatable sequences of random numbers. You can generate the same sequence of random numbers by first calling random set seed with the same value. This is useful for testing programs that involve random values`
 
