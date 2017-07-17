@@ -6,6 +6,12 @@
 
 Math blocks have a wide array  of functions from basic numbers and conditional tests to a variety of math operators and formatters. Math blocks are also useful for introducing randomness into your app
 
+* [Basic number](#basic-number)
+* [Conditional test](#conditional-test)
+* [Math operators](#math-operators)
+* [Reformat number](#reformat-number)
+* [Introduce randomness](#introduce-randomness)
+
 ---
 
 #### Basic number
@@ -16,7 +22,7 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 ---
 
-#### Conditional tests
+#### Conditional test
 
 ![](/assets/math-block-2.png)
 
@@ -68,7 +74,7 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 \(k\) **Negative** `Returns the negative of a given number`
 
-\(l\) ![](/assets/math-block-18.png)\(m\) ![](/assets/math-block-25.png)\(n\) ![](/assets/math-block-26.png)\(o\) ![](/assets/math-block-27.png)\(p\) ![](/assets/math-block-28png)
+\(l\) ![](/assets/math-block-18.png)\(m\) ![](/assets/math-block-25.png)\(n\) ![](/assets/math-block-26.png)\(o\) ![](/assets/math-block-27.png)\(p\) ![](/assets/math-block-41.png)
 
 \(l\) **Max** `Returns the largest value of a set of numbers. If there are unplugged sockets in the block, max will also consider 0 in its set of numbers`
 
@@ -98,7 +104,7 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 ---
 
-#### Reformatting numbers
+#### Reformat number
 
 \(a\) ![](/assets/math-block-28.png)\(b\) ![](/assets/math-block-37.png)\(c\) ![](/assets/math-block-38.png)
 
@@ -110,7 +116,7 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 ---
 
-#### Randomness
+#### Introduce randomness
 
 \(a\) ![](/assets/math-block-15.png)\(b\) ![](/assets/math-block-16.png)\(c\) ![](/assets/math-block-17.png)
 
