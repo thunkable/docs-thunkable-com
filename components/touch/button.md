@@ -25,6 +25,12 @@ The sample app [Thunkableagram: AI-powered Instagram](#) uses the Material Desig
 
 ---
 
+#### Click a Button to Open a Screen
+
+![](/assets/button-blocks-1.png)
+
+---
+
 #### **Appearance**
 
 | Property | Description |
