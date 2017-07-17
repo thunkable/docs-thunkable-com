@@ -20,7 +20,7 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 
 ---
 
-#### How to add a screen
+#### How to Add a Screen
 
 ![](https://lh6.googleusercontent.com/1oEzLB4YgohJ9xkkqyOox_Ljr9gbVxreM8EfuVqC0LX0jni6rhmNbBvZzbrqCCng0dHfeKh_g2bPthx2pfKrTpHZx3jOpAel5K_zXQPs3UyabZ1dYzq0VD4ikRJ0krCWMPZkpJZg)
 
