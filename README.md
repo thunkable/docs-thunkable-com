@@ -56,7 +56,7 @@ Android ❤
 
   * [Open Sourced Messenger](https://community.thunkable.com/t/chat-opensource-messenger/3609) created by Pavitra
 
-  * [ChatAble Secure and Scalable Messenger](https://community.thunkable.com/t/chatable-a-chat-system/5328?u=barreeeiroo) created by Barreeeio 
+  * [ChatAble Secure and Scalable Messenger](https://community.thunkable.com/t/chatable-a-chat-system/5328?u=barreeeiroo) created by Barreeeiroo
 
 * Tools
 
