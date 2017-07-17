@@ -7,9 +7,9 @@
 Control blocks are used for placing conditions on when things happen, repeating a particular action a number of times and for navigating between screens of an app.
 
 * [Place conditions on when things happen](#placing-conditions-on-when-things-happen)
-* Repeat a certain event
-* Just do it
-* Navigate between screens
+* [Repeat a certain event](#repeat-a-certain-event)
+* [Just do it](#just-do-it)
+* [Navigate between screens](#navigate-between-screens)
 
 ---
 
@@ -53,7 +53,7 @@ Control blocks are used for placing conditions on when things happen, repeating 
 
 \(a\) ![](/assets/control-blocks-11.png)\(b\) ![](/assets/control-blocks-12) \(c\) ![](/assets/control-blocks-13.png)
 
-\(a\) `Opens the screen with the provided name `
+\(a\) `Opens the screen with the provided name`
 
 \(b\) `Close the current screen`
 
