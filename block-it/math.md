@@ -20,7 +20,7 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 ![](/assets/math-block-2.png)
 
-\(a\) ![](/assets/math-block-3.png) \(b\) ![](/assets/math-block-4.png) \(c\) ![](/assets/math-block-5.png)\(d\) ![](/assets/math-block-6) \(e\) ![](/assets/math-block-7.png) \(f\) ![](/assets/math-block-8.png)\(g\) ![](/assets/math-block-29.png)
+\(a\) ![](/assets/math-block-3.png) \(b\) ![](/assets/math-block-4.png) \(c\) ![](/assets/math-block-5.png)\(d\) ![](/assets/math-block-40.png) \(e\) ![](/assets/math-block-7.png) \(f\) ![](/assets/math-block-8.png)\(g\) ![](/assets/math-block-29.png)
 
 \(a\) **Equals** `Tests whether two numbers are equal and returns true or false`
 
@@ -90,9 +90,9 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 \(t\) **Arcsine **`Returns the arcsine of the given number in degrees`
 
-\(u\) **Arccosine**` Returns the arccosine of the given number in degrees`
+\(u\) **Arccosine**`Returns the arccosine of the given number in degrees`
 
-\(v\) **Arctangent** `Returns the arctangent of the given number in degrees `
+\(v\) **Arctangent** `Returns the arctangent of the given number in degrees`
 
 \(w\) **Arctangent 2 **`Returns the arctangent of y/x, given y and x`
 
