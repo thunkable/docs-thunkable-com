@@ -74,8 +74,8 @@
       * [Control](block-it/control.md)
       * [Logic](block-it/logic.md)
       * [Math](block-it/math.md)
-      * Text
-      * Lists
+      * [Text](block-it/text.md)
+      * [Lists](block-it/lists.md)
       * Colors
       * Variables
       * Procedures

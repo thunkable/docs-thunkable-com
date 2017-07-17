@@ -4,7 +4,7 @@
 
 ---
 
-Math blocks have a wide array  of functions from basic numbers and conditional tests to a variety of math operators and formatters. Math blocks are also useful for introducing randomness into your app
+Math blocks have a wide array of functions from basic numbers and conditional tests to a variety of math operators and formatters. Math blocks are also useful for introducing randomness into your app
 
 * [Basic number](#basic-number)
 * [Conditional test](#conditional-test)
