@@ -20,7 +20,9 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 ![](/assets/math-block-2.png)
 
-\(a\) ![](/assets/math-block-3.png) \(b\) ![](/assets/math-block-4.png) \(c\) ![](/assets/math-block-5.png)\(d\) ![](/assets/math-block-6) \(e\) ![](/assets/math-block-7.png) \(f\) ![](/assets/math-block-8.png)\(a\) **Equals** `Tests whether two numbers are equal and returns true or false`
+\(a\) ![](/assets/math-block-3.png) \(b\) ![](/assets/math-block-4.png) \(c\) ![](/assets/math-block-5.png)\(d\) ![](/assets/math-block-6) \(e\) ![](/assets/math-block-7.png) \(f\) ![](/assets/math-block-8.png)\(g\) ![](/assets/math-block-29.png)
+
+\(a\) **Equals** `Tests whether two numbers are equal and returns true or false`
 
 \(b\) **Does not equal** `Tests whether two numbers are not equal and returns true or false`
 
@@ -32,13 +34,15 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 \(f\) **Less than or equal **`Tests whether the first number is less than or equal to the second number and returns true or false`
 
+\(g\) **Is a number? **`Returns true if the given object is a number, and false otherwise`
+
 ---
 
 #### Math operators
 
 #### ![](/assets/math-block-9.png)
 
-\(a\) ![](/assets/math-block-10.png) \(b\) ![](/assets/math-block-11.png) \(c\) ![](/assets/math-block-12.png) \(d\) ![](/assets/math-block-13.png) \(e\)![](/assets/math-block-24.png) \(f\)![](/assets/math-block-14.png)\(g\) ![](/assets/math-block-22.png)\(h\) ![](/assets/math-block-23.png)\(i\) ![](/assets/math-block-19.png)\(j\) ![](/assets/math-block-20.png)\(k\) ![](/assets/math-block-21.png)\(l\) 
+\(a\) ![](/assets/math-block-10.png) \(b\) ![](/assets/math-block-11.png) \(c\) ![](/assets/math-block-12.png) \(d\) ![](/assets/math-block-13.png) \(e\)![](/assets/math-block-24.png) 
 
 \(a\) **Addition** `Returns the result of adding any amount of blocks that have a number value together. Blocks with a number value include the basic number block, length of list or text, variables with a number value, etc`
 
@@ -48,13 +52,49 @@ Math blocks have a wide array  of functions from basic numbers and conditional t
 
 \(d\)** Division **`Returns the result of dividing the first number by the second`
 
-\(e\) **Exponent **`Returns the result of the first number raised to the power of the second`
+\(e\) **Division with no remainder** `Returns the result of dividing the first number by the second and discarding any fractional part of the result`
+
+\(f\)![](/assets/math-block-14.png)\(g\) ![](/assets/math-block-22.png)\(h\) ![](/assets/math-block-23.png)\(i\) ![](/assets/math-block-19.png)\(j\) ![](/assets/math-block-20.png)\(k\) ![](/assets/math-block-21.png)
+
+\(f\) **Exponent **`Returns the result of the first number raised to the power of the second`
+
+\(g\) **Natural log** `Returns the natural logarithm of a given number, that is, the logarithm to the base e (2.71828...)`
+
+\(h\)** e^ **`Returns e (2.71828...) raised to the power of the given number`
+
+\(i\) **Square root** `Returns the square root of the given number`
+
+\(j\) **Absolute value** `Returns the absolute value of the given number`
+
+\(k\) **Negative** `Returns the negative of a given number`
+
+\(l\) ![](/assets/math-block-18.png)\(m\) ![](/assets/math-block-25.png)\(n\) ![](/assets/math-block-26.png)\(o\) ![](/assets/math-block-27.png)\(p\) ![](/assets/math-block-28png)
+
+
+
+\(l\) **Max** `Returns the largest value of a set of numbers. If there are unplugged sockets in the block, max will also consider 0 in its set of numbers`
+
+\(m\) **Min** `Returns the smallest value of a set of numbers. If there are unplugged sockets in the block, min will also consider 0 in its set of numbers`
+
+\(n\) **Round** `Returns the given number rounded to the closest integer. If the fractional part is <.5 it will be rounded down. It it is >.5 it will be rounded up. If it is exactly equal to .5, numbers with an even whole part will be rounded down, and numbers with an odd whole part will be rounded up`
+
+\(o\) **Ceiling** `Returns the smallest integer that's greater than or equal to the given number`
+
+\(p\) **Floor** `Returns the greatest integer that's less than or equal to the given number`
+
+\(q\) 
+
+\(q\) 
+
+
 
 ---
 
 #### Reformatting numbers
 
+\(a\) ![](/assets/math-block-28.png)
 
+---
 
 #### Randomness
 
