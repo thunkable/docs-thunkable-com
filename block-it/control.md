@@ -10,6 +10,10 @@ Control blocks are used for placing conditions on when things happen, repeating 
 
 #### Placing conditions on when things happen
 
+![](/assets/control-blocks-1.png)![](/assets/control-blocks-3.png)
+
+`Tests a given condition. If the condition is true, performs the actions in a given sequence of blocks; otherwise, the blocks are ignored`
+
 | Block | Description |
 | :--- | :--- |
 | ![](/assets/control-blocks-1.png) | Tests a given condition. If the condition is true, performs the actions in a given sequence of blocks; otherwise, the blocks are ignored |
@@ -17,6 +21,8 @@ Control blocks are used for placing conditions on when things happen, repeating 
 |  |  |
 |  |  |
 |  |  |
+
+
 
 
 
