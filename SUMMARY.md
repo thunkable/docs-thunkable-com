@@ -71,6 +71,15 @@
       * [Monetisation](components/monetisation.md)
         * [AdMob](components/monetisation/admob.md)
     * [Built In Blocks](block-it.md)
+      * [Control](block-it/control.md)
+      * [Logic](block-it/logic.md)
+      * Math
+      * Text
+      * Lists
+      * Colors
+      * Variables
+      * Procedures
+    * [Extensions](extensions.md)
   * [Test your app live](thunkable-for-android/test-your-app.md)
     * [Test via USB](thunkable-for-android/test-your-app/test-via-usb.md)
   * [Download your app](thunkable-for-android/download-your-app.md)
