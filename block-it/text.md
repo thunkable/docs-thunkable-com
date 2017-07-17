@@ -29,11 +29,11 @@ Text blocks are
 
 ![](/assets/text-block-2.png)
 
-\(a\) ![](/assets/text-block-3)\(b\) 
+\(a\) ![](/assets/text-block-3)\(b\)
 
 \(a\) Join
 
-\(b\) 
+\(b\)
 
 ---
 
@@ -47,5 +47,5 @@ Text blocks are
 
 #### Text calculators
 
-\(a\) ![](/assets/text-blocks-4.png)\(b\) 
+\(a\) ![](/assets/text-block-4.png)\(b\)
 
