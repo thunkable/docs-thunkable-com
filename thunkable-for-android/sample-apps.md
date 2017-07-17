@@ -14,9 +14,13 @@
 
   * [Thunkableagram: AI-powered Instagram](#) created by Albert from Honolulu, Hawaii, [learn more on our blog](#)
 
-  * [ThunkableChat: Chat with Instant Translation](https://goo.gl/pZUKHu) created by Albert from Honolulu, Hawaii
+  * [ThunkableChat: Chat with Instant Translation](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) created by Albert from Honolulu, Hawaii
 
-  * [Thunkable Messaging](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) created by Arun from Burlington, Massachusetts
+  * [Thunkable Messaging](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) created by Arun from Burlington, Massachusetts
+
+  * [Open Sourced Messenger](https://community.thunkable.com/t/chat-opensource-messenger/3609) created by Pavitra
+
+  * [ChatAble Secure and Scalable Messenger](https://community.thunkable.com/t/chatable-a-chat-system/5328?u=barreeeiroo) created by Barreeeiroo
 
 * Tools
 
