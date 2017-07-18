@@ -4,46 +4,48 @@
 
 ---
 
-Creating your first app on Android should take only a few minutes
-
----
-
-### 1 / [Login](https://ios.thunkable.com) to Thunkable for Android
-
-
-
-
-
-We designed Thunkable to work for non-developers by eliminating the need to write any code to build a powerful and beautiful native, mobile app. To create your app, simply:
-
-* [Add Components](#add-components-to-tap-into-the-native-capabilities-of-your-phone-and-your-favorite-services)
-* [Connect Blocks](#connect-blocks-to-add-functionality-to-your-app)
+We designed Thunkable to work for non-developers by eliminating the need to write any code to build a powerful and beautiful native, mobile app. Creating your first app on Android should take only a few minutes
 
 If this is your first time on Thunkable, we highly recommend that you [watch this tutorial](https://www.youtube.com/watch?v=hZ7z3t-98O0)
 
-There are some [app limits](#limits) to be aware of that will hopefully help you avoid any problems in the future
+---
+
+### 1 / [Login](https://ios.thunkable.com) to Thunkable for Android![](/assets/login-android.png)
 
 ---
 
-#### Add Components to tap into the native capabilities of your phone and your favorite services
+### 2 / Create a New Project
+
+1. In Thunkable, click 'Create New App'
+2. Enter your Project Name.  Please note that **no spaces are allowed** in your project name. The Project Name is not seen by your users except in your default package name. ![](/assets/create-android-fig-1.png)
+
+---
+
+### 3 / Rename App \(and Upload App Icon\)
+
+You can change your App Name to be different than your Project Name \(otherwise they will be the same by default\). The App Name is what shows up underneath your app icon on your user's phones
+
+![](/assets/create-android-fig-2.png)
+
+---
+
+### 4 / **Add App Component\(s\)** {#step-5：-add-app-components}
+
+As you create your app, there are some [app limits](#limits) to be aware of that will hopefully help you avoid problems in the future e.g. crashing, building issues
 
 ![](/assets/add-blocks.png)
 
 ---
 
-#### Connect Blocks to add functionality to your app
-
-![](/assets/connect-blocks.png)
+### 5 / **Add Functionality**![](/assets/connect-blocks.png) {#--step-6：-add-functionality}
 
 ---
 
-#### Limits
 
-|  | Limit |
-| :--- | :--- |
-| App size | 10 MB |
-| App icon size | 96 x 96 px \(recommended\) |
-| Screens | Up to 10 \(recommended\) |
+
+#### 
+
+#### 
 
 
 

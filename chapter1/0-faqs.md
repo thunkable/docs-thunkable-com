@@ -4,7 +4,7 @@
 
 ---
 
-### Set up
+### `Getting started`
 
 #### **Are there special requirements to be an iOS developer?** {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
@@ -24,13 +24,13 @@ iOS app development has its own unique set of requirements that are distinct fro
 
 ---
 
-### Pricing
+### `Pricing`
 
 #### How much does it cost to use Thunkable for iOS? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
 ---
 
-### Product
+### `Product`
 
 #### **Does Thunkable build native iOS apps?** {#does-thunkable-build-native-ios-apps}
 

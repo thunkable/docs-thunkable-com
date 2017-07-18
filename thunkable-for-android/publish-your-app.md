@@ -4,7 +4,7 @@
 
 ---
 
-### Set-up
+### Requirements
 
 Here are the _minimum_ requirements for publishing to the Google Play Store:
 
