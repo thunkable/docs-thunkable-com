@@ -4,9 +4,7 @@
 
 ---
 
-One of Thunkable's coolest features is the ability to change and update your app in real-time. Not even hard-core developers have this super power.
-
-You can watch this video to see this works on 
+One of Thunkable's coolest features is the ability to change and update your app in real-time. Not even hard-core developers have this super power
 
 ---
 
@@ -19,5 +17,12 @@ You can watch this video to see this works on
 
 ---
 
-2 /  
+### 2 / **Use Live Testing to sync your project with your app**
+
+1. Go to the top right of the screen and click the `Live Test` button
+2. A popup with a QR code in it appears.
+3. On your iPhone or iPad, open your Thunkable companion app and scan the QR code.
+4. You have now synced your Thunkable project with your device.![](/assets/live-test-ios-2.png)
+
+![](/assets/live-test-ios.png)
 

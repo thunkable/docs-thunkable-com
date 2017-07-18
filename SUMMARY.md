@@ -2,6 +2,7 @@
 
 * [Home](README.md)
 * [ Thunkable for iOS](chapter1.md)
+  * [0 / FAQs](chapter1/0-faqs.md)
   * [1 / Idea](chapter1/step-1-idea.md)
   * [2 / Create](chapter1/creating-your-app.md)
     * [Components](chapter1/creating-your-app/components.md)
@@ -85,7 +86,7 @@
   * [3 / Test live](thunkable-for-android/test-your-app.md)
     * [Test via USB](thunkable-for-android/test-your-app/test-via-usb.md)
   * [4 / Publish](thunkable-for-android/publish-your-app.md)
-  * [5 / Share](thunkable-for-android/share-your-app.md)
   * [Download your app](thunkable-for-android/download-your-app.md)
     * [Changing your app icon and name](thunkable-for-android/download-your-app/changing-your-app-icon-and-name.md)
+  * [5 / Share](thunkable-for-android/share-your-app.md)
 
