@@ -6,11 +6,11 @@
 
 ### **Start with a problem you want to solve**
 
-The most successful apps solve real problems. These problems can range from problems that only you face---to problems of a local community you are a part of--to challenges facing businesses and organizations that you love. 
+The most successful apps solve real problems. These problems can range from problems that only you face---to problems of a local community you are a part of--to challenges facing businesses and organizations that you love.
 
-Since apps are easy to create on Thunkable, no problem is too small. 
+Since apps are easy to create on Thunkable, no problem is too small.
 
-Our advice is to start with a small problem -- and to start with what you know.  If it works, then you can start expanding from there.
+Our advice is to start small -- and to start with what you know.  If it works, then you can start expanding from there.
 
 ### Or be inspired by real apps from our community of \(mostly\) first-time developers
 
