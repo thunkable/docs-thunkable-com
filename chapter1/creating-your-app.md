@@ -4,7 +4,12 @@
 
 ---
 
-Creating your first app on iOS should take only a few minutes
+Creating your first app on iOS should take only a few steps
+
+1. [Login](#1--login-to-thunkable-for-ios)
+2. [Create a new project](#2--create-a-new-project)
+3. [Add component\(s\)](#step-5：-add-app-components)
+4. [Add functionality](#--step-6：-add-functionality)
 
 ---
 

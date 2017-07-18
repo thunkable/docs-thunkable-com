@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Publish your app to the Google Play Store
+# Step 4 `Publish`
 
 ---
 

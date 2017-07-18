@@ -1,12 +1,12 @@
 #### **Thunkable for Android **❤
 
-# Test your app live
+# Step 3 `Test Live`
 
 ---
 
-One of Thunkable's coolest features is the ability to change and update your app in real-time. Not even hard-core developers have this super power.![](https://thunkable.com/explore/img/WifiA.png)
+One of Thunkable's coolest features is the ability to change and update your app in real-time. Not even hard-core developers have this super power.
 
-![](https://thunkable.com/explore/img/WifiA.png)
+
 
 ![](https://thunkable.com/explore/img/WifiA.png)
 
@@ -18,7 +18,7 @@ After downloading, step though the the instructions to install the Thunkable app
 
 ---
 
-### Step 2. Connect both your computer and your device to the SAME WiFi Network {#step-2-connect-both-your-computer-and-your-device-to-the-same-wifi-network}
+### Step 2. Connect both your computer and your device to the same WiFi Network {#step-2-connect-both-your-computer-and-your-device-to-the-same-wifi-network}
 
 The Thunkable Android app will automatically show you the app you are building, but only if your computer \(running Thunkable\) and your Android device \(running the Thunkable app\) are connected to the same WiFi Network.
 
