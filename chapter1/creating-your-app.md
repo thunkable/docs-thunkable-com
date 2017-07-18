@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Create your app
+# Step 2 `Create`
 
 ---
 
@@ -43,6 +43,4 @@ Open your just created project.
    _Please note: the Webview component currently only accepts URLs with https:// or http:// at the beginning.\)_
 
 ![](/assets/add-functionality-ios.png)
-
-
 

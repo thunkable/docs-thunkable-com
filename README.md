@@ -4,6 +4,8 @@
 
 **"I believe in life, liberty, and the pursuit of your own apps" **_- Barack Obeaver_
 
+Thunkable is a community that empower developers of the future to solve their own problems with the world's best technologies
+
 ---
 
 ## What is Thunkable?
