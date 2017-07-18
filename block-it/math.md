@@ -60,6 +60,8 @@ Math blocks have a wide array of functions from basic numbers and conditional te
 
 \(e\) **Division with no remainder** `Returns the result of dividing the first number by the second and discarding any fractional part of the result`
 
+---
+
 \(f\)![](/assets/math-block-14.png)\(g\) ![](/assets/math-block-22.png)\(h\) ![](/assets/math-block-23.png)\(i\) ![](/assets/math-block-19.png)\(j\) ![](/assets/math-block-20.png)\(k\) ![](/assets/math-block-21.png)
 
 \(f\) **Exponent **`Returns the result of the first number raised to the power of the second`
@@ -74,6 +76,8 @@ Math blocks have a wide array of functions from basic numbers and conditional te
 
 \(k\) **Negative** `Returns the negative of a given number`
 
+---
+
 \(l\) ![](/assets/math-block-18.png)\(m\) ![](/assets/math-block-25.png)\(n\) ![](/assets/math-block-26.png)\(o\) ![](/assets/math-block-27.png)\(p\) ![](/assets/math-block-41.png)
 
 \(l\) **Max** `Returns the largest value of a set of numbers. If there are unplugged sockets in the block, max will also consider 0 in its set of numbers`
@@ -85,6 +89,8 @@ Math blocks have a wide array of functions from basic numbers and conditional te
 \(o\) **Ceiling** `Returns the smallest integer that's greater than or equal to the given number`
 
 \(p\) **Floor** `Returns the greatest integer that's less than or equal to the given number`
+
+---
 
 \(q\) ![](/assets/math-block-30.png)\(r\) ![](/assets/math-block-31.png)\(s\) ![](/assets/math-block-32.png)\(t\) ![](/assets/math-block-33.png)\(u\) ![](/assets/math-block-34.png)\(v\) ![](/assets/math-block-35.png)\(w\) ![](/assets/math-block-36.png)
 

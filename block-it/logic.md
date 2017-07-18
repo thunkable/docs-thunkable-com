@@ -15,9 +15,9 @@ Logic blocks are mostly used for setting the component properties or conditions 
 
 \(a\) ![](/assets/logic-blocks-1.png) \(b\) ![](/assets/logic-blocks-2.png)
 
-\(a\) `Represents the constant value true. Use it for setting boolean property values of components, or as the value of a variable that represents a condition`
+\(a\) **True** `Represents the constant value true. Use it for setting boolean property values of components, or as the value of a variable that represents a condition`
 
-\(b\) `Represents the constant value false. Use it for setting boolean property values of components, or as the value of a variable that represents a condition.`
+\(b\) **False** `Represents the constant value false. Use it for setting boolean property values of components, or as the value of a variable that represents a condition.`
 
 ---
 
