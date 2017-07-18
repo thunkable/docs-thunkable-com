@@ -84,7 +84,7 @@
       * [Variables](block-it/variables.md)
       * [Procedures](block-it/procedures.md)
     * [Extensions](extensions.md)
-  * [3 / Test live](thunkable-for-android/test-your-app.md)
+  * [3 / Test Live](thunkable-for-android/test-your-app.md)
     * [Test via USB](thunkable-for-android/test-your-app/test-via-usb.md)
   * [4 / Publish](thunkable-for-android/publish-your-app.md)
   * [5 / Share](thunkable-for-android/share-your-app.md)
