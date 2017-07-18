@@ -6,9 +6,12 @@
 
 Creating your first app on iOS should take only a few minutes
 
+* Login to Thunkable for iOS
+* Create a new project
+
 ---
 
-### Step 1 [Login](https://ios.thunkable.com) to Thunkable for iOS
+### [Login](https://ios.thunkable.com) to Thunkable for iOS
 
 ### ![](/assets/login-ios.png)
 
