@@ -76,7 +76,7 @@
       * [Math](block-it/math.md)
       * [Text](block-it/text.md)
       * [Lists](block-it/lists.md)
-      * Colors
+      * [Colors](block-it/colors.md)
       * Variables
       * Procedures
     * [Extensions](extensions.md)
