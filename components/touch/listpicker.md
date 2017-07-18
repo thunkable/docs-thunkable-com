@@ -99,6 +99,12 @@ The Spinner is a great drop down menu option for shorter lists
 
 ---
 
+#### Creating an initial list for the spinner
+
+![](/assets/spinner-blocks-1.png)
+
+---
+
 #### Functionality
 
 | Event / Property | Description |
