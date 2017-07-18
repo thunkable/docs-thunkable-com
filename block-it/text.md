@@ -6,10 +6,10 @@
 
 Text blocks are essential for any app functions that uses, retrieves, stores and transforms text into usable formats for your app
 
-* Basic text
-* Reformat text
-* Text conditionals
-* Text calculations
+* [Basic text](#basic-text)
+* [Reformat text](#reformat-text)
+* [Conditionals with text](#conditionals-with-text)
+* [Text calculations](#text-calculations)
 
 ---
 
@@ -38,13 +38,13 @@ This string can contain any characters \(letters, numbers, or other special char
 
 \(d\) **Split at first **Divides the given text into two pieces using the location of the first occurrence of at as the dividing point, and returns a two-item list consisting of the piece before the dividing point and the piece after the dividing point. Splitting `apple, banana, cherry, dogfood` with `a comma` as the splitting point returns a list of two items: the first is the text `apple` and the second is the text `banana, cherry, dogfood`. Notice that the comma after apple doesn't appear in the result, because that is the dividing point
 
-\(e\) **Split at any / first to a list **Divides the given text into a list, using any of the items in at as the dividing point, and returns a list of the results. Splitting `appleberry,banana,cherry,dogfood`_ _with at as the two-element list whose first item is a comma and whose second item is `rry`_ _returns a list of four items: `applebe, banana, che, dogfood`
+\(e\) **Split at any / first to a list **Divides the given text into a list, using any of the items in at as the dividing point, and returns a list of the results. Splitting `appleberry,banana,cherry,dogfood`_ \_with at as the two-element list whose first item is a comma and whose second item is _`rry` \_returns a list of four items: `applebe, banana, che, dogfood`
 
 \(f\) **Split at spaces **Divides the given text at any occurrence of a `space`, producing a list of the pieces
 
 \(g\) **Segment **Extracts part of the `text` starting at `start` position and continuing for `length` characters
 
-\(h\) **Replace** Returns a new `text` string obtained by replacing all occurrences of the `segment` with the `replacement`. 
+\(h\) **Replace** Returns a new `text` string obtained by replacing all occurrences of the `segment` with the `replacement`.
 
 \(i\) **Uppercase **Returns a copy of its text string argument converted to all upper case
 
