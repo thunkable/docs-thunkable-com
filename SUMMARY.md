@@ -4,8 +4,9 @@
 * [ Thunkable for iOS](chapter1.md)
   * [Set-up](chapter1/set-up.md)
   * [Create your app](chapter1/creating-your-app.md)
+    * [Components](chapter1/creating-your-app/components.md)
+    * Built In Blocks
   * [Test your app live](chapter1/testing-your-app.md)
-  * [Advanced](chapter1/advanced.md)
 * [❤ Thunkable for Android](thunkable-for-android.md)
   * [Set-up](thunkable-for-android/set-up.md)
     * [Login issues](thunkable-for-android/set-up/login-issues.md)
