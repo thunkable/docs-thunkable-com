@@ -2,6 +2,10 @@
 
 # Step 4 `Publish`
 
+|  Requirements |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- |
+
+
 ---
 
 ### Requirements
@@ -62,7 +66,17 @@ For more details, you may want to start with [Introduction to Publishing on Goog
 
 ---
 
-### A Word about Backups
+### Package name
+
+The package name for all apps built completely on Thunkable:
+
+* com.thunkable.android.{username}.{appname}
+
+Currently, there is no way to customize your package name \(which is visible on the Google Play store url\)
+
+---
+
+### Backups
 
 Once you publish your application in the Google Play Store, other people will now be depending upon you to fix bugs and otherwise maintain your application. It is therefore very important that you backup your application's source code. To do this, click on "Project--&gt;My Projects", check the box next to the name of your project and then select "Project--&gt;Export selected project \(.aia\) to my computer." This will download a zip file which contains your projects source code. Store it in a safe place!
 
@@ -70,7 +84,7 @@ Thunkable and Google, which operate the App Engine service on which Thunkable re
 
 ---
 
-### A Word about Keystores
+### Keystores
 
 During the .apk building process your application is signed with a digital private key which is associated with your account. Whenever you build a new version this same key is used to sign the new version. When an android phone has an application installed on it, it remembers the key that was used to sign it. In order to install an updated version of an application, the new application must be signed by the same key. It is therefore important that you not lose this key!
 
