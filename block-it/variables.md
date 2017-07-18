@@ -4,7 +4,7 @@
 
 ---
 
-Variables are nicknames users never see for elements in your app that can be a value, text string, list, color which you want to store and change to make your app function smoothly
+Variables are helpful nicknames for elements in your app that can be a value, text string, list, or color which you want to store so that you can use them at any time in your app \(global variables\) or specified times \(local variables\)
 
 * [Create a global variable](#create-global-variable)
 * [Get a global variable](#get-a-global-variable)
@@ -19,7 +19,7 @@ Variables are nicknames users never see for elements in your app that can be a v
 
 There are two types of variables in apps - global and local. Global variables are available in any procedure or event while local variables can only be used for specific procedures or events.
 
-To create a global variable, just connect this block to any basic math, text, list or color block. Clicking on `name`_ _will change the name of this global variable. 
+To create a global variable, just connect this block to any basic math, text, list or color block. Clicking on `name`\_ \_will change the name of this global variable.
 
 ---
 

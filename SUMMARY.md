@@ -78,7 +78,7 @@
       * [Lists](block-it/lists.md)
       * [Colors](block-it/colors.md)
       * [Variables](block-it/variables.md)
-      * Procedures
+      * [Procedures](block-it/procedures.md)
     * [Extensions](extensions.md)
   * [Test your app live](thunkable-for-android/test-your-app.md)
     * [Test via USB](thunkable-for-android/test-your-app/test-via-usb.md)
