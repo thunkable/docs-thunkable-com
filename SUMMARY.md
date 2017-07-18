@@ -77,7 +77,7 @@
       * [Text](block-it/text.md)
       * [Lists](block-it/lists.md)
       * [Colors](block-it/colors.md)
-      * Variables
+      * [Variables](block-it/variables.md)
       * Procedures
     * [Extensions](extensions.md)
   * [Test your app live](thunkable-for-android/test-your-app.md)
