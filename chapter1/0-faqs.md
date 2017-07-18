@@ -4,9 +4,11 @@
 
 ---
 
+### Set up
+
 #### **Are there special requirements to be an iOS developer?** {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
-iOS app development has its own unique set of requirements that are distinct from Android. 
+iOS app development has its own unique set of requirements that are distinct from Android. Where possible, Thunkable is making easier for new iOS developers to get started on their first app \(compared to hard-core iOS developers\)
 
 * Apple usually requires a MAC device and a free Apple Developer Account to build iOS apps \(.ipa\). We are enabling building iOS apps without a MAC or an Apple Developer Account.
 
@@ -18,7 +20,17 @@ iOS app development has its own unique set of requirements that are distinct fro
 
   * iii\) Windows + iPhone/iPad
 
+* To publish to the App Store, you do have to sign up for the [Apple Developer Program](https://developer.apple.com/programs/) membership \(currently $99/year\)
+
+---
+
+### Pricing
+
 #### How much does it cost to use Thunkable for iOS? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
+
+---
+
+### Product
 
 #### **Does Thunkable build native iOS apps?** {#does-thunkable-build-native-ios-apps}
 
@@ -26,9 +38,7 @@ Unlike other platforms that produce web, HTML5, or hybrid apps, Thunkable iOS ap
 
 #### **Is Thunkable for iOS able to make making standalone apps?**
 
-Yes. Unlike competing products, Thunkable lets you build standalone apps. Soon, you can download them to your phone and with an Apple Developer Account, publish them to the App Store.
-
-Important: Right now, you can _only live test apps _on your iOS device by using the Thunkable companion app to connect it to your Thunkable web project. Very soon you'll be able to export and run your apps on your iOS device.
+Yes. Unlike other products in the space, Thunkable lets you build standalone apps. Soon, you can download them to your phone and with an Apple Developer Account, publish them to the App Store.
 
 #### **Can I convert my existing Android project into iOS?** {#can-i-convert-my-existing-android-project-into-ios}
 

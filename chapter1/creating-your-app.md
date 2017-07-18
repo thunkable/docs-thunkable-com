@@ -4,7 +4,7 @@
 
 ---
 
-Creating your first app on iOS should take only a few minutes. When you complete this step, make sure to move to [Step 3 Test Live](/chapter1/testing-your-app.md)
+Creating your first app on iOS should take only a few minutes
 
 ---
 
@@ -31,6 +31,8 @@ Open your just created project.
 2. A popup appears, listing the available components.
 3. Add a component by clicking its Add button. Below, we show adding a Webview component. Note that it’s listed under 'Components' in the left bar.
 
+#### Go to the Components section for more details on how to coax the fullest expressions from these amazing technologies
+
 ![](/assets/add-components-ios.png)
 
 ---
@@ -43,4 +45,8 @@ Open your just created project.
    _Please note: the Webview component currently only accepts URLs with https:// or http:// at the beginning.\)_
 
 ![](/assets/add-functionality-ios.png)
+
+---
+
+When you complete this step, make sure to move to [Step 3 Test Live](/chapter1/testing-your-app.md)
 

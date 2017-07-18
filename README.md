@@ -4,7 +4,7 @@
 
 **"I believe in life, liberty, and the pursuit of your own apps" **_- Barack Obeaver_
 
-Thunkable is a community that empower developers of the future to solve their own problems with the world's best technologies
+> Thunkable empowers developers of the future to solve their own problems with the world's best technologies
 
 ---
 
@@ -108,6 +108,8 @@ Android ❤
 | Community | Chat support \(California work hours\) | Email us |
 | :--- | :--- | :--- |
 | [Join our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | ![](/assets/Webp.net-resizeimage %281%29.png) Click on this icon to ask us anything | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com) |
+
+---
 
 ![](/assets/logo-thunkable.png)
 
