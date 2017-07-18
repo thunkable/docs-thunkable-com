@@ -2,13 +2,9 @@
 
 # Step 2 `Create`
 
-Creating your first app on iOS should take only a few steps
-
 ---
 
-| [Login](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) |  [Create a new project](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) | [Add component\(s\)](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) | [Add functionality](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) |
-| :--- | :--- | :--- | :--- |
-
+Creating your first app on iOS should take only a few steps
 
 ---
 

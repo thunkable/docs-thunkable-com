@@ -8,7 +8,7 @@ One of Thunkable's coolest features is the ability to change and update your app
 
 ---
 
-### 1/ Install Thunkable’s Live Testing companion app {#step-1：-install-thunkables-live-testing-companion-app}
+### 1 / Install Thunkable’s Live Testing companion app {#step-1：-install-thunkables-live-testing-companion-app}
 
 1. Go to the AppStore and [download the TestFlight app](https://itunes.apple.com/us/app/testflight/id899247664?mt=8)
 2. [Fill out this form](https://docs.google.com/a/thunkable.com/forms/d/e/1FAIpQLSe6rInAyxJg__2seP5ai0Bak5kvj24nmJPZCSgDa0TSmhHpkQ/viewform) so we have your Apple ID and can email you an invitation to install the Thunkable Live iOS app.

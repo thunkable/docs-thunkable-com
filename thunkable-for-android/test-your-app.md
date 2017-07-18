@@ -6,25 +6,23 @@
 
 One of Thunkable's coolest features is the ability to change and update your app in real-time. Not even hard-core developers have this super power.
 
-
-
 ![](https://thunkable.com/explore/img/WifiA.png)
 
 ---
 
-### Step 1. [Click this link](https://play.google.com/store/apps/details?id=com.thunkable.appinventor.aicompanion3&hl=en) to install the Thunkable Live app on your phone {#step-1-install-the-thunkable-live-app-on-your-phone}
+### 1 /  [Click this link](https://play.google.com/store/apps/details?id=com.thunkable.appinventor.aicompanion3&hl=en) to install the Thunkable Live app on your phone {#step-1-install-the-thunkable-live-app-on-your-phone}
 
 After downloading, step though the the instructions to install the Thunkable app on your device. You need to install the Thunkable app only once, and then leave it on your phone or tablet for whenever you use Thunkable.
 
 ---
 
-### Step 2. Connect both your computer and your device to the same WiFi Network {#step-2-connect-both-your-computer-and-your-device-to-the-same-wifi-network}
+### 2 / Connect both your computer and your device to the same WiFi Network {#step-2-connect-both-your-computer-and-your-device-to-the-same-wifi-network}
 
 The Thunkable Android app will automatically show you the app you are building, but only if your computer \(running Thunkable\) and your Android device \(running the Thunkable app\) are connected to the same WiFi Network.
 
 ---
 
-### Step 3. Open a Thunkable project and connect it to your device {#step-3-open-a-thunkable-project-and-connect-it-to-your-device}
+### 3 / Open a Thunkable project and connect it to your device {#step-3-open-a-thunkable-project-and-connect-it-to-your-device}
 
 Go to Thunkable and open a project \(or create a new one -- use\_Apps &gt; Create New App\_and give your project a name\).
 
@@ -42,16 +40,16 @@ If you have trouble scanning the QR code or your device does not have a scanner,
 
 ---
 
-### Troubleshooting {#troubleshooting}
+### 4 / Troubleshooting {#troubleshooting}
 
 If your app does not appear on your device, the most likely problems are:
 
 * You may have an outdated version of the Thunkable app. Download the latest Thunkable live development app for Thunkable from above.
 * Your device may not be connected to wifi. Make sure you see an IP address at the bottom of the Thunkable App screen on your phone or tablet.
 * Your device may not be connected to the same wifi network as your computer. Make sure both devices are connected to the same wifi network name.
-* Try using a different browser. If you are on Chrome, you can also try opening Thunkable in cognito.
-* To learn more about how connecting over wifi works, check out our documentation on the [wifi connection](https://thunkable.com/explore/custom-tinywebdb-service.html)
-  .
+* Try using a different browser. If you are on Chrome, you can also try opening Thunkable a New Incognito Window
+
+.
 
 
 

@@ -6,12 +6,6 @@
 
 We designed Thunkable to work for non-developers by eliminating the need to write any code to build a powerful and beautiful native, mobile app. Creating your first app on Android should take only a few steps
 
-1. [Login](#1--login-to-thunkable-for-android-)
-2. [Create a new project](#2--create-a-new-project)
-3. [Rename your app \(and upload app icon\)](#3--rename-app-and-upload-app-icon)
-4. [Add component\(s\)](#step-5：-add-app-components)
-5. [Add functionality](#--step-6：-add-functionality)
-
 If this is your first time on Thunkable, we highly recommend that you [watch this tutorial](https://www.youtube.com/watch?v=hZ7z3t-98O0)
 
 ---
