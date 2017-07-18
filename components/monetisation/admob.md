@@ -42,7 +42,7 @@ There is a bit of set-up required to start making money with AdMob.  The step th
 
 Loads your AdMob banner ad after the user has been in your app for 20 seconds.  You can adjust the timer to vary the time before the ad loads but it may actually be both better for the user experience and for your earnings to wait a little bit of time before you trigger the ads to prevent app users from bouncing too quickly
 
-![](/assets/admob-blocks-1png)
+![](/assets/admob-blocks-1.png)
 
 | Property / Event | Description |
 | :--- | :--- |
