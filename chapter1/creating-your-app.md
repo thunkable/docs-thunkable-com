@@ -4,20 +4,17 @@
 
 ---
 
-Creating your first app on iOS should take only a few minutes
-
-* Login to Thunkable for iOS
-* Create a new project
+Creating your first app on iOS should take only a few minutes. When you complete this step, make sure to move to [Step 3 Test Live](/chapter1/testing-your-app.md)
 
 ---
 
-### [Login](https://ios.thunkable.com) to Thunkable for iOS
+### 1 / [Login](https://ios.thunkable.com) to Thunkable for iOS
 
-### ![](/assets/login-ios.png)
+### [![](/assets/login-ios.png)](https://ios.thunkable.com)
 
 ---
 
-### Step 2 Create a New Project
+### 2 / Create a New Project
 
 1. In Thunkable, click 'Create New App'
 2. Enter your Project Name
@@ -26,7 +23,7 @@ Creating your first app on iOS should take only a few minutes
 
 ---
 
-### **Step 3 Add App Component\(s\)** {#step-5：-add-app-components}
+### 3 / **Add App Component\(s\)** {#step-5：-add-app-components}
 
 Open your just created project.
 
@@ -38,7 +35,7 @@ Open your just created project.
 
 ---
 
-### **Step 4 Add Functionality** {#--step-6：-add-functionality}
+### 4 / **Add Functionality** {#--step-6：-add-functionality}
 
 1. Select a component from the left hand bar. In the example below, it’s the Webview component you just added.
 2. The default 'Simple' property panel appears.
