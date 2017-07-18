@@ -12,7 +12,7 @@ Since apps are easy to create on Thunkable, no problem is too small.
 
 Our advice is to start small -- and to start with what you know.  If it works, then you can start expanding from there.
 
-### Or be inspired by real apps from our community of \(mostly\) first-time developers
+### . . . Or be inspired by real apps from our community of \(mostly\) first-time developers
 
 ---
 

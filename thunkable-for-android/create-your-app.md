@@ -1,8 +1,18 @@
 #### **Thunkable for Android **❤
 
-# Create your app
+# Step 2 `Create`
 
 ---
+
+Creating your first app on Android should take only a few minutes
+
+---
+
+### 1 / [Login](https://ios.thunkable.com) to Thunkable for Android
+
+
+
+
 
 We designed Thunkable to work for non-developers by eliminating the need to write any code to build a powerful and beautiful native, mobile app. To create your app, simply:
 
