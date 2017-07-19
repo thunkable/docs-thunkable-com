@@ -1,6 +1,6 @@
-#### **Thunkable for Android **❤
+#### **Thunkable for Android**❤ {#thunkable-for-android-❤}
 
-# Clock ![](/assets/clock-icon.png)
+# Clock![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/clock-icon.png) {#clock-}
 
 ---
 
@@ -8,9 +8,9 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 
 ---
 
-#### Set a Timer \(to Turn Off a Splash Screen\)
+#### Set a Timer \(to Turn Off a Splash Screen\) {#set-a-timer-to-turn-off-a-splash-screen}
 
-![](/assets/clock-blocks-1.png)
+![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/clock-blocks-1.png)
 
 [Watch the Branding Screen tutorial](https://www.youtube.com/watch?v=9u365ejwTqg&t=1s)
 
@@ -23,9 +23,9 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 
 ---
 
-#### Get the Current Time
+#### Get the Current Time {#get-the-current-time}
 
-![](/assets/clock-blocks-2.png)
+![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/clock-blocks-2.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -47,7 +47,7 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 
 ---
 
-#### Set a Future Time
+#### Set a Future Time {#set-a-future-time}
 
 | Property | Description |
 | :--- | :--- |
@@ -62,7 +62,7 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 
 ---
 
-#### Calculate Duration
+#### Calculate Duration {#calculate-duration}
 
 | Property | Description |
 | :--- | :--- |
@@ -71,7 +71,7 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 | Duration To Minutes \(duration\) | Converts the duration to the number of minutes |
 | Duration To Hours \(duration\) | Converts the duration to the number of hours |
 | Duration To Days \(duration\) | Converts the duration to the number of days |
-| Duration To Weeks \(duration\) | Converts the duration to the number of weeks |
+|  | Duration To Weeks \(duration\) |
 
 
 
