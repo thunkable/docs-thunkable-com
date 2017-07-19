@@ -86,7 +86,7 @@
       * [Procedures](Android/blocks/procedures.md)
     * [Extensions](Android/extensions.md)
     * [Import from App Inventor](Android/ai-import.md)
-  * [3 / Test Live](thunkable-for-android/test-your-app.md)
+  * [3 / Test Live](Android/live-test.md)
     * [Test via USB](Android/live-test-usb.md)
   * [4 / Publish](Android/publish.md)
   * [5 / Share](Android/share.md)
