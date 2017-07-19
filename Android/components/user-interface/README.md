@@ -8,13 +8,13 @@ One of the first defining features of smartphones was the touch screen interface
 
 Below are the different touch interface components and what they look like on a Samsung S6 phone by default
 
-| [Button](/components/touch/button.md) | ![](/assets/button.png) | [Label](/components/touch/label.md) | ![](/assets/label.png) |
+| [Button](/Android/components/user-interface/button.md) | ![](/assets/button.png) | [Label](/Android/components/user-interface/label.md) | ![](/assets/label.png) |
 | :--- | :--- | :--- | :--- |
-| [TextBox](/components/touch/textbox.md) | ![](/assets/textbox.png) | [Password TextBox](/components/touch/textbox.md) | ![](/assets/password-textbox.png) |
-| [ListPicker](/components/touch/listpicker.md) | ![](/assets/listpicker.png) | [ListView](/components/touch/listpicker.md) | ![](/assets/listview.png) |
-| [Spinner](/components/touch/listpicker.md) | ![](/assets/spinner.png) | [CheckBox](/components/touch/listpicker.md) | ![](/assets/checkbox.png) |
-| [Slider](/components/touch/slider.md) | ![](/assets/slider.png) | [Notifier](/components/touch/notifier.md) | ![](/assets/notifier.png) |
-| [DatePicker](/components/touch/datepicker.md) | ![](/assets/datepicker.png) | [TimePicker](/components/touch/datepicker.md) | ![](/assets/timepicker.png) |
+| [TextBox](/Android/components/user-interface/textbox.md) | ![](/assets/textbox.png) | [Password TextBox](/Android/components/user-interface/textbox.md) | ![](/assets/password-textbox.png) |
+| [ListPicker](/Android/components/user-interface/listpicker.md) | ![](/assets/listpicker.png) | [ListView](/Android/components/user-interface/listpicker.md) | ![](/assets/listview.png) |
+| [Spinner](/Android/components/user-interface/listpicker.md) | ![](/assets/spinner.png) | [CheckBox](/Android/components/user-interface/listpicker.md) | ![](/assets/checkbox.png) |
+| [Slider](/Android/components/user-interface/slider.md) | ![](/assets/slider.png) | [Notifier](/Android/components/user-interface/notifier.md) | ![](/assets/notifier.png) |
+| [DatePicker](/Android/components/user-interface/datepicker.md) | ![](/assets/datepicker.png) | [TimePicker](/Android/components/user-interface/datepicker.md) | ![](/assets/timepicker.png) |
 
 
 

@@ -11,7 +11,7 @@ In places without strong data connections, voice and audio is a much more effici
 |  | Understand user's voice | Convert words to speech | Translate user's speech | Record speech or sound | Play sound |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | ![](/assets/speech-recognizer-icon.png) | ![](/assets/text-to-speech-icon.png) | ![](/assets/yandex-icon.png) | ![](/assets/sound-recorder-icon.png) | ![](/assets/sound-icon.png)   ![](/assets/player-icon.png) |
-| Recommended component | [Speech Recognizer](/components/voice-+-audio/speech-recognizer.md) | [Text to Speech](/components/voice-+-audio/text-to-speech.md) | [Yandex Translate](/components/voice-+-audio/yandex-translate.md) | [Sound Recorder](/components/voice-+-audio/sound-recorder.md) | [Sound or Player](/components/voice-+-audio/sound-player.md) |
+| Recommended component | [Speech Recognizer](/Android/components/voice/speech-recognizer.md) | [Text to Speech](/Android/components/voice/text-to-speech.md) | [Yandex Translate](/Android/components/voice/yandex-translate.md) | [Sound Recorder](/Android/components/voice/sound-recorder.md) | [Sound or Player](/Android/components/voice/sound-player.md) |
 
 
 
