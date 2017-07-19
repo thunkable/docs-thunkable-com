@@ -11,7 +11,7 @@
   * [3 / Test Live](chapter1/testing-your-app.md)
   * [4 / Publish](chapter1/publish.md)
 * [❤ Thunkable for Android](thunkable-for-android.md)
-  * [1 / Idea](thunkable-for-android/sample-apps.md)
+  * [1 / Idea](thunkable-for-android/idea.md)
   * [2 / Create](thunkable-for-android/create-your-app.md)
     * [Login issues](thunkable-for-android/set-up/login-issues.md)
     * [App Limits](thunkable-for-android/set-up/app-limits.md)
