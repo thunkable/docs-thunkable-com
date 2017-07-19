@@ -14,5 +14,5 @@ Our advice is to start small -- and to start with what you know.  If it works, t
 
 ---
 
-When you complete this step, make sure to move to [Step 2 Create](/thunkable-for-android/create-your-app.md)
+When you complete this step, make sure to move to [Step 2 Create](/iOS/create.md)
 

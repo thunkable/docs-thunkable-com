@@ -48,5 +48,5 @@ Open your just created project.
 
 ---
 
-When you complete this step, make sure to move to [Step 3 Test Live](/chapter1/testing-your-app.md)
+When you complete this step, make sure to move to [Step 3 Test Live](/iOS/live-test.md)
 
