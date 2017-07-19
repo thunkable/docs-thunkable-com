@@ -1,0 +1,8 @@
+#### **Thunkable for Android **❤
+
+# Monetisation
+
+---
+
+
+
