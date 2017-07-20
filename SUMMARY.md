@@ -11,6 +11,7 @@
   * [3 / Test Live](iOS/live-test.md)
   * [4 / Publish](iOS/publish.md)
 * [❤ Thunkable for Android](Android/README.md)
+  * [0 / FAQs](Android/faqs.md)
   * [1 / Idea](Android/idea.md)
   * [2 / Create](Android/create.md)
     * [Login issues](Android/login-issues.md)

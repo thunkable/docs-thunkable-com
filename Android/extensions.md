@@ -18,5 +18,9 @@ To use an extension in your app,
 
 #### [Go to](http://extensiondirectory.com/) the Thunkable Community Extension Directory
 
+Other trusted resource's for extensions:
+
+* [Pura Vida Apps by Taifun](https://puravidaapps.com/extensions.php)
+
 
 
