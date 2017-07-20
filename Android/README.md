@@ -2,7 +2,7 @@
 
 ![](/assets/thunkable-classic.png)
 
-"I got 99 problems but an app ain't one" - Jay Zeaver
+**"I got 99 problems but an app ain't one"** - Jay Zeaver
 
 ---
 
