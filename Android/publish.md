@@ -4,7 +4,7 @@
 
 ---
 
-### 1/ Requirements
+### 1 / Requirements
 
 Here are the _minimum_ requirements for publishing to the Google Play Store:
 
