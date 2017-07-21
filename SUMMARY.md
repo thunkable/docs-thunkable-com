@@ -9,6 +9,8 @@
       * [User Interface](iOS/components/user-interface/README.md)
         * [Button](iOS/components/user-interface/button.md)
         * [Label](iOS/components/user-interface/label.md)
+        * [Image](iOS/components/user-interface/image.md)
+        * [Web Viewer](iOS/components/user-interface/web-viewer.md)
     * [Blocks](iOS/blocks/README.md)
     * [App Limits](iOS/app-limits.md)
   * [3 / Test Live](iOS/live-test.md)
