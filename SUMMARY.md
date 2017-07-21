@@ -11,6 +11,8 @@
         * [Label](iOS/components/user-interface/label.md)
         * [Image](iOS/components/user-interface/image.md)
         * [Web Viewer](iOS/components/user-interface/web-viewer.md)
+      * [Location](iOS/components/user-interface/location.md)
+        * [Maps](iOS/components/user-interface/location/maps.md)
     * [Blocks](iOS/blocks/README.md)
     * [App Limits](iOS/app-limits.md)
   * [3 / Test Live](iOS/live-test.md)
