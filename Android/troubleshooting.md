@@ -21,6 +21,7 @@ Common issues
 * Too many screens \(there is not a hard limit on 10 screens but performance reduces beyond that\)
 
 * Blocks
+
   * Errors in blocks \(usually this will prevent the app from building\)
   * Too many blocks \(we have seen a few cases where a lot of blocks create performance issues\)
 

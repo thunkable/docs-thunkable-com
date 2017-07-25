@@ -21,6 +21,7 @@ The Activity Starter can only open another app if it's installed on a user's dev
 | Email \(default\) | android.intent.action.VIEW |  |  | mailto:{emailAddress} | mailto:hello@thunkable.com |
 | Facebook | android.intent.action.VIEW |  |  | fb://facewebmodal/f?href={webUrl} | fb://facewebmodal/f?href=[https://www.facebook.com/thunkable](https://www.facebook.com/thunkable) |
 | Instagram | android.intent.action.VIEW | com.instagram.android.activity.UrlHandlerActivity | com.instagram.android | [http://instagram.com/\_u/{instagramHandle}](http://instagram.com/_u/{instagramHandle}) | [http://instagram.com/\_u/thunkable](http://instagram.com/_u/thunkable) |
+| App made on Thunkable | com.thunkable.android.{username}.{appname} | com.thunkable.android.{username}.{appname}.Screen1 |  |  |  |
 
 ---
 
