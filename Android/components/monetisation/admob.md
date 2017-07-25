@@ -4,7 +4,7 @@
 
 #### **Thunkable for Android **❤
 
-# AdMob
+# AdMob ![](/assets/admob-icon.png)
 
 ---
 
@@ -12,6 +12,7 @@ The AdMob components tap into one of the largest mobile ad networks currently av
 
 * [Set up](/thunkable-for-android/set-up.md)
 * [Loading an Ad](#loading-an-ad)
+* [Troubleshooting](#troubleshooting)
 
 **Important**: We recommend that app developers audience first before implementing ads both because it takes away from the user experience and without a sufficient audience, you won't generate much revenue anyway. Google will also refund advertisers and debit developers if there are too many accidental or fraudulent clicks and even disable an ad or an account where it detects there are.
 
@@ -50,6 +51,19 @@ Loads your AdMob banner ad after the user has been in your app for 20 seconds.  
 | Test mode | If 'true', ad clicks will not count. We recommend that you select 'true' when testing and then set to 'false' when you publish your app live |
 | Load Ad | Loads the ad |
 | Visible | If 'true', ad will be visible on the screen |
+
+---
+
+#### Troubleshooting
+
+Common issues
+
+* Ads are not showing up
+  * AdMob account created very recently. Usually it takes at least a few hours for the account to be activated
+  * For Banner Ads, Screen set to 'Fixed'. Screen needs to be set to 'Responsive'
+  * Load Ad block not called in Blocks Editor
+  * Account has been suspended by AdMob. Clicking ads on your own app can lead to suspensions as can one or more users repeatedly clicking the ads on your app. Accounts can also be suspended for deceptive ad placement that generates accidental clicks
+  * [Check the AdMob forum for more potential errors](https://community.thunkable.com/c/professional/admob)
 
 
 

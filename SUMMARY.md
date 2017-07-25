@@ -99,4 +99,5 @@
     * [Test via USB](Android/live-test-usb.md)
   * [4 / Publish](Android/publish.md)
   * [5 / Share](Android/share.md)
+  * [Troubleshooting](Android/troubleshooting.md)
 
