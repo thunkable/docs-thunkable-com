@@ -4,11 +4,13 @@
 
 ---
 
-The Accelerometer is a sensor loaded onto most smartphones that signals which way is up, commonly used to automatically switch between Portrait and Landscape mode. 
+The Accelerometer is a sensor loaded onto most smartphones that signals which way is up, commonly used to automatically switch between Portrait and Landscape mode.
 
 The Accelerometer component on Thunkable can be used to detect shaking events, indicate if the phone should be in Portrait or Landscape mode, and measure acceleration in 3 dimensions:
 
 ![](/assets/accelerometer-fig-1.png)
+
+Our amazing community member Domhnall made [this great resource](https://community.thunkable.com/t/how-to-use-the-accelerometer-sensor/1038) to further explain the power of this sensor
 
 ---
 
