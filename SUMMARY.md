@@ -17,6 +17,7 @@
     * [App Limits](iOS/app-limits.md)
   * [3 / Test Live](iOS/live-test.md)
   * [4 / Publish](iOS/publish.md)
+  * [Troubleshooting](iOS/troubleshooting.md)
 * [❤ Thunkable for Android](Android/README.md)
   * [0 / FAQs](Android/faqs.md)
   * [1 / Idea](Android/idea.md)
