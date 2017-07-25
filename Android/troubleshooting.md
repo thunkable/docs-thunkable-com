@@ -12,6 +12,14 @@ Common issues
 
 ---
 
+### `Tablet`
+
+Common issues
+
+* Cannot see tablet in phone previewer. Need to set Screen Size to 'Responsive' and check to see preview on Tablet size![](/assets/tablet-screen-fig-1.png)
+
+---
+
 ### `AdMob` ![](/assets/admob-icon.png)
 
 Common issues
