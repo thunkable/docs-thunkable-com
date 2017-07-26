@@ -4,7 +4,13 @@
 
 ---
 
-[Enroll in the Apple Developer Program](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#)
+### 1 / Enroll in the [Apple Developer Program](https://developer.apple.com/programs/) \(currently $99/year to publish to the App Store\)![](/assets/publish-ios-fig-1.png) {#step-1：-install-thunkables-live-testing-companion-app}
 
-\($99/year & required to publish to the App Store\)
+---
+
+### 2 / Select ![](/assets/publish-ios.png) and enter your Apple credentials. You will get an email from iTunesConnect when the app has been submitted {#step-1：-install-thunkables-live-testing-companion-app}
+
+###  {#step-1：-install-thunkables-live-testing-companion-app}
+
+
 
