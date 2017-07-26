@@ -16,6 +16,7 @@
     * [Blocks](iOS/blocks/README.md)
     * [App Limits](iOS/app-limits.md)
   * [3 / Test Live](iOS/live-test.md)
+    * [Download](iOS/live-test/download.md)
   * [4 / Publish](iOS/publish.md)
   * [Troubleshooting](iOS/troubleshooting.md)
 * [❤ Thunkable for Android](Android/README.md)
