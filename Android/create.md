@@ -17,7 +17,7 @@ If this is your first time on Thunkable, we highly recommend that you [watch thi
 ### 2 / Create a New Project
 
 1. In Thunkable, click 'Create New App'
-2. Enter your Project Name.  If your name has spaces in it, we'll automatically add underscores \(\_\) to fill the spaces. The Project Name is not seen by your users except in your default package name. ![](/assets/create-android-fig-1.png)
+2. Enter your Project Name.  If your name has spaces in it, we'll automatically add underscores \(\_\) to fill the spaces. The Project Name is not seen by your users except in your default package name. ![](/assets/create-android-fig-3.png)
 
 ---
 
