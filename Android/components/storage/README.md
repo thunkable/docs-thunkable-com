@@ -19,7 +19,7 @@ At Thunkable, we particularly love data storage options like Firebase that requi
 | Local / cloud | Works offline | Works offline | Can work offline in limited ways | Reliable data connection | Reliable data connection | Reliable data connection |
 | Sample app types | All | PDF viewers | Messaging | Apps with lists, simple mapping | Complex mapping | Stock quotes, weather info |
 
-**Important note**: Since the introduction of Firebase, we do not recommend the [Tiny Web DB](/Android/components/storage/tiny-web-db.md) component
+**Important note**: Since the introduction of Firebase, we only recommend the [Tiny Web DB](/Android/components/storage/tiny-web-db.md) component for specific cases where you want to own and manage your own database infrastructure
 
 ---
 
