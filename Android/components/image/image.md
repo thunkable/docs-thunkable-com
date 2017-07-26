@@ -4,7 +4,7 @@
 
 ---
 
-The image component displays a variety of image formats. We recommend the Web Viewer for displaying animated .gifs
+The image component displays a variety of image formats. We have heard of some performance issues with .jpegs so if you are having errors, you may want to convert your images to .pngs. We recommend the Web Viewer for displaying animated .gifs
 
 |  | Image | [Web Viewer](/components/webview.md) |
 | :--- | :--- | :--- |

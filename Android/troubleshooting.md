@@ -54,5 +54,14 @@ Common issues
   * Account has been suspended by AdMob. Clicking ads on your own app can lead to suspensions as can one or more users repeatedly clicking the ads on your app. Accounts can also be suspended for deceptive ad placement that generates accidental clicks
   * [Check the AdMob forum for more potential errors](https://community.thunkable.com/c/professional/admob)
 
+---
+
+### `Image` ![](/assets/image-icon.png)
+
+Common issues
+
+* Images are not showing up in app or in live preview
+  * We have seen users with better performance using .pngs vs. .jpgs
+
 
 
