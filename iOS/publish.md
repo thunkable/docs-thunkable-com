@@ -8,9 +8,7 @@
 
 ---
 
-### 2 / Select ![](/assets/publish-ios.png) and enter your Apple credentials. You will get an email from iTunesConnect when the app has been submitted {#step-1：-install-thunkables-live-testing-companion-app}
-
-###  {#step-1：-install-thunkables-live-testing-companion-app}
+### 2 / Select ![](/assets/publish-ios.png) and enter your Apple credentials. You will get an email from iTunesConnect when the app has been submitted![](/assets/publish-ios-fig-2.png)![](/assets/publish-ios-fig-3.png) {#step-1：-install-thunkables-live-testing-companion-app}
 
 
 
