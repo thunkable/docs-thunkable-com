@@ -6,6 +6,7 @@
   * [1 / Idea](iOS/idea.md)
   * [2 / Create](iOS/create.md)
     * [Components](iOS/components/README.md)
+      * [Layout](iOS/components/layout.md)
       * [User Interface](iOS/components/user-interface/README.md)
         * [Button](iOS/components/user-interface/button.md)
         * [Label](iOS/components/user-interface/label.md)
