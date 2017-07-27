@@ -16,12 +16,13 @@ The sample app uses the Activity Starter to open the Facebook and Instagram app 
 
 The Activity Starter can only open another app if it's installed on a user's device
 
-|  | Action | Activity Class | Activity Package | DataURI | DataURI Example |
+| Activity to Start | Action | Activity Class | Activity Package | DataURI | DataURI Example |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Email \(default\) | android.intent.action.VIEW |  |  | mailto:{emailAddress} | mailto:hello@thunkable.com |
-| Facebook | android.intent.action.VIEW |  |  | fb://facewebmodal/f?href={webUrl} | fb://facewebmodal/f?href=[https://www.facebook.com/thunkable](https://www.facebook.com/thunkable) |
-| Instagram | android.intent.action.VIEW | com.instagram.android.activity.UrlHandlerActivity | com.instagram.android | [http://instagram.com/\_u/{instagramHandle}](http://instagram.com/_u/{instagramHandle}) | [http://instagram.com/\_u/thunkable](http://instagram.com/_u/thunkable) |
-| App made on Thunkable | com.thunkable.android.{username}.{appname} | com.thunkable.android.{username}.{appname}.Screen1 |  |  |  |
+| Send an email from your default app | android.intent.action.VIEW |  |  | mailto:{emailAddress} | mailto:hello@thunkable.com |
+| Open Facebook app to a specific page | android.intent.action.VIEW |  |  | fb://facewebmodal/f?href={webUrl} | fb://facewebmodal/f?href=[https://www.facebook.com/thunkable](https://www.facebook.com/thunkable) |
+| Open Instagram app to a specific page | android.intent.action.VIEW | com.instagram.android.activity.UrlHandlerActivity | com.instagram.android | [http://instagram.com/\_u/{instagramHandle}](http://instagram.com/_u/{instagramHandle}) | [http://instagram.com/\_u/thunkable](http://instagram.com/_u/thunkable) |
+| Open a link in an external web browser | android.intent.action.VIEW |  |  | https://thunkable.com |  |
+| Open an app made on Thunkable | com.thunkable.android.{username}.{appname} | com.thunkable.android.{username}.{appname}.Screen1 |  |  |  |
 
 ---
 
