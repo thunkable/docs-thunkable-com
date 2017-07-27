@@ -28,6 +28,8 @@ iOS app development has its own unique set of requirements that are distinct fro
 
 #### How much does it cost to use Thunkable for iOS? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
+Thunkable is completely free to use!
+
 ---
 
 ### `Product`
