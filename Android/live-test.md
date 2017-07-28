@@ -6,6 +6,14 @@
 
 One of Thunkable's coolest features is the ability to change and update your app in real-time. Not even hard-core developers have this super power.
 
+* [Install the Thunkable Live app on your phone](#step-1-install-the-thunkable-live-app-on-your-phone)
+
+* [Connect both your computer and your device to the same WiFi Network](#step-2-connect-both-your-computer-and-your-device-to-the-same-wifi-network)
+
+* [Select "Thunkable Live" and scan the QR code with your Thunkable Live App](#step-3-open-a-thunkable-project-and-connect-it-to-your-device)
+
+* [Troubleshooting ](#troubleshooting)
+
 ![](https://thunkable.com/explore/img/WifiA.png)
 
 ---
@@ -22,11 +30,9 @@ The Thunkable Android app will automatically show you the app you are building, 
 
 ---
 
-### 3 / Open a Thunkable project and connect it to your device {#step-3-open-a-thunkable-project-and-connect-it-to-your-device}
+### 3 / Select "Thunkable Live" and scan the QR code with your Thunkable Live App {#step-3-open-a-thunkable-project-and-connect-it-to-your-device}
 
-Go to Thunkable and open a project \(or create a new one -- use\_Apps &gt; Create New App\_and give your project a name\).
-
-Then Choose "Test" and "Thunkable Live" from the top menu in the Thunkable browser:
+Choose "Test --&gt; Thunkable Live" from the top menu in the Thunkable browser:
 
 ![](https://thunkable.com/explore/img/connectSnapshot2.png)
 
@@ -40,16 +46,15 @@ If you have trouble scanning the QR code or your device does not have a scanner,
 
 ---
 
-### 4 / Troubleshooting {#troubleshooting}
+### Troubleshooting {#troubleshooting}
 
 If your app does not appear on your device, the most likely problems are:
 
+* You may have images or other media assets that are too large to send over in real-time
 * You may have an outdated version of the Thunkable app. Download the latest Thunkable live development app for Thunkable from above.
 * Your device may not be connected to wifi. Make sure you see an IP address at the bottom of the Thunkable App screen on your phone or tablet.
 * Your device may not be connected to the same wifi network as your computer. Make sure both devices are connected to the same wifi network name.
 * Try using a different browser. If you are on Chrome, you can also try opening Thunkable a New Incognito Window
 
 .
-
-
 
