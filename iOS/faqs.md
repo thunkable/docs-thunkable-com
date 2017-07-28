@@ -10,9 +10,9 @@
 
 iOS app development has its own unique set of requirements that are distinct from Android. Where possible, Thunkable is making easier for new iOS developers to get started on their first app \(compared to hard-core iOS developers\)
 
-* Apple usually requires a MAC device and a free Apple Developer Account to build iOS apps \(.ipa\). We are enabling building iOS apps without a MAC or an Apple Developer Account.
+* Apple usually requires a MAC device and a free Apple Developer Account to build an iOS app \(.ipa\). Thunkable is enabling users to download an iOS app to their phone without a MAC or an Apple Developer Program account.
 
-* Live testing on Thunkable is possible with either
+* Live testing on Thunkable is possible with either:
 
   * i\) a MAC + simulator OR
 
