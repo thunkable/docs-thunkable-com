@@ -99,6 +99,7 @@
     * [Import from App Inventor](Android/ai-import.md)
   * [3 / Test Live](Android/live-test.md)
     * [Test via USB](Android/live-test-usb.md)
+    * [Test via Emulator](Android/live-test-emulator.md)
   * [4 / Publish](Android/publish.md)
   * [5 / Share](Android/share.md)
   * [Troubleshooting](Android/troubleshooting.md)

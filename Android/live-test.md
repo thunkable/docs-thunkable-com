@@ -6,15 +6,20 @@
 
 One of Thunkable's coolest features is the ability to change and update your app in real-time. Not even hard-core developers have this super power.
 
+There are three options for Live Testing depending on if you have an Android device and a Wi-Fi connection available
+
+| If you have an Android phone and reliable Wi-Fi | If you have an Android phone but no Wi-Fi \(Common in schools\) | If you don't have an Android phone |
+| :--- | :--- | :--- |
+| Live Testing over Wi-Fi | [Live Test via USB](/Android/live-test-usb.md) | Live Test via Emulator |
+
+---
+
+#### Live Testing over Wi-Fi![](https://thunkable.com/explore/img/WifiA.png)
+
 * [Install the Thunkable Live app on your phone](#step-1-install-the-thunkable-live-app-on-your-phone)
-
 * [Connect both your computer and your device to the same WiFi Network](#step-2-connect-both-your-computer-and-your-device-to-the-same-wifi-network)
-
 * [Select "Thunkable Live" and scan the QR code with your Thunkable Live App](#step-3-open-a-thunkable-project-and-connect-it-to-your-device)
-
 * [Troubleshooting ](#troubleshooting)
-
-![](https://thunkable.com/explore/img/WifiA.png)
 
 ---
 
