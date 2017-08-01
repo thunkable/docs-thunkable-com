@@ -11,7 +11,7 @@ So that we can all get ahead of the machines, the Thunkable platform already fea
 |  | Visual Perception | Speech Recognition | Translation Between Languages | Decision-making |
 | :--- | :--- | :--- | :--- | :--- |
 |  | ![](/assets/microsoft-icon.png) | ![](/assets/speech-recognizer-icon.png) | ![](/assets/yandex-icon.png) |  |
-| Thunkable component | [Microsoft Image and Emotion Recognizer](/components/image-+-video/microsoft-image-recognizer.md) | [Speech Recognizer](/components/voice-+-audio/speech-recognizer.md) | [Yandex Translate](/components/voice-+-audio/yandex-translate.md) |  |
+| Thunkable component | [Microsoft Image and Emotion Recognizer](/android/components/image/microsoft-image-recognizer.md) | [Speech Recognizer](/android/components/voice/speech-recognizer.md) | [Yandex Translate](/android/components/voice/yandex-translate.md) |  |
 
 
 

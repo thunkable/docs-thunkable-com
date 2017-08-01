@@ -10,7 +10,7 @@
 
 The AdMob components tap into one of the largest mobile ad networks currently available to help app developers maximize revenue from their apps. We have a [section on our community forum](https://community.thunkable.com/c/professional/admob) dedicated to helping users use this component effectively.
 
-* [Set up](/thunkable-for-android/set-up.md)
+* [Set up](#set-up)
 * [Loading an Ad](#loading-an-ad)
 * [Troubleshooting](#troubleshooting)
 

@@ -8,7 +8,7 @@ Firebase DB is service that stores a single row of data in the cloud, similar to
 
 The sample app [Thunkable Messaging](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) uses a Firebase DB as a backend for person to person messaging
 
-* [Set Up](/thunkable-for-android/set-up.md)
+* [Set Up](#set-up)
 * Sample Blocks
   * [Send chat message using Firebase as backend](#send-chat-message-using-firebase-as-a-real-time-backend)
   * [Load Images from image urls stored in Firebase](#load-images-from-image-urls-stored-in-firebase)
