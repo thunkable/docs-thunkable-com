@@ -95,6 +95,7 @@
       * [Colors](android/blocks/colors.md)
       * [Variables](android/blocks/variables.md)
       * [Procedures](android/blocks/procedures.md)
+      * [Backpack](android/blocks/backpack.md)
     * [Extensions](android/extensions.md)
     * [Import from App Inventor](android/ai-import.md)
   * [3 / Test Live](android/live-test.md)
