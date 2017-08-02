@@ -26,6 +26,12 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 
 ---
 
+#### Open a Screen
+
+![](/assets/open-screen-fig-1.png)
+
+---
+
 #### App settings \(Screen1 Only\)
 
 | Property | Description |
