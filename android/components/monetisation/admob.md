@@ -1,4 +1,4 @@
-| `AdMob is currently available as part of our beta program so if you are interested in participating, please contact us at info@thunkable.com. Thunkable reserves the right to charge a maintenance fee of 5% of ad revenue generated for use of the AdMob component` |
+| `AdMob is currently available as part of our beta program so if you are interested in participating, please contact us at <info@thunkable.com>. Thunkable reserves the right to charge a maintenance fee of 5% of ad revenue generated for use of the AdMob component` |
 | :--- |
 
 
