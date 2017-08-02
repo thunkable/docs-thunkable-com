@@ -16,11 +16,28 @@ To use an extension in your app,
 
 ---
 
-#### [Go to](http://extensiondirectory.com/) the Thunkable Community Extension Directory
+#### Where to Find Extensions
 
-Other trusted resource's for extensions:
+Trusted resources for extensions
 
-* [Pura Vida Apps by Taifun](https://puravidaapps.com/extensions.php)
+* [Thunkable Community Extension Directory](http://extensiondirectory.com/) \(recommended!\)
+
+* [Pura Vida Apps by Taifun](https://puravidaapps.com/extensions.php) \(recommended!\)
+
+---
+
+#### Extensions --&gt; Components
+
+We are very grateful for the contributions of our Thunker community and have just kicked off a program where we can turn your extensions into full blown components on the Thunkable platform. 
+
+What you need to do
+
+* Agree to open source your extension to the community
+* Submit a pull request to the open sourced [Thunkable extension repository on Github](https://github.com/thunkable/thunkable-extensions)
+
+We will review the request and if it passes the test, we'll add it to our platform with documentation and our deep thanks for your contribution
+
+
 
 
 
