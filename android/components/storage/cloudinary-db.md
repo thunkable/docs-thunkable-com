@@ -4,7 +4,7 @@
 
 ---
 
-Cloudinary is an easy-to-use service for uploading your images in the cloud and returning a url where you can retrieve the image. Thunkable provides its own API key by default for your convenience but if you may want to use your own Cloudinary key to ensure more privacy for your user's images or increase the 10MB image file size limit
+Cloudinary is an easy-to-use service for uploading your images, audio files and videos in the cloud and returning a url where you can retrieve the image. Thunkable provides its own API key by default for your convenience but if you may want to use your own Cloudinary key to ensure more privacy for your user's images or increase the 10MB image file size limit
 
 ---
 
