@@ -83,6 +83,7 @@
       * [Internet of Things](android/components/iot/README.md)
         * [Bluetooth Client + Server](android/components/iot/bluetooth.md)
         * [NFC Sensor](android/components/iot/nfc-sensor.md)
+        * [Lego Minstorms](android/components/lego.md)
       * [Artificial Intelligence](android/components/artificial-intelligence.md)
       * [Monetisation](android/components/monetisation/README.md)
         * [AdMob](android/components/monetisation/admob.md)
