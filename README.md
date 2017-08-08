@@ -60,6 +60,8 @@ Android ❤
 
   * [ChatAble Secure and Scalable Messenger](https://community.thunkable.com/t/chatable-a-chat-system/5328?u=barreeeiroo) created by Barreeeiroo
 
+  * [Walkie Talkie](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) \(powered by Cloudinary Audio and Firebase\) created by Albert from Honolulu, Hawaii
+
 * Tools
 
   * [Taschenlampe \(Flashlight\)](https://goo.gl/5MN7LL) created by Mika from Lenkersdorf, Germany \#bestapps2016, [read his story](https://blog.thunkable.com/how-app-development-changed-mikas-life-and-allows-him-to-give-back-to-his-community-c80a5d7d3c47)

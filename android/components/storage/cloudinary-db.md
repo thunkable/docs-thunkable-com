@@ -39,7 +39,7 @@ If you do create your own account, the API key corresponds to the 'subscription 
 | Post Image \(path\) | Uploads the image \(specified by the path\) to the Cloudinary cloud |
 | Post Audio \(path\) | Uploads the audio file \(specified by the path\) to the Cloudinary cloud |
 | Post Video \(path\) | Uploads the video \(specified by the path\) to the Cloudinary cloud |
-| Got Response \(responseContent, imageUrl\) | If okay, returns an imageUrl where the image is hosted. If not okay, will return an explanation for error \(likely because file size exceeds the 10MB limit\) |
+| Got Response \(responseContent, imageUrl\) | If okay, returns an imageUrl where the image is hosted. If not okay, will return an explanation for error \(likely because file size exceeds the 10MB limit\). Although it says imageUrl, this is the same url for audio and video files |
 
 
 
