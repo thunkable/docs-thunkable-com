@@ -4,6 +4,8 @@
 
 ---
 
+![](/assets/lego-mindstorm-fig-1.png)
+
 Lego was the inspiration for the blocks that are a core part of the Thunkable app building experience.
 
 Lego Mindstorms are series of kits contain software and hardware to create customizable, programmable robots. They include an intelligent brick computer that controls the system, a set of modular sensors and motors, and [Lego](https://en.wikipedia.org/wiki/Lego) parts from the [Technic](https://en.wikipedia.org/wiki/Lego_Technic) line to create the mechanical systems. EV3 is the current version of Lego Minstorms and NXT has now been retired.
@@ -28,7 +30,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 
 #### Programming your robot
 
-| EV3  | NXT | Description |
+| EV3 | NXT | Description |
 | :--- | :--- | :--- |
 | [Motors](#ev3-motors) | Drive | Controls the motors / move or turns the robot |
 | [UI](#ev3-ui) |  | Draws graphs on the EV3 screen |
