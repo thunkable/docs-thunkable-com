@@ -105,4 +105,5 @@
   * [4 / Publish](android/publish.md)
   * [5 / Share](android/share.md)
   * [Troubleshooting](android/troubleshooting.md)
+  * [Pro Tips](android/pro-tips.md)
 

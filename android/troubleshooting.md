@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Troubleshooting
+# Troubleshooting 
 
 ---
 
@@ -16,7 +16,7 @@ If your app does not appear on your device, the most likely problems are:
 
 ---
 
-### `Building Apps for Downloading / Publishing`
+### `Building / Compiling Apps for Downloading / Publishing`
 
 If your app does not build, install or frequently crashes, the most likely problems are:
 
