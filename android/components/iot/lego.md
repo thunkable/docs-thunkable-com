@@ -38,8 +38,8 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | [Color Sensor](#ev3-color-sensor) | [Color Sensor](#nxt-color-sensor) | Controls the color sensor |
 | [Touch Sensor](#ev3-touch-sensor) | [Touch Sensor](#nxt-touch-sensor) | Controls the touch sensor |
 | [Ultrasonic Sensor](#ev3-ultrasonic-sensor) | [Ultrasonic Sensor](#nxt-ultrasonic-sensor) | Controls the ultrasonic sensor |
-| [Sound Sensor](#ev3-sound-sensor) | Sound Sensor | Controls the sound sensor |
-| [Commands](#ev3-commands) | Direct Commands | Sends system or direct commands |
+| [Sound Sensor](#ev3-sound-sensor) | [Sound Sensor](#nxt-sound-sensor) | Controls the sound sensor |
+| [Commands](#ev3-commands) | [Direct Commands](#nxt-direct-commands) | Sends system or direct commands |
 
 ---
 
@@ -253,7 +253,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | :--- | :--- |
 | Get Distance | Returns the current distance in centimeters as a value between 0 and 254, or -1 if the distance can not be read |
 | Below Range | Distance has gone below the range |
-| Within Range | Distance has gone within the range  |
+| Within Range | Distance has gone within the range |
 | Above Range | Distance has gone above the range |
 
 ---
@@ -273,7 +273,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | :--- | :--- |
 | Get Sound Level | Returns the current sound level as a value between 0 and 1023, or -1 if the sound level can not be read |
 | Below Range | Distance has gone below the range |
-| Within Range | Distance has gone within the range  |
+| Within Range | Distance has gone within the range |
 | Above Range | Distance has gone above the range |
 
 ---
@@ -300,60 +300,13 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Play Sound File \(fileName\) | Play a sound file on the robot |
 | Play Tone \(frequencyHz, durationMs\) | Make the robot play a tone |
 | Reset Input Scaled Value \(sensorPortLetter\) | Reset the scaled value of an input sensor on the robot |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Reset Motor Position \(motorPortLetter, relative\) | Reset motor position |
+| Set Brick Name \(name\) | Set the brick name of the robot |
+| Set Input Mode \(sensorPortLetter, sensorType, sensorMode\) | Configure an input sensor on the robot |
+| Set Output State \(motorPortLetter, power, mode, regulationMode, turnRatio, runState, tachoLimit\) | Sets the output state of a motor on the robot |
+| Start Program \(programName\) | Start execution of a previously downloaded program on the robot |
+| Stop Program | Stop execution of the currently running program on the robot |
+| Stop Sound Playback | Stop sound playback |
 
 
-
-
-
-ResetMotorPosition \(text motorPortLetter, boolean relative\)
-
-Reset motor position.
-
-  
-
-
-SetBrickName \(text name\)
-
-Set the brick name of the robot.
-
-  
-
-
-SetInputMode \(text sensorPortLetter, number sensorType, number sensorMode\)
-
-Configure an input sensor on the robot.
-
-  
-
-
-SetOutputState \(text motorPortLetter, number power, number mode, number regulationMode, number turnRatio, number runState, number tachoLimit\)
-
-Sets the output state of a motor on the robot.
-
-  
-
-
-StartProgram \(text programName\)
-
-Start execution of a previously downloaded program on the robot.
-
-  
-
-
-StopProgram \(\)
-
-Stop execution of the currently running program on the robot.
-
-  
-
-
-StopSoundPlayback \(\)
-
-Stop sound playback.
 
