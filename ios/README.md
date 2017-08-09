@@ -1,3 +1,7 @@
+| **`iOS is almost ready to be launched out of beta`**` but if you want to sign up for the list, please enter your details in the `[**`form here`**](https://docs.google.com/forms/d/e/1FAIpQLSdCoYC-zGlxDQyqwRtTTvXjLne5iAduus2H7m7f20YYscpovQ/viewform?fbzx=-6588738091419784000)`.  We will add as soon as we can and you will receive an email from us when you have been added.  Until then, feel free to read our docs on iOS right here.` |
+| :--- |
+
+
 # Welcome to Thunkable for iOS 
 
 ![](/assets/stevejeaver.png)
