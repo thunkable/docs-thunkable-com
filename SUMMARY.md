@@ -33,7 +33,7 @@
       * [User Interface](android/components/user-interface/README.md)
         * [Button](android/components/user-interface/button.md)
         * [Label](android/components/user-interface/label.md)
-        * [TextBox + Password](android/components/user-interface/textbox.md)
+        * [TextBox + Password + Email Picker](android/components/user-interface/textbox.md)
         * [ListPicker + ListView + Spinner + CheckBox](android/components/user-interface/listpicker.md)
         * [Slider](android/components/user-interface/slider.md)
         * [Notifier](android/components/user-interface/notifier.md)
