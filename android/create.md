@@ -31,7 +31,7 @@ If this is your first time on Thunkable, we highly recommend that you [watch thi
 
 You can change your App Name to be different than your Project Name \(otherwise they will be the same by default\). The App Name is what shows up underneath your app icon on your user's phones
 
-![](/assets/create-android-fig-2.png)
+![](/assets/create-android-fig-4.png)
 
 ---
 
