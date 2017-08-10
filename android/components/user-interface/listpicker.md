@@ -6,13 +6,13 @@
 
 |  | ![](/assets/listpicker-icon.png) | ![](/assets/listview-icon.png) | ![](/assets/spinner-icon.png) | ![](/assets/checkbox-icon.png) |
 | :--- | :--- | :--- | :--- | :--- |
-|  | [ListPicker](#ui--listpicker) | [ListView](#listview) | [Spinner](#spinner--) | [CheckBox](#checkbox--) |
+|  | [ListPicker](#listpicker) | [ListView](#ui-listview) | [Spinner](#ui-spinner) | [CheckBox](#ui-checkbox) |
 |  | ![](/assets/listpicker-example.png) | ![](/assets/listview-example.png) | ![](/assets/spinner-example.png) | ![](/assets/checkbox-example.png) |
 | Common use case | Drop down menus with a **medium number** of elements users can select by scrolling or searching. **Opens in a new screen** | Drop down menus with a **medium number** of elements users can select by searching in the current screen | Drop down menus with a **small number **of elements \(up to 5\) where user options show next to filter in the current screen | Selections of a **single element or multiple elements **in a small list in the current screen |
 
 ---
 
-### ListPicker ![](/assets/listpicker-icon.png) {#ui--listpicker}
+### ListPicker ![](/assets/listpicker-icon.png) {#listpicker}
 
 The Listpicker is a popular choice for drop down menus with more than 5 choices since the list itself opens in a new screen. A searchable filter bar is also available to make selection in long lists even easier for users.
 
@@ -62,7 +62,7 @@ There are two elements to a ListPicker, a button that opens the ListPicker and t
 
 ---
 
-### ListView ![](/assets/listview-icon.png) {#listview}
+### ListView ![](/assets/listview-icon.png) {#ui-listview}
 
 The ListView is a less customizable but also simpler drop down menu that can be displayed on the user's current screen
 
@@ -93,7 +93,7 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 
 ---
 
-### Spinner ![](/assets/spinner-icon.png)
+### Spinner ![](/assets/spinner-icon.png) {#ui-spinner}
 
 The Spinner is a great drop down menu option for shorter lists
 
@@ -129,7 +129,7 @@ The Spinner is a great drop down menu option for shorter lists
 
 ---
 
-### CheckBox ![](/assets/checkbox-icon.png)
+### CheckBox ![](/assets/checkbox-icon.png) {#ui-checkbox}
 
 The CheckBox is the simplest of menus because it has a single element that can be selected \(or unselected\)
 
