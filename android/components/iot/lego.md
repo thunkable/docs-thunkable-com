@@ -34,12 +34,13 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | :--- | :--- | :--- |
 | [Motors](#ev3-motors) | [Drive](#nxt-drive) | Controls the motors / move or turns the robot |
 | [UI](#ev3-ui) |  | Draws graphs on the EV3 screen |
-| [Gyro Sensor](#ev3-gyro-sensor) |  | Controls the gyro sensor |
+| [Gyro Sensor](#ev3-gyro-sensor) |  | Controls the gyro sensor on the EV3 |
 | [Color Sensor](#ev3-color-sensor) | [Color Sensor](#nxt-color-sensor) | Controls the color sensor |
 | [Touch Sensor](#ev3-touch-sensor) | [Touch Sensor](#nxt-touch-sensor) | Controls the touch sensor |
 | [Ultrasonic Sensor](#ev3-ultrasonic-sensor) | [Ultrasonic Sensor](#nxt-ultrasonic-sensor) | Controls the ultrasonic sensor |
 | [Sound Sensor](#ev3-sound-sensor) | [Sound Sensor](#nxt-sound-sensor) | Controls the sound sensor |
 | [Commands](#ev3-commands) | [Direct Commands](#nxt-direct-commands) | Sends system or direct commands |
+|  | [Light Sensor](#nxt-light-sensor) | Controls the light sensor on the NXT |
 
 ---
 
@@ -307,6 +308,27 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Start Program \(programName\) | Start execution of a previously downloaded program on the robot |
 | Stop Program | Stop execution of the currently running program on the robot |
 | Stop Sound Playback | Stop sound playback |
+
+---
+
+#### NXT Light Sensor
+
+| Property | Description |
+| :--- | :--- |
+| Sensor Port | The sensor port that the sensor is connected to |
+| Generate Light | Whether the light sensor should generate light |
+| Bottom Of Range | The bottom of the range used for the Below Range, Within Range, and Above Range events |
+| Top Of Range | The top of the range used for the Below Range, Within Range, and Above Range events |
+| Below Range Event Enabled | Whether the Below Range event should fire when the light level goes below the Bottom Of Range |
+| Within Range Event Enabled | Whether the Within Range event should fire when the light level goes between the Bottom Of Range and the Top Of Range |
+| Above Range Event Enabled | Whether the Above Range event should fire when the light level goes above the Top Of Range |
+
+| Event | Description |
+| :--- | :--- |
+| Below Range | Light level has gone below the range. The BelowRange event will not occur if the DetectColor property is set to True or if the BelowRangeEventEnabled property is set to False |
+| Within Range | Light level has gone within the range. The Within Range event will not occur if the Detect Color property is set to True or if the Within Range Event Enabled property is set to False |
+| Above Range | Light level has gone above the range. The Above Range event will not occur if the DetectColor property is set to True or if the Above Range Event Enabled property is set to False. |
+| Get Light Level | Returns the current light level as a value between 0 and 1023, or -1 if the light level can not be read or if the DetectC olor property is set to True |
 
 
 
