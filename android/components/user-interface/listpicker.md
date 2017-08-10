@@ -6,15 +6,13 @@
 
 |  | ![](/assets/listpicker-icon.png) | ![](/assets/listview-icon.png) | ![](/assets/spinner-icon.png) | ![](/assets/checkbox-icon.png) |
 | :--- | :--- | :--- | :--- | :--- |
-|  | [ListPicker](#listpicker) | [ListView](#listview--) | [Spinner](#spinner--) | [CheckBox](#checkbox--) |
+|  | [ListPicker](#ui--listpicker) | [ListView](#listview--) | [Spinner](#spinner--) | [CheckBox](#checkbox--) |
 |  | ![](/assets/listpicker-example.png) | ![](/assets/listview-example.png) | ![](/assets/spinner-example.png) | ![](/assets/checkbox-example.png) |
 | Common use case | Drop down menus with a **medium number** of elements users can select by scrolling or searching. **Opens in a new screen** | Drop down menus with a **medium number** of elements users can select by searching in the current screen | Drop down menus with a **small number **of elements \(up to 5\) where user options show next to filter in the current screen | Selections of a **single element or multiple elements **in a small list in the current screen |
 
 ---
 
-###  ![](/assets/listpicker-icon.png)
-
-### ListPicker
+### ListPicker ![](/assets/listpicker-icon.png) {#ui--listpicker}
 
 The Listpicker is a popular choice for drop down menus with more than 5 choices since the list itself opens in a new screen. A searchable filter bar is also available to make selection in long lists even easier for users.
 
