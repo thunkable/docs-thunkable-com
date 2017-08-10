@@ -29,7 +29,7 @@ If this is your first time on Thunkable, we highly recommend that you [watch thi
 
 ### 3 / Rename App \(and Upload App Icon\)
 
-You can change your App Name to be different than your Project Name \(otherwise they will be the same by default\). The App Name is what shows up underneath your app icon on your user's phones
+You can change your App Name to be different than your Project Name \(otherwise they will be the same by default\). The App Name is what shows up underneath your app icon on your user's phones. We have a [collection of free app icons](https://photos.google.com/u/1/share/AF1QipMY5pHOU-kbTOBQeKdX2VOtRTB8cXl5Vq9pXjnGLHSOkEK91HhbctP8Zls075V4Cg?key=S0ZoUks3MUxCV0ptMVNneHpFemxGVnJrcnZQc213) that you can use in your projects.
 
 ![](/assets/create-android-fig-4.png)
 
