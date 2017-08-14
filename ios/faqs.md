@@ -6,6 +6,12 @@
 
 ### `Getting started`
 
+#### How do I sign up to be a part of the Thunkable for iOS beta**?** {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
+
+We are working hard to make this product available to everyone but in the mean time, you can still [sign up for the beta here](https://goo.gl/q3HgHc). 
+
+We will try to add you as soon as we can and you should get an email from us when you have been added.
+
 #### **Are there special requirements to be an iOS developer?** {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
 iOS app development has its own unique set of requirements that are distinct from Android. Where possible, Thunkable is making easier for new iOS developers to get started on their first app \(compared to hard-core iOS developers\)
