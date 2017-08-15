@@ -48,6 +48,7 @@
         * [Image](android/components/image/image.md)
         * [Camera](android/components/image/camera.md)
         * [Camcorder](android/components/image/camcorder.md)
+        * [Video Player](android/components/image/video-player.md)
         * [Image Picker](android/components/image/image-picker.md)
         * [Microsoft Image + Emotion Recognizer](android/components/image/microsoft-image-recognizer.md)
       * [Storage](android/components/storage/README.md)

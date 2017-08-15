@@ -18,7 +18,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 * [Interact with Balls or Image Sprites](#interact-sprites)
   * Move a ball right and down 30 pixels every time it is touched
 * [Pinch to Scale Balls or Image Sprites](#pinch-scale) 
-  * Scale up or down a ball by pinching on the Canvas
+  * Scale a ball up or down by pinching on the Canvas
 
 ---
 
@@ -99,7 +99,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 #### Pinch to Scale![](/assets/pinch-to-scale-fig-1.png) {#pinch-scale}
 
-#### Scale up or down a ball by pinching on the Canvas
+#### Scale a ball up or down by pinching on the Canvas
 
 #### ![](/assets/pinch-scale-block-1.png)
 
