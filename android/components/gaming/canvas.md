@@ -105,7 +105,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 | Event | Description |
 | :--- | :--- |
-| Scaled \(scale factor\) | When the user pinches open or close, the Canvas item selected can increase or decrease by the scale factor where 1 is the same size as the original item. Can apply to balls and image sprites |
+| Scaled \(scale factor\) | When the user pinches open \(or close\) on a selected Canvas item \(ball, image sprite\), the item scales by the scale factor. The scale factor increases as the pinch opens and decreases as the pinch narrows. |
 
 
 
