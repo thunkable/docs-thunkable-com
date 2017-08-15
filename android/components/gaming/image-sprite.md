@@ -52,7 +52,9 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Setting a Sprite in motion![](/assets/sprite-fig-3.png)Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds
+#### Setting a Sprite in motion![](/assets/sprite-fig-3.png)
+
+#### **Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds**
 
 #### ![](/assets/sprite-blocks-2.png)
 
@@ -67,7 +69,9 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Moving a Sprite with touch![](/assets/sprite-fig-1.png)Moving an Image Sprite horizontally when dragged
+#### Moving a Sprite with touch![](/assets/sprite-fig-1.png)
+
+#### Moving an Image Sprite horizontally when dragged
 
 ![](/assets/sprite-blocks-1.png)
 
@@ -82,7 +86,9 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Bouncing Sprites![](/assets/sprite-fig-4.png)Keep bouncing unless the ball hits the bottom edge \(game over\)
+#### Bouncing Sprites![](/assets/sprite-fig-4.png)
+
+#### Keep bouncing unless the ball hits the bottom edge \(Game Over\)
 
 #### ![](/assets/sprite-blocks-3.png)
 
@@ -101,6 +107,8 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Collided With \(other\) | Handler for CollidedWith events, called when two sprites collide. Note that checking for collisions with a rotated ImageSprite currently checks against the sprite's unrotated position. Therefore, collision checking will be inaccurate for tall narrow or short wide sprites that are rotated |
 | No Longer Colliding With \(other\) | Event indicating that a pair of sprites are no longer colliding |
 | Colliding With \(other\) | Indicates whether a collision has been registered between this sprite and the passed sprite |
+
+#### 
 
 
 

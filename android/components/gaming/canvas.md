@@ -17,6 +17,8 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
   * Add text "developer of the future" angled at 30 degrees with each touch of the canvas
 * [Interact with Balls or Image Sprites](#interacting-with-balls-or-image-sprites)
   * Move a ball right and down 30 pixels every time it is touched
+* [Pinch to Scale](#pinch-to-scale-)
+  * Scale up or down a ball by pinching on the Canvas
 
 ---
 
@@ -92,6 +94,18 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Touched \(x, y, touchedSprite\) | When the user touches the canvas and then immediately lifts finger. The \(x,y\) position of the touch is relative to the upper left of the canvas. TouchedSprite is true if the same touch also touched a sprite |
 | Flung \(x, y, speed, heading, xvel, yvel, flungSprite\) | When a fling gesture \(quick swipe\) is made on the canvas: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector. The value "flungSprite" is true if a sprite was located near the the starting point of the fling gesture |
 | Dragged \(startX, startY, prevX, prevY, currentX, currentY, draggedSprite\) | When the user does a drag from one point \(prevX, prevY\) to another \(x, y\). The pair \(startX, startY\) indicates where the user first touched the screen, and "draggedSprite" indicates whether a sprite is being dragged |
+
+---
+
+#### Pinch to Scale![](/assets/pinch-to-scale-fig-1.png)
+
+#### Scale up or down a ball by pinching on the Canvas
+
+#### ![](/assets/pinch-scale-block-1.png)
+
+| Event | Description |
+| :--- | :--- |
+| Scaled \(scale factor\) | When the user pinches open or close, the Canvas item selected can increase or decrease by the scale factor where 1 is the same size as the original item. Can apply to balls and image sprites |
 
 
 
