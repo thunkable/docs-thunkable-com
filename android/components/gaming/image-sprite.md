@@ -12,10 +12,10 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 * [Styling the Ball](#styling-the-ball)
 * [Styling the Image Sprite](#styling-the-image-sprite)
-* [Positioning the Sprite](#positioning-the-sprite-)
-* [Setting a Sprite in motion](#setting-a-sprite-in-motion-set-a-ball-in-motion-at-a-random-angle-between-225-and-315-degrees-at-a-speed-of-5-pixels-per-10-milliseconds)
-* [Moving a Sprite with touch](#moving-a-sprite-with-touch-moving-an-image-sprite-horizontally-when-dragged)
-* [Bouncing Sprites](#bouncing-sprites-keep-bouncing-unless-the-ball-hits-the-bottom-edge-game-over)
+* [Positioning the Sprite](#position-sprite)
+* [Setting a Sprite in motion](#sprite-motion)
+* [Moving a Sprite with touch](#touch-sprite)
+* [Bouncing Sprites](#bouncing-sprite)
 * [Sprite Collisions](#sprite-collisions)
 
 ---
@@ -42,7 +42,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Positioning the Sprite![](/assets/sprite-fig-2.png)
+#### Positioning the Sprite![](/assets/sprite-fig-2.png) {#position-sprite}
 
 | Property | Description |
 | :--- | :--- |
@@ -52,7 +52,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Setting a Sprite in motion![](/assets/sprite-fig-3.png)
+#### Setting a Sprite in motion![](/assets/sprite-fig-3.png) {#sprite-motion}
 
 #### **Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds**
 
@@ -69,7 +69,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Moving a Sprite with touch![](/assets/sprite-fig-1.png)
+#### Moving a Sprite with touch![](/assets/sprite-fig-1.png) {#touch-sprite}
 
 #### Moving an Image Sprite horizontally when dragged
 
@@ -86,7 +86,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Bouncing Sprites![](/assets/sprite-fig-4.png)
+#### Bouncing Sprites![](/assets/sprite-fig-4.png) {#bouncing-sprite}
 
 #### Keep bouncing unless the ball hits the bottom edge \(Game Over\)
 
@@ -100,7 +100,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 
 ---
 
-#### Sprite Collisions
+#### Sprite Collisions {#sprite-collisions}
 
 | Event | Description |
 | :--- | :--- |

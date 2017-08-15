@@ -9,15 +9,15 @@ If you are developing a gaming or drawing app, you're likely going to start with
 The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) uses a Canvas a backdrop to an interactive game
 
 * [Style Canvas Background](#style-canvas-background)
-* [Draw Dots](#draw-dots-add-a-circle-with-each-touch-of-the-canvas)
+* [Draw Dots](#draw-dots)
   * Add a circle with each touch of the canvas
-* [Draw Lines](#draw-lines-draw-a-line-of-width-5-on-the-canvas)
+* [Draw Lines](#draw-lines)
   * Draw a line of width 5 on the canvas
-* [Draw Text](#draw-text-add-text-developer-of-the-future-angled-at-30-degrees-with-each-touch-of-the-canvas)
+* [Draw Text](#draw-text)
   * Add text "developer of the future" angled at 30 degrees with each touch of the canvas
-* [Interact with Balls or Image Sprites](#interacting-with-balls-or-image-sprites)
+* [Interact with Balls or Image Sprites](#interact-sprites)
   * Move a ball right and down 30 pixels every time it is touched
-* [Pinch to Scale](#pinch-to-scale-)
+* [Pinch to Scale Balls or Image Sprites](#pinch-scale) 
   * Scale up or down a ball by pinching on the Canvas
 
 ---
@@ -36,7 +36,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 ---
 
-#### Draw Dots![](/assets/canvas-fig-1.png)Add a circle with each touch of the Canvas
+#### Draw Dots![](/assets/canvas-fig-1.png)Add a circle with each touch of the Canvas {#draw-dots}
 
 #### ![](/assets/canvas-blocks-1.png)
 
@@ -53,7 +53,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 ---
 
-#### Draw Lines![](/assets/canvas-fig-2.png)Draw a line of width 5 on the Canvas
+#### Draw Lines![](/assets/canvas-fig-2.png)Draw a line of width 5 on the Canvas {#draw-lines}
 
 ![](/assets/canvas-blocks-2.png)
 
@@ -68,7 +68,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 ---
 
-#### Draw Text![](/assets/canvas-fig-3.png)Add text "developer of the future" angled at 30 degrees with each touch of the canvas
+#### Draw Text![](/assets/canvas-fig-3.png)Add text "developer of the future" angled at 30 degrees with each touch of the canvas {#draw-text}
 
 #### ![](/assets/canvas-blocks-3.png)
 
@@ -85,7 +85,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 ---
 
-#### Interacting with Balls or Image Sprites![](/assets/canvas-fig-4.png)Move a ball right and down 30 pixels every time it is touched
+#### Interacting with Balls or Image Sprites![](/assets/canvas-fig-4.png)Move a ball right and down 30 pixels every time it is touched {#interact-sprites}
 
 #### ![](/assets/canvas-blocks-4.png)
 
@@ -97,7 +97,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 
 ---
 
-#### Pinch to Scale![](/assets/pinch-to-scale-fig-1.png)
+#### Pinch to Scale![](/assets/pinch-to-scale-fig-1.png) {#pinch-scale}
 
 #### Scale up or down a ball by pinching on the Canvas
 
