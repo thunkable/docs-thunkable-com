@@ -8,13 +8,13 @@ Date and TimePicker are components that make it easier for users to select dates
 
 |  | ![](/assets/datepicker-icon.png) | ![](/assets/timepicker-icon.png) |
 | :--- | :--- | :--- |
-|  | [DatePicker](#datepicker) | [TimePicker](#timepicker) |
+|  | [DatePicker](#datepicker) | [TimePicker](#aloha) |
 |  | ![](/assets/datepicker.png) | ![](/assets/timepicker.png) |
 | Common use case | Selecting day | Selecting time |
 
 ---
 
-### DatePicker ![](/assets/datepicker-icon.png)
+### DatePicker ![](/assets/datepicker-icon.png) {#datepicker}
 
 ---
 
@@ -60,7 +60,7 @@ There are two elements to a DatePicker, a button that opens the DatePicker and t
 
 ---
 
-### TimePicker ![](/assets/timepicker-icon.png)
+### TimePicker ![](/assets/timepicker-icon.png) {#aloha}
 
 ---
 
