@@ -60,7 +60,7 @@ There are two elements to a DatePicker, a button that opens the DatePicker and t
 
 ---
 
-### TimePicker ![](/assets/timepicker-icon.png) {#aloha}
+### TimePicker ![](/assets/timepicker-icon.png) {#timepicker}
 
 ---
 
