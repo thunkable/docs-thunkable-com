@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Troubleshooting 
+# Troubleshooting
 
 ---
 
@@ -64,6 +64,15 @@ If your ads are not showing up:
 * Load Ad block not called in Blocks Editor
 * Account has been suspended by AdMob. Clicking ads on your own app can lead to suspensions as can one or more users repeatedly clicking the ads on your app. Accounts can also be suspended for deceptive ad placement that generates accidental clicks
 * [Check the AdMob forum for more potential errors](https://community.thunkable.com/c/professional/admob)
+
+---
+
+### `Spreadsheets` ![](/assets/spreadsheets-icon.png)
+
+If your app is crashing, then most likely:
+
+* You have not hit 'Sync to Template' every time you refresh your data on the Cloudstitch interface \(see step 3 of [Set up](#set-up)\)
+* Spreadsheets does not currently work if your cells contain a “,” or “:” in the cells that are being retrieved. More info on the [current workaround here](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) from Domnhall in our community if you do have them
 
 ---
 

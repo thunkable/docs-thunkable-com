@@ -10,6 +10,12 @@ Spreadsheets is powered by Cloudstitch, a service that makes it easy to connect 
 
 The sample app [First Bus Map of Dhaka](#) features mapping data stored in a Google spreadsheet
 
+* [Set up](#set-up)
+* [Get data](#get-data)
+* [Populate elements in a Listpicker from a Spreadsheet](#populate-elements-in-a-listpicker-from-a-spreadsheet)
+* [Upload data](#upload-data)
+* [Troubleshooting](#troubleshooting)
+
 ---
 
 #### Set up
@@ -59,6 +65,17 @@ The sample app [First Bus Map of Dhaka](#) features mapping data stored in a Goo
 | :--- | :--- |
 | Upload Data \(data\) | Uploads data to Spreadsheet. Data must be in the format “'columnName1'=’value1’&'columnName2'=’value2’\). See above for an example |
 | After Upload \(responseContent\) | Event triggered after data is uploaded from Spreadsheet. If OK, the 'responseContent' will return OK |
+
+---
+
+#### Troubleshooting
+
+If your app is crashing, then most likely:
+
+* You have not hit 'Sync to Template' every time you refresh your data on the Cloudstitch interface \(see step 3 of [Set up](#set-up)\)
+* Spreadsheets does not currently work if your cells contain a “,” or “:” in the cells that are being retrieved. More info on the [current workaround here](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) from Domnhall in our community if you do have them
+
+
 
 
 
