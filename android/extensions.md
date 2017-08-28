@@ -10,7 +10,7 @@ With the help of our community, our goal is to incorporate these extensions over
 
 To use an extension in your app,
 
-1. First download an extension \(.aix\) it from a trusted resource like the [Thunkable Community Extension Directory](http://extensiondirectory.com/)
+1. First download an extension \(.aix\) it from a trusted resource like [Pura Vida Apps by Taifun](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#)
 2. Import it to the Extensions drawer of your Designer palette
 3. Drag and drop the extension into your app
 
@@ -20,9 +20,7 @@ To use an extension in your app,
 
 Trusted resources for extensions
 
-* [Thunkable Community Extension Directory](http://extensiondirectory.com/) \(recommended!\)
-
-* [Pura Vida Apps by Taifun](https://puravidaapps.com/extensions.php) \(recommended!\)
+* [Pura Vida Apps by Taifun](https://puravidaapps.com/extensions.php) - complete list of extensions available for all platforms compatible with App Inventor
 
 ---
 
