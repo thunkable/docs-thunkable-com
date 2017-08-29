@@ -8,11 +8,11 @@ We designed Thunkable to work for non-developers by eliminating the need to writ
 
 If this is your first time on Thunkable, we highly recommend that you [watch this tutorial](https://www.youtube.com/watch?v=hZ7z3t-98O0)
 
-1. [Login](#1--login-to-thunkable-for-android-)
-2. [Create a New Project](#2--create-a-new-project)
-3. [Rename App and Upload App Icon](#3--rename-app-and-upload-app-icon)
-4. [Add App Component\(s\)](#step-5：-add-app-components)
-5. [Add Functionality](#--step-6：-add-functionality)
+* [Login](#1--login-to-thunkable-for-android-)
+* [Create a New Project](#2--create-a-new-project)
+* [Rename App and Upload App Icon](#3--rename-app-and-upload-app-icon)
+* [Add App Component\(s\)](#step-5：-add-app-components)
+* [Add Functionality](#--step-6：-add-functionality)
 
 ---
 
