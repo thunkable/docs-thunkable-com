@@ -4,7 +4,20 @@
 
 ---
 
-### 1 / Requirements
+To publish your app on the Play Store from Thunkable, please follow the steps below:
+
+* [Set up](#1--set-up)
+* [Version your app](#2--version-your-app)
+* [Download app \(.apk\) to your computer](#exporting-your-keystore-from-mit-app-inventor)
+* [Publish your app](#4--publish-your-app)
+
+* [Package name](#5--package-name)
+
+* [Keystores](#6--keystores)
+
+---
+
+### 1 / Set up
 
 Here are the _minimum_ requirements for publishing to the Google Play Store:
 
@@ -16,7 +29,7 @@ Here are the _minimum_ requirements for publishing to the Google Play Store:
 
 ---
 
-### 2 / **Version Your App**
+### 2 / **Version your app**
 
 Every app you publish must have a`VersionCode`and a`VersionName`. You can set these in the designer under the properties panel for the`Screen1`component.
 
@@ -44,7 +57,7 @@ You can also download the apk directly from your apps home page by clicking on t
 
 ---
 
-### 4 / Publish Your App
+### 4 / Publish your app
 
 You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play.
 
@@ -52,7 +65,7 @@ For more details, you may want to start with [Introduction to Publishing on Goog
 
 ---
 
-### 5 / Package Name
+### 5 / Package name
 
 The package name for all apps built completely on Thunkable:
 
