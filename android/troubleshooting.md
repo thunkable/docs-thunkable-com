@@ -16,9 +16,9 @@ General
 
 Components
 
-* [Ads not showing up on **AdMob**](#ads-not-showing-up-with-admob--)
+* [Ads not showing up on **AdMob**](#ads-admob)
 
-* [App crashing with **Spreadsheets**](#app-crashing-with-spreadsheets--)
+* [App crashing with **Spreadsheets**](#crash-spreadsheet)
 
 * [**Image** not appearing ](#image-not-showing)
 
@@ -75,7 +75,7 @@ If you cannot see the Tablet previewer:
 
 ---
 
-#### Ads not showing up with AdMob ![](/assets/admob-icon.png)
+#### Ads not showing up with AdMob ![](/assets/admob-icon.png) {#ads-admob}
 
 If your ads are not showing up:
 
@@ -87,7 +87,7 @@ If your ads are not showing up:
 
 ---
 
-#### App crashing with Spreadsheets ![](/assets/spreadsheets-icon.png)
+#### App crashing with Spreadsheets ![](/assets/spreadsheets-icon.png) {#crash-spreadsheet}
 
 If your app is crashing, then most likely:
 
