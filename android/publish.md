@@ -67,7 +67,7 @@ For more details, you may want to start with [Introduction to Publishing on Goog
 
 The package name for all apps built completely on Thunkable:
 
-* com.thunkable.android.{username}.{appname}
+`com.thunkable.android.{username}.{appname}`
 
 Currently, there is no way to customize your package name \(which is visible on the Google Play store url\)
 
