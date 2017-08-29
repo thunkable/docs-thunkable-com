@@ -4,19 +4,27 @@
 
 ---
 
-### `Live Testing`
+General
 
-If your app does not appear on your device, the most likely problems are:
+* [**Exporting** apps for downloading / publishing](#exporting-apps-for-downloading--publishing)
 
-* You may have images or other media assets that are too large to send over in real-time
-* You may have an outdated version of the Thunkable app. Download the latest Thunkable live development app for Thunkable from above.
-* Your device may not be connected to wifi. Make sure you see an IP address at the bottom of the Thunkable App screen on your phone or tablet.
-* Your device may not be connected to the same wifi network as your computer. Make sure both devices are connected to the same wifi network name.
-* Try using a different browser. If you are on Chrome, you can also try opening Thunkable a New Incognito Window
+* [**Live testing**](#live-testing)
+
+* [Emptying the **backpack**](#emptying-the-backpack)
+
+* [Designing for **tablets**](#designing-for-tablets)
+
+Components
+
+* [**AdMob** / ads not showing up](/android/components/monetisation/admob.md)
+
+* [**Spreadsheets** / app crashing](#spreadsheets--)
+
+* [**Image** / not appearing on live testing or exported apps](#image-not-showing)
 
 ---
 
-### `Building / Compiling Apps for Downloading / Publishing`
+#### Exporting apps for downloading / publishing
 
 If your app does not build, install or frequently crashes, the most likely problems are:
 
@@ -26,7 +34,7 @@ If your app does not build, install or frequently crashes, the most likely probl
 
 * Images
 
-  * App icon too large \(we recommend 96 px by 96 px\)
+  * App icon too large \(we recommend 150 px by 150 px\)
   * Too many / too large images \(the app size limit is 10MB\)
   * Some users have detected that Thunkable works better with .pngs than .jpgs
 
@@ -39,7 +47,19 @@ If your app does not build, install or frequently crashes, the most likely probl
 
 ---
 
-### `Backpack`
+#### Live testing
+
+If your app does not appear on your device, the most likely problems are:
+
+* You may have images or other media assets that are too large to send over in real-time
+* You may have an outdated version of the Thunkable app. Download the latest Thunkable live development app for Thunkable from above.
+* Your device may not be connected to wifi. Make sure you see an IP address at the bottom of the Thunkable App screen on your phone or tablet.
+* Your device may not be connected to the same wifi network as your computer. Make sure both devices are connected to the same wifi network name.
+* Try using a different browser. If you are on Chrome, you can also try opening Thunkable a New Incognito Window
+
+---
+
+#### Emptying the backpack
 
 If you are trying to empty your backpack:
 
@@ -47,7 +67,7 @@ If you are trying to empty your backpack:
 
 ---
 
-### `Tablet`
+#### Designing for tablets
 
 If you cannot see the Tablet previewer:
 
@@ -55,7 +75,7 @@ If you cannot see the Tablet previewer:
 
 ---
 
-### `AdMob` ![](/assets/admob-icon.png)
+#### AdMob ![](/assets/admob-icon.png)
 
 If your ads are not showing up:
 
@@ -67,7 +87,7 @@ If your ads are not showing up:
 
 ---
 
-### `Spreadsheets` ![](/assets/spreadsheets-icon.png)
+#### Spreadsheets ![](/assets/spreadsheets-icon.png)
 
 If your app is crashing, then most likely:
 
@@ -76,7 +96,7 @@ If your app is crashing, then most likely:
 
 ---
 
-### `Image` ![](/assets/image-icon.png)
+#### Image ![](/assets/image-icon.png) {#image-not-showing}
 
 If you're images are not showing up in app or in live preview
 
