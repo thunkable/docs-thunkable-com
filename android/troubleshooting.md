@@ -16,11 +16,11 @@ General
 
 Components
 
-* [**AdMob** / ads not showing up](/android/components/monetisation/admob.md)
+* [Ads not showing up on **AdMob**](#ads-not-showing-up-with-admob--)
 
-* [**Spreadsheets** / app crashing](#spreadsheets--)
+* [App crashing with **Spreadsheets**](#app-crashing-with-spreadsheets--)
 
-* [**Image** / not appearing on live testing or exported apps](#image-not-showing)
+* [**Image** not appearing ](#image-not-showing)
 
 ---
 
@@ -75,7 +75,7 @@ If you cannot see the Tablet previewer:
 
 ---
 
-#### AdMob ![](/assets/admob-icon.png)
+#### Ads not showing up with AdMob ![](/assets/admob-icon.png)
 
 If your ads are not showing up:
 
@@ -87,7 +87,7 @@ If your ads are not showing up:
 
 ---
 
-#### Spreadsheets ![](/assets/spreadsheets-icon.png)
+#### App crashing with Spreadsheets ![](/assets/spreadsheets-icon.png)
 
 If your app is crashing, then most likely:
 
@@ -96,7 +96,7 @@ If your app is crashing, then most likely:
 
 ---
 
-#### Image ![](/assets/image-icon.png) {#image-not-showing}
+#### Image not appearing  ![](/assets/image-icon.png) {#image-not-showing}
 
 If you're images are not showing up in app or in live preview
 
