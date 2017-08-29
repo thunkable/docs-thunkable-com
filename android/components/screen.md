@@ -8,8 +8,8 @@ Screens are natural ways to break up your apps so that they are more digestible 
 
 Screens are where you set layouts, program the initial opening of the app and the navigation. Screen1 is also where you set many of your app level properties.
 
-* [Align elements on a screen](#aligning-elements-on-a-screen)
-* [Add a new screen](#adding-a-new-screen)
+* [Align elements on a screen](#align-elements-on-a-screen)
+* [Add a new screen](#add-a-new-screen)
 * [Open a screen with a button](#open-a-screen-with-a-button)
 * [Pro-tip: Branding splash screens](#-pro-tip-branding-splash-screens)
 * [App settings \(Screen 1 only\)](#app-settings-screen1-only)
