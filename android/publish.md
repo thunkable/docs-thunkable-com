@@ -9,7 +9,7 @@ To publish your app on the Play Store from Thunkable, please follow the steps be
 * [Set up](#1--set-up)
 * [Version your app](#2--version-your-app)
 * [Download app \(.apk\) to your computer](#exporting-your-keystore-from-mit-app-inventor)
-* [Publish your app](#4--publish-your-app)
+* [Upload to Google Play](#4--publish-your-app)
 
 While you will probably not need it, here is also additional information about your [package name](#5--package-name) and app [keystores](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#)
 
@@ -55,7 +55,7 @@ You can also download the apk directly from your apps home page by clicking on t
 
 ---
 
-### 4 / Publish your app
+### 4 / Upload to Google Play
 
 You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play.
 
