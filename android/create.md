@@ -14,7 +14,7 @@ If this is your first time on Thunkable, we highly recommend that you [watch thi
 * [Add App Component\(s\)](#step-5：-add-app-components)
 * [Add Functionality](#--step-6：-add-functionality)
 
-If you want to give yourself credit for the app, you can also [edit "about this application"](#step-5：-add-app-components) \(Title must be visible\). Unfortunately, you cannot remove the part that says "Invented on Thunkable / thunkable.com"
+If you want to give yourself credit for the app, you can also [edit "about this application"](#about-this) \(Title must be visible\). Unfortunately, you cannot remove the part that says "Invented on Thunkable / thunkable.com"
 
 ---
 
@@ -49,9 +49,9 @@ As you create your app, there are some [app limits](#limits) to be aware of that
 
 ---
 
-### 6 / Edit "about this application" {#step-5：-add-app-components}
+### 6 / Edit "about this application" {#about-this}
 
-To give yourself credit for your app, you can edit the "About this application" setting embedded in the default title bar \(Title must be visible\). 
+To give yourself credit for your app, you can edit the "About this application" setting embedded in the default title bar \(Title must be visible\).
 
 Note: You cannot remove the "Invented on Thunkable / thunkable.com"
 
