@@ -32,6 +32,7 @@
       * [Web Viewer](android/components/webviewer.md)
       * [User Interface](android/components/user-interface/README.md)
         * [Button](android/components/user-interface/button.md)
+        * [FAB \(Floating Action Button\)](android/components/user-interface/fab-floating-action-button.md)
         * [Label](android/components/user-interface/label.md)
         * [TextBox + Password + Email Picker](android/components/user-interface/textbox.md)
         * [ListPicker + ListView + Spinner + CheckBox](android/components/user-interface/listpicker.md)
