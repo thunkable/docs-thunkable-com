@@ -4,9 +4,9 @@
 
 ---
 
-Floating Action Buttons are circular Material Design standard buttons that represent the primary action in an app. Unlike regular buttons, FABs float above the other elements on the screen. Material Design FABs can be standard sized \(56 x 56 dp\) or mini \(40 x 40 dp\) and can be customized both in terms of color and the icon on the button.![](/assets/image.jpg)
+Floating Action Buttons are circular Material Design standard buttons that represent the primary action in an app. Unlike regular buttons, FABs float above the other elements on the screen. Material Design FABs can be standard sized \(56 x 56 dp\) or mini \(40 x 40 dp\) and can be customized both in terms of color and the icon on the button.
 
-![](/assets/image.jpg)
+
 
 ![](/assets/fab-fig-1.png)Note: The Floating Action Button is not yet visible on the Phone Previewer when you add it to your app. It is visible during Live Testing and when you Export your app.
 
