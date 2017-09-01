@@ -14,11 +14,4 @@
 
 ---
 
-### Bored? Play Thunkable Pong by Albert Ching
-
-<div class="intrinsic-container">
-  <iframe src="https://appetize.io/embed/jxpxnaz599j55nkta7pngfqjxr?device=nexus5&scale=75&autoplay=false&orientation=portrait&deviceColor=white" width="300px" height="597px" frameborder="0" scrolling="no"></iframe>
-</div>
-
-[Download Source Code Here](https://goo.gl/LQs4su)
 
