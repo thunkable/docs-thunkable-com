@@ -46,7 +46,7 @@ Android ❤
 
   * [Rock, Paper, Scissors, Lizard, Spock](https://goo.gl/GUBntn) created by Domhnall O'Hanlon from Dublin, Ireland \#bestapps2016
 
-  * [Pong](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) remixed by Albert from Honolulu, Hawaii
+  * [Pong](https://goo.gl/LQs4su) remixed by Albert from Honolulu, Hawaii
 
 * Social
 
