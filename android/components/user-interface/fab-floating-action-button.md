@@ -6,6 +6,8 @@
 
 Floating Action Buttons are circular Material Design standard buttons that represent the primary action in an app. Unlike regular buttons, FABs float above the other elements on the screen. Material Design FABs can be standard sized \(56 x 56 dp\) or mini \(40 x 40 dp\) and can be customized both in terms of color and the icon on the button.
 
+We want to give a big thank you to our awesome Power Thunkers [@pavi2140](https://community.thunkable.com/t/fab-extension-material-ui-feature/3488) and [@Andres\_Cotes](https://community.thunkable.com/t/fab-with-material-icon-ttf-paid-extension/4712) for their amazing FAB extensions which were the inspirations for how we designed this component.
+
 Note: The Floating Action Button is not yet visible on the Phone Previewer when you add it to your app. It is visible during Live Testing and when you Export your app.
 
 * [Position your FAB](#position-your-fab)
@@ -53,8 +55,6 @@ To see more options, [navigate here to the library](https://material.io/icons/)
 Since FABs often represent the primary action in an app, developers will often add animation to transition between FABs depending different events that have been triggered
 
 ![](/assets/fab-fig-3.png)
-
-
 
 | Event | Description |
 | :--- | :--- |
