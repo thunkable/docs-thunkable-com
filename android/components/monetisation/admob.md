@@ -1,6 +1,6 @@
-| \*AdMob is onl**y available on our **[**Thunkable for Android beta platform**](http://beta.thunkable.com/), our platform for testing out new features on the Thunkable platform. For AdMob, Thunkable also reserves the right to charge a maintenance fee of 5% of the ad revenue generated for use of the AdMob component |
+| `AdMob is only available on our `[`Thunkable for Android beta platform`](http://beta.thunkable.com/)`, our platform for testing out new features on the Thunkable platform. For AdMob, Thunkable also reserves the right to charge a maintenance fee of 5% of the ad revenue generated for use of the AdMob component. IMPORTANT: Thunkable does not guarantee that features on this platform will always remain available and that apps built on beta will always be supported` |
 | :--- |
-| IMPORTANT: Thunkable does not guarantee that features on this platform will always remain available and that apps built on beta will always be supported |
+
 
 #### **Thunkable for Android **❤
 
