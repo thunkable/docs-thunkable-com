@@ -1,6 +1,6 @@
-| \*Push Notifications are currently available as part of our Thunkable for Android beta program. If you are interested in participating, please [sign up on this form](https://goo.gl/s6yMSD) and we will reach out to you when you have been added. |
+| \***Push Notifications are currently only available on our **[**Thunkable for Android beta platform**](http://beta.thunkable.com/), our platform for testing out new features on the Thunkable platform |
 | :--- |
-
+| IMPORTANT: Thunkable does not guarantee that features on this platform will always remain available and that apps built on beta will always be supported |
 
 #### **Thunkable for Android **❤
 
