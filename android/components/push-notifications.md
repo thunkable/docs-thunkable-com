@@ -8,14 +8,16 @@
 
 ---
 
-Used correctly, push notifications can be a very valuable asset to engage with your app audience.
+User retention in apps is hard and push notifications can be a very valuable asset to continue to engage with your app audience after they have downloaded your app.
 
-However, like ads, being overly aggressive can backfire and have a negative effect on your users. We recommend limiting your push notifications to content that will be welcomed by a large majority of your users -- otherwise, you risk users turning you off forever.
+However, like ads, being overly aggressive can backfire and have a negative effect on your users. Annoying notifications--those that are irrelevant and too frequent--are the number one reason why users uninstall mobile apps. 
 
-| App type | Notification frequency |
-| :--- | :--- |
-| Retail | During seasonal sales \(or near physical sales\) |
-|  |  |
+We recommend limiting push notifications to content that will be welcomed by a large majority of your users. Less is more!
+
+| App type | Notification frequency | Message content |
+| :--- | :--- | :--- |
+| E-commerce | During seasonal sales \(or near physical sales\) | Coupon codes |
+| Game | New updates | Try this new level |
 
 ---
 
