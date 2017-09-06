@@ -8,7 +8,7 @@
 
 ---
 
-User retention in apps is hard and push notifications can be a very valuable asset to continue to engage with your app audience after they have downloaded your app.
+User retention in apps is hard and push notifications can be a very valuable asset to continue to engage with your app audience after they have downloaded your app.![](/assets/push-fig-4.png)
 
 However, like ads, being overly aggressive can backfire and have a negative effect on your users. Annoying notifications--those that are irrelevant and too frequent--are the number one reason why users uninstall mobile apps.
 
@@ -26,8 +26,12 @@ Most of the work you do to use push notifications in your app will be on the One
 * [Connect One Signal with your app](#connecting-one-signal-with-your-app)
 
 * [Create a message](#create-a-message)
-* [Add your app icon](#add-your-app-icon)
-* [Push the notification](#push-the-notification)
+
+* [Add your app icon and title accent color](#add-your-app-icon-and-title-accent-color) \(optional\)
+
+* [Specify the launch url \(optional\)](#specify-the-launch-url-optional)
+
+* [Push immediately or schedule the notification](#push-the-notification)
 
 ---
 
@@ -59,11 +63,21 @@ After dragging and dropping the Push Notifications component to your app, go to 
 
 ---
 
-#### Add your app icon
+#### Add your app icon and title accent color \(optional\)
+
+![](/assets/push-fig-5.png)
 
 ---
 
-#### Push the notification
+#### Specify the launch url \(optional\)
 
-One Signal allows users to send a push notification immediately or schedule one for later
+![](/assets/push-fig-6.png)
+
+---
+
+#### Push immediately or schedule the notification
+
+One Signal allows users to send a push notification immediately or schedule one for later. You can also select their more intelligent timing that optimizes for a user's timezone or most likely to click time
+
+![](/assets/push-fig-7.png)
 
