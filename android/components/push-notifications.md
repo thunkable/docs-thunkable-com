@@ -1,4 +1,4 @@
-| \*`Push Notifications are only available on our`[`Thunkable for Android beta platform`](http://beta.thunkable.com/)`, our platform for testing out new features on the Thunkable platform. For AdMob, Thunkable also reserves the right to charge a maintenance fee of 5% of the ad revenue generated for use of the AdMob component. IMPORTANT: Thunkable does not guarantee that features on this platform will always remain available and that apps built on beta will always be supported` |
+| \*`Push Notifications are only available on our`[`Thunkable for Android beta platform`](http://beta.thunkable.com/)`, our platform for testing out new features on the Thunkable platform. IMPORTANT: Thunkable does not guarantee that features on this platform will always remain available and that apps built on beta will always be supported` |
 | :--- |
 
 
@@ -10,7 +10,7 @@
 
 User retention in apps is hard and push notifications can be a very valuable asset to continue to engage with your app audience after they have downloaded your app.
 
-However, like ads, being overly aggressive can backfire and have a negative effect on your users. Annoying notifications--those that are irrelevant and too frequent--are the number one reason why users uninstall mobile apps. 
+However, like ads, being overly aggressive can backfire and have a negative effect on your users. Annoying notifications--those that are irrelevant and too frequent--are the number one reason why users uninstall mobile apps.
 
 We recommend limiting push notifications to content that will be welcomed by a large majority of your users. Less is more!
 
