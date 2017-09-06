@@ -12,14 +12,15 @@ User retention in apps is hard and push notifications can be a very valuable ass
 
 However, like ads, being overly aggressive can backfire and have a negative effect on your users. Annoying notifications--those that are irrelevant and too frequent--are the number one reason why users uninstall mobile apps.
 
+| App type | Frequency | Content |
+| :--- | :--- | :--- |
+| E-commerce | Sales | Coupon code |
+| Game | App updates | Try this new level |
+
 We recommend limiting push notifications to content that will be welcomed by a large majority of your users. Less is more!
 
-* | App type | Notification frequency | Message content |
-  | :--- | :--- | :--- |
-  | E-commerce | During seasonal sales \(or near physical sales\) | Coupon codes |
-  | Game | New updates | Try this new level |
-
 * [Set up with One Signal](#set-up-with-one-signal)
+
 * [Connect One Signal with your app](#connecting-one-signal-with-your-app)
 * [Create a message](#create-a-message)
 * [Add your app icon](#add-your-app-icon)
