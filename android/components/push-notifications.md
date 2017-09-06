@@ -14,6 +14,11 @@ However, like ads, being overly aggressive can backfire and have a negative effe
 
 We recommend limiting push notifications to content that will be welcomed by a large majority of your users. Less is more!
 
+* Set up with One Signal
+* Connecting One Signal with your app
+* Add your app icon with your notification
+* Create a message
+* 
 | App type | Notification frequency | Message content |
 | :--- | :--- | :--- |
 | E-commerce | During seasonal sales \(or near physical sales\) | Coupon codes |
@@ -21,7 +26,7 @@ We recommend limiting push notifications to content that will be welcomed by a l
 
 ---
 
-#### Creating a new app with One Signal
+#### Set up with One Signal
 
 One Signal is a free service that supports unlimited devices and notifications. OneSignal makes money by selling data to advertisers and research companies
 
@@ -35,7 +40,7 @@ One Signal is a free service that supports unlimited devices and notifications. 
 
 #### Connecting One Signal with your app
 
-Go to the App Settings page of your app and copy the One Signal App ID into the properties of the Push Notifications component
+After dragging and dropping the Push Notifications component to your app, go to the App Settings page of your app and copy the One Signal App ID into the properties of the Push Notifications component![](/assets/push-fig-1.png)
 
 | Property | Description |
 | :--- | :--- |
