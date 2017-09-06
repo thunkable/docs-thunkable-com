@@ -19,9 +19,12 @@ However, like ads, being overly aggressive can backfire and have a negative effe
 
 We recommend limiting push notifications to content that will be welcomed by a large majority of your users. Less is more!
 
+Most of the work you do to use push notifications in your app will be on the One Signal interface. On Thunkable, you simply drag and drop the component in and add the One Signal API key.
+
 * [Set up with One Signal](#set-up-with-one-signal)
 
 * [Connect One Signal with your app](#connecting-one-signal-with-your-app)
+
 * [Create a message](#create-a-message)
 * [Add your app icon](#add-your-app-icon)
 * [Push the notification](#push-the-notification)
