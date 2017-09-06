@@ -14,21 +14,22 @@ However, like ads, being overly aggressive can backfire and have a negative effe
 
 We recommend limiting push notifications to content that will be welcomed by a large majority of your users. Less is more!
 
-* Set up with One Signal
-* Connecting One Signal with your app
-* Add your app icon with your notification
-* Create a message
-* 
-| App type | Notification frequency | Message content |
-| :--- | :--- | :--- |
-| E-commerce | During seasonal sales \(or near physical sales\) | Coupon codes |
-| Game | New updates | Try this new level |
+* | App type | Notification frequency | Message content |
+  | :--- | :--- | :--- |
+  | E-commerce | During seasonal sales \(or near physical sales\) | Coupon codes |
+  | Game | New updates | Try this new level |
+
+* [Set up with One Signal](#set-up-with-one-signal)
+* [Connect One Signal with your app](#connecting-one-signal-with-your-app)
+* [Create a message](#create-a-message)
+* [Add your app icon](#add-your-app-icon)
+* [Push the notification](#push-the-notification)
 
 ---
 
 #### Set up with One Signal
 
-One Signal is a free service that supports unlimited devices and notifications. OneSignal makes money by selling data to advertisers and research companies
+One Signal is a free service that supports unlimited devices and notifications
 
 * Go to [One Signal](https://onesignal.com/) and login
 * Add a new app
@@ -40,7 +41,7 @@ One Signal is a free service that supports unlimited devices and notifications. 
 
 #### Connecting One Signal with your app
 
-After dragging and dropping the Push Notifications component to your app, go to the App Settings page of your app and copy the One Signal App ID into the properties of the Push Notifications component![](/assets/push-fig-1.png)
+After dragging and dropping the Push Notifications component to your app, go to the App Settings page of your app and copy the One Signal App ID into the properties of the Push Notifications component![](/assets/push-fig-1.png)![](/assets/push-fig-2.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -48,15 +49,17 @@ After dragging and dropping the Push Notifications component to your app, go to 
 
 ---
 
-#### Add your app icon to your notification
+#### Create a message on One Signal
+
+![](/assets/push-fig-3.png)
 
 ---
 
-#### Create a message
+#### Add your app icon
 
 ---
 
-#### Send the notification
+#### Push the notification
 
 One Signal allows users to send a push notification immediately or schedule one for later
 
