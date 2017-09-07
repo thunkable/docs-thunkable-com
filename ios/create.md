@@ -47,7 +47,11 @@ Creating your first app on iOS should take only a few steps
 3. In the 'Simple' panel, enter its 'URL'. \(
    _Please note: the Webview component currently only accepts URLs with https:// or http:// at the beginning.\)_
 
-![](/assets/add-functionality-ios.png)
+#### Adding functionality through Properties![](/assets/add-functionality-ios.png)
+
+#### Adding functionality through Blocks
+
+![](/assets/ios-create-fig-1.png)
 
 ---
 
