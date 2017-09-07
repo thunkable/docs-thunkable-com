@@ -16,8 +16,8 @@ Creating your first app on iOS should take only a few steps
 
 ### 2 / Create a New Project
 
-1. In Thunkable, click 'Create New App'
-2. Enter your Project Name
+* In Thunkable, click 'Create New App'
+* Enter your Project Name
 
 ![](/assets/new-project-ios.png)
 
@@ -25,9 +25,17 @@ Creating your first app on iOS should take only a few steps
 
 ### 3 / Drag and Drop** Component\(s\)** {#step-5：-add-app-components}
 
-#### Go to the [Components](/ios/components/README.md) section for more details on how to coax the fullest expressions from these amazing technologies
+| Category | Sub-category | How to Add | Components |
+| :--- | :--- | :--- | :--- |
+| Visible | Within a Screen | Drag either onto the Gold Phone or left to the App Tree | Button, Image, Row, List Viewer . . . |
+| Visible | Screen or Above | Drag left to the App Tree  | Screen, Drawer Navigator, Tab Navigator, Stack Navigator |
+| Invisible |  | Drag left to the App Tree under Invisible | Local Storage |
+
+
 
 ![](/assets/ios-drag-drop.gif)
+
+#### Go to the [Components](/ios/components/README.md) section for more details on how to coax the fullest expressions from these amazing technologies
 
 ---
 
