@@ -17,6 +17,8 @@ Note: The Floating Action Button is not yet visible on the Phone Previewer when 
 
 ![](/assets/Thunkable_Walkie.gif)
 
+[Download App Source Code Here](https://goo.gl/PwQ2uA)
+
 ---
 
 #### Position your FAB

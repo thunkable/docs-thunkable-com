@@ -36,7 +36,7 @@ Our advice is to start small -- and to start with what you know.  If it works, t
 
   * [ChatAble Secure and Scalable Messenger](https://community.thunkable.com/t/chatable-a-chat-system/5328?u=barreeeiroo) created by Barreeeiroo
 
-  * [Walkie Talkie](https://goo.gl/PwQ2uA) \(powered by Cloudinary Audio and Firebase\) created by Albert from Honolulu, Hawaii
+  * [Walkie](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) \(Talkie powered by Cloudinary Audio, Firebase and FAB\) created by Albert from Honolulu, Hawaii
 
 * Tools
 
