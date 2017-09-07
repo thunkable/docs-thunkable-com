@@ -6,6 +6,11 @@
 
 Creating your first app on iOS should take only a few steps
 
+* [Login to Thunkable for iOS](#1--login-to-thunkable-for-ios)
+* [Create a new project](#2--create-a-new-project)
+* [Drag and drop your favorite components](#step-5：-add-app-components)
+* [Add functionality \(in the Properties or Blocks tab\)](#--step-6：-add-functionality)
+
 ---
 
 ### 1 / [Login](https://ios.thunkable.com) to Thunkable for iOS
@@ -14,7 +19,7 @@ Creating your first app on iOS should take only a few steps
 
 ---
 
-### 2 / Create a New Project
+### 2 / Create a new project
 
 * In Thunkable, click 'Create New App'
 * Enter your Project Name
@@ -23,23 +28,19 @@ Creating your first app on iOS should take only a few steps
 
 ---
 
-### 3 / Drag and Drop** Component\(s\)** {#step-5：-add-app-components}
+### 3 / Drag and drop** your favorite component\(s\). You can drag all components to the left to the App Tree and some components \(those that are visible within a Screen\) to the Gold Phone screen on the right** {#step-5：-add-app-components}
 
 | Category | Sub-category | How to Add | Components |
 | :--- | :--- | :--- | :--- |
 | Visible | Within a Screen | Drag either onto the Gold Phone or left to the App Tree | Button, Image, Row, List Viewer . . . |
-| Visible | Screen or Above | Drag left to the App Tree  | Screen, Drawer Navigator, Tab Navigator, Stack Navigator |
+| Visible | Screen or Above | Drag left to the App Tree | Screen, Drawer Navigator, Tab Navigator, Stack Navigator |
 | Invisible |  | Drag left to the App Tree under Invisible | Local Storage |
-
-
 
 ![](/assets/ios-drag-drop.gif)
 
-#### Go to the [Components](/ios/components/README.md) section for more details on how to coax the fullest expressions from these amazing technologies
-
 ---
 
-### 4 / **Add Functionality** {#--step-6：-add-functionality}
+### 4 / **Add functionality \(in the Properties of Blocks tab\)** {#--step-6：-add-functionality}
 
 1. Select a component from the left hand bar. In the example below, it’s the Webview component you just added.
 2. The default 'Simple' property panel appears.
