@@ -1,4 +1,4 @@
-#### **Thunkable for iOS **
+**Thunkable for iOS **
 
 # Step 2 `Create`
 
@@ -10,7 +10,7 @@ Creating your first app on iOS should take only a few steps
 
 ### 1 / [Login](https://ios.thunkable.com) to Thunkable for iOS
 
-### [![](/assets/login-ios.png)](https://ios.thunkable.com)
+[![](/assets/login-ios.png)](https://ios.thunkable.com)
 
 ---
 
@@ -23,17 +23,11 @@ Creating your first app on iOS should take only a few steps
 
 ---
 
-### 3 / **Add App Component\(s\)** {#step-5：-add-app-components}
+### 3 / Drag and Drop** Component\(s\)** {#step-5：-add-app-components}
 
-Open your just created project.
+#### Go to the [Components](/ios/components/README.md) section for more details on how to coax the fullest expressions from these amazing technologies
 
-1. Click on the 'Add Component' button.
-2. A popup appears, listing the available components.
-3. Add a component by clicking its Add button. Below, we show adding a Webview component. Note that it’s listed under 'Components' in the left bar.
-
-#### Go to the Components section for more details on how to coax the fullest expressions from these amazing technologies
-
-![](/assets/add-components-ios.png)
+![](/assets/ios-drag-drop.gif)
 
 ---
 
