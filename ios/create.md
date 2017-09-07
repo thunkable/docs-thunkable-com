@@ -15,7 +15,7 @@ Creating your first app on iOS should take only a few steps
 
 ### 1 / [Login](https://ios.thunkable.com) to Thunkable for iOS
 
-[![](/assets/login-ios.png)](https://ios.thunkable.com)
+Right now we only accept logging in with a Google account but expect to add more options in the future[![](/assets/login-ios.png)](https://ios.thunkable.com)
 
 ---
 
@@ -28,15 +28,17 @@ Creating your first app on iOS should take only a few steps
 
 ---
 
-### 3 / Drag and drop** your favorite component\(s\). You can drag all components to the left to the App Tree and some components \(those that are visible within a Screen\) to the Gold Phone screen on the right** {#step-5：-add-app-components}
+### 3 / Drag and drop** your favorite component\(s\)** {#step-5：-add-app-components}
+
+#### ![](/assets/ios-drag-drop.gif)
+
+#### **You can drag all components to the left to the App Tree and some components \(those that are visible within a Screen\) to the Gold Phone screen on the right**
 
 | Category | Sub-category | How to Add | Components |
 | :--- | :--- | :--- | :--- |
 | Visible | Within a Screen | Drag either onto the Gold Phone or left to the App Tree | Button, Image, Row, List Viewer . . . |
 | Visible | Screen or Above | Drag left to the App Tree | Screen, Drawer Navigator, Tab Navigator, Stack Navigator |
 | Invisible |  | Drag left to the App Tree under Invisible | Local Storage |
-
-![](/assets/ios-drag-drop.gif)
 
 ---
 
@@ -47,11 +49,9 @@ Creating your first app on iOS should take only a few steps
 3. In the 'Simple' panel, enter its 'URL'. \(
    _Please note: the Webview component currently only accepts URLs with https:// or http:// at the beginning.\)_
 
-#### Adding functionality through Properties![](/assets/add-functionality-ios.png)
+#### Add functionality through Properties![](/assets/add-functionality-ios.png)
 
-#### Adding functionality through Blocks
-
-![](/assets/ios-create-fig-1.png)
+#### Add functionality through Blocks![](/assets/ios-create-fig-1.png)
 
 ---
 
