@@ -24,8 +24,6 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 ![](/assets/create-ios-1.gif)
 
-
-
 ---
 
 ### 3 / Drag and drop** your favorite component\(s\)** {#step-5：-add-app-components}
@@ -40,13 +38,17 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 ### 4 / Add functionality in the Properties {#--step-6：-add-functionality}
 
-![](/assets/create-app-ios-fig-1.png)
+![](/assets/create-ios-2.gif)
+
+#### Common Properties examples. I want to set the picture in the Image, the color of the Button or the url in the Web Viewer
 
 ---
 
 ### ![](/assets/ios-create-fig-1.png)5 / . . . or in the Blocks
 
-![](/assets/create-app-ios-fig-2.png)
+### ![](/assets/create-ios-3.gif)
+
+#### Common Blocks examples. I want to set the sequence or conditions for specific events to happen e.g. if I click this, then. 
 
 ---
 
