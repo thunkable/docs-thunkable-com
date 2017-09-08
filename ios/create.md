@@ -9,7 +9,8 @@ Creating your first app on iOS should take only a few steps
 * [Login](#1--login-to-thunkable-for-ios)
 * [Create a new project](#2--create-a-new-project)
 * [Drag and drop your favorite components](#step-5：-add-app-components)
-* [Add functionality](#--step-6：-add-functionality)
+* [Add simple functionality in the Properties](#--step-6：-add-functionality)
+* Add more complex functionality in the Blocks
 * Edit app name and icon \(not yet available\)
 
 ---
@@ -35,7 +36,7 @@ Right now we only accept logging in with a Google account but expect to add more
 
 #### **You can drag all components to the left to the App Tree and most visible components\* to the Gold Phone screen on the right**![](/assets/drag-drop-fig-1.png)
 
-#### ![](/assets/ios-drag-drop-fig-1.png)![](/assets/drag-drop-fig-1.png)![](/assets/ios-drag-drop-fig-1.png)
+#### ![](/assets/ios-drag-drop-fig-1.png)![](/assets/drag-drop-fig-1.png)
 
 | Category | Sub-category | How to Add | Components |
 | :--- | :--- | :--- | :--- |
@@ -45,9 +46,9 @@ Right now we only accept logging in with a Google account but expect to add more
 
 ---
 
-### 4 / **Add functionality** {#--step-6：-add-functionality}
+### 4 / Add simple functionality in the Properties {#--step-6：-add-functionality}
 
-![](/assets/ios-create-fig-1.png)![](/assets/ios-create-fig-2.png)![](/assets/ios-create-fig-3.png)
+![](/assets/ios-create-fig-1.png)![](/assets/ios-create-fig-2.png)
 
 ---
 
