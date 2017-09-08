@@ -6,7 +6,7 @@
 
 Creating your first app on iOS should take only a few steps
 
-* [Login to Thunkable for iOS](#1--login-to-thunkable-for-ios)
+* [Login](#1--login-to-thunkable-for-ios)
 * [Create a new project](#2--create-a-new-project)
 * [Drag and drop your favorite components](#step-5：-add-app-components)
 * [Add functionality \(in the Properties or Blocks tab\)](#--step-6：-add-functionality)
@@ -14,7 +14,7 @@ Creating your first app on iOS should take only a few steps
 
 ---
 
-### 1 / [Login](https://ios.thunkable.com) to Thunkable for iOS
+### 1 / [Login](https://ios.thunkable.com)
 
 Right now we only accept logging in with a Google account but expect to add more options in the future[![](/assets/login-ios.png)](https://ios.thunkable.com)
 
