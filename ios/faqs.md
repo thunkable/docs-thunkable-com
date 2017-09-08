@@ -8,7 +8,7 @@
 
 #### How do I sign up to be a part of the Thunkable for iOS beta**?** {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
-We are working hard to make this product available to everyone but in the mean time, you can still [sign up for the beta here](https://goo.gl/q3HgHc). 
+We are working hard to make this product available to everyone but in the mean time, you can still [sign up for the beta here](https://goo.gl/q3HgHc).
 
 We will try to add you as soon as we can and you should get an email from us when you have been added.
 
@@ -34,7 +34,7 @@ iOS app development has its own unique set of requirements that are distinct fro
 
 #### How much does it cost to use Thunkable for iOS? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
-Thunkable is completely free to use!
+Thunkable is completely free to use but it may not last forever -- get your app started today!
 
 ---
 
@@ -50,7 +50,7 @@ Yes. Unlike other products in the space, Thunkable lets you build standalone app
 
 #### **Can I convert my existing Android project into iOS?** {#can-i-convert-my-existing-android-project-into-ios}
 
-Not right now. Some key differences between iOS and Android make one-to-one conversion difficult, if not impossible. We may add a conversion tool to help as much as possible, but for now you should build iOS apps from scratch.
+No. Some key differences between iOS and Android make one-to-one conversion difficult, if not impossible so we recommend building your iOS apps from scratch.
 
 ####  {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
