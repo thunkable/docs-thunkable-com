@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Column
+# Column \(aka Vertical Arrangement\)
 
 ---
 

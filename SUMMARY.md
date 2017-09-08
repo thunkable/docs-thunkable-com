@@ -17,7 +17,7 @@
       * [User Interface](ios/components/user-interface/README.md)
         * [Button](ios/components/user-interface/button.md)
         * [Label](ios/components/user-interface/label.md)
-        * Text Input
+        * [Text Input](ios/components/user-interface/text-input.md)
         * [Image](ios/components/user-interface/image.md)
         * [Web Viewer](ios/components/user-interface/web-viewer.md)
         * [List Viewer](ios/components/user-interface/list-view.md)

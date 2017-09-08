@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Row
+# Row \(aka Horizontal Arrangement\)
 
 ---
 
