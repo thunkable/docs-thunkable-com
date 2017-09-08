@@ -10,6 +10,7 @@ Creating your first app on iOS should take only a few steps
 * [Create a new project](#2--create-a-new-project)
 * [Drag and drop your favorite components](#step-5：-add-app-components)
 * [Add functionality \(in the Properties or Blocks tab\)](#--step-6：-add-functionality)
+* Edit app name and icon \(not yet available\)
 
 ---
 
@@ -30,7 +31,7 @@ Right now we only accept logging in with a Google account but expect to add more
 
 ### 3 / Drag and drop** your favorite component\(s\)** {#step-5：-add-app-components}
 
-#### ![](/assets/ios-drag-drop.gif)
+#### ![](/assets/ios/drag-drop.gif)![](/assets/ios-drag-drop.gif)
 
 #### **You can drag all components to the left to the App Tree and some components \(those that are visible within a Screen\) to the Gold Phone screen on the right**
 
@@ -42,16 +43,7 @@ Right now we only accept logging in with a Google account but expect to add more
 
 ---
 
-### 4 / **Add functionality \(in the Properties of Blocks tab\)** {#--step-6：-add-functionality}
-
-1. Select a component from the left hand bar. In the example below, it’s the Webview component you just added.
-2. The default 'Simple' property panel appears.
-3. In the 'Simple' panel, enter its 'URL'. \(
-   _Please note: the Webview component currently only accepts URLs with https:// or http:// at the beginning.\)_
-
-#### Add functionality through Properties![](/assets/add-functionality-ios.png)
-
-#### Add functionality through Blocks![](/assets/ios-create-fig-1.png)
+### 4 / **Add functionality \(in the Properties of Blocks tab\)**![](/assets/create-fig-1.png)![](/assets/create-fig-2.png)![](/assets/create-fig-3.png) {#--step-6：-add-functionality}
 
 ---
 

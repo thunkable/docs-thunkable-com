@@ -8,7 +8,7 @@ The Accelerometer is a sensor loaded onto most smartphones that signals which wa
 
 The Accelerometer component on Thunkable can be used to detect shaking events, indicate if the phone should be in Portrait or Landscape mode, and measure acceleration in 3 dimensions:
 
-![](/assets/accelerometer-fig-1.png)
+![](/assets/android/accelerometer-fig-1.png)![](/assets/accelerometer-fig-1.png)
 
 Our amazing community member Domhnall made [this great resource](https://community.thunkable.com/t/how-to-use-the-accelerometer-sensor/1038) to further explain the power of this sensor
 
