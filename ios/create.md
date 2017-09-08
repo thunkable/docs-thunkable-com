@@ -52,11 +52,9 @@ Right now we only accept logging in with a Google account but expect to add more
 
 ---
 
-### ![](/assets/ios-create-fig-1.png)5 / Add more complex functionality in the Blocks![](/assets/create-app-ios-fig-2.png)
+### ![](/assets/ios-create-fig-1.png)5 / Add more complex functionality in the Blocks
 
-### ![](/assets/create-app-ios-fig-2.png)
-
-### ![](/assets/create-app-ios-fig-2.png)
+![](/assets/create-app-ios-fig-2.png)
 
 ---
 
