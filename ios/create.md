@@ -33,9 +33,9 @@ Right now we only accept logging in with a Google account but expect to add more
 
 #### ![](/assets/ios/drag-drop.gif)![](/assets/ios-drag-drop.gif)
 
-#### **You can drag all components to the left to the App Tree and some components \(those that are visible within a Screen\) to the Gold Phone screen on the right**![](/assets/drag-drop-fig-1.png)
+#### **You can drag all components to the left to the App Tree and most visible components\* to the Gold Phone screen on the right**![](/assets/drag-drop-fig-1.png)
 
-#### ![](/assets/drag-drop-fig-1.png)![](/assets/ios-drag-drop-fig-1.png)
+#### ![](/assets/ios-drag-drop-fig-1.png)![](/assets/drag-drop-fig-1.png)![](/assets/ios-drag-drop-fig-1.png)
 
 | Category | Sub-category | How to Add | Components |
 | :--- | :--- | :--- | :--- |
