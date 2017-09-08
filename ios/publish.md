@@ -1,10 +1,10 @@
-| \*`Push Notifications are only available on our`[`Thunkable for Android beta platform`](http://beta.thunkable.com/)`, our platform for testing out new features on the Thunkable platform. IMPORTANT: Thunkable does not guarantee that features on this platform will always remain available and that apps built on beta will always be supported` |
+| \*`Publishing to the App Store is not yet available. Stay tuned!` |
 | :--- |
 
 
 #### **Thunkable for iOS **
 
-# Step 4 `Publish`
+# Step 5 `Publish`
 
 ---
 

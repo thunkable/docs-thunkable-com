@@ -32,7 +32,7 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 #### All components can be dragged left to the App Tree and most visible components\* can be dragged directly onto the Gold Phone
 
-#### \*Currently includes: All [User Interface](/android/components/user-interface/README.md), [Layout](/android/components/layout.md) and [Location](/ios/components/location/README.md) components
+#### \*Currently includes: All [User Interface](/android/components/user-interface/README.md), [Layout](/ios/components/layout.md) and [Location](/ios/components/location/README.md) components
 
 ---
 
@@ -40,7 +40,7 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 ![](/assets/create-ios-2.gif)
 
-#### Common Properties examples. I want to set the picture in the Image, the color of the Button or the url in the Web Viewer
+#### Properties examples: I want to set the picture in the Image, the color of the Button or the url in the Web Viewer
 
 ---
 
@@ -48,7 +48,7 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 ### ![](/assets/create-ios-3.gif)
 
-#### Common Blocks examples. I want to set the sequence or conditions for specific events to happen e.g. if I click this, then. 
+#### Blocks examples: I want to set the sequence or conditions for specific events to happen e.g. if I click this, then.
 
 ---
 
