@@ -10,7 +10,7 @@ Creating your first app on iOS should take only a few steps
 * [Create a new project](#2--create-a-new-project)
 * [Drag and drop your favorite components](#step-5：-add-app-components)
 * [Add simple functionality in the Properties](#--step-6：-add-functionality)
-* Add more complex functionality in the Blocks
+* [Add more complex functionality in the Blocks](#5--add-more-complex-functionality-in-the-blocks)
 * Edit app name and icon \(not yet available\)
 
 ---
@@ -48,7 +48,15 @@ Right now we only accept logging in with a Google account but expect to add more
 
 ### 4 / Add simple functionality in the Properties {#--step-6：-add-functionality}
 
-![](/assets/ios-create-fig-1.png)![](/assets/ios-create-fig-2.png)
+![](/assets/create-app-ios-fig-1.png)
+
+---
+
+### ![](/assets/ios-create-fig-1.png)5 / Add more complex functionality in the Blocks![](/assets/create-app-ios-fig-2.png)
+
+### ![](/assets/create-app-ios-fig-2.png)
+
+### ![](/assets/create-app-ios-fig-2.png)
 
 ---
 

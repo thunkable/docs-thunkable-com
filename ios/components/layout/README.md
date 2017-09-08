@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Layout ![](/assets/vertical-arrange-icon.png) ![](/assets/horizontal-arrange-icon.png)
+# Layout
 
 ---
 
