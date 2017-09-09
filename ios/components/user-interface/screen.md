@@ -20,12 +20,16 @@ Screens are the pages of an app. We designed Thunkable for iOS to support simple
 
 ---
 
-#### Appearance in a Navigator
+#### Appearance
+
+##### Drawer Navigator
 
 | Property | Description |
 | :--- | :--- |
 | Title | Will be the label for the Screen in a Navigator |
 | \(Drawer\) \(Tab\) \(Stack\) Label | If blank, the 'Title' will be the label. Otherwise, this 'Label' will be the label in a Navigator |
+
+##### Tab Navigator
 
 
 
