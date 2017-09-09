@@ -4,11 +4,7 @@
 
 ---
 
-Image components display images from the web or that you've uploaded to your app.
-
----
-
-#### Upload images to your app![](/assets/image-upload-ios.png)
+Image components display images from the web or that you've uploaded to your app
 
 ---
 
