@@ -12,14 +12,14 @@ Tab navigators are an increasingly popular choice for organizing multi-screen ap
 
 #### Change the appearance of a Tab
 
-| Properties | Description |
+| Property | Description |
 | :--- | :--- |
 | Tab Bar Position | Default is 'bottom' but you can also set it to 'top' |
 | Swipe Enabled | If 'true', enables navigation from left to right by swipe |
 | Animation Enabled | If 'true', enables animation when swiping between tabs |
 | Lazy | If 'true', lazily renders tabs as needed as opposed to rendering them upfront |
 | Initial Screen/Nav Name |  |
-| Tab Order | Default is to order the tabs the way screens are ordered in the App tree. If you want to specify the order, you  |
+| Tab Order | Default is to order the tabs the way screens are ordered in the App tree. If you want to specify the order, you |
 
 
 
