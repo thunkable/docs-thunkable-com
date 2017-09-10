@@ -10,10 +10,6 @@ Row components are containers that can arrange elements horizontally within a sc
 * [Arrange the elements horizontally](#arrange-the-elements-horizontally-justification-)
 * [Align the elements vertically](#align-the-elements-vertically-alignment)
 
-`Fit contents` Container is just as large as the contents; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size of the container in percent of the Screen; `Absolute size` Size of the container in pixels
-
-
-
 ---
 
 #### Set size of the container
@@ -32,6 +28,4 @@ Row components are containers that can arrange elements horizontally within a sc
 #### Align the elements vertically \(Alignment\)
 
 ![](/assets/row-ios-3.png)
-
-
 
