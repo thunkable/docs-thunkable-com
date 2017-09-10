@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Navigators
+# Navigators \(for Multi-Screen Apps\)
 
 ---
 
