@@ -4,7 +4,7 @@
 
 ---
 
-Buttons are a key input for many apps and one of the most popular components on Thunkable
+Buttons are a key input for many apps and one of the most popular components on Thunkable![](/assets/button-ios-1.png)
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-Labels are components used to display text
+Labels are components used to display text![](/assets/label-ios-1.png)
 
 ---
 

@@ -39,7 +39,7 @@ Screens are the pages of an app. We designed Thunkable for iOS to support simple
 | :--- | :--- |
 | Title | Title of the Screen; serves as the visible label of the Tab if the 'tab bar label' is blank |
 | Tab Bar Label | Title of the visible label on the Tab bar |
-| Tab Bar Visible | If 'false', hides the Screen from the Tab bar |
+| Tab Bar Visible | If `false`, hides the Screen from the Tab bar |
 
 ##### Stack Navigator
 
@@ -50,7 +50,7 @@ Screens are the pages of an app. We designed Thunkable for iOS to support simple
 | Header Back Title |  |
 | Header Truncated Back Title |  |
 | Header Tint Color | Color of the text in the header |
-| Gestures Enabled | If 'true', you can use gestures to dismiss the Screen |
+| Gestures Enabled | If `true`, you can use gestures to dismiss the Screen |
 
 
 

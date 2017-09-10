@@ -4,7 +4,7 @@
 
 ---
 
-The simplest app you can make on Thunkable is an app with your favorite website wrapped within it.
+The simplest app you can make on Thunkable is an app with your favorite website wrapped within it![](/assets/webviewer-ios-1.png)
 
 ---
 
@@ -21,7 +21,7 @@ The simplest app you can make on Thunkable is an app with your favorite website 
 
 | Property | Description |
 | :--- | :--- |
-| Height |  Four options: 1\) 'Absolute' size in pixels, 2\) 'Relative' size in percent of screen, 3\) 'Fit contents' which auto-sizes to the content size or 4\) 'Fill container' which auto-sizes to the container |
+| Height | Four options: 1\) 'Absolute' size in pixels, 2\) 'Relative' size in percent of screen, 3\) 'Fit contents' which auto-sizes to the content size or 4\) 'Fill container' which auto-sizes to the container |
 | Width | WidthFour options: 1\) 'Absolute' size in pixels, 2\) 'Relative' size in percent of screen, 3\) 'Fit contents' which auto-sizes to the content size or 4\) 'Fill container' which auto-sizes to the container |
 
 

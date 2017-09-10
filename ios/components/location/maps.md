@@ -4,6 +4,10 @@
 
 ---
 
+#### ![](/assets/map-ios-1.png)
+
+---
+
 #### Center your map
 
 | Property | Description |
@@ -18,8 +22,8 @@
 
 | Property | Description |
 | :--- | :--- |
-| Height | Four options: 1\) 'Absolute' size in pixels, 2\) 'Relative' size in percent of screen, 3\) 'Fit contents' which auto-sizes to the content size or 4\) 'Fill container' which auto-sizes to the container |
-| Width | Four options: 1\) 'Absolute' size in pixels, 2\) 'Relative' size in percent of screen, 3\) 'Fit contents' which auto-sizes to the content size or 4\) 'Fill container' which auto-sizes to the containe |
+| Height | `Fit contents` Container is just as large as the image; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size in percent of the Screen; `Absolute size` Size in pixels |
+| Width | `Fit contents` Container is just as large as the image; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size in percent of the Screen; `Absolute size` Size in pixels |
 
 
 
