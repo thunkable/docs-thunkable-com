@@ -32,8 +32,6 @@ iOS app development has its own unique set of requirements that are distinct fro
 
 Thunkable for iOS is built completely new from the ground up on modern infrastructure that should allow users not only to build their best apps for iOS but soon, for both iOS and Android simultaneously.
 
-Thunkable for iOS is powered by React Native, one of the most popular app technologies available today that itself powers many of your favorite apps like Facebook, Instagram and Airbnb
-
 In terms of app building, here are some of the key differences that are not iOS-specific:
 
 * App tree is on the left and stays there so that you can more easily follow where you are in an app. This means the component palette only appears when you select "Add component"
