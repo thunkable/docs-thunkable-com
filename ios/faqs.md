@@ -34,7 +34,7 @@ Thunkable for iOS is built completely new from the ground up on modern infrastru
 
 Thunkable for iOS is powered by React Native, one of the most popular app technologies available today that itself powers many of your favorite apps like Facebook, Instagram and Airbnb
 
-In terms of app building, here are some of the key differences:
+In terms of app building, here are some of the key differences that are not iOS-specific:
 
 * App tree is on the left and stays there so that you can more easily follow where you are in an app. This means the component palette only appears when you select "Add component"
 
@@ -43,6 +43,10 @@ In terms of app building, here are some of the key differences:
 * [Navigators](/ios/components/navigators/README.md) - instead of having to hack your way through side and tab menus, we are adding a new component called Navigators that allows users to more easily manage navigating between multiple screens. No longer will you have to use Vertical Arrangements as fake screens either.
 
 * Non-visible components are now called Invisible components and they can be used across all screens in an app.  Try our first Invisible component called [Local Storage](/ios/components/storage/local-storage.md), which is very similar to TinyDB
+
+* [Uploading media](/ios/components/app-settings/upload-media.md) files happens in the App settings page which is selected when you click on the app in the top left. More App settings will be added over time
+
+* [Downloaded apps](//ios/download.md#step-4-download) get sent to your phone via email \(currently from Steve Jeaver\) and takes 4-5 minutes to build
 
 ---
 
