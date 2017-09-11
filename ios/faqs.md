@@ -28,6 +28,22 @@ iOS app development has its own unique set of requirements that are distinct fro
 
 * To publish to the App Store, you do have to sign up for the [Apple Developer Program](https://developer.apple.com/programs/) membership \(currently $99/year\)
 
+#### Aside from supporting apps on different platforms, what are the main differences between Thunkable for iOS and Thunkable for Android? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
+
+Thunkable for iOS is built completely new from the ground up on modern infrastructure that should allow users not only to build their best apps for iOS but soon, for both iOS and Android simultaneously.
+
+Thunkable for iOS is powered by React Native, one of the most popular app technologies available today that itself powers many of your favorite apps like Facebook, Instagram and Airbnb
+
+In terms of app building, here are some of the key differences:
+
+* App tree is on the left and stays there so that you can more easily follow where you are in an app. This means the component palette only appears when you select "Add component"
+
+* You can only [drag and drop some components](/android/create.md) onto the phone screen -- those that are Visible within a Screen. Screen, Navigators, and Invisible components must be dropped onto the App tree on the left
+
+* [Navigators](/ios/components/navigators/README.md) - instead of having to hack your way through side and tab menus, we are adding a new component called Navigators that allows users to more easily manage navigating between multiple screens. No longer will you have to use Vertical Arrangements as fake screens either.
+
+* Non-visible components are now called Invisible components and they can be used across all screens in an app.  Try our first Invisible component called [Local Storage](/ios/components/storage/local-storage.md), which is very similar to TinyDB
+
 ---
 
 ### `Pricing`
