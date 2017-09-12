@@ -6,13 +6,13 @@
 
 One of Thunkable's coolest features is the ability to change and update your app in real-time. Not even hard-core developers have this super power. Once you have synced your app with your project, every change you make to your project will be reflected in your app
 
-* [Install Thunkable's Live Testing app](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) \(first time only\)
-* [Sync your app with your project](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#)
-* [See your changes live in your app](#step-1：-install-thunkables-live-testing-companion-app)
+* [Install Thunkable's Live Testing app](#1--install-thunkables-live-testing-app) \(first time only\)
+* [Sync your app with your project](#2--sync-your-app-with-your-project)
+* [See your changes live in your app](#3--see-your-changes-reflected-live-in-your-app)
 
 ---
 
-### 1 / Install Thunkable’s Live Testing app {#step-1：-install-thunkables-live-testing-companion-app}
+### 1 / Install Thunkable’s Live Testing app
 
 * Go to the AppStore and [download the TestFlight app](https://itunes.apple.com/us/app/testflight/id899247664?mt=8)
 
@@ -29,7 +29,7 @@ One of Thunkable's coolest features is the ability to change and update your app
 
 ---
 
-### 3 / See your changes reflected live in your app {#step-1：-install-thunkables-live-testing-companion-app}
+### 3 / See your changes reflected live in your app
 
 ![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/live-test-ios-2.gif?raw=true)
 
