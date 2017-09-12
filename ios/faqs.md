@@ -6,13 +6,7 @@
 
 ### `Getting started`
 
-#### How do I sign up to be a part of the Thunkable for iOS beta**?** {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
-
-We are working hard to make this product available to everyone but in the mean time, you can still [sign up for the beta here](https://goo.gl/q3HgHc).
-
-We will try to add you as soon as we can and you should get an email from us when you have been added.
-
-#### **Are there special requirements to be an iOS developer?** {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
+#### **Are there special requirements to be an iOS developer?**
 
 iOS app development has its own unique set of requirements that are distinct from Android. Where possible, Thunkable is making easier for new iOS developers to get started on their first app \(compared to hard-core iOS developers\)
 
@@ -28,7 +22,7 @@ iOS app development has its own unique set of requirements that are distinct fro
 
 * To publish to the App Store, you do have to sign up for the [Apple Developer Program](https://developer.apple.com/programs/) membership \(currently $99/year\)
 
-#### Aside from supporting apps on different platforms, what are the main differences between Thunkable for iOS and Thunkable for Android? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
+#### Aside from supporting apps on different platforms, what are the main differences between Thunkable for iOS and Thunkable for Android? {#differences}
 
 Thunkable for iOS is built completely new from the ground up on modern infrastructure that should allow users not only to build their best apps for iOS but soon, for both iOS and Android simultaneously.
 
