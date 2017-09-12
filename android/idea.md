@@ -10,31 +10,25 @@ The most successful apps solve real problems. These problems can range from prob
 
 Since apps are easy to create on Thunkable, no problem is too small.
 
-Our advice is to start small -- and to start with what you know.  If it works, then you can start expanding from there.
+### . . . Or be inspired by real apps from our community of \(mostly\) first-time developers.
 
-### . . . Or be inspired by real apps from our community of \(mostly\) first-time developers. You can click on any of the links below to remix your own version or check out our [\#OpenSourced](https://community.thunkable.com/c/OpenSource) topic on our community forum
+You can click on any of the links below to remix your own version or check out our [\#OpenSourced](https://community.thunkable.com/c/OpenSource) topic on our community forum
 
 ---
 
 ### Games
 
-![](/assets/scissor.gif)
-
-#### [Rock, Paper, Scissors, Lizard, Spock](https://goo.gl/GUBntn) created by Domhnall O'Hanlon from Dublin, Ireland
-
-![](/assets/easy-pong.gif)
-
-#### \(Easy\) [Pong](https://goo.gl/LQs4su) remixed by Albert from Honolulu, Hawaii
+|  | ![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/inside-2016.gif?raw=true)Inside 2016 - Latest Trends in India crated by | ![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/scissor.gif?raw=true)**Rock, Paper, Scissors, Lizard, Spock** created by Domhnall O'Hanlon from Dublin, Ireland |
+| :--- | :--- | :--- |
+| Download source code here | Download source code here | Download source code here |
 
 ---
 
-### Social / Chat
+### Social / Chat / Messaging
 
-#### [Thunkableagram: AI-powered Instagram](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) created by Albert from Honolulu, Hawaii, [learn more on our blog](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#)
-
-#### ![](/assets/walkie.gif)
-
-#### [Walkie](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) \(Talkie powered by Cloudinary Audio, Firebase and FAB\) created by Albert from Honolulu, Hawaii
+|  | ![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/thunkablegram.gif?raw=true)**Thunkablegram - Ad-free, AI-powered Instagram** created by Albert from Honolulu, Hawaii |  |
+| :--- | :--- | :--- |
+| Download source code here | Download source code here | Download source code here |
 
 ---
 
@@ -51,8 +45,6 @@ Our advice is to start small -- and to start with what you know.  If it works, t
 ---
 
 ### Tools
-
-![](/assets/elevator.gif)
 
 #### [PV Solar Power System](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) created by Anwar Al-Haddid from Sanaa, Yemen, [read more about his inspiring story](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#)
 
