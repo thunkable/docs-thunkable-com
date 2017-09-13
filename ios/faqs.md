@@ -38,7 +38,7 @@ In terms of app building, here are some of the key differences that are not iOS-
 
 * [Uploading media](/ios/components/app-settings/upload-media.md) files happens in the App settings page which is selected when you click on the app in the top left. More App settings will be added over time
 
-* [Downloaded apps](//ios/download.md#step-4-download) get sent to your phone via email \(currently from Steve Jeaver\) and takes 4-5 minutes to build
+* [Downloaded apps](//ios/download.md#step-4-download) get sent to your phone via email \(currently from Steve Jeaver\) and take 4-5 minutes to build. There is currently a limit of one downloaded app per phone.
 
 ---
 
