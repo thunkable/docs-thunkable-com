@@ -30,7 +30,6 @@
     * [Blocks](ios/blocks/README.md)
   * [3 / Test Live](ios/live-test.md)
   * [4 / Download](/ios/download.md#step-4-download)
-  * [\*5 / Publish](ios/publish.md)
   * [Troubleshooting](ios/troubleshooting.md)
 * [❤ Thunkable for Android](android/README.md)
   * [0 / FAQs](android/faqs.md)
