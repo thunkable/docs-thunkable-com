@@ -8,7 +8,7 @@
 
 Common issues
 
-* There are some blocks that are not connected to anything else.  On Thunkable for Android, this usually triggers a warning but not an error but currently may cause issues on Thunkable for iOS.  We'll try to fix this soon
+* You uploaded an icon that has the same name as an existing asset that you have uploaded
 
 ---
 
