@@ -4,6 +4,12 @@
 
 ---
 
+Stack navigators provides a way for your app to transition between screens where each new screen is placed on top of a stack
+
+#### ![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/nav-stack-ios.gif?raw=true)
+
+---
+
 #### Set the first screen in a Stack
 
 | Property | Description |

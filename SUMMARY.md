@@ -31,6 +31,7 @@
   * [3 / Test Live](ios/live-test.md)
   * [4 / Download](/ios/download.md#step-4-download)
   * [Troubleshooting](ios/troubleshooting.md)
+  * [Release Notes](ios/release-notes.md)
 * [❤ Thunkable for Android](android/README.md)
   * [0 / FAQs](android/faqs.md)
   * [1 / Idea](android/idea.md)

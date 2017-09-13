@@ -1,6 +1,6 @@
 #### **Thunkable for Android **❤
 
-# Release Notes 
+# Release Notes
 
 ---
 
@@ -11,7 +11,7 @@ New components
 * Floating Action Button \(FAB\) \(User Interface\) / [docs](/android/components/user-interface/fab-floating-action-button.md)
 * Push Notifications by One Signal on [beta.thunkable.com](https://beta.thunkable.com) \(Experimental\) / [docs](/android/components/push-notifications.md)
 
-Platform improvements 
+Platform improvements
 
 * Update default app icon
 * Added language support for Dutch and improve language support for Chinese / thanks MIT App Inventor team!

@@ -8,7 +8,7 @@ Just as Captain Jack Sparrow directs the Black Pearl towards treasure-filled isl
 
 | Drawer | Tab | Stack |
 | :--- | :--- | :--- |
-| ![](/assets/nav-drawer-ios-small.gif) | ![](/assets/nav-tab-ios-small.gif) |  |
+| ![](/assets/nav-drawer-ios-small.gif) | ![](/assets/nav-tab-ios-small.gif) | ![](/assets/nav-stack-ios-small.gif) |
 
 
 
