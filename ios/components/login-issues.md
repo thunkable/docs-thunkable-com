@@ -4,7 +4,9 @@
 
 ---
 
-We are working hard to make Thunkable’s service compatible with any browser that you currently use but if you are having trouble logging into our service, you may need to adjust your browser settings or in some cases, use a new browser.
+If you are having some trouble logging in, the first thing you might want to try is signing out completely. 
+
+Otherwise, if you are having trouble logging into our service, you may need to adjust your browser settings or in some cases, use a new browser.
 
 |  | Compatible with Thunkable | Not compatible with Thunkable |
 | :--- | :--- | :--- |
