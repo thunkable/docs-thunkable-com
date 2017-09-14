@@ -5,6 +5,7 @@
   * [0 / FAQs](ios/faqs.md)
   * [1 / Idea](ios/idea.md)
   * [2 / Create](ios/create.md)
+    * [Login Issues](ios/components/login-issues.md)
     * [App Settings](ios/components/app-settings.md)
       * [Upload Media](ios/components/app-settings/upload-media.md)
     * [Components](ios/components/README.md)
