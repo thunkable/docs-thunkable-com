@@ -46,7 +46,7 @@ In terms of app building, here are some of the key differences that are not iOS-
 
 #### How much does it cost to use Thunkable for iOS? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
-Thunkable is completely free to use but it may not last forever -- get your app started today!
+Thunkable is free to use but we may charge for some additional features in the future. 
 
 ---
 

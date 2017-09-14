@@ -10,6 +10,10 @@ Common issues
 
 * You uploaded an icon that has the same name as an existing asset that you have uploaded
 
+Custom icon not showing
+
+* We recommend uploading an icon asset that is at least 200 px by 200 px
+
 ---
 
 ### `Publish`
