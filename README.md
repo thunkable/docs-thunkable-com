@@ -4,13 +4,11 @@
 
 **"I believe in life, liberty, and the pursuit of your own apps" **_- Barack Obeaver_
 
-> Thunkable empowers developers of the future to solve their own problems with the world's best technologies
-
 ---
 
 ## What is Thunkable?
 
-Thunkable is a drag and drop platform for building native, mobile apps on Android and now iOS. No coding required.
+Thunkable is platform where anyone can build their own mobile apps without having to code. Available on Android and iOS.
 
 Get familiar with our platforms and explore their features:
 
