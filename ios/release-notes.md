@@ -4,6 +4,14 @@
 
 ---
 
+#### Sep 15, 2017 `v14`
+
+Platform improvements
+
+* Added ability to upload custom icon for download
+
+---
+
 #### Sep 13, 2017 `v14`
 
 Platform improvements
