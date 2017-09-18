@@ -8,7 +8,7 @@
 
 Platform improvements
 
-* Custom icon and app name
+* [Custom icon and app name](/ios/components/app-settings/custom-icon-+-app-name.md)
 
 ---
 
