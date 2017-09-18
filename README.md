@@ -14,7 +14,7 @@ Thunkable is a drag and drop platform for building native, mobile apps on Androi
 
 Get familiar with our platforms and explore their features:
 
-#### **Thunkable for iOS ** \|** **[**Login**](https://ios.thunkable.com/#/login?_k=ptmhad)
+#### **Thunkable for iOS ** \|** **[**Login**](https://ios.thunkable.com)
 
 * Brand new platform for iOS featuring the same drag and drop, no code app building experience with live testing and a few added surprises
 
@@ -94,12 +94,7 @@ iOS 
 
 Android ❤
 
-* [Product overview](https://www.youtube.com/watch?v=hZ7z3t-98O0)
-* [Live testing](https://www.youtube.com/watch?v=igGYHXfgawQ)
-* Sample apps
-  * [Google maps ](https://www.youtube.com/watch?v=dXi55Rai7pQ)
-  * [Mobile responsive website](https://www.youtube.com/watch?v=dXi55Rai7pQ)
-  * [Interactive game](https://www.youtube.com/watch?v=OJAmgDQjS4Q&t=125s)
+* [Beginner](https://www.youtube.com/watch?v=QGzeUR__tmY&list=PLB89L9PPGIrxmB3GZXaxjK3Pq2Crqp14A)
 * Community
   * [Evolution of Chat](https://domhnallohanlon.gitbooks.io/the-evolution-of-chat/content/) by Domhnall O'Hanlon from Dublin, Ireland
 
