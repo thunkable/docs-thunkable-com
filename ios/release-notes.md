@@ -8,7 +8,7 @@
 
 Platform improvements
 
-* Added ability to upload custom icon for download
+* Custom icon and app name
 
 ---
 

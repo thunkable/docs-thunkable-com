@@ -7,6 +7,7 @@
   * [2 / Create](ios/create.md)
     * [Login Issues](ios/components/login-issues.md)
     * [App Settings](ios/components/app-settings.md)
+      * [Custom Icon + App Name](ios/components/app-settings/custom-icon-+-app-name.md)
       * [Upload Media](ios/components/app-settings/upload-media.md)
     * [Components](ios/components/README.md)
       * [Screen](ios/components/user-interface/screen.md)

@@ -8,10 +8,11 @@ Most iOS developers have to sign up for an [Apple Developer Program](https://dev
 
 Currently, it is possible to download** only one Thunkable app on your phone** at one time
 
+* [Add a Custom Icon and App Name](/ios/components/app-settings/custom-icon-+-app-name.md) \(optional\)
 * [Click the Download button](#1--click-the-download-button)
 * [Wait as it builds . . .](#2--wait-as-it-builds----typically-3-4-minutes) 
 * [Open email from Steve Jeaver to download app](#3--open-email-from-steve-jeaver-to-download-app)
-* [Open your iOS Settings app to Trust "Rappidly Inc" \(first time only\)](#step-1：-install-thunkables-live-testing-companion-app)
+* [Open your iOS Settings app to Trust "Rappidly Inc" ](#step-1：-install-thunkables-live-testing-companion-app)\(first time only\)
 
 ---
 
