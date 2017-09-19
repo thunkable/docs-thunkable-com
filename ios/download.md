@@ -6,7 +6,9 @@
 
 Most iOS developers have to sign up for an [Apple Developer Program](https://developer.apple.com/programs/) membership \(currently $99/year\) to download an app to their iPhone or iPad.  Thunkable is making it possible to download an iOS app made on Thunkable to your iPhone or iPad without a membership.
 
-Currently, it is possible to download** only one Thunkable app on your phone** at one time
+Currently, it is possible to download** only one Thunkable app on your phone. **
+
+**IMPORTANT: The link to download the app is only intended for your own use and will expire after 24 hours**
 
 * [Add a Custom Icon and App Name](/ios/components/app-settings/custom-icon-+-app-name.md) \(optional\)
 * [Click the Download button](#1--click-the-download-button)
@@ -28,7 +30,7 @@ Currently, it is possible to download** only one Thunkable app on your phone** a
 
 ### 3 / Open email from Steve Jeaver to download app
 
-![](/assets/dowloand-ios-fig-3.png)
+![](/assets/dowloand-ios-fig-3.png)**IMPORTANT: The link to download the app is only intended for your own use and will expire after 24 hours**
 
 ---
 
