@@ -93,8 +93,6 @@ iOS 
 Android ❤
 
 * [Beginner](https://www.youtube.com/watch?v=QGzeUR__tmY&list=PLB89L9PPGIrxmB3GZXaxjK3Pq2Crqp14A)
-* Community
-  * [Evolution of Chat](https://domhnallohanlon.gitbooks.io/the-evolution-of-chat/content/) by Domhnall O'Hanlon from Dublin, Ireland
 
 ---
 
