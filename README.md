@@ -92,7 +92,7 @@ iOS 
 
 Android ❤
 
-* [Beginner](https://www.youtube.com/watch?v=QGzeUR__tmY&list=PLB89L9PPGIrxmB3GZXaxjK3Pq2Crqp14A)
+* [Beginner](https://www.youtube.com/watch?v=QGzeUR__tmY&list=PLB89L9PPGIrxmB3GZXaxjK3Pq2Crqp14A) - brand new and really fun!
 
 ---
 
