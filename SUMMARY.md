@@ -6,6 +6,7 @@
   * [1 / Idea](ios/idea.md)
   * [2 / Create](ios/create.md)
     * [Login Issues](ios/components/login-issues.md)
+    * [App Limits](ios/components/app-limits.md)
     * [App Settings](ios/components/app-settings.md)
       * [Custom Icon + App Name](ios/components/app-settings/custom-icon-+-app-name.md)
       * [Upload Media](ios/components/app-settings/upload-media.md)
