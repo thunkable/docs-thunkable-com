@@ -12,7 +12,7 @@ Platform updates
 
 New blocks
 
-* Screen initialize
+* Screen Starts - triggers events when a screen first opens \(similar to Screen.Initialize in Android\)
 
 ---
 
