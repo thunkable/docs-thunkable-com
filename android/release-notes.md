@@ -10,10 +10,6 @@ Platform updates
 
 * Updated welcome message for new users
 
-Bug fixes
-
-* Floating Action Button \(FAB\) \(User Interface\) now supported on Android 4.4
-
 ---
 
 #### Sep 6, 2017 `v3.22`
