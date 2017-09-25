@@ -4,6 +4,14 @@
 
 ---
 
+#### Sep 25, 2017 `v3.23`
+
+Platform updates
+
+* Updated welcome message for new users
+
+---
+
 #### Sep 6, 2017 `v3.22`
 
 New components
@@ -11,7 +19,7 @@ New components
 * Floating Action Button \(FAB\) \(User Interface\) / [docs](/android/components/user-interface/fab-floating-action-button.md)
 * Push Notifications by One Signal on [beta.thunkable.com](https://beta.thunkable.com) \(Experimental\) / [docs](/android/components/push-notifications.md)
 
-Platform improvements
+Platform updates
 
 * Update default app icon
 * Added language support for Dutch and improve language support for Chinese / thanks MIT App Inventor team!

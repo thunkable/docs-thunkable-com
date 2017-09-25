@@ -4,9 +4,21 @@
 
 ---
 
+#### Sep 25, 2017 `v14`
+
+Platform updates
+
+* [Download to phone](https://docs.thunkable.com/ios/download.html#step-4-download) - link only active for 24 hours
+
+New blocks
+
+* Screen initialize
+
+---
+
 #### Sep 15, 2017 `v14`
 
-Platform improvements
+Platform updates
 
 * [Custom icon and app name](/ios/components/app-settings/custom-icon-+-app-name.md)
 
@@ -14,7 +26,7 @@ Platform improvements
 
 #### Sep 13, 2017 `v14`
 
-Platform improvements
+Platform updates
 
 * [Drag and drop to add components](https://docs.thunkable.com/ios/create.html#step-5：-add-app-components)
 * [Download to phone](//ios/download.md#step-4-download)
