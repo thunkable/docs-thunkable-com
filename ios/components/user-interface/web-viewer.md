@@ -4,7 +4,7 @@
 
 ---
 
-The simplest app you can make on Thunkable is an app with your favorite website wrapped within it![](/assets/webviewer-ios-1.png)
+The simplest app you can make on Thunkable is an app with your favorite website wrapped within it. You can use the WebViewer to add your favorite website or point to any uploaded html file![](/assets/webviewer-ios-1.png)
 
 ---
 
@@ -12,7 +12,7 @@ The simplest app you can make on Thunkable is an app with your favorite website 
 
 | Property | Description |
 | :--- | :--- |
-| URL | Accepts website or image urls that must include 'https://' or 'http://'. Can also accept image \(e.g. .png\) that have been uploaded to the app project |
+| URL | Accepts website or image urls that must include 'https://' or 'http://'. Can also accept image \(e.g. .png\) that have been uploaded to the app project and .html files |
 | Reload | Reloads the webpage |
 
 ---
