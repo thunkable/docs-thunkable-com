@@ -10,6 +10,8 @@ One of Thunkable's coolest features is the ability to change and update your app
 * [Sync your app with your project](#2--sync-your-app-with-your-project)
 * [See your changes live in your app](#3--see-your-changes-reflected-live-in-your-app)
 
+IMPORTANT: Your computer and app no longer have to be on the same Wi-Fi on iOS, which is a requirement for Thunkable for Android
+
 ---
 
 ### 1 / [Install Thunkable’s Live Testing app](http://appstore.com/thunkablelive)
