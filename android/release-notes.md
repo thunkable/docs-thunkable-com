@@ -16,8 +16,8 @@ Platform updates
 
 New components
 
-* Floating Action Button \(FAB\) \(User Interface\) / [docs](/android/components/user-interface/fab-floating-action-button.md)
-* Push Notifications by One Signal on [beta.thunkable.com](https://beta.thunkable.com) \(Experimental\) / [docs](/android/components/push-notifications.md)
+* [Floating Action Button](/android/components/user-interface/fab-floating-action-button.md) \(FAB\) \(User Interface\)
+* [Push Notifications by One Signal](/android/components/push-notifications.md) on [beta.thunkable.com](https://beta.thunkable.com) \(Experimental\)
 
 Platform updates
 
@@ -42,7 +42,7 @@ Bug fixes
 
 New feature
 
-* Canvas Pinch to Scale / [docs](/android/components/gaming/canvas.md)
+* [Canvas](/android/components/gaming/canvas.md) Pinch to Scale
 
 Bug fixes
 
@@ -54,7 +54,7 @@ Bug fixes
 
 New feature
 
-* Cloudinary Audio and Video file support / [docs](/android/components/storage/cloudinary-db.md)
+* [Cloudinary](/android/components/storage/cloudinary-db.md) Audio and Video file support
 
 ---
 
