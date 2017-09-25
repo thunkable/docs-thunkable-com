@@ -21,7 +21,7 @@ Control blocks are used for placing conditions on when things happen, repeating 
 
 \(a\) **If condition is true, starts event** Tests a given condition. `If` the condition is true, performs the actions in a given sequence of blocks; otherwise, the blocks are ignored
 
-\(b\) **If condition is true, starts one event, another if false **Tests a given condition.` If` the result is true, performs the actions in the `-do` sequence of blocks; otherwise, performs the actions in the `-else` sequence of blocks
+\(b\) **If condition is true, starts one event, another if false **Tests a given condition.`If` the result is true, performs the actions in the `-do` sequence of blocks; otherwise, performs the actions in the `-else` sequence of blocks
 
 \(c\) **If first condition is true, starts one event, if second condition is true, starts second event, third if both are false** Tests a given condition. `If` the result is true, performs the actions in the `-do` sequence of blocks; otherwise tests the statement in the `-else if` section. If the result is true, performs the actions in the `-do` sequence of blocks; otherwise, performs the actions in the -else sequence of blocks
 
@@ -51,7 +51,7 @@ Control blocks are used for placing conditions on when things happen, repeating 
 
 #### Navigate between screens
 
-\(a\) ![](/assets/control-blocks-11.png)\(b\) ![](/assets/control-blocks-15.png) \(c\) ![](/assets/control-blocks-13.png)
+\(a\) ![](/assets/control-blocks-11.png)\(b\) ![](/assets/control-blocks-13.png)![](/assets/control-blocks-15.png) \(c\) ![](/assets/control-blocks-15.png)
 
 \(a\) **Opens the screen** with the provided name
 
