@@ -26,5 +26,3 @@ Image components display images from the web or that you've [uploaded to your ap
 
 
 
-
-

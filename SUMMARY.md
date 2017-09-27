@@ -16,7 +16,7 @@
         * [Drawer](ios/components/user-interface/navigators/drawer-navigator.md)
         * [Tab](ios/components/user-interface/navigators/tab.md)
         * [Stack](ios/components/user-interface/navigators/stack.md)
-      * [Layout](ios/components/layout.md)
+      * [Layout](ios/components/layout/README.md)
         * [Row](ios/components/layout/row.md)
         * [Column](ios/components/layout/column.md)
       * [User Interface](ios/components/user-interface/README.md)
