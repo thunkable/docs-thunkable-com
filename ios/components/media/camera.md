@@ -4,7 +4,7 @@
 
 ---
 
-The Camera component not only launches a phone's camera but can also control its flash as a light
+The Camera component launches the camera on your iPhone or iPad
 
 ---
 
@@ -12,7 +12,7 @@ The Camera component not only launches a phone's camera but can also control its
 
 | Property | Description |
 | :--- | :--- |
-| Take Picture | Opens the phone's camera |
+| Take Picture | Opens the camera |
 | After Picture \(image\) | Called after picture is taken where image is the path where the `image` is stored on the phone |
 
 ---
