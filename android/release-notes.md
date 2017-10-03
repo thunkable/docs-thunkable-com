@@ -4,6 +4,14 @@
 
 ---
 
+#### Oct 2, 2017 `v3.24`
+
+Component updates
+
+* Improved [Floating Action Button](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) \(FAB\) support for devices &lt;5.0 and support for landscape mode
+
+---
+
 #### Sep 25, 2017 `v3.23`
 
 Platform updates
