@@ -8,7 +8,7 @@
 
 Component updates
 
-* Improved [Floating Action Button](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) \(FAB\) support for devices &lt;5.0 and support for landscape mode
+* Improved Floating Action Button \(FAB\) support for devices &lt;5.0 and support for landscape mode
 
 ---
 
