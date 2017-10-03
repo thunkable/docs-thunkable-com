@@ -8,7 +8,7 @@ Floating Action Buttons are circular Material Design standard buttons that repre
 
 We want to give a big thank you to our awesome Power Thunkers [@pavi2140](https://community.thunkable.com/t/fab-extension-material-ui-feature/3488) and [@Andres\_Cotes](https://community.thunkable.com/t/fab-with-material-icon-ttf-paid-extension/4712) for their amazing FAB extensions which were the inspirations for how we designed this component.
 
-Note: The Floating Action Button is not yet visible on the Phone Previewer when you add it to your app. It is visible during Live Testing and when you Export your app. For the best performance, please set the Screen Orientation to Portrait otherwise the FAB will disappear.
+Note: The Floating Action Button is not yet visible on the Phone Previewer when you add it to your app. It is visible during Live Testing and when you Export your app.
 
 * [Set Screen Orientation to 'Portrait'](#set-screen-orientation-to-portrait)
 * [Position your FAB](#position-your-fab)
