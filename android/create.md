@@ -39,7 +39,7 @@ You can change your App Name to be different than your Project Name \(otherwise 
 
 ### 4 / **Add app component\(s\)** {#step-5：-add-app-components}
 
-As you create your app, there are some [app limits](#limits) to be aware of that will hopefully help you avoid problems in the future e.g. crashing, building issues
+As you create your app, there are some [app limits](/android/app-limits.md) to be aware of that will hopefully help you avoid problems in the future e.g. crashing, building issues
 
 ![](/assets/add-blocks.png)
 
