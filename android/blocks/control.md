@@ -51,7 +51,7 @@ Control blocks are used for placing conditions on when things happen, repeating 
 
 #### Navigate between screens
 
-\(a\) ![](/assets/control-blocks-11.png)\(b\) ![](/assets/control-blocks-13.png)![](/assets/control-blocks-15.png) \(c\) ![](/assets/control-blocks-15.png)
+\(a\) ![](/assets/control-blocks-11.png)\(b\) ![](/assets/control-blocks-13.png) \(c\) ![](/assets/control-blocks-15.png)
 
 \(a\) **Opens the screen** with the provided name
 
