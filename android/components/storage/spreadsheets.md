@@ -20,13 +20,15 @@ The sample app [First Bus Map of Dhaka](#) features mapping data stored in a Goo
 
 #### Set up
 
-1. First [follow these instructions](https://www.youtube.com/watch?v=OfZE4zSd4h8) to create an account an a Spreadsheet API with Cloudstitch
-2. After you create a Spreadsheet, you should get a screen that looks like the one below. Select 'Edit in Google'![](/assets/spreadsheets-fig-1.png)
+1. First create an account with [Cloudstitch](https://cloudstitch.com/) and create a new project.
+2. Select 'Widget', 'Spreadsheet API' and 'Google Drive'.![](/assets/spreadsheet-fig-3.png)
 3. Add your data to the Spreadsheet with columnNames in the first row. Please do not include spaces in your columnNames or in your Sheet Name. **Important note**: Spreadsheets does not currently work if your cells contain a “,” or “:” in the cells that are being retrieved.  More info on the [current workaround here](https://community.thunkable.com/t/handling-and-in-cloudstitch-data/1879) from Domnhall in our community
-   ![](/assets/spreadsheets-fig-2.png)
-4. Make sure to hit 'Sync to Template' every time you refresh your data. Your app is likely to crash if you do not follow this step![](/assets/spreadsheets-fig-3.png)
-5. Go to Thunkable and add the API Endpoint that you see in Cloudstitch BUT remember to exclude `/datasources/sheet` and include `dev?=true` to the end of the given url. For example, if the Cloudstitch API endpoint is `https://api.cloudstitch.com/alberthunkable/sf-trees/datasources/sheet`, the API endpoint you want to enter into Thunkable is `https://api.cloudstitch.com/alberthunkable/sf-trees/dev?=true`![](/assets/spreadsheets-fig-4.png)
-6. Add the Sheet Name.  You're all set!
+
+![](/assets/spreadsheets-fig-2.png)
+
+1. Make sure to hit 'Sync to Template' every time you refresh your data. Your app is likely to crash if you do not follow this step![](/assets/spreadsheets-fig-3.png)
+2. Go to Thunkable and add the API Endpoint that you see in Cloudstitch BUT remember to exclude `/datasources/sheet` and include `dev?=true` to the end of the given url. For example, if the Cloudstitch API endpoint is `https://api.cloudstitch.com/alberthunkable/sf-trees/datasources/sheet`, the API endpoint you want to enter into Thunkable is `https://api.cloudstitch.com/alberthunkable/sf-trees/dev?=true`![](/assets/spreadsheets-fig-4.png)
+3. Add the Sheet Name.  You're all set!
 
 | Property | Description |
 | :--- | :--- |
@@ -74,8 +76,6 @@ If your app is crashing, then most likely:
 
 * You have not hit 'Sync to Template' every time you refresh your data on the Cloudstitch interface \(see step 3 of [Set up](#set-up)\)
 * Spreadsheets does not currently work if your cells contain a “,” or “:” in the cells that are being retrieved. More info on the [current workaround here](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) from Domnhall in our community if you do have them
-
-
 
 
 
