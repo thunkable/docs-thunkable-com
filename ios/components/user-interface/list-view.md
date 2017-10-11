@@ -8,7 +8,13 @@ List Viewer components give users the option of selecting from a list of items !
 
 ---
 
-#### Name the elements in the list
+#### Add items to a List Viewer
+
+![](/assets/listview-ios-fig-2.png)
+
+---
+
+#### Name the elements in the List Viewer
 
 | Property | Description |
 | :--- | :--- |
