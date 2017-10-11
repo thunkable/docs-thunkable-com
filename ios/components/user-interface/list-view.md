@@ -10,6 +10,8 @@ List Viewer components give users the option of selecting from a list of items !
 
 #### Add items to a List Viewer
 
+First create a listview variable and set it to certain elements when the Screen Starts. When a user enters an item in a Textbox, adds it to the List View when a button is pressed.
+
 ![](/assets/listview-ios-fig-2.png)
 
 ---
