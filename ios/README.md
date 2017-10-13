@@ -4,6 +4,10 @@
 
 "**Thunk different" **_- Steve Jeaver_
 
+#### [Watch our new iOS overview tutorial](https://www.youtube.com/watch?v=x3Dj-TwcqX4&list=PLB89L9PPGIrza15zlTcSiPbeSGMOOOPqg)
+
+---
+
 ### 5 Steps to Becoming a Developer of the Future
 
 | [Step 1 `Idea`](/ios/idea.md) | [Step 2 `Create`](/ios/create.md) | [Step 3 `Test Live`](/ios/live-test.md) | [Step 4`Download`](//ios/download.md#step-4-download) | Step 5 `Publish` |

@@ -88,7 +88,7 @@ If it's your first time here, we recommend that you get started with some of our
 
 iOS 
 
-* Coming soon!
+* [Introduction](https://www.youtube.com/watch?v=x3Dj-TwcqX4&list=PLB89L9PPGIrza15zlTcSiPbeSGMOOOPqg)
 
 Android ❤
 
