@@ -24,9 +24,7 @@ Yes, Thunkable for Android is compatible with MIT App Inventor.  You can import 
 
 #### I heard there is a beta platform for Thunkable. How do I sign up? {#does-thunkable-build-native-ios-apps}
 
-[Just go to this link](https://beta.thunkable.com) and you should be able to access all the components that are in development\* -- no sign-up is required. IMPORTANT: Please note that the features on the beta platform are still in development mode, so they might change in the future, so definitely try it as soon as you can!
+The beta features\* have all grown up and graduated to the Thunkable for Android platform. As a result, the Thunkable beta platform is retiring on December 31, 2017.  If you have any project\(s\) on the beta platform that you'd like to keep, please [follow these instructions](/android/beta-migrate.md) to move then over.
 
 \*[AdMob](/android/components/monetisation/admob.md) and [Push Notifications](/android/components/push-notifications.md)
-
-
 

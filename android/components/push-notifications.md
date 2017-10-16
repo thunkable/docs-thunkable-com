@@ -1,4 +1,4 @@
-| `Push Notifications are now available on our `[`regular Thunkable platform`](https://app.thunkable.com/)`. The Thunkable beta platform will be deprecated on Dec 31, 2017 so please `[`follow these instructions`](/android/beta-import.md)` to move your project(s) over before then.` |
+| `Push Notifications are now available on our Thunkable for Android platform. The Thunkable beta platform will be gently retired on Dec 31, 2017. Please `[`follow these instructions`](/android/beta-migrate.md)` to move your project(s) over before then.` |
 | :--- |
 
 

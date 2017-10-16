@@ -4,7 +4,7 @@
 
 ---
 
-**IMPORTANT: Thunkable has upgraded all its beta features to its main platform. As a result, Thunkable for Android beta \(**[**beta.thunkable.com**](https://beta.thunkable.com)**\) will be shutting down on December 31, 2017.  Please migrate all your projects to the main platform by following the instructions below.**
+**`IMPORTANT: Thunkable has graduated all its beta features to the Thunkable for Android platform. As a result, the Thunkable  beta platform (`**[**`beta.thunkable.com`**](https://beta.thunkable.com)**`) will be gently retiring on December 31, 2017.  We kindly ask you to please move over all your project(s) before then.`**
 
 | Importing an unpublished app project | Importing an app published on the Google Play store |
 | :--- | :--- |
