@@ -120,7 +120,6 @@
       * [Backpack](android/blocks/backpack.md)
     * [Extensions](android/extensions.md)
     * [Import from App Inventor](android/ai-import.md)
-    * [Migrating from Beta](android/beta-migrate.md)
   * [3 / Test Live](android/live-test.md)
     * [Test via USB](android/live-test-usb.md)
     * [Test via Emulator](android/live-test-emulator.md)
@@ -129,4 +128,5 @@
   * [Troubleshooting](android/troubleshooting.md)
   * [Pro Tips](android/pro-tips.md)
   * [Release Notes](android/release-notes.md)
+  * [Migrating from Beta](android/beta-migrate.md)
 
