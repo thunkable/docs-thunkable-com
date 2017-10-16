@@ -154,7 +154,8 @@ The CheckBox is the simplest of menus because it has a single element that can b
 | Height | Height in pixels, percent, 'Automatic' or 'Fill' |
 | Width | Width in pixels, percent, 'Automatic' or 'Fill' |
 | Text | Text to display next to the CheckBox. |
-| Text Color | Text color of the label next to the CheckBox. Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Text Color | Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Outline Color | Default \(Material Light Green\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Visible | If checked, the Listpicker button will be visible on the screen |
 
 

@@ -6,7 +6,7 @@
 
 Textboxes are a popular input component especially in apps with forms and login pages.
 
-A Password Text Box is the same as a TextBox component, except that it displays an encoded character \* instead of the characters typed by the user. 
+A Password Text Box is the same as a TextBox component, except that it displays an encoded character \* instead of the characters typed by the user.
 
 An Email Picker is a TextBox that pre-populates email addresses within a user's contacts as the user begins to type
 
@@ -30,6 +30,7 @@ An Email Picker is a TextBox that pre-populates email addresses within a user's 
 | Width | Width in pixels, percent, 'Automatic' or 'Fill' |
 | Background Color | Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Text Color | Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Underline Color | Default \(Material Light Green\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Text Alignment | Left, center \(recommended\) or right |
 | Font Bold | If checked, text is displayed in **bold** |
 | Font Italic | If checked, text is displayed in _italic_ |

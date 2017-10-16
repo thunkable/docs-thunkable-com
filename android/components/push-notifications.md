@@ -1,4 +1,4 @@
-| \*`Push Notifications are only available on our`[`Thunkable for Android beta platform`](http://beta.thunkable.com/)`, our platform for testing out new features on the Thunkable platform. IMPORTANT: Please note that the features on the beta platform are still in development mode, so they might change in the future, so definitely try it as soon as you can!` |
+| `Push Notifications are now available on our `[`regular Thunkable platform`](https://app.thunkable.com/)`. The Thunkable beta platform will be deprecated on Dec 31, 2017 so please `[`follow these instructions`](/android/beta-import.md)` to move your project(s) over before then.` |
 | :--- |
 
 

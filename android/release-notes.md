@@ -4,6 +4,21 @@
 
 ---
 
+#### Oct 16, 2017 `v3.25`
+
+New components
+
+* [AdMob Banner and Interstitial](/android/components/monetisation/admob.md) components have been upgraded to the [main platform](http://app.thunkable.com/login/) \(Experimental\)
+* [Push Notifications by One Signal](/android/components/push-notifications.md) component has been upgraded to the [main platform](http://app.thunkable.com/login/) \(Experimental\)
+
+Component updates
+
+* Bug fix for "mini" Floating Action Button \(FAB\) size
+* New underline color property for [TextBox](/android/components/user-interface/textbox.md) and [Password TextBox](/android/components/user-interface/textbox.md)
+* New outline color property for [CheckBox](/android/components/user-interface/listpicker.md)
+
+---
+
 #### Oct 2, 2017 `v3.24`
 
 Component updates
