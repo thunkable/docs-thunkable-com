@@ -24,6 +24,12 @@ Screens are the pages of an app. We designed Thunkable for iOS to support simple
 
 ---
 
+#### Navigate between two Screens
+
+![](/assets/screen-ios-fig-1.png)
+
+---
+
 #### Edit appearance of Screens within a Navigator
 
 ##### Drawer Navigator
