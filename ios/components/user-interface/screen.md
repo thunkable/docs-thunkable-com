@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Screen
+# Screen ![](/assets/screen-ios-icon.png)
 
 ---
 

@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Web Viewer ![](/assets/webviewer-icon-ios.png)
+# Web Viewer ![](/assets/webviewer-ios-icon.png)
 
 ---
 

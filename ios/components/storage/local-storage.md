@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Local Storage \(aka Tiny DB\)
+# Local Storage \(aka Tiny DB\) ![](/assets/local-storage-ios-icon.png)
 
 ---
 
@@ -25,6 +25,4 @@ Local Storage is an invisible component which means there are no visible element
 #### Get data from Local Storage
 
 ![](/assets/local-storage-ios-3.png)
-
-
 

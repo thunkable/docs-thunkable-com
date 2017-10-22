@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Maps ![](/assets/maps-icon-ios.png)
+# Maps ![](/assets/maps-ios-icon.png)
 
 ---
 

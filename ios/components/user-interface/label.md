@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Label ![](/assets/label-icon-ios.png)
+# Label ![](/assets/label-ios-icon.png)
 
 ---
 

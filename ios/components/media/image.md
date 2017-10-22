@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Image ![](/assets/image-icon-ios.png)
+# Image ![](/assets/image-ios-icon.png)
 
 ---
 

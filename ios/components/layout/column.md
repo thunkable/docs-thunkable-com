@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Column \(aka Vertical Arrangement\)
+# Column \(aka Vertical Arrangement\) ![](/assets/column-ios-icon.png)
 
 ---
 
@@ -30,6 +30,4 @@ Container components are containers that can arrange elements vertically within 
 #### Align the elements horizontally \(Alignment\)
 
 ![](/assets/column-ios-3.png)
-
-
 
