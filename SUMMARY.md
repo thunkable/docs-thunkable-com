@@ -29,7 +29,7 @@
         * [Maps](ios/components/location/maps.md)
       * [Storage](ios/components/storage/README.md)
         * [Local Storage](ios/components/storage/local-storage.md)
-        * [Real Time DB](ios/components/storage/real-time-db.md)
+        * [Realtime DB](ios/components/storage/realtime-db.md)
       * [Media](ios/components/media/README.md)
         * [Image](ios/components/media/image.md)
         * [Camera](ios/components/media/camera.md)
