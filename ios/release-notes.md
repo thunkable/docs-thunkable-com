@@ -14,7 +14,7 @@ New components
 
 New blocks
 
-* Objects to power 
+* [Objects](/ios/blocks/objects.md) blocks to power formatting data retrieved from outside Web services APIs
 
 ---
 
