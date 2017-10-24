@@ -4,7 +4,7 @@
 
 ---
 
-#### Oct 23, 2017 `v17`
+#### Oct 24, 2017 `v17`
 
 New components
 
