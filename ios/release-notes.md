@@ -4,21 +4,21 @@
 
 ---
 
-#### Oct 23, 2017 `v15`
+#### Oct 23, 2017 `v17`
 
 New components
 
-* [Camera](/ios/components/media/camera.md)
-* [Photo Library](/ios/components/media/photo-library.md) aka Image Picker
-* [Realtime DB](/ios/components/storage/realtime-db.md) powered by Firebase
+* [Camera](/ios/components/media/camera.md) to take photos
+* [Photo Library](/ios/components/media/photo-library.md) aka Image Picker to select photos from the device
+* [Realtime DB](/ios/components/storage/realtime-db.md) powered by Firebase to save and retrieve data in a cloud database and update data in realtime 
 
 New blocks
 
-* Object
+* Objects to power 
 
 ---
 
-#### Sep 25, 2017 `v14`
+#### Sep 25, 2017 `v16`
 
 Platform updates
 
@@ -30,7 +30,7 @@ New blocks
 
 ---
 
-#### Sep 15, 2017 `v14`
+#### Sep 15, 2017 `v15`
 
 Platform updates
 
