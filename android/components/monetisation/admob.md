@@ -1,4 +1,4 @@
-| `AdMob is now available on our Thunkable for Android platform. The Thunkable beta platform will be gently retired on Dec 31, 2017. Please `[`follow these instructions`](/android/beta-migrate.md)` to move your project(s) over before then. For AdMob, Thunkable also reserves the right to charge a maintenance fee of 5% of the ad revenue generated for use of the AdMob component. ` |
+| `AdMob is now available on our Thunkable for Android platform. The Thunkable beta platform will be gently retired on Dec 31, 2017. Please`[`follow these instructions`](/android/beta-migrate.md)`to move your project(s) over before then. For AdMob, Thunkable also reserves the right to charge a maintenance fee of 5% of the ad revenue generated for use of the AdMob component.` |
 | :--- |
 
 
@@ -33,9 +33,7 @@ There is a bit of set-up required to start making money with AdMob.  The step th
 1. [Go to AdMob](https://www.google.com/admob/) and create an account 
 2. Add an existing app on Google Play or one that is not yet published ![](/assets/admob-fig-3.png)![](/assets/admob-fig-4.png)![](/assets/admob-fig-5.png)![](/assets/admob-fig-6.png)
 3. Create an ad unit and find your Ad Unit ID to copy into Thunkable  ![](/assets/admob-fig-7.png)![](/assets/admob-fig-8.png)![](/assets/admob-fig-9.png)
-4. Go to the beta Set the Screen Size on Thunkable Screen1 to 'Responsive' ![](/assets/admob-fig-10.png)
-5. Import your existing project \(.aia\) onto the Beta platform ![](/assets/admob-fig-11.png)
-6. \(Optional\) If you are updating an app already uploaded to the Google Play Store, you will have to 'Export keystore' from your current app and 'Import keystore' into your new app
+4. Set the Screen Size on Thunkable Screen1 to 'Responsive' ![](/assets/admob-fig-10.png)
 
 ---
 
