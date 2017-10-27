@@ -58,9 +58,9 @@ The POST request creates a new field of data whereas the PUT request can update 
 
 #### Deleting data from a web server using HTTP DELETE
 
-|  | Event | Description |
-| :--- | :--- | :--- |
-| Delete | Performs an HTTP DELETE request using the Url property and retrieves the response. If the Save Response property is 'true', the response will be saved in a file and the Got File event will be triggered. The Response File Name property can be used to specify the name of the file. If the Save Response property is 'false', the GotText event will be triggered |  |
+| Event | Description |
+| :--- | :--- |
+| Delete | Performs an HTTP DELETE request using the Url property and retrieves the response. If the Save Response property is 'true', the response will be saved in a file and the Got File event will be triggered. The Response File Name property can be used to specify the name of the file. If the Save Response property is 'false', the GotText event will be triggered |
 
 
 
