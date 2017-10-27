@@ -12,14 +12,14 @@ We recommend this component for more advanced users since it requires both conne
 
 #### Web API service settings
 
-|  | Property / Event | Description |
-| :--- | :--- | :--- |
-|  | Url | The url for the web request |
-|  | Allow Cookies | If 'true', saves cookies from a response and used in subsequent requests. We recommend setting to true if you want to avoid having to login in each time you send a request |
-|  | Clear Cookies | Clears all cookies for this component |
-|  | Save Response | If 'true', indicates whether the response should be saved in a file |
-|  | Response File Name | The name of the file where the response should be saved. If Save Response is true and Response File Name is empty, then a new file name will be generated |
-| Request Headers | The request headers, as a list of two-element sublists. The first element of each sublist represents the request header field name. The second element of each sublist represents the request header field values, either a single value or a list containing multiple values |  |
+| Property / Event | Description |
+| :--- | :--- |
+| Url | The url for the web request |
+| Allow Cookies | If 'true', saves cookies from a response and used in subsequent requests. We recommend setting to true if you want to avoid having to login in each time you send a request |
+| Clear Cookies | Clears all cookies for this component |
+| Save Response | If 'true', indicates whether the response should be saved in a file |
+| Response File Name | The name of the file where the response should be saved. If Save Response is true and Response File Name is empty, then a new file name will be generated |
+| Request Headers | The request headers, as a list of two-element sublists. The first element of each sublist represents the request header field name. The second element of each sublist represents the request header field values, either a single value or a list containing multiple values |
 
 ---
 
