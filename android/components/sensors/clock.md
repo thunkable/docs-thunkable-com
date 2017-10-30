@@ -71,7 +71,7 @@ The Clock component uses the internal clock on a phone to both set a Timer \(to 
 | Duration To Minutes \(duration\) | Converts the duration to the number of minutes |
 | Duration To Hours \(duration\) | Converts the duration to the number of hours |
 | Duration To Days \(duration\) | Converts the duration to the number of days |
-|  | Duration To Weeks \(duration\) |
+| Duration To Weeks \(duration\) | Converts the duration to the number of weeks |
 
 
 
