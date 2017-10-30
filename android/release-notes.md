@@ -4,6 +4,14 @@
 
 ---
 
+#### Oct 30, 2017 `v3.26`
+
+Component updates
+
+* Bug fix for visibility issue for Floating Action Button \(FAB\)
+
+---
+
 #### Oct 16, 2017 `v3.25`
 
 New components

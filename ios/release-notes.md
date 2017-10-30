@@ -4,7 +4,7 @@
 
 ---
 
-#### Oct 24, 2017 `v17`
+#### Oct 30, 2017 `v18`
 
 New components
 
@@ -15,6 +15,10 @@ New components
 New blocks
 
 * [Objects](/ios/blocks/objects.md) blocks to power formatting data retrieved from outside Web services APIs
+
+Platform improvements
+
+* Add assets by dragging and dropping media to any part of Thunkable platform view
 
 ---
 
