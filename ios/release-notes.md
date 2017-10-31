@@ -4,7 +4,7 @@
 
 ---
 
-#### Oct 30, 2017 `v18`
+#### Oct x, 2017 `vx`
 
 New components
 
@@ -18,7 +18,7 @@ New blocks
 
 Platform improvements
 
-* Add assets by dragging and dropping media to any part of Thunkable platform view
+* [Add assets](/ios/components/app-settings/upload-media.md) by dragging and dropping media to any part of Thunkable platform view
 
 ---
 
