@@ -8,5 +8,11 @@ Thunkable for iOS supports uploading your favorite media files -- images, images
 
 **IMPORTANT: The current app size limit is 25 MB**
 
+#### Drag and drop any media file onto any part of the Thunkable platform page. It will appear in the Assets section of your app.
+
+![](/assets/add-media-ios.gif)
+
+#### You can also navigate to the Assets section of your app and add a file there.
+
 ![](/assets/upload-media-ios-1.gif)
 
