@@ -6,6 +6,8 @@
 
 The Photo Library component allows users to select an image from their Photo Library
 
+![](/assets/photo-library-ios-fig-2.png)
+
 ---
 
 #### Selecting a Photo

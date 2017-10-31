@@ -4,7 +4,9 @@
 
 ---
 
-The Camera component launches the camera
+The Camera component launches the iPhone or iPad camera
+
+![](/assets/camera-ios-fig-2.png)
 
 ---
 
