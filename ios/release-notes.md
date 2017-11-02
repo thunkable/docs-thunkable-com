@@ -4,7 +4,7 @@
 
 ---
 
-#### Oct x, 2017 `vx`
+#### Nov 2, 2017 `v18`
 
 New components
 
@@ -18,7 +18,8 @@ New blocks
 
 Platform improvements
 
-* [Add assets](/ios/components/app-settings/upload-media.md) by dragging and dropping media to any part of Thunkable platform view
+* [Add assets](/ios/components/app-settings/upload-media.md) by dragging and dropping media to any part of Thunkable platform
+* Drag and drop components and blocks from any tablet or smartphone
 
 ---
 
