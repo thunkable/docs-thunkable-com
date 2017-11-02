@@ -6,6 +6,11 @@
 
 #### Nov 2, 2017 `v18`
 
+Platform improvements
+
+* Tablet and smartphone support for drag and drop of components and blocks
+* [Upload media](/ios/components/app-settings/upload-media.md) by dragging and dropping files to any part of Thunkable platform screen
+
 New components
 
 * [Camera](/ios/components/media/camera.md) to take photos
@@ -15,11 +20,6 @@ New components
 New blocks
 
 * [Objects](/ios/blocks/objects.md) blocks to power formatting data retrieved from outside Web services APIs
-
-Platform improvements
-
-* [Add assets](/ios/components/app-settings/upload-media.md) by dragging and dropping media to any part of Thunkable platform
-* Drag and drop components and blocks from any tablet or smartphone
 
 ---
 
