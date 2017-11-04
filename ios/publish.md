@@ -1,7 +1,3 @@
-| \*`Publishing to the App Store is not yet available. Stay tuned!` |
-| :--- |
-
-
 #### **Thunkable for iOS **
 
 # Step 5 `Publish`

@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Web API 
+# Web API ![](/assets/web-api-ios-icon.png)
 
 ---
 

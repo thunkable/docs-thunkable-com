@@ -8,7 +8,7 @@
 
 Platform improvements
 
-* Publish your app to the App Store
+* [Publish](/ios/publish.md) your app to the App Store
 
 New components
 
@@ -16,7 +16,7 @@ New components
 
 Component updates
 
-* [Text Input](/ios/blocks/objects.md) - 
+* [Text Input](/ios/components/user-interface/text-input.md) - added ability to accept numbers only, email addresses or open the phone keypad
 
 ---
 

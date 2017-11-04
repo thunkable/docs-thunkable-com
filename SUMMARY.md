@@ -47,6 +47,7 @@
       * [Functions](ios/blocks/functions.md)
   * [3 / Test Live](ios/live-test.md)
   * [4 / Download](/ios/download.md#step-4-download)
+  * [5 / Publish](ios/publish.md)
   * [Troubleshooting](ios/troubleshooting.md)
   * [Release Notes](ios/release-notes.md)
 * [❤ Thunkable Android](android/README.md)
