@@ -1,7 +1,7 @@
 # Summary
 
 * [Home](README.md)
-* [ Thunkable for iOS](ios/README.md)
+* [ Thunkable iOS](ios/README.md)
   * [0 / FAQs](ios/faqs.md)
   * [1 / Idea](ios/idea.md)
   * [2 / Create](ios/create.md)
@@ -48,7 +48,7 @@
   * [4 / Download](/ios/download.md#step-4-download)
   * [Troubleshooting](ios/troubleshooting.md)
   * [Release Notes](ios/release-notes.md)
-* [❤ Thunkable for Android](android/README.md)
+* [❤ Thunkable Android](android/README.md)
   * [0 / FAQs](android/faqs.md)
   * [1 / Idea](android/idea.md)
   * [2 / Create](android/create.md)
