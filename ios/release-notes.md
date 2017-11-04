@@ -4,6 +4,22 @@
 
 ---
 
+#### Nov x, 2017 `v19`
+
+Platform improvements
+
+* Publish your app to the App Store
+
+New components
+
+* [Web API](/ios/components/storage/web-api.md) to retrieve and post data to your favorite web services
+
+Component updates
+
+* [Text Input](/ios/blocks/objects.md) - 
+
+---
+
 #### Nov 2, 2017 `v18`
 
 Platform improvements
@@ -19,7 +35,7 @@ New components
 
 New blocks
 
-* [Objects](/ios/blocks/objects.md) blocks to power formatting data retrieved from outside Web services APIs
+* [Objects](/ios/blocks/objects.md) blocks to format data retrieved from outside Web services APIs
 
 ---
 
