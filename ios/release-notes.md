@@ -4,11 +4,7 @@
 
 ---
 
-#### Nov x, 2017 `v19`
-
-Platform improvements
-
-* [Publish](/ios/publish.md) your app to the App Store
+#### Nov 6, 2017 `v19`
 
 New components
 
@@ -16,6 +12,7 @@ New components
 
 Component updates
 
+* Button  - additional styling options - 
 * [Text Input](/ios/components/user-interface/text-input.md) - hides keyboard when user hits return or clicks outside the keyboard; also adds ability to accept numbers only, email addresses or open the phone keypad
 
 ---

@@ -10,12 +10,20 @@ Buttons are a key input for many apps and one of the most popular components on 
 
 #### Style your button
 
-Currently there are limited options for styling your button.  We are hoping to add more very soon.
+`true`
 
 | Property | Description |
 | :--- | :--- |
 | Text | Optional text that appears on the button |
-| Color | Default \(none\). Select any color using the color picker, RGBA or HEX value |
+| Text Color | Default \(none\). Select any color using the color picker, RGBA or HEX value |
+| Font Bold | If `true`, text font will be **bold ** |
+| Font Italic | If `true`, text font will be _italic_ |
+| Font Size | Default \(16\) |
+| Background Color | Default \(none\). Select any color using the color picker, RGBA or HEX value |
+| Outline | If `true`, button will have a black border |
+| Raised | If `true`, button will be raised |
+| Corner Radius | Determines if the button corners are rounded. Default set to 0, which indicates corner radius is not rounded |
+| Disabled | If `true`, button will be disabled |
 
 ---
 
@@ -24,6 +32,10 @@ Currently there are limited options for styling your button.  We are hoping to a
 | Event | Description |
 | :--- | :--- |
 | Click | User tapped and releases the button |
+| Long Click | User holds the button down |
+| Touch Up | User gently presses the button |
+| Touch Down | User releases the button |
+| Disabled | If `true`, button will be disabled |
 
 
 
