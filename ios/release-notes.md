@@ -12,7 +12,7 @@ New components
 
 Component updates
 
-* Button  - additional styling options - 
+* [Button](/android/components/user-interface/button.md)  - additional styling options like background color, text size; also adds long click, touch up and touch down events
 * [Text Input](/ios/components/user-interface/text-input.md) - hides keyboard when user hits return or clicks outside the keyboard; also adds ability to accept numbers only, email addresses or open the phone keypad
 
 ---
