@@ -16,7 +16,7 @@ New components
 
 Component updates
 
-* [Text Input](/ios/components/user-interface/text-input.md) - added ability to accept numbers only, email addresses or open the phone keypad
+* [Text Input](/ios/components/user-interface/text-input.md) - hides keyboard when user hits return or clicks outside the keyboard; also adds ability to accept numbers only, email addresses or open the phone keypad
 
 ---
 
