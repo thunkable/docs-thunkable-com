@@ -13,6 +13,7 @@ To get started publishing your app to the App Store:
 * [On Thunkable, navigate to the App Settings Page and enter the Team ID, Bundle ID, and App Name and upload and App Icon](#3--on-thunkable-navigate-to-the-app-settings-page-and-enter-the-team-id-bundle-id-and-app-name-and-upload-and-app-icon) 
 * [When you are ready, select Publish and enter your Apple credentials](#4--when-you-are-ready-to-publish-select---and-enter-your-apple-credentials-same-as-your-apple-developer-program-membership-id-you-will-get-an-email-from-itunesconnect-when-the-app-has-been-submitted--if-youre-app-has-been-successfully-uploaded-it-should-appear-in-your-itunesconnect-account-like-below).  You will get an email from iTunesConnect when the app has been uploaded.
 * [Follow the instructions on iTunesConnect to submit your app for review](#5--follow-the-instructions-on-itunesconnect-to-submit-your-app-for-review)
+* [Troubleshooting](#publish-troubleshooting)
 
 ---
 
@@ -40,8 +41,6 @@ To get started publishing your app to the App Store:
 
 ### You can see all your Builds when clicking on the TestFlight tab as shown below:
 
-
-
 ---
 
 ### 5 / Follow the instructions on iTunesConnect to submit your app for review
@@ -54,7 +53,7 @@ Submit for Review
 
 ---
 
-### Troubleshooting
+### Troubleshooting {#publish-troubleshooting}
 
 **Certificates**
 
