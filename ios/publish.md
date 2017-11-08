@@ -38,9 +38,19 @@ To get started publishing your app to the App Store:
 
 ### 4 / When you are ready to publish, select ![](/assets/publish-ios.png) and enter your Apple credentials \(same as your Apple Developer Program membership ID\). You will get an email from iTunesConnect when the app has been submitted![](/assets/publish-ios-fig-2.png)![](/assets/publish-ios-fig-3.png)If you're app has been successfully uploaded, it should appear in your iTunesConnect account like below:
 
+### You can see all your Builds when clicking on the TestFlight tab as shown below:
+
+
+
 ---
 
 ### 5 / Follow the instructions on iTunesConnect to submit your app for review
+
+Fill in all required App Information including Privacy Policy url, Screenshots for iPhone and iPad \(if relevant\), Promotional Text, Description, App Store Icon.
+
+You'll have to select the Build version.
+
+Submit for Review
 
 ---
 
@@ -52,7 +62,7 @@ If you have an existing Apple Developer Program account with 2 iOS certificates,
 
 **Provisioning Profile**
 
-After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles. 
+After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles.
 
 **Two-factor authentication**
 
