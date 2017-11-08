@@ -30,7 +30,7 @@ To get started publishing your app to the App Store:
 
 ---
 
-### 3 / On Thunkable, navigate to the App Settings Page and enter the Team ID, Bundle ID, and App Name and upload and App Icon
+### 3 / On Thunkable, navigate to the App Settings Page and enter the Team ID, Bundle ID, and App Name and upload an App Icon
 
 ![](/assets/publish-ios-fig-6.png)![](/assets/publish-ios-fig-5.png)
 
@@ -40,7 +40,21 @@ To get started publishing your app to the App Store:
 
 ---
 
-### 5 / Follow the instructions on iTunesConnect to submit your app for review. If you are updating an existing app, please make sure to update your app version \(Apple does not accept a new app with the same version\)
+### 5 / Follow the instructions on iTunesConnect to submit your app for review
 
+---
 
+### Troubleshooting
+
+**Certificates**
+
+If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account.
+
+**Provisioning Profile**
+
+After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles. 
+
+**Two-factor authentication**
+
+You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
 
