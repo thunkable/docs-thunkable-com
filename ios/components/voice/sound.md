@@ -4,5 +4,5 @@
 
 ---
 
-The Sound component plays sounds stored locally or in the cloud
+The Sound component is a popular component in many apps for playing a variety of sounds from songs, musical effects to voice translations stored locally or in the cloud
 
