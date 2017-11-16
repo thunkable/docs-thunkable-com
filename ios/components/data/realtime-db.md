@@ -1,10 +1,10 @@
 #### **Thunkable for iOS **
 
-# Realtime DB powered by Firebase ![](/assets/firebase-ios-icon.png)
+# Realtime Database ![](/assets/firebase-ios-icon.png) powered by Firebase
 
 ---
 
-Realtime DB powered by Firebase is cloud storage component that stores and retrieves `keys` and their corresponding `values` in a database that can be accessed in real-time \(super fast\). 
+Realtime DB powered by Firebase is cloud storage component that stores and retrieves `keys` and their corresponding `values` in a database that can be accessed in real-time \(super fast\).
 
 This version of the component supports storing app data in unique project buckets associated with a user's project. A future version will include the option for users to save their data to their own unique Firebase instance.
 
