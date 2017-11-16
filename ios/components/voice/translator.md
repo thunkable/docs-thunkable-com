@@ -4,5 +4,5 @@
 
 ---
 
-The Translator component leverages the power of artificial intelligence to translate any text to a variety of languages
+The Translator component powered by Yandex, a popular translation service, leverages the power of artificial intelligence to translate a given text into a variety of languages in real-time.
 
