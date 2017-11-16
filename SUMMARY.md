@@ -11,7 +11,7 @@
       * [Custom Icon + App Name](ios/components/app-settings/custom-icon-+-app-name.md)
       * [Upload Media](ios/components/app-settings/upload-media.md)
     * [Components](ios/components/README.md)
-      * [Screen](ios/components/user-interface/screen.md)
+      * [Screen](ios/components/screen.md)
       * [Navigators](ios/components/navigators/README.md)
         * [Drawer](ios/components/navigators/drawer.md)
         * [Tab](ios/components/navigators/tab.md)

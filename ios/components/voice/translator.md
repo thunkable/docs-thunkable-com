@@ -4,5 +4,5 @@
 
 ---
 
-
+The Translator component leverages the power of artificial intelligence to translate any text to a variety of languages
 
