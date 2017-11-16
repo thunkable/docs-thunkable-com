@@ -4,5 +4,5 @@
 
 ---
 
-
+The Sound component plays sounds stored locally or in the cloud
 

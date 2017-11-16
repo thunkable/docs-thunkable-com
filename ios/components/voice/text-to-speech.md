@@ -4,5 +4,5 @@
 
 ---
 
-
+The Text to Speech component speaks a given text aloud in a variety of languages
 
