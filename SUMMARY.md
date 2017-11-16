@@ -145,8 +145,8 @@
     * [Test via Emulator](android/live-test-emulator.md)
   * [4 / Publish](android/publish.md)
   * [5 / Share](android/share.md)
+  * [Sample Apps](android/sample-apps.md)
   * [Troubleshooting](android/troubleshooting.md)
   * [Pro Tips](android/pro-tips.md)
   * [Release Notes](android/release-notes.md)
-  * [Migrating from Beta](android/beta-migrate.md)
 
