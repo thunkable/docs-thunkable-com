@@ -4,6 +4,23 @@
 
 ---
 
+#### Nov 2x, 2017 `v20`
+
+New components
+
+* [Sound](/ios/components/voice/sound.md) to play your favorite sounds
+* [Timer](/ios/components/user-interface/sensors/timer.md) to trigger events at certain times
+* [Text to Speech](/ios/components/voice/text-to-speech.md) to speak aloud text in a variety of languages
+* [Translator](/ios/components/voice/translator.md) powered by Yandex to translate text between a number of languages
+* [Assistant](/ios/components/voice/assistant.md) powered by Dialogflow to speak aloud pre-determined answers to users natural language questions
+* [Image Recognizer](/ios/components/image/image-recognizer.md) powered by Microsoft to describe the content of photos
+
+Platform
+
+* [Publish](/ios/publish.md) your app to the App Store; requires an Apple Program Developer membership \(currently costs $99/year\)
+
+---
+
 #### Nov 6, 2017 `v19`
 
 New components
