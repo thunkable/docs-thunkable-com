@@ -33,7 +33,7 @@ To get started publishing your app to the App Store:
 
 ### 3 / On Thunkable, navigate to the App Settings Page and enter the Team ID, Bundle ID, and App Name and upload an App Icon
 
-![](/assets/publish-ios-fig-6.png)![](/assets/publish-ios-fig-5.png)
+![](/assets/publish-ios-fig-6.png)
 
 ---
 
@@ -45,7 +45,7 @@ To get started publishing your app to the App Store:
 
 ### 5 / Follow the instructions on iTunesConnect to submit your app for review
 
-Fill in all required App Information including Privacy Policy url, Screenshots for iPhone and iPad \(if relevant\), Promotional Text, Description, App Store Icon.
+Fill in all required App Information including your Privacy Policy url, Screenshots for iPhone and iPad \(if relevant\), Promotional Text, Description, App Store Icon.
 
 You'll have to select the Build version.
 
@@ -55,15 +55,14 @@ Submit for Review
 
 ### Troubleshooting {#publish-troubleshooting}
 
-**Certificates**
+Common issues
 
-If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account.
+* _Login_. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
+* _Certificates_. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account.
 
-**Provisioning Profile**
+* _Provisioning profile_. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles.
 
-After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles.
+* _Two-factor authentication_. You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
 
-**Two-factor authentication**
 
-You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
 

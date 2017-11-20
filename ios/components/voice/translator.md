@@ -6,6 +6,8 @@
 
 The Translator component powered by Yandex, a popular translation service, leverages the power of artificial intelligence to translate a given text into a variety of languages in real-time
 
+![](/assets/translator-yandex-ios-fig-2.png)
+
 ---
 
 #### Set up
@@ -40,5 +42,5 @@ Currently, there are 14 languages available but we are hoping to add more in the
 
 #### Translate text in a text box
 
-![](/assets/translator-ios-fig-1.png)
+![](/assets/translator-yandex-ios-fig-1.png)
 
