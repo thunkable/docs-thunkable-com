@@ -6,7 +6,9 @@
 
 Microsoft's Image Recognizer services puts the power of some of the most advanced open artificial intelligence tools into your image-based apps.
 
-The Image Recognizer returns a description and tags about visual content found in an image![](/assets/image-recognizer-ios-fig-2.png)
+The Image Recognizer returns a description and tags about visual content found in an image
+
+![](/assets/image-recognizer-ios-fig-2.png)
 
 ---
 
