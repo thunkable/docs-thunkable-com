@@ -30,5 +30,17 @@ Amazingly, the Assistant speaks multiple languages--13 in fact with an additiona
 | :--- | :--- |
 | Language | Refers to both the language recognized by the Assistant and the language which it speaks aloud. Currently available: `ENGLISH`,`ENGLISH_GB`, `ENGLISH_US`,`CHINESE_CHINA`,`CHINESE_HONGKONG`,`CHINESE_TAIWAN`,`DUTCH`, `FRENCH`,`GERMAN`,`GREEK`,`ITALIAN`,`JAPANESE`,`KOREAN`,`PORTUGUESE`,`PORTUGUESE_BRAZIL`,`RUSSIAN`,`SPANISH`,`UKRANIAN` |
 
+---
+
+#### Triggering the Assistant
+
+The Assistant can be triggered both by text input and by voice. 
+
+| Event | Description |
+| :--- | :--- |
+| Start Listening | Asks the Assistant to start listening to a voice query. You must use both the Start Listening and Stop Listening events to  |
+| Stop Listening | Asks the Assistant to stop listening to a voice query |
+| Query \(`text`\) | Submits a query to the Assistant in text form |
+
 
 
