@@ -34,7 +34,7 @@ Amazingly, the Assistant speaks multiple languages--13 in fact with an additiona
 
 #### Triggering the Assistant
 
-The Assistant can be triggered both by text input and by voice.
+The Assistant can be triggered both by voice or a text query.  The result is a text `value` that you can convert to speech with a Text to Speech component
 
 ![](/assets/assistant-ios-fig-4.png)
 
