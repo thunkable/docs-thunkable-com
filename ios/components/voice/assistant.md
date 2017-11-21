@@ -4,7 +4,7 @@
 
 ---
 
-The Assistant component powered by Dialogflow, enables real-time voice responses to user questions asked by voice. The Assistant understands a user's natural language and the developer simply programs the questions and responses to return to the user.![](/assets/assistant-ios-fig-5.png)
+The Assistant component powered by Dialogflow, enables real-time voice responses to user questions asked by voice. The Assistant understands a user's natural language and the developer simply programs the questions and responses to return to the user![](/assets/assistant-ios-fig-5.png)
 
 ---
 
