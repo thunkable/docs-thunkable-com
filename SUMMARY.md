@@ -149,4 +149,5 @@
   * [Troubleshooting](android/troubleshooting.md)
   * [Pro Tips](android/pro-tips.md)
   * [Release Notes](android/release-notes.md)
+  * [Migrate from Beta](android/beta-migrate.md)
 
