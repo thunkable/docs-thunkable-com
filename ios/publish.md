@@ -4,7 +4,7 @@
 
 ---
 
-For app developers looking to distribute their apps widely, publishing your app to the App Store can be a very rewarding process. 
+For app developers looking to distribute their apps widely, publishing your app to the App Store can be a very rewarding process.
 
 Thunkable has eliminated a few steps from the normal iOS submission process to make it easier for our developers including sending new builds directly to iTunes Connect, Apple's portal for managing App Store submissions, auto-incrementing each new build and enabling building apps from non-Mac computers \(usually a Mac is required\).
 
@@ -20,9 +20,9 @@ To publish your app to the App Store:
   * [Update your App Publish settings](#4--on-thunkable-update-your-app-publish-settings-to-find-it-click-on-the-app-icon-on-the-top-left-and-then-the-properties-tab)
   * [When you are ready, select Publish to submit your latest app to iTunes Connect](#5--when-you-are-ready-to-publish-select----to-submit-your-latest-app-to-itunes-connect-this-does-not-yet-publish-your-app-to-the-app-store). This does _not_ yet publish your app to the App Store
 * Back on Apple
-  * Follow the instructions on iTunes Connect to submit your app for review
+  * [Follow the instructions on iTunes Connect to submit your app for review](#6--follow-the-instructions-on-itunesconnect-to-submit-your-app-for-review-there-are-3-main-sections-to-fill-out)
 
-If you are not seeing your 
+If you are not seeing your app build in iTunes Connect, below are a number of common errors \(currently, our error messaging is still in beta!\)
 
 * Troubleshooting
 
@@ -34,7 +34,7 @@ If you are not seeing your
 
 ---
 
-### 2 / [Register an App ID](https://developer.apple.com/account/ios/identifier/bundle/create) in your Apple Developer account. Apple will automatically generate a `Team ID` . . . 
+### 2 / [Register an App ID](https://developer.apple.com/account/ios/identifier/bundle/create) in your Apple Developer account. Apple will automatically generate a `Team ID` . . .
 
 ![](/assets/publish-ios-fig-4.png)
 
@@ -58,8 +58,6 @@ If you are not seeing your
 
 ![](/assets/publish-ios-fig-8.png)
 
-![](/assets/publish-ios-fig-6.png)
-
 ---
 
 ### 5 / When you are ready to publish, select ![](/assets/publish-ios.png)  to submit your latest app to iTunes Connect. This does _not_ yet publish your app to the App Store.
@@ -68,19 +66,37 @@ If you are not seeing your
 
 ### You will also have to enter your Apple developer login credentials![](/assets/publish-ios-fig-3.png)
 
-### When your app has been successfully uploaded, you will receive an email from iTunes Connect. It will also appear in your dashboard 
+### When your app has been successfully uploaded, you will receive an email from iTunes Connect. It will also appear under the Testflight tab in your iTunes Connect dashboard. Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store. You can use the tool to share your app with others.
 
-### 
+![](/assets/publish-ios-fig-9.png)
+
+### You may need to answer a question about export compliance. You can select 'no' when asked if you app uses encryption since apps made on Thunkable for iOS do not at the moment.
+
+![](/assets/publish-ios-fig-10.png)
+
+### Your app is now ready for internal testing to be downloaded by you and others and ready to submit to the App Store. We recommend you test your app via Testflight before you submit your app for review to the App Store.
+
+![](/assets/publish-ios-fig-11.png)
 
 ---
 
-### 5 / Follow the instructions on iTunesConnect to submit your app for review
+### 6 / Follow the instructions on iTunesConnect to submit your app for review. There are 3 main sections to fill out.
 
-Fill in all required App Information including your Privacy Policy url, Screenshots for iPhone and iPad \(if relevant\), Promotional Text, Description, App Store Icon.
+### First is App Information which is pretty straightforward.
 
-You'll have to select the Build version.
+### ![](/assets/publish-ios-fig-12.png)The second section is Pricing and Availability. Also, very straightforward although there may be some strategy involved if you want to slowly release your app to different app stores.
 
-Submit for Review
+![](/assets/publish-ios-fig-13.png)
+
+### The final section contains the design assets \(Screenshots, App Icon\) which you will need to have ready. 
+
+![](/assets/publish-ios-fig-14.png)
+
+### You'll also need to select the build version that you want to submit.
+
+![](/assets/publish-ios-fig-15.png)![](/assets/publish-ios-fig-16.png)
+
+### Congrats! You are not ready to submit to the App Store.
 
 ---
 
@@ -89,11 +105,11 @@ Submit for Review
 Common issues
 
 * _Login_. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
+* _Two-factor authentication_. You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
+
 * _Certificates_. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account.
 
 * _Provisioning profile_. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles.
-
-* _Two-factor authentication_. You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
 
 
 
