@@ -8,7 +8,7 @@ For app developers looking to distribute their apps widely, publishing your app 
 
 Thunkable has eliminated a few steps from the normal iOS submission process to make it easier for our developers including sending new builds directly to iTunes Connect, Apple's portal for managing App Store submissions, auto-incrementing each new build and enabling building apps from non-Mac computers \(usually a Mac is required\).
 
-Do note that Apple holds a high standard for apps that are approved for distribution in the App Store so please review Apple's policies and guidelines to make sure your app is in compliance before you sign up for the Apple Developer Program.
+Do note that Apple holds a high standard for apps that are approved for distribution in the App Store so please [review Apple's policies and guidelines](https://developer.apple.com/app-store/review/guidelines/) to make sure your app is in compliance before you sign up for the Apple Developer Program.
 
 To publish your app to the App Store:
 
@@ -88,7 +88,7 @@ If you are not seeing your app build in iTunes Connect, below are a number of co
 
 ![](/assets/publish-ios-fig-13.png)
 
-### The final section contains the design assets \(Screenshots, App Icon\) which you will need to have ready. 
+### The final section contains the design assets \(Screenshots, App Icon\) which you will need to have ready.
 
 ![](/assets/publish-ios-fig-14.png)
 
