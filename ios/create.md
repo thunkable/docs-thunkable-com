@@ -30,9 +30,7 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 #### ![](/assets/ios/drag-drop.gif)![](/assets/ios-drag-drop.gif)
 
-#### All components can be dragged left to the App Tree and most visible components\* can be dragged directly onto the Gold Phone
-
-#### \*Currently includes: All [User Interface](/android/components/user-interface/README.md), [Layout](/ios/components/layout.md) and [Location](/ios/components/location/README.md) components
+#### All components can be dragged either left to the App Tree and or directly onto the Gold Phone
 
 ---
 

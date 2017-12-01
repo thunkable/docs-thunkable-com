@@ -105,6 +105,7 @@ If you are not seeing your app build in iTunes Connect, below are a number of co
 Common issues
 
 * _Login_. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
+* _Build._ Your app may not be able to build/compile for a variety of reasons.  One good check is to download your app to your phone first to see if there are any errors compiling the app.
 * _Two-factor authentication_. You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
 
 * _Certificates_. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account.

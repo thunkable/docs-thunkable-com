@@ -30,15 +30,13 @@ In terms of app building, here are some of the key differences that are not iOS-
 
 * App tree is on the left and stays there so that you can more easily follow where you are in an app. This means the component palette only appears when you select "Add component"
 
-* You can only [drag and drop some components](/android/create.md) onto the phone screen -- those that are Visible within a Screen. Screen, Navigators, and Invisible components must be dropped onto the App tree on the left
+* Some blocks have been streamlined.  For example, instead of two separate blocks to start an event and trigger another event when that event is done, those blocks are now combined into one.
 
 * [Navigators](/ios/components/navigators/README.md) - instead of having to hack your way through side and tab menus, we are adding a new component called Navigators that allows users to more easily manage navigating between multiple screens. No longer will you have to use Vertical Arrangements as fake screens either.
 
-* Non-visible components are now called Invisible components and they can be used across all screens in an app.  Try our first Invisible component called [Local Storage](/ios/components/storage/local-storage.md), which is very similar to TinyDB
-
-* [Uploading media](/ios/components/app-settings/upload-media.md) files happens in the App settings page which is selected when you click on the app in the top left. More App settings will be added over time
-
 * [Downloaded apps](//ios/download.md#step-4-download) get sent to your phone via email \(currently from Steve Jeaver\) and take 4-5 minutes to build. There is currently a limit of one downloaded app per phone.
+
+* [Publishing](/android/publish.md) your app to the App Store requires an Apple Developer Program membership \($99/year\) and follows a special process.
 
 ---
 
