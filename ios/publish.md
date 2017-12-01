@@ -24,7 +24,7 @@ To publish your app to the App Store:
 
 If you are not seeing your app build in iTunes Connect, below are a number of common errors \(currently, our error messaging is still in beta!\)
 
-* Troubleshooting
+* [Troubleshooting](#publish-troubleshooting)
 
 ---
 
