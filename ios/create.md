@@ -28,7 +28,7 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 ### 3 / Drag and drop** your favorite component\(s\)** {#step-5：-add-app-components}
 
-#### ![](/assets/ios/drag-drop.gif)![](/assets/ios-drag-drop.gif)
+#### ![](/assets/ios/drag-drop.gif)![](/assets/add-components-ios.gif)
 
 #### All components can be dragged either left to the App Tree and or directly onto the Gold Phone
 
