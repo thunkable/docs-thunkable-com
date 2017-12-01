@@ -11,6 +11,7 @@ Platform
 * Add any component by dragging and dropping them onto the phone OR in the appropriate part of the app hierarchy
 * Remove a component by selecting the trash can within each component
 * View your custom app icon on the project page or on the app setting of the Designer; custom app icon must be uploaded into the app project settings
+* Separate entrance for Hour of Code \([code.thunkable.com](http://code.thunkable.com)\)
 
 ---
 
