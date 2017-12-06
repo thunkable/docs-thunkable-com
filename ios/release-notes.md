@@ -4,6 +4,14 @@
 
 ---
 
+#### Dec 5, 2017 `v23`
+
+Bug fix
+
+* Fixed bug that disabled function blocks
+
+---
+
 #### Dec 1, 2017 `v22`
 
 Platform
