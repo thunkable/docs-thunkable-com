@@ -30,7 +30,3 @@ IMPORTANT: Your computer and app no longer have to be on the same Wi-Fi on iOS, 
 
 ![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/live-test-ios-2.gif?raw=true)
 
----
-
-Click here if you want to [Download](/ios/live-test/download.md) the app to your phone
-
