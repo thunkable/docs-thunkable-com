@@ -56,6 +56,7 @@
   * [3 / Test Live](ios/live-test.md)
   * [4 / Download](/ios/download.md#step-4-download)
   * [5 / Publish](ios/publish.md)
+  * [6 / Share](ios/6-share.md)
   * [Troubleshooting](ios/troubleshooting.md)
   * [Release Notes](ios/release-notes.md)
 * [❤ Thunkable Android](android/README.md)

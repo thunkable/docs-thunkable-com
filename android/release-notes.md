@@ -4,6 +4,14 @@
 
 ---
 
+#### Dec 14, 2017 `v3.27`
+
+Platform updates
+
+* Updated compatibility with MIT App Inventor
+
+---
+
 #### Oct 30, 2017 `v3.26`
 
 Component updates

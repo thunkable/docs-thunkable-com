@@ -4,6 +4,20 @@
 
 ---
 
+#### Dec 12, 2017 `v24`
+
+Platform improvements
+
+* [Share](/ios/6-share.md) your app project by link
+* Added Blocks tab when selecting invisible components
+* Alert users who don't have cookies enabled during login
+
+Bug fix
+
+* Fixed bug that prevented events within a single block from triggering in sequence
+
+---
+
 #### Dec 5, 2017 `v23`
 
 Bug fix
