@@ -4,7 +4,7 @@
 
 ---
 
-If you are having some trouble logging in, the first thing you might want to try is signing out completely. 
+If you are having some trouble logging in, the first thing you might want to try is signing out completely.
 
 Otherwise, if you are having trouble logging into our service, you may need to adjust your browser settings or in some cases, use a new browser.
 
@@ -37,4 +37,6 @@ To enable cookies, please follow the directions below:
 * You will need to have settings like the one below. More info [here](https://support.apple.com/kb/ph21411?locale=en_US).
 
 ![](https://lh4.googleusercontent.com/wFfLLTBcmkBEsmEqhgrZ_xGB-cJZDXO-PMeLmlM8SBTvKkqZercDpebnck1sM-48z_EzCWQV8zT5sdZiNeJWLWp4yWMYt7TcsY8F6119dk9yzFeHWP4IXiFDt50ksV0_LLShCbh6)
+
+IMPORTANT: Please make sure to refresh your page after you enable cookies
 
