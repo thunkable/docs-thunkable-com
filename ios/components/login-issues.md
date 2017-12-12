@@ -24,7 +24,7 @@ To enable cookies, please follow the directions below:
 
 * You will need to have settings like the one below.  More info [here](https://support.google.com/accounts/answer/61416?hl=en).
 
-![](https://lh4.googleusercontent.com/Z3aveMTPXXGHsABFQdjPtKbDIphvFFto9vf7H7QfF2TmX0ijyLPzmjhuzB7kwhihqKS33sOPS1ers2rJ4TW4IZ_nHrp5faPTFc9hIxnsKs0cZxuacNvD_gRV-oQLtN-Nziz-HgsS)
+![](/assets/login-issues-fig-4.png)
 
 ### **Firefox**
 
