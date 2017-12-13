@@ -16,6 +16,12 @@ First create a listview variable and set it to certain elements when the Screen 
 
 ---
 
+#### Selecting from a List Viewer
+
+![](/assets/listviewer-ios-fig-3.png)
+
+---
+
 #### Name the elements in the List Viewer
 
 | Property | Description |
