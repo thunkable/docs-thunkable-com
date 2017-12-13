@@ -4,7 +4,7 @@
 
 ---
 
-#### Dec 14, 2017 `v3.27`
+#### Dec 13, 2017 `v3.27`
 
 Platform updates
 

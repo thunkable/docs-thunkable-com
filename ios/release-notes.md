@@ -4,7 +4,7 @@
 
 ---
 
-#### Dec 12, 2017 `v24`
+#### Dec 13, 2017 `v24`
 
 Platform improvements
 
