@@ -13,6 +13,7 @@ Otherwise, if you are having trouble logging into our service, you may need to a
 | Browser | Chrome, Firefox or Safari | Microsoft Internet Explorer or Edge Web Browser |
 | Cookies | Cookies enabled in the browser | Cookies disabled in the browser |
 | AdBlockers | No AdBlockers extensions or add-ons | AdBlockers extensions or add-ons |
+| Kaspersky Antivirus | Either disabling Kaspersky Lab Antivirus completely or whitelisting Thunkable.com | Kaspersky Lab Antivirus software |
 
 ---
 

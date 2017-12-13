@@ -11,6 +11,7 @@ We are working hard to make Thunkable’s service compatible with any browser th
 | Browser | Chrome, Firefox or Safari | Microsoft Internet Explorer or Edge Web Browser |
 | Cookies | Cookies enabled in the browser | Cookies disabled in the browser |
 | AdBlockers | No AdBlockers extensions or add-ons | AdBlockers extensions or add-ons |
+| Kaspersky Antivirus | Either disabling Kaspersky Lab Antivirus completely or whitelisting Thunkable.com | Kaspersky Lab Antivirus software |
 
 ---
 
