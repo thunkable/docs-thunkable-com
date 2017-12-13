@@ -4,7 +4,7 @@
 
 ---
 
-The Barcode Scanner is a component that enables the phone to read barcodes and QR codes, a superpower that is in[high demand in China](http://nymag.com/selectall/2017/01/qr-codes-are-extremely-popular-in-china.html)
+The Barcode Scanner is a component that enables the phone to read barcodes and QR codes, a superpower that is in [high demand in China](http://nymag.com/selectall/2017/01/qr-codes-are-extremely-popular-in-china.html)
 
 ---
 
