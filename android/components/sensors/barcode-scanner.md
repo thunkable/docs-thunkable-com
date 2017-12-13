@@ -1,6 +1,6 @@
 #### **Thunkable for Android**❤ {#thunkable-for-android-❤}
 
-# Barcode Scanner![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/barcode-scanner-icon.png)that reads QR Codes {#barcode-scanner--that-reads-qr-codes}
+# Barcode Scanner ![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/barcode-scanner-icon.png) that reads QR Codes {#barcode-scanner--that-reads-qr-codes}
 
 ---
 
