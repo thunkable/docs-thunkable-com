@@ -42,13 +42,11 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 ---
 
-### ![](/assets/ios-create-fig-1.png)5 / . . . or in the Blocks
+### 5 / . . . or in the Blocks
 
 ### ![](/assets/create-ios-3.gif)
 
 #### Blocks examples: I want to set the sequence or conditions for specific events to happen e.g. if I click this, then.
 
----
 
-When you complete this step, make sure to move to [Step 3 Test Live](/ios/live-test.md)
 

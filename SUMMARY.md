@@ -3,7 +3,7 @@
 * [Home](README.md)
 * [ Thunkable iOS](ios/README.md)
   * [0 / FAQs](ios/faqs.md)
-  * [1 / Idea](ios/idea.md)
+  * [1 / Sample Apps](ios/idea.md)
   * [2 / Create](ios/create.md)
     * [Login Issues](ios/components/login-issues.md)
     * [App Limits](ios/components/app-limits.md)

@@ -1,18 +1,22 @@
 #### **Thunkable for iOS **
 
-# Step 1 `Idea`
+# Step 1 `Sample Apps`
 
 ---
 
-### **Start with a problem you want to solve**
+### S**tart with a sample app**
 
 The most successful apps solve real problems. These problems can range from problems that only you face---to problems of a local community you are a part of--to challenges facing businesses and organizations that you love.
 
-Since apps are easy to create on Thunkable, no problem is too small.
+However, understanding what is possible in an app is not easy especially if you are a first-time developer. We have learned that starting your app journey from an existing app will save you a load of time searching community forums or in coffee shops by yourself. 
 
-Our advice is to start small -- and to start with what you know.  If it works, then you can start expanding from there.
+Below are a few of our favorites with more to come!
 
----
+| Image Recognizer _powered by Microsoft_![](/assets/image-recognizer-ios-fig-2.png)[**Copy the app source code**](https://goo.gl/sEgsfA) |  Assistant _powered by Dialogflow _![](/assets/assistant-ios-fig-6.png)[**Copy the app source code**](https://goo.gl/mvDBpA) |
+| :--- | :--- |
+| **Weather **_**powered by Weather Underground **_![](/assets/web-api-ios-fig-2.png)[**Copy the app source code**](https://goo.gl/P1YVAE) |  |
 
-When you complete this step, make sure to move to [Step 2 Create](/ios/create.md)
+
+
+
 
