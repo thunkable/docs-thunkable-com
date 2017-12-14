@@ -8,7 +8,7 @@ Microsoft's Image Recognizer services puts the power of some of the most advance
 
 The Image Recognizer returns a description and tags about visual content found in an image
 
-![](/assets/image-recognizer-ios-fig-2.png)
+#### ![](/assets/image-recognizer-ios-fig-2.png)Download the app source code by [clicking here](https://goo.gl/sEgsfA)
 
 ---
 
