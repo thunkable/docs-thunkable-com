@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Voice
+# Voice + Sound + Artificial Intelligence
 
 ---
 

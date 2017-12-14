@@ -1,10 +1,8 @@
 #### **Thunkable for iOS **
 
-# Maps + Location
+# User Interface
 
 ---
-
-#### 
 
 
 

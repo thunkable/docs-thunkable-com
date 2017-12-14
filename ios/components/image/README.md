@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Image
+# Image + Video + Artificial Intelligence
 
 ---
 
