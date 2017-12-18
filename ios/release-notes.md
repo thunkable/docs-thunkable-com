@@ -4,6 +4,14 @@
 
 ---
 
+#### Dec 18, 2017 `v24`
+
+Platform improvements
+
+* Users in blocks view stay in blocks view when selecting a component
+
+---
+
 #### Dec 13, 2017 `v24`
 
 Platform improvements
