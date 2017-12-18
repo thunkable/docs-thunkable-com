@@ -96,7 +96,7 @@ If you are not seeing your app build in iTunes Connect, below are a number of co
 
 ![](/assets/publish-ios-fig-15.png)![](/assets/publish-ios-fig-16.png)
 
-### Congrats! You are not ready to submit to the App Store.
+### Congrats! You are now ready to submit to the App Store.
 
 ---
 
