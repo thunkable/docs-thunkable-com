@@ -1,4 +1,4 @@
-| `AdMob is now available on our Thunkable for Android platform. The Thunkable beta platform will be gently retired on Dec 31, 2017. Please`[`follow these instructions`](/android/beta-migrate.md)`to move your project(s) over before then. For AdMob, Thunkable also reserves the right to charge a maintenance fee of 5% of the ad revenue generated for use of the AdMob component.` |
+| `AdMob is now available on our Thunkable for Android platform. The Thunkable beta platform will be gently retired on Dec 31, 2017. Please`[`follow these instructions`](/android/beta-migrate.md)`to move your project(s) over before then. For AdMob, Thunkable charges a maintenance fee of 5% of the ad revenue generated for use of the AdMob component.` |
 | :--- |
 
 
