@@ -22,21 +22,17 @@ There is no set-up required since Thunkable provides its own key to access the Y
 
 #### Select source language
 
-Currently, there are 14 languages available but we are hoping to add more in the future
-
 | Property | Description |
 | :--- | :--- |
-| Source Language | The name of the language to translate from. Currently available: `ENGLISH`, `CHINESE`,`DUTCH`, `FRENCH`,`GERMAN`,`GREEK`,`HEBREW`,`ITALIAN`,`JAPANESE`,`KOREAN`,`PORTUGUESE`,`RUSSIAN`,`SPANISH`,`UKRANIAN` |
+| Source Language | The name of the language to translate from. Currently available in 94 languages. |
 
 ---
 
 #### Select target language
 
-Currently, there are 14 languages available but we are hoping to add more in the future
-
 | Property | Description |
 | :--- | :--- |
-| Target Language | The name of the language to translate to. Currently available: `ENGLISH`, `CHINESE`,`DUTCH`, `FRENCH`,`GERMAN`,`GREEK`,`HEBREW`,`ITALIAN`,`JAPANESE`,`KOREAN`,`PORTUGUESE`,`RUSSIAN`,`SPANISH`,`UKRANIAN` |
+| Target Language | The name of the language to translate to. Currently available in 94 languages. |
 
 ---
 
