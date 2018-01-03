@@ -1,7 +1,3 @@
-| `Push Notifications are now available on our Thunkable for Android platform. The Thunkable beta platform will be gently retired on Dec 31, 2017. Please `[`follow these instructions`](/android/beta-migrate.md)` to move your project(s) over before then.` |
-| :--- |
-
-
 #### **Thunkable for Android **❤
 
 # Push Notifications by One Signal ![](/assets/one-signal-icon.png)
