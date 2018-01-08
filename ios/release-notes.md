@@ -4,6 +4,25 @@
 
 ---
 
+#### Jan 8, 2018 `v26`
+
+Component updates
+
+* [Translator](/ios/components/voice/translator.md) - adds supports for 84 languages from 14
+
+Platform improvements
+
+* Add ability to rename projects from project page
+* Improved component hierarchy with collapsible trees
+* Improved add component organization with component categories
+* Removed the ability to add assets by dragging and dropping anywhere
+
+Live testing app updates
+
+* To live test an app, user must login to their app instead of scanning a QR code
+
+---
+
 #### Dec 18, 2017 `v25`
 
 Platform improvements
