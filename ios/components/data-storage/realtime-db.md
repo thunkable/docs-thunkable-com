@@ -42,11 +42,9 @@ This version of the component supports storing app data in unique project bucket
 
 #### Step 2 Drag and drop the plist in you assets folder on Thunkable
 
-![](/assets/firebase-private.gif)
+![](/assets/firebase-ios.gif)
 
-#### Step 3 After Downloading or Publishing Your App, View and Edit Database Contents 
+#### Step 3 After Downloading or Publishing Your App, View and Edit Database Contents
 
 IMPORTANT: Private database instance will not work during live testing
-
-
 
