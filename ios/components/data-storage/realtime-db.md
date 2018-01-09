@@ -36,7 +36,7 @@ This version of the component supports storing app data in unique project bucket
 
 #### Use Your Own Firebase Instance
 
-#### Step 1 Create an account with Firebase for free \(you can upgrade to a paid plan later\) and a new app project. In Database 'Rules', set "read" and "write" to 'true' \(they will be set to 'false' by default\). 
+#### Step 1 Create an account with Firebase for free \(you can upgrade to a paid plan later\) and create a new app project. In Database 'Rules', set "read" and "write" to 'true' \(they will be set to 'false' by default\).
 
 #### ![](/assets/firebase-ios-fig-6.png)
 
