@@ -36,15 +36,21 @@ This version of the component supports storing app data in unique project bucket
 
 #### Use Your Own Firebase Instance
 
-#### Step 1 Add Firebase to your iOS app and generate a plist file at [Firebase.google.com](https://firebase.google.com/)
+#### Step 1 Create an account with Firebase for free \(you can upgrade to a paid plan later\) and a new app project. In Database 'Rules', set "read" and "write" to 'true' \(they will be set to 'false' by default\). 
+
+#### ![](/assets/firebase-ios-fig-6.png)
+
+#### 
+
+#### Step 2 Add Firebase to your iOS app and generate a plist file by following the steps below. Note that you can use the same Firebase project for your Android and iOS app.
 
 ![](/assets/firebase-ios-fig-3.png)![](/assets/firebase-ios-fig-4.png)![](/assets/firebase-ios-fig-5.png)
 
-#### Step 2 Drag and drop the plist in you assets folder on Thunkable
+#### Step 3 Drag and drop the plist in you assets folder on Thunkable
 
 ![](/assets/firebase-ios.gif)
 
-#### Step 3 After Downloading or Publishing Your App, View and Edit Database Contents
+#### Step 4 After Downloading or Publishing Your App, View and Edit Database Contents
 
 IMPORTANT: Private database instance will not work during live testing
 
