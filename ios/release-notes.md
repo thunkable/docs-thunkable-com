@@ -15,7 +15,7 @@ Platform improvements
 * Add ability to rename projects from project page
 * Improved component hierarchy with collapsible trees
 * Improved add component organization with component categories
-* Removed the ability to add assets by dragging and dropping anywhere
+* Removed the ability to add assets by dragging and dropping anywhere; Users can still add assets by [following these directions](/ios/components/app-settings/upload-media.md)
 
 Live testing app updates
 

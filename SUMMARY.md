@@ -9,7 +9,7 @@
     * [App Limits](ios/components/app-limits.md)
     * [App Settings](ios/components/app-settings.md)
       * [Custom Icon + App Name](ios/components/app-settings/custom-icon-+-app-name.md)
-      * [Upload Assets](ios/components/app-settings/upload-media.md)
+      * [Add Assets](ios/components/app-settings/upload-media.md)
     * [Components](ios/components/README.md)
       * [Screen / Layout](ios/components/screen-layout/README.md)
         * [Screen](ios/components/screen-layout/screen.md)
