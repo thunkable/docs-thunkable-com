@@ -42,11 +42,11 @@ This version of the component supports storing app data in unique project bucket
 
 #### 
 
-#### Step 2 Add Firebase to your iOS app and generate a plist file by following the steps below. Note that you can use the same Firebase project for your Android and iOS app.
+#### Step 2 Add Firebase to your iOS app and generate a .plist file by following the steps below. The .plist file is a file that Google requires to enable services like Firebase in your app. Note that you can use the same Firebase project for your Android and iOS app.
 
 ![](/assets/firebase-ios-fig-3.png)![](/assets/firebase-ios-fig-4.png)![](/assets/firebase-ios-fig-5.png)
 
-#### Step 3 Drag and drop the plist in you assets folder on Thunkable
+#### Step 3 Drag and drop the .plist in you assets folder on Thunkable
 
 ![](/assets/firebase-ios.gif)
 
