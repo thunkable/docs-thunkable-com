@@ -20,9 +20,9 @@ IMPORTANT: Your computer and app no longer have to be on the same Wi-Fi on iOS, 
 
 ---
 
-### 2 / Login to your app and select "Live Test" on the platform
+### 2 / Login to your app and select "Live Test" on the platform; Shake the app to exit your live testing session or to login with a different account
 
-![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/thunkableLiveTesting.gif?raw=true)
+![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/thunkableLiveTest.gif?raw=true)
 
 ---
 
