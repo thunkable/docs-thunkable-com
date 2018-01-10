@@ -20,9 +20,9 @@ IMPORTANT: Your computer and app no longer have to be on the same Wi-Fi on iOS, 
 
 ---
 
-### 2 / S**ync your app with your project**
+### 2 / Login to your app and select "Live Test" on the platform
 
-![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/live-test-ios-1.gif?raw=true)
+![](https://github.com/thunkable/docs-thunkable-com/blob/master/assets/thunkableLiveTesting.gif?raw=true)
 
 ---
 

@@ -4,22 +4,24 @@
 
 ---
 
-#### Jan 8, 2018 `v26`
+#### Jan 10, 2018 `v26`
 
 Component updates
 
-* [Translator](/ios/components/voice/translator.md) - adds supports for 84 languages from 14
+* [Translator](/ios/components/voice/translator.md) powered by Yandex - adds supports for all 84 languages supported by Yandex from 14
+* [Realtime Database](/ios/components/data-storage/realtime-db.md) powered by Firebase - adds support for a user's private database instance
+
+Live testing updates \(please download the latest version\)
+
+* To [live test](/ios/live-test.md), user first logins to their app and then clicks Live Test on the platform; there is no longer any need to scan a QR code
 
 Platform improvements
 
 * Add ability to rename projects from project page
 * Improved component hierarchy with collapsible trees
 * Improved add component organization with component categories
+* Improved top right header including links to documentation, tutorials and community forum
 * Removed the ability to add assets by dragging and dropping anywhere; Users can still add assets by [following these directions](/ios/components/app-settings/upload-media.md)
-
-Live testing app updates
-
-* To live test an app, user must login to their app instead of scanning a QR code
 
 ---
 
