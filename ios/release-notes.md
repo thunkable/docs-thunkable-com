@@ -10,6 +10,9 @@ Component updates
 
 * [Translator](/ios/components/voice/translator.md) powered by Yandex - adds supports for all 84 languages supported by Yandex from 14
 * [Realtime Database](/ios/components/data-storage/realtime-db.md) powered by Firebase - adds support for a user's private database instance
+* [Screen](/ios/components/screen-layout/screen.md) -- adds support for background color, picture, scrolling and hiding status bar
+* [Row](/ios/components/screen-layout/layout/row.md) -- adds support background color and picture
+* [Column](/ios/components/screen-layout/layout/column.md) -- adds support background color and picture
 
 Live testing updates \(please download the latest version\)
 

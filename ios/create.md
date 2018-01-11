@@ -22,15 +22,17 @@ Note: Right now we only accept logging in with a Google account but expect to ad
 
 ### 2 / Create a new project
 
-![](/assets/create-ios-1.gif)
+![](/assets/ios-newproject.gif)
 
 ---
 
-### 3 / Drag and drop** your favorite component\(s\)** {#step-5：-add-app-components}
+### 3 / Drag and drop** your favorite component\(s\) onto the phone** {#step-5：-add-app-components}
 
-#### ![](/assets/ios/drag-drop.gif)![](/assets/add-components-ios.gif)
+#### 
 
-#### All components can be dragged either left to the App Tree and or directly onto the Gold Phone
+#### You can reorder your components by dragging and dropping them in the component tree on the left
+
+![](/assets/ios-reorder-component.gif)
 
 ---
 
