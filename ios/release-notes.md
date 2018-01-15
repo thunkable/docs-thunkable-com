@@ -4,6 +4,14 @@
 
 ---
 
+#### Jan 14, 2018 `v27`
+
+Bug fix
+
+* Live app now supports login from iOS 9 and 10
+
+---
+
 #### Jan 10, 2018 `v26`
 
 Component updates
