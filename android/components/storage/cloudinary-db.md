@@ -10,7 +10,7 @@ Cloudinary is an easy-to-use service for uploading your images, audio files and 
 
 #### Take a picture, upload it to the Cloudinary cloud and store its url in Firebase
 
-#### ![](/assets/cloudinary-blocks.png)
+#### ![](/assets/cloudinary-fig-4.png)
 
 ---
 
