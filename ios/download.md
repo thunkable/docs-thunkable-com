@@ -4,7 +4,7 @@
 
 ---
 
-Most iOS developers have to sign up for an [Apple Developer Program](https://developer.apple.com/programs/) membership \(currently $99/year\) to download an app to their iPhone or iPad.  Thunkable is making it possible to download an iOS app made on Thunkable to your iPhone or iPad without a membership.
+Most iOS developers have to have a Mac and sign up for an [Apple Developer Program](https://developer.apple.com/programs/) membership \(currently $99/year\) to download an app to their iPhone or iPad.  Thunkable is making it possible to download an iOS app made on Thunkable to your iPhone or iPad without a membership and from either a Mac or a Windows machine.
 
 Currently, it is possible to download** only one Thunkable app on your phone. **
 
