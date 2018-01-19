@@ -38,7 +38,7 @@ Screens are the main organizing containers of an app. They can themselves be org
 
 | Property | Description |
 | :--- | :--- |
-| Scrollable | Default \(false\). Indicates whether the screen is scrollable |
+| Scrollable | Default \(false\). Indicates whether the screen is scrollable. For scrollable to work, one or more of your components must have fixed heights that exceed the height of the screen |
 
 ---
 
