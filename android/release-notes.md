@@ -8,8 +8,8 @@
 
 New components
 
-* [Switch](/Sw)
-* [Toggle](/android/components/user-interface/toggle.md) 
+* [Switch](/Sw) \(User Interface\)
+* [Toggle](/android/components/user-interface/toggle.md) \(User Interface\)
 
 Component updates
 
