@@ -73,7 +73,7 @@
       * [Push Notifications](android/components/push-notifications.md)
       * [User Interface](android/components/user-interface/README.md)
         * [Button](android/components/user-interface/button.md)
-        * [Switch+Toggle](android/components/user-interface/toggle.md)
+        * [Switch+Toggle](android/components/user-interface/switch-toggle.md)
         * [Floating Action Button](android/components/user-interface/fab-floating-action-button.md)
         * [Label](android/components/user-interface/label.md)
         * [TextBox + Password + Email Picker](android/components/user-interface/textbox.md)
