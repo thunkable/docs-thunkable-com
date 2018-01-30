@@ -33,6 +33,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Background Image | You can upload an image to your app or reference an image url. If an image is uploaded, it will negate the background color property |
 | Text Alignment | Left, center or right |
 | Font Size | Point size for text drawn on the Canvas |
+| Font Typeface | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
 | Visible | If checked, the Canvas will be visible on the screen |
 
 ---

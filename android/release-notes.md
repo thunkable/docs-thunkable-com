@@ -4,6 +4,20 @@
 
 ---
 
+#### Jan 29, 2018 `v3.29`
+
+New components
+
+* [Switch](/Sw)
+* [Toggle](/android/components/user-interface/toggle.md) 
+
+Component updates
+
+* [Canvas](/android/components/gaming/canvas.md) - supports the ability to customize fonts
+* [Web Viewer](/android/components/webviewer.md) - supports local storage for browsers and web pages that support it
+
+---
+
 #### Dec 13, 2017 `v3.27`
 
 Platform updates
