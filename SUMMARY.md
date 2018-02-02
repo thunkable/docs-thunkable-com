@@ -42,6 +42,7 @@
         * [Web API](ios/components/data-storage/web-api.md)
       * [Map / Location](ios/components/location/README.md)
         * [Maps](ios/components/location/maps.md)
+        * [Google Maps](ios/components/location/google-maps.md)
       * [Sensors](ios/components/user-interface/sensors.md)
         * [Timer](ios/components/user-interface/sensors/timer.md)
     * [Blocks](ios/blocks/README.md)

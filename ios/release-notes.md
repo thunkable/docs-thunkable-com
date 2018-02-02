@@ -4,6 +4,19 @@
 
 ---
 
+#### Feb 2, 2018 `v28`
+
+New components
+
+* [Google Maps](/ios/components/location/google-maps.md) - basic support for Google Maps; more features to be added in the future
+
+Bug fix
+
+* Enables invisible components to be blocked on other screens besides Screen 1
+* Fixes some issues with disappearing blocks
+
+---
+
 #### Jan 14, 2018 `v27`
 
 Bug fix
