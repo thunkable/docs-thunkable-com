@@ -34,7 +34,7 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 
 iOS 
 
-* Coming soon!
+* [Click here](/ios/idea.md)
 
 Android ❤
 
@@ -84,15 +84,7 @@ Android ❤
 
 ## Quick, bite-sized tutorials
 
-If it's your first time here, we recommend that you get started with some of our favorite tutorials:
-
-iOS 
-
-* [Introduction](https://www.youtube.com/watch?v=x3Dj-TwcqX4&list=PLB89L9PPGIrza15zlTcSiPbeSGMOOOPqg)
-
-Android ❤
-
-* [Beginner](https://www.youtube.com/watch?v=QGzeUR__tmY&list=PLB89L9PPGIrxmB3GZXaxjK3Pq2Crqp14A) - brand new and really fun!
+If it's your first time here, we recommend that you get started with some of our [favorite tutorials on YouTube](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw)
 
 ---
 
