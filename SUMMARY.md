@@ -1,6 +1,7 @@
 # Summary
 
 * [Home](README.md)
+* [✕ Thunkable Cross-Platform \(Beta\)](thunkable-cross-platform-beta.md)
 * [ Thunkable iOS](ios/README.md)
   * [0 / FAQs](ios/faqs.md)
   * [1 / Sample Apps](ios/idea.md)
