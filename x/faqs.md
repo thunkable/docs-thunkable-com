@@ -1,5 +1,7 @@
 #### **Thunkable Cross-Platform **✕ \(Beta\)
 
+![](/assets/thunkable-x-beta.png)
+
 # Welcome to Thunkable X.
 
 Thunkable ✕ is our new platform where anyone can build their own mobile and tablet apps on Android, iOS or_ both_. Users create a single project that works on both Android and iOS devices.
