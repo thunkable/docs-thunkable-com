@@ -4,11 +4,24 @@
 
 ---
 
+#### Feb 8, 2018 `v3.31`
+
+Platform updates
+
+* Package name - new apps will have the following package name format `com.android.{username}.{appname}`
+
+Component updates
+
+* [Switch](/android/components/user-interface/switch-toggle.md) - change default track color to gray
+* [Toggle](/android/components/user-interface/toggle.md) - improvements to phone preview
+
+---
+
 #### Jan 29, 2018 `v3.29`
 
 New components
 
-* [Switch](/Sw) \(User Interface\)
+* [Switch](/android/components/user-interface/switch-toggle.md) \(User Interface\)
 * [Toggle](/android/components/user-interface/toggle.md) \(User Interface\)
 
 Component updates

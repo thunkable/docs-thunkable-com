@@ -23,9 +23,9 @@ Toggles and switches are useful buttons for switching a user between two setting
 
 | Property | Description |
 | :--- | :--- |
-| Turned On | Default \(Off\). If checked, toggle will be set to "on"  |
+| Turned On | Default \(Off\). If checked, toggle will be set to "on" |
 | Thumb Color | Default \(Gray\). Color of the switch dial. You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
-| Track Color | Default \(White\). Color of the switch track. You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
+| Track Color | Default \(Gray\). Color of the switch track. You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Click | User taps and releases the switch |
 
 #### Advanced Settings
@@ -63,7 +63,7 @@ Toggles and switches are useful buttons for switching a user between two setting
 
 | Property | Description |
 | :--- | :--- |
-| Turned On | Default \(Off\). If checked, toggle will be set to "on"  |
+| Turned On | Default \(Off\). If checked, toggle will be set to "on" |
 | Text On | Text that will be displayed on toggle when set to "on" |
 | Text Off | Text that will be displayed on toggle when set to "off" |
 | Text Color | Default \(Black\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks edito |
