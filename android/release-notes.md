@@ -8,7 +8,7 @@
 
 Platform updates
 
-* Package name - new apps will have the following package name format `com.android.{username}.{appname}`
+* Package name - new apps will have the following package name format `com.{username}.{appname}`
 
 Component updates
 
