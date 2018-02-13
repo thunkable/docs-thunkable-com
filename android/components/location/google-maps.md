@@ -6,6 +6,8 @@
 
 Google Maps is one of the most popular and powerful components on Thunkable.  It enables users to locate themselves, share that location with others in real-time \(in combination with Firebase\) or map geo-located assets \(in combination with Spreadsheets powered by Cloudstitch\).
 
+**IMPORTANT: Only one Google Maps component can work per screen**
+
 The map itself can be styled in a million different ways and the markers you add to the map can be customized in a number of ways.
 
 * [Auto-centering map on user's location](#map-autocenter)
