@@ -1,4 +1,4 @@
-| `For AdMob, Thunkable charges a maintenance fee of 5% of the ad revenue generated for use of the AdMob component. In order to use the AdMob component, users must comply with`[`Google Play and AdMob Policies`](https://support.google.com/googleplay/android-developer/answer/113474). `If you violates these policies, Thunkable may disable your apps from showing ads, or for repeated violations, disable your account entirely (See `[`Thunkable's Terms of Use`](https://thunkable.com/#/terms)`).` |
+| `For AdMob, Thunkable charges a maintenance fee of 5% of the ad revenue generated for use of the AdMob component. In order to use the AdMob component, users must comply with`[`Google Play and AdMob Policies`](https://support.google.com/googleplay/android-developer/answer/113474). `If you violate these policies, Thunkable may disable your apps from showing ads, or for repeated violations, disable your account entirely (See`[`Thunkable's Terms of Use`](https://thunkable.com/#/terms)`).` |
 | :--- |
 
 
@@ -14,7 +14,9 @@ The AdMob components tap into one of the largest mobile ad networks currently av
 * [Loading an Ad](#loading-an-ad)
 * [Troubleshooting](#troubleshooting)
 
-**Important**: We recommend that app developers audience first before implementing ads both because it takes away from the user experience and without a sufficient audience, you won't generate much revenue anyway. Google will also refund advertisers and debit developers if there are too many accidental or fraudulent clicks and even disable an ad or an account where it detects there are.
+**Important: Apps that are created specifically for earning money via AdMob e.g. earning apps, auto-impression apps are in violation of Google Play and AdMob Policies. **Thunkable reserves the right to disable your apps from showing ads, or for repeated violations, disable your account entirely \(See [Thunkable's Terms of Use](https://thunkable.com/#/terms)\).
+
+In addition, we recommend that app developers audience first before implementing ads both because it takes away from the user experience. Without a sufficient audience, you won't generate much revenue anyway. Google will also refund advertisers and invalidate accidental or fraudulent clicks and even disable an ad or an account where it detects there are.
 
 AdMob offers two types of ads:
 
