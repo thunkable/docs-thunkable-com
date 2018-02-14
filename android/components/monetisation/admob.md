@@ -1,4 +1,4 @@
-| `For AdMob, Thunkable charges a maintenance fee of 5% of the ad revenue generated for use of the AdMob component. In order to use the AdMob component, users must comply with`[`Google Play and AdMob Policies`](https://support.google.com/googleplay/android-developer/answer/113474).`Please note that according to `[`Thunkable's Terms of Use`](https://thunkable.com/#/terms)`, accounts that violate these policies may be disabled from showing ads or removed. ` |
+| `For AdMob, Thunkable charges a maintenance fee of 5% of the ad revenue generated for use of the AdMob component. In order to use the AdMob component, users must comply with`[`Google Play and AdMob Policies`](https://support.google.com/googleplay/android-developer/answer/113474). `If you violates these policies, Thunkable may disable your apps from showing ads, or for repeated violations, disable your account entirely (See `[`Thunkable's Terms of Use`](https://thunkable.com/#/terms)`).` |
 | :--- |
 
 
