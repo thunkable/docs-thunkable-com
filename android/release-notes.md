@@ -4,6 +4,14 @@
 
 ---
 
+#### Feb 20, 2018 `v3.32`
+
+Platform updates
+
+* Package name - preserves existing package name for projects that have "check point"; imported projects can also preserve their package name by selecting "uploading legacy app project \(.aia\) from my computer"
+
+---
+
 #### Feb 8, 2018 `v3.31`
 
 Platform updates
