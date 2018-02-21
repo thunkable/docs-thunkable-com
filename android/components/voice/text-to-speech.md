@@ -75,7 +75,7 @@ According to [this article](https://en.wikipedia.org/wiki/Google_Text-to-Speech)
 | :--- | :--- |
 | Speak \(message\) | Converts a text 'message' into speech |
 | Before Speaking | Before the text is spoken |
-| After Speaking \(result\) | After the text is spoken, the 'result' refers to the spoken text |
+| After Speaking \(result\) | If text is spoken, the 'result' returns 'true' |
 
 
 
