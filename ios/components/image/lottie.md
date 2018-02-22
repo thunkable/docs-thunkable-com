@@ -12,7 +12,7 @@ Big thanks to the team at Airbnb for doing much of the work to enable what has b
 
 ---
 
-#### 
+#### ![](/assets/lottie-fig-1.gif)
 
 #### Functionality
 
