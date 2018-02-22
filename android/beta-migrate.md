@@ -19,7 +19,7 @@
 * Sign into [Thunkable for Android Beta](https://beta.thunkable.com)
 * Select the project you would like to download 
 
-![](/assets/migrate-fig-1.png)![](/assets/import-fig-9.png)
+![](/assets/migrate-fig-1.png)
 
 The code for the app is now downloaded to your computer. It is a file that is titled &lt;your\_app\_name&gt;.aia.
 
@@ -29,7 +29,7 @@ The code for the app is now downloaded to your computer. It is a file that is ti
 
 * Sign into [Thunkable for Android](https://app.thunkable.com)
 
-![](/assets/migrate-fig-2.png)
+![](/assets/legacy.png)
 
 Select the project that you previously downloaded
 
@@ -56,7 +56,7 @@ The code for the app is now downloaded to your computer. It is a file that is ti
 
 * Sign into [Thunkable for Android](https://app.thunkable.com)
 
-![](/assets/migrate-fig-2.png)
+![](/assets/legacy.png)
 
 ### Step 4. Import your keystore to Thunkable for Android \(Main Platform\) {#exporting-your-keystore-from-mit-app-inventor}
 
@@ -139,6 +139,4 @@ You can also download the apk directly from your apps home page by clicking on t
 You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play. Make sure to edit your app version number.
 
 For more details, you may want to start with [Introduction to Publishing on Google Play](https://developer.android.com/distribute/tools/launch-checklist.html) and [Google Support on Uploading to Google Play](https://support.google.com/googleplay/android-developer/answer/113469?hl=en&topic=2365624&ctx=topic).
-
-
 
