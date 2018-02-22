@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Lottie Animation
+# Lottie Animation ![](/assets/iOSviewIconLottie.png)
 
 ---
 

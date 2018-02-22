@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Drawer Navigator ![](/assets/drawer-nav-ios-icon.png)
+# Drawer Navigator ![](/assets/iOSviewIconDrawerNavigator Copy.png)
 
 ---
 

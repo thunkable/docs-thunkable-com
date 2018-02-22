@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Google Maps ![](/assets/google-maps-icon.png)
+# Google Maps ![](/assets/iOSviewIconGoogleMap.png)
 
 ---
 

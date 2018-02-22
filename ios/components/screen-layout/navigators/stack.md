@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Stack ![](/assets/stack-nav-ios-icon.png)
+# Stack ![](/assets/iOSviewIconStackNavigator.png)
 
 ---
 

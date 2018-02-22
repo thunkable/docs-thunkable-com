@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Photo Library \(aka Image Picker\) ![](/assets/photo-lib-ios-icon.png)
+# Photo Library \(aka Image Picker\) ![](/assets/iOSviewIconCameraRoll.png)
 
 ---
 

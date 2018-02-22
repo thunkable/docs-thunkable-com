@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Timer ![](/assets/timer-ios-icon.png)
+# Timer ![](/assets/iOSviewIconTimer.png)
 
 ---
 
@@ -21,9 +21,9 @@ The Timer is a popular component that uses the internal clock on a phone to to t
 | Frequency | Use case | Enabled | Loops |
 | :--- | :--- | :--- | :--- |
 | Just once when app starts | Splash screen | `true` \(default\) | `false` \(default\) |
-| Just once but after app starts | Loading data when opening a new screen | Set to `false`initially. Set to `true `when you want to start the Timer | `false` |
-| Looping when app starts | Playing background music in a game | `true` \(default\) | `true`  |
-| Looping during certain intervals of the app | Collecting location data | Set to `false`initially. Set to `true `when you want to start the Timer and then `false`when you want the looping to stop. | `true`   |
+| Just once but after app starts | Loading data when opening a new screen | Set to `false`initially. Set to `true`when you want to start the Timer | `false` |
+| Looping when app starts | Playing background music in a game | `true` \(default\) | `true` |
+| Looping during certain intervals of the app | Collecting location data | Set to `false`initially. Set to `true`when you want to start the Timer and then `false`when you want the looping to stop. | `true` |
 
 ---
 
@@ -38,6 +38,4 @@ If 'enabled' is set to `true`, the Timer will trigger on its own when the app st
 To trigger an event, you'll need to set up the blocks like the example below
 
 ![](/assets/timer-ios-fig-1.png)
-
-
 

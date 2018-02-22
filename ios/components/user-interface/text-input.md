@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Text Input ![](/assets/text-input-ios-icon.png)
+# Text Input ![](/assets/iOSviewIconTextInput.png)
 
 ---
 

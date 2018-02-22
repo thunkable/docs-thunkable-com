@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Camera ![](/assets/camera-ios-icon.png)
+# Camera ![](/assets/iOSviewIconCamera.png)
 
 ---
 
