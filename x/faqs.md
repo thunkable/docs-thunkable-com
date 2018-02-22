@@ -2,7 +2,7 @@
 
 ![](/assets/thunkable-x-illustration.png)
 
-# Welcome to Thunkable ✕.
+# Welcome to Thunkable ✕
 
 Thunkable ✕ is the new platform where anyone can build apps on Android or iOS. Users create a single project that works on both Android and iOS devices.
 
