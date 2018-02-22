@@ -4,9 +4,21 @@
 
 ---
 
+#### Feb 22, 2018 `v30`
+
+New component
+
+* [Lottie](/ios/components/location/google-maps.md) - support for uber-popular animation service
+
+Platform updates
+
+* More descriptive email messages for download and publish
+
+---
+
 #### Feb 2, 2018 `v28`
 
-New components
+New component
 
 * [Google Maps](/ios/components/location/google-maps.md) - basic support for Google Maps; more features to be added in the future
 
