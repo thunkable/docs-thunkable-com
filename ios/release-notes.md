@@ -8,7 +8,7 @@
 
 New component
 
-* [Lottie](/ios/components/location/google-maps.md) - support for uber-popular animation service
+* [Lottie](/ios/components/image/lottie.md) - support for uber-popular animation service
 
 Platform updates
 

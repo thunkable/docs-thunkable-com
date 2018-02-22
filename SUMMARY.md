@@ -37,6 +37,7 @@
         * [Photo Library](ios/components/image/photo-library.md)
         * [Image Recognizer](ios/components/image/image-recognizer.md)
         * [Image](ios/components/image/image.md)
+        * [Lottie Animation](ios/components/image/lottie.md)
       * [Data / Storage](ios/components/data-storage/README.md)
         * [Local Storage](ios/components/data-storage/local-storage.md)
         * [Realtime Database](ios/components/data-storage/realtime-db.md)
