@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Realtime Database ![](/assets/firebase-ios-icon.png) powered by Firebase
+# Realtime Database ![](/assets/iOSviewIconFirebaseDB.png) powered by Firebase
 
 ---
 

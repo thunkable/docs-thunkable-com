@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Row \(aka Horizontal Arrangement\) ![](/assets/row-ios-icon.png)
+# Row \(aka Horizontal Arrangement\) ![](/assets/iOSviewIconRow.png)
 
 ---
 

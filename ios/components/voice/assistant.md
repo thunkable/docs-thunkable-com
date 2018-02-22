@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Assistant aka Chatbot ![](/assets/dialogflow-assistant-ios-icon.png) powered by Dialogflow
+# Assistant aka Chatbot ![](/assets/iOSviewIconDialogflow.png) powered by Dialogflow
 
 ---
 

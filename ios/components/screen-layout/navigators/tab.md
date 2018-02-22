@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Tab Navigator ![](/assets/tab-nav-ios-icon.png)
+# Tab Navigator ![](/assets/iOSviewIconTabNavigator.png)
 
 ---
 

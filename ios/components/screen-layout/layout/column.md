@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Column \(aka Vertical Arrangement\) ![](/assets/column-ios-icon.png)
+# Column \(aka Vertical Arrangement\) ![](/assets/iOSviewIconCloumn.png)
 
 ---
 
