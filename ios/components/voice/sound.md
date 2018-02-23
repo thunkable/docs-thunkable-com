@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Sound ![](/assets/iOSviewIconSound.png)
+# Sound  ![](/assets/iOSviewIconSound.png)
 
 ---
 
