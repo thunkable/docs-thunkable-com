@@ -8,7 +8,7 @@
 
 New component
 
-* [Lottie](/ios/components/image/lottie.md) - support for uber-popular animation service
+* [Lottie](/ios/components/image/lottie.md) - support for very popular component that renders After Effects animations in real time, allowing apps to use animations as easily as they use static images
 
 Platform updates
 

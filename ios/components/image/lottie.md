@@ -4,15 +4,15 @@
 
 ---
 
-[Lottie Animation](https://airbnb.design/lottie/) renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.
+[Lottie Animation](https://airbnb.design/lottie/) renders animations created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) in real time, allowing apps to use animations as easily as they use static images.
 
-There is a large community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) in After Effects that you can easily add to your app.
+There is a large and growing community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) in After Effects that you can easily add to your app.
 
-Big thanks to the team at Airbnb for doing much of the work to enable what has become a very popular way to jazz up an app.
+Big thanks to the team at Airbnb for enabling one of the most popular open technologies in apps today!
 
 ---
 
-#### 
+#### ![](/assets/lottie-fig-1.gif)
 
 #### Functionality
 
