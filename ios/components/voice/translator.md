@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Translator ![](/assets/iOSviewIconYandex.png)powered by Yandex
+# Translator ![](/assets/iOSviewIconYandex.png) powered by Yandex
 
 ---
 

@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Image Recognizer ![](/assets/iOSviewIconImageRecognizer.png) powered by Microsoft
+# Image Recognizer ![](/assets/iOSviewIconImageRecognizer.png)  powered by Microsoft
 
 ---
 

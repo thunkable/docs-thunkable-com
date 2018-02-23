@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Local Storage \(aka Tiny DB\) ![](/assets/iOSviewIconLocalStorage.png)
+# Local Storage \(aka Tiny DB\) ![](/assets/iOSviewIconLocalStorage Copy.png)
 
 ---
 
