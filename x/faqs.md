@@ -28,8 +28,8 @@ Please refer to the table below for the latest functionality that is available
 
 |  | Live Test | Download to Phone | Publish to Play / App Store | Share app project |
 | :--- | :--- | :--- | :--- | :--- |
-| Android | Available now | Coming soon! | Coming soon! | Available now |
+| Android | Available now | Coming soon!\* | Coming soon! | Available now |
 | iOS | Available now | Available now | Available now | Available now |
 
-
+\*You may see an option to download your app to your Android; if you install it, it may delete your Android companion
 
