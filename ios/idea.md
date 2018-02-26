@@ -12,9 +12,9 @@ However, understanding what is possible in an app is not easy especially if you 
 
 Below are a few of our favorites with more to come!
 
-| Image Recognizer _powered by Microsoft_![](/assets/image-recognizer-ios-fig-2.png)[**Copy the app source code**](https://goo.gl/sEgsfA) | Aloha Chat _powered by Firebase and Lottie _[**Copy the app source code**](https://goo.gl/mvDBpA) |
+| Image Recognizer _powered by Microsoft_![](/assets/image-recognizer-ios-fig-2.png)[**Download a copy of this app**](https://goo.gl/sEgsfA) | Aloha Chat _powered by Firebase and Lottie _![](/assets/ios-sample-app-chat.png)_ _[**Download a copy of this app**](https://goo.gl/Jv52c1) |
 | :--- | :--- |
-| **Weather **_**powered by Weather Underground **_![](/assets/web-api-ios-fig-2.png)[**Copy the app source code**](https://goo.gl/P1YVAE) |  |
+| **Weather **_**powered by Weather Underground **_![](/assets/web-api-ios-fig-2.png)[**Download a copy of this app**](https://goo.gl/P1YVAE) |  |
 
 
 

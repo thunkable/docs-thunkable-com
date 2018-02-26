@@ -14,7 +14,7 @@ Big thanks to the team at Airbnb for enabling one of the most popular open techn
 
 #### ![](/assets/lottie-fig-1.gif)
 
-#### [Download a copy of this app](https://ios.thunkable.com/copy/5a90a9ce14bdc00001d6e4d4)
+#### [Download a copy of this app](https://goo.gl/Jv52c1)
 
 ---
 
