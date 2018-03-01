@@ -44,7 +44,7 @@ Apps often take a few seconds to load which can be very discouraging to a new us
 
 ![](blob:https://www.gitbook.com/e5d2b511-8785-477f-b6a9-ac17d4e50c03)
 
-You can [watch this tutorial](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) to learn more
+You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to learn more
 
 ---
 
