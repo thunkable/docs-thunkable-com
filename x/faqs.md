@@ -22,10 +22,8 @@ Please refer to the table below for the latest functionality that is available
 
 |  | Live Test | Download to Phone | Publish to Play / App Store | Share app project |
 | :--- | :--- | :--- | :--- | :--- |
-| Android | Available now | Coming soon!\* | Coming soon! | Available now |
+| Android | Available now | Available now | Coming soon! | Available now |
 | iOS | Available now | Available now | Available now | Available now |
-
-\*You may see an option to download your app to your Android; if you install it, it may delete your Android companion
 
 **I am a Thunkable Android user. How will **✕** work for me?  Can I import my projects?**
 
@@ -36,6 +34,4 @@ Unfortunately, that means projects on Thunkable Android are not easily importabl
 **I am a Thunkable iOS user. How will **✕** work for me?  Can I import my projects?**
 
 Thunkable ✕ works similarly to Thunkable iOS \(similar components, workflow etc\) with the added benefit that projects you create for iOS will also work on your Android devices.
-
-
 
