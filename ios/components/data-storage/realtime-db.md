@@ -8,6 +8,10 @@ Realtime DB powered by Firebase is cloud storage component that stores and retri
 
 This version of the component supports storing app data in unique project buckets associated with a user's project. You can add your own private database instance by following the instructions below.
 
+* [Save, Retrieve and Update Data in Realtime](#save-retrieve--update-data-in-realtime)
+
+* [Using Your Own Private Firebase Account](#private-firebase) \(recommended\)
+
 ---
 
 #### Save Data to Firebase
@@ -34,23 +38,27 @@ This version of the component supports storing app data in unique project bucket
 
 ---
 
-#### Use Your Own Firebase Instance
+#### Use Your Own Private Firebase Account \(recommended\) {#private-firebase}
 
-#### Step 1 Create an account with Firebase for free \(you can upgrade to a paid plan later\) and create a new app project. In Database 'Rules', set "read" and "write" to 'true' \(they will be set to 'false' by default\).
+IMPORTANT As a general rule, user data should always be kept secure.  We strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself.  Firebase Realtime Database also pairs well with [Sign in](/ios/components/screen-layout/authentication/sign-in.md) and you can use a single Firebase project for both services.
 
-#### ![](/assets/firebase-ios-fig-6.png)
+#### Step 1 / Create an account with [Firebase](https://firebase.google.com/) for free \(you can upgrade to a paid plan later\)
 
-#### 
+#### Step 2 / After creating your project, retrieve the API key and database URL for your project from the Firebase console.  One way to retrieve those values is illustrated below.
 
-#### Step 2 Add Firebase to your iOS app and generate a .plist file by following the steps below. The .plist file is a file that Google requires to enable services like Firebase in your app. Note that you can use the same Firebase project for your Android and iOS app.
+#### ![](/assets/firebase-ios-fig-3.png)![](/assets/firebase-ios-fig-4.png)
 
-![](/assets/firebase-ios-fig-3.png)![](/assets/firebase-ios-fig-4.png)![](/assets/firebase-ios-fig-5.png)
+#### Step 3 / On Thunkable, you can simply copy the API key and database URL into App Settings \(which you can find by clicking on your project app icon on the top left. ![](/assets/firebase-ios-fig-5.png)
 
-#### Step 3 Drag and drop the .plist in you assets folder on Thunkable
+#### Step 4 / If you are using Firebase with a [Sign In](/ios/components/screen-layout/authentication/sign-in.md), you can leave the database rules as they are by default.
 
-![](/assets/firebase-ios.gif)
+![](/assets/firebase-ios-fig-6.png)
 
-#### Step 4 After Downloading or Publishing Your App, View and Edit Database Contents
+#### If you do not want to require users to sign in, you'll need to change your database rules to accept users to save to your database.
 
-IMPORTANT: Private database instance will not work during live testing
+![](/assets/firebase-ios-fig-7.png)
+
+#### Congrats you should be all set up!  You can view and manage your data in Firebase
+
+
 
