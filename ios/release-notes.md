@@ -4,7 +4,7 @@
 
 ---
 
-#### Mar 7, 2018 `v31`
+#### Mar 6, 2018 `v31`
 
 New component
 
