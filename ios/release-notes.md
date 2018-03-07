@@ -18,6 +18,8 @@ Component updates
 
 Platform updates
 
+* Easier discoverability of uploading files \(now in the bottom left under the component tree\)
+
 * Error message when dropping a Navigator or Screen to the Phone previewer; they can only be added to the Visible components section of the tree
 
 * Small updates to sharing by link and notifications during download and publish
