@@ -4,9 +4,9 @@
 
 ---
 
-Media Database powered by Cloudinary is an easy-to-use service for uploading your images, audio files and videos in the cloud and returning a url where you can retrieve the image. 
+Media Database powered by Cloudinary is an easy-to-use service for uploading your images, audio files and videos in the cloud and returning a url where you can retrieve the image.
 
-IMPORTANT Thunkable provides its own API key by default for your convenience but if you may want to use your own Cloudinary key to ensure more privacy for your user's images or increase the 10MB image file size limit
+IMPORTANT Thunkable provides its own API key by default for your convenience but if you may want to use your own Cloudinary key to ensure more privacy for your user's images or increase the 10MB image file size limit. We may also clean out our shared Cloudinary account periodically.
 
 ---
 

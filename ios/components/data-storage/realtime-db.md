@@ -8,6 +8,8 @@ Realtime DB powered by Firebase is cloud storage component that stores and retri
 
 This version of the component supports storing app data in unique project buckets associated with a user's project. You can add your own private database instance by following the instructions below.
 
+IMPORTANT As a general rule, user data should always be kept secure.  We strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself. We provide our database for your convenience but we may also clean out our shared account periodically.
+
 * [Save, Retrieve and Update Data in Realtime](#save-retrieve--update-data-in-realtime)
 
 * [Using Your Own Private Firebase Account](#private-firebase) \(recommended\)
