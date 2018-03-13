@@ -2,8 +2,8 @@
 
 * [Home](README.md)
 * [✕ Thunkable Cross-Platform \(Beta\)](x/README.md)
-  * [0 / FAQs](x/faqs/0-faqs.md)
-  * [1 / Sample Apps](x/faqs/1-sample-apps.md)
+  * [0 / FAQs](x/0-faqs.md)
+  * [1 / Sample Apps](x/1-sample-apps.md)
   * [Release Notes](x/release-notes.md)
 * [ Thunkable iOS](ios/README.md)
   * [0 / FAQs](ios/faqs.md)
