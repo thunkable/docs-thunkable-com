@@ -6,8 +6,9 @@
 
 | Element | Limit |
 | :--- | :--- |
-| App size | 25 MB |
-| App icon size | Up to 25 MB \([uploaded separately](https://docs.thunkable.com/ios/components/app-settings/custom-icon-+-app-name.html) from Media\) |
+| App size | 50 MB |
+| App icon size | Up to app size of 50 MB |
+| Account size limit | 200 MB |
 | Screens | None |
 | Download | One app per phone |
 
