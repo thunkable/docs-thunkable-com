@@ -12,7 +12,7 @@ However, understanding what is possible in an app is not easy especially if you 
 
 Below are a few of our favorites with more to come!
 
-| Aloha Chat _powered by Firebase and Lottie _![](/assets/ios-sample-app-chat.png)_ _[**Download a copy of this app**](https://goo.gl/Jv52c1) |
+| Aloha Chat _powered by Firebase and Lottie _![](/assets/ios-sample-app-chat.png)_ _[**Download a copy of this app**](https://x.thunkable.com/copy/5aa8131939eea10001c7d652) |
 | :--- |
 
 
