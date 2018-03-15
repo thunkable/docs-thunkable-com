@@ -9,8 +9,8 @@ The Sign In component supports email and password for any app where a developer 
 IMPORTANT To use Sign In, you'll need to first create your own Firebase account and project
 
 * [Set up](#set-up)
-* [Basic sign up / sign in](#sign-up--sign-in-)
-* [Sign up / sign in with persistent login](#sign-up--sign-in-with-persistent-login-)
+* [Basic sign up / sign in](#basic-sign-up--sign-in-)
+* [Sign up / sign in with persistent login](#sign-up--sign-in-with-persistent-login)
 
 ![](/assets/sign-in-firebase-fig-1.png)
 
