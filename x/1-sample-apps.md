@@ -12,9 +12,10 @@ However, understanding what is possible in an app is not easy especially if you 
 
 Below are a few of our favorites with more to come!
 
-| Aloha Chat _powered by Firebase and Lottie \(This version is currently anonymous -- no set-up required\)_![](/assets/ios-sample-app-chat.png)[_ _**Download a copy of this app**](https://goo.gl/eH3CeL) |
-| :--- |
-
+| Sample App | Description | Set up |
+| :--- | :--- | :--- |
+| Aloha \(Beginner\) ![](/assets/✕-aloha.png) [**Copy this app**](https://goo.gl/eH3CeL) | Aloha is a simple anonymous chat app ![](/assets/firebase-icon.png)![](/assets/lottie-icon.png) | None |
+| Thunkablegram \(Advanced\)  ![](/assets/✕-thunkablegram.png)[**Copy this app**](https://goo.gl/qUVUHK)** ** | Thunkablegram is an ad-free, auto-captioning and now secure private photo sharing app ![](/assets/firebase-icon.png)![](/assets/lottie-icon.png)![](/assets/cloudinary-icon.png)![](/assets/microsoft-icon.png) | Users must create their own Firebase account and add their own API keys and database url in their account settings |
 
 
 
