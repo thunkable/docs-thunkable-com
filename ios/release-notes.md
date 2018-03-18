@@ -4,6 +4,26 @@
 
 ---
 
+#### Mar 20, 2018 `v32`
+
+Platform updates
+
+* Number of project shares now tracked on project page
+
+Component updates
+
+* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](/ios/components/voice/translator.md), Text to Speech and Assistant
+* Transparent color now available as a color property across all visible components
+* Easy select and upload via Picture property for Image component
+
+Bug fixes
+
+* [Function](/ios/blocks/functions.md) blocks now work again
+* Blocks strings now accepted as numbers
+* Changing dropdown component in blocks or duplicating blocks now keeps the same property
+
+---
+
 #### Mar 6, 2018 `v31`
 
 New component
