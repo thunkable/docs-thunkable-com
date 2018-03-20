@@ -63,6 +63,7 @@
       * [Objects](ios/blocks/objects.md)
       * [Variables](ios/blocks/variables.md)
       * [Functions](ios/blocks/functions.md)
+    * [Make Copy](ios/components/make-copy.md)
   * [3 / Test Live](ios/live-test.md)
   * [4 / Download](/ios/download.md#step-4-download)
   * [5 / Publish](ios/publish.md)
