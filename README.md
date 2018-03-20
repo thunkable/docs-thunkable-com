@@ -8,16 +8,17 @@
 
 ## What is Thunkable?
 
-Thunkable is platform where anyone can build their own mobile apps without having to code. Available on Android and iOS.
+Thunkable is platform where anyone can build their own mobile apps without having to code. Available on Android, iOS or both.
 
 Get familiar with our platforms and explore their features:
 
 #### **Thunkable Cross-Platform ✕ ** ❤ \(Beta\) \|** **[More Info](/docs.thunkable.com/x/)
 
-* 
+* New platform where anyone can build apps on Android or iOS. Users create a single project that works on both Android and iOS devices. 
+
 #### **Thunkable iOS ** \|** **[**Login**](https://ios.thunkable.com) \| [More Info](/ios/README.md)
 
-* New platform for iOS featuring the same drag and drop, no code app building experience with live testing and a few added surprises
+* Platform for iOS featuring the same drag and drop, no code app building experience with live testing and a few added surprises
 
 #### **Thunkable Android **❤** **\|** **[**Login**](http://app.thunkable.com/) \| [More Info](/android/README.md)
 
@@ -37,11 +38,11 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 
 #### **Sample apps**
 
-* [**Thunkable Cross-Platform ✕  ❤ \(Beta\)**](https://docs.thunkable.com/x/1-sample-apps.html)
+* [Thunkable Cross-Platform ✕  ❤ \(Beta\)](https://docs.thunkable.com/x/1-sample-apps.html)
 
-* [**Thunkable iOS ** ](https://docs.thunkable.com/ios/idea.html)
+* [Thunkable iOS  ](https://docs.thunkable.com/ios/idea.html)
 
-* [**Thunkable Android **❤](https://docs.thunkable.com/android/sample-apps.html)
+* [Thunkable Android ❤](https://docs.thunkable.com/android/sample-apps.html)
 
 ---
 

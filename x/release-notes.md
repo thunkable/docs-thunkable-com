@@ -9,13 +9,13 @@
 Platform updates
 
 * Download Android app now supports a default package name and app icon
-* Number of project shares now tracked on project page
+* Number of project [shares](/ios/6-share.md) now tracked on project page
 
 Component updates
 
-* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](/ios/components/voice/translator.md), Text to Speech and Assistant
+* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](/ios/components/voice/translator.md), [Text to Speech](/ios/components/voice/text-to-speech.md) and [Assistant](/ios/components/voice/assistant.md)
 * Transparent color now available as a color property across all visible components
-* Easy select and upload via Picture property for Image component
+* Easy select and upload via Picture property for [Image](/android/components/image/README.md) component
 
 Bug fixes
 
