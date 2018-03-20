@@ -12,9 +12,41 @@ However, understanding what is possible in an app is not easy especially if you 
 
 Below are a few of our favorites with more to come!
 
-| Image Recognizer _powered by Microsoft_![](/assets/image-recognizer-ios-fig-2.png)[**Download a copy of this app**](https://goo.gl/sEgsfA) | Aloha Chat _powered by Firebase and Lottie _![](/assets/ios-sample-app-chat.png)_ _[**Download a copy of this app**](https://goo.gl/Jv52c1) |
-| :--- | :--- |
-| **Weather **_**powered by Weather Underground **_![](/assets/web-api-ios-fig-2.png)[**Download a copy of this app**](https://goo.gl/P1YVAE) |  |
+* [Beginner](#beginner)
+* [Medium](#medium)
+* [Advanced](#advanced)
+
+---
+
+### Beginner
+
+**Aloha**  is a simple anonymous chat app powered by a Firebase Realtime Database. No set-up is required.
+
+#### [Click to copy](https://goo.gl/7QoYAC)![](/assets/✕-aloha.png)
+
+---
+
+### **Medium**
+
+**Translator** is an app that translates English text into the 20 most popular languages in the world; features advanced use of ListView and persistent data with Local Storage. No set-up is required although Thunkers can use their own Yandex API key if desired
+
+#### [Click to copy](https://goo.gl/fKP8xL)
+
+![](/assets/✕-translator.png)**Dad **is a digital version of Albert's dad, based on a recorded interview and powered by Dialogflow's Assistant service. Thunkers must create their own Dialogflow account to customize their digital version.
+
+#### [Click to copy](https://goo.gl/K4C1Um)
+
+![](/assets/✕-dad.png)
+
+---
+
+### Advanced
+
+**Gram** is an ad-free, auto-captioning and secure photo sharing alternative to the popular service. Thunkers must create their own Firebase account and add their own API keys and database url in their account settings
+
+#### [Click to copy](https://goo.gl/QFpkx4)
+
+![](/assets/✕-thunkablegram.png)
 
 
 
