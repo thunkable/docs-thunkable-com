@@ -9,7 +9,7 @@
 Platform updates
 
 * Download Android app now supports a default package name and app icon
-* Make copy 
+* [Make a copy](/ios/components/make-copy.md) of your project aka checkpoint in one click
 * Tracking of project [shares](/ios/6-share.md) now available on project page; share links no longer require a user to be logged in
 
 Component updates

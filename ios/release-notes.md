@@ -8,13 +8,14 @@
 
 Platform updates
 
-* Number of project shares now tracked on project page
+* [Make a copy](/ios/components/make-copy.md) of your project aka checkpoint in one click
+* Tracking of project [shares](/ios/6-share.md) now available on project page; share links no longer require a user to be logged in
 
 Component updates
 
-* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](/ios/components/voice/translator.md), Text to Speech and Assistant
+* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](/ios/components/voice/translator.md), [Text to Speech](/ios/components/voice/text-to-speech.md) and [Assistant](/ios/components/voice/assistant.md)
 * Transparent color now available as a color property across all visible components
-* Easy select and upload via Picture property for Image component
+* Easy select and upload via Picture property for [Image](/android/components/image/README.md) component
 
 Bug fixes
 
