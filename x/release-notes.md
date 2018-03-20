@@ -8,7 +8,7 @@
 
 Platform updates
 
-* Download Android app now supports a default package name and app icon
+* [Custom app package name ](/ios/components/app-settings/bundle-id-package-name.md)/ bundle ID now supported for both Android and iOS; app icon also supported for Android
 * [Make a copy](/ios/components/make-copy.md) of your project aka checkpoint in one click
 * Tracking of project [shares](/ios/6-share.md) now available on project page; share links no longer require a user to be logged in
 
