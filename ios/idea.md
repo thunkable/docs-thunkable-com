@@ -28,6 +28,12 @@ Below are a few of our favorites with more to come!
 
 ### **Medium**
 
+**Weather** is an app that pulls the latest temperature from the Weather Underground API and as a bonus the latest traffic from the Google Maps component; Thunkers will need to create a free account to create their own Weather Underground API key
+
+#### [Click to copy](https://goo.gl/mSsbkh)
+
+![](/assets/✕-weather.png)
+
 **Translator** is an app that translates English text into the 20 most popular languages in the world; features advanced use of ListView and persistent data with Local Storage. No set-up is required although Thunkers can use their own Yandex API key if desired
 
 #### [Click to copy](https://goo.gl/fKP8xL)
@@ -47,6 +53,4 @@ Below are a few of our favorites with more to come!
 #### [Click to copy](https://goo.gl/QFpkx4)
 
 ![](/assets/✕-thunkablegram.png)
-
-
 
