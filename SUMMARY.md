@@ -5,6 +5,7 @@
   * [0 / FAQs](x/0-faqs.md)
   * [1 / Sample Apps](x/1-sample-apps.md)
   * [Release Notes](x/release-notes.md)
+  * [Troubleshooting](x/troubleshooting.md)
 * [ Thunkable iOS](ios/README.md)
   * [0 / FAQs](ios/faqs.md)
   * [1 / Sample Apps](ios/idea.md)

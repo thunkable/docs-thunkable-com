@@ -1,4 +1,4 @@
-#### **Thunkable for iOS **
+#### Thunkable **Cross-Platform **✕ \(Beta\)
 
 # Troubleshooting
 
@@ -21,21 +21,25 @@ Common issues
 
 ---
 
-### `Download`
+### `Download for iOS`
+
+Common issues
 
 **You receive an email from the hard-working beaver saying that this app will not build**
 
-Common issues
-
 * You uploaded an icon that has the same name as an existing asset that you have uploaded
+
+### `Download for Android`
+
+Common issues not yet reported
 
 ---
 
-### `Publish`
-
-**You do not see your app uploaded to iTunes Connect**
+### `Publish for iOS`
 
 Common issues
+
+**You do not see your app uploaded to iTunes Connect**
 
 * _Login_. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
 * _Certificates_. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account.
@@ -44,5 +48,7 @@ Common issues
 
 * _Two-factor authentication_. You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
 
+### `Publish for Android`
 
+This feature is not yet available
 
