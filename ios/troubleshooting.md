@@ -29,7 +29,6 @@ Common issues
 
 * You uploaded an icon that has the same name as an existing asset that you have uploaded
 * Your app icon is not an image file
-* Your app icon is larger than the recommended 120 x 120 px
 
 ---
 
