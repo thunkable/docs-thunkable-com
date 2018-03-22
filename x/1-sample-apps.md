@@ -36,7 +36,7 @@ Below are a few of our favorites with more to come!
 
 **Weather** is an app that pulls the latest temperature from the Weather Underground API and as a bonus the latest traffic from the Google Maps component; Thunkers will need to create a free account to create their own Weather Underground API key
 
-#### [Click to copy](https://goo.gl/VwZ9X6)
+#### [Click to copy](https://goo.gl/aAH6eM)
 
 ![](/assets/✕-weather.png)
 
