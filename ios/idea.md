@@ -20,7 +20,13 @@ Below are a few of our favorites with more to come!
 
 ### Beginner
 
-**Aloha**  is a simple anonymous chat app powered by a Firebase Realtime Database. No set-up is required.
+**Feelings** is a swipe-able audio book powered by a Tab Navigator and a Text to Speech component. No set-up is required.
+
+#### [Click to copy](https://goo.gl/tsHZnj)
+
+![](/assets/✕-feelings.png)
+
+**Aloha** is a simple anonymous chat app powered by a Firebase Realtime Database. No set-up is required.
 
 #### [Click to copy](https://goo.gl/7QoYAC)![](/assets/✕-aloha.png)
 
