@@ -107,6 +107,7 @@ If you are not seeing your app build in iTunes Connect, below are a number of co
 Common issues
 
 * Download. Your app cannot build for reasons stated above. One way to check if your app is build-able is to download it to your phone first.
+* Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
 * Login. Apple ID or password were entered incorrectly. Since we don't store either one, there's no easy way for us to check so enter it slowly
 * Certificates. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account.
 
