@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Spreadsheets powered by Airtable
+# Spreadsheet powered by Airtable
 
 ---
 
@@ -54,9 +54,9 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | Event | Description |
 | :--- | :--- |
 | Get Cell \(`rowNum`, `columnName`\) | Returns the `value` of a specific cell |
-| Get Column \(`columnName`, `maxNumRows`\) | Returns a `column` as a list  |
+| Get Column \(`columnName`, `maxNumRows`\) | Returns a `column` as a list |
 | Get Row \(`rowNum`\) | Returns a `row` as an object |
-| Get All Rows  |  |
+| Get All Rows |  |
 | Get Selected Rows \(`startingRowNumber`, `numRows`\) |  |
 
 ---
@@ -68,10 +68,10 @@ You can only upload data as a new row \(and not as a new column\)
 | Event | Description |
 | :--- | :--- |
 | Create Row \(`rowObject`\) | If successful, creates a new `row` of data |
-| Set Cell \(`rowNum`,`columnName`,`value`\) | Updates the `value `of a cell in a particular `rowNum` and `columnName` |
+| Set Cell \(`rowNum`,`columnName`,`value`\) | Updates the `value`of a cell in a particular `rowNum` and `columnName` |
 | Update Row \(`rowNum`\) |  |
-| Update Row Num \(`rowNum`, `rowObject`\) |   |
-| Replace Row \(`rowNum`\) |   |
+| Update Row Num \(`rowNum`, `rowObject`\) |  |
+| Replace Row \(`rowNum`\) |  |
 | Replace Row Num \(`rowNum`, `rowObject`\) |  |
 
 ---

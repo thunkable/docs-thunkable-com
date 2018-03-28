@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Monetisation
+# Monetization
 
 ---
 
