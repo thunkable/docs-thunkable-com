@@ -4,6 +4,22 @@
 
 ---
 
+#### Mar 30, 2018
+
+New components
+
+* [Location Sensor](/android/components/location/location-sensor.md) - gets a user's current location and with permission of the user, can track a user's location history, both when the app is open and when it is in the background
+* Spreadsheets by Airtable - 
+* Payments by Stripe - enables - 
+
+Platform updates
+
+* Enables opening installed app aka Activity Starter on Android via a Control block
+* Blocks now includes zoom control and a better location for the trash can
+* Advanced properties reorganized into categories
+
+---
+
 #### Mar 20, 2018
 
 Platform updates

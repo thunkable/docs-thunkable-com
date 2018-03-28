@@ -1,10 +1,10 @@
 #### **Thunkable for iOS **
 
-# Lottie Animation ![](/assets/iOSviewIconLottie.png)
+# Animation ![](/assets/iOSviewIconLottie.png) powered by Lottie
 
 ---
 
-[Lottie Animation](https://airbnb.design/lottie/) renders animations created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) in real time, allowing apps to use animations as easily as they use static images.
+Animation powered by [Lottie ](https://airbnb.design/lottie/)renders animations created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) in real time, allowing apps to use animations as easily as they use static images.
 
 There is a large and growing community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) in After Effects that you can easily add to your app.
 

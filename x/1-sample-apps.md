@@ -22,13 +22,13 @@ Below are a few of our favorites with more to come!
 
 **Feelings** is a swipe-able audio book powered by a Tab Navigator and a Text to Speech component. No set-up is required.
 
-#### [Click to copy](https://goo.gl/xs2ZYn)
+#### [Click to remix](https://goo.gl/xs2ZYn)
 
 ![](/assets/✕-feelings.png)
 
 **Aloha** is a simple anonymous chat app powered by a Firebase Realtime Database. No set-up is required.
 
-#### [Click to copy![](/assets/✕-aloha.png)](https://goo.gl/a4zj7h)
+#### [Click to remix ![](/assets/✕-aloha.png)](https://goo.gl/a4zj7h)
 
 ---
 
@@ -36,17 +36,17 @@ Below are a few of our favorites with more to come!
 
 **Weather** is an app that pulls the latest temperature from the Weather Underground API and as a bonus the latest traffic from the Google Maps component; Thunkers will need to create a free account to create their own Weather Underground API key
 
-#### [Click to copy](https://goo.gl/aAH6eM)
+#### [Click to remix](https://goo.gl/aAH6eM)
 
 ![](/assets/✕-weather.png)
 
 **Translator** is an app that translates English text into the 20 most popular languages in the world; features advanced use of ListView and persistent data with Local Storage. No set-up is required although Thunkers can use their own Yandex API key if desired
 
-#### [Click to copy](https://goo.gl/vYQNt2)
+#### [Click to remix](https://goo.gl/vYQNt2)
 
 ![](/assets/✕-translator.png)**Dad **is a digital version of Albert's dad, based on a recorded interview and powered by Dialogflow's Assistant service. Thunkers must create their own Dialogflow account to customize their digital version.
 
-#### [Click to copy](https://goo.gl/kCXKJd)
+#### [Click to remix](https://goo.gl/kCXKJd)
 
 ![](/assets/✕-dad.png)
 
@@ -56,7 +56,7 @@ Below are a few of our favorites with more to come!
 
 **Gram** is an ad-free, auto-captioning and secure photo sharing alternative to the popular service. Thunkers must create their own Firebase account and add their own API keys and database url in their account settings
 
-#### [Click to copy](https://goo.gl/P9jWD4)
+#### [Click to remix](https://goo.gl/P9jWD4)
 
 ![](/assets/✕-thunkablegram.png)
 
