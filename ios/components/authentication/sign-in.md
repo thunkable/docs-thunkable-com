@@ -18,15 +18,15 @@ IMPORTANT To use Sign In, you'll need to first create your own Firebase account 
 
 ### Set up
 
-#### Step 1 / Create an account with [Firebase](https://firebase.google.com/) for free \(you can upgrade to a paid plan later\)
+#### Step ① / Create an account with [Firebase](https://firebase.google.com/) for free \(you can upgrade to a paid plan later\)
 
-#### Step 2 / After creating your project, retrieve the API key and database URL for your project from the Firebase console.  One way to retrieve those values is illustrated below.
+#### Step ② / After creating your project, retrieve the API key and database URL for your project from the Firebase console.  One way to retrieve those values is illustrated below.
 
 #### ![](/assets/firebase-ios-fig-3.png)![](/assets/firebase-ios-fig-4.png)
 
-#### Step 3 / On Thunkable, you can simply copy the API key and database URL into App Settings \(which you can find by clicking on your project app icon on the top left. ![](/assets/firebase-ios-fig-5.png)
+#### Step ③ / On Thunkable, you can simply copy the API key and database URL into App Settings \(which you can find by clicking on your project app icon on the top left. ![](/assets/firebase-ios-fig-5.png)
 
-#### Step 4 / On Firebase, navigate the Authentication section and the "Sign In method" tab and "Enable" Email/Password sign in. ![](/assets/firebase-ios-fig-8.png)
+#### Step ④ / On Firebase, navigate the Authentication section and the "Sign In method" tab and "Enable" Email/Password sign in. ![](/assets/firebase-ios-fig-8.png)
 
 #### In the "Templates" tab, you can edit the template you send to verify emails from your app users.
 
