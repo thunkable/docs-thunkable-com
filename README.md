@@ -14,7 +14,7 @@ Get familiar with our platforms and explore their features:
 
 #### **Thunkable Cross-Platform ✕ ** ❤ \(Beta\) \|** **[More Info](/docs.thunkable.com/x/)
 
-* New platform where anyone can build apps on Android or iOS. Users create a single project that works on both Android and iOS devices. 
+* New platform where anyone can build apps on Android or iOS without code. Users create a single project that works on both Android and iOS devices. 
 
 #### **Thunkable iOS ** \|** **[**Login**](https://ios.thunkable.com) \| [More Info](/ios/README.md)
 

@@ -4,8 +4,6 @@
 
 "**Thunk different" **_- Steve Jeaver_
 
-#### [Watch our new iOS overview tutorial videos](https://www.youtube.com/playlist?list=PLB89L9PPGIrza15zlTcSiPbeSGMOOOPqg)
-
 ---
 
 ### 6 Steps to Becoming a Developer of the Future
