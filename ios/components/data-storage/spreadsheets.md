@@ -29,8 +29,6 @@ To retrieve the API key, you'll have to navigate to the Account page and generat
 
 ![](/assets/spreadsheet-airtable-✕-fig-4.png)![](/assets/spreadsheet-airtable-✕-fig-5.png)![](/assets/spreadsheet-airtable-✕-fig-6.png)
 
-
-
 `Base ID`
 
 To retrieve the Base ID, you'll actually have go to the [Airtable API documentation](https://airtable.com/api) page and select your spreadsheet. You'll then have to select the Node.js tab of the code editor and find the Base ID in the code as shown below
@@ -42,8 +40,6 @@ To retrieve the Base ID, you'll actually have go to the [Airtable API documentat
 The Table Name and View Name can be retrieved by grabbing the fields from your spreadsheet as shown below
 
 ![](/assets/spreadsheet-airtable-✕-fig-9.png)
-
-
 
 ---
 
@@ -57,7 +53,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 | Event | Description |
 | :--- | :--- |
-|  |  |
+| Get Cell \(rowNum, columnName\) |  |
 
 
 

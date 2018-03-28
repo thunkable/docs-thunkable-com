@@ -21,7 +21,7 @@ The Location Sensor component is optimized to save battery \(since location trac
 
 | Event | Description |
 | :--- | :--- |
-| Get Current Location \(location `object`, error\) | Returns a location, which is an `object` with the following properties: i\) `latitude` and `longitude` in degrees, i\) estimated location `accuracy` in meters,  iii\) location `provider` from gps, network, passive or fused, iv\) name of `locationProvider`, v\) `speed` in meters/second, vi\) `altitude` in meters, vii\) `bearing` in degrees and viii\) `time` in milliseconds since January 1, 1970. |
+| Get Current Location | If there is no error, returns a location `object` with the following properties: i\) `latitude` and `longitude` in degrees, i\) estimated location `accuracy` in meters,  iii\) location `provider` from gps, network, passive or fused, iv\) name of `locationProvider`, v\) `speed` in meters/second, vi\) `altitude` in meters, vii\) `bearing` in degrees and viii\) `time` in milliseconds since January 1, 1970. |
 
 ---
 
@@ -37,10 +37,10 @@ Location Sensory history is stored locally on the phone so must be deleted when 
 
 | Event | Description |
 | :--- | :--- |
-| Start Tracking \(error\) | Starts tracking a user's location in the foreground and/or background depending on user's permission; Locations are stored locally on a user's phone by default |
-| Stop Tracking \(error\) | Stops tracking a user's location in the foreground and/or background depending on user's permission |
-| Get Stored Locations \(location `object`, error\) | Gets user's stored locations in as a list of location `objects` |
-| Delete Stored Locations \(error\) | Deletes a user's locally stored locations; recommended each time you start tracking a user's location |
+| Start Tracking | Starts tracking a user's location in the foreground and/or background depending on user's permission; Locations are stored locally on a user's phone by default |
+| Stop Tracking | Stops tracking a user's location in the foreground and/or background depending on user's permission |
+| Get Stored Locations | Returns a user's stored locations in as a list of location `objects` |
+| Delete Stored Locations | Deletes a user's locally stored locations; recommended each time you start tracking a user's location |
 
 
 
