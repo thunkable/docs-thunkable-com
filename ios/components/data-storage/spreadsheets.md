@@ -9,7 +9,7 @@ The backbone to many apps is data and managing your app data in a Spreadsheet ca
 Airtable looks like a spreadsheet but actually acts like a database so it can store attachments i.e. images in your spreadsheets \(and not just text\) and easily link records between spreadsheets
 
 * [Set up](#set-up)
-* [Retrieving, updating and deleting data in a spreadsheet](#retrieving-updating-and-deleting-data-in-a-spreadsheet)
+* [Getting, uploading, updating and deleting data in a spreadsheet](#getting-uploading-updating-and-deleting-data-in-a-spreadsheet)
 
 ---
 
@@ -43,17 +43,45 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ---
 
-### Retrieving, updating and deleting data in a spreadsheet
+### Getting, uploading, updating and deleting data in a spreadsheet
 
 #### Setting items for a ListView from an Airtable column
 
 ![](/assets/spreadsheet-airtable-✕-fig-10.png)
 
-![](/assets/spreadsheet-airtable-✕-fig-11.png)![](/assets/spreadsheet-airtable-✕-fig-12.png)
+#### ![](/assets/spreadsheet-airtable-✕-fig-11.png)![](/assets/spreadsheet-airtable-✕-fig-12.png)Getting data
 
 | Event | Description |
 | :--- | :--- |
-| Get Cell \(rowNum, columnName\) |  |
+| Get Cell \(`rowNum`, `columnName`\) | Returns the `value` of a specific cell |
+| Get Column \(`columnName`, `maxNumRows`\) | Returns a `column` as a list  |
+| Get Row \(`rowNum`\) | Returns a `row` as an object |
+| Get All Rows  |  |
+| Get Selected Rows \(`startingRowNumber`, `numRows`\) |  |
+
+---
+
+#### Uploading and updating data
+
+You can only upload data as a new row \(and not as a new column\)
+
+| Event | Description |
+| :--- | :--- |
+| Create Row \(`rowObject`\) | If successful, creates a new `row` of data |
+| Set Cell \(`rowNum`,`columnName`,`value`\) | Updates the `value `of a cell in a particular `rowNum` and `columnName` |
+| Update Row \(`rowNum`\) |  |
+| Update Row Num \(`rowNum`, `rowObject`\) |   |
+| Replace Row \(`rowNum`\) |   |
+| Replace Row Num \(`rowNum`, `rowObject`\) |  |
+
+---
+
+#### Deleting data
+
+| Event | Description |
+| :--- | :--- |
+| Delete Row \(`rowNum`\) |  |
+| Delete Row Num \(`rowNum`, `rowObject`\) |  |
 
 
 
