@@ -9,7 +9,7 @@
 New components
 
 * [Location Sensor](/android/components/location/location-sensor.md) - gets a user's current location and with permission of the user, can track a user's location history, both when the app is open and when it is in the background
-* Spreadsheets by Airtable -
+* [Spreadsheets](/ios/components/data-storage/spreadsheets.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
 * Payments by Stripe - enables accepting credit card payments in app powered through Stripe; Each payment is subject to a x%
 
 Platform updates
