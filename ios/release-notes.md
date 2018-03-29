@@ -4,6 +4,21 @@
 
 ---
 
+#### Mar 30, 2018 `v33`
+
+New components
+
+* [Location Sensor](/android/components/location/location-sensor.md) - gets a user's current location and with permission of the user, can track a user's location history, both when the app is open and when it is in the background
+* [Spreadsheet](/ios/components/data-storage/spreadsheets.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
+* [Payment](/ios/components/monetisation/payments.md) by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
+
+Platform updates
+
+* Enables opening installed app aka Activity Starter on Android via a [Control](/ios/blocks/control.md) block
+* Blocks now includes zoom control and a better location for the trash can
+
+---
+
 #### Mar 20, 2018 `v32`
 
 Platform updates
