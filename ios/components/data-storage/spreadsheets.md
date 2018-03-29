@@ -55,24 +55,22 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | :--- | :--- |
 | Get Cell \(`rowNum`, `columnName`\) | Returns the `value` of a specific cell |
 | Get Column \(`columnName`, `maxNumRows`\) | Returns a `column` as a list |
-| Get Row \(`rowNum`\) | Returns a `row` as an object |
-| Get All Rows |  |
-| Get Selected Rows \(`startingRowNumber`, `numRows`\) |  |
+| Get Row \(`rowNum`\) | Returns a row  `value` as an object |
+| Get All Rows | Returns `rows` as an object |
+| Get Selected Rows \(`startingRowNumber`, `numRows`\) | Returns `rows` as an object based on a specified `startingRowNumber` and `numRows` |
 
 ---
 
 #### Uploading and updating data
 
-You can only upload data as a new row \(and not as a new column\)
-
 | Event | Description |
 | :--- | :--- |
-| Create Row \(`rowObject`\) | If successful, creates a new `row` of data |
 | Set Cell \(`rowNum`,`columnName`,`value`\) | Updates the `value`of a cell in a particular `rowNum` and `columnName` |
-| Update Row \(`rowNum`\) |  |
-| Update Row Num \(`rowNum`, `rowObject`\) |  |
-| Replace Row \(`rowNum`\) |  |
-| Replace Row Num \(`rowNum`, `rowObject`\) |  |
+| Create Row \(`rowObject`\) | Creates a new row of data based on a `rowObject` |
+| Update Row \(`rowObject`\) | Updates a row based on a `rowObject`  |
+| Update Row Num \(`rowNum`, `rowObject`\) | Updates a row based on a `rowObject` and a `rowNum` |
+| Replace Row Num \(`rowObject`\) | Replaces a row based on a `rowObject` |
+| Replace Row \(`rowNum`, `rowObject`\) | Replaces a row based on a `rowObject` and a `rowNum` |
 
 ---
 
@@ -80,8 +78,8 @@ You can only upload data as a new row \(and not as a new column\)
 
 | Event | Description |
 | :--- | :--- |
-| Delete Row \(`rowNum`\) |  |
-| Delete Row Num \(`rowNum`, `rowObject`\) |  |
+| Delete Row Num \(`rowNum`\) | Deletes a row based on `rowNum` |
+| Delete Row \(`rowNum`, `rowObject`\) | Deletes a row based on a `rowObject` and a `rowNum` |
 
 
 
