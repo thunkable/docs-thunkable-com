@@ -14,7 +14,6 @@ New components
 
 Platform updates
 
-* Enables opening installed app aka Activity Starter on Android via a [Control](/ios/blocks/control.md) block
 * Blocks now includes zoom control and a better location for the trash can
 
 ---
