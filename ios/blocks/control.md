@@ -8,21 +8,19 @@ Control blocks serve a hodgepodge of functions from navigating to a new screen, 
 
 ---
 
-#### Open a new screen
+### Open a new screen
 
 ![](/assets/control-ios-fig-1.png)
 
 ---
 
-#### Open an installed app with a universal link \(iOS\)
+### Open an installed app with a deep link
 
-A user can open an app installed on their phone by clicking a universal link, an iOS standard that can not only open an app but also open it to a specific page. You can check if a universal link is available \(not all apps support universal links\) for a particular app by checking a given url with the [App Search API Validation tool](https://search.developer.apple.com/appsearch-validation-tool) from Apple
+A user can open an app installed on their phone by clicking a deep link either for Android, iOS or both. Deep links aren't easily discoverable but you can find deep links for commonly installed apps at a helpful site called [URL genius](https://app.urlgeni.us/#/)
 
-![](/assets/control-ios-fig-2.png)
+#### Open the Thunkable Instagram on iOS or Android \(if installed\)
 
-#### Opening up an installed app with a deep link
+![](/assets/control-deeplink-✕-fig-1.png)
 
-A user can open an app installed on their phone by clicking a universal link, an iOS standard that can not only open an app but also open it to a specific page. You can check if a universal link is available \(not all apps support universal links\) for a particular app by checking a given url with the [App Search API Validation tool](https://search.developer.apple.com/appsearch-validation-tool) from Apple
 
-![](/assets/control-ios-fig-2.png)
 
