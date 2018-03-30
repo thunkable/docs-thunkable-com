@@ -49,7 +49,9 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ![](/assets/spreadsheet-airtable-✕-fig-10.png)
 
-#### ![](/assets/spreadsheet-airtable-✕-fig-11.png)![](/assets/spreadsheet-airtable-✕-fig-12.png)Getting data
+#### ![](/assets/spreadsheet-airtable-✕-fig-11.png)![](/assets/spreadsheet-airtable-✕-fig-12.png)
+
+#### Getting data
 
 | Event | Description |
 | :--- | :--- |
@@ -63,10 +65,14 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 #### Uploading and updating data
 
+![](/assets/spreadsheet-airtable-✕-fig-14.png)![](/assets/spreadsheet-airtable-✕-fig-15.png)
+
+![](/assets/spreadsheet-airtable-✕-fig-13.png)
+
 | Event | Description |
 | :--- | :--- |
+| Create Row \(`rowObject`\) | Uploads a new row of data based on a `rowObject` |
 | Set Cell \(`rowNum`,`columnName`,`value`\) | Updates the `value`of a cell in a particular `rowNum` and `columnName` |
-| Create Row \(`rowObject`\) | Creates a new row of data based on a `rowObject` |
 | Update Row \(`rowObject`\) | Updates a row based on a `rowObject` |
 | Update Row Num \(`rowNum`, `rowObject`\) | Updates a row based on a `rowObject` and a `rowNum` |
 | Replace Row Num \(`rowObject`\) | Replaces a row based on a `rowObject` |
