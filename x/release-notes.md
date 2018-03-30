@@ -4,7 +4,7 @@
 
 ---
 
-#### Mar 30, 2018
+#### Apr 2, 2018
 
 New components
 
@@ -16,6 +16,7 @@ Platform updates
 
 * Supports opening installed app by deep link on Android \(aka Activity Starter\) via a [Control](/ios/blocks/control.md) block
 * Blocks now includes zoom control and a better location for the trash can
+* Properties have been re-organized into hopefully easier to use categories
 
 ---
 

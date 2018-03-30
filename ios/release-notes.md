@@ -4,7 +4,7 @@
 
 ---
 
-#### Mar 30, 2018 `v33`
+#### Apr 2, 2018 
 
 New components
 
@@ -15,6 +15,7 @@ New components
 Platform updates
 
 * Blocks now includes zoom control and a better location for the trash can
+* Properties have been re-organized into hopefully easier to use categories
 
 ---
 
