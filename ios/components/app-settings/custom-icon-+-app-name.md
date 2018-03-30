@@ -10,7 +10,7 @@ For the app icon, please make sure the file you upload is not the same as one th
 
 | App icon \(recommendations\) |
 | :--- |
-| 180 x 180 px \(minimum\); square \(equal width and height\) and ideally .png \(vs. jpg\) |
+| 192 x 192 px \(minimum\); square \(equal width and height\) and ideally .png \(vs. jpg\) |
 
 ![](/assets/custom-icon-ios-1.png)
 
