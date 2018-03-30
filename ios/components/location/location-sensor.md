@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Location Sensor
+# Location Sensor ![](/assets/iOSviewIconLocationSensor.png)
 
 ---
 

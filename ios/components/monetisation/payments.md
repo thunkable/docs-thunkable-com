@@ -4,7 +4,7 @@
 
 #### **Thunkable for iOS **
 
-# Payment powered by Stripe
+# Payment ![](/assets/iOSviewIconStripe.png) powered by Stripe
 
 ---
 

@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Spreadsheet powered by Airtable
+# Spreadsheet ![](/assets/iOSviewIconSpreadsheet.png) powered by Airtable
 
 ---
 
@@ -67,7 +67,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | :--- | :--- |
 | Set Cell \(`rowNum`,`columnName`,`value`\) | Updates the `value`of a cell in a particular `rowNum` and `columnName` |
 | Create Row \(`rowObject`\) | Creates a new row of data based on a `rowObject` |
-| Update Row \(`rowObject`\) | Updates a row based on a `rowObject`  |
+| Update Row \(`rowObject`\) | Updates a row based on a `rowObject` |
 | Update Row Num \(`rowNum`, `rowObject`\) | Updates a row based on a `rowObject` and a `rowNum` |
 | Replace Row Num \(`rowObject`\) | Replaces a row based on a `rowObject` |
 | Replace Row \(`rowNum`, `rowObject`\) | Replaces a row based on a `rowObject` and a `rowNum` |
