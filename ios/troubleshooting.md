@@ -40,6 +40,7 @@ Common issues
 
 * Download. Your app cannot build for reasons stated above. One way to check if your app is build-able is to download it to your phone first.
 
+* Icons. Apple doesn't allow you to have any icons with any transparent colors. We recommend app icons to be 192 x 192 px
 * Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
 
 * Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
