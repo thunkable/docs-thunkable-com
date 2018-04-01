@@ -29,15 +29,25 @@ You'll have to apply to Stripe for your business to accept payment by credit or 
 
 #### Step ③ / Connect your Stripe account with Thunkable
 
-There are two properties that you need to retrieve from Stripe to connect it with Thunkable: `Publishable Key` and `Stripe Account ID`
+There are three properties that you need to retrieve from Stripe to connect it with Thunkable: `Test Publishable Key` , `Live Publishable Key` and `Stripe Account ID`. The first two are retrievable from the Stripe dashboard while the third requires visiting a special link. In the interest of security, you'll have to navigate to the App Settings on Thunkable to enter the properties for Stripe![](/assets/payment-stripe-✕-fig-7.png)`Test Publishable Key`
 
-![](/assets/payment-stripe-✕-fig-4.png)
+On the Stripe dashboard, set your Developer toggle to "Viewing test data" and copy the Publishable key from the interface![](/assets/payment-stripe-✕-fig-8.png)
 
-`Publishable Key`
+`Live Publishable Key`
+
+On the Stripe dashboard, set your Developer toggle to live and copy the Publishable key from the interface
+
+![](/assets/payment-stripe-✕-fig-9.png)
 
 `Stripe Account ID`
 
-#### \(Optional\) Step ④ / Require full address \(iOS only\)
+The Stripe Account ID is a unique account level ID that you retrieve by connecting your Stripe account to Thunkable. You'll have to visit x.thunkable.com/stripe/connect/live and click the buttons below.
+
+![](/assets/payment-stripe-✕-fig-10.png)![](/assets/payment-stripe-✕-fig-11.png)
+
+#### Step ④ / Send a transaction on test mode
+
+#### \(Optional\) Step ⑤ / Require full address \(iOS only\)
 
 On iOS, there is an option to require a full address instead of just a zip code when accepting payment. Stripe reserves the right to change the payout schedule or suspend payments to your bank account if they deem it necessary, likely if there is fraudulent activity in the payments. Requiring a full address lowers the risk of fraudulent activity.
 
