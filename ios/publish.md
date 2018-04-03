@@ -14,7 +14,7 @@ To publish your app to the App Store:
 
 * On Apple
   * [Enroll in the Apple Developer Program](#1--enroll-in-the-apple-developer-program-currently-99year) \(currently $99 / year\)
-  * [Register an App ID in your Apple Developer account ](#2--register-an-app-id-in-your-apple-developer-account-apple-will-automatically-generate-a-team-id----)
+  * [Register an App ID in your Apple Developer account ](#2--register-an-app-id-in-your-apple-developer-account-apple-will-automatically-generate-a-team-id---)
   * [Create a new app in iTunes Connect](#3--create-a-new-app-in-itunes-connect-itunes-connect-is-your-portal-for-managing-your-submission-to-the-app-store)
 * On Thunkable
   * [Update your App Publish settings](#4--on-thunkable-update-your-app-publish-settings-to-find-it-click-on-the-app-icon-on-the-top-left-and-then-the-properties-tab)
