@@ -10,7 +10,7 @@ Sharing your beautiful app project on Thunkable is now easier than ever.  You ca
 
 * [Share your link](#2--share-your-link)
 
-* [Track your link](#3--track-your-link)
+* [Track your shares](#3--track-your-shares)
 
 ---
 
@@ -28,7 +28,7 @@ Sharing your beautiful app project on Thunkable is now easier than ever.  You ca
 
 ---
 
-### 3 / Track your link
+### 3 / Track your shares
 
 #### You can now track the number of copies made of your project\* on your project page
 
