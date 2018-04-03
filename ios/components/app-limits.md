@@ -4,6 +4,8 @@
 
 ---
 
+Due to popular demand, Thunkable has increased app size limits to 50 MB per app \(compared with 10 MB on Thunkable for Android\)
+
 | Element | Limit |
 | :--- | :--- |
 | App size | 50 MB |
