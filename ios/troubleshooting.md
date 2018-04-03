@@ -13,7 +13,7 @@ Common issues
 * If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
 * Your have unconnected blocks
 * You have an event triggered by a Screen.Start which may be causing the screen to crash
-* You may not be logged in to the same account as your 
+* Your app and desktop may not be logged into the same account
 
 **Image is not showing up on your phone**
 
@@ -41,6 +41,7 @@ Common issues
 * Download. Your app cannot build for reasons stated above. One way to check if your app is build-able is to download it to your phone first.
 
 * Icons. Apple doesn't allow you to have any icons with any transparent colors. We recommend app icons to be 192 x 192 px
+
 * Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
 
 * Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
