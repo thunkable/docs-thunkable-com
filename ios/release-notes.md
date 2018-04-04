@@ -4,11 +4,10 @@
 
 ---
 
-#### Apr 2, 2018 
+#### Apr 4, 2018
 
 New components
 
-* [Location Sensor](/android/components/location/location-sensor.md) - gets a user's current location and with permission of the user, can track a user's location history, both when the app is open and when it is in the background
 * [Spreadsheet](/ios/components/data-storage/spreadsheets.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
 * [Payment](/ios/components/monetisation/payments.md) by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
 
