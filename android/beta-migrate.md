@@ -4,7 +4,7 @@
 
 ---
 
-`IMPORTANT: Thunkable has graduated all its beta features to the Thunkable for Android platform. As a result, the Thunkable  beta platform (`[`beta.thunkable.com`](https://beta.thunkable.com)`) will be in read-only mode on April 15, 2018.  We kindly ask you to please move over all your project(s) before then.`
+`IMPORTANT: Thunkable has graduated all its beta features to the Thunkable for Android platform. As a result, the Thunkable  beta platform (`[`beta.thunkable.com`](https://beta.thunkable.com)`) will be in read-only mode on April 30, 2018 and shut down on May 31, 2018.  We kindly ask you to please move over all your project(s) before then.`
 
 | Importing an unpublished app project | Importing an app published on the Google Play store | If you have apps published on the Google Play store made from both the Thunkable for Android platform AND from Beta |
 | :--- | :--- | :--- |
