@@ -4,9 +4,9 @@
 
 ---
 
-The backbone to many apps is data and managing your app data in a Spreadsheet can be very user friendly. The Spreadsheet component is powered by Airtable, a radically different and Ashton Kutcher's favorite way of organizing anything from film projects to apartment hunts and customer lists.
+The backbone to many apps is data and managing your app data in a Spreadsheet can be very user friendly. The Spreadsheet component is powered by Airtable, a service that looks like a spreadsheet but actually acts like a database so it can do database-like things like store attachments i.e. images in your spreadsheets \(and not just text\) and link records between spreadsheets. 
 
-Airtable looks like a spreadsheet but actually acts like a database so it can store attachments i.e. images in your spreadsheets \(and not just text\) and easily link records between spreadsheets
+We like Airtable because set-up is relatively a breeze for a spreadsheet.
 
 * [Set up](#set-up)
 * [Getting, uploading, updating and deleting data in a spreadsheet](#getting-uploading-updating-and-deleting-data-in-a-spreadsheet)
