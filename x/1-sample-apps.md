@@ -20,6 +20,12 @@ Below are a few of our favorites with more to come!
 
 ### Beginner
 
+**New Market Goods** is a simple website app with a branding screen and a social media bar that opens a deep link to a user's installed apps that works across platforms. We recommend [URL genius](https://app.urlgeni.us/#/) to find deep links for commonly used apps. No set-up is required.
+
+#### [Click to remix](https://goo.gl/Df56zz)
+
+![](/assets/✕-nmg.png)
+
 **Feelings** is a swipe-able audio book powered by a Tab Navigator and a Text to Speech component. No set-up is required.
 
 #### [Click to remix](https://goo.gl/xs2ZYn)
