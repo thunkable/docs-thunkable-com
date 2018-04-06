@@ -1,7 +1,7 @@
 # Summary
 
 * [Home](README.md)
-* [✕ Thunkable Cross-Platform \(Beta\)](x/README.md)
+* [✕ Thunkable Cross-Platform](x/README.md)
   * [0 / FAQs](x/0-faqs.md)
   * [1 / Sample Apps](x/1-sample-apps.md)
   * [Release Notes](x/release-notes.md)

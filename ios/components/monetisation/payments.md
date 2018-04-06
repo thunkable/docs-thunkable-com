@@ -10,7 +10,7 @@
 
 Accepting payments are a critical part of many apps from on-demand services to in-person commerce. Stripe is one of the most popular payment providers for internet providers globally and powers the Payments component, which accepts all major debit and credit cards from customers in every country in [135+ currencies](https://stripe.com/docs/currencies).
 
-`IMPORTANT The Payment component powered by Stripe charges a 4.9% fee +$0.30 per transaction, 2% of which is taken by Thunkable as a maintenance fee. Stripe also mandates `[`minimum charge amounts`](https://stripe.com/docs/currencies#charge-currencies)` for some currencies.`
+`IMPORTANT The Payment component powered by Stripe charges a 4.9% fee +$0.30 per transaction, 2% of which is taken by Thunkable as a maintenance fee. Stripe also mandates`[`minimum charge amounts`](https://stripe.com/docs/currencies#charge-currencies)`for some currencies.`
 
 ![](/assets/payment-stripe-✕-fig-19.png)Note. On Android, the user does not have to submit any address information. On iOS, the developer can specify whether or not to require a full address or just a zipcode to submit a transaction. Requiring a full address may lower the risk of fraudulent activity.
 
@@ -44,7 +44,7 @@ On the Stripe dashboard, set your Developer toggle to live and copy the Publisha
 
 `Stripe Account ID`
 
-The Stripe Account ID is a unique account level ID that you retrieve by connecting your Stripe account to Thunkable. Make sure you are logged into your Stripe account and then visit** **BOTH** **[**x.thunkable.com/stripe/connect/test**](/x.thunkable.com/stripe/connect/test)** **and** **[**x.thunkable.com/stripe/connect/live**](/x.thunkable.com/stripe/connect/live) and click the buttons below
+The Stripe Account ID is a unique account level ID that you retrieve by connecting your Stripe account to Thunkable. Make sure you are logged into your Stripe account and then visit** **BOTH** **[**x.thunkable.com/stripe/connect/test**](https://x.thunkable.com/stripe/connect/test)** **and** **[**x.thunkable.com/stripe/connect/live**](https://x.thunkable.com/stripe/connect/live) and click the buttons below
 
 ![](/assets/payment-stripe-✕-fig-10.png)![](/assets/payment-stripe-✕-fig-11.png)You should see the following on your Stripe dashboard if your connections were successful
 
@@ -58,7 +58,7 @@ To send a test transaction, make sure your Stripe property setting is set to "Te
 
 ![](/assets/payment-stripe-✕-fig-7.png)
 
-To submit a test transaction, we recommend using a test card with the number  ` 4242 4242 4242 4242`. You can specify any expiration date, security code and billing address / zipcode \(if necessary\).
+To submit a test transaction, we recommend using a test card with the number  `4242 4242 4242 4242`. You can specify any expiration date, security code and billing address / zipcode \(if necessary\).
 
 Apps that accept payments should have a simple form for collecting user information both for sending a receipt and collecting transaction information and a confirmation page for letting the user know if the transaction went through successfully
 
