@@ -60,6 +60,12 @@ Below are a few of our favorites with more to come!
 
 ### Advanced
 
+**Reservation** is a demonstration of how to accept credit card payments through your app. Thunkers must create their own Stripe account \(please [follow the documentation](https://docs.thunkable.com/ios/components/monetisation/payments.html) carefully on set-up\). The app also uploads user data to a [spreadsheet](https://docs.thunkable.com/ios/components/data-storage/spreadsheets.html) for proper tracking of user transactions.
+
+#### [**Click to remix**](https://goo.gl/6YrJwS)
+
+![](/assets/✕-reservation.png)
+
 **Gram** is an ad-free, auto-captioning and secure photo sharing alternative to the popular service. Thunkers must create their own Firebase account and add their own API keys and database url in their account settings
 
 #### [Click to remix](https://goo.gl/P9jWD4)
