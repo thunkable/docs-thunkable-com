@@ -22,7 +22,7 @@ Get familiar with our platforms and explore their features:
 
 #### **Thunkable Android **❤** **\|** **[**Login**](http://app.thunkable.com/) \| [More Info](/android/README.md)
 
-* Compatible with MIT App Inventor, features Material Design, Artificial Intelligence, Google Spreadsheets and more!
+* Original platform, compatible with MIT App Inventor, features Material Design, Artificial Intelligence, Google Spreadsheets and more!
 
 ---
 

@@ -1,4 +1,4 @@
-#### **Thunkable Cross-Platform **✕ \(Beta\)
+#### **Thunkable Cross-Platform **✕ 
 
 # Sample Apps
 
