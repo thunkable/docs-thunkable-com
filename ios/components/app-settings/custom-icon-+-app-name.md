@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Custom Icon + App Name
+# App Icon + Name
 
 ---
 

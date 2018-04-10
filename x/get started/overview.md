@@ -4,13 +4,22 @@
 
 ---
 
+Instead of writing code, building an app on Thunkable is as simple as dragging and dropping your favorite components into your app and functionality through blocks. Drag, drop and block it. Just listen to our CEO Arun tell you how.
+
+* [Create a new project](#create-a-new-project)
+* [Drag and drop your favorite component\(s\) onto the gold phone](#step-5：-add-app-components)
+* [Size, style, position and configure initial settings in Properties](#--step-6：-add-functionality)
+* [Add Blocks to program more complex functionality](#add-blocks-to-program-more-complex-functionality)
+
+---
+
 ### Create a new project
 
 ![](/assets/ios-newproject.gif)
 
 ---
 
-### Drag and drop** your favorite component\(s\) onto the phone** {#step-5：-add-app-components}
+### Drag and drop** your favorite component\(s\) onto the gold phone** {#step-5：-add-app-components}
 
 #### You can reorder your components by dragging and dropping them in the component tree on the left
 
@@ -18,11 +27,9 @@
 
 ---
 
-### Customize components by editing their properties {#--step-6：-add-functionality}
+### Size, style, position and configure initial settings in Properties {#--step-6：-add-functionality}
 
 ![](/assets/create-ios-2.gif)
-
-
 
 ---
 
