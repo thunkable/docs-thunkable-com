@@ -4,7 +4,7 @@
 
 ---
 
-Instead of writing code, building an app on Thunkable is as simple as dragging and dropping your favorite components into your app and functionality through blocks. Drag, drop and block it. Just listen to our CEO Arun tell you how.
+Instead of writing code, building an app on Thunkable is as simple as dragging and dropping your favorite components into your app and functionality through blocks. Drag, drop and block it. Just listen to our CEO Arun [tell you how in this rap](https://www.instagram.com/p/BXYdmftBd0-/?taken-by=thunkable).
 
 * [Create a new project](#create-a-new-project)
 * [Drag and drop your favorite component\(s\) onto the gold phone](#step-5：-add-app-components)

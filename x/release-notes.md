@@ -8,13 +8,13 @@
 
 Component updates
 
-* Button - supports height, width and background picture
+* Button - supports editing height, width and background picture
 
 New components
 
-* Share - 
-* Switch - user interface component
-* Speech Recognizer - 
+* Share - share text or images through a user's installed communication apps
+* Switch - 
+* Speech Recognizer - recognizes a user's speech in a number of different languages
 
 Platform updates
 
