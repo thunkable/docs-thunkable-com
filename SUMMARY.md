@@ -12,6 +12,7 @@
     * [App Limits](x/create/app-limits.md)
     * [App Icon + Name](x/create/app-icon-+-name.md)
     * [Package Name + Bundle ID](x/create/package-name-+-bundle-id.md)
+    * [Components](x/components/README.md)
   * [Troubleshooting](x/troubleshooting.md)
   * [Release Notes](x/release-notes.md)
 * [ Thunkable iOS](ios/README.md)

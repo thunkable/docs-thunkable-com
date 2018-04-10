@@ -4,8 +4,6 @@
 
 ---
 
-### `Benefits`
-
 **What are the benefits of  Thunkable ✕?**
 
 |  | ☺ New Thunkable User | ❤ Thunkable Android User |  Thunkable iOS User |
@@ -13,14 +11,6 @@
 | Benefits | Thunkable ✕ is the new platform where anyone can build apps on Android or iOS without coding. Users create a single project that works on both Android and iOS devices | Build for iOS simultaneously, 5x higher app size limits \(50 MB vs. 10 MB\), custom package names, powerful new design capabilities including [navigators](/ios/components/screen-layout/navigators/README.md), [animation](/ios/components/image/lottie.md) and advanced properties, new components including [Assistant](/ios/components/voice/assistant.md) and [Sign In](/ios/components/screen-layout/authentication/sign-in.md) and new [Object](/ios/blocks/objects.md) blocks for formatting imported data | Build for Android in the same project you are building for iOS |
 | Tradeoffs | -- | New interface including new blocks, some components and properties missing \(although will be added quickly\), no extension capabilities \(yet\) | -- |
 | Recommendation | Copy a [sample app](/x/faqs/1-sample-apps.md), download the live testing apps below to preview and make changes | Start early to test the limits of the new platform, give us feedback and help us make it work for you! | If you want to develop for Android, download the live testing app. If not, just continue building as you have and keep an eye on our [release notes](/x/release-notes.md) |
-
----
-
-### `Getting started`
-
-**Where can I find the live testing apps for Thunkable ✕?**
-
-You can download the live testing app for [Android here](https://play.google.com/apps/testing/com.thunkable.live) and the live testing app for [iOS here](http://appstore.com/thunkablelive).
 
 **I am having trouble downloading my app for Android -- is that available?**
 
