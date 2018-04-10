@@ -28,8 +28,8 @@ Invisible components often require some set-up and usually are limited to one ty
 | Phone | Data / Storage | Artificial Intelligence |
 | :--- | :--- | :--- |
 | ![](/assets/iOSviewIconCamera.png)![](/assets/iOSviewIconCameraRoll.png)![](/assets/iOSviewIconSound.png)![](/assets/iOSviewIconTimer.png) | ![](/assets/iOSviewIconLocalStorage Copy.png)![](/assets/iOSviewIconWebAPI.png)![](/assets/iOSviewIconFirebaseDB.png)![](/assets/cloudinary-icon.png)![](/assets/iOSviewIconSpreadsheet.png) | ![](/assets/iOSviewIconTexttoSpeech.png)![](/assets/iOSviewIconYandex.png)![](/assets/iOSviewIconDialogflow.png)![](/assets/iOSviewIconImageRecognizer.png) |
-| **Security** | **Monetization** | **Social** |
-| ![](/assets/iOSviewIconFirebaseDB.png) | ![](/assets/iOSviewIconStripe.png) |  |
+| **Social** | **Security** | **Monetization** |
+|  | ![](/assets/iOSviewIconFirebaseDB.png) | ![](/assets/iOSviewIconStripe.png) |
 
 
 
