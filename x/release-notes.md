@@ -1,6 +1,24 @@
-#### Thunkable **Cross-Platform **✕ 
+#### Thunkable **Cross-Platform **✕
 
 # Release Notes
+
+---
+
+#### April 11, 2018
+
+Component updates
+
+* Button - supports height, width and background picture
+
+New components
+
+* Share - 
+* Switch - user interface component
+* Speech Recognizer - 
+
+Platform updates
+
+* Updated Blocks colors
 
 ---
 
