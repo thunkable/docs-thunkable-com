@@ -44,11 +44,12 @@
         * Web API
         * Realtime DB
         * Media DB
-      * Artificial Intelligence
+      * [Artificial Intelligence](x/components/layout/artificial-intelligence.md)
       * Social
       * Security
       * Monetization
     * ↘ Blocks
+  * 3 / Live Test
   * [Troubleshooting](x/troubleshooting.md)
   * [Release Notes](x/release-notes.md)
 * [ Thunkable iOS](ios/README.md)
