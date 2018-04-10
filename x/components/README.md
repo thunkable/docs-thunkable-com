@@ -25,7 +25,7 @@ Visible components have common sets of properties usually sizing, styling & text
 
 Invisible components often require some set-up and usually are limited to one type of invisible component per app \(since you do not need to add them across screens
 
-| Phone | Data / Storage | Artificial Intelligence |
+| Sensors / Hardware | Data / Storage | Artificial Intelligence |
 | :--- | :--- | :--- |
 | ![](/assets/iOSviewIconCamera.png)![](/assets/iOSviewIconCameraRoll.png)![](/assets/iOSviewIconSound.png)![](/assets/iOSviewIconTimer.png) | ![](/assets/iOSviewIconLocalStorage Copy.png)![](/assets/iOSviewIconWebAPI.png)![](/assets/iOSviewIconFirebaseDB.png)![](/assets/cloudinary-icon.png)![](/assets/iOSviewIconSpreadsheet.png) | ![](/assets/iOSviewIconTexttoSpeech.png)![](/assets/iOSviewIconYandex.png)![](/assets/iOSviewIconDialogflow.png)![](/assets/iOSviewIconImageRecognizer.png) |
 | **Social** | **Security** | **Monetization** |

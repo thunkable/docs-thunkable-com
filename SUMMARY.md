@@ -14,7 +14,7 @@
     * [Package Name + Bundle ID](x/create/package-name-+-bundle-id.md)
     * [Intro to Sizing](x/create/intro-sizing.md)
     * [Intro to Spacing](x/create/intro-spacing.md)
-    * [Components](x/components/README.md)
+    * [↗ Components](x/components/README.md)
       * [Layout](x/components/layout.md)
         * [Screen](x/components/layout/screen.md)
         * [Row](x/components/layout/row.md)
@@ -29,6 +29,19 @@
         * [Web Viewer](x/components/user-interface/web-viewer.md)
         * [List Viewer](x/components/user-interface/list-viewer.md)
         * [Switch](x/components/user-interface/switch.md)
+      * Mapping
+        * Map
+      * [Sensors / Hardware](x/components/sensors-+-hardware.md)
+        * Camera
+        * Photo Library
+        * Sound
+        * Timer
+      * [Data / Storage](x/components/data-storage.md)
+        * Local Storage
+      * Artificial Intelligence
+      * Social
+      * Security
+      * Monetization
   * [Troubleshooting](x/troubleshooting.md)
   * [Release Notes](x/release-notes.md)
 * [ Thunkable iOS](ios/README.md)
