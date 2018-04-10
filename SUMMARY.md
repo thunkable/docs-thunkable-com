@@ -48,7 +48,7 @@
       * Social
       * Security
       * Monetization
-    * ↘ Blocks
+    * ⎍ Blocks
   * 3 / Live Test
   * [Troubleshooting](x/troubleshooting.md)
   * [Release Notes](x/release-notes.md)
