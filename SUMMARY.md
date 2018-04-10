@@ -12,6 +12,7 @@
     * [App Limits](x/create/app-limits.md)
     * [App Icon + Name](x/create/app-icon-+-name.md)
     * [Package Name + Bundle ID](x/create/package-name-+-bundle-id.md)
+    * [Adding Files](x/create/adding-files.md)
     * [Intro to Sizing](x/create/intro-sizing.md)
     * [Intro to Spacing](x/create/intro-spacing.md)
     * [↗ Components](x/components/README.md)
@@ -29,6 +30,8 @@
         * [Web Viewer](x/components/user-interface/web-viewer.md)
         * [List Viewer](x/components/user-interface/list-viewer.md)
         * [Switch](x/components/user-interface/switch.md)
+        * [Image](x/components/user-interface/image.md)
+        * [Lottie](x/components/user-interface/lottie.md)
       * Mapping
         * Map
       * [Sensors / Hardware](x/components/sensors-+-hardware.md)
@@ -38,10 +41,14 @@
         * Timer
       * [Data / Storage](x/components/data-storage.md)
         * Local Storage
+        * Web API
+        * Realtime DB
+        * Media DB
       * Artificial Intelligence
       * Social
       * Security
       * Monetization
+    * ↘ Blocks
   * [Troubleshooting](x/troubleshooting.md)
   * [Release Notes](x/release-notes.md)
 * [ Thunkable iOS](ios/README.md)
