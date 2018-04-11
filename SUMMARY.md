@@ -41,9 +41,10 @@
         * [Timer](x/components/sensors-+-hardware/timer.md)
       * [Data / Storage](x/components/data-storage.md)
         * [Local Storage](x/components/data-storage/local-storage.md)
-        * Web API
+        * [Web API](x/components/data-storage/web-api.md)
         * Realtime DB
-        * Media DB
+        * [Media DB](x/components/data-storage/media-db.md)
+        * [Spreadsheet](x/components/data-storage/spreadsheet.md)
       * [Artificial Intelligence](x/components/layout/artificial-intelligence.md)
       * Social
       * Security
