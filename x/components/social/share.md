@@ -9,11 +9,7 @@ The Share component allows users to share text or post images with their friends
 * [Share a message](#share-a-message)
 * [Share an image](#share-an-image)
 
-
-
 ![](/assets/share-component-✕-fig-1.png)
-
-
 
 ---
 

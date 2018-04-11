@@ -4,7 +4,7 @@
 
 ---
 
-#### April 11, 2018
+#### April 12, 2018
 
 Component updates
 
@@ -12,9 +12,9 @@ Component updates
 
 New components
 
+* Speech Recognizer - recognizes a user's speech in a number of different languages
 * Share - share text or images through a user's installed communication apps
 * Switch - 
-* Speech Recognizer - recognizes a user's speech in a number of different languages
 
 Platform updates
 
