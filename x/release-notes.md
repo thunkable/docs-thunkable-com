@@ -8,13 +8,13 @@
 
 Component updates
 
-* Button - supports editing height, width and background picture
+* [Button](/x/components/user-interface/button.md) - supports a number of new properties including sizing \(height, width\) and adding a background picture
 
 New components
 
-* Speech Recognizer - recognizes a user's speech in a number of different languages
-* Share - share text or images through a user's installed communication apps
-* Switch - 
+* [Speech Recognizer](/x/components/artificial-intelligence/speech-recognizer.md) - uses artificial intelligence to recognize and translate spoken language into text in 14 different languages
+* [Share](/x/components/social/share.md) - allows users to share text or post images using their favorite installed communication app from Slack and Facebook to iMessage and WhatsApp
+* [Switch](/x/components/user-interface/switch.md) - popular UI element to turn on and off a certain feature in an app, often used in settings pages
 
 Platform updates
 

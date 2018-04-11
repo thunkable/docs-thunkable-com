@@ -4,7 +4,7 @@
 
 ---
 
-The Share component allows users to share text or post images with their friends using their favorite installed communication app from Slack and Facebook to iMessage and WhatsApp.
+The Share component allows users to share text or post images using their favorite installed communication app from Slack and Facebook to iMessage and WhatsApp.
 
 * [Share a message](#share-a-message)
 * [Share an image](#share-an-image)

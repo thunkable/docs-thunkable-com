@@ -10,8 +10,6 @@ Buttons are a key input for many apps and one of the most popular components on 
 
 #### Style your button
 
-`true`
-
 | Property | Description |
 | :--- | :--- |
 | Text | Optional text that appears on the button |

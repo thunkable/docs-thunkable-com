@@ -4,7 +4,7 @@
 
 ---
 
-The Switch is a popular UI element to turn on and off a certain feature, often used in settings pages.
+The Switch is a popular UI element to turn on and off a certain feature in an app, often used in settings pages.
 
 ### ![](/assets/switch-✕-fig-1.gif)
 

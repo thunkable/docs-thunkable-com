@@ -6,7 +6,7 @@
 
 The Speech Recognizer uses artificial intelligence to recognize and translate spoken language into text in 14 different languages.
 
-The Speech Recognizer component can translate a full phrase or in real-time as a person is speaking. The Speech Recognizer stops listening after it stops detecting any sound. 
+The Speech Recognizer component can translate a full phrase or in real-time as a person is speaking. The Speech Recognizer stops listening after it stops detecting any sound.
 
 * [Translate a full phrase](#recognize-a-full-phrase)
 * [Translate in real-time](/Recognize in real-time)
