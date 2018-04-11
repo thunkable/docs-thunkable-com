@@ -12,7 +12,7 @@ Thunkable is platform where anyone can build their own mobile apps without havin
 
 Get familiar with our platforms and explore their features:
 
-#### **Thunkable Cross-Platform ✕ ** ❤ \(Beta\) \|** **[More Info](/docs.thunkable.com/x/)
+#### **Thunkable Cross-Platform ✕** \|** **[More Info](/docs.thunkable.com/x/)
 
 * New platform where anyone can build apps on Android or iOS without code. Users create a single project that works on both Android and iOS devices. 
 
