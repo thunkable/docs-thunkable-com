@@ -32,15 +32,15 @@
         * [Switch](x/components/user-interface/switch.md)
         * [Image](x/components/user-interface/image.md)
         * [Lottie](x/components/user-interface/lottie.md)
-      * Mapping
-        * Map
+      * [Map / Location](x/components/layout/mapping.md)
+        * [Map](x/components/layout/map.md)
       * [Sensors / Hardware](x/components/sensors-+-hardware.md)
-        * Camera
-        * Photo Library
-        * Sound
-        * Timer
+        * [Camera](x/components/sensors-+-hardware/camera.md)
+        * [Photo Library](x/components/sensors-+-hardware/photo-library.md)
+        * [Sound](x/components/sensors-+-hardware/sound.md)
+        * [Timer](x/components/sensors-+-hardware/timer.md)
       * [Data / Storage](x/components/data-storage.md)
-        * Local Storage
+        * [Local Storage](x/components/data-storage/local-storage.md)
         * Web API
         * Realtime DB
         * Media DB
