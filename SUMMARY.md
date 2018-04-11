@@ -23,7 +23,7 @@
         * [Tab Navigator](x/components/layout/tab-navigator.md)
         * [Drawer Navigator](x/components/layout/drawer-navigator.md)
         * [Stack Navigator](x/components/layout/stack-navigator.md)
-      * [User Interface](x/components/user-interface.md)
+      * [User Interface](x/components/user-interface/README.md)
         * [Button](x/components/user-interface/button.md)
         * [Label](x/components/user-interface/label.md)
         * [Text Input](x/components/user-interface/text-input.md)
@@ -32,25 +32,42 @@
         * [Switch](x/components/user-interface/switch.md)
         * [Image](x/components/user-interface/image.md)
         * [Lottie](x/components/user-interface/lottie.md)
-      * [Map / Location](x/components/layout/mapping.md)
-        * [Map](x/components/layout/map.md)
-      * [Sensors / Hardware](x/components/sensors-+-hardware.md)
-        * [Camera](x/components/sensors-+-hardware/camera.md)
-        * [Photo Library](x/components/sensors-+-hardware/photo-library.md)
-        * [Sound](x/components/sensors-+-hardware/sound.md)
-        * [Timer](x/components/sensors-+-hardware/timer.md)
-      * [Data / Storage](x/components/data-storage.md)
+      * [Map / Location](x/components/map-location/README.md)
+        * [Map](x/components/map-location/map.md)
+      * [Sensors / Hardware](x/components/sensors-hardware/README.md)
+        * [Camera](x/components/sensors-hardware/camera.md)
+        * [Photo Library](x/components/sensors-hardware/photo-library.md)
+        * [Sound](x/components/sensors-hardware/sound.md)
+        * [Timer](x/components/sensors-hardware/timer.md)
+      * [Data / Storage](x/components/data-storage/README.md)
         * [Local Storage](x/components/data-storage/local-storage.md)
         * [Web API](x/components/data-storage/web-api.md)
-        * Realtime DB
+        * [Realtime DB](x/components/data-storage/realtime-db.md)
         * [Media DB](x/components/data-storage/media-db.md)
         * [Spreadsheet](x/components/data-storage/spreadsheet.md)
-      * [Artificial Intelligence](x/components/layout/artificial-intelligence.md)
-      * Social
-      * Security
-      * Monetization
-    * ⎍ Blocks
-  * 3 / Live Test
+      * [Artificial Intelligence](x/components/artificial-intelligence/README.md)
+        * [Speech Recognizer](x/components/artificial-intelligence/speech-recognizer.md)
+        * [Text to Speech](x/components/artificial-intelligence/text-to-speech.md)
+        * [Translator](x/components/artificial-intelligence/translator.md)
+        * [Assistant](x/components/artificial-intelligence/assistant.md)
+        * [Image Recognizer](x/components/artificial-intelligence/image-recognizer.md)
+      * [Social](x/components/social/README.md)
+        * [Share](x/components/social/share.md)
+      * [Security](x/components/security/README.md)
+        * [Sign In](x/components/security/sign-in.md)
+      * [Monetization](x/components/monetization/README.md)
+        * [Payment](x/components/monetization/payment.md)
+    * [⎍ Blocks](x/blocks/README.md)
+      * [Logic](x/create/blocks/logic.md)
+      * Control
+      * [Math](x/create/blocks/math.md)
+      * Text
+      * Lists
+      * Colour
+      * Objects
+      * Variables
+      * Functions
+  * [3 / Live Test](x/3-live-test.md)
   * [Troubleshooting](x/troubleshooting.md)
   * [Release Notes](x/release-notes.md)
 * [ Thunkable iOS](ios/README.md)

@@ -1,12 +1,10 @@
-#### **Thunkable for iOS **
+#### T**hunkable Cross-Platform **✕
 
 # Assistant  ![](/assets/iOSviewIconDialogflow.png) powered by Dialogflow \(aka Chatbot\)
 
 ---
 
 The Assistant component powered by Dialogflow, enables real-time voice responses to user questions asked by voice. The Assistant understands a user's natural language and the developer simply programs the questions and responses to return to the user
-
-#### ![](/assets/assistant-ios-fig-6.png)Download the app souce code by [**clicking here**](https://goo.gl/mvDBpA)
 
 ---
 

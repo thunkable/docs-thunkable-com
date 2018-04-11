@@ -1,4 +1,4 @@
-#### **Thunkable for iOS **
+#### T**hunkable Cross-Platform **✕
 
 # Sign In ![](/assets/iOSviewIconFirebaseDB.png) powered by Firebase
 
@@ -62,8 +62,6 @@ On the Firebase console, navigate to the Users tab under Authentication and you'
 ![](/assets/firebase-✕-fig-1.png)
 
 ### 
-
-
 
 
 
