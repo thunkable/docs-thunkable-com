@@ -59,15 +59,17 @@
         * [Payment](x/components/monetization/payment.md)
     * [⎍ Blocks](x/blocks/README.md)
       * [Logic](x/create/blocks/logic.md)
-      * Control
+      * [Control](x/create/blocks/control.md)
       * [Math](x/create/blocks/math.md)
-      * Text
-      * Lists
-      * Colour
-      * Objects
-      * Variables
-      * Functions
+      * [Text](x/create/blocks/text.md)
+      * [Lists](x/create/blocks/lists.md)
+      * [Colour](x/create/blocks/colour.md)
+      * [Objects](x/create/blocks/objects.md)
+      * [Variables](x/create/blocks/variables.md)
+      * [Functions](x/create/blocks/functions.md)
   * [3 / Live Test](x/3-live-test.md)
+  * [4 / Share](x/4-share.md)
+  * [5 / Publish](x/5-publish.md)
   * [Troubleshooting](x/troubleshooting.md)
   * [Release Notes](x/release-notes.md)
 * [ Thunkable iOS](ios/README.md)
@@ -138,7 +140,7 @@
   * [6 / Share](ios/6-share.md)
   * [Troubleshooting](ios/troubleshooting.md)
   * [Release Notes](ios/release-notes.md)
-* [❤ Thunkable Android](android/README.md)
+* [❤ Thunkable Original Android](android/README.md)
   * [0 / FAQs](android/faqs.md)
   * [1 / Idea](android/idea.md)
   * [2 / Create](android/create.md)

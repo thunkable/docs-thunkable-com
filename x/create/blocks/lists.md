@@ -1,6 +1,6 @@
 #### T**hunkable Cross-Platform **✕
 
-# ⎍ Logic
+# ⎍ Lists
 
 ---
 

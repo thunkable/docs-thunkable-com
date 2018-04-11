@@ -20,7 +20,7 @@ Get familiar with our platforms and explore their features:
 
 * Platform for iOS featuring the same drag and drop, no code app building experience with live testing and a few added surprises
 
-#### **Thunkable Android **❤** **\|** **[**Login**](http://app.thunkable.com/) \| [More Info](/android/README.md)
+#### **Thunkable Original Android **❤** **\|** **[**Login**](http://app.thunkable.com/) \| [More Info](/android/README.md)
 
 * Original platform, compatible with MIT App Inventor, features Material Design, Artificial Intelligence, Google Spreadsheets and more!
 
@@ -38,11 +38,11 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 
 #### **Sample apps**
 
-* [Thunkable Cross-Platform ✕  ❤ \(Beta\)](https://docs.thunkable.com/x/1-sample-apps.html)
+* [Thunkable Cross-Platform ✕  ❤ ](https://docs.thunkable.com/x/1-sample-apps.html)
 
 * [Thunkable iOS  ](https://docs.thunkable.com/ios/idea.html)
 
-* [Thunkable Android ❤](https://docs.thunkable.com/android/sample-apps.html)
+* [Thunkable Original Android ❤](https://docs.thunkable.com/android/sample-apps.html)
 
 ---
 

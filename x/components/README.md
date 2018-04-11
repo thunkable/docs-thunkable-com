@@ -1,6 +1,6 @@
 #### **Thunkable Cross-Platform **✕
 
-# Components
+# ↗ Components
 
 ---
 

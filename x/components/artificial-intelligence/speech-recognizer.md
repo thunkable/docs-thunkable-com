@@ -1,6 +1,6 @@
 #### T**hunkable Cross-Platform **✕
 
-# Speech Recognizer
+# Speech Recognizer ![](/assets/iOSviewIconSpeechRecognizer.png)
 
 ---
 

@@ -1,4 +1,4 @@
-#### **Thunkable for Android **❤
+#### **Thunkable Original Android **❤
 
 # Step 3 `Test Live`
 
