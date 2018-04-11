@@ -15,7 +15,7 @@
     * [Adding Files](x/create/adding-files.md)
     * [Intro to Sizing](x/create/intro-sizing.md)
     * [Intro to Spacing](x/create/intro-spacing.md)
-    * [□ Components](x/components/README.md)
+    * [↗ Components](x/components/README.md)
       * [Layout](x/components/layout/README.md)
         * [Screen](x/components/layout/screen.md)
         * [Row](x/components/layout/row.md)
