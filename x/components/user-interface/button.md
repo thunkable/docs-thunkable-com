@@ -41,8 +41,8 @@ Buttons are the most commonly used components in Thunkable apps and can be style
 | :--- | :--- |
 | Click | User tapped and releases the button |
 | Long Click | User holds the button down |
-| Touch Up | User gently presses the button |
-| Touch Down | User releases the button |
+| Touch Up | User releases the button  |
+| Touch Down | User gently presses the button |
 | Disabled | If `true`, button will be disable |
 
 
