@@ -6,19 +6,21 @@
 
 Screens are the main organizing containers of an app. They can themselves be organized by navigators or subdivided by row and column components.
 
-* [Add a background color or picture](https://legacy.gitbook.com/book/thunkable/thunkable-docs/edit#)
-* [Enable scrolling](https://legacy.gitbook.com/book/thunkable/thunkable-docs/edit#)
-* [Hide status bar](https://legacy.gitbook.com/book/thunkable/thunkable-docs/edit#)
+* Spacing the elements in a Screen horizontally
+* Spacing the elements in a Screen vertically
+* Adding a background color or picture
+* Enable scrolling
+* Hide status bar
 
 ---
 
-#### Arrange the elements horizontally \(Justification\)![](blob:https://legacy.gitbook.com/4c10eb2a-b171-4ae9-bf79-f78676dd1872)
+#### Spacing the elements horizontally
+
+
 
 ---
 
-#### Align the elements vertically \(Alignment\)
-
-![](blob:https://legacy.gitbook.com/caf610e7-8dcf-4cc8-bafd-ec48c04a403c)
+#### Spacing the elements vertically
 
 ---
 
