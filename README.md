@@ -1,6 +1,4 @@
-# Welcome to Thunkable!
-
-![](/assets/beaver-yellow.png)
+# Welcome to Thunkable!![](/assets/official-beaver-logo.png)
 
 **"I believe in life, liberty, and the pursuit of your own apps" **_- Barack Obeaver_
 
