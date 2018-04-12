@@ -6,14 +6,14 @@
 
 Row components are containers that can arrange elements horizontally within a screen. They can also be used to provide a margin on the top, bottom or in between vertical elements in your app![](/assets/row-ios-1.png)
 
-* [Set the size of the container](#set-size-of-the-container)
+* [Set the size of the row](#set-size-of-the-row)
 * [Arrange the elements horizontally](#arrange-the-elements-horizontally-justification-)
 * [Align the elements vertically](#align-the-elements-vertically-alignment)
 * [Add a background color or picture](#add-a-background-color-or-picture)
 
 ---
 
-#### Set size of the row container
+#### Set size of the row
 
 | Property | Description |
 | :--- | :--- |
