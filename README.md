@@ -1,6 +1,6 @@
 # Welcome to Thunkable!
 
-![](/assets/logo-beaver.png)
+![](/assets/beaver-yellow.png)
 
 **"I believe in life, liberty, and the pursuit of your own apps" **_- Barack Obeaver_
 
@@ -8,11 +8,15 @@
 
 ## What is Thunkable?
 
-#### Thunkable's mission is simple -- to radically lower the bar to building your own app. 
+#### Thunkable's mission is simple -- to radically lower the bar to building your own app.
 
 On Thunkable, no longer do you have to speak the language of code to make apps to solve problems for the businesses that you love, the communities in which you are a part or just for yourself, because you are worth it.
 
 Thunkable offers a robust set of popular platforms where millions of Thunkers around the world are building their own mobile apps without having to code. Available on Android, iOS or both.
+
+---
+
+### No code platforms
 
 Get familiar with our platforms and explore their features:
 
@@ -30,15 +34,13 @@ Get familiar with our platforms and explore their features:
 
 ---
 
-### Get started quickly with our favorite apps
+### Get started quickly with our favorite sample apps
 
 The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our amazing community of Thunkers.  To preview these apps, we recommend downloading our live testing app or downloading them straight to your phone
 
-* [Thunkable Cross-Platform ✕  ❤ ](https://docs.thunkable.com/x/1-sample-apps.html)
-
-* [Thunkable iOS  ](https://docs.thunkable.com/ios/idea.html)
-
-* [Thunkable Original Android ❤](https://docs.thunkable.com/android/sample-apps.html)
+* ##### [Thunkable Cross-Platform ✕ ](https://docs.thunkable.com/x/1-sample-apps.html)
+* ##### [Thunkable iOS  ](https://docs.thunkable.com/ios/idea.html)
+* ##### [Thunkable Original Android ❤](https://docs.thunkable.com/android/sample-apps.html)
 
 ---
 
@@ -50,7 +52,7 @@ If it's your first time here, we recommend that you get started with some of our
 
 ### Questions?
 
-| Community | Chat support \(California work hours\) | Email us |
+| Community | Chat support | Email us |
 | :--- | :--- | :--- |
 | [Join our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | ![](/assets/Webp.net-resizeimage %281%29.png) Click on this icon to ask us anything | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com) |
 
