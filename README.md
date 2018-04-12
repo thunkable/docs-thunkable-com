@@ -14,7 +14,7 @@ Thunkable offers a robust set of popular platforms where millions of Thunkers ar
 
 ---
 
-### No code platforms
+### Low-code / no-code platforms
 
 Get familiar with our platforms and explore their features:
 
@@ -36,7 +36,7 @@ Get familiar with our platforms and explore their features:
 
 The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our amazing community of Thunkers.  To preview these apps, we recommend downloading our live testing app or downloading them straight to your phone
 
-* ##### [Thunkable Cross-Platform ✕](/x/get started/sample-apps.md) 
+* ##### [Thunkable Cross-Platform ✕](/x/get started/sample-apps.md)
 * ##### [Thunkable iOS  ](https://docs.thunkable.com/ios/idea.html)
 * ##### [Thunkable Original Android ❤](https://docs.thunkable.com/android/sample-apps.html)
 
