@@ -1,6 +1,6 @@
 #### **Thunkable Cross-Platform **✕
 
-# Row \(aka Horizontal Arrangement\) ![](/assets/iOSviewIconRow.png)
+# Row  ![](/assets/iOSviewIconRow.png) \(aka Horizontal Arrangement\)
 
 ---
 

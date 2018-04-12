@@ -10,7 +10,7 @@ Apps have evolved from one simple screen to an assortment of layouts that maximi
 
 ### Arrange Screens with Navigators
 
-Most modern apps navigate through screens using bottom or top tab menus which enable swiping between screens \([Tab Navigator](/x/components/layout/tab-navigator.md)\), side menus that are invisible until swiped to appear \([Drawer Navigator](/x/components/layout/drawer-navigator.md)\) or stacking a new screen that can be dismissed \(Stack Navigator\)
+Most modern apps navigate through screens using bottom or top tab menus which enable swiping between screens \([Tab Navigator](/x/components/layout/tab-navigator.md)\), side menus that are invisible until swiped to appear \([Drawer Navigator](/x/components/layout/drawer-navigator.md)\) or stacking a new screen that can be dismissed \(Stack Navigator\). For screens to work with a navigator, they need to be dropped within its tree hierarchy.
 
 ---
 

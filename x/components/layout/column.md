@@ -1,6 +1,6 @@
 #### **Thunkable Cross-Platform **✕
 
-# Column \(aka Vertical Arrangement\) ![](/assets/iOSviewIconCloumn.png)
+# Column ![](/assets/iOSviewIconCloumn.png) \(aka Vertical Arrangement\)
 
 ---
 
