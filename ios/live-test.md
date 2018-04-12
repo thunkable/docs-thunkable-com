@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Step 3 `Test Live`
+# Test Live
 
 ---
 

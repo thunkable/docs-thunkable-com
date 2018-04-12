@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Step 1 `Sample Apps`
+# Sample Apps
 
 ---
 

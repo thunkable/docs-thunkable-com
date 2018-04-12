@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Step 6 `Share`
+# Share
 
 ---
 

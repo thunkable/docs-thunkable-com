@@ -1,6 +1,6 @@
 #### **Thunkable for iOS **
 
-# Step 5 `Publish`
+# Publish
 
 ---
 

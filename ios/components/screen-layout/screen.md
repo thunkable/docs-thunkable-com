@@ -10,7 +10,7 @@ Screens are the main organizing containers of an app. They can themselves be org
 * [Align the elements vertically](#align-the-elements-vertically-alignment)
 * [Add a background color or picture](#add-a-background-color-or-picture)
 * [Enable scrolling](#enable-scrolling)
-* [Hide \(or show\) status bar](#hide-status-bar)
+* [Hide status bar](#hide-status-bar)
 
 ---
 

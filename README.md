@@ -36,7 +36,7 @@ Get familiar with our platforms and explore their features:
 
 The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our amazing community of Thunkers.  To preview these apps, we recommend downloading our live testing app or downloading them straight to your phone
 
-* ##### [Thunkable Cross-Platform ✕ ](https://docs.thunkable.com/x/1-sample-apps.html)
+* ##### [Thunkable Cross-Platform ✕](/x/get started/sample-apps.md) 
 * ##### [Thunkable iOS  ](https://docs.thunkable.com/ios/idea.html)
 * ##### [Thunkable Original Android ❤](https://docs.thunkable.com/android/sample-apps.html)
 
