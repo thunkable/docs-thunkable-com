@@ -4,9 +4,9 @@
 
 ---
 
-Animation powered by [Lottie ](https://airbnb.design/lottie/)renders animations created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) in real time, allowing apps to use animations as easily as they use static images.
+One of the coolest new design elements you can add to your app is animation. The Animation component powered by [Lottie ](https://airbnb.design/lottie/)makes adding animations as easy as adding images. Animations are created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) and imported as a `.json` file.
 
-There is a large and growing community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) in After Effects that you can easily add to your app.
+There is a large and growing community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) that you can easily add to your app.
 
 Big thanks to the team at Airbnb for enabling one of the most popular open technologies in apps today!
 
