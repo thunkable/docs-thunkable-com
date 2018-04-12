@@ -10,7 +10,7 @@
 
 A **Scrollable screen** can be made by setting Scrollable to `false` in a Screen to Column. Elements within the Screen or Column have to be sized with heights in absolute pixels which together exceed the height of the Screen or Column. For example, an iPhone 6 has a Screen height of 648 px so elements within it will have to collectively exceed that number for the elements to scroll
 
-#### [Click to copy](https://goo.gl/2QuQ4G)
+#### [Click to copy](https://goo.gl/LErms2)
 
 ![](/assets/design-✕-scrollable.gif)
 
