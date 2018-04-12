@@ -8,7 +8,11 @@
 
 ## What is Thunkable?
 
-Thunkable is platform where anyone can build their own mobile apps without having to code. Available on Android, iOS or both.
+#### Thunkable's mission is simple -- to radically lower the bar to building your own app. 
+
+On Thunkable, no longer do you have to speak the language of code to make apps to solve problems for the businesses that you love, the communities in which you are a part or just for yourself, because you are worth it.
+
+Thunkable offers a robust set of popular platforms where millions of Thunkers around the world are building their own mobile apps without having to code. Available on Android, iOS or both.
 
 Get familiar with our platforms and explore their features:
 
@@ -26,17 +30,9 @@ Get familiar with our platforms and explore their features:
 
 ---
 
-## Not a developer?
+### Get started quickly with our favorite apps
 
-Perfect.  `Thunkable was designed for people who have no prior coding experience.` Building mobile apps can be quite a challenge especially for someone who is not a coder. On Thunkable, all you need to build an app is a problem that can be solved with the latest technologies and some lego skills. Instead of writing code, you connect lego blocks. We'll help you do the rest.
-
----
-
-## Get started quickly with our favorite apps
-
-The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our amazing community of Thunkers.  To preview these apps, we recommend downloading our live testing app or downloading them straight to your phone.
-
-#### **Sample apps**
+The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our amazing community of Thunkers.  To preview these apps, we recommend downloading our live testing app or downloading them straight to your phone
 
 * [Thunkable Cross-Platform ✕  ❤ ](https://docs.thunkable.com/x/1-sample-apps.html)
 
@@ -46,13 +42,13 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 
 ---
 
-## Quick, bite-sized tutorials
+### Quick, bite-sized tutorials
 
 If it's your first time here, we recommend that you get started with some of our [favorite tutorials on YouTube](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw)
 
 ---
 
-## Questions? {#were-here-to-help}
+### Questions?
 
 | Community | Chat support \(California work hours\) | Email us |
 | :--- | :--- | :--- |
