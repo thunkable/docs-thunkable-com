@@ -62,7 +62,7 @@ Below are a few of our favorites with more to come!
 
 **Gram** is an ad-free, auto-captioning and secure photo sharing alternative to the popular service. Thunkers must create their own Firebase account and add their own API keys and database url in their account settings
 
-#### [Click to remix](https://goo.gl/QFpkx4)
+#### [Click to remix](https://goo.gl/Gnw7cQ)
 
 ![](/assets/✕-thunkablegram.png)
 
