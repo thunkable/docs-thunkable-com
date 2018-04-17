@@ -6,35 +6,31 @@
 
 Sharing your beautiful app project on Thunkable is now easier than ever.  You can simply generate a link that when clicked, copies your app project into a user's account
 
-* [Generate a shareable link](#1--generate-a-shareable-link)
-
-* [Share your link](#2--share-your-link)
-
-* [Track your shares](#3--track-your-shares)
+* [① / Remove all API keys / passwords / other files you don't want to share](#step-①--remove-all-api-keys--passwords--other-files-you-dont-want-to-share)
+* [② / Generate a share link](#step-②--generate-a-share-link)
+* [③ / Share and track your links](#step-③--share-and-track-your-links)
 
 ---
 
-### 1 / Generate a shareable link
+### Share your app project by link
 
-#### When you are ready to share your app project, generate a link to a copy of your app project \(including assets and other contents\). IMPORTANT: Make sure that there is no information including passwords, API keys or proprietary app assets that you want to share with your app ![](/assets/share-✕-fig-2.gif)When you select 'Generate', we will make a copy of your app project at the current moment in time
+#### **Step **① / Remove all API keys / passwords / other files you don't want to share
 
----
+When you share your project, we automatically clear out any app settings which currently includes Firebase and Stripe keys and urls
 
-### 2 / Share your link
+![](/assets/share-✕-fig-2.png)
 
-#### Copy and share your link with your collaborators, the wider Thunkable community or maybe even your mom!
+#### **Step **② / Generate a share link
 
-#### If you make changes to your app project, you will have to generate a new link if you want users to receive your latest version
+When you generate a share link, it will create a copy of your app project at the point in time you generate the link. If you update your app and want your collaborators / remixers to have the latest copy, you'll have to generate a new link
 
----
+#### ![](/assets/share-✕-fig-1.gif)
 
-### 3 / Track your shares
+#### **Step **③ / Share and track your links
 
-#### You can now track the number of copies made of your project\* on your project page
+When a user clicks on your share link, a copy of your app will automatically appear in their account. For every copy of your app that is created in a user's account, you will get credit for a share on your project page
 
-#### ![](/assets/share-✕-fig-1.png)
-
-### \*Share tracking began on March 20 and includes any copies of an app made from any share link generated from a single project; if you delete your project, you will lose your share info!
+![](/assets/share-✕-fig-3.png)
 
 
 
