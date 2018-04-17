@@ -8,11 +8,15 @@ The Location Sensor component uses a phone's GPS, Wi-Fi and cellular network sen
 
 * [Get user's current location](#get-users-current-location-and-other-related-information)
 
+
+
 ---
 
 #### Get user's current location \(and other related information\)
 
-![](/assets/location-sensor-✕-fig-2.png)The Location Sensor returns a location `object`, which is a list of different location properties including latitude and longitude. To retrieve the property you are looking for, you'll have to use the `object blocks` like shown below
+
+
+The Location Sensor returns a location `object`, which is a list of different location properties including latitude and longitude. To retrieve the property you are looking for, you'll have to use the `object blocks` like shown below
 
 ![](/assets/location-sensor-✕-fig-1.png)
 

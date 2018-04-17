@@ -9,9 +9,9 @@ Maps are one of the most popular services today and with the Map component, you 
 * [Choose your provider](#choose-your-provider)
 * [Zoom and center the Map](#zoom-and-center-the-map)
 * [Style the Map](#style-the-map-google-maps-only) 
-* Add markers
-* Add polylines
-* Add polygons
+* Add marker
+* Add polyline
+* Add polygon
 * [Edit size](#edit-size)
 * [Add spacing](#add-spacing)
 
