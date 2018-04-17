@@ -7,15 +7,17 @@
 Maps are one of the most popular services today and with the Map component, you can choose to add a Google or Apple Map \(iOS only\) to your apps
 
 * Choose your provider
-* Center your map
+* Zoom and center your map
 * Style your map
+* Editing size
+
 * Add markers
 * Add polylines
 * Add polygons
 
 ---
 
-#### Choose your provider
+### Choose your provider
 
 For iOS, you have the option to choose between Apple Maps or Google Maps. On Android, only Google Maps is available. Google Maps provides more custom style options from different map types to coloring and exposing or hiding map features.
 
@@ -25,7 +27,7 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 
 ---
 
-#### Zoom and center your map
+### Zoom and center your map
 
 To auto-center your map, you can pair the Map component with
 
@@ -39,7 +41,7 @@ To auto-center your map, you can pair the Map component with
 
 ---
 
-#### Size your map
+### Size your map
 
 | Property | Description |
 | :--- | :--- |

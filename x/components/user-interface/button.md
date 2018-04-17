@@ -7,6 +7,7 @@
 Buttons are the most commonly used app components and can be styled to take the shape of anything from a blue oval to a hardworking beaver.
 
 * [Styling the button](#styling-the-button)
+* [Editing size](#editing-size)
 * [Starting an event from a button click](#starting-an-event-from-a-button-click)
 
 ![](/assets/button-✕-fig-1.png)
@@ -17,8 +18,6 @@ Buttons are the most commonly used app components and can be styled to take the 
 
 | Property | Description |
 | :--- | :--- |
-| Height | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
-| Width | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 | Text | Default \(`Button`\); Optional text that appears on the button |
 | Text Color | Default \(`#007AFF`\); Color of the optional text that appears on the button |
 | Font Bold | Default \(`false`\); If `true`, text font will be **bold** |
@@ -30,6 +29,15 @@ Buttons are the most commonly used app components and can be styled to take the 
 | Border | Default \(`none`\); You can set the `width`, `color` and `style` of the button border |
 | Corner Radius | Default \(`not rounded`\); You can round up the button corners by increasing this value |
 | Raised | Default \(`false`\); If `true`, button will cast a shadow |
+
+---
+
+### Editing size
+
+| Property | Description |
+| :--- | :--- |
+| Height | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
+| Width | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 
 ---
 
