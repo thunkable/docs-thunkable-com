@@ -8,7 +8,8 @@
 
 Platform updates
 
-* Live app now supports preview of all user's app projects; shake to explore!
+* Live app now lets you preview all your app projects from the comfort of your mobile device; shake to change projects!
+
 * Adds version support for download / publish for Android and iOS
 
 Component updates
@@ -17,8 +18,8 @@ Component updates
 
 New components
 
-* Location Sensor - 
-* Slider - popular UI  
+* Location Sensor - gets user's current location
+* Slider - UI element of choice for letting users select a value or range from a fixed set of options, such as setting the brightness of a screen
 
 ---
 

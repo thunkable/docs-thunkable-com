@@ -1,4 +1,4 @@
-#### **Thunkable for iOS **
+#### **Thunkable Cross-Platform **✕
 
 # Location Sensor ![](/assets/iOSviewIconLocationSensor.png)
 
