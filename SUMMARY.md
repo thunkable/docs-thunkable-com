@@ -13,6 +13,7 @@
     * [App Icon + Name](x/create/app-icon-+-name.md)
     * [Package Name + Bundle ID](x/create/package-name-+-bundle-id.md)
     * [Adding Files](x/create/adding-files.md)
+    * [Make Copy](x/create/make-copy.md)
     * [Intro to Spacing](x/create/intro-spacing.md)
     * [Intro to Sizing](x/create/intro-sizing.md)
     * [↗ Components](x/components/README.md)
