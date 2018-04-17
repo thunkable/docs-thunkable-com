@@ -47,12 +47,14 @@ To auto-center your map, you can pair the Map component with a Location Sensor. 
 
 ### Style the Map
 
+
+
 There are a number of `Advanced` properties available to help you add custom styling to your map. Below are the most popular.
 
 | Property | Description |
 | :--- | :--- |
 | Map Type | Default \(`standard`\); `standard` is the classic map style; `satellite` displays only satellite imagery; `hybrid` shows roads and features layered over satellite imagery; `terrain` shows physical terrain overlay on top of a classic map \(Google Maps only\) |
-| Custom Map Style String \(Google Maps Only\) | Accepts a JSON string imported from the [Google Maps API styling wizard](https://mapstyle.withgoogle.com/) |
+| Custom Map Style String \(Google Maps Only\) | Accepts a JSON string imported from the [Google Maps API styling wizard](https://mapstyle.withgoogle.com/). Map Type must be set to `standard` and provider must be set to `google` |
 | Shows Traffic | Default \(`false`\); if `true`, shows real-time traffic overlay on the map |
 
 ---
