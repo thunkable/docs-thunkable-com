@@ -1,6 +1,6 @@
 #### **Thunkable Cross-Platform **✕
 
-# Publish
+# Publish ![](/assets/iOSviewIconPublish_TR.png)
 
 ---
 

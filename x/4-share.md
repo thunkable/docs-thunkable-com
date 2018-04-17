@@ -1,6 +1,6 @@
 #### **Thunkable Cross-Platform **✕
 
-# Share
+# Share ![](/assets/iOSviewIconShare_TR.png)
 
 ---
 
