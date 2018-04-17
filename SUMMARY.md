@@ -145,7 +145,7 @@
   * [6 / Share](ios/6-share.md)
   * [Troubleshooting](ios/troubleshooting.md)
   * [Release Notes](ios/release-notes.md)
-* [❤ Thunkable Original Android](android/README.md)
+* [❤ Thunkable Classic Android](android/README.md)
   * [0 / FAQs](android/faqs.md)
   * [1 / Idea](android/idea.md)
   * [2 / Create](android/create.md)
