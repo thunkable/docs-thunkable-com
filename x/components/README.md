@@ -17,7 +17,7 @@ Visible components have common sets of properties usually sizing, styling & text
 
 | Layout | User Interface | Map / Location |
 | :--- | :--- | :--- |
-| ![](/assets/iOSviewIconScreen.png)![](/assets/iOSviewIconTabNavigator.png)![](/assets/iOSviewIconDrawerNavigator.png)![](/assets/iOSviewIconStackNavigator.png) ![](/assets/iOSviewIconRow.png) ![](/assets/iOSviewIconCloumn.png) | ![](/assets/iOSviewIconButton.png)![](/assets/iOSviewIconLabel.png)![](/assets/iOSviewIconImage.png)![](/assets/iOSviewIconTextInput.png)![](/assets/iOSviewIconWebViewer.png)![](/assets/iOSviewIconListView.png)![](/assets/iOSviewIconSlider.png)![](/assets/iOSviewIconLottie.png) | ![](/assets/iOSviewIconGoogleMap.png) |
+| ![](/assets/iOSviewIconScreen.png)![](/assets/iOSviewIconTabNavigator.png)![](/assets/iOSviewIconDrawerNavigator.png)![](/assets/iOSviewIconStackNavigator.png) ![](/assets/iOSviewIconRow.png) ![](/assets/iOSviewIconCloumn.png) | ![](/assets/iOSviewIconButton.png)![](/assets/iOSviewIconLabel.png)![](/assets/iOSviewIconImage.png)![](/assets/iOSviewIconTextInput.png)![](/assets/iOSviewIconWebViewer.png)![](/assets/iOSviewIconListView.png)![](/assets/iOSviewIconSlider.png)![](/assets/iOSviewIconLottie.png) | ![](/assets/iOSviewIconGoogleMap.png)![](/assets/iOSviewIconLocationSensor.png) |
 
 ---
 
