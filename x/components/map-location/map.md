@@ -7,13 +7,13 @@
 Maps are one of the most popular services today and with the Map component, you can choose to add a Google or Apple Map \(iOS only\) to your apps
 
 * [Choose your provider](#choose-your-provider)
-* Zoom and center the Map
-* Style the Map \(Google Maps only\)
-* Editing size
+* [Zoom and center the Map](#zoom-and-center-the-map)
+* [Style the Map](#style-the-map-google-maps-only) 
 * Add markers
 * Add polylines
 * Add polygons
-* Add spacing
+* [Edit size](#edit-size)
+* [Add spacing](#add-spacing)
 
 ![](/assets/map-✕-fig-1.png)
 
@@ -45,7 +45,15 @@ To auto-center your map, you can pair the Map component with a Location Sensor. 
 
 ---
 
-### Style the Map \(Google Maps only\)
+### Style the Map
+
+There are a number of `Advanced` properties available to help you add custom styling to your map. Below are the most popular.
+
+| Property | Description |
+| :--- | :--- |
+| Map Type | Default \(`standard`\); `standard` is the classic map style; `satellite` displays only satellite imagery; `hybrid` shows roads and features layered over satellite imagery; `terrain` shows physical terrain overlay on top of a classic map \(Google Maps only\) |
+| Custom Map Style String \(Google Maps Only\) | Accepts a JSON string imported from the [Google Maps API styling wizard](https://mapstyle.withgoogle.com/) |
+| Shows Traffic | Default \(`false`\); if `true`, shows real-time traffic overlay on the map |
 
 ---
 
@@ -55,6 +63,19 @@ To auto-center your map, you can pair the Map component with a Location Sensor. 
 | :--- | :--- |
 | Height | Default \(`Fill container`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 | Width | Default \(`Fit container`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
+
+---
+
+### Add spacing
+
+For more information on adding spacing in your app, please see our [introduction here](/x/create/intro-spacing.md)
+
+To find the spacing properties, you'll have to select the `Advanced` tab
+
+| Property | Description |
+| :--- | :--- |
+| Margin | Default \(`none`\); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
+| Padding | Default \(`none`\); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
 
 
 
