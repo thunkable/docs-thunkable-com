@@ -15,7 +15,7 @@ Maps are one of the most popular services today and with the Map component, you 
 
 ---
 
-### Choose your provider
+#### Choose your provider
 
 For iOS, you have the option to choose between Apple Maps or Google Maps. On Android, only Google Maps is available. Google Maps provides more custom style options from different map types to coloring and exposing or hiding map features.
 
@@ -25,24 +25,26 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 
 ---
 
-### Center your map
+#### Zoom and center your map
+
+To auto-center your map, you can pair the Map component with
 
 | Property | Description |
 | :--- | :--- |
-| Latitude | Default \(`google`\); In degrees from -90 to 90 |
-| Longitude | In degrees from -180 to 180 |
-| Zoom | Default \(`0`\); In degrees from -90 to  |
-| Shows User Location | Default \(`google`\); In degrees from -90 to  |
-| Shows My Location Button | Default \(`google`\); In degrees from -90 to  |
+| Latitude | Default \(`37.78`\); In degrees above the equator from `-90` to `90` where locations north of the equator are positive and those south are negative |
+| Longitude | Default \(`-122.4`\); In degrees east or west from the equator from `-90` to `90` where locations west of the equator are negative and those east are positive |
+| Zoom | Default \(`0`\); Range is -15 to 10 where -15 is most zoomed out |
+| Shows User Location | Default \(`true`\); If `true`, shows user location as a blinking blue dot |
+| Shows My Location Button | Default \(`true`\); In `true`, shows my location button that auto-centers map on user's location |
 
 ---
 
-#### Style your map
+#### Size your map
 
 | Property | Description |
 | :--- | :--- |
-| Height | `Fit contents` Container is just as large as the image; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size in percent of the Screen; `Absolute size` Size in pixels |
-| Width | `Fit contents` Container is just as large as the image; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size in percent of the Screen; `Absolute size` Size in pixels |
+| Height | Default \(`Fill container`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
+| Width | Default \(`Fit container`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 
 
 

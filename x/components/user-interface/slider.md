@@ -10,6 +10,8 @@ The Slider is are the UI element of choice for letting users select a value or r
 * [Styling the slider](#styling-the-slider)
 * [Adding spacing](#adding-spacing)
 
+![](/assets/slider-✕-fig-2.png)
+
 ---
 
 ### Set up
@@ -31,8 +33,8 @@ We recommend using a Label with the Slider so that users can get immediate feedb
 
 | Property | Description |
 | :--- | :--- |
-| Height | Default \(`Fit contents`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent, 4\)`Absolute size`in pixels |
-| Width | Default \(`Fit contents`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent, 4\)`Absolute size`in pixel |
+| Height | Default \(`Fit contents`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent of Screen, 4\)`Absolute size`in pixels |
+| Width | Default \(`Fit contents`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent of Screen, 4\)`Absolute size`in pixels |
 | Minimum Track Tint Color | Default \(`none`\); Color of the slider track to the left of the thumb |
 | Minimum Track Tint Color | Default \(`none`\); Color of the slider track to the right of the thumb |
 | Thumb Tint Color \(Android only\) | Default \(`none`\); Color of the thumb |

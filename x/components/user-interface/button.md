@@ -17,8 +17,8 @@ Buttons are the most commonly used app components and can be styled to take the 
 
 | Property | Description |
 | :--- | :--- |
-| Height | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent, 4\) `Absolute size` in pixels |
-| Width | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent, 4\) `Absolute size` in pixel |
+| Height | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
+| Width | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 | Text | Default \(`Button`\); Optional text that appears on the button |
 | Text Color | Default \(`#007AFF`\); Color of the optional text that appears on the button |
 | Font Bold | Default \(`false`\); If `true`, text font will be **bold** |
