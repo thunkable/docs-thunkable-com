@@ -6,8 +6,8 @@
 
 Buttons are the most commonly used app components and can be styled to take the shape of anything from a blue oval to a hardworking beaver.
 
-* Styling the button
-* Starting an event from a button click
+* [Styling the button](#styling-the-button)
+* [Starting an event from a button click](#starting-an-event-from-a-button-click)
 
 ![](/assets/button-✕-fig-1.png)
 

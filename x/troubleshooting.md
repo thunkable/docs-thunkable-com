@@ -33,7 +33,9 @@ Common issues
 
 ### `Download for Android`
 
-Common issues not yet reported
+Common issues
+
+**No issues yet reported**
 
 ---
 

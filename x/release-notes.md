@@ -8,13 +8,13 @@
 
 Platform updates
 
-* Live app now lets you preview all your app projects from the comfort of your mobile device; shake to change projects!
+* Live app now lets you live preview all your app projects from the comfort of your mobile device; shake to change projects!
 
 * Adds version support for download / publish for Android and iOS
 
 Component updates
 
-* Maps - adds a few new block events e.g. on Map Click and supports the ability to add markers, polylines and polygons
+* Map - adds a few new block events e.g. on Map Click and supports the ability to add markers, polylines and polygons
 
 New components
 
