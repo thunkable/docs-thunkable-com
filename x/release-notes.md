@@ -4,6 +4,24 @@
 
 ---
 
+#### April 18, 2018
+
+Platform updates
+
+* Live app now supports preview of all user's app projects; shake to explore!
+* Adds version support for download / publish for Android and iOS
+
+Component updates
+
+* Maps - adds a few new block events e.g. on Map Click and supports the ability to add markers, polylines and polygons
+
+New components
+
+* Location Sensor - 
+* Slider - popular UI  
+
+---
+
 #### April 12, 2018
 
 Component updates

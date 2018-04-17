@@ -30,6 +30,7 @@
         * [Web Viewer](x/components/user-interface/web-viewer.md)
         * [List Viewer](x/components/user-interface/list-viewer.md)
         * [Switch](x/components/user-interface/switch.md)
+        * [Slider](x/components/user-interface/slider.md)
         * [Image](x/components/user-interface/image.md)
         * [Lottie](x/components/user-interface/lottie.md)
       * [Map / Location](x/components/map-location/README.md)

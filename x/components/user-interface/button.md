@@ -4,7 +4,7 @@
 
 ---
 
-Buttons are the most commonly used components in Thunkable apps and can be styled to take the shape of anything from a blue oval to a hardworking beaver.
+Buttons are the most commonly used app components and can be styled to take the shape of anything from a blue oval to a hardworking beaver.
 
 * Styling the button
 * Starting an event from a button click
@@ -41,7 +41,7 @@ Buttons are the most commonly used components in Thunkable apps and can be style
 | :--- | :--- |
 | Click | User tapped and releases the button |
 | Long Click | User holds the button down |
-| Touch Up | User releases the button  |
+| Touch Up | User releases the button |
 | Touch Down | User gently presses the button |
 | Disabled | If `true`, button will be disable |
 
