@@ -31,6 +31,10 @@ After you have downloaded and logged into your Thunkable Live Android or iOS app
 
 ### Live Preview
 
+You can preview all the apps in your account from the comfort of your phone.  To exit a preview, please shake your phone \(but make sure not to drop it!\)
+
+![](/assets/live-preview-✕-fig-1.gif)
+
 ---
 
 ### Troubleshooting
