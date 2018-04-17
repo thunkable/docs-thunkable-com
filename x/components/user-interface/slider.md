@@ -1,6 +1,6 @@
 #### **Thunkable Cross-Platform **✕
 
-# Slider
+# Slider ![](/assets/iOSviewIconSlider.png)
 
 ---
 

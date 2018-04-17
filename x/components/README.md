@@ -17,7 +17,7 @@ Visible components have common sets of properties usually sizing, styling & text
 
 | Layout | User Interface | Map / Location |
 | :--- | :--- | :--- |
-| ![](/assets/iOSviewIconScreen.png)![](/assets/iOSviewIconTabNavigator.png)![](/assets/iOSviewIconDrawerNavigator.png)![](/assets/iOSviewIconStackNavigator.png) ![](/assets/iOSviewIconRow.png) ![](/assets/iOSviewIconCloumn.png) | ![](/assets/iOSviewIconButton.png)![](/assets/iOSviewIconLabel.png)![](/assets/iOSviewIconImage.png)![](/assets/iOSviewIconTextInput.png)![](/assets/iOSviewIconWebViewer.png)![](/assets/iOSviewIconListView.png)![](/assets/iOSviewIconLottie.png) | ![](/assets/iOSviewIconGoogleMap.png) |
+| ![](/assets/iOSviewIconScreen.png)![](/assets/iOSviewIconTabNavigator.png)![](/assets/iOSviewIconDrawerNavigator.png)![](/assets/iOSviewIconStackNavigator.png) ![](/assets/iOSviewIconRow.png) ![](/assets/iOSviewIconCloumn.png) | ![](/assets/iOSviewIconButton.png)![](/assets/iOSviewIconLabel.png)![](/assets/iOSviewIconImage.png)![](/assets/iOSviewIconTextInput.png)![](/assets/iOSviewIconWebViewer.png)![](/assets/iOSviewIconListView.png)![](/assets/iOSviewIconSlider.png)![](/assets/iOSviewIconLottie.png) | ![](/assets/iOSviewIconGoogleMap.png) |
 
 ---
 
@@ -27,9 +27,9 @@ Invisible components often require some set-up and usually are limited to one ty
 
 | Sensors / Hardware | Data / Storage | Artificial Intelligence |
 | :--- | :--- | :--- |
-| ![](/assets/iOSviewIconCamera.png)![](/assets/iOSviewIconCameraRoll.png)![](/assets/iOSviewIconSound.png)![](/assets/iOSviewIconTimer.png) | ![](/assets/iOSviewIconLocalStorage Copy.png)![](/assets/iOSviewIconWebAPI.png)![](/assets/iOSviewIconFirebaseDB.png)![](/assets/cloudinary-icon.png)![](/assets/iOSviewIconSpreadsheet.png) | ![](/assets/iOSviewIconTexttoSpeech.png)![](/assets/iOSviewIconYandex.png)![](/assets/iOSviewIconDialogflow.png)![](/assets/iOSviewIconImageRecognizer.png) |
+| ![](/assets/iOSviewIconCamera.png)![](/assets/iOSviewIconCameraRoll.png)![](/assets/iOSviewIconSound.png)![](/assets/iOSviewIconTimer.png) | ![](/assets/iOSviewIconLocalStorage Copy.png)![](/assets/iOSviewIconWebAPI.png)![](/assets/iOSviewIconFirebaseDB.png)![](/assets/cloudinary-icon.png)![](/assets/iOSviewIconSpreadsheet.png) | ![](/assets/iOSviewIconSpeechRecognizer.png)![](/assets/iOSviewIconTexttoSpeech.png)![](/assets/iOSviewIconYandex.png)![](/assets/iOSviewIconDialogflow.png)![](/assets/iOSviewIconImageRecognizer.png) |
 | **Social** | **Security** | **Monetization** |
-|  | ![](/assets/iOSviewIconFirebaseDB.png) | ![](/assets/iOSviewIconStripe.png) |
+| ![](/assets/iOSviewIconSharing.png) | ![](/assets/iOSviewIconFirebaseDB.png) | ![](/assets/iOSviewIconStripe.png) |
 
 ### 
 
