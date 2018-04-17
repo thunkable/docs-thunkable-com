@@ -8,9 +8,9 @@
 
 Platform updates
 
-* Live app now lets you live preview all your app projects from the comfort of your mobile device; shake to change projects!
+* Live app now lets you [live preview](https://docs.thunkable.com/x/3-live-test.html#live-preview) all your app projects from the comfort of your mobile device; shake to change projects!
 
-* Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-%E2%91%A4--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
+* Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-⑤--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
 
 Component updates
 
