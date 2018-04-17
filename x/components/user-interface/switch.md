@@ -7,7 +7,7 @@
 The Switch is a popular UI element to turn on and off a certain feature in an app, often used in settings pages.
 
 * [Set up](#set-up)
-* [Styling the Switch](#styling-the-switch)
+* [Style the Switch](#style-the-switch)
 
 ### ![](/assets/switch-✕-fig-1.gif)
 
@@ -27,7 +27,7 @@ To enable the Switch, you'll have to use the block below to set the Switch `valu
 
 ---
 
-### Styling the Switch
+### Style the Switch
 
 | Properties | Description |
 | :--- | :--- |

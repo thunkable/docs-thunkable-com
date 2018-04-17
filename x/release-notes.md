@@ -14,7 +14,7 @@ Platform updates
 
 Component updates
 
-* [Map](/x/components/map-location/map.md) - adds a few new block events e.g. on Map Click and supports the ability to add markers, polylines and polygons
+* [Map](/x/components/map-location/map.md) - adds new block events e.g. on Map Click, on Marker Click and supports the ability to add markers, polylines and polygons
 
 New components
 

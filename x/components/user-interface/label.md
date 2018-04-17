@@ -6,11 +6,13 @@
 
 Labels are a useful text component that can give additional information to the user from instructions to error messages
 
-* [Styling the label](#styling-the-label)
+* [Style the Label](#style-the-label)
+* Edit size
+* Add spacing
 
 ---
 
-### Styling the label
+### Style the Label
 
 | Property | Description |
 | :--- | :--- |

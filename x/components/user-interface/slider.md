@@ -7,9 +7,9 @@
 The Slider is are the UI element of choice for letting users select a value or range from a fixed set of options, such as setting the brightness of a screen
 
 * [Set up](#set-up)
-* [Styling the slider](#styling-the-slider)
-* [Editing size](#editing-size)
-* [Adding spacing](#adding-spacing)
+* [Style the Slider](#style-the-slider)
+* [Edit size](#edit-size)
+* [Add spacing](#add-spacing)
 
 ![](/assets/slider-✕-fig-2.png)
 
@@ -30,7 +30,7 @@ We recommend using a Label with the Slider so that users can get immediate feedb
 
 ---
 
-### Styling the slider
+### Style the Slider
 
 | Property | Description |
 | :--- | :--- |
@@ -41,7 +41,7 @@ We recommend using a Label with the Slider so that users can get immediate feedb
 
 ---
 
-### Editing size
+### Edit size
 
 | Property | Description |
 | :--- | :--- |
@@ -50,7 +50,7 @@ We recommend using a Label with the Slider so that users can get immediate feedb
 
 ---
 
-### Adding spacing
+### Add spacing
 
 For more information on adding spacing in your app, please see our [introduction here](/x/create/intro-spacing.md)
 

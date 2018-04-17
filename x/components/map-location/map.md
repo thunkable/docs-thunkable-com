@@ -6,13 +6,14 @@
 
 Maps are one of the most popular services today and with the Map component, you can choose to add a Google or Apple Map \(iOS only\) to your apps
 
-* Choose your provider
-* Zoom and center your map
-* Style your map \(Google Maps only\)
+* [Choose your provider](#choose-your-provider)
+* Zoom and center the Map
+* Style the Map \(Google Maps only\)
 * Editing size
 * Add markers
 * Add polylines
 * Add polygons
+* Add spacing
 
 ![](/assets/map-✕-fig-1.png)
 
@@ -28,13 +29,11 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 
 ---
 
-### Zoom and center your map
+### Zoom and center the Map
 
 To auto-center your map, you can pair the Map component with a Location Sensor. `There is currently a bug with the blocks below working on Android`
 
 ![](/assets/map-✕-fig-2.png)
-
-
 
 | Property | Description |
 | :--- | :--- |
@@ -42,17 +41,15 @@ To auto-center your map, you can pair the Map component with a Location Sensor. 
 | Longitude | Default \(`-122.4`\); In degrees east or west from the equator from `-90` to `90` where locations west of the equator are negative and those east are positive |
 | Zoom | Default \(`0`\); Range is -15 to 10 where -15 is most zoomed out |
 | Shows User Location | Default \(`true`\); If `true`, shows user location as a blinking blue dot |
-| Shows My Location Button \(Google Maps only\) | Default \(`true`\); In `true`, shows my location button that auto-centers map on user's location  |
+| Shows My Location Button \(Google Maps only\) | Default \(`true`\); In `true`, shows my location button that auto-centers map on user's location |
 
 ---
 
-### Style your map \(Google Maps only\)
-
-
+### Style the Map \(Google Maps only\)
 
 ---
 
-### Size your map
+### Edit size
 
 | Property | Description |
 | :--- | :--- |
