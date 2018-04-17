@@ -10,16 +10,16 @@ Platform updates
 
 * Live app now lets you live preview all your app projects from the comfort of your mobile device; shake to change projects!
 
-* Adds version support for download / publish for Android and iOS
+* Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-%E2%91%A4--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
 
 Component updates
 
-* Map - adds a few new block events e.g. on Map Click and supports the ability to add markers, polylines and polygons
+* [Map](/x/components/map-location/map.md) - adds a few new block events e.g. on Map Click and supports the ability to add markers, polylines and polygons
 
 New components
 
-* Location Sensor - gets user's current location
-* Slider - UI element of choice for letting users select a value or range from a fixed set of options, such as setting the brightness of a screen
+* [Location Sensor](/x/components/map-location/location-sensor.md) - gets user's current location
+* [Slider](/x/components/user-interface/slider.md) - UI element of choice for letting users select a value or range from a fixed set of options, such as setting the brightness of a screen
 
 ---
 
