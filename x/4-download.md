@@ -13,15 +13,16 @@ Due to special circumstances from Apple, there is a limit of one downloaded app 
 | Download app limit | No limit | One app per phone |
 | Download time | Up to a few minutes | Usually 20-30 min |
 
-* [**Download Android app**](#download-android-app)
-  * [① / Select Download Android app](#step-①--select-download-android-app) 
-  * [② / Allow apps from Unknown sources](#step-②---allow-apps-from-unknown-sources) \(first time only\)
-* [**Download iOS app**](#download-ios-app)
+**Download Android app**
 
-  * [① / Select Download iOS app](#step-①--select-download-ios-app-and-enter-your-email-address) and enter your email address
-  * [② / Click on the download link in your email](#step-② --click-on-the-download-link-in-your-email)
+* [① / Select Download Android app](#step-①--select-download-android-app) 
+* [② / Allow apps from Unknown sources](#step-②---allow-apps-from-unknown-sources) \(first time only\)
 
-  * [③ / Trust Thunkable on your device](#step-③---trust-thunkable-on-your-device) \(first time only\)
+**Download iOS app**
+
+* [① / Select Download iOS app](#step-①--select-download-ios-app-and-enter-your-email-address) and enter your email address
+* [② / Click on the download link in your email](#step-②---click-on-the-download-link-in-your-email)
+* [③ / Trust Thunkable on your device](#step-③---trust-thunkable-on-your-device) \(first time only\)
 
 ---
 
