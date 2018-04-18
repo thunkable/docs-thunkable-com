@@ -23,6 +23,7 @@ Due to special circumstances from Apple, there is a limit of one downloaded app 
 * [① / Select Download iOS app](#step-①--select-download-ios-app-and-enter-your-email-address) and enter your email address
 * [② / Click on the download link in your email](#step-②---click-on-the-download-link-in-your-email)
 * [③ / Trust Thunkable on your device](#step-③---trust-thunkable-on-your-device) \(first time only\)
+* [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -60,5 +61,18 @@ You will receive an email when your app is ready to download. This usually takes
 
 On your first time downloading apps for iOS, you will need to open your `Settings` app, navigate to `General` and `Device Management` and then `Trust "Rappidly Inc"` \(the business name of Thunkable\)
 
-![](/assets/download-✕-fig-3.png)
+#### ![](/assets/download-✕-fig-3.png)
+
+---
+
+#### Troubleshooting
+
+**You receive an email from the hard-working beaver saying that this app will not build**
+
+Common issues
+
+* You uploaded an icon that has the same name as an existing asset that you have uploaded
+* Your app icon is not an image file
+
+
 

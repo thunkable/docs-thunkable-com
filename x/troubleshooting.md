@@ -4,7 +4,18 @@
 
 ---
 
-### Live Test
+Here are some of the most common issues that our users are running into:
+
+* [Live Test \(iOS\)](#live-test-ios)
+* [Download \(iOS\)](#download-ios)
+* [Publish \(iOS\)](#publish-ios)
+* [Live Test \(Android\)](#live-test-android)
+* [Download \(Android\)](#download-android)
+* [Publish \(Android\)](#publish-android)
+
+---
+
+### Live Test \(iOS\)
 
 Common issues
 
@@ -12,13 +23,25 @@ Common issues
 
 * If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
 * Your have unconnected blocks
-* You have a blank field in your Height or Width property settings \(Android\)
 * You have an event triggered by a Screen.Start which may be causing the screen to crash
 * Your app and desktop may not be logged into the same account
 
 **Image is not showing up on your phone**
 
 * The height or width of the image may be set to 'Fit contents'
+
+---
+
+### Download \(iOS\)
+
+Common issues
+
+**You receive an email from the hard-working beaver saying that this app will not build**
+
+Common issues
+
+* You uploaded an icon that has the same name as an existing asset that you have uploaded
+* Your app icon is not an image file
 
 ---
 
@@ -37,6 +60,30 @@ Common issues
 * Certificates. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account
 * Provisioning profile. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles
 * Two-factor authentication. You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
+
+---
+
+### Live Test \(Android\)
+
+Common issues
+
+**You see a blank / white screen when you live test \(even if there are items in your app\)**
+
+* If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
+* Your have unconnected blocks
+* You have a blank field in your Height or Width property settings
+* You have an event triggered by a Screen.Start which may be causing the screen to crash
+* Your app and desktop may not be logged into the same account
+
+**Image is not showing up on your phone**
+
+* The height or width of the image may be set to 'Fit contents'
+
+---
+
+### Download \(Android\)
+
+No issues yet reported
 
 ---
 
