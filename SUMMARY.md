@@ -10,7 +10,7 @@
   * [2 / Create](x/create/README.md)
     * [Login Issues](x/create/login-issues.md)
     * [App Limits](x/create/app-limits.md)
-    * [App Icon + Name](x/create/app-icon-+-name.md)
+    * [App Icon + Name](x/create/app-icon-name.md)
     * [Package Name + Bundle ID](x/create/package-name-+-bundle-id.md)
     * [Adding Files](x/create/adding-files.md)
     * [Make Copy](x/create/make-copy.md)
