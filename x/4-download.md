@@ -15,7 +15,7 @@ Due to special circumstances from Apple, there is a limit of one downloaded app 
 
 * [**Download Android app**](#download-android-app)
   * [① / Select Download Android app](#step-①--select-download-android-app) 
-  * [②  / Change your phone setting to allow non-market apps](#step-②---change-your-phone-setting-to-allow-non-market-apps)
+  * [② / Allow apps from Unknown sources](#step-②---allow-apps-from-unknown-sources)
 * [**Download iOS app**](#download-ios-app)
 
   * [① / Select Download iOS app](#step-①--select-download-ios-app-and-enter-your-email-address) and enter your email address
@@ -33,13 +33,11 @@ To download your Android app, select Download Android App and an .apk file will 
 
 #### ![](/assets/share-✕-fig-4.png)
 
-#### Step ②  / Change your phone setting to allow non-market apps
+#### Step ②  / Allow apps from Unknown sources
 
-Anyone installing your app directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of non-market applications
+Anyone installing your app directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of apps from Unknown sources
 
-
-
-\*To find this setting on versions of Android prior to 4.0, go to "Settings &gt; Applications" and then check the box next to "Unknown Sources". For devices running Android 4.0 or above, go to "Settings &gt; Security" or "Settings &gt; Security & Screen Lock" and then check the box next to "Unknown Sources" and confirm your choice.
+![](/assets/download-✕-fig-4.png)
 
 ---
 
