@@ -4,7 +4,9 @@
 
 ---
 
-Thunkable makes it easy to download your app project to your phone. On iOS, there is a limit of one downloaded app per phone and usually requires more time to build
+Thunkable makes it easy to download your app project to your phone.
+
+On iOS, due to constraints from Apple, there is a limit of one downloaded app per phone and usually requires more time to build.
 
 |  | Android | iOS |
 | :--- | :--- | :--- |
@@ -12,11 +14,13 @@ Thunkable makes it easy to download your app project to your phone. On iOS, ther
 | Download time | Up to a few minutes | Up to an hour |
 
 * [Download Android app](#download-android-app)
-* [Download iOS app](#download-ios-app)
-  * [① / Select Download iOS app](#step-①--select-download-ios-app-and-enter-your-email-address) and enter your email address
-  * [② / Click on the download link in your email](#step-② --click-on-the-download-link-in-your-email)
-
   * 
+* [Download iOS app](#download-ios-app)
+
+  * [① / Select Download iOS app](#step-①--select-download-ios-app-and-enter-your-email-address) and enter your email address
+  * [② / Click on the download link in your email](#step-② --click-on-the-download-link-in-your-email)
+
+  * [③ / Trust Thunkable on your device](#step-③---trust-thunkable-on-your-device)
 
 ---
 
@@ -38,19 +42,17 @@ To find this setting on versions of Android prior to 4.0, go to "Settings &gt; A
 
 #### Step ① / Select Download iOS app and enter your email address
 
-You will receive an email when your app is ready to download. This usually takes 15-20 minutes but can take up to an hour.![](/assets/dowloand-ios-fig-3.png)
+You will receive an email when your app is ready to download. This usually takes 15-20 minutes but can take up to an hour
 
 
 
-#### Step ②  / Click on the download link in your email
+#### Step ②  / Click on the download link in your email
 
 **IMPORTANT: The link to download the app is only intended for your own use and will expire after 24 hours**
 
 ![](/assets/dowloand-ios-fig-3.png)
 
-#### Step ③  / Trust "Rappidly Inc" to 
+#### Step ③  / Trust Thunkable on your device
 
 On your first time downloading apps for iOS, you will need to open your Settings app to first Trust "Rappidly Inc" \(the business name of Thunkable\) to install apps on your phone![](/assets/download-ios-fig-4.png)
-
-
 
