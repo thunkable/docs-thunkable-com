@@ -42,7 +42,7 @@ Otherwise, you will need to set your Read and Write rules to `true`
 
 To connect your Firebase project with Thunkable, you'll have to add an `API key` and `Database URL` to the Firebase Settings in the App Settings, which you can find by clicking on your app icon![](/assets/firebase-✕-fig-6.png)
 
-One way to retrieve the `API key` and `Database URL` from Firebase is to click on the `Add Firebase to your web app option` 
+One way to retrieve the `API key` and `Database URL` from Firebase is to click on the `Add Firebase to your web app option`
 
 ![](/assets/firebase-✕-fig-2.png)![](/assets/firebase-✕-fig-9.png)
 
@@ -50,11 +50,13 @@ One way to retrieve the `API key` and `Database URL` from Firebase is to click o
 
 Once your project is connected to your Thunkable app, we recommend that you do a simple test and save a value into your database. It should appear in your data tab in your Firebase console.
 
-![](/assets/firebase-✕-fig-10.png) 
+![](/assets/firebase-✕-fig-10.png)
 
 ---
 
 ### Save data
+
+![](/assets/firebase-✕-fig-11.png)
 
 | Event | Description |
 | :--- | :--- |
@@ -64,6 +66,8 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 
 ### Get data
 
+![](/assets/firebase-✕-fig-12.png)
+
 | Event | Description |
 | :--- | :--- |
 | Get \(`key`,`value`\) | Asks Firebase to get the`value`stored under the given`key` |
@@ -72,13 +76,13 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 
 ### Update data in real-time
 
+![](/assets/firebase-✕-fig-13.png)
+
 | Event | Description |
 | :--- | :--- |
 | Add Listener \(`key`\) | Asks Firebase to listen to a specific`key`for changes in the database. Required for Data Changed block. |
 | Data Changed \(`key`,`value`\) | Asks Firebase for updates to`value`for specified`key`. Requires an Add Listener block. |
 | Remove Listener \(`key`\) | Ask Firebase to stop listening to a specific`key`for changes in the database |
-
-
 
 
 
