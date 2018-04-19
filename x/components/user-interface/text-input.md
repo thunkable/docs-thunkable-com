@@ -25,7 +25,7 @@ You can customize the Text Input to display the standard keyboard or to have it 
 | :--- | :--- |
 | Keyboard Type | Default \(`default`\); default is the default keyboard installed on the phone; numeric accepts numbers and is similar to `phone-pad`; `email-address` is customized to accept email addresses |
 
-You can also set up Text Input for passwords as shown below 
+You can also set up Text Input for passwords as shown below
 
 ![](/assets/text-input-✕-fig-3.png)
 
@@ -46,7 +46,8 @@ You can also set up Text Input for passwords as shown below
 | Font Italic | Default \(`false`\);  If `true`, text font will be _italic_ |
 | Font Size | Default \(`14`\); Size of the text that users type |
 | Background Color | Default \(`none`\); Sets the background color of the text box |
-| Border | Default \(`none`\); You can set the `width`, `color` and `style` of the border around the Text Input box |
+| Border | Default \(`none`\); You can set the `width`, `color` and `style` of the border around the Text Input box. On iOS, bordersor background colors can be useful to make the Text Input box more visible |
+| Underline Color Android `Advanced` | Default \(`none`\); Sets the underline color of the Text Input on Android |
 
 ---
 
