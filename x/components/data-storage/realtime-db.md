@@ -18,7 +18,7 @@ With the increased focus on user privacy, we strongly advise that you use own Fi
 
 ---
 
-### Set up
+### Set up {#set-up}
 
 Thunkable provides a default Firebase account for testing purposes. When your app is ready to be distributed, we strongly advise connecting your app to your personal Firebase instance.
 
