@@ -40,6 +40,14 @@ Below are a few of our favorites with more to come!
 
 ### **Medium**
 
+**Personal News** is a curated newsfeed of your favorite current read, reading from a simple Airtable [spreadsheet](/x/components/data-storage/spreadsheet.md) with Articles and Descriptions that you can modify at any time. This app can be remixed in a number of ways from displaying help content for your products in a more optimised way to sharing your favorite products from your e-commerce business. This app features a Stack Navigator and a Share component as well!
+
+#### [Click to remix](https://goo.gl/215j2a)
+
+![](/assets/✕-personal-news.png)
+
+
+
 **Social Credit** is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). The app also features some basic error handling and a for loop block
 
 #### [Click to remix![](/assets/✕-social-credit.png)](https://goo.gl/J9dkd2)
