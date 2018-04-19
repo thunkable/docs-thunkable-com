@@ -4,7 +4,7 @@
 
 ---
 
-#### April 18, 2018
+#### April 20, 2018
 
 Platform updates
 
