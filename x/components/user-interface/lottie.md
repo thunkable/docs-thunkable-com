@@ -4,15 +4,20 @@
 
 ---
 
-One of the coolest new design elements you can add to your app is animation. The Animation component powered by [Lottie ](https://airbnb.design/lottie/)makes adding animations as easy as adding images. Animations are created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) and imported as a `.json` file.
+One of the most modern design elements in apps today is animation. The Animation component powered by [Lottie ](https://airbnb.design/lottie/)makes adding animations as easy as adding images. For designers, animations can be created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) and imported as a `.json` file.
 
-There is a large and growing community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) that you can easily add to your app.
+For the rest of us, there is a large and growing community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) that you can easily add to your app.
 
-Big thanks to the team at Airbnb for enabling one of the most popular open technologies in apps today!
+Big thanks to the team at Airbnb for building this amazing service!
+
+* [Set up](#set-up)
+* [Edit size](#edit-size)
+
+![](/assets/animation-lottie-✕-fig-1.gif)
 
 ---
 
-#### Set Animation
+### Set up
 
 | Property | Description |
 | :--- | :--- |
@@ -21,7 +26,7 @@ Big thanks to the team at Airbnb for enabling one of the most popular open techn
 
 ---
 
-#### Appearance
+### Edit size
 
 | Property | Description |
 | :--- | :--- |
