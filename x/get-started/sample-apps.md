@@ -40,11 +40,9 @@ Below are a few of our favorites with more to come!
 
 ### **Medium**
 
-**Social Credit** is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#private-firebase). The app also features some basic error handling and a for loop block
+**Social Credit** is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to set one up. The app also features some basic error handling and a for loop block
 
 #### [Click to remix![](/assets/✕-social-credit.png)](https://goo.gl/J9dkd2)
-
-
 
 **Weather** is an app that pulls the latest temperature from the Weather Underground API and as a bonus the latest traffic from the Google Maps component; Thunkers will need to create a free account to create their own Weather Underground API key
 

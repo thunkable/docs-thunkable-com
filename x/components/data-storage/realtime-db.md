@@ -8,7 +8,7 @@ Realtime DB powered by Firebase is a popular service for quickly storing and ret
 
 With the increased focus on user privacy, we strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself. We provide our database for your convenience but we may also clean out our shared account periodically.
 
-* [Set up](/Set up)
+* [Set up](#set-up)
 
 * [Save data](#save-data)
 
