@@ -38,7 +38,7 @@ The best way to get started on Thunkable is to get inspired from some of our fav
 
 * ##### [Thunkable Cross-Platform ✕](/x/get-started/sample-apps.md)
 * ##### [Thunkable iOS  ](https://docs.thunkable.com/ios/idea.html)
-* ##### [Thunkable Original Android ❤](https://docs.thunkable.com/android/sample-apps.html)
+* ##### [Thunkable Classic Android ❤](https://docs.thunkable.com/android/sample-apps.html)
 
 ---
 
