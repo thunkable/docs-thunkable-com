@@ -6,10 +6,10 @@
 
 The Text Input component allows users to enter text as an input into an app, for anything from filling out forms to passwords
 
-* Set up
-* Style the Text Input
-* Edit size
-* Add spacing
+* [Set up](#set-up)
+* [Style the Text Input](#style-the-text-input)
+* [Edit size](#edit-size)
+* [Add spacing](#add-spacing)
 
 ![](/assets/text-input-✕-fig-1.png)
 
