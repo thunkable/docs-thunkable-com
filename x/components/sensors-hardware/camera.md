@@ -4,5 +4,5 @@
 
 ---
 
-
+![](/assets/camera-✕-fig-1.png)
 
