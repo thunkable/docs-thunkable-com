@@ -53,8 +53,6 @@ There are two properties that you need to retrieve from Firebase to connect it w
 
 ---
 
-### 
-
 ### Manage user access
 
 On the Firebase console, navigate to the Users tab under Authentication and you'll find a dashboard where you can reset a user's password, disable and delete their accounts.

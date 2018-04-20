@@ -62,9 +62,9 @@ To submit a test transaction, we recommend using a test card with the number  `4
 
 Apps that accept payments should have a simple form for collecting user information both for sending a receipt and collecting transaction information and a confirmation page for letting the user know if the transaction went through successfully
 
-![](/assets/payment-stripe-✕-fig-12.png)The Payment block itself returns a `chargeId` if the payment went through successfully or an `error` if it did not
+![](/assets/payment-stripe-✕-fig-12.png)The Payment block itself returns a `chargeId` if the payment went through successfully or an `error` if it did not. The blocks below also include uploading data to a Spreadsheet if successful or an error message if the transaction did not go through.
 
-![](/assets/payment-stripe-✕-fig-13.png)
+![](/assets/payment-stripe-✕-fig-4.png)
 
 | Event | Description |
 | :--- | :--- |

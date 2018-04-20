@@ -1,6 +1,6 @@
 #### T**hunkable Cross-Platform **✕
 
-# Assistant  ![](/assets/iOSviewIconDialogflow.png) powered by Dialogflow \(aka Chatbot\)
+# Assistant  ![](/assets/iOSviewIconDialogflow.png) powered by Dialogflow
 
 ---
 

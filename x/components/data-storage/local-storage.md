@@ -1,6 +1,6 @@
 #### T**hunkable Cross-Platform **✕
 
-# Local Storage ![](/assets/iOSviewIconLocalStorage Copy.png) \(aka Tiny DB\)
+# Local Storage ![](/assets/iOSviewIconLocalStorage Copy.png) 
 
 ---
 
@@ -22,6 +22,4 @@ To save data locally to your phone, simple name a `key` to store a `value` under
 ### Get data
 
 ![](/assets/local-storage-✕-fig-2.png)
-
-
 
