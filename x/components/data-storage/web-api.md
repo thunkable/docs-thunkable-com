@@ -8,7 +8,7 @@ The Web API component provides functions for HTTP GET, POST, PUT, and DELETE req
 
 APIs unfortunately usually speak the language of code and not of humans so it is helpful to format these requests using our new [Object](/ios/blocks/objects.md) blocks
 
-#### ![](/assets/web-api-ios-fig-2.png)Download the app source code by [**clicking here**](https://goo.gl/P1YVAE)
+#### 
 
 ---
 
@@ -49,8 +49,6 @@ APIs unfortunately usually speak the language of code and not of humans so it is
 | Event | Description |
 | :--- | :--- |
 | Delete \(`response`, `status`,`error`\) | Performs an HTTP DELETE request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
-
-
 
 
 
