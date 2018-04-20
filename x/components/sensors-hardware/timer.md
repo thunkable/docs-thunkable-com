@@ -13,6 +13,8 @@ The Timer uses the internal clock on a phone to to trigger an event in the app a
 
 ### Set up
 
+#### Determine interval
+
 | Property | Enabled |
 | :--- | :--- |
 | Interval \(milliseconds\) | Default \(`3000`\); Timer interval is in milliseconds |
@@ -37,6 +39,4 @@ If 'enabled' is set to `true`, the Timer will trigger on its own when the app st
 You can start an event--such as opening a new Screen--when the Timer fires based on its given `interval`
 
 ![](/assets/timer-✕-fig-1.png)
-
-
 

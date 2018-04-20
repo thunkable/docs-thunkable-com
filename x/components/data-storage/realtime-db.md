@@ -6,14 +6,11 @@
 
 Realtime DB powered by Firebase is a popular service for quickly storing and retrieving text `keys` and  `values` similar to Local Storage but into the cloud so that any app can access the data simultaneously.  This storage option is useful for anything from saving game high scores to tracking social credit.
 
-With the increased focus on user privacy, we strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself. We provide our database for your convenience but we may also clean out our shared account periodically.
+With the increased focus on user privacy, we strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself. We provide our database for your convenience but we may also clean out our shared account periodically
 
 * [Set up](#set-up)
-
 * [Save data](#save-data)
-
 * [Get data](#get-data)
-
 * [Update data in real-time](#update-data-in-real-time)
 
 ---

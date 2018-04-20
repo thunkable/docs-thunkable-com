@@ -15,6 +15,7 @@ Platform updates
 Component updates
 
 * [Map](/x/components/map-location/map.md) - adds new block events e.g. on Map Click, on Marker Click and supports the ability to add markers, polylines and polygons
+* [Text to Speech](https://docs.thunkable.com/x/components/artificial-intelligence/text-to-speech.html) - increase supported languages from 6 to 87
 
 New components
 

@@ -6,10 +6,10 @@
 
 The backbone to many apps is data and managing your app data in a Spreadsheet can be very user friendly. The Spreadsheet component is powered by Airtable, a service that looks like a spreadsheet but actually acts like a database so it can do database-like things like store attachments i.e. images in your spreadsheets \(and not just text\) and link records between spreadsheets.
 
-We like Airtable because set-up is relatively a breeze for a spreadsheet.
+We like Airtable because set-up is relatively a breeze for a spreadsheet
 
 * [Set up](#set-up)
-* [Getting, uploading, updating and deleting data in a spreadsheet](#getting-uploading-updating-and-deleting-data-in-a-spreadsheet)
+* [Getting, uploading, updating and deleting data](#getting-uploading-updating-and-deleting-data-in-a-spreadsheet)
 
 ---
 
@@ -43,7 +43,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ---
 
-### Getting, uploading, updating and deleting data in a spreadsheet
+### Getting, uploading, updating and deleting data
 
 #### Setting items for a ListView from an Airtable column
 
