@@ -6,6 +6,9 @@
 
 The Sound component is a popular component in many apps for playing a variety of sounds from songs to voice translations stored locally or in the cloud
 
+* [Set up](#set-up)
+* [Play a sound](#play-a-sound)
+
 ---
 
 ### Set up
