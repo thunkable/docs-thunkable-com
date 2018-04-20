@@ -8,25 +8,17 @@ The Web API component retrieves and uploads data to and from an API service like
 
 Set up
 
-
-
-
-
 ![](/assets/web-api-✕-fig-1.png)
-
-
-
-
 
 ---
 
 ### Set up
 
-Some APIs are completely open for developers but many have some security behind them. To access your API of choice, please follow the instructions that they provide and retrieve the webL to c
+Some APIs are completely open for developers but many have some security behind them. To access your API of choice, please follow the instructions that they provide and retrieve the web URL to access the API
 
 | Property | Description |
 | :--- | :--- |
-| URL | The url for the web request |
+| URL | The url for the web request which usually contains an API key |
 
 ---
 
