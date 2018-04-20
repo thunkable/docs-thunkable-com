@@ -6,9 +6,9 @@
 
 The Assistant component powered by Dialogflow, enables real-time voice responses to user questions asked by voice. The Assistant understands a user's natural language and the developer simply programs the questions and responses to return to the user
 
-* Set up
-* Select listening language
-* Trigger the Assistant
+* [Set up](#set-up)
+* [Select listening language](#select-listening-language)
+* [Activate the Assistant](#activate-the-assistant)
 
 ---
 
@@ -44,7 +44,7 @@ Amazingly, the Assistant understands multiple languages--13 in fact with an addi
 
 ---
 
-### Activating the Assistant
+### Activate the Assistant
 
 The Assistant is powered by a speech recognizer which listens to a voice query.  It's important to make sure the Assistant has enough time to listen to a voice query and return a response. The blocks below illustrate one way of implementing the Assistant Start and Stop procedures.
 
