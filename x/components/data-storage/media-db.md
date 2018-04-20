@@ -6,6 +6,8 @@
 
 Media Database powered by Cloudinary stores your favorite images, audio files and videos into the cloud and returns a url for where it can be retrieved later
 
+`IMPORTANT No set up is required but creating your free Cloudinary account is highly recommended`
+
 * [Set up](#set-up)
 * [Upload media](#upload-media)
 

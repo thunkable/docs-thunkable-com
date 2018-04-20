@@ -19,11 +19,13 @@ To set up the Text to Speech component, simply select the spoken language that w
 
 | Property | Description |
 | :--- | :--- |
-| Language | Default \(`none`\); the name of the language to speak aloud |
+| Language | The name of the language to speak aloud; currently available in over 85 languages |
 
 ---
 
 ### Speak
+
+The blocks below speak aloud the text` Hello world`
 
 ![](/assets/text-to-speech-fig-1.png)
 
