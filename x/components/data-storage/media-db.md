@@ -4,39 +4,38 @@
 
 ---
 
-Media Database powered by Cloudinary is an easy-to-use service for uploading your images, audio files and videos in the cloud and returning a url where you can retrieve the image.
+Media Database powered by Cloudinary stores your favorite images, audio files and videos into the cloud and returns a url for where it can be retrieved later
 
-IMPORTANT Thunkable provides its own API key by default for your convenience but if you may want to use your own Cloudinary key to ensure more privacy for your user's images or increase the 10MB image file size limit. We may also clean out our shared Cloudinary account periodically.
-
----
-
-#### Pick a photo from the library, upload it to the Cloudinary cloud and store its url in Firebase
-
-#### ![](/assets/media-db-cloudinary-fig-1.png)
+* [Set up](#set-up)
+* [Upload media](#upload-media)
 
 ---
 
-#### Set up
+### Set up
 
-No set up is required. Thunkable provides its own subscription key as default. The current image size limit is 10MB.
+No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
 
-You may want to create your own free account with [Cloudinary](http://cloudinary.com/) if you want to upload larger images or if you want to ensure better privacy for your user's images
+#### Step ① / Create a [free Cloudinary](https://cloudinary.com/) account
 
-`default`
+#### ![](/assets/media-db-cloudinary-✕-fig-1.png)
+
+#### Step ② / Connect your Cloudinary cloud to Thunkable
+
+To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret`
+
+![](/assets/media-db-cloudinary-✕-fig-2.png)
 
 | Property | Description |
 | :--- | :--- |
-| Cloud Name | Thunkable provides its own as `default`. Do not change unless you want to replace it with your own |
-| API Key | Thunkable provides its own as `default`. Do not change unless you want to replace it with your own |
-| API Secret | Thunkable provides its own as `default`. Do not change unless you want to replace it with your own |
-
-![](/assets/cloudinary-account.png)
-
-If you do create your own account, the API key corresponds to the 'subscription key', the API secret corresponds to the 'subscription secret' and the cloud name corresponds to the 'cloud name'
+| Cloud Name | Default \(`default`\); Thunkable provides its own shared account by `default` for testing purposes. Please create your own free account and add your credentials |
+| API Key | Default \(`default`\); Thunkable provides its own shared account by `default` for testing purposes. Please create your own free account and add your credentials |
+| API Secret | Default \(`default`\); Thunkable provides its own shared account by `default` for testing purposes. Please create your own free account and add your credentials |
 
 ---
 
-#### Upload media and return a URL
+### Upload media
+
+#### ![](/assets/media-db-cloudinary-✕-fig-3.png)
 
 | Event | Description |
 | :--- | :--- |
