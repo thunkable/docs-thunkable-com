@@ -4,7 +4,7 @@
 
 ---
 
-The Sound component is a popular component in many apps for playing a variety of sounds from songs to voice translations stored locally or in the cloud. Our sound component accepts .mp3 and .wav files; it does not accept .ogg files.
+The Sound component is a popular component in many apps for playing a variety of sounds from songs to voice translations stored locally or in the cloud
 
 ---
 
@@ -21,8 +21,6 @@ To use the sound component, select either a locally stored sound file or referen
 ### Play a sound
 
 ![](/assets/sound-✕-fig-1.png)
-
-
 
 | Event / Property | Description |
 | :--- | :--- |
