@@ -4,22 +4,29 @@
 
 ---
 
-The Web API component provides functions for HTTP GET, POST, PUT, and DELETE requests used mainly to retrieve data from an open Web API service like Yahoo Finance for stock quotes or Weather Underground for weather information.
+The Web API component retrieves and uploads data to and from an API service like Yahoo Finance for stock quotes, Weather Underground for weather information or a private one that your organization may have set up
 
-APIs unfortunately usually speak the language of code and not of humans so it is helpful to format these requests using our new [Object](/ios/blocks/objects.md) blocks
+Set up
 
-#### 
+
+
+
+
+![](/assets/web-api-✕-fig-1.png)
+
+
+
+
 
 ---
 
-#### Web API service settings
+### Set up
+
+Some APIs are completely open for developers but many have some security behind them. To access your API of choice, please follow the instructions that they provide and retrieve the webL to c
 
 | Property | Description |
 | :--- | :--- |
-| Url | The url for the web request |
-| Body |  |
-| Query Parameters \(`property`, `value`\) |  |
-| Headers \(`property`, `value`\) |  |
+| URL | The url for the web request |
 
 ---
 
