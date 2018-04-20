@@ -12,11 +12,11 @@ Accepting payments are a critical part of many apps from on-demand services to i
 
 `IMPORTANT The Payment component powered by Stripe charges a 4.9% fee +$0.30 per transaction, 2% of which is taken by Thunkable as a maintenance fee. Stripe also mandates`[`minimum charge amounts`](https://stripe.com/docs/currencies#charge-currencies)`for some currencies.`
 
-![](/assets/payment-stripe-✕-fig-19.png)Note. On Android, the user does not have to submit any address information. On iOS, the developer can specify whether or not to require a full address or just a zipcode to submit a transaction. Requiring a full address may lower the risk of fraudulent activity.
-
 * [Set up](#set-up)
 * [Send a test transaction](#send-a-test-transaction)
 * [Accept payments](#accept-payments)
+
+![](/assets/payment-stripe-✕-fig-19.png)Note. On Android, the user does not have to submit any address information. On iOS, the developer can specify whether or not to require a full address or just a zipcode to submit a transaction. Requiring a full address may lower the risk of fraudulent activity.
 
 ---
 
