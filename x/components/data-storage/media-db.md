@@ -25,13 +25,9 @@ No set up is required but creating your free Cloudinary account is highly recomm
 
 To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret`
 
-![](/assets/media-db-cloudinary-✕-fig-2.png)
+![](/assets/media-db-cloudinary-✕-fig-4.png)
 
-| Property | Description |
-| :--- | :--- |
-| Cloud Name | Default \(`default`\); Thunkable provides its own shared account by `default` for testing purposes. Please create your own free account and add your credentials |
-| API Key | Default \(`default`\); Thunkable provides its own shared account by `default` for testing purposes. Please create your own free account and add your credentials |
-| API Secret | Default \(`default`\); Thunkable provides its own shared account by `default` for testing purposes. Please create your own free account and add your credentials |
+![](/assets/media-db-cloudinary-✕-fig-2.png)
 
 ---
 

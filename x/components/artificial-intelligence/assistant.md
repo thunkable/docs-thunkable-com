@@ -6,25 +6,37 @@
 
 The Assistant component powered by Dialogflow, enables real-time voice responses to user questions asked by voice. The Assistant understands a user's natural language and the developer simply programs the questions and responses to return to the user
 
----
-
-#### Set up
-
-Since you are setting up your own assistant, also known as an agent, you will first need to create an account with [Dialogflow](https://dialogflow.com/).
-
-**Step 1** **Create an intent\(s\)**. After you create our account, you will be asked to create an intent, which is simply _a user expression that will prompt a given text response_![](/assets/assistant-ios-fig-1.png)![](/assets/assistant-ios-fig-2.png)**Step 2 Find your agent's client access token.** After you've found it, you can copy it into the properties of the Assistant component in Thunkable
-
-![](/assets/assistant-ios-fig-3.png)
-
-| Property | Description |
-| :--- | :--- |
-| Dialogflow Client Access Token | Please generate your own account with Dialogflow. Each agent will have its own unique client access token |
+* Set up
+* Select listening language
+* Trigger the Assistant
 
 ---
 
-#### Select language
+### Set up
 
-Amazingly, the Assistant speaks multiple languages--13 in fact with an additional 5 accents
+#### **Step **① **Create a **[**free Dialogflow**](https://dialogflow.com/)** account**
+
+![](/assets/assistant-dialogflow-✕-fig-1.png)
+
+#### **Step **② Connect your Dialogflow agent with Thunkable
+
+To connect your Dialogflow agent to Thunkable, you'll have to find the `Client Access Token`
+
+![](/assets/assistant-dialogflow-✕-fig-2.png)
+
+To find the `Client Access Token`, you'll have to first create an agent and then navigate to the General tab with the Settings page. Each agent has a unique Client Access Token
+
+![](/assets/assistant-dialogflow-✕-fig-3.png)
+
+#### **Step ** ③ Create Intents with Text Responses
+
+After you create our account, you will be asked to create an intent, which is simply a user expression that will prompt a given text response. The more intents that you create, the more commands or questions the Assistant will be able to respond to. Since the Assistant is powered by a breakthrough technology called natural language processing, the user won't have to always say exactly what is specified in the intents \(although the more expressions the better\)![](/assets/assistant-ios-fig-1.png)![](/assets/assistant-ios-fig-2.png)
+
+---
+
+### Select listening language
+
+Amazingly, the Assistant understands multiple languages--13 in fact with an additional 5 accents
 
 | Property | Description |
 | :--- | :--- |
@@ -32,11 +44,13 @@ Amazingly, the Assistant speaks multiple languages--13 in fact with an additiona
 
 ---
 
-#### Triggering the Assistant
+### Activating the Assistant
 
-The Assistant can be triggered both by voice or a text query.  The result is a text `value` that you can convert to speech with a Text to Speech component
+The Assistant is powered by a speech recognizer which listens to a voice query.  It's important to make sure the Assistant has enough time to listen to a voice query and return a response. The blocks below illustrate one way of implementing the Assistant Start and Stop procedures.
 
-![](/assets/assistant-ios-fig-4.png)
+If the query is successful, it will return a text `value` that you can use to speak aloud or play a given sound as illustrated below
+
+![](/assets/assistant-dialogflow-✕-fig-4.png)
 
 | Event | Description |
 | :--- | :--- |
