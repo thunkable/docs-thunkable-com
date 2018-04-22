@@ -6,11 +6,11 @@
 
 Lists are important parts of life and in apps because they provide a preset menu of options, saving user's valuable time from typing imperfectly within a mobile device. The list blocks pair well with the [List Viewer](/x/components/user-interface/list-viewer.md) component
 
-* Create a list
-* Sort list
-* Select from a list
-* Analyze list
-* Manipulate list
+* [Create a list](#create-a-list)
+* [Sort list](#sort-list)
+* [Select from a list](#select-from-a-list)
+* [Analyze list](#analyze-list)
+* [Modify list](#modify-list)
 
 ---
 
@@ -67,8 +67,4 @@ The following blocks analyze a list in different ways
 You can change an item in your list with the block below
 
 ![](/assets/blocks-lists-✕-fig-6.png)
-
-
-
-
 
