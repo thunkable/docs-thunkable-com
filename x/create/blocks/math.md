@@ -9,6 +9,7 @@ Math blocks provide numeric values, perform important calculations and can intro
 * [Numeric value](#numeric-value)
 * [Perform calculations](#perform-calculations)
 * [Introduce randomness](#introduce-randomness)
+* Other
 
 ---
 
@@ -32,7 +33,7 @@ There is also a block for irrational numbers like `π`
 
 ### Perform calculations
 
-Perhaps the most often used calculation in an app is `addition` but this block also supports `subtraction`, `multiplication`, `division` and `exponential` figures 
+Perhaps the most often used calculation in an app is `addition` but this block also supports `subtraction`, `multiplication`, `division` and `exponential` figures
 
 ![](/assets/blocks-math-✕-fig-7.png)
 
@@ -79,4 +80,14 @@ For games and other apps, it may be important to introduce randomness into your 
 One way to select randomly from a list is depicted below
 
 ![](/assets/blocks-math-✕-fig-25.png)
+
+---
+
+### Other
+
+There are a couple of blocks that don't seem to fit into the previous categories that may be helpful for your app
+
+![](/assets/blocks-math-✕-fig-6.png)![](/assets/blocks-math-✕-fig-10.png)
+
+
 
