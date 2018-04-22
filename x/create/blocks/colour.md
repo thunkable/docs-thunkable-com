@@ -6,11 +6,11 @@
 
 Most often, you will set color for most of your components using the RGBA picker in your properties panel. There will be occasions where you will want to change the color of certain items while your app. There are only RGB values available within the blocks at the moment
 
-Set color by RGB
+* [Set RGB color](#set-rgb-color)
 
 ---
 
-### Set color by RGB
+### Set RGB color
 
 There is a predefined set of colors in the blocks palette
 
@@ -26,7 +26,7 @@ Strangely, you can also create a color by blending two together
 
 ![](/assets/blocks-color-✕-fig-4.png)
 
-or you can choose one at random 
+or you can choose one at random
 
 ![](/assets/blocks-color-✕-fig-2.png)
 
