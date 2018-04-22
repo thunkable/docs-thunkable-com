@@ -1,6 +1,6 @@
 #### T**hunkable Cross-Platform **✕
 
-# ⎍ Blocks 
+# ⎍ Blocks
 
 ---
 
@@ -10,9 +10,9 @@ Every component has blocks that can be connected to the pre-loaded blocks below:
 
 | Logic | Control | Math |
 | :--- | :--- | :--- |
-|  |  |  |
+| ![](/assets/blocks-logic-✕-fig-1.png)![](/assets/blocks-logic-✕-fig-2.png) | ![](/assets/blocks-control-✕-fig-7.png)![](/assets/blocks-control-✕-fig-6.png) | ![](/assets/blocks-math-✕-fig-2.png)![](/assets/blocks-math-✕-fig-7.png) |
 | **Text** | **Lists** | **Colour** |
-|  |  |  |
+| ![](/assets/blocks-text-✕-fig-2.png)![](/assets/blocks-text-✕-fig-7.png) |  |  |
 | **Objects** | **Variables** | **Functions** |
 |  |  |  |
 
