@@ -9,7 +9,7 @@ Math blocks provide numeric values, perform important calculations and can intro
 * [Numeric value](#numeric-value)
 * [Perform calculations](#perform-calculations)
 * [Introduce randomness](#introduce-randomness)
-* Other
+* [Other](#other)
 
 ---
 
@@ -88,6 +88,4 @@ One way to select randomly from a list is depicted below
 There are a couple of blocks that don't seem to fit into the previous categories that may be helpful for your app
 
 ![](/assets/blocks-math-✕-fig-6.png)![](/assets/blocks-math-✕-fig-10.png)
-
-
 
