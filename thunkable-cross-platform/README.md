@@ -1,6 +1,10 @@
+---
+description: Build once and your app will work on both Android and iOS devices
+---
+
 # Thunkable Cross Platform ✕
 
-![](../.gitbook/assets/thunkable-x-illustration.png)
+![](https://gallery.mailchimp.com/20a74cc1324aed55321a52f9a/images/e5857cdf-25c5-4839-8a41-edba6993f62e.png)
 
 ## Introducing Thunkable Cross-Platform ✕
 
