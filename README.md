@@ -24,7 +24,7 @@ Thunkable offers two popular platforms where millions of Thunkers around the wor
 
 Get familiar with our platforms and explore their features:
 
-#### **Thunkable Cross-Platform ✕ / iOS** \| [Login](https://x.thunkable.com) \| [More Info](thunkable-cross-platform/)
+#### **Thunkable Cross-Platform ✕** \| [Login](https://x.thunkable.com) \| [More Info](thunkable-cross-platform/)
 
 * New platform where anyone can build apps on Android or iOS without code. Users create a single project that works on both Android and iOS devices. Features a revamped app that lets you preview all your projects without using your desktop, easy to create links to share your projects, modern design capabilities like Tab and Drawer navigators and integrations with some of the hottest technologies today like Assistant by Dialogflow, Payments by Stripe and Spreadsheet by Airtable
 
@@ -36,7 +36,7 @@ Get familiar with our platforms and explore their features:
 
 The best way to get started on Thunkable is to get inspired from some of our favorite open sourced apps from our amazing community of Thunkers. To preview these apps, we recommend downloading our live testing app or downloading them straight to your phone
 
-* [**Thunkable Cross-Platform ✕ / iOS** ](https://thunkable.gitbook.io/thunkable-docs/~/edit/primary/)
+* [**Thunkable Cross-Platform ✕** ](https://thunkable.gitbook.io/thunkable-docs/~/edit/primary/)
 * [**Thunkable Classic Android**](https://thunkable.gitbook.io/thunkable-docs/~/edit/primary/thunkable-classic-android/1-idea)
 
 ## Questions?
