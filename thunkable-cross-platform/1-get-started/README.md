@@ -14,7 +14,7 @@ We designed Thunkable to minimize the time you spend in front of your computer m
 
 The Thunkable app allows you to live test your app on your phone as you build it. Not even hard core developers have this super power. You can also preview all your app projects from the comfort of your mobile device.
 
-![](https://gallery.mailchimp.com/20a74cc1324aed55321a52f9a/images/3aa8ff70-230f-4a30-9135-b65d03a8bdbd.png)
+![](../../.gitbook/assets/appstorepic_email_small.png)
 
 | [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](http://appstore.com/thunkablelive) |
 | --- |
@@ -26,7 +26,7 @@ This is the most creative way to start your app. Almost anything is possible. Ju
 
 ![](../../.gitbook/assets/template-icon.png)
 
-[Check out the tutorials](overview.md)
+[Check out the platform overview](overview.md)
 
 ## Start from a design template
 

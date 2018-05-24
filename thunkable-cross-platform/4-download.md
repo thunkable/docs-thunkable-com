@@ -41,7 +41,7 @@ Anyone installing your app directly, instead of from the Play Store, will need t
 
 You will receive an email when your app is ready to download. This usually takes 15-20 minutes but can take up to an hour
 
-![](../.gitbook/assets/download-fig-1.png)
+![](../.gitbook/assets/downloadandroid.png)
 
 ### Click on the download link in your email
 

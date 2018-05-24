@@ -150,17 +150,19 @@ To find the App settings, click on the App Icon on the top left.
 
 **IMPORTANT Make sure your icon does not have any transparency in it otherwise Apple will not be able to accept it.** For more recommendations on App Name and Icons, please [visit this page](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/x/create/app-icon-+-name.md)
 
-![](../.gitbook/assets/publish-ios-fig-4.png)
+![](../.gitbook/assets/publish.png)
+
+
 
 ### Send your app to iTunes Connect on Thunkable
 
 Before you send your app to iTunes Connect, make sure you set the appropriate Build and Version Number. Apple requires each new version of your app to have a unique and sequentially higher Build and Version Number. You can also let Thunkable auto-increment \(or automatically increase\) the build and version numbers for you.
 
-![](../.gitbook/assets/publish-ios-fig-6%20%281%29.png)
+![](../.gitbook/assets/version.png)
 
 To send your app to iTunes Connect, you'll simply select Publish to App Store and enter your Apple developer login credentials
 
-![](../.gitbook/assets/publish-ios-fig-5.gif)
+![](../.gitbook/assets/publishsent.gif)
 
 #### Wait \(up to an hour\)
 

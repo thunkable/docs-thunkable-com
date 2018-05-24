@@ -12,13 +12,13 @@ description: >-
 
 When you share your project, we automatically clear out any app settings which currently includes Firebase and Stripe keys and urls
 
-![](../.gitbook/assets/share-fig-2.png)
+![](../.gitbook/assets/firebasesetting.png)
 
 ### Generate a share link
 
 When you generate a share link, it will create a copy of your app project at the point in time you generate the link. If you update your app and want your collaborators / remixers to have the latest copy, you'll have to generate a new link
 
-![](../.gitbook/assets/share-fig-1.gif)
+![](../.gitbook/assets/generatelink.gif)
 
 ### Share and track your links on your project page
 

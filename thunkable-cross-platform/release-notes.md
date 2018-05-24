@@ -1,18 +1,23 @@
 # Release Notes
 
-### Coming soon
+### May 25, 2018
+
+Platform updates
+
+* [Live preview](3-live-test.md#live-preview-android-only) on Thunkable Live app available for iOS 
+
+### May 22, 2018
 
 Component updates
 
 * [Map](2-create/components/map-location/map.md) - adds new block events e.g. on Map Click, on Marker Click and supports the ability to add markers, polylines and polygons
 * [Text to Speech](https://docs.thunkable.com/x/components/artificial-intelligence/text-to-speech.html) - increase supported languages from 6 to 87
-* [Share](2-create/components/social/share.md#share-an-image) - now supports sharing locally stored assets
+* [Share](2-create/components/social/share.md#share-an-image) - now supports sharing locally stored assets \(does not work on Live Test for iOS\)
 
 New components
 
 * [Location Sensor](2-create/components/map-location/location-sensor.md) - gets user's current location
 * [Slider](2-create/components/user-interface/slider.md) - UI element of choice for letting users select a value or range from a fixed set of options, such as setting the brightness of a screen
-* [Picker and Picker Item](2-create/components/user-interface/picker-+-picker-item.md) - alternative to List Viewer
 
 ### May 15, 2018
 

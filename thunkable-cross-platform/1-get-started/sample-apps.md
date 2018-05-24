@@ -28,15 +28,17 @@ Feelings is a swipe-able audio book powered by a Tab Navigator and a Text to Spe
 
 ![](../../.gitbook/assets/feelings.png)
 
-### Aloha
 
-Aloha is a simple anonymous chat app powered by a Firebase Realtime Database. No set-up is required.
-
-#### [Click to remix](https://goo.gl/a4zj7h)
-
-![](../../.gitbook/assets/aloha%20%281%29.png)
 
 ## **Medium**
+
+### Aloha
+
+Aloha is a private anonymous chat app with a short chat history powered by a [Firebase Realtime Database](../2-create/components/data-storage/realtime-db.md). To [keep your data as private as possible](../2-create/app-data-privacy.md#create-your-own-private-repository-of-cloud-data), we recommend creating your own Firebase account and add your own API keys.
+
+#### [Click to remix](https://goo.gl/jPNbTN)
+
+![](../../.gitbook/assets/docs-aloha.png)
 
 ### **こんにちは \(Kon'nichiwa / Hello in Japanese\)**
 
@@ -98,9 +100,11 @@ Reservation is a demonstration of how to accept credit card payments through you
 
 ### Gram
 
-Gram is who photo sharing should be -- ad-free, auto-captioning and secure. Thunkers must create their own Firebase account and add their own API keys and database url in their account settings
+Gram is what photo sharing should be -- ad-free, auto-captioning and secure. This app features the Sign In component with Realtime DB both powered by Firebase, Image Recognizer by Microsoft and a way to "heart" photos. Thunkers must create their own Firebase account and add their own API keys and database url in their account settings.
 
-#### [Click to remix](https://goo.gl/itPXez)
+#### [Click to remix](https://goo.gl/gT6qEm)
 
-![](../../.gitbook/assets/thunkable-documentation-exhibits-96.png)
+![](../../.gitbook/assets/docs-gram.png)
+
+
 

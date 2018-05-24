@@ -16,6 +16,7 @@
     * [Make Copy](thunkable-cross-platform/2-create/make-copy.md)
     * [Intro to Spacing](thunkable-cross-platform/2-create/intro-to-spacing.md)
     * [Intro to Sizing](thunkable-cross-platform/2-create/intro-to-sizing.md)
+    * [App Data Privacy](thunkable-cross-platform/2-create/app-data-privacy.md)
     * [↗ Components](thunkable-cross-platform/2-create/components/README.md)
       * [Layout](thunkable-cross-platform/2-create/components/layout/README.md)
         * [Screen](thunkable-cross-platform/2-create/components/layout/screen.md)
@@ -30,7 +31,6 @@
         * [Text Input](thunkable-cross-platform/2-create/components/user-interface/text-input.md)
         * [Web Viewer](thunkable-cross-platform/2-create/components/user-interface/web-viewer.md)
         * [List Viewer](thunkable-cross-platform/2-create/components/user-interface/list-viewer.md)
-        * [Picker + Picker Item](thunkable-cross-platform/2-create/components/user-interface/picker-+-picker-item.md)
         * [Switch](thunkable-cross-platform/2-create/components/user-interface/switch.md)
         * [Slider](thunkable-cross-platform/2-create/components/user-interface/slider.md)
       * Voice
@@ -63,8 +63,8 @@
       * Monetization
         * [Payment](thunkable-cross-platform/2-create/components/monetization/payment.md)
     * [⎍ Blocks](thunkable-cross-platform/2-create/blocks/README.md)
-      * [Logic](thunkable-cross-platform/2-create/blocks/logic.md)
       * [Control](thunkable-cross-platform/2-create/blocks/control.md)
+      * [Logic](thunkable-cross-platform/2-create/blocks/logic.md)
       * [Math](thunkable-cross-platform/2-create/blocks/math.md)
       * [Text](thunkable-cross-platform/2-create/blocks/text.md)
       * [Lists](thunkable-cross-platform/2-create/blocks/lists.md)

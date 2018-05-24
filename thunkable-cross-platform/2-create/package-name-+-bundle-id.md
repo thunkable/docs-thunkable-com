@@ -8,5 +8,7 @@ Thunkable supports custom package names as they are known in Android or app bund
 
 ### Customizing Your App \(Bundle\) ID / Package Name
 
-Navigate to App Settings by clicking on the app icon in the top left![](../../.gitbook/assets/packagename.png)
+Navigate to App Settings by clicking on the app icon in the top left
+
+![](../../.gitbook/assets/appbundleid.gif)
 

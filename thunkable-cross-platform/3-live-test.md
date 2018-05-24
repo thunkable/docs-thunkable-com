@@ -25,7 +25,7 @@ Once you have synced your app with your project, every change you make to your p
 
 After you have downloaded and logged into your Thunkable Live Android or iOS app on your phone, please select `Live Test` on the Thunkable web platform to sync your project with your app. Any changes that you make to your project should be reflected in your app. Some changes that you make may crash the app itself so it may be helpful to exit out of and re-open the app.
 
-![](../.gitbook/assets/live-test-fig-1.png)
+![](../.gitbook/assets/t1_step7_live-test.png)
 
 ## Live Preview \(Android only\)
 
