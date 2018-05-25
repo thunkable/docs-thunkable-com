@@ -44,7 +44,7 @@ Aloha is a private anonymous chat app with a short chat history powered by a [Fi
 
 こんにちは is an app designed for travel in any country. It uses the newly upgraded [Speech Recognizer](../2-create/components/artificial-intelligence/speech-recognizer.md) combined with the [Translator](../2-create/components/artificial-intelligence/translator.md) component powered by Yandex to translate any spoke phrase into one of 87 supported languages. The app also features persistent data using [Local Storage](../2-create/components/data-storage/local-storage.md), importing a list of data from [Spreadsheet](../2-create/components/data-storage/spreadsheet.md), and sharing results with the [Share](../2-create/components/social/share.md) component.
 
-[**Click to remix**](https://goo.gl/K4RsAH)
+[**Click to remix**](https://goo.gl/B44Kdr)
 
 ![](../../.gitbook/assets/docs-real.png)
 
