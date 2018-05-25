@@ -84,9 +84,9 @@ Translator is an app that translates English text into the 20 most popular langu
 
 Dad is a digital version of Albert's dad, based on a recorded interview and powered by Dialogflow's Assistant service. Thunkers must create their own Dialogflow account to customize their digital version.
 
-#### [Click to remix](https://goo.gl/mf5vUk)
+#### [Click to remix](https://goo.gl/P94huP)
 
-![](../../.gitbook/assets/dad.png)
+![](../../.gitbook/assets/docs-dad.png)
 
 ## Advanced
 
