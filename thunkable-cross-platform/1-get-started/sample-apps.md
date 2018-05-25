@@ -40,7 +40,7 @@ Aloha is a private anonymous chat app with a short chat history powered by a [Fi
 
 ![](../../.gitbook/assets/docs-aloha.png)
 
-### **こんにちは \(Kon'nichiwa / Hello in Japanese\)**
+### **こんにちは \(Kon'nichiwa\)**
 
 こんにちは is an app designed for travel in any country. It uses the newly upgraded [Speech Recognizer](../2-create/components/artificial-intelligence/speech-recognizer.md) combined with the [Translator](../2-create/components/artificial-intelligence/translator.md) component powered by Yandex to translate any spoke phrase into one of 87 supported languages. The app also features persistent data using [Local Storage](../2-create/components/data-storage/local-storage.md), importing a list of data from [Spreadsheet](../2-create/components/data-storage/spreadsheet.md), and sharing results with the [Share](../2-create/components/social/share.md) component.
 
@@ -82,7 +82,7 @@ Translator is an app that translates English text into the 20 most popular langu
 
 ### Dad
 
-Dad is a digital version of Albert's dad, based on a recorded interview and powered by Dialogflow's Assistant service. Thunkers must create their own Dialogflow account to customize their digital version.
+Dad is a digital version of Albert's dad, based on a recorded interview and powered by Dialogflow's [Assistant](../2-create/components/artificial-intelligence/assistant.md) service. Thunkers must create their own Dialogflow account to customize their digital version. You can read more of the story of this app on [our blog](https://blog.thunkable.com/meet-my-dad-in-an-app-8a93ded720e0).
 
 #### [Click to remix](https://goo.gl/P94huP)
 
