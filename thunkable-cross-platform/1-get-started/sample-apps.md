@@ -60,9 +60,9 @@ Personal Feed is an easy to edit feed of your favorite websites, powered by a si
 
 Social Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). The app also features some basic error handling and a for loop block
 
-#### [Click to remix](https://goo.gl/J9dkd2)
+#### [Click to remix](https://goo.gl/2vCtAh)
 
-![](../../.gitbook/assets/social-credit.png)
+![Social Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)](../../.gitbook/assets/docs.png)
 
 ### Weather
 
@@ -86,7 +86,7 @@ Dad is a digital version of Albert's dad, based on a recorded interview and powe
 
 #### [Click to remix](https://goo.gl/P94huP)
 
-![](../../.gitbook/assets/docs-dad.png)
+![This is one of our favorite apps we&apos;ve ever made on the platform -- it&apos;s a great combination of the latest in A.I. and voice technologies and our human need to keep our loved ones close to us at all times](../../.gitbook/assets/docs-dad.png)
 
 ## Advanced
 
@@ -104,7 +104,7 @@ Gram is what photo sharing should be -- ad-free, auto-captioning and secure. Thi
 
 #### [Click to remix](https://goo.gl/gT6qEm)
 
-![](../../.gitbook/assets/docs-gram.png)
+![This is our most popular sample app so far -- over 1500 remixes and counting!](../../.gitbook/assets/docs-gram.png)
 
 
 
