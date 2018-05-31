@@ -18,7 +18,7 @@ New Market Goods is a simple website app with a branding screen and a social med
 
 #### [Click to remix](https://goo.gl/Df56zz)
 
-![](../../.gitbook/assets/nmg.png)
+![If you have a mobile optimised website for your business or organization, this is a simple way to turn what you already have into an app.](../../.gitbook/assets/nmg.png)
 
 ### Feelings
 
@@ -38,7 +38,7 @@ Aloha is a private anonymous chat app with a short chat history powered by a [Fi
 
 #### [Click to remix](https://goo.gl/jPNbTN)
 
-![](../../.gitbook/assets/docs-aloha.png)
+![Forget trusting big companies to comply with GDPR; this is a scary simple way to set up private chat where you own and control your chat history](../../.gitbook/assets/docs-aloha.png)
 
 ### **こんにちは \(Kon'nichiwa\)**
 
