@@ -9,6 +9,7 @@
     * [Sample Apps](thunkable-cross-platform/1-get-started/sample-apps.md)
   * Create
     * [Login Issues](thunkable-cross-platform/2-create/login-issues.md)
+    * [Public vs Private Projects](thunkable-cross-platform/2-create/public-vs-private-projects.md)
     * [App Limits](thunkable-cross-platform/2-create/app-limits.md)
     * [App Icon + Name](thunkable-cross-platform/2-create/app-icon-+-name.md)
     * [Package Name + Bundle ID](thunkable-cross-platform/2-create/package-name-+-bundle-id.md)
