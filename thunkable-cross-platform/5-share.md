@@ -1,12 +1,12 @@
 ---
 description: >-
-  Share a copy of your project by generating and sharing a link with your
+  Share a fully-editable copy or read-only version of your project with your
   collaborators and the Thunkable community
 ---
 
 # Share
 
-## Share a copy of your app project by link
+## Share a fully-editable copy of your app project
 
 ### Remove all API keys / passwords / other files you don't want to share
 
@@ -26,7 +26,7 @@ When a user clicks on your share link, a copy of your app will automatically app
 
 ![](../.gitbook/assets/share-fig-3.png)
 
-## Share a read-only version of your app project by link
+## Share a read-only version of your app project
 
 If you want to share a read-only version of your app project, you simply set your project to `Public` in your App Settings page and share the link of your project url
 
