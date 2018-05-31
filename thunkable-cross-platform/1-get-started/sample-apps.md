@@ -48,13 +48,13 @@ Aloha is a private anonymous chat app with a short chat history powered by a [Fi
 
 ![](../../.gitbook/assets/docs-real.png)
 
-### Personal News
+### Personal Feed
 
-Personal News is an easy to edit newsfeed of your favorite websites, powered by a simple Airtable [spreadsheet](../2-create/components/data-storage/spreadsheet.md) with Articles and Descriptions that you can modify at any time. This app can be remixed in a number of ways from displaying help content for your products in a more optimized way to sharing your favorite products from your e-commerce business. This app features a Stack Navigator and a Share component as well!
+Personal Feed is an easy to edit feed of your favorite websites, powered by a simple Airtable [spreadsheet](../2-create/components/data-storage/spreadsheet.md) with descriptions that you can modify at any time. This app can be remixed in a number of ways but this example shares popular men's blogger Mister Ching's favorite products for the summer. This app features a Stack Navigator and a Share component as well!
 
-#### [Click to remix](https://goo.gl/215j2a)
+#### [Click to remix](https://goo.gl/3Y9WuD)
 
-![](../../.gitbook/assets/personal-news.png)
+![](../../.gitbook/assets/docs-feed.png)
 
 ### Social Credit
 
