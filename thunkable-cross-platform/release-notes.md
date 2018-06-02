@@ -9,6 +9,10 @@ Platform updates
 * Sample apps now featured on the project list page
 * Supports iOS usage descriptions for describing to users why certain permissions are needed when they download your app; applies only when you Publish to the iOS App Store
 
+Component updates
+
+* Switch component no longer needs blocks to set-up
+
 ### May 22, 2018
 
 Component updates
