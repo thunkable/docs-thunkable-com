@@ -34,9 +34,5 @@ If you want to share a read-only version of your app project, you simply set you
 
 Users who visit the project url link do not automatically get a copy of your app in their account but they can use the [Make Copy](2-create/make-copy.md) button to create a copy if they wish
 
-{% hint style="info" %}
-Thunkable is building the world's largest gallery of open sourced apps. In the future, setting an app project to `Public` will contribute your app to that open gallery, making your project viewable by our larger Thunkable community.
-{% endhint %}
-
 ### 
 

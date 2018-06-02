@@ -1,10 +1,13 @@
 # Release Notes
 
-### May 25, 2018
+### June 5, 2018
 
 Platform updates
 
-* [Live preview](3-live-test.md#live-preview-android-only) on Thunkable Live app available for iOS 
+* Renaming components is now supported. Click on the top of the properties panel to edit the component name
+* Each new project can be set to [public or private](2-create/public-vs-private-projects.md).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](5-share.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
+* Sample apps now featured on the project list page
+* Supports iOS usage descriptions for describing to users why certain permissions are needed when they download your app; applies only when you Publish to the iOS App Store
 
 ### May 22, 2018
 
