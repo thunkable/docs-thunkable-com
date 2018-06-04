@@ -6,12 +6,12 @@ description: >-
 
 # Screen
 
-* [Space elements horizontally](space-elements-horizontally.md#space-the-elements-horizontally)
-* [Space elements vertically](space-elements-horizontally.md#spacing-the-elements-vertically)
-* [Add a background color or picture](space-elements-horizontally.md#add-a-background-color-or-picture)
-* [Enable scrolling](space-elements-horizontally.md#enable-scrolling)
-* [Hide \(or show\) status bar](space-elements-horizontally.md#hide-or-show-status-bar)
-* Set orientation \(coming soon!\)
+* [Space elements horizontally](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#space-elements-horizontally)
+* [Space elements vertically](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#space-elements-vertically)
+* [Add a background color or picture](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#add-a-background-color-or-picture)
+* [Enable scrolling](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#enable-scrolling)
+* [Hide \(or show\) status bar](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#hide-or-show-status-bar)
+* [Set orientation ](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#set-orientation)\(coming soon!\)
 
 ## Space elements horizontally
 
@@ -44,4 +44,8 @@ The `Alignment` property allows you to space elements in a Screen vertically
 | Property | Description |
 | :--- | :--- |
 | Show Status Bar | Default \(`true`\). If set to `false`, hides the top status bar |
+
+## Set Orientation
+
+Coming Soon.
 
