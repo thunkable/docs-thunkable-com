@@ -6,11 +6,11 @@ description: >-
 
 # Screen
 
-* [Space elements horizontally](screen.md#space-the-elements-horizontally)
-* [Space elements vertically](screen.md#spacing-the-elements-vertically)
-* [Add a background color or picture](screen.md#add-a-background-color-or-picture)
-* [Enable scrolling](screen.md#enable-scrolling)
-* [Hide \(or show\) status bar](screen.md#hide-or-show-status-bar)
+* [Space elements horizontally](space-elements-horizontally.md#space-the-elements-horizontally)
+* [Space elements vertically](space-elements-horizontally.md#spacing-the-elements-vertically)
+* [Add a background color or picture](space-elements-horizontally.md#add-a-background-color-or-picture)
+* [Enable scrolling](space-elements-horizontally.md#enable-scrolling)
+* [Hide \(or show\) status bar](space-elements-horizontally.md#hide-or-show-status-bar)
 * Set orientation \(coming soon!\)
 
 ## Space elements horizontally

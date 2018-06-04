@@ -20,7 +20,7 @@
     * [App Data Privacy](thunkable-cross-platform/2-create/app-data-privacy.md)
     * [↗ Components](thunkable-cross-platform/2-create/components/README.md)
       * [Layout](thunkable-cross-platform/2-create/components/layout/README.md)
-        * [Screen](thunkable-cross-platform/2-create/components/layout/screen.md)
+        * [Screen](thunkable-cross-platform/2-create/components/layout/space-elements-horizontally.md)
         * [Row](thunkable-cross-platform/2-create/components/layout/row.md)
         * [Column](thunkable-cross-platform/2-create/components/layout/column.md)
         * [Tab Navigator](thunkable-cross-platform/2-create/components/layout/tab-navigator.md)
