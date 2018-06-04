@@ -6,12 +6,12 @@ description: >-
 
 # Screen
 
-* [Space elements horizontally](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#space-elements-horizontally)
-* [Space elements vertically](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#space-elements-vertically)
-* [Add a background color or picture](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#add-a-background-color-or-picture)
-* [Enable scrolling](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#enable-scrolling)
-* [Hide \(or show\) status bar](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#hide-or-show-status-bar)
-* [Set orientation ](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/components/layout/screen#set-orientation)\(coming soon!\)
+* [Space elements horizontally](https://docs.thunkable.com/thunkable-cross-platform/2-create/components/layout/screen#space-elements-horizontally)
+* [Space elements vertically](https://docs.thunkable.com/thunkable-cross-platform/2-create/components/layout/screen#space-elements-vertically)
+* [Add a background color or picture](https://docs.thunkable.com/thunkable-cross-platform/2-create/components/layout/screen#add-a-background-color-or-picture)
+* [Enable scrolling](https://docs.thunkable.com/thunkable-cross-platform/2-create/components/layout/screen#enable-scrolling)
+* [Hide \(or show\) status bar](https://docs.thunkable.com/thunkable-cross-platform/2-create/components/layout/screen#hide-or-show-status-bar)
+* [Set orientation](https://docs.thunkable.com/thunkable-cross-platform/2-create/components/layout/screen#set-orientation) \(coming soon!\)
 
 ## Space elements horizontally
 
