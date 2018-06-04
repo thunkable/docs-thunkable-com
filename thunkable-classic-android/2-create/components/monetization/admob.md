@@ -20,6 +20,10 @@ We have a [section on our community forum](https://community.thunkable.com/c/pro
 
 **Important: Apps that are created specifically for earning money via AdMob e.g. earning apps, auto-impression apps are in violation of Google Play and AdMob Policies.** Thunkable reserves the right to disable your apps from showing ads, or for repeated violations, disable your account entirely \(See [Thunkable's Terms of Use](https://thunkable.com/#/terms)\).
 
+{% hint style="info" %}
+AdMob and the General Data Protection Regulation \(GDPR\). __Look for the PersonalizedAd property and blocks in the AdMob components. It is up to you, the developer, to obtain the user’s consent by displaying a screen/dialog asking the user whether they want to see personalized or non-personalized ads. You would then use that information to set the PersonalizedAd property on your ads before loading them.
+{% endhint %}
+
 In addition, we recommend that app developers audience first before implementing ads both because it takes away from the user experience. Without a sufficient audience, you won't generate much revenue anyway. Google will also refund advertisers and invalidate accidental or fraudulent clicks and even disable an ad or an account where it detects there are.
 
 AdMob offers two types of ads:
@@ -38,6 +42,18 @@ There is a bit of set-up required to start making money with AdMob. The step tha
 2. Add an existing app on Google Play or one that is not yet published ![](../../../../.gitbook/assets/admob-fig-3.png)![](../../../../.gitbook/assets/admob-fig-4.png)![](../../../../.gitbook/assets/admob-fig-5.png)![](../../../../.gitbook/assets/admob-fig-6.png)
 3. Create an ad unit and find your Ad Unit ID to copy into Thunkable  ![](../../../../.gitbook/assets/admob-fig-7.png)![](../../../../.gitbook/assets/admob-fig-8.png)![](../../../../.gitbook/assets/admob-fig-9.png)
 4. Set the Screen Size on Thunkable Screen1 to 'Responsive' ![](../../../../.gitbook/assets/admob-fig-10.png)
+
+### GDPR and Non-Personalized Ads
+
+{% hint style="info" %}
+The recent EU Protection Regulation \(GDPR\) requires developers to obtain the user's consent by displaying a screen / dialog to ask the user if they want to see personalized or non-personalized ads.
+{% endhint %}
+
+Once you have obtained consent, you can then set the property appropriately before loading your ads.
+
+| Property | Description |
+| :--- | :--- |
+| Personalized Ad | If `true`, the ads will be personalized |
 
 ### Loading an Ad
 

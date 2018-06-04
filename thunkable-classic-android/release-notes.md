@@ -4,7 +4,7 @@
 
 Platform updates
 
-* AdMob - supports ability to set your AdMob ads to be non-personalized in compliance with GDPR. Look for the PersonalizedAd property and blocks in the AdMob components. It is up to you, the developer, to obtain the user’s consent by displaying a screen/dialog asking the user whether they want to see personalized or non-personalized ads. You would then use that information to set the PersonalizedAd property on your ads before loading them. 
+* AdMob - supports ability to set your [AdMob ads to be non-personalized](2-create/components/monetization/admob.md#gdpr-and-non-personalized-ads) in compliance with GDPR
 
 ### Feb 20, 2018 
 
