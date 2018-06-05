@@ -4,7 +4,7 @@ description: Rows are containers that can arrange elements horizontally within a
 
 # Row
 
-* [Set the size of the row](row.md#set-size-of-the-row)
+* Set the size of the row
 * [Space the elements horizontally](row.md#space-the-elements-horizontally)
 * [Space the elements vertically](row.md#space-the-elements-vertically)
 * [Add a background color or picture](row.md#add-a-background-color-or-picture)
