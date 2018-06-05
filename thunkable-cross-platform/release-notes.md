@@ -2,6 +2,8 @@
 
 ### June 5, 2018
 
+Thunkable Cross-Platform **✕** public launch
+
 Platform updates
 
 * Renaming components is now supported. Click on the top of the properties panel to edit the component name
