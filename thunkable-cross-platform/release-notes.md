@@ -2,7 +2,7 @@
 
 ### June 5, 2018
 
-Thunkable Cross-Platform **✕** public launch
+**Thunkable Cross-Platform ✕ launches out of beta!**
 
 Platform updates
 
@@ -72,12 +72,12 @@ Platform updates
 
 New components
 
-* [Spreadsheet]() by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
-* [Payment]() by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
+* [Spreadsheet](2-create/components/data-storage/spreadsheet.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
+* [Payment](2-create/components/monetization/payment.md) by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
 
 Platform updates
 
-* Supports opening installed app by deep link on Android \(aka Activity Starter\) via a [Control]() block
+* Supports opening installed app by deep link on Android \(aka Activity Starter\) via a Control block
 * Blocks now includes zoom control and a better location for the trash can
 * Properties have been re-organized into hopefully easier to use categories
 
@@ -85,19 +85,19 @@ Platform updates
 
 Platform updates
 
-* [Custom app package name ]()/ bundle ID now supported for both Android and iOS; app icon also supported for Android
-* [Make a copy]() of your project aka checkpoint in one click
-* Tracking of project [shares]() now available on project page; share links no longer require a user to be logged in
+* [Custom app package name ](2-create/package-name-+-bundle-id.md)/ bundle ID now supported for both Android and iOS; app icon also supported for Android
+* [Make a copy ](2-create/make-copy.md)of your project aka checkpoint in one click
+* Tracking of project [shares](5-share.md) now available on project page; share links no longer require a user to be logged in
 
 Component updates
 
-* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](), [Text to Speech]() and [Assistant]()
+* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](2-create/components/artificial-intelligence/translator.md), [Text to Speech](2-create/components/artificial-intelligence/text-to-speech.md) and [Assistant](2-create/components/artificial-intelligence/assistant.md)
 * Transparent color now available as a color property across all visible components
 * Easy select and upload via Picture property for [Image](../thunkable-classic-android/2-create/components/image/) component
 
 Bug fixes
 
-* [Function]() blocks now work again
+* Function blocks now work again
 * Blocks strings now accepted as numbers
 * Changing dropdown component in blocks or duplicating blocks now keeps the same property
 
@@ -106,12 +106,12 @@ Bug fixes
 New component
 
 * [Sign In](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/ios/components/screen-layout/authentication/sign-in.md) powered by Firebase - support for email sign-in; set-up requires entering in an API key and database URL into app settings
-* [Media Database]() powered by Cloudinary - support for image, audio and video upload
+* [Media Database](2-create/components/data-storage/media-db.md) powered by Cloudinary - support for image, audio and video upload
 
 Component updates
 
 * Most Visible components \(Screen, TextInput, Label, Column, Row, Image, ListViewer, WebViewer, Maps, Google Maps\) - advanced properties including padding, margin, border & user location \(Maps / Google Maps\) added 
-* [Realtime DB]() powered by Firebase - changes set-up from adding a .plist file to entering in an API key and database URL into app settings
+* [Realtime DB](2-create/components/data-storage/realtime-db.md) powered by Firebase - changes set-up from adding a .plist file to entering in an API key and database URL into app settings
 
 Platform updates
 
