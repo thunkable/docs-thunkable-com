@@ -4,7 +4,7 @@ description: Tabs are a popular choice for navigating multi-screen apps with swi
 
 # Tab Navigator
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Navigators are the only component that you cannot drag and drop into your phone at the moment. You'll have to drag it left to the tree hierarchy. Make sure that screens are fully contained within your navigator.
 {% endhint %}
 
