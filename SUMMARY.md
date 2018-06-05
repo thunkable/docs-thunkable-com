@@ -7,7 +7,7 @@
     * [Tutorials](thunkable-cross-platform/1-get-started/overview.md)
     * [Design Templates](thunkable-cross-platform/1-get-started/design-templates.md)
     * [Sample Apps](thunkable-cross-platform/1-get-started/sample-apps.md)
-  * Create
+  * [Create](thunkable-cross-platform/2-create/README.md)
     * [Login Issues](thunkable-cross-platform/2-create/login-issues.md)
     * [Public vs Private Projects](thunkable-cross-platform/2-create/public-vs-private-projects.md)
     * [App Limits](thunkable-cross-platform/2-create/app-limits.md)
@@ -17,6 +17,7 @@
     * [Make Copy](thunkable-cross-platform/2-create/make-copy.md)
     * [Intro to Spacing](thunkable-cross-platform/2-create/intro-to-spacing.md)
     * [Intro to Sizing](thunkable-cross-platform/2-create/intro-to-sizing.md)
+    * [Design Tips](thunkable-cross-platform/2-create/design-tips.md)
     * [App Data Privacy](thunkable-cross-platform/2-create/app-data-privacy.md)
     * [↗ Components](thunkable-cross-platform/2-create/components/README.md)
       * [Layout](thunkable-cross-platform/2-create/components/layout/README.md)
@@ -26,7 +27,7 @@
         * [Tab Navigator](thunkable-cross-platform/2-create/components/layout/tab-navigator.md)
         * [Drawer Navigator](thunkable-cross-platform/2-create/components/layout/drawer-navigator.md)
         * [Stack Navigator](thunkable-cross-platform/2-create/components/layout/stack-navigator.md)
-      * User Interface
+      * [User Interface](thunkable-cross-platform/2-create/components/user-interface/README.md)
         * [Button](thunkable-cross-platform/2-create/components/user-interface/button.md)
         * [Label](thunkable-cross-platform/2-create/components/user-interface/label.md)
         * [Text Input](thunkable-cross-platform/2-create/components/user-interface/text-input.md)
@@ -34,34 +35,34 @@
         * [List Viewer](thunkable-cross-platform/2-create/components/user-interface/list-viewer.md)
         * [Switch](thunkable-cross-platform/2-create/components/user-interface/switch.md)
         * [Slider](thunkable-cross-platform/2-create/components/user-interface/slider.md)
-      * Voice
+      * [Voice](thunkable-cross-platform/2-create/components/artificial-intelligence/README.md)
         * [Speech Recognizer](thunkable-cross-platform/2-create/components/artificial-intelligence/speech-recognizer.md)
         * [Text to Speech](thunkable-cross-platform/2-create/components/artificial-intelligence/text-to-speech.md)
         * [Translator](thunkable-cross-platform/2-create/components/artificial-intelligence/translator.md)
         * [Assistant](thunkable-cross-platform/2-create/components/artificial-intelligence/assistant.md)
         * [Sound](thunkable-cross-platform/2-create/components/artificial-intelligence/sound.md)
-      * Image
+      * [Image](thunkable-cross-platform/2-create/components/image/README.md)
         * [Image](thunkable-cross-platform/2-create/components/image/image.md)
         * [Camera](thunkable-cross-platform/2-create/components/image/camera.md)
         * [Photo Library](thunkable-cross-platform/2-create/components/image/photo-library.md)
         * [Image Recognizer](thunkable-cross-platform/2-create/components/image/image-recognizer-1.md)
         * [Lottie](thunkable-cross-platform/2-create/components/image/lottie.md)
-      * Location
+      * [Location](thunkable-cross-platform/2-create/components/map-location/README.md)
         * [Map](thunkable-cross-platform/2-create/components/map-location/map.md)
         * [Location Sensor](thunkable-cross-platform/2-create/components/map-location/location-sensor.md)
-      * Data
+      * [Data](thunkable-cross-platform/2-create/components/data-storage/README.md)
         * [Local Storage](thunkable-cross-platform/2-create/components/data-storage/local-storage.md)
         * [Realtime DB](thunkable-cross-platform/2-create/components/data-storage/realtime-db.md)
         * [Spreadsheet](thunkable-cross-platform/2-create/components/data-storage/spreadsheet.md)
         * [Web API](thunkable-cross-platform/2-create/components/data-storage/web-api.md)
         * [Media DB](thunkable-cross-platform/2-create/components/data-storage/media-db.md)
-      * Sensors
+      * [Sensors](thunkable-cross-platform/2-create/components/sensors-hardware/README.md)
         * [Timer](thunkable-cross-platform/2-create/components/sensors-hardware/timer.md)
-      * Social
+      * [Social](thunkable-cross-platform/2-create/components/social/README.md)
         * [Share](thunkable-cross-platform/2-create/components/social/share.md)
-      * Sign In
+      * [Sign In](thunkable-cross-platform/2-create/components/security/README.md)
         * [Sign In](thunkable-cross-platform/2-create/components/security/sign-in.md)
-      * Monetization
+      * [Monetization](thunkable-cross-platform/2-create/components/monetization/README.md)
         * [Payment](thunkable-cross-platform/2-create/components/monetization/payment.md)
     * [⎍ Blocks](thunkable-cross-platform/2-create/blocks/README.md)
       * [Control](thunkable-cross-platform/2-create/blocks/control.md)
@@ -122,7 +123,7 @@
         * [Fusion Tables](thunkable-classic-android/2-create/components/storage/fusion-tables.md)
         * [Web](thunkable-classic-android/2-create/components/storage/web.md)
         * [Tiny Web DB](thunkable-classic-android/2-create/components/storage/tiny-web-db.md)
-      * Sensors
+      * [Sensors](thunkable-classic-android/2-create/components/sensors/README.md)
         * [Clock](thunkable-classic-android/2-create/components/sensors/clock.md)
         * [Accelerometer](thunkable-classic-android/2-create/components/sensors/accelerometer.md)
         * [Gyroscope](thunkable-classic-android/2-create/components/sensors/gyroscope.md)
@@ -130,17 +131,17 @@
         * [Proximity Sensor](thunkable-classic-android/2-create/components/sensors/proximity-sensor.md)
         * [Pedometer](thunkable-classic-android/2-create/components/sensors/pedometer.md)
         * [Barcode Scanner](thunkable-classic-android/2-create/components/sensors/barcode-scanner.md)
-      * Social
+      * [Social](thunkable-classic-android/2-create/components/social/README.md)
         * [Contact Picker + Phone Number Picker](thunkable-classic-android/2-create/components/social/contact-picker-+-phone-number-picker.md)
         * [Phone Call](thunkable-classic-android/2-create/components/social/phone-call.md)
         * [Texting](thunkable-classic-android/2-create/components/social/texting.md)
         * [Twitter](thunkable-classic-android/2-create/components/social/twitter.md)
         * [Sharing](thunkable-classic-android/2-create/components/social/sharing.md)
         * [Activity Starter](thunkable-classic-android/2-create/components/social/activity-starter.md)
-      * Gaming
+      * [Gaming](thunkable-classic-android/2-create/components/gaming/README.md)
         * [Canvas](thunkable-classic-android/2-create/components/gaming/canvas.md)
         * [Image Sprite + Ball](thunkable-classic-android/2-create/components/gaming/image-sprite-+-ball.md)
-      * Location
+      * [Location](thunkable-classic-android/2-create/components/location/README.md)
         * [Google Maps](thunkable-classic-android/2-create/components/location/google-maps.md)
         * [Location Sensor](thunkable-classic-android/2-create/components/location/location-sensor.md)
       * [Internet of Things](thunkable-classic-android/2-create/components/internet-of-things/README.md)
@@ -148,7 +149,7 @@
         * [NFC Sensor](thunkable-classic-android/2-create/components/internet-of-things/nfc-sensor.md)
         * [Lego Mindstorms](thunkable-classic-android/2-create/components/internet-of-things/lego-mindstorms.md)
       * [Artificial Intelligence](thunkable-classic-android/2-create/components/artificial-intelligence.md)
-      * Monetization
+      * [Monetization](thunkable-classic-android/2-create/components/monetization/README.md)
         * [AdMob](thunkable-classic-android/2-create/components/monetization/admob.md)
     * [⎍ Blocks](thunkable-classic-android/2-create/blocks/README.md)
       * [Control](thunkable-classic-android/2-create/blocks/control.md)
