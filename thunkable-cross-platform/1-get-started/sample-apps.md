@@ -102,7 +102,7 @@ Ride is a simple uber-like app designed for a single rider and driver that demon
 This sample app currently crashes on Android but we are hoping to add a bug-free version soon
 {% endhint %}
 
-[**Click to remix**](https://x.thunkable.com/copy/668dbd2b2eb009f7dcde70e4678b3abe)
+[**Click to remix**](https://goo.gl/hzH5Hz)
 
 ![This sample app is inspired by the cycle rickshaws of Dhaka and estimates travel distance by rickshaw/bicycle](../../.gitbook/assets/thunkable-docs-exhibits.png)
 
