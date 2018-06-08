@@ -46,6 +46,10 @@ Aloha is a private anonymous chat app with a short chat history powered by a [Fi
 
 [**Click to remix**](https://goo.gl/DHp6Qv)
 
+{% hint style="info" %}
+This a
+{% endhint %}
+
 ![](../../.gitbook/assets/docs-real.png)
 
 ### Personal Feed
@@ -89,6 +93,18 @@ Dad is a digital version of Albert's dad, based on a recorded interview and powe
 ![This is one of our favorite apps we&apos;ve ever made on the platform -- it&apos;s a great combination of the latest in A.I. and voice technologies and our human need to keep our loved ones close to us at all times](../../.gitbook/assets/docs-dad.png)
 
 ## Advanced
+
+### Ride
+
+Ride is a simple uber-like app designed for a single rider and driver that demonstrates some of the more complex possibilities of using the Google Maps APIs with the [Web API](../2-create/components/data-storage/web-api.md) component including the geocoding, distance matrix and routing APIs.  Developers will have to first create and use their own Google Maps API key and [Realtime DB](../2-create/components/data-storage/realtime-db.md) with Firebase. This is the first sample app that uses the cool renaming component feature that was just implemented.
+
+{% hint style="info" %}
+This sample app currently crashes on Android but we are hoping to add a bug-free version soon
+{% endhint %}
+
+[**Click to remix**](https://x.thunkable.com/copy/668dbd2b2eb009f7dcde70e4678b3abe)
+
+![This sample app is inspired by the cycle rickshaws of Dhaka and estimates travel distance by rickshaw/bicycle](../../.gitbook/assets/thunkable-docs-exhibits.png)
 
 ### Reservation
 
