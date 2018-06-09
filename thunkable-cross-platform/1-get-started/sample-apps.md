@@ -46,10 +46,6 @@ Aloha is a private anonymous chat app with a short chat history powered by a [Fi
 
 [**Click to remix**](https://goo.gl/DHp6Qv)
 
-{% hint style="info" %}
-This a
-{% endhint %}
-
 ![](../../.gitbook/assets/docs-real.png)
 
 ### Personal Feed
