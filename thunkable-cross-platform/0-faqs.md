@@ -4,9 +4,9 @@ description: Answers to some of the most asked questions from the Thunkable comm
 
 # FAQs
 
-#### How much does it cost to use Thunkable for Android? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
+#### How much does it cost to use Thunkable ✕? {#any-special-requirements-to-be-an-ios-developer-can-you-make-it-easier-for-new-developers}
 
-Thunkable is free to use. Thunkable charges a maintenance fee for the use of certain components such as Ads by AdMob and Payment by Stripe
+Thunkable is free to use. Thunkable charges a maintenance fee for the use of certain components such as Ads by AdMob and Payment by Stripe.
 
 **I am a Thunkable iOS user. What happened to the Thunkable iOS platform? Can I import my projects?**
 
