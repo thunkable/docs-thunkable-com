@@ -64,14 +64,6 @@ Social Credit is a team counting app for thankless tasks. The app shares data fo
 
 ![Social Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)](../../.gitbook/assets/docs.png)
 
-### Weather
-
-Weather is an app that pulls the latest temperature from the Weather Underground API and as a bonus the latest traffic from the Google Maps component; Thunkers will need to create a free account to create their own Weather Underground API key
-
-#### [Click to remix](https://goo.gl/aAH6eM)
-
-![](../../.gitbook/assets/weather.png)
-
 ### Translator
 
 Translator is an app that translates English text into the 20 most popular languages in the world; features advanced use of ListView and persistent data with Local Storage. No set-up is required although Thunkers can use their own Yandex API key if desired
