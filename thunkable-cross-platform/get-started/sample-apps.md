@@ -28,14 +28,6 @@ Feelings is a swipe-able audio book powered by a Tab Navigator and a Text to Spe
 
 ## **Medium**
 
-### Weather
-
-Weather is an app that pulls the latest temperature from the [Open Weather Map API](https://www.openweathermap.org/api) and as a bonus the latest traffic from the Google Maps component; Thunkers are encouraged to create a free account to use their own Open Weather Map API key
-
-[**Click to remix**](https://goo.gl/75vFtt)
-
-![](../../.gitbook/assets/thunkable-docs-exhibits-1.png)
-
 ### Aloha
 
 Aloha is a private anonymous chat app with a short chat history powered by a [Firebase Realtime Database](../create/components/data/realtime-db.md). To [keep your data as private as possible](../create/app-data-privacy.md#create-your-own-private-repository-of-cloud-data), we recommend creating your own Firebase account and add your own API keys.
@@ -84,13 +76,25 @@ Dad is a digital version of Albert's dad, based on a recorded interview and powe
 
 ![This is one of our favorite apps we&apos;ve ever made on the platform -- it&apos;s a great combination of the latest in A.I. and voice technologies and our human need to keep our loved ones close to us at all times](../../.gitbook/assets/docs-dad.png)
 
+### Weather
+
+Weather is an app that pulls the latest temperature from the [Open Weather Map API](https://www.openweathermap.org/api) and as a bonus the latest traffic from the Google Maps component; Thunkers are encouraged to create a free account to use their own Open Weather Map API key
+
+[**Click to remix**](https://goo.gl/kacY5D)
+
+{% hint style="danger" %}
+There is currently a bug on Android with loading this map.  We are hoping to fix this soon
+{% endhint %}
+
+![](../../.gitbook/assets/thunkable-docs-exhibits-1.png)
+
 ## Advanced
 
 ### Ride
 
 Ride is a simple uber-like app designed for a single rider and driver that demonstrates some of the more complex possibilities of using the Google Maps APIs with the [Web API](../create/components/data/web-api.md) component including the geocoding, distance matrix and routing APIs.  Developers will have to first create and use their own Google Maps API key and [Realtime DB](../create/components/data/realtime-db.md) with Firebase. This is the first sample app that uses the cool renaming component feature that was just implemented.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 This sample app currently crashes on Android but we are hoping to add a bug-free version soon
 {% endhint %}
 
