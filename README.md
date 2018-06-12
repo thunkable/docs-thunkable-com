@@ -1,9 +1,3 @@
----
-description: >-
-  Thunkable's mission is to empower anyone to be active creators of their own
-  technologies
----
-
 # Welcome
 
 ![](.gitbook/assets/gitbookbeaver.jpg)

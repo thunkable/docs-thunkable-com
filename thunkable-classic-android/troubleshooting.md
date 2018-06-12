@@ -1,7 +1,3 @@
----
-description: Here are short ways to work around the most common issues our users are facing
----
-
 # Troubleshooting
 
 General

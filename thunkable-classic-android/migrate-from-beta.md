@@ -1,7 +1,3 @@
----
-description: 'Beta.thunkable.com is shutting down on May 31, 2018'
----
-
 # Migrate from Beta
 
 {% hint style="info" %}

@@ -1,7 +1,3 @@
----
-description: Build once and your app will work on both Android and iOS devices
----
-
 # Thunkable Cross Platform ✕
 
 ![](../.gitbook/assets/gitbookplatformimage.png)

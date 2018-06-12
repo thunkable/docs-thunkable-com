@@ -1,10 +1,16 @@
 # Release Notes
 
+### Jun 12, 2018
+
+Platform updates
+
+* Thunkable Live app - connection improvements with app.thunkable.com
+
 ### Jun 4, 2018
 
 Platform updates
 
-* AdMob - supports ability to set your [AdMob ads to be non-personalized](2-create/components/monetization/admob.md#gdpr-and-non-personalized-ads) in compliance with GDPR
+* AdMob - supports ability to set your [AdMob ads to be non-personalized](create/components/monetization/admob.md#gdpr-and-non-personalized-ads) in compliance with GDPR
 
 ### Feb 20, 2018 
 
@@ -21,20 +27,20 @@ Platform updates
 
 Component updates
 
-* [Switch](2-create/components/user-interface/switch-+-toggle.md) - change default track color to gray
+* [Switch](create/components/user-interface/switch-+-toggle.md) - change default track color to gray
 * [Toggle](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/android/components/user-interface/toggle.md) - improvements to phone preview
 
 ### Jan 29, 2018 
 
 New components
 
-* [Switch](2-create/components/user-interface/switch-+-toggle.md) \(User Interface\)
+* [Switch](create/components/user-interface/switch-+-toggle.md) \(User Interface\)
 * [Toggle](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/android/components/user-interface/toggle.md) \(User Interface\)
 
 Component updates
 
-* [Canvas](2-create/components/gaming/canvas.md) - supports the ability to customize fonts
-* [Web Viewer](2-create/components/web-viewer.md) - supports local storage for browsers and web pages that support it
+* [Canvas](create/components/gaming/canvas.md) - supports the ability to customize fonts
+* [Web Viewer](create/components/web-viewer.md) - supports local storage for browsers and web pages that support it
 
 ### Dec 13, 2017 
 
@@ -52,14 +58,14 @@ Component updates
 
 New components
 
-* [AdMob Banner and Interstitial](2-create/components/monetization/admob.md) components have been upgraded to the [main platform](http://app.thunkable.com/login/) \(Experimental\)
-* [Push Notifications by One Signal](2-create/components/push-notifications.md) component has been upgraded to the [main platform](http://app.thunkable.com/login/) \(Experimental\)
+* [AdMob Banner and Interstitial](create/components/monetization/admob.md) components have been upgraded to the [main platform](http://app.thunkable.com/login/) \(Experimental\)
+* [Push Notifications by One Signal](create/components/push-notifications.md) component has been upgraded to the [main platform](http://app.thunkable.com/login/) \(Experimental\)
 
 Component updates
 
 * Bug fix for "mini" Floating Action Button \(FAB\) size
-* New underline color property for [TextBox](2-create/components/user-interface/textbox-+-password-+-email-picker.md) and [Password TextBox](2-create/components/user-interface/textbox-+-password-+-email-picker.md)
-* New outline color property for [CheckBox](2-create/components/user-interface/listpicker-+-listview-+-spinner-+-checkbox.md)
+* New underline color property for [TextBox](create/components/user-interface/textbox-+-password-+-email-picker.md) and [Password TextBox](create/components/user-interface/textbox-+-password-+-email-picker.md)
+* New outline color property for [CheckBox](create/components/user-interface/listpicker-+-listview-+-spinner-+-checkbox.md)
 
 ### Oct 2, 2017 
 
@@ -77,8 +83,8 @@ Platform updates
 
 New components
 
-* [Floating Action Button](2-create/components/user-interface/floating-action-button.md) \(FAB\) \(User Interface\)
-* [Push Notifications by One Signal](2-create/components/push-notifications.md) on [beta.thunkable.com](https://beta.thunkable.com) \(Experimental\)
+* [Floating Action Button](create/components/user-interface/floating-action-button.md) \(FAB\) \(User Interface\)
+* [Push Notifications by One Signal](create/components/push-notifications.md) on [beta.thunkable.com](https://beta.thunkable.com) \(Experimental\)
 
 Platform updates
 
@@ -99,7 +105,7 @@ Bug fixes
 
 New feature
 
-* [Canvas](2-create/components/gaming/canvas.md) Pinch to Scale
+* [Canvas](create/components/gaming/canvas.md) Pinch to Scale
 
 Bug fixes
 
@@ -109,7 +115,7 @@ Bug fixes
 
 New feature
 
-* [Cloudinary](2-create/components/storage/cloudinary-db.md) Audio and Video file support
+* [Cloudinary](create/components/storage/cloudinary-db.md) Audio and Video file support
 
 ### Jul 6, 2017 
 
