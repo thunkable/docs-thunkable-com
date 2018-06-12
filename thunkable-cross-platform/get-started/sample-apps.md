@@ -28,6 +28,14 @@ Feelings is a swipe-able audio book powered by a Tab Navigator and a Text to Spe
 
 ## **Medium**
 
+### Weather
+
+Weather is an app that pulls the latest temperature from the [Open Weather Map API](https://www.openweathermap.org/api) and as a bonus the latest traffic from the Google Maps component; Thunkers are encouraged to create a free account to use their own Open Weather Map API key
+
+[**Click to remix**](https://goo.gl/75vFtt)
+
+![](../../.gitbook/assets/thunkable-docs-exhibits-1.png)
+
 ### Aloha
 
 Aloha is a private anonymous chat app with a short chat history powered by a [Firebase Realtime Database](../create/components/data/realtime-db.md). To [keep your data as private as possible](../create/app-data-privacy.md#create-your-own-private-repository-of-cloud-data), we recommend creating your own Firebase account and add your own API keys.
