@@ -1,5 +1,12 @@
 # Release Notes
 
+### June 12, 2018
+
+Bug fixes
+
+* Solves some issues with Thunkable Live app on Android
+* Reduces project saving issues
+
 ### June 5, 2018
 
 **Thunkable Cross-Platform ✕ launches out of beta!**

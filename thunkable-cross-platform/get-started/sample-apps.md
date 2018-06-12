@@ -80,7 +80,7 @@ Dad is a digital version of Albert's dad, based on a recorded interview and powe
 
 Weather is an app that pulls the latest temperature from the [Open Weather Map API](https://www.openweathermap.org/api) and as a bonus the latest traffic from the Google Maps component; Thunkers are encouraged to create a free account to use their own Open Weather Map API key
 
-[**Click to remix**](https://goo.gl/kacY5D)
+[**Click to remix**](https://goo.gl/cTaaXQ)
 
 {% hint style="danger" %}
 There is currently a bug on Android with loading this map.  We are hoping to fix this soon
