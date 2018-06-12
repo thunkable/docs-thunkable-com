@@ -12,3 +12,5 @@ Navigate to App Settings by clicking on the app icon in the top left
 
 ![](../../.gitbook/assets/appbundleid.gif)
 
+Then change your Package name/App ID.
+
