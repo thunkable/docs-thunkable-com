@@ -1,11 +1,11 @@
 # Screen
 
-* [Space elements horizontally](screen.md#space-elements-horizontally)
-* [Space elements vertically](screen.md#space-elements-vertically)
-* [Add a background color or picture](screen.md#add-a-background-color-or-picture)
-* [Enable scrolling](screen.md#enable-scrolling)
-* [Hide \(or show\) status bar](screen.md#hide-or-show-status-bar)
-* [Set orientation](screen.md#set-orientation) \(coming soon!\)
+## Screen starts and opens
+
+| Event | Description |
+| --- | --- | --- |
+| Starts | Triggers an event / set of events when the Screen is first opened |
+| Opens | Triggers an event / set of events whenever the Screen is opened |
 
 ## Space elements horizontally
 
