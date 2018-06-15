@@ -80,6 +80,7 @@
   * [Publish](thunkable-cross-platform/publish.md)
   * [Troubleshooting](thunkable-cross-platform/troubleshooting.md)
   * [Release Notes](thunkable-cross-platform/release-notes.md)
+  * [Bugs and Feature Requests](thunkable-cross-platform/bugs-and-feature-requests.md)
 * [Thunkable Classic Android](thunkable-classic-android/README.md)
   * [FAQs](thunkable-classic-android/faqs.md)
   * [Sample Apps](thunkable-classic-android/sample-apps.md)

@@ -39,7 +39,7 @@ The `Alignment` property allows you to space elements in a Screen vertically
 | :--- | :--- |
 | Show Status Bar | Default \(`true`\). If set to `false`, hides the top status bar |
 
-## Set Orientation
+## Set orientation
 
 Coming Soon.
 
