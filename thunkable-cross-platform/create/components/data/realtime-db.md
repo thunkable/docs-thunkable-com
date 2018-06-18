@@ -77,3 +77,11 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 | Data Changed \(`key`,`value`\) | Asks Firebase for updates to`value`for specified`key`. Requires an Add Listener block. |
 | Remove Listener \(`key`\) | Ask Firebase to stop listening to a specific`key`for changes in the database |
 
+## Separating your data into project buckets
+
+You might want to split your database into smaller spaces, also known as project buckets.  To do this, you would need to save your value as an object and use the create object block to create your project bucket. More details in [this post](https://community.thunkable.com/t/project-bucket-option-in-ios/31957).
+
+
+
+![Thanks to our power Thunker @actech for this awesome tip!](../../../../.gitbook/assets/image%20%286%29.png)
+
