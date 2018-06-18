@@ -61,7 +61,6 @@ Common issues
 
 * If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
 * Your have unconnected blocks
-* You have a blank field in your Height or Width property settings
 * You have an event triggered by a Screen.Start which may be causing the screen to crash
 * Your app and desktop may not be logged into the same account
 

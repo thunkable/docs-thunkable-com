@@ -4,7 +4,7 @@ Once you have synced your app with your project, every change you make to your p
 
 * [Download the Thunkable Live app\(s\)](live-test.md#download-the-thunkable-live-app-s)
 * [Live Test](live-test.md#live-test)
-* Live Preview \(Android Only\)
+* [Live Preview](live-test.md#live-preview)
 * [Troubleshooting](live-test.md#troubleshooting)
 
 ## Download the Thunkable Live app\(s\)
@@ -21,9 +21,9 @@ After you have downloaded and logged into your Thunkable Live Android or iOS app
 
 ![](../.gitbook/assets/t1_step7_live-test.png)
 
-## Live Preview \(Android only\)
+## Live Preview
 
-For the first time, you can also now live preview all your app projects from the comfort of your mobile device \(Android only\). Simply login and you should see a list of all your projects on your Thunkable Live app.
+For the first time, you can also now live preview all your app projects from the comfort of your mobile device. Simply login and you should see a list of all your projects on your Thunkable Live app.
 
 ![](../.gitbook/assets/live-preview-fig-1%20%281%29.gif)
 
@@ -39,7 +39,6 @@ Common issues
 
 * If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
 * Your have unconnected blocks
-* You have a blank field in your Height or Width property settings \(Android\)
 * You have an event triggered by a Screen.Start which may be causing the screen to crash
 * Your app and desktop may not be logged into the same account
 
