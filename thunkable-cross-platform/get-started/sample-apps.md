@@ -24,7 +24,13 @@ Feelings is a swipe-able audio book powered by a Tab Navigator and a Text to Spe
 
 ![](../../.gitbook/assets/feelings.png)
 
+### Fun with Flags
 
+This simple trivia app will test your user's knowledge of country flags. By building something like this for yourself you will develop your understanding of parallel lists, functions, APIs, incrementers and, string matching.
+
+[**Click to remix**](https://x.thunkable.com/copy/6e09037b4bdc7ac4207521322b433137)
+
+![Can you guess all the flags correctly?](../../.gitbook/assets/fwf1.png)
 
 ## **Medium**
 
