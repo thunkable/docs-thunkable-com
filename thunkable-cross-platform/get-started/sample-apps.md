@@ -26,11 +26,11 @@ Feelings is a swipe-able audio book powered by a Tab Navigator and a Text to Spe
 
 ### Fun with Flags
 
-This simple trivia app will test your user's knowledge of country flags. By building something like this for yourself you will develop your understanding of parallel lists, functions, APIs, incrementers and, string matching.
+This simple trivia app will test your user's knowledge of country flags. By building something like this for yourself you will develop your understanding of parallel lists, functions, APIs, incrementers and, string matching. You can find a more detailed tutorial of how to build this app in the [Thunkable Community](https://community.thunkable.com/t/quiz-app-fun-with-flags/32265?u=domhnall).
 
 [**Click to remix**](https://x.thunkable.com/copy/6e09037b4bdc7ac4207521322b433137)
 
-![Can you guess all the flags correctly?](../../.gitbook/assets/fwf1.png)
+![How well do you know your flags?](../../.gitbook/assets/screen-shot-2018-06-20-at-11.27.50.png)
 
 ## **Medium**
 
