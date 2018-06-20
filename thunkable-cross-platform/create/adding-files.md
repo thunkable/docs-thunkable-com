@@ -1,8 +1,11 @@
 # Adding Files
 
 {% hint style="info" %}
-This page is under construction. Please check back at a later time.
+Please note: Thunkable X projects have a capacity of 50MB. We recommend you resize your files before adding them to your Thunkable X project.
 {% endhint %}
 
+## Images
 
+## Sounds
 
+## Videos
