@@ -61,5 +61,5 @@ The sample app [First Bus Map of Dhaka](spreadsheets.md) features mapping data s
 If your app is crashing, then most likely:
 
 * You have not hit 'Sync to Template' every time you refresh your data on the Cloudstitch interface \(see step 3 of [Set up](spreadsheets.md#set-up)\)
-* Spreadsheets does not currently work if your cells contain a “,” or “:” in the cells that are being retrieved. More info on the [current workaround here](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) from Domnhall in our community if you do have them
+* Spreadsheets does not currently work if your cells contain a “,” or “:” in the cells that are being retrieved. More info on the [current workaround here from Domhnall](https://community.thunkable.com/t/handling-and-in-cloudstitch-data/1879?u=domhnall) in our community if you do have them
 
