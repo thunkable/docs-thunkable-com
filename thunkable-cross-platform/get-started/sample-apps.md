@@ -18,7 +18,7 @@ Ukulele is a simple soundboard app that plays the ukulele chords for one of our 
 
 ### New Market Goods
 
-New Market Goods is a simple website app with a branding screen and a social media bar that opens a deep link to a user's installed apps that works across platforms. We recommend [URL genius](https://app.urlgeni.us/#/) to find deep links for commonly used apps. No set-up is required.
+New Market Goods is a simple website app with a branding screen and a social media bar that opens a deep link to a user's installed apps that works across platforms. We recommend [URL genius](https://app.urlgeni.us/#/) to find deep links for commonly used apps. No set-up is required. If you'd like to learn how this app was made then check out our free tutorial in the [Thunkable Community](https://community.thunkable.com/t/business-app-new-market-goods/32448?u=domhnall)
 
 #### [Click to remix](https://goo.gl/Df56zz)
 
@@ -26,15 +26,23 @@ New Market Goods is a simple website app with a branding screen and a social med
 
 ### Feelings
 
-Feelings is a swipe-able audio book powered by a Tab Navigator and a Text to Speech component. No set-up is required.
+Feelings is a swipe-able audio book powered by a Tab Navigator and a Text to Speech component. No set-up is required. You can find a step-by-step guide of how to build this app yourself in the [Thunkable Community](https://community.thunkable.com/t/audio-book-app-feelings/32601?u=domhnall).
 
 #### [Click to remix](https://goo.gl/xs2ZYn)
 
 ![](../../.gitbook/assets/feelings.png)
 
+### Rollin
+
+If you've ever played a board game or an RPG then you know what dice are. You also probably know easy they are to lose or misplace. With this app you can create and customise as many dice and sound effects as you like so that they're never more than a click away. There's a free tutorial in the [Thunkable Community](https://community.thunkable.com/t/game-app-rollin/32715?u=domhnall) all about how this app was made.
+
+![](../../.gitbook/assets/rollin.png)
+
+[**Click to remix** ](https://goo.gl/Mpyv9W)
+
 ### Fun with Flags
 
-This simple trivia app will test your user's knowledge of country flags. By building something like this for yourself you will develop your understanding of parallel lists, functions, APIs, incrementers and, string matching. You can find a more detailed tutorial of how to build this app in the [Thunkable Community](https://community.thunkable.com/t/quiz-app-fun-with-flags/32265?u=domhnall).
+This simple trivia app will test your user's knowledge of country flags. By building something like this for yourself you will develop your understanding of parallel lists, functions, APIs, incrementers and, string matching. You can find a detailed tutorial of how to build this app in the [Thunkable Community](https://community.thunkable.com/t/quiz-app-fun-with-flags/32265?u=domhnall).
 
 [**Click to remix**](https://x.thunkable.com/copy/6e09037b4bdc7ac4207521322b433137)
 
