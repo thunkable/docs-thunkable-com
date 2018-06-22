@@ -8,6 +8,14 @@ Below are a few of our favorites with more to come. Feel free to remix!
 
 ## Beginner
 
+### Ukulele
+
+Ukulele is a simple soundboard app that plays the ukulele chords for one of our favorite songs of all time \(and of the [best Hawaiian songs of all time](http://www.honolulumagazine.com/Honolulu-Magazine/June-2007/50-Greatest-Songs-of-Hawai-8217i/index.php?cparticle=2&siarticle=1#artanc)\), _Waikiki_, recorded in 1946 by Andy Cummings. The ukulele chords themselves were recorded by an aspiring but very amateur ukulele player / thunker Albert Ching \(originally from Waikiki\)
+
+[**Click to remix**](https://goo.gl/knSQs4)
+
+![Feel free to remix this for your favorite instruments although slower sounds will work better](../../.gitbook/assets/thunkable-docs-exhibits-13.png)
+
 ### New Market Goods
 
 New Market Goods is a simple website app with a branding screen and a social media bar that opens a deep link to a user's installed apps that works across platforms. We recommend [URL genius](https://app.urlgeni.us/#/) to find deep links for commonly used apps. No set-up is required.
