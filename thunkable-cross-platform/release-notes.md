@@ -4,7 +4,7 @@
 
 New components
 
-* Alert - launches an dialog / notification with a message and an optional list of buttons
+* [Alert](create/components/user-interface/alert.md) - launches a dialog / notification with a message and one or more buttons
 
 ### June 12, 2018
 
