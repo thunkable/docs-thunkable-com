@@ -1,5 +1,11 @@
 # Release Notes
 
+### TBD
+
+New components
+
+* Alert - launches an dialog / notification with a message and an optional list of buttons
+
 ### June 12, 2018
 
 Bug fixes

@@ -35,6 +35,7 @@
         * [List Viewer](thunkable-cross-platform/create/components/user-interface/list-viewer.md)
         * [Switch](thunkable-cross-platform/create/components/user-interface/switch.md)
         * [Slider](thunkable-cross-platform/create/components/user-interface/slider.md)
+        * [Alert](thunkable-cross-platform/create/components/user-interface/alert.md)
       * [Voice](thunkable-cross-platform/create/components/voice/README.md)
         * [Speech Recognizer](thunkable-cross-platform/create/components/voice/speech-recognizer.md)
         * [Text to Speech](thunkable-cross-platform/create/components/voice/text-to-speech.md)
