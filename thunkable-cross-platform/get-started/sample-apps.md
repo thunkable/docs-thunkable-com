@@ -12,7 +12,7 @@ Below are a few of our favorites with more to come. Feel free to remix!
 
 Beaver Bingo is a simple puzzle app that we think is great for parties. Party goers take photos of the items in the nine boxes, which together reveals a hidden message.  The app features the [Image Recognizer](../create/components/image/image-recognizer.md) component from Microsoft.
 
-[**Click to remix**](https://goo.gl/saUpYz)
+[**Click to remix**](https://goo.gl/avCsmh)
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-17.png)
 
