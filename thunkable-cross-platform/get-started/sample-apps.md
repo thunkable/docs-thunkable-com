@@ -8,6 +8,14 @@ Below are a few of our favorites with more to come. Feel free to remix!
 
 ## Beginner
 
+### Beaver Bingo
+
+Beaver Bingo is a simple puzzle app that we think is great for parties. Party goers take photos of the items in the nine boxes, which together reveals a hidden message.  The app features the [Image Recognizer](../create/components/image/image-recognizer.md) component from Microsoft.
+
+[**Click to remix**](https://goo.gl/Wj4Uru)
+
+![](../../.gitbook/assets/thunkable-docs-exhibits-17.png)
+
 ### Ukulele
 
 Ukulele is a simple soundboard app that plays the ukulele chords for one of our favorite songs of all time \(and of the [best Hawaiian songs of all time](http://www.honolulumagazine.com/Honolulu-Magazine/June-2007/50-Greatest-Songs-of-Hawai-8217i/index.php?cparticle=2&siarticle=1#artanc)\), _Waikiki_, recorded in 1946 by Andy Cummings. The ukulele chords themselves were recorded by an aspiring but very amateur ukulele player / thunker Albert Ching \(originally from Waikiki\)
