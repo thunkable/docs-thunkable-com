@@ -36,7 +36,7 @@ To hide the Tab bar, you'll actually have to change a Screen property
 | --- | --- |
 | Tab Bar Visible | Default \(`true`\); If `false`, Tab bar will not be visible |
 
-## Adding icons to Tab bar \(iOS only\)
+## Adding icons to Tab bar
 
 {% hint style="info" %}
 Currently, it is not yet possible to add icons to your tab bar for iOS. We are working to add this feature soon.
