@@ -1,6 +1,6 @@
 # Release Notes
 
-### TBD
+### Coming soon!
 
 New components
 
