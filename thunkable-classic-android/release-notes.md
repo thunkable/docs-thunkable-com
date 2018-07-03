@@ -1,5 +1,11 @@
 # Release Notes
 
+### Coming soon
+
+Platform updates
+
+
+
 ### Jun 12, 2018
 
 Platform updates
