@@ -40,7 +40,9 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 
 | Property | Description |
 | :--- | :--- |
-| App Name | Name of the app as it appears below the icon on the phone. Will be set to the project name initially. |
+| Accent Color | Also known as the Secondary Color, the accent color is used to draw attention to a particular parts of your UI. Typically seen in the FAB, TextBox underline, switch. Guidelines for color selection can be found in the [Material Design Guidelines](https://material.io/design/color/#color-theme-creation) |
+| Primary Color | The color that users will see most often. Sometimes this will also be the color that you want users to most associate with your app, or your main brand color. |
+| Primary  Color Dark | The dark variant of the primary is used to add contrast to UI components in your app. Typically used to add contrast between the Title bar and the Status bar. Guides for choose color variants can be found in the [Material Design Guidelines](https://material.io/design/color/#tools-for-picking-colors) |
 | Icon | App icon -- the recommended app icon size is 150 px by 150 px |
 | About Screen | Appears when "About this Application" is selected from the system menu. The title must be visible for this screen to be visible |
 | Sizing | If set to responsive \(recommended\), screen layouts will autoscale to the size of the screen. Components should be sized to 'percent' height and width. If set to fixed, screen layouts will be created for a single fixed-sized screen and components should be sized to 'pixels' height and width |
@@ -49,13 +51,14 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 
 ### Appearance
 
-| Property | Description |
+| **Property** | **Description** |
 | :--- | :--- |
 | Title | Displayed on title bar |
 | Title Visible | If checked, shows a default \(gray\) title bar on the screen |
 | Show Status Bar | If checked, shows the top most bar on the screen which displays time, battery etc |
-| Alight Horizontal | Center, Left or Right |
-| Alight Vertical | Center, Top or Bottom |
+| About Screen | Appears when "About this Application" is selected from the system menu. The title must be visible for this menu to be visible. |
+| Align Horizontal | Center, Left or Right |
+| Align Vertical | Center, Top or Bottom |
 | Background Image | You can upload an image to your app or reference an image url |
 | Background Color | Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Scrollable | If checked, there will be a vertical scrollbar on the screen. If unchecked, the app height is limited to the height of the device |
