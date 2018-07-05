@@ -69,3 +69,7 @@ Common issues
 * Your app icon is not an image file
 * We are having trouble with our build servers. Please try again in 30 minutes or chat with us if you are still having problems
 
+**You cannot install your app and get the message "Cannot connect to storage.googleapis.com"**
+
+* You have a special character like "&" in your [App Name](create/app-icon-+-name.md#app-name)
+

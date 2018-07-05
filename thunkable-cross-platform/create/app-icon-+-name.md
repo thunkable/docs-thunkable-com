@@ -12,7 +12,11 @@ Click on your app name and on the right hand side of the screen upload your file
 
 ### App Name
 
-Click on your app name in the top left of the screen to open the App Setting. Here you will see options to specify Team ID, App Name and [App \(Bundle\) ID](package-name-+-bundle-id.md#customizing-your-app-bundle-id-package-name). 
+Click on your app name in the top left of the screen to open the App Setting. Here you will see options to specify Team ID, App Name and App \(Bundle\) ID. 
+
+{% hint style="warning" %}
+Avoid using the character "&" in your app name; at the moment, it prevents your app from being installed on your device
+{% endhint %}
 
 ![](../../.gitbook/assets/change_app_name.gif)
 
