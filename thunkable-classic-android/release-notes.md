@@ -8,10 +8,10 @@ Platform updates
 
 ### July 3, 2018
 
-Platform updates
+Component updates
 
-* Add `Keep Screen On` property to Screens
-* Update Switch component
+* [Screen](create/components/screen.md) - added `Keep Screen On` property
+* [Switch](create/components/user-interface/switch-+-toggle.md) - click now triggered by `OnCheckedChangeListener` event and fixed bug that prevented changing track and thumb color back to default
 
 ### Jun 12, 2018
 
