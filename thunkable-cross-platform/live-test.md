@@ -42,6 +42,11 @@ Common issues
 * You have an event triggered by a Screen.Start which may be causing the screen to crash
 * Your app and desktop may not be logged into the same account
 
+**App is crashing because of a bug on our end; we are trying to fix it as soon as we can**
+
+* \(Android only\) You are trying to set the value of a Slider in your blocks 
+* \(Android only\) You are trying to set the latitude and longitude of a Map in your blocks
+
 **Image is not showing up on your phone**
 
 * The height or width of the image may be set to 'Fit contents'
