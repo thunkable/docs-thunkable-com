@@ -6,6 +6,10 @@ Platform updates
 
 * Themes - adds support for app themes on the [Screen 1 app settings](https://docs.thunkable.com/~/edit/drafts/-LGX_2UWMnCI1e1JCUnP/thunkable-classic-android/create/components/screen#app-settings-screen1-only) properties
 
+### July 10, 2018 
+
+* Bug fix for rotation issue in Floating Action Button \(FAB\)
+
 ### July 3, 2018
 
 Component updates
