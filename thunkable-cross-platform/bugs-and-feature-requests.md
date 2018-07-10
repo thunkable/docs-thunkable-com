@@ -1,7 +1,3 @@
----
-description: Help us design and build Thunkable for you!
----
-
 # Bugs and Feature Requests
 
 {% hint style="info" %}
