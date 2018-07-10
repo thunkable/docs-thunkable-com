@@ -84,11 +84,11 @@ Personal Feed is an easy to edit feed of your favorite websites, powered by a si
 
 ### Social Credit
 
-Social Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). The app also features some basic error handling and a for loop block
+Social Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). The app also features some basic error handling and a for loop block.
 
-#### [Click to remix](https://goo.gl/2vCtAh)
+#### [Click to remix](https://goo.gl/uVLmzr)
 
-![Social Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)](../../.gitbook/assets/docs.png)
+![Social Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)](../../.gitbook/assets/thunkable-docs-exhibits-19.png)
 
 ### Translator
 
