@@ -6,6 +6,10 @@ New components
 
 * [Alert](create/components/user-interface/alert.md) - launches a dialog / notification with a message and one or more buttons
 
+Component updates
+
+* [Tab Navigator](create/components/layout/tab-navigator.md) - supports the ability to add tab icons to the tab bar
+
 ### June 12, 2018
 
 Bug fixes
@@ -26,7 +30,7 @@ Platform updates
 
 Component updates
 
-* Switch component no longer needs blocks to set-up
+* [Switch](create/components/user-interface/switch.md) component no longer needs blocks to set-up
 
 ### May 22, 2018
 
