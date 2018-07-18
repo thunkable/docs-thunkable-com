@@ -7,13 +7,19 @@ Once you have synced your app with your project, every change you make to your p
 * [Live Preview](live-test.md#live-preview)
 * [Troubleshooting](live-test.md#troubleshooting)
 
-## Download the Thunkable Live app\(s\)
+## Download the Thunkable app\(s\)
 
-![](../.gitbook/assets/phone-icon%20%281%29.png)
+The Thunkable app allows you to live test your app on your phone as you build it. Not even hard core developers have this super power. You can also preview all your app projects from the comfort of your mobile device.
 
-| [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](https://legacy.gitbook.com/book/thunkable/thunkable-docs/edit#) |
+![](../.gitbook/assets/appstorepic_email_small.png)
+
+| [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](http://appstore.com/thunkablelive) |
 | --- |
 
+
+{% hint style="info" %}
+If you don't have an iOS or Android device, you can also [set up an emulator](get-started/emulators.md) on your computer that will mimic what you would see on an actual device
+{% endhint %}
 
 ## Live Test
 

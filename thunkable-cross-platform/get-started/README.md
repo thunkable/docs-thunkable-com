@@ -14,6 +14,10 @@ The Thunkable app allows you to live test your app on your phone as you build it
 | --- |
 
 
+{% hint style="info" %}
+If you don't have an iOS or Android device, you can also [set up an emulator](emulators.md) on your computer that will mimic what you would see on an actual device
+{% endhint %}
+
 ## Start from scratch
 
 This is the most creative way to start your app. Almost anything is possible. Just create a new project, drag and drop your favorite components and block together your intended behavior.
