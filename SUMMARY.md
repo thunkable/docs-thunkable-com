@@ -7,6 +7,7 @@
     * [Tutorials](thunkable-cross-platform/get-started/tutorials.md)
     * [Design Templates](thunkable-cross-platform/get-started/design-templates.md)
     * [Sample Apps](thunkable-cross-platform/get-started/sample-apps.md)
+    * [Emulators](thunkable-cross-platform/get-started/emulators.md)
   * [Create](thunkable-cross-platform/create/README.md)
     * [Login Issues](thunkable-cross-platform/create/login-issues.md)
     * [Public vs Private Projects](thunkable-cross-platform/create/public-vs-private-projects.md)
