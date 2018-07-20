@@ -1,19 +1,19 @@
 # Release Notes
 
-### Coming soon!
+### Jul 20, 2018
 
 New components
 
 * [Alert](create/components/user-interface/alert.md) - launches a dialog / notification with a message and one or more buttons
 
-### June 12, 2018
+### Jun 12, 2018
 
 Bug fixes
 
 * Solves some issues with Thunkable Live app on Android
 * Reduces project saving issues
 
-### June 5, 2018
+### Jun 5, 2018
 
 **Thunkable Cross-Platform ✕ launches out of beta!**
 
