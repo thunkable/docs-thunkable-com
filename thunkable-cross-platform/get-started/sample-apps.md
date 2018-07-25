@@ -68,6 +68,10 @@ Aloha is a private anonymous chat app with a short chat history powered by a [Fi
 
 ### **こんにちは \(Kon'nichiwa\)**
 
+{% hint style="info" %}
+We are currently experiencing high levels of use for our default Yandex account. We recommend creating your own [free Yandex key](https://tech.yandex.com/translate/) and adding it to your app.  
+{% endhint %}
+
 こんにちは is an app designed for travel in any country. It uses the newly upgraded [Speech Recognizer](../create/components/voice/speech-recognizer.md) combined with the [Translator](../create/components/voice/translator.md) component powered by Yandex to translate any spoke phrase into one of 87 supported languages. The app also features persistent data using [Local Storage](../create/components/data/local-storage.md), importing a list of data from [Spreadsheet](../create/components/data/spreadsheet.md), and sharing results with the [Share](../create/components/social/share.md) component.
 
 [**Click to remix**](https://goo.gl/DHp6Qv)
@@ -91,6 +95,10 @@ Social Credit is a team counting app for thankless tasks. The app shares data fo
 ![Social Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)](../../.gitbook/assets/thunkable-docs-exhibits-19.png)
 
 ### Translator
+
+{% hint style="info" %}
+We are currently experiencing high levels of use for our default Yandex account. We recommend creating your own [free Yandex key](https://tech.yandex.com/translate/) and adding it to your app.  
+{% endhint %}
 
 Translator is an app that translates English text into the 20 most popular languages in the world; features advanced use of ListView and persistent data with Local Storage. No set-up is required although Thunkers can use their own Yandex API key if desired
 
