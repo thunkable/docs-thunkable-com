@@ -7,7 +7,11 @@ Before you get started publishing your app, please checkout the minimum requirem
 ### Play Store \(Android\)
 
 {% hint style="danger" %}
-As of Aug 1, 2018, Google is requiring all _new_ apps uploaded to the Play Store to be [compatible with Android 8.0](https://developer.android.com/about/versions/oreo/android-8.0-migration) \(aka API 26\). Due to unforeseen circumstances, we will likely miss this deadline by up to a few weeks. If you are planning to publish a new app to the Play Store in the next few weeks, we highly recommend that you upload a version before Aug 1, as existing apps do not need to be compatible with Android 8.0 till Nov 1, 2018. We deeply apologize for the inconvenience.
+As of Aug 1, 2018, Google is requiring all _new_ apps uploaded to the Play Store to be [compatible with Android 8.0](https://developer.android.com/about/versions/oreo/android-8.0-migration) \(aka API 26\). Due to unforeseen circumstances, we will likely miss this deadline by up to a few weeks. 
+
+**If you are planning to publish a new app to the Play Store in the next few weeks, we recommend uploading a version of your app before Aug 1. You can then update your app in the Play Store after Aug 1 since apps already uploaded to the Play Store only need to be compatible with Android 8.0 by Nov 1.**
+
+We deeply apologize for the inconvenience.
 {% endhint %}
 
 * Google Play Developer Account \($25 one-time fee\)
@@ -31,7 +35,11 @@ The App Store review is typically more rigorous than the Play Store review but b
 ## Publish to the Play Store \(Android\)
 
 {% hint style="danger" %}
-As of Aug 1, 2018, Google is requiring all _new_ apps uploaded to the Play Store to be [compatible with Android 8.0](https://developer.android.com/about/versions/oreo/android-8.0-migration) \(aka API 26\). Due to unforeseen circumstances, we will likely miss this deadline by up to a few weeks. If you are planning to publish a new app to the Play Store in the next few weeks, we highly recommend that you upload a version before Aug 1, as existing apps do not need to be compatible with Android 8.0 till Nov 1, 2018. We deeply apologize for the inconvenience.
+As of Aug 1, 2018, Google is requiring all _new_ apps uploaded to the Play Store to be [compatible with Android 8.0](https://developer.android.com/about/versions/oreo/android-8.0-migration) \(aka API 26\). Due to unforeseen circumstances, we will likely miss this deadline by up to a few weeks. 
+
+**If you are planning to publish a new app to the Play Store in the next few weeks, we recommend uploading a version of your app before Aug 1. You can then update your app in the Play Store after Aug 1 since apps already uploaded to the Play Store only need to be compatible with Android 8.0 by Nov 1.**
+
+We deeply apologize for the inconvenience.
 {% endhint %}
 
 Publishing your app to the Play Store is a relatively straightforward and quick process and will help your app reach 2 billion active Android devices.
