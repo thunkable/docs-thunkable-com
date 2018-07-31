@@ -152,9 +152,7 @@ Reservation is a demonstration of how to accept credit card payments through you
 
 Gram is what photo sharing should be -- ad-free, auto-captioning and secure. This app features the Sign In component with Realtime DB both powered by Firebase, Image Recognizer by Microsoft and a way to "heart" photos. Thunkers must create their own Firebase account and add their own API keys and database url in their account settings.
 
-#### [Click to remix](https://goo.gl/gT6qEm)
+#### [Click to remix](https://x.thunkable.com/copy/efd6604053f08c7d355371df27b7a988?utm_source=Docs%20Gram)
 
-![This is our most popular sample app so far -- over 1500 remixes and counting!](../../.gitbook/assets/docs-gram.png)
-
-
+![](../../.gitbook/assets/thunkable-docs-exhibits-27.png)
 
