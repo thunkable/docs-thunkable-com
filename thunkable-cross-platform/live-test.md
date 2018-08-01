@@ -33,10 +33,6 @@ For the first time, you can also now live preview all your app projects from the
 
 ![](../.gitbook/assets/live-preview-fig-1%20%281%29.gif)
 
-{% hint style="info" %}
-We are currently working with Apple to enable this feature on our Thunkable Live app on iOS
-{% endhint %}
-
 ## Troubleshooting
 
 Common issues
