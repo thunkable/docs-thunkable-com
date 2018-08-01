@@ -66,6 +66,8 @@ Some things you'll want to learn how to do:
 You will find three beginner sample apps when you login or you can remix from our growing collection of sample apps. Thunkable is working on building the largest collection of public mobile app projects in the world.
 
 Sample apps range from beginner to advanced and the more advanced ones may require some extra work to view on your device.
+
+You may also want to take a look at our design templates for some added inspiration.
 {% endtab %}
 {% endtabs %}
 
