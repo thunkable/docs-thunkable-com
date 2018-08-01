@@ -4,7 +4,7 @@
 
 One of the first decisions you have to make is whether or not your new project will be public.  Don't worry, you can always change it at any time in the App Settings.
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 ## Public projects
 
@@ -12,11 +12,11 @@ One of the first decisions you have to make is whether or not your new project w
 
 ![Find them on www.thunkable.com](../../.gitbook/assets/screen-shot-2018-05-31-at-4.07.33-pm.png)
 
-![You can track remixes on your project list page](../../.gitbook/assets/image%20%287%29.png)
+![You can track remixes on your project list page](../../.gitbook/assets/image%20%2810%29.png)
 
 ### **Public projects can also be shared both in** [**fully-editable**](../share.md#share-a-fully-editable-copy-of-your-app-project) **and** [**read-only**](../share.md#share-a-read-only-version-of-your-app-project) **mode.**
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 ## Private projects
 
@@ -24,7 +24,7 @@ One of the first decisions you have to make is whether or not your new project w
 
 ### **Private projects can still be** [**shared as a fully-editable copy**](../share.md#share-a-fully-editable-copy-of-your-app-project) **by clicking on the Share button.**
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 ###  
 

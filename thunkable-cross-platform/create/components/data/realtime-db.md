@@ -83,5 +83,5 @@ You might want to split your database into smaller spaces, also known as project
 
 
 
-![Thanks to our power Thunker @actech for this awesome tip!](../../../../.gitbook/assets/image%20%286%29.png)
+![Thanks to our power Thunker @actech for this awesome tip!](../../../../.gitbook/assets/image%20%289%29.png)
 

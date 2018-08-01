@@ -1,33 +1,132 @@
+---
+description: Retrieve data from any API into your app; data connection required
+---
+
 # Web API
 
-* [Set up](web-api.md#set-up)
-* [Get data](web-api.md#get-data)
-* [Upload data](web-api.md#upload-data)
-* [Delete data](web-api.md#delete-data)
+Great data is an essential part of many apps built today and the Web API component enables apps to retrieve data from any public or private API \(application programming interface\) service on the web.  For more advanced developers who have write access to a private API, this component also enables you to upload and delete data.
 
-![](../../../../.gitbook/assets/web-api-fig-1.png)
+To see what public APIs are available, we recommend [this list from Todd Motto](https://github.com/toddmotto/public-apis)
 
-## Set up
+## Set up 
 
-Some APIs are completely open for developers but many have some security behind them. To access your API of choice, please follow the instructions that they provide and retrieve the web URL to access the API
+For most public APIs, you'll likely have to first create an account to get your own unique API key. This is usually to prevent individuals from making too many requests or to charge developers when they exceed certain free limits.
+
+Once you have the API key, you'll need to enter the unique URL into the property field of the Web API component
 
 | Property | Description |
 | :--- | :--- |
 | URL | The url for the web request which usually contains an API key |
 
-## Get data
+## Get and format \(parse\) data
 
-![](../../../../.gitbook/assets/web-api-fig-2.png)
+![This block retrieves and formats data from the Open Weather Map API](../../../../.gitbook/assets/screen-shot-2018-08-01-at-2.12.03-pm.png)
 
-The blocks above retrieves data from the [Weather Underground API](https://www.wunderground.com/weather/api/d/docs?MR=1) and filters it using our new [Object](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/x/blocks/objects.md) blocks. The original response data is in the JSON format below:
-
-`{ "response": { "version": "0.1", "termsofService": "http://www.wunderground.com/weather/api/d/terms.html", "features": { "conditions": 1 } }, "current_observation": { "image": { "url": "http://icons-ak.wxug.com/graphics/wu2/logo_130x80.png", "title": "Weather Underground", "link": "http://www.wunderground.com" }, "display_location": { "full": "San Francisco, CA", "city": "San Francisco", "state": "CA", "state_name": "California", "country": "US", "country_iso3166": "US", "zip": "94101", "latitude": "37.77500916", "longitude": "-122.41825867", "elevation": "47.00000000" }, "observation_location": { "full": "SOMA - Near Van Ness, San Francisco, California", "city": "SOMA - Near Van Ness, San Francisco", "state": "California", "country": "US", "country_iso3166": "US", "latitude": "37.773285", "longitude": "-122.417725", "elevation": "49 ft" }, "estimated": {}, "station_id": "KCASANFR58", "observation_time": "Last Updated on June 27, 5:27 PM PDT", "observation_time_rfc822": "Wed, 27 Jun 2012 17:27:13 -0700", "observation_epoch": "1340843233", "local_time_rfc822": "Wed, 27 Jun 2012 17:27:14 -0700", "local_epoch": "1340843234", "local_tz_short": "PDT", "local_tz_long": "America/Los_Angeles", "local_tz_offset": "-0700", "weather": "Partly Cloudy", "temperature_string": "66.3 F (19.1 C)", "temp_f": 66.3, "temp_c": 19.1, "relative_humidity": "65%", "wind_string": "From the NNW at 22.0 MPH Gusting to 28.0 MPH", "wind_dir": "NNW", "wind_degrees": 346, "wind_mph": 22.0, "wind_gust_mph": "28.0", "wind_kph": 35.4, "wind_gust_kph": "45.1", "pressure_mb": "1013", "pressure_in": "29.93", "pressure_trend": "+", "dewpoint_string": "54 F (12 C)", "dewpoint_f": 54, "dewpoint_c": 12, "heat_index_string": "NA", "heat_index_f": "NA", "heat_index_c": "NA", "windchill_string": "NA", "windchill_f": "NA", "windchill_c": "NA", "feelslike_string": "66.3 F (19.1 C)", "feelslike_f": "66.3", "feelslike_c": "19.1", "visibility_mi": "10.0", "visibility_km": "16.1", "solarradiation": "", "UV": "5", "precip_1hr_string": "0.00 in ( 0 mm)", "precip_1hr_in": "0.00", "precip_1hr_metric": " 0", "precip_today_string": "0.00 in (0 mm)", "precip_today_in": "0.00", "precip_today_metric": "0", "icon": "partlycloudy", "icon_url": "http://icons-ak.wxug.com/i/c/k/partlycloudy.gif", "forecast_url": "http://www.wunderground.com/US/CA/San_Francisco.html", "history_url": "http://www.wunderground.com/history/airport/KCASANFR58/2012/6/27/DailyHistory.html", "ob_url": "http://www.wunderground.com/cgi-bin/findweather/getForecast?query=37.773285,-122.417725" } }`
+To retrieve data from an API, you simply need to use the `Get` block. 
 
 | Event | Description |
 | :--- | :--- |
 | Get \(`response`, `status`,`error`\) | Performs an HTTP GET request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
-### Upload data
+Most APIs will return data in a less than usable format for your app so we'll take a few moments to walk through a few examples of how to format data \(also known as parsing\) using our [Object](../../blocks/objects.md) blocks
+
+### Example 1: [Open Weather Map API](https://openweathermap.org/current)
+
+You can find a working example of this in the sample app, [Weather](../../../get-started/sample-apps.md#weather).
+
+One of the most common output formats for APIs is JSON, short for Javascript Object Notation. The Open Weather Map API returns a JSON file like the one below. 
+
+```text
+{
+    "coord":{"lon":85.17,"lat":26.67},
+    "weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],
+    "base":"stations",
+    "main":{
+        "temp":298.312,
+        "pressure":1005.31,
+        "humidity":94,
+        "temp_min":298.312,
+        "temp_max":298.312,
+        "sea_level":1011.47,
+        "grnd_level":1005.31},
+    "wind":{"speed":2.96,"deg":79.5005},
+    "clouds":{"all":92},
+    "dt":1533157826,
+    "sys":{
+        "message":0.0034,
+        "country":"IN",
+        "sunrise":1533080664,
+        "sunset":1533128790},
+    "id":1273043,
+    "name":"Dhaka",
+    "cod":200
+}
+```
+
+#### **Convert JSON to Object**
+
+![](../../../../.gitbook/assets/image%20%287%29.png)
+
+If you simply want to retrieve the temperature \(`"temp":` in line 6\), you will have to first convert the JSON response into objects, an _entity_ like a person that has _properties_ to describe them like smart. Objects can be embedded within another object.
+
+In your JSON response, objects can be found within the `"` quotes `"`  followed by a colon `:`. The properties of the object is follows the colon `:` but is within the `{` curly brackets`}`. 
+
+In the example above,  `"coord":` , `"weather":`, `"base":` and `"main":` are both objects and properties of the overall object since they are contained within the `{` curly brackets `}`.
+
+#### **Get Property of Object**
+
+![](../../../../.gitbook/assets/image%20%282%29.png)
+
+Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the temperature \(`"temp":` in line 6\), we'll want to find the `temp` property of the `main` object which is the property of the overall object
+
+![](../../../../.gitbook/assets/screen-shot-2018-08-01-at-2.52.33-pm.png)
+
+###  Example 2: [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
+
+You can find a working example of this in the sample app, [Ride](../../../get-started/sample-apps.md#ride).
+
+The JSON output of the Google Maps Distance Matrix API seems similar to the Open Weather Map API with one notable exception: it includes objects, properties and _lists_. Lists are items bounded by `[` square brackets `]`.
+
+```text
+{
+   "destination_addresses" : [ "Los Angeles, CA, USA" ],
+   "origin_addresses" : [ "San Francisco, CA, USA" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "617 km",
+                  "value" : 616620
+               },
+               "duration" : {
+                  "text" : "5 hours 45 mins",
+                  "value" : 20680
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+```
+
+If you want to retrieve the `"text"` property in line 13, you'll have to:
+
+* convert the JSON to an object 
+* select the `"rows"` property of the object
+* select the first item in the list
+* select the `"elements"` property of the rows object
+* select the first item in the list
+* select the `"duration"` property of the elements object
+* select the `"text"` property of the duration object
+
+You can see the example below for how this would look using the [Object](../../blocks/objects.md) and [List](../../blocks/lists.md) blocks
+
+![](../../../../.gitbook/assets/screen-shot-2018-08-01-at-3.18.25-pm.png)
+
+## Upload data
 
 Uploading and deleting data is usually reserved for a private API that you or your organization owns
 
@@ -36,7 +135,7 @@ Uploading and deleting data is usually reserved for a private API that you or yo
 | Put \(`response`, `status`,`error`\) | Performs an HTTP PUT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 | Post \(`response`, `status`,`error`\) | Performs an HTTP POSTT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
-### Delete data
+## Delete data
 
 | Event | Description |
 | :--- | :--- |
