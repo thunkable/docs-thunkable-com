@@ -1,9 +1,6 @@
 # Slider
 
-* [Set up](slider.md#set-up)
-* [Style the Slider](slider.md#style-the-slider)
-* [Edit the Slider size](slider.md#edit-the-slider-size)
-* [Add spacing](slider.md#add-spacing)
+The Slider is a great UI element to enable users easily select a value from a fixed range of values.
 
 ![](../../../../.gitbook/assets/slider-fig-2.png)
 
