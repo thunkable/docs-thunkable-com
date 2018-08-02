@@ -11,7 +11,7 @@ Here are some of the most common issues that our users are running into:
 
 ## Live Test \(iOS\)
 
-Common issues
+Common issue
 
 **You see a blank / white screen when you live test \(even if there are items in your app\)**
 
