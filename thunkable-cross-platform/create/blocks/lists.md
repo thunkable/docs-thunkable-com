@@ -25,7 +25,7 @@ If you are importing a list from a Spreadsheet or other data source, it may be h
 ![](../../../.gitbook/assets/blocks-lists-fig-9.png)
 
 | ![](../../../.gitbook/assets/blocks-lists-fig-10.png) |
-| :--- | :--- |
+| :--- |
 
 
 ## Select from a list

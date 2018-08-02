@@ -11,13 +11,13 @@ Navigators are the only component that you cannot drag and drop into your phone 
 To name your tabs, you'll have to navigate to the properties for your Screen
 
 | Property | Description |
-| --- | --- |
+| :--- | :--- |
 | Tab Bar Label | Title of your Tab |
 
 ## Set Tab bar to the top or bottom of the screen
 
 | Property | Description |
-| --- | --- |
+| :--- | :--- |
 | Tab Bar Position | Default \(`top`\); Other option is `bottom`; On Android, we recommend setting the tab bar on the `top`; for iOS, we recommend placing it on the `bottom` |
 
 ## Enable swiping
@@ -25,7 +25,7 @@ To name your tabs, you'll have to navigate to the properties for your Screen
  Swiping is a popular way to move through screens and is enabled by the Tab Navigator
 
 | Property | Description |
-| --- | --- |
+| :--- | :--- |
 | Swipe Enabled | Default \(`false`\); If true, enables screen navigation by swiping |
 
 ## **Hide Tab bar**
@@ -33,7 +33,7 @@ To name your tabs, you'll have to navigate to the properties for your Screen
 To hide the Tab bar, you'll actually have to change a Screen property
 
 | Property | Description |
-| --- | --- |
+| :--- | :--- |
 | Tab Bar Visible | Default \(`true`\); If `false`, Tab bar will not be visible |
 
 ## Adding icons to Tab bar

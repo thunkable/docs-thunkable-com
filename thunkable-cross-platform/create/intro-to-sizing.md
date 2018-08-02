@@ -9,7 +9,7 @@ By sizing your components optimally, you can support as many screen sizes and re
 The following properties are available to all visible components in the `Height` and `Width` properties
 
 | Property | Description |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | `Relative size` | Sets the size as a percent of the Screen |
 | `Absolute size` | Sets the size in pixels. The screen size of the Phone Previewer in the Designer is by default set to 500 px by 280 px but that may not reflect the size of your phone |
 | `Fit contents` | Sizes an element to the contents  |
@@ -20,7 +20,7 @@ The following properties are available to all visible components in the `Height`
 Relative size is your best friend for almost all elements since it will auto-scale elements to the screen. In some cases, where there are fixed dimensions 
 
 | Component | Recommendation |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Image or Button \(with Image\) | Use `Relative size` for height and width; Set Resize Mode property to `cover` or `contain`; You may also need to reference / upload images with a minimum resolution to not appear blurry on higher resolution screens |
 | Labels and Text Input | Use `Relative size` for width; `Fit contents` for height |
 | Row and Column | Usually `Fill container` for height and width; `Relative size`  otherwise |

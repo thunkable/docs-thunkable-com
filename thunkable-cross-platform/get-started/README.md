@@ -29,11 +29,11 @@ If you are having login issues, please take a look at this [troubleshooting](../
 You can find the Thunkable Live app by searching on the App or Play Store or by clicking the links below:
 
 | [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) |
-| --- |
+| :--- |
 
 
 | [**Download for iOS**](http://appstore.com/thunkablelive) |
-| --- |
+| :--- |
 
 
 If you don't have an iOS or Android device, you can also [set up an emulator](emulators.md) on your computer that will mimic what you would see on an actual device.

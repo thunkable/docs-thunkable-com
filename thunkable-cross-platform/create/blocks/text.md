@@ -15,7 +15,7 @@ Often, you'll want to join text values together with the block below
 ![](../../../.gitbook/assets/blocks-text-fig-7%20%281%29.png)
 
 | ![](../../../.gitbook/assets/blocks-text-fig-11.png) |
-| :--- | :--- |
+| :--- |
 
 
 ## Reformat text
@@ -25,13 +25,13 @@ When you import data from a database or API, you may need to reformat it and the
 ![](../../../.gitbook/assets/blocks-text-fig-9.png)
 
 | ![](../../../.gitbook/assets/blocks-text-fig-13.png) |
-| :--- | :--- |
+| :--- |
 
 
 ![](../../../.gitbook/assets/blocks-text-fig-10.png)
 
 | ![](../../../.gitbook/assets/blocks-text-fig-15.png) |
-| :--- | :--- |
+| :--- |
 
 
 The block below will help you add additional text to a list of items

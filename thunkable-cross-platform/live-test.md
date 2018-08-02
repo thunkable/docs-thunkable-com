@@ -14,7 +14,7 @@ The Thunkable app allows you to live test your app on your phone as you build it
 ![](../.gitbook/assets/appstorepic_email_small.png)
 
 | [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](http://appstore.com/thunkablelive) |
-| --- |
+| :--- | :--- |
 
 
 {% hint style="info" %}

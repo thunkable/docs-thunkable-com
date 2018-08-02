@@ -34,7 +34,7 @@ Uses a ListPicker to see available devices, a notifier to alert the user if Blue
 ![](../../../../.gitbook/assets/bluetooth-blocks-2.png)
 
 | Property | Description |  |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | Available | Whether Bluetooth is available on the device |  |
 | Enabled | If 'true', Bluetooth is enabled on the device |  |
 | Is Accepting | Tells whether this BluetoothServer component is accepting an incoming connection |  |
@@ -68,7 +68,7 @@ Unlike connected devices on Wi-Fi which can send larger files like images, conne
 ### Receive via Bluetooth \(Bluetooth Client and Server\)
 
 | Event | Description |  |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | Bytes Available To Receive | Returns an estimate of the number of bytes that can be received without blocking |  |
 | Receive Text \(numberOfBytes\) |  | Receive text from the connected Bluetooth device. If numberOfBytes is less than 0, read until a delimiter byte value is received |
 | Receive Signed Bytes \(numberOfBytes\) | Receive multiple signed byte values from the connected Bluetooth device. If numberOfBytes is less than 0, read until a delimiter byte value is received |  |

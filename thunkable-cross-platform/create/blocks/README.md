@@ -17,7 +17,7 @@ They can be connected to a commonly used set of blocks that range from opening s
 Below are some of the most commonly used blocks and where you might find them:
 
 | Block | Category | Description |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | [Navigate to Screen `1`](control.md#open-a-screen) | Control | Opens a specified screen in your app |
 | [If `this`, do `that`](control.md#if-this-do-that) | Control | Set conditions for events to happen in your app |
 |  |  |  |

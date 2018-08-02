@@ -15,7 +15,7 @@ The Activity Starter can only open another app if it's installed on a user's dev
 Send an email from your default app
 
 | Action | android.intent.action.VIEW |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Activity Class |  |
 | Activity Package |  |
 | Data URI | mailto:{emailAddress} |
@@ -26,7 +26,7 @@ Send an email from your default app
 Open a Facebook page in the app
 
 | Action | android.intent.action.VIEW |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Activity Class |  |
 | Activity Package |  |
 | Data URI | fb://facewebmodal/f?href={webUrl} |
@@ -37,7 +37,7 @@ Open a Facebook page in the app
 Open an Instagram page within the app
 
 | Action | android.intent.action.VIEW |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Activity Class | com.instagram.android.activity.UrlHandlerActivity |
 | Activity Package | com.instagram.android |
 | Data URI | http://instagram.com/\_u/{instagramHandle} |
@@ -48,7 +48,7 @@ Open an Instagram page within the app
 Open the default Browser app
 
 | Action | android.intent.action.VIEW |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Activity Class |  |
 | Activity Package |  |
 | Data URI |  |
@@ -59,7 +59,7 @@ Open the default Browser app
 App made on Thunkable
 
 | Action | com.thunkable.android.{username}.{appname} |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Activity Class | com.thunkable.android.{username}.{appname}.Screen1 |
 | Activity Package |  |
 | Data URI |  |

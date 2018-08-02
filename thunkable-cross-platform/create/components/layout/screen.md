@@ -3,7 +3,7 @@
 ## Screen starts and opens
 
 | Event | Description |
-| --- | --- | --- |
+| :--- | :--- |
 | Starts | Triggers an event / set of events when the Screen is first opened |
 | Opens | Triggers an event / set of events whenever the Screen is opened |
 

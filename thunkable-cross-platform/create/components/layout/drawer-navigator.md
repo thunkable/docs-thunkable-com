@@ -11,7 +11,7 @@ Navigators are the only component that you cannot drag and drop into your phone 
 To name your drawers, you'll have to navigate to the properties for your Screen
 
 | Property | Description |
-| --- | --- |
+| :--- | :--- |
 | Drawer Label | Title of your Drawer |
 
 ## Style your Drawer
@@ -19,7 +19,7 @@ To name your drawers, you'll have to navigate to the properties for your Screen
 You can change the color of the text and background for selected and unselected drawers
 
 | Property | Description |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Active Tint Color | Default \(`Light blue`\); Text color for selected drawer |
 | Active Background Color | Default \(`Light gray`\); Background color for selected drawer |
 | Inactive Tint Color | Default \(`Black`\); Text color for unselected drawer |

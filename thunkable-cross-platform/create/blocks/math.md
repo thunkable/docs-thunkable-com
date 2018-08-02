@@ -18,7 +18,7 @@ There is also a block for irrational numbers like `π`
 ![](../../../.gitbook/assets/blocks-math-fig-5.png)
 
 | ![](../../../.gitbook/assets/blocks-math-fig-13.png) |
-| :--- | :--- |
+| :--- |
 
 
 ## Perform calculations
@@ -28,7 +28,7 @@ Perhaps the most often used calculation in an app is `addition` but this block a
 ![](../../../.gitbook/assets/blocks-math-fig-7.png)
 
 | ![](../../../.gitbook/assets/blocks-math-fig-16.png) |
-| :--- | :--- |
+| :--- |
 
 
 There are also a few more advanced calculation blocks that may be helpful including `trigonometric`
@@ -36,7 +36,7 @@ There are also a few more advanced calculation blocks that may be helpful includ
 ![](../../../.gitbook/assets/blocks-math-fig-4.png)
 
 | ![](../../../.gitbook/assets/blocks-math-fig-19.png) |
-| :--- | :--- |
+| :--- |
 
 
 `logarithmic`
@@ -44,7 +44,7 @@ There are also a few more advanced calculation blocks that may be helpful includ
 ![](../../../.gitbook/assets/blocks-math-fig-3.png)
 
 | ![](../../../.gitbook/assets/blocks-math-fig-21.png) |
-| :--- | :--- |
+| :--- |
 
 
 and `remainder`
@@ -56,7 +56,7 @@ There's also this useful calculation block for lists
 ![](../../../.gitbook/assets/blocks-math-fig-8.png)
 
 | ![](../../../.gitbook/assets/blocks-math-fig-23.png) |
-| :--- | :--- |
+| :--- |
 
 
 ## Introduce randomness
