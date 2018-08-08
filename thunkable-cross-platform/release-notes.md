@@ -1,5 +1,28 @@
 # Release Notes
 
+### Aug 8, 2018
+
+Bug fixes
+
+* Stability should be significantly improved on the Live App, especially for Android
+* There should generally be fewer crashes on downloaded/published apps, especially for Android
+* The WebViewer on Android should scroll properly and be responsive
+* The Scrollable feature of the Column component should now work properly
+* Column component will now display background images on iOS
+* Scrollable screens will now scroll on downloaded or published apps for iOS
+* Setting Latitude and Longitude on the Map component on Android via blocks should now work
+* Setting the Value property of the Slider component on Android via blocks should now work
+* Projects with a huge number of components or blocks should no longer generate errors from backend server
+
+New blocks
+
+*  [Shuffle list](create/blocks/lists.md#shuffle-list) - get a copy of a list with the items shuffled in a random order.
+
+Platform updates
+
+* Improvements to the tutorials
+
+
 ### Jul 20, 2018
 
 New components
