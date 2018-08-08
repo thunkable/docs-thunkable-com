@@ -5,6 +5,8 @@
 * [Select from a list](lists.md#select-from-a-list)
 * [Analyze list](lists.md#analyze-list)
 * [Modify list](lists.md#modify-list)
+* [Shuffle list](lists.md#shuffle-list)
+
 
 ## Create a list
 
@@ -52,3 +54,8 @@ You can change an item in your list with the block below
 
 ![](../../../.gitbook/assets/blocks-lists-fig-6.png)
 
+## Shuffle list
+
+Get a copy of a list with the items shuffled in a random order.
+
+[Picture of Shuffle block TBD]
