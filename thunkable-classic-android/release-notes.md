@@ -1,5 +1,12 @@
 # Release Notes
 
+## August 7, 2018
+
+Component updates
+
+* [Button](create/components/user-interface/button.md) - bug fix for background color issue
+* [App theme](https://docs.thunkable.com/~/edit/drafts/-LGX_2UWMnCI1e1JCUnP/thunkable-classic-android/create/components/screen#app-settings-screen1-only) - bug fix for crash issue
+
 ## August 3, 2018
 
 Platform updates
