@@ -14,7 +14,7 @@ Component updates
 Component updates
 
 * [Button](create/components/user-interface/button.md) - bug fix for background color issue
-* [App theme](create/components/screen#app-settings-screen1-only) - bug fix for crash issue
+* [App theme](create/components/screen.md#app-settings-screen1-only) - bug fix for crash issue
 
 ## August 3, 2018
 
