@@ -7,14 +7,14 @@ Component updates
 * [Floating Action Button](create/components/user-interface/floating-action-button.md) \(FAB\) - bug fix for rotation change issue
 * File/Image URI - bug fix for crash issue in Android 7 and 7+
 * [Sharing](create/components/social/sharing.md) - bug fix for crash issue in Android 7 and 7+
-* [Toggle](create/components/user-interface/switch-%2B-toggle.md) - performance upgrade
+* [Toggle](https://docs.thunkable.com/thunkable-classic-android/create/components/user-interface/switch-+-toggle) - performance upgrade
 
 ## August 7, 2018
 
 Component updates
 
 * [Button](create/components/user-interface/button.md) - bug fix for background color issue
-* [App theme](create/components/screen.md#app-settings-screen1-only) - bug fix for crash issue
+* [App theme](https://docs.thunkable.com/thunkable-classic-android/create/components/screen#app-settings-screen1-only) - bug fix for crash issue
 
 ## August 3, 2018
 
