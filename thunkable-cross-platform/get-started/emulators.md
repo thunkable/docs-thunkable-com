@@ -1,9 +1,3 @@
----
-description: >-
-  If you don't have a mobile device that is accessible to you for live testing,
-  follow this tutorial to download an emulator on your computer.
----
-
 # Emulators
 
 ### Create an Account

@@ -1,7 +1,3 @@
----
-description: Retrieve data from any API into your app; data connection required
----
-
 # Web API
 
 Great data is an essential part of many apps built today and the Web API component enables apps to retrieve data from any public or private API \(application programming interface\) service on the web.  For more advanced developers who have write access to a private API, this component also enables you to upload and delete data.

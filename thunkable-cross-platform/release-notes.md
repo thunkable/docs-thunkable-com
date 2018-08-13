@@ -1,6 +1,6 @@
 # Release Notes
 
-### Aug 8, 2018
+## Aug 8, 2018
 
 Bug fixes
 
@@ -16,27 +16,26 @@ Bug fixes
 
 New blocks
 
-*  [Shuffle list](create/blocks/lists.md#shuffle-list) - get a copy of a list with the items shuffled in a random order.
+* [Shuffle list](create/blocks/lists.md#shuffle-list) - get a copy of a list with the items shuffled in a random order.
 
 Platform updates
 
 * Improvements to the tutorials
 
-
-### Jul 20, 2018
+## Jul 20, 2018
 
 New components
 
 * [Alert](create/components/user-interface/alert.md) - launches a dialog / notification with a message and one or more buttons
 
-### Jun 12, 2018
+## Jun 12, 2018
 
 Bug fixes
 
 * Solves some issues with Thunkable Live app on Android
 * Reduces project saving issues
 
-### Jun 5, 2018
+## Jun 5, 2018
 
 **Thunkable Cross-Platform ✕ launches out of beta!**
 
@@ -51,7 +50,7 @@ Component updates
 
 * [Switch](create/components/user-interface/switch.md) component no longer needs blocks to set-up
 
-### May 22, 2018
+## May 22, 2018
 
 Component updates
 
@@ -64,7 +63,7 @@ New components
 * [Location Sensor](create/components/location/location-sensor.md) - gets user's current location
 * [Slider](create/components/user-interface/slider.md) - UI element of choice for letting users select a value or range from a fixed set of options, such as setting the brightness of a screen
 
-### May 15, 2018
+## May 15, 2018
 
 Platform updates
 
@@ -78,7 +77,7 @@ Bug fixes
 * Improvements to Download / Publish for iOS including transparency support for app icons and better error messaging
 * Improved messaging for Download for Android
 
-### May 7, 2018
+## May 7, 2018
 
 Platform updates
 
@@ -88,7 +87,7 @@ Platform updates
 * Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-⑤--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
 * Updated [download](download.md#download-and-install-ios-app) and [publish](publish.md#publish-to-the-app-store-ios) emails for iOS
 
-### April 12, 2018
+## April 12, 2018
 
 Component updates
 
@@ -104,7 +103,7 @@ Platform updates
 
 * Updated Blocks colors
 
-### Apr 5, 2018
+## Apr 5, 2018
 
 New components
 
@@ -117,7 +116,7 @@ Platform updates
 * Blocks now includes zoom control and a better location for the trash can
 * Properties have been re-organized into hopefully easier to use categories
 
-### Mar 20, 2018
+## Mar 20, 2018
 
 Platform updates
 
@@ -137,7 +136,7 @@ Bug fixes
 * Blocks strings now accepted as numbers
 * Changing dropdown component in blocks or duplicating blocks now keeps the same property
 
-### Mar 6, 2018
+## Mar 6, 2018
 
 New component
 
@@ -156,7 +155,7 @@ Platform updates
 * Error message when dropping a Navigator or Screen to the Phone previewer; they can only be added to the Visible components section of the tree
 * Small updates to sharing by link and notifications during download and publish
 
-### Feb 23, 2018
+## Feb 23, 2018
 
 Start of Thunkable Cross-Platform **✕** public beta
 

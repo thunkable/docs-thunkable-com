@@ -7,7 +7,6 @@
 * [Modify list](lists.md#modify-list)
 * [Shuffle list](lists.md#shuffle-list)
 
-
 ## Create a list
 
 You can create a list of variable lengths with the blocks below
@@ -58,4 +57,5 @@ You can change an item in your list with the block below
 
 Get a copy of a list with the items shuffled in a random order.
 
-[Picture of Shuffle block TBD]
+\[Picture of Shuffle block TBD\]
+
