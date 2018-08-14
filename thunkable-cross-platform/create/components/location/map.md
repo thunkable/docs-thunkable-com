@@ -21,7 +21,7 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 
 ## Zoom and center the Map
 
-To auto-center your map, you can pair the Map component with a Location Sensor. `There is currently a bug with the blocks below working on Android`
+To auto-center your map, you can pair the Map component with a Location Sensor
 
 ![](../../../../.gitbook/assets/map-fig-2.png)
 
