@@ -28,7 +28,7 @@ Ukulele is a simple soundboard app that plays the ukulele chords for one of our 
 
 New Market Goods is a simple website app with a branding screen and a social media bar that opens a deep link to a user's installed apps that works across platforms. We recommend [URL genius](https://app.urlgeni.us/#/) to find deep links for commonly used apps. No set-up is required. If you'd like to learn how this app was made then check out our free tutorial in the [Thunkable Community](https://community.thunkable.com/t/business-app-new-market-goods/32448?u=domhnall)
 
-#### [Click to remix](https://goo.gl/Df56zz)
+#### [Click to remix](https://x.thunkable.com/copy/6256f489c9885dcf78eee142be3ca744)
 
 ![If you have a mobile optimised website for your business or organization, this is a simple way to turn what you already have into an app.](../../.gitbook/assets/nmg.png)
 
