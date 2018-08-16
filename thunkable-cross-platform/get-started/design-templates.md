@@ -24,7 +24,7 @@ There is a lot of design that you can do on the Thunkable platform and the User 
 
 ### Scrollable Screen
 
-A Scrollable screen can be made by setting Scrollable to `false` in a Screen to Column. Elements within the Screen or Column have to be sized with heights in absolute pixels which together exceed the height of the Screen or Column. For example, an iPhone 6 has a Screen height of 648 px so elements within it will have to collectively exceed that number for the elements to scroll. We also set the minWidth to `100%` of the Column in the advanced properties so that the scrolling Column does not move from left to right.
+A Scrollable screen can be made by setting Scrollable to `true` in a Screen or Column and setting the height to `Fit contents`. Elements within the Screen or Column have to be sized with heights in absolute pixels which together exceed the height of the Screen or Column. For example, an iPhone 6 has a Screen height of 648 px so elements within it will have to collectively exceed that number for the elements to scroll. We also set the minWidth to `100%` of the Column in the advanced properties so that the scrolling Column does not move from left to right.
 
 #### [Click to copy](https://goo.gl/C3hmvg)
 

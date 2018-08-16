@@ -31,7 +31,7 @@ The `Alignment` property allows you to space elements in a Screen vertically
 
 | Property | Description |
 | :--- | :--- |
-| Scrollable | Default \(`false`\). Indicates whether the screen is scrollable. For scrollable to work, one or more of your components must have fixed heights that exceed the height of the screen |
+| Scrollable | Default \(`false`\). Indicates whether the screen is scrollable. For scrollable to work, you must also set your screen height to `fit contents`  and the components in your screen must have heights set in `absolute` pixels |
 
 ## Hide \(or show\) status bar
 

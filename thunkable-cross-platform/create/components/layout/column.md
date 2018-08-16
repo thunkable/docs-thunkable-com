@@ -36,3 +36,11 @@ The `Alignment` property allows you to space elements in a Column horizontally
 | Background Picture | You can upload a background image to your app or reference an image url e.g.`beaver-yellow.png` |
 | Background Picture Resize Mode | Determines how to resize the image when the frame doesn't match the raw image dimensions;`cover`\(default\) Scale the image uniformly \(maintain the image's aspect ratio\) so that both dimensions \(width and height\) of the image will be equal to or larger than the corresponding dimension of the view \(minus padding\);`contain`Scale the image uniformly \(maintain the image's aspect ratio\) so that both dimensions \(width and height\) of the image will be equal to or less than the corresponding dimension of the view \(minus padding\);`stretch`Scale width and height independently, This may change the aspect ratio of the src;`repeat`Repeat the image to cover the frame of the view. The image will keep it's size and aspect ratio;`center`Centers the image in the frame |
 
+## Enable scrolling
+
+| Property | Description |
+| :--- | :--- |
+| Scrollable | Default \(`false`\). Indicates whether the column is scrollable. For scrollable to work, you must also set your screen height to `fit contents`  and the components in your column must have heights set in `absolute` pixels |
+
+## 
+
