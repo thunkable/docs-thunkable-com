@@ -1,5 +1,17 @@
 # Release Notes
 
+## August 16, 2018
+
+Component updates
+
+* [Floating Action Button](create/components/user-interface/floating-action-button.md) \(FAB\) - bug fix for visibility issue
+
+## August 11, 2018
+
+Component updates
+
+* [Camera](create/components/image/camera.md) - bug fix for image path
+
 ## August 9, 2018
 
 Component updates
