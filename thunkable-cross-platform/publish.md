@@ -60,7 +60,7 @@ Success on Google Play starts with quality. The best apps and games have higher 
 
 To publish your app on Android, you'll need to add an `app icon`, a `name`, a `package name` and an app `version`. To find the App settings, click on the App Icon on the top left.
 
-![](../.gitbook/assets/ezgif.com-video-to-gif-31.gif)
+![](../.gitbook/assets/ezgif.com-video-to-gif-31%20%281%29.gif)
 
 For recommendations on your `app icon` and `name`, [please see this guide](create/app-icon-+-name.md).
 

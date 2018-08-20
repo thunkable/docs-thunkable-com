@@ -6,7 +6,7 @@ The best apps define an elegant sequence of events that happen without the user 
 
 This is where Thunkable Blocks come in. 
 
-![The Blocks screen can be found by clicking the Blocks tab on the upper left corner of the screen](../../../.gitbook/assets/ezgif.com-video-to-gif-33.gif)
+![The Blocks screen can be found by clicking the Blocks tab on the upper left corner of the screen](../../../.gitbook/assets/ezgif.com-video-to-gif-33%20%281%29.gif)
 
 Thunkable Blocks are the building blocks of a great experience for your app users. Every component has its own set of blocks to start or trigger an event and set and change properties.  
 
