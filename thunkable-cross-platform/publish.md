@@ -25,6 +25,14 @@ We deeply apologize for the inconvenience.
 
 ### App Store \(iOS\)
 
+{% hint style="danger" %}
+To publish your app to the App Store on Thunkable Cross Platform ✕, we currently require users to turn off two-factor authentication. [Apple recently made a change](https://support.apple.com/en-ie/HT204915) requiring new users and those that have upgraded to the latest iOS or MacOS to turn on two-factor authentication. If you have two-factor authentication turned on, **you will currently\* not be able to publish to the iOS App Store.**
+
+Please [**click here**](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations on how to turn off two-factor authentication.
+
+\*We are working on a fix to enable publishing to iOS with two-factor authentication turned on which may take up to several weeks until available.
+{% endhint %}
+
 * Apple Developer Program Membership \($99 / year\)
 * Design assets
   * Icon \(1024 x 1024 px\)
@@ -133,6 +141,14 @@ Apps that request access to sensitive permissions or data \(as defined in the [u
 
 ## Publish to the App Store \(iOS\)
 
+{% hint style="danger" %}
+To publish your app to the App Store on Thunkable Cross Platform ✕, we currently require users to turn off two-factor authentication. [Apple recently made a change](https://support.apple.com/en-ie/HT204915) requiring new users and those that have upgraded to the latest iOS or MacOS to turn on two-factor authentication. If you have two-factor authentication turned on, **you will currently\* not be able to publish to the iOS App Store.**
+
+Please [**click here**](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations on how to turn off two-factor authentication.
+
+\*We are working on a fix to enable publishing to iOS with two-factor authentication turned on which may take up to several weeks until available.
+{% endhint %}
+
 For app developers looking to distribute their apps to a premium audience, publishing your app to the App Store can be a very rewarding process.
 
 Thunkable has eliminated a few steps from the normal iOS submission process to make it easier for our developers. We send new versions of your app directly to iTunes Connect, Apple's portal for managing App Store submissions, auto-increment each new version and enabling building apps from non-Mac computers \(usually a Mac is required\).
@@ -217,7 +233,7 @@ Your app is now ready for internal testing to be downloaded by you and others an
 * iTunes Connect. Make sure to [follow this step](publish.md#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
 * Certificates. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account
 * Provisioning profile. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles
-* Two-factor authentication. You must turn off 2 factor authentication for your Apple Developer ID to publish with Thunkable
+* Two-factor authentication. You must turn off two-factor authentication for your Apple Developer ID to publish with Thunkable. Please [click here](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations for turning off two-factor authentication 
 * Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
 
 ### Submit your app for review
