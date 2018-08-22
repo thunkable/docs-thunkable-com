@@ -2,9 +2,7 @@
 
 ## Overview
 
-Thunkable ✕ includes step-by-step beginner tutorials built right in the platform. To view them, simply follow the two steps below.
-
-We are also creating video tutorials that will walk you through some of the more advanced features of the platform. 
+Thunkable ✕ includes step-by-step beginner tutorials built right in the platform. To view them, simply follow the two steps below. We also have a [beginner video tutorial](https://www.youtube.com/watch?v=YrONgW8udmM&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE) series on YouTube that will walk you through the same tutorials.
 
 We also have a few intro guides in our docs that may help you with designing your app:
 
