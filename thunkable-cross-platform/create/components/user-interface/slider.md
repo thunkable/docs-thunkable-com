@@ -23,7 +23,6 @@ We recommend using a Label with the Slider so that users can get immediate feedb
 
 | Property | Description |
 | :--- | :--- |
-| Minimum Track Tint Color | Default \(`none`\); Color of the slider track to the left of the thumb |
 | Minimum Track Tint Color | Default \(`none`\); Color of the slider track to the right of the thumb |
 | Thumb Tint Color \(Android only\) | Default \(`none`\); Color of the thumb |
 | Border | Default \(`none`\); You can add a border with customized `width`, `color`, `style (solid, dotted, dashed)`and `borderRadius` |
