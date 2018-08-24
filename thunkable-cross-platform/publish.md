@@ -171,9 +171,9 @@ and you will create a `Bundle ID`
 
 ![](../.gitbook/assets/publish-ios-fig-2.png)
 
-### [Create a new app](https://itunesconnect.apple.com/) in iTunes Connect
+### [Create a new app](https://itunesconnect.apple.com/) in App Store Connect
 
-iTunes Connect is your portal for managing your submission to the App Store
+App Store Connect is your portal for managing your submission to the App Store
 
 ![](../.gitbook/assets/publish-ios-fig-6.png)
 
@@ -191,13 +191,13 @@ To find the App settings, click on the App Icon on the top left.
 
 
 
-### Send your app to iTunes Connect on Thunkable
+### Send your app to App Store Connect on Thunkable
 
-Before you send your app to iTunes Connect, make sure you set the appropriate Build and Version Number. Apple requires each new version of your app to have a unique and sequentially higher Build and Version Number. You can also let Thunkable auto-increment \(or automatically increase\) the build and version numbers for you.
+Before you send your app to App Store Connect, make sure you set the appropriate Build and Version Number. Apple requires each new version of your app to have a unique and sequentially higher Build and Version Number. You can also let Thunkable auto-increment \(or automatically increase\) the build and version numbers for you.
 
 ![](../.gitbook/assets/version.png)
 
-To send your app to iTunes Connect, you'll simply select Publish to App Store and enter your Apple developer login credentials
+To send your app to App Store Connect, you'll simply select Publish to App Store and enter your Apple developer login credentials
 
 ![](../.gitbook/assets/publishsent.gif)
 
@@ -207,9 +207,9 @@ You may have to wait up to an hour for the app to be successfully sent to iTunes
 
 #### Success!
 
-If your app has been successfully uploaded, you will receive an email from iTunes Connect.
+If your app has been successfully uploaded, you will receive an email from App Store Connect.
 
-Your latest build will appear under the Testflight tab in your iTunes Connect dashboard. Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store. You can use the tool to share your app with others.
+Your latest build will appear under the Testflight tab in your App Store Connect dashboard. Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store. You can use the tool to share your app with others.
 
 ![](../.gitbook/assets/publish-ios-fig-7.png)
 
@@ -223,18 +223,19 @@ Your app is now ready for internal testing to be downloaded by you and others an
 
 ### Troubleshooting
 
-**You do not see your app uploaded to iTunes Connect**
+**You do not see your app uploaded to App Store Connect**
 
 * Download. One way to check if your app is build-able is to download it to your phone first. Two common download errors are:
   * You uploaded an icon that has the same name as an existing asset that you have uploaded
   * Your app icon is not an image file
 * Icons. Apple additionally does not allow you to have any icons with any transparent colors. We recommend app icons to be 192 x 192 px
 * Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
-* iTunes Connect. Make sure to [follow this step](publish.md#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
+* App Store Connect. Make sure to [follow this step](publish.md#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
 * Certificates. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account
 * Provisioning profile. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles
 * Two-factor authentication. You must turn off two-factor authentication for your Apple Developer ID to publish with Thunkable. Please [click here](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations for turning off two-factor authentication 
 * Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
+* Apple ID an privacy terms. You must accept Apple's new Apple ID and privacy terms.
 
 ### Submit your app for review
 

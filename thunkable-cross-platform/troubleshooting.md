@@ -44,18 +44,19 @@ Common issues
 
 Common issues
 
-**You do not see your app uploaded to iTunes Connect**
+**You do not see your app uploaded to App Store Connect**
 
 * Download. One way to check if your app is build-able is to download it to your phone first. Two common download errors are:
   * You uploaded an icon that has the same name as an existing asset that you have uploaded
   * Your app icon is not an image file
 * Icons. Apple additionally does not allow you to have any icons with any transparent colors. We recommend app icons to be 192 x 192 px
 * Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
-* iTunes Connect. Make sure to [follow this step](troubleshooting.md#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
+* App Store Connect. Make sure to [follow this step](publish.md#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
 * Certificates. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account
 * Provisioning profile. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles
 * Two-factor authentication. You must turn off two-factor authentication for your Apple Developer ID to publish with Thunkable. Please [click here](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations for turning off two-factor authentication 
 * Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
+* Apple ID an privacy terms. You must accept Apple's new Apple ID and privacy terms.
 
 ## Live Test \(Android\)
 
