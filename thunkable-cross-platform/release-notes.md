@@ -1,5 +1,25 @@
 # Release Notes
 
+## Aug 28, 2018
+
+Platform updates
+
+{% hint style="success" %}
+All apps built on Thunkable are now [compatible with Android 8.0](https://developer.android.com/about/versions/oreo/android-8.0-migration) \(aka API 26\)!
+
+Users will be prompted to give permission to allow the use of certain components within an app \(Speech Recognizer, Assistant, Camera, Photo Library, Location Sensor\)
+{% endhint %}
+
+* Some app layouts have been updated
+  * Hide status bar bug - A blank status bar will still show up even if hide status bar is set to false; we are hoping to fix this soon
+  * Heights of visible elements set to 'fit contents' may need to be updated to 'relative size' or another option
+  * [Scrollable columns](create/components/layout/column.md#enable-scrolling) - height will need to be set to 'fit contents'
+
+Bug fixes 
+
+* Android app no longer crashes when [open link](create/blocks/control.md#open-an-installed-app-or-website-by-link) block is triggered
+* Downloaded and published iOS apps no longer shows editable blocks
+
 ## Aug 8, 2018
 
 Bug fixes
