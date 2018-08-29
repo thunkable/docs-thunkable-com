@@ -72,11 +72,6 @@ Common issues
 **App is crashing because of a bug on our end; we are trying to fix it as soon as we can**
 
 * You are trying to set the value of a Slider in your blocks 
-* You are trying to set the latitude and longitude of a Map in your blocks
-
-**Image is not showing up on your phone**
-
-* The height or width of the image may be set to 'Fit contents'
 
 ## Download \(Android\)
 
