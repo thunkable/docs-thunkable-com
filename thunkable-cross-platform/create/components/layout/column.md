@@ -1,10 +1,5 @@
 # Column
 
-* [Set the size of the column](column.md#set-size-of-the-column)
-* [Space the elements vertically](column.md#space-the-elements-vertically)
-* [Space the elements horizontally](column.md#space-the-elements-horizontally)
-* [Add a background color or picture](column.md#add-a-background-color-or-picture)
-
 ![](../../../../.gitbook/assets/thunkable-documentation-exhibits-65.png)
 
 ## Set size of the column
