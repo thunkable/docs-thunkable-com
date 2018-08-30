@@ -1,5 +1,11 @@
 # Release Notes
 
+## Aug 29, 2018
+
+Bug fixes
+
+* Fix iOS download & publish app icon
+
 ## Aug 28, 2018
 
 Platform updates
