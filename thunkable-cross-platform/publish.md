@@ -209,6 +209,18 @@ Your app is now ready for internal testing to be downloaded by you and others an
 
 ![](../.gitbook/assets/publish-ios-fig-11.png)
 
+{% hint style="info" %}
+After submitting your app for review, you may asked, **"Does this app use the Advertising Identifier \(IDFA\)?"** 
+
+The app will still be able to be published but you will want to **check** the following three boxes:
+
+* **Attribute this app installation to a previously served advertisement”**
+* **“Attribute an action taken within this app to a previously served advertisement”**
+* **“I, YOUR\_NAME, confirm that this app, and any third party…”**
+
+Note, you should _not_ check the box labeled “Serve advertisements within the app”.
+{% endhint %}
+
 ### Troubleshooting
 
 **You do not see your app uploaded to App Store Connect**
