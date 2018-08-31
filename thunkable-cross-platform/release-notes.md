@@ -1,5 +1,11 @@
 # Release Notes
 
+## Aug 30, 2018
+
+Bug fixes
+
+* Fix SignIn method of Sign In component to populate outputs userId & isEmailVerified
+
 ## Aug 29, 2018
 
 Bug fixes
