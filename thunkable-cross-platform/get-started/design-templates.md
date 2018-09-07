@@ -46,5 +46,11 @@ A Branding screen can be made setting a Timer to fire after `3000` milliseconds 
 
 ![](../../.gitbook/assets/design-branding.gif)
 
+### Sign In screen
 
+A sign in screen allows your users to sign into your app. This can be very helpful in creating individual profiles and increased security. PLEASE NOTE: You will need to create a Firebase account and link it with your sign in screen for this to work. Click [here](https://docs.thunkable.com/thunkable-cross-platform/create/components/sign-in/sign-in) for a walkthrough.
+
+#### \*\*\*\*[**Click to copy**](https://x.thunkable.com/copy/812bb56485b649ac3094e08182d283d7)\*\*\*\*
+
+![](../../.gitbook/assets/image%20%2811%29.png)
 
