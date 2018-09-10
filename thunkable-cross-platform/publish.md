@@ -1,5 +1,9 @@
 # Publish
 
+* [Minimum requirements](publish.md#minimum-requirements)
+* [Publish to the Play Store](publish.md#publish-to-the-play-store-android) \(Android\)
+* [Publish to the App Store](publish.md#publish-to-the-app-store-ios) \(iOS\)
+
 ## Minimum requirements
 
 Before you get started publishing your app, please checkout the minimum requirements for each store below:
