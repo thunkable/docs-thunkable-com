@@ -4,6 +4,7 @@
 
 Bug fixes
 
+* Fix some Android crashes
 * Easier drag and drop of Button and Image components
 * Fix initial load of app icon
 
