@@ -1,7 +1,7 @@
 # Migrate from Beta
 
 {% hint style="info" %}
-Thunkable has graduated all its beta features to the Thunkable Classic Android platform \([app.thunkable.com](https://app.thunkable.com)\). As a result, the Thunkable beta platform \([beta.thunkable.com](https://beta.thunkable.com)\) is in read-only mode on April 30, 2018 and will be shut down on May 31, 2018. We kindly ask you to please move over all your project\(s\) before then. 
+Thunkable has graduated all its beta features to the Thunkable Classic Android platform. You can download your remaining beta projects from [this site](https://beta-recovery.thunkable.com).
 {% endhint %}
 
 | Importing an unpublished app project | Importing an app published on the Google Play store | If you have apps published on the Google Play store made from both the Thunkable for Android platform AND from Beta |
@@ -12,7 +12,7 @@ Thunkable has graduated all its beta features to the Thunkable Classic Android p
 
 ### Download app project file \(.aia\) from Thunkable for Android \(Beta\)
 
-* Sign into [Thunkable for Android Beta](https://beta.thunkable.com)
+* Sign into [Thunkable for Android Beta](https://beta-recovery.thunkable.com)
 * Select the project you would like to download 
 
 ![](../.gitbook/assets/migrate-fig-1.png)
@@ -88,7 +88,7 @@ WARNING: You can only have one unique keystore per account. If you import your k
 
 ### Export your keystore from Thunkable for Android Beta \(beta.thunkable.com\). Save it in a safe place.
 
-* Sign into [Thunkable for Android Beta](https://beta.thunkable.com)
+* Sign into [Thunkable for Android Beta](https://beta-recovery.thunkable.com)
 
 ### Download app project file \(.aia\) from Thunkable for Android \(Beta\)
 
