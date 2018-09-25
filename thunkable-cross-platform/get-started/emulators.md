@@ -18,7 +18,9 @@ Click the button that says “Download Genymotion Personal Edition” and instal
 
  Use this link: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) . Download and install the package for your specific system. Follow the directions that are prompted.
 
-\*\* There may be an error in installing for Macs. If so, go to System Preferences → Security & Privacy and you should see a message on the screen that says “System software from developer ‘Oracle America inc.’ was blocked from loading.
+**IMPORTANT PLEASE READ:**
+
+**There may be an error in installing for Macs. If so, go to System Preferences → Security & Privacy and you should see a message on the screen that says “System software from developer ‘Oracle America inc.’ was blocked from loading.**
 
 ![Pick the same platform as your machine. ](../../.gitbook/assets/pic-5.png)
 
