@@ -1,7 +1,5 @@
 # Welcome
 
-![](.gitbook/assets/gitbookbeaver.jpg)
-
 ## What is Thunkable?
 
 No longer do you have to speak the language of code to build your own apps. On Thunkable, building your on app is as simple as dragging and dropping your favorite components and connecting them together with blocks.
