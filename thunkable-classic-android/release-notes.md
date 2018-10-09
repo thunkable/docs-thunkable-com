@@ -1,47 +1,53 @@
 # Release Notes
 
-## August 16, 2018
+## Oct 9, 2018
 
-Component updates
+Bug fix
+
+* Activity Starter - bug fix for opening a file
+
+## Aug 16, 2018
+
+Bug fix
 
 * [Floating Action Button](create/components/user-interface/floating-action-button.md) \(FAB\) - bug fix for visibility issue
 
-## August 11, 2018
+## Aug 11, 2018
 
-Component updates
+Bug fixes
 
 * [Camera](create/components/image/camera.md) - bug fix for image path
 
-## August 9, 2018
+## Aug 9, 2018
 
-Component updates
+Bug fixes
 
 * [Floating Action Button](create/components/user-interface/floating-action-button.md) \(FAB\) - bug fix for rotation change issue
 * File/Image URI - bug fix for crash issue in Android 7 and 7+
 * [Sharing](create/components/social/sharing.md) - bug fix for crash issue in Android 7 and 7+
 * [Toggle](https://docs.thunkable.com/thunkable-classic-android/create/components/user-interface/switch-+-toggle) - performance upgrade
 
-## August 7, 2018
+## Aug 7, 2018
 
-Component updates
+Bug fixes
 
 * [Button](create/components/user-interface/button.md) - bug fix for background color issue
 * [App theme](https://docs.thunkable.com/thunkable-classic-android/create/components/screen#app-settings-screen1-only) - bug fix for crash issue
 
-## August 3, 2018
+## Aug 3, 2018
 
 Platform updates
 
 * Thunkable Apps - Target SDK:26; Min SDK :16
 * Themes - adds support for app themes on the [Screen 1 app settings](https://docs.thunkable.com/~/edit/drafts/-LGX_2UWMnCI1e1JCUnP/thunkable-classic-android/create/components/screen#app-settings-screen1-only) properties
 
-## July 10, 2018
+## Jul 10, 2018
 
-Component updates
+Bug fixes
 
 * [Floating Action Button](create/components/user-interface/floating-action-button.md) \(FAB\) - bug fix for rotation issue
 
-## July 3, 2018
+## Jul 3, 2018
 
 Component updates
 
