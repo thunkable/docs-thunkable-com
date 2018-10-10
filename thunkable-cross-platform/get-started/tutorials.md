@@ -1,24 +1,26 @@
+---
+description: Learn how the platform works with a tutorial
+---
+
 # Tutorials
 
-## Overview
+## In-platform tutorials
 
-Thunkable ✕ includes step-by-step beginner tutorials built right in the platform. To view them, simply follow the two steps below. We also have a [beginner video tutorial](https://www.youtube.com/watch?v=YrONgW8udmM&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE) series on YouTube that will walk you through the same tutorials.
+To get you up to speed on how to use the platform, we have built out a collection of tutorials, right in the platform. 
 
-We also have a few intro guides in our docs that may help you with designing your app:
+![](../../.gitbook/assets/thunkable-docs-exhibits-37.png)
 
-* [Intro to Spacing](../create/intro-to-spacing.md)
-* [Intro to Sizing](../create/intro-to-sizing.md)
-* [Design Tips](../create/design-tips.md)
+## Video tutorials
 
-## **Platform tutorials for beginners**
+We also created video tutorials that correspond with the in-platform tutorials above. 
 
-### **Create a new project**
+### [St**art watching**](https://www.youtube.com/playlist?list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE)\*\*\*\*
 
-![You can name your project anything and rename it at any time](../../.gitbook/assets/newproject.gif)
+![](../../.gitbook/assets/thunkable-docs-exhibits-38.png)
 
-### Click on the purple tab on the left to o**pen the tutorial panel**
 
-![We have 5 beginner tutorials with more to come](../../.gitbook/assets/tutorials.gif)
+
+\*\*\*\*
 
 
 

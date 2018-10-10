@@ -50,5 +50,5 @@ Despite the beauty of relative size, there are a few cases where setting element
 
 Since a Scrollable Screen has a height that is greater than the size of the Screen, the height of the elements must be set in `Absolute size`. 
 
-> You can see an [example of a Scrollable Screen](../get-started/design-templates.md#scrollable-screen) in the Design Templates
+> You can see an [example of a Scrollable Screen]() in the Design Templates
 

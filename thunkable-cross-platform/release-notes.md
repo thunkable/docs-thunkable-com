@@ -82,7 +82,7 @@ Bug fixes
 Platform updates
 
 * Renaming components is now supported. Click on the top of the properties panel to edit the component name
-* Each new project can be set to [public or private](create/public-vs-private-projects.md).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](share.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
+* Each new project can be set to [public or private](get-started/public-vs-private-projects.md).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](share.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
 * Sample apps now featured on the project list page
 * Supports iOS usage descriptions for describing to users why certain permissions are needed when they download your app; applies only when you Publish to the iOS App Store
 
@@ -123,9 +123,9 @@ Platform updates
 
 * Significant user interface update including a new Design / Blocks switch, add Components shifted to the left panel and Properties shifted to the right panel
 * Live app now lets you [live preview](live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
-* [Publish for Android](publish.md#publish-to-the-play-store-android) now supported
+* [Publish for Android](publish/#publish-to-the-play-store-android) now supported
 * Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-⑤--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
-* Updated [download](download.md#download-and-install-ios-app) and [publish](publish.md#publish-to-the-app-store-ios) emails for iOS
+* Updated [download](download.md#download-and-install-ios-app) and [publish](publish/#publish-to-the-app-store-ios) emails for iOS
 
 ## April 12, 2018
 
@@ -160,8 +160,8 @@ Platform updates
 
 Platform updates
 
-* [Custom app package name ](create/package-name-+-bundle-id.md)/ bundle ID now supported for both Android and iOS; app icon also supported for Android
-* [Make a copy ](create/make-copy.md)of your project aka checkpoint in one click
+* [Custom app package name ](publish/package-name-+-bundle-id.md)/ bundle ID now supported for both Android and iOS; app icon also supported for Android
+* [Make a copy ](make-copy.md)of your project aka checkpoint in one click
 * Tracking of project [shares](share.md) now available on project page; share links no longer require a user to be logged in
 
 Component updates

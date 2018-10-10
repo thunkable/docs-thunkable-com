@@ -51,7 +51,7 @@ Common issues
   * Your app icon is not an image file
 * Icons. Apple additionally does not allow you to have any icons with any transparent colors. We recommend app icons to be 192 x 192 px
 * Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
-* App Store Connect. Make sure to [follow this step](publish.md#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
+* App Store Connect. Make sure to [follow this step](publish/#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
 * Certificates. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account
 * Provisioning profile. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles
 * Two-factor authentication. You must turn off two-factor authentication for your Apple Developer ID to publish with Thunkable. Please [click here](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations for turning off two-factor authentication 
@@ -81,6 +81,6 @@ No issues reported
 
 **You cannot update an existing app on the Google Play Store**
 
-* If you updating an existing app on the Google Play Store, your app will need to have the i\) [same package name](create/package-name-+-bundle-id.md), ii\) a higher or incremented version number, and the iii\) same keystore. The first two are easily editable in the App Settings page but the keystore is not yet able to be imported / exported. 
-* Copied apps within an account \(using the [Make Copy](create/make-copy.md)\) will keep the same keystore as the original app. Apps that are copied from a [Share copy](share.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same keystore. Apps from the [Thunkable Classic platform](../thunkable-classic-android/) cannot yet be updated since it is not yet possible to import the keystore.  
+* If you updating an existing app on the Google Play Store, your app will need to have the i\) [same package name](publish/package-name-+-bundle-id.md), ii\) a higher or incremented version number, and the iii\) same keystore. The first two are easily editable in the App Settings page but the keystore is not yet able to be imported / exported. 
+* Copied apps within an account \(using the [Make Copy](make-copy.md)\) will keep the same keystore as the original app. Apps that are copied from a [Share copy](share.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same keystore. Apps from the [Thunkable Classic platform](../thunkable-classic-android/) cannot yet be updated since it is not yet possible to import the keystore.  
 

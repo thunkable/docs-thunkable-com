@@ -1,4 +1,4 @@
-# Live Test
+# Preview
 
 Once you have synced your app with your project, every change you make to your project will be reflected in your app. Your app also lets you preview all your app projects from the comfort of your mobile device.
 
@@ -18,7 +18,7 @@ The Thunkable app allows you to live test your app on your phone as you build it
 
 
 {% hint style="info" %}
-If you don't have an iOS or Android device, you can also [set up an emulator](get-started/emulators.md) on your computer that will mimic what you would see on an actual device
+If you don't have an iOS or Android device, you can also [set up an emulator](create/emulators.md) on your computer that will mimic what you would see on an actual device
 {% endhint %}
 
 ## Live Test

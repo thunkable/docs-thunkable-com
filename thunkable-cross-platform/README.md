@@ -1,12 +1,13 @@
 # Thunkable Cross Platform ✕
 
-![](../.gitbook/assets/gitbookplatformimage.png)
+Thunkable ✕ is our flagship platform where users create a single project that works on both Android and iOS devices.
 
-## Introducing Thunkable Cross-Platform ✕
+* **Cross-platform**_._ Every app project works out of the box on both iOS and Android devices. No need to decide which audiences or friends to exclude.
+* **Preview on your own device**. One of the coolest features is the ability to preview your apps as you build them. Not even professional developers have this super power. 
+* **Remix from the world's largest public collection of app projects**. Preview, view and remix from the Public Gallery, a collection of projects powered by the amazing Thunkable community
+* **Access the latest technologies.** Payments by Stripe. Assistant by Dialogflow. Spreadsheet by Airtable. Coming soon, blockchain.
 
-Thunkable Cross-Platform ✕ is the new platform where anyone can build apps on Android or iOS. Users create a single project that works on both Android and iOS devices. 
+Thunkable ✕ is powered by React Native, one of the most popular technologies available to professional app developers today.  
 
-Thunkable ✕ features a revamped app that lets you preview all your projects without using your desktop, easy to create links to share your projects, modern design capabilities like Tab and Drawer navigators and integrations with some of the hottest technologies today like Assistant by Dialogflow, Payments by Stripe and Spreadsheet by Airtable.
 
-Thunkable ✕ is powered by React Native, one of the most popular technologies available to app developers today.  
 

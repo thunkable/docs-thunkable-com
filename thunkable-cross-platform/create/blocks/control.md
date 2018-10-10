@@ -24,7 +24,7 @@ You can prompt a user to open a page within an app installed on their phone or a
 
 Thanks to the development of universal links for iOS and Android app links, you simply need to enter the url of the webpage for your app to automatically open to the app if it's installed or open the web browser if it is not. 
 
-You can see this block featured in the sample app, [New Market Goods](../../get-started/sample-apps.md#new-market-goods).
+You can see this block featured in the sample app, [New Market Goods]().
 
 
 

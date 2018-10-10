@@ -1,8 +1,8 @@
 # Publish
 
-* [Minimum requirements](publish.md#minimum-requirements)
-* [Publish to the Play Store](publish.md#publish-to-the-play-store-android) \(Android\)
-* [Publish to the App Store](publish.md#publish-to-the-app-store-ios) \(iOS\)
+* [Minimum requirements](./#minimum-requirements)
+* [Publish to the Play Store](./#publish-to-the-play-store-android) \(Android\)
+* [Publish to the App Store](./#publish-to-the-app-store-ios) \(iOS\)
 
 ## Minimum requirements
 
@@ -54,15 +54,15 @@ Success on Google Play starts with quality. The best apps and games have higher 
 
 ### Sign up for a [Google Play Developer Account](https://play.google.com/apps/publish/signup/) \(currently one-time fee of $25\)
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-93.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-93.png)
 
 ### Update your App Publish settings on Thunkable
 
 To publish your app on Android, you'll need to add an `app icon`, a `name`, a `package name` and an app `version`. To find the App settings, click on the App Icon on the top left.
 
-![](../.gitbook/assets/ezgif.com-video-to-gif-31%20%281%29.gif)
+![](../../.gitbook/assets/ezgif.com-video-to-gif-31%20%281%29.gif)
 
-For recommendations on your `app icon` and `name`, [please see this guide](create/app-icon-+-name.md).
+For recommendations on your `app icon` and `name`, [please see this guide](../create/app-icon-+-name.md).
 
 Each Android app that is published to the Play Store has a unique `package name`. Currently, you can enter this in the App \(Bundle\) ID field. 
 
@@ -72,25 +72,25 @@ If you are only publishing to the Play Store, you do not need to enter a Team ID
 
 Before you download your app, make sure you set the appropriate Build and Version Number. Google Play requires each new version of your app to have a unique and sequentially higher Build and Version Number. You can also let Thunkable auto-increment \(or automatically increase\) the build and version numbers for you.
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-94.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-94.png)
 
 ### Download your Android app on Thunkable
 
 Select Download Android App and an .apk file will be generated on your desktop
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-95.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-95.png)
 
 ### Create a new app on the Google Play Developer Console
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-98.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-98.png)
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-99.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-99.png)
 
 Next, create a new release. This is where you'll upload the latest version of your app \(.apk\)
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-96%20%281%29.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-96%20%281%29.png)
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-97.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-97.png)
 
 {% hint style="info" %}
 Enable Google Play App signing. This is an optional program but we recommend it for most use cases.
@@ -98,7 +98,7 @@ Enable Google Play App signing. This is an optional program but we recommend it 
 
 Drag and drop your app \(.apk\) to the console
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-100%20%281%29.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-100%20%281%29.png)
 
 ### Update your Play store listing
 
@@ -106,15 +106,15 @@ To complete your Play Store listing, you will have to fill out a content rating 
 
 ![](blob:https://docs.thunkable.com/fb130b9d-e9ee-4ef9-86d8-e265361e07b2)
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-94%20%281%29.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-94%20%281%29.png)
 
-![](../.gitbook/assets/thunkable-background-image-1080-x-1920-px-11.png)
+![](../../.gitbook/assets/thunkable-background-image-1080-x-1920-px-11.png)
 
-![App screenshots](../.gitbook/assets/thunkable-background-image-1080-x-1920-px-12%20%281%29.png)
+![App screenshots](../../.gitbook/assets/thunkable-background-image-1080-x-1920-px-12%20%281%29.png)
 
-![High resolution app icon \(512 x 512 px\)](../.gitbook/assets/d-icon-dark.png)
+![High resolution app icon \(512 x 512 px\)](../../.gitbook/assets/d-icon-dark.png)
 
-![Feature Graphic \(1024 x 500 px\)](../.gitbook/assets/webp.net-resizeimage-11.png)
+![Feature Graphic \(1024 x 500 px\)](../../.gitbook/assets/webp.net-resizeimage-11.png)
 
 ### Add a privacy policy
 
@@ -128,8 +128,8 @@ Apps that request access to sensitive permissions or data \(as defined in the [u
 
 **You cannot update an existing app on the Google Play Store**
 
-* If you updating an existing app on the Google Play Store, your app will need to have the i\) [same package name](create/package-name-+-bundle-id.md), ii\) a higher or incremented version number, and the iii\) same keystore. The first two are easily editable in the App Settings page but the keystore is not yet able to be imported / exported. 
-* Copied apps within an account \(using the [Make Copy](create/make-copy.md)\) will keep the same keystore as the original app. Apps that are copied from a [Share copy](share.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same keystore. Apps from the [Thunkable Classic platform](../thunkable-classic-android/) cannot yet be updated since it is not yet possible to import the keystore.  
+* If you updating an existing app on the Google Play Store, your app will need to have the i\) [same package name](package-name-+-bundle-id.md), ii\) a higher or incremented version number, and the iii\) same keystore. The first two are easily editable in the App Settings page but the keystore is not yet able to be imported / exported. 
+* Copied apps within an account \(using the [Make Copy](../make-copy.md)\) will keep the same keystore as the original app. Apps that are copied from a [Share copy](../share.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same keystore. Apps from the [Thunkable Classic platform](../../thunkable-classic-android/) cannot yet be updated since it is not yet possible to import the keystore.  
 
 ## Publish to the App Store \(iOS\)
 
@@ -151,27 +151,27 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 ### Enroll in the [Apple Developer Program](https://developer.apple.com/programs/) \(currently $99/year\)
 
-![](../.gitbook/assets/publish-ios-fig-1%20%281%29.png)
+![](../../.gitbook/assets/publish-ios-fig-1%20%281%29.png)
 
 ### [Register an App ID](https://developer.apple.com/account/ios/identifier/bundle/create) in your Apple Developer account
 
 Apple will automatically generate a `Team ID` . . .
 
-![](../.gitbook/assets/publish-ios-fig-1.png)
+![](../../.gitbook/assets/publish-ios-fig-1.png)
 
 and you will create a `Bundle ID`
 
-![](../.gitbook/assets/publish-ios-fig-2.png)
+![](../../.gitbook/assets/publish-ios-fig-2.png)
 
 ### [Create a new app](https://itunesconnect.apple.com/) in App Store Connect
 
 App Store Connect is your portal for managing your submission to the App Store
 
-![](../.gitbook/assets/publish-ios-fig-6.png)
+![](../../.gitbook/assets/publish-ios-fig-6.png)
 
 You will need to link the `Bundle ID` you created earlier
 
-![](../.gitbook/assets/publish-ios-fig-3.png)
+![](../../.gitbook/assets/publish-ios-fig-3.png)
 
 ### Update your App Publish settings on Thunkable
 
@@ -179,7 +179,7 @@ To find the App settings, click on the App Icon on the top left.
 
 **IMPORTANT Make sure your icon does not have any transparency in it otherwise Apple will not be able to accept it.** For more recommendations on App Name and Icons, please [visit this page](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/x/create/app-icon-+-name.md)
 
-![](../.gitbook/assets/publish.png)
+![](../../.gitbook/assets/publish.png)
 
 
 
@@ -187,11 +187,11 @@ To find the App settings, click on the App Icon on the top left.
 
 Before you send your app to App Store Connect, make sure you set the appropriate Build and Version Number. Apple requires each new version of your app to have a unique and sequentially higher Build and Version Number. You can also let Thunkable auto-increment \(or automatically increase\) the build and version numbers for you.
 
-![](../.gitbook/assets/version.png)
+![](../../.gitbook/assets/version.png)
 
 To send your app to App Store Connect, you'll simply select Publish to App Store and enter your Apple developer login credentials
 
-![](../.gitbook/assets/publishsent.gif)
+![](../../.gitbook/assets/publishsent.gif)
 
 #### Wait \(up to an hour\)
 
@@ -203,15 +203,15 @@ If your app has been successfully uploaded, you will receive an email from App S
 
 Your latest build will appear under the Testflight tab in your App Store Connect dashboard. Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store. You can use the tool to share your app with others.
 
-![](../.gitbook/assets/publish-ios-fig-7.png)
+![](../../.gitbook/assets/publish-ios-fig-7.png)
 
 You may need to answer a question about export compliance. You can select 'no' when asked if you app uses encryption since apps made on Thunkable for iOS do not at the moment.
 
-![](../.gitbook/assets/publish-ios-fig-8.png)
+![](../../.gitbook/assets/publish-ios-fig-8.png)
 
 Your app is now ready for internal testing to be downloaded by you and others and ready to submit to the App Store. We recommend you test your app via Testflight before you submit your app for review to the App Store.
 
-![](../.gitbook/assets/publish-ios-fig-11.png)
+![](../../.gitbook/assets/publish-ios-fig-11.png)
 
 {% hint style="info" %}
 After submitting your app for review, you may asked, **"Does this app use the Advertising Identifier \(IDFA\)?"** 
@@ -234,7 +234,7 @@ Note, you should _not_ check the box labeled “Serve advertisements within the 
   * Your app icon is not an image file
 * Icons. Apple additionally does not allow you to have any icons with any transparent colors. We recommend app icons to be 192 x 192 px
 * Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
-* App Store Connect. Make sure to [follow this step](publish.md#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
+* App Store Connect. Make sure to [follow this step](./#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect
 * Certificates. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account
 * Provisioning profile. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles
 * Two-factor authentication. You must turn off two-factor authentication for your Apple Developer ID to publish with Thunkable. Please [click here](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations for turning off two-factor authentication 
@@ -247,11 +247,11 @@ There are 3 main sections to fill out.
 
 The first section is **App Information** which is pretty straightforward.
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-72.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-72.png)
 
 The second section is **Pricing and Availability**. Also, very straightforward although there may be some strategy involved if you want to slowly release your app to different app stores \(New Zealand is a popular first country to launch in\).
 
-![](../.gitbook/assets/publish-ios-fig-13.png)
+![](../../.gitbook/assets/publish-ios-fig-13.png)
 
 The final section contains the design assets \(**Screenshots, App Icon**\) which you will need to have ready.
 
@@ -263,13 +263,13 @@ For the App Store, iOS requires you to submit an additional app icon with no tra
 By default, Thunkable submits your app to be available for both iPhone and iPad so you'll have to submit screenshots for both iPhone and iPad. **** For generating screenshots, we recommend a tool [like this](https://shotbot.io/?utm_source=makeappicon&utm_medium=web&utm_campaign=makeappicon)
 {% endhint %}
 
-![](../.gitbook/assets/publish-ios-fig-14.png)
+![](../../.gitbook/assets/publish-ios-fig-14.png)
 
 You'll also need to select the build version that you want to submit.
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-73.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-73.png)
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-74.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-74.png)
 
 #### Congrats! You are now ready to submit to the App Store.
 
