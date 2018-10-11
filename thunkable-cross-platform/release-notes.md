@@ -12,6 +12,8 @@ All new apps will be public by default and included in the Public Gallery.
 Creators who want to keep their project private can [upgrade to Thunkable PRO](https://thunkable.com/#/pricing).
 {% endhint %}
 
+* Variables can now be of type 'app', stored' and 'cloud'.  Existing uses of variables will continue to work as they did before this change.
+
 ## Sep 13, 2018
 
 Bug fixes
