@@ -1,7 +1,3 @@
----
-description: Learn how the platform works with a tutorial
----
-
 # Tutorials
 
 ## In-platform tutorials

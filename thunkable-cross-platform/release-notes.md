@@ -12,7 +12,7 @@ All new apps will be public by default and included in the Public Gallery.
 Creators who want to keep their project private can [upgrade to Thunkable PRO](https://thunkable.com/#/pricing).
 {% endhint %}
 
-* Variables can now be of type 'app', stored' and 'cloud'.  Existing uses of variables will continue to work as they did before this change.
+* [Variables](create/blocks/variables.md) can now be of type 'app', stored' and 'cloud'.  Existing uses of variables will continue to work as they did before this change.
 
 ## Sep 13, 2018
 
@@ -49,7 +49,7 @@ Users will be prompted to give permission to allow the use of certain components
   * Heights of visible elements set to 'fit contents' may need to be updated to 'relative size' or another option
   * [Scrollable columns](create/components/layout/column.md#enable-scrolling) - height will need to be set to 'fit contents'
 
-Bug fixes 
+Bug fixes
 
 * Android app no longer crashes when [open link](create/blocks/control.md#open-an-installed-app-or-website-by-link) block is triggered
 * Downloaded and published iOS apps no longer shows editable blocks

@@ -1,7 +1,3 @@
----
-description: See what others have built on the Public Gallery
----
-
 # Public Gallery
 
 ### Preview any public project with your Thunkable mobile app
