@@ -18,18 +18,18 @@ A **stored** variable also works across screens but is saved to the mobile devic
 
 A **cloud** variable also works across screens but is saved to the cloud powered by Firebase. By default, the cloud variable is saved to the Thunkable default Firebase database but you can save them to your own private Firebase database by [following the instructions here](../components/data/realtime-db.md#create-your-free-firebase-project-and-account). Cloud variables can be used similar to saving and retrieving values to a [Realtime DB](../components/data/realtime-db.md) powered by Firebase and can be used in a number of applications that share data across users in the cloud.
 
-## Create and set a variable when the Screen starts
+## Initialize a variable when the app starts
 
 ![](../../../.gitbook/assets/screen-shot-2018-10-11-at-1.29.35-pm.png)
 
   
-To create a variable when the Screen starts, you can grab the block above, select your variable `type` and give the variable a `name` like hello. You'll have to connect a block to it to give it an initial value like blank \(in the picture above\).
+To create a variable when the app starts, you can grab the block above, select your variable `scope` \(app, stored, cloud\) and give the variable a `name` like hello. You'll have to connect a block to give app variables an initial value \(in the picture above\).
 
-## Create and set a variable during an app event
+## Set a variable during an app event
 
 ![](../../../.gitbook/assets/screen-shot-2018-10-11-at-1.30.53-pm.png)
 
-You can also create and set a variable within a Block event like the one above. Simply grab the set variable block and connect it to the value that you want it to be set to.
+You can also set a variable within a block event like the one above. Simply grab the set variable block and connect it to the value that you want it to be set to.
 
 ## Retrieving a variable
 
