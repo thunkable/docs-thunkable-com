@@ -7,6 +7,7 @@
     * [Tutorials](thunkable-cross-platform/get-started/tutorials.md)
     * [Public Gallery](thunkable-cross-platform/get-started/untitled.md)
     * [Public & Private Projects](thunkable-cross-platform/get-started/public-vs-private-projects.md)
+    * [Sample Apps](thunkable-cross-platform/get-started/sample-apps.md)
   * [Create](thunkable-cross-platform/create/README.md)
     * [Login Issues](thunkable-cross-platform/create/login-issues.md)
     * [App Icon + Name](thunkable-cross-platform/create/app-icon-+-name.md)

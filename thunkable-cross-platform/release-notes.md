@@ -1,5 +1,17 @@
 # Release Notes
 
+## Oct 10, 2018
+
+Platform updates
+
+{% hint style="success" %}
+Thunkable has launched the [Public Gallery](get-started/untitled.md), a public collection apps for anyone to preview, download or remix.
+
+All new apps will be public by default and included in the Public Gallery.
+
+Creators who want to keep their project private can [upgrade to Thunkable PRO](https://thunkable.com/#/pricing).
+{% endhint %}
+
 ## Sep 13, 2018
 
 Bug fixes
