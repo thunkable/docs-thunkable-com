@@ -1,7 +1,10 @@
 # Local Storage
 
-* [Save data](local-storage.md#save-data)
-* [Get data](local-storage.md#get-data)
+This storage option is useful for saving simple info on the device, especially helpful for remembering user's setting from a previous session.
+
+{% hint style="info" %}
+You can now use [stored variables](../../blocks/variables.md#app-stored-and-cloud-variables) instead of adding a Local Storage component. This will work the same way in the background but will save you a lot of blocks.
+{% endhint %}
 
 ## Save data
 

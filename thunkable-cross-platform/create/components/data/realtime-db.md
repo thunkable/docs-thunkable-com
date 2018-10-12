@@ -1,12 +1,14 @@
 # Realtime DB
 
-This storage option is useful for anything from saving game high scores to tracking social credit.
+This storage option is useful for anything from saving game high scores to tracking work credit, powered by Firebase.
 
 {% hint style="info" %}
-We highly recommend you use your own Firebase account with your app
+You can now use [cloud variables](../../blocks/variables.md#app-stored-and-cloud-variables) instead of adding a Realtime DB component. This will work the same way in the background but will save you a lot of blocks.
 {% endhint %}
 
-With the increased focus on user privacy, we strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself. We provide our database for your convenience but we may also clean out our shared account periodically
+{% hint style="danger" %}
+We highly recommend you use your own Firebase account with your app. With the increased focus on user privacy, we strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself. We provide our database for your convenience but we may also clean out our shared account periodically
+{% endhint %}
 
 * [Set up](realtime-db.md#set-up)
 * [Save data](realtime-db.md#save-data)
