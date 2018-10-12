@@ -69,9 +69,9 @@ How well do you know your flags?
 
 Aloha is a private anonymous chat app with a short chat history powered by a [Firebase Realtime Database](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/realtime-db). To [keep your data as private as possible](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/app-data-privacy#create-your-own-private-repository-of-cloud-data), we recommend creating your own Firebase account and add your own API keys.
 
-#### ​[Click to remix](https://x.thunkable.com/copy/83c107c405fc306e698a968393e1c92c?utm_source=Docs%20Aloha)​ {#click-to-remix-2}
+#### ​[Click to remix​](https://x.thunkable.com/copy/a65a5be1e59eea64b78e7eaabd3cf866?utm_source=Docs%20Aloha) {#click-to-remix-2}
 
-![](../../.gitbook/assets/thunkable-docs-exhibits-45.png)
+![](../../.gitbook/assets/thunkable-docs-exhibits-48.png)
 
 Forget trusting big companies to comply with GDPR; this is a scary simple way to set up private chat where you own and control your chat history
 
@@ -93,13 +93,13 @@ Personal Feed is an easy to edit feed of your favorite websites, powered by a si
 
 ### Work Credit {#social-credit}
 
-Work Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). The app also features some basic error handling and a for loop block.
+Work Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). 
 
-#### ​[Click to remix​](https://x.thunkable.com/copy/bb69917cd7e1491e913b221c8e0ad2f0?utm_source=Docs%20Work%20Credit) {#click-to-remix-4}
+#### ​[Click to remix](https://x.thunkable.com/copy/19f21e06e130839ae24b7c9400041776?utm_source=Docs%20Work%20Credit)​ {#click-to-remix-4}
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-46.png)
 
-Social Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)
+Work Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)
 
 ### Translator {#translator}
 
