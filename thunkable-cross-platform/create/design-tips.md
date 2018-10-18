@@ -326,9 +326,5 @@ The available font choices differ depending on whether you are developing for [A
 
 
 
-## Colors
 
-### RGBa
-
-### Hexadecimal
 
