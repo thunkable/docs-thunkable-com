@@ -8,7 +8,7 @@
 |  | ![](../../../../.gitbook/assets/datepicker.png) | ![](../../../../.gitbook/assets/timepicker.png) |
 | Common use case | Selecting day | Selecting time |
 
-### DatePicker ![](../../../../.gitbook/assets/datepicker-icon%20%282%29.png) {#datepicker}
+### DatePicker ![](../../../../.gitbook/assets/datepicker-icon%20%282%29.png) <a id="datepicker"></a>
 
 #### **Appearance**
 
@@ -48,7 +48,7 @@ There are two elements to a DatePicker, a button that opens the DatePicker and t
 | Month | Month selected by user \(1-12\) |
 | Year | Year selected by user |
 
-### TimePicker ![](../../../../.gitbook/assets/timepicker-icon%20%281%29.png) {#timepicker}
+### TimePicker ![](../../../../.gitbook/assets/timepicker-icon%20%281%29.png) <a id="timepicker"></a>
 
 #### **Appearance**
 

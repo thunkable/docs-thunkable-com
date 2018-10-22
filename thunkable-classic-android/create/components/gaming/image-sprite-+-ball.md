@@ -32,7 +32,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Rotates | If checked, the sprite image rotates to match the sprite's heading. If unchecked, the sprite image does not rotate when the sprite changes heading. The sprite rotates around its center point. |
 | Visible | If checked, the image sprite will be visible on the scree |
 
-### Positioning the Sprite![](../../../../.gitbook/assets/sprite-fig-2.png) {#position-sprite}
+### Positioning the Sprite![](../../../../.gitbook/assets/sprite-fig-2.png) <a id="position-sprite"></a>
 
 | Property | Description |
 | :--- | :--- |
@@ -40,7 +40,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Y | In pixels from top. The vertical coordinate of the top edge of the sprite, increasing as the sprite moves down |
 | Z | Integers with higher numbers layered on top. How the sprite should be layered relative to other sprites, with higher-numbered layers in front of lower-numbered layers |
 
-### Setting a Sprite in motion![](../../../../.gitbook/assets/sprite-fig-3.png) {#sprite-motion}
+### Setting a Sprite in motion![](../../../../.gitbook/assets/sprite-fig-3.png) <a id="sprite-motion"></a>
 
 ### **Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds**
 
@@ -55,7 +55,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Point Towards \(target\) | Turns the sprite to point towards a designated target sprite. The new heading will be parallel to the line joining the centerpoints of the two sprites |
 | Enabled | If checked, sprite will move when its speed is non-zero |
 
-### Moving a Sprite with touch![](../../../../.gitbook/assets/sprite-fig-1.png) {#touch-sprite}
+### Moving a Sprite with touch![](../../../../.gitbook/assets/sprite-fig-1.png) <a id="touch-sprite"></a>
 
 ### Moving an Image Sprite horizontally when dragged
 
@@ -70,7 +70,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Flung \(x, y, speed, heading, xvel, yvel\) | When a fling gesture \(quick swipe\) is made on the sprite: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector. |
 | Move To \(x, y\) | Moves the sprite so that its left top corner is at the specfied x and y coordinates. |
 
-### Bouncing Sprites![](../../../../.gitbook/assets/sprite-fig-4.png) {#bouncing-sprite}
+### Bouncing Sprites![](../../../../.gitbook/assets/sprite-fig-4.png) <a id="bouncing-sprite"></a>
 
 ### Keep bouncing unless the ball hits the bottom edge \(Game Over\)
 
@@ -82,7 +82,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Bounce \(edge\) | Makes this sprite bounce, as if off a wall. For normal bouncing, the edge argument should be the one returned by EdgeReached |
 | Move Into Bounds | Moves the sprite back in bounds if part of it extends out of bounds, having no effect otherwise. If the sprite is too wide to fit on the canvas, this aligns the left side of the sprite with the left side of the canvas. If the sprite is too tall to fit on the canvas, this aligns the top side of the sprite with the top side of the canvas |
 
-### Sprite Collisions {#sprite-collisions}
+### Sprite Collisions <a id="sprite-collisions"></a>
 
 | Event | Description |
 | :--- | :--- |

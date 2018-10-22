@@ -8,7 +8,7 @@
 |  | ![](../../../../.gitbook/assets/listpicker-example.png) | ![](../../../../.gitbook/assets/listview-example.png) | ![](../../../../.gitbook/assets/spinner-example.png) | ![](../../../../.gitbook/assets/checkbox-example.png) |
 | Common use case | Drop down menus with a **medium number** of elements users can select by scrolling or searching. **Opens in a new screen** | Drop down menus with a **medium number** of elements users can select by searching in the current screen | Drop down menus with a **small number** of elements \(up to 5\) where user options show next to filter in the current screen | Selections of a **single element or multiple elements** in a small list in the current screen |
 
-### ListPicker ![](../../../../.gitbook/assets/listpicker-icon%20%282%29.png) {#listpicker}
+### ListPicker ![](../../../../.gitbook/assets/listpicker-icon%20%282%29.png) <a id="listpicker"></a>
 
 The Listpicker is a popular choice for drop down menus with more than 5 choices since the list itself opens in a new screen. A searchable filter bar is also available to make selection in long lists even easier for users.
 
@@ -52,7 +52,7 @@ There are two elements to a ListPicker, a button that opens the ListPicker and t
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
 | Visible | If checked, the button will be visible on the screen |
 
-### ListView ![](../../../../.gitbook/assets/listview-icon.png) {#listview}
+### ListView ![](../../../../.gitbook/assets/listview-icon.png) <a id="listview"></a>
 
 The ListView is a less customizable but also simpler drop down menu that can be displayed on the user's current screen
 
@@ -77,7 +77,7 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 | Text Color | Text color of the list. Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Visible | If checked, the Listpicker button will be visible on the screen |
 
-### Spinner ![](../../../../.gitbook/assets/spinner-icon.png) {#spinner}
+### Spinner ![](../../../../.gitbook/assets/spinner-icon.png) <a id="spinner"></a>
 
 The Spinner is a great drop down menu option for shorter lists
 
@@ -105,7 +105,7 @@ The Spinner is a great drop down menu option for shorter lists
 | Prompt | Text to display for the Spinner window |
 | Visible | If checked, the Listpicker button will be visible on the screen |
 
-### CheckBox ![](../../../../.gitbook/assets/checkbox-icon%20%281%29.png) {#checkbox}
+### CheckBox ![](../../../../.gitbook/assets/checkbox-icon%20%281%29.png) <a id="checkbox"></a>
 
 The CheckBox is the simplest of menus because it has a single element that can be selected \(or unselected\)
 

@@ -30,7 +30,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Font Typeface | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
 | Visible | If checked, the Canvas will be visible on the screen |
 
-### Draw Dots![](../../../../.gitbook/assets/canvas-fig-1.png)Add a circle with each touch of the Canvas {#draw-dots}
+### Draw Dots![](../../../../.gitbook/assets/canvas-fig-1.png)Add a circle with each touch of the Canvas <a id="draw-dots"></a>
 
 ![](../../../../.gitbook/assets/canvas-blocks-1.png)
 
@@ -45,7 +45,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Save As \(fileName\) | Saves a picture of this Canvas to the device's external storage in the file named fileName. fileName must end with one of .jpg, .jpeg, or .png |
 | Clear | Clears the canvas of anything drawn |
 
-### Draw Lines![](../../../../.gitbook/assets/canvas-fig-2.png)Draw a line of width 5 on the Canvas {#draw-lines}
+### Draw Lines![](../../../../.gitbook/assets/canvas-fig-2.png)Draw a line of width 5 on the Canvas <a id="draw-lines"></a>
 
 ![](../../../../.gitbook/assets/canvas-blocks-2.png)
 
@@ -58,7 +58,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Save As \(fileName\) | Saves a picture of this Canvas to the device's external storage in the file named fileName. fileName must end with one of .jpg, .jpeg, or .png |
 | Clear | Clears the canvas of anything drawn |
 
-### Draw Text![](../../../../.gitbook/assets/canvas-fig-3.png)Add text "developer of the future" angled at 30 degrees with each touch of the canvas {#draw-text}
+### Draw Text![](../../../../.gitbook/assets/canvas-fig-3.png)Add text "developer of the future" angled at 30 degrees with each touch of the canvas <a id="draw-text"></a>
 
 ![](../../../../.gitbook/assets/canvas-blocks-3.png)
 
@@ -73,7 +73,7 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | SaveAs \(fileName\) | Saves a picture of this Canvas to the device's external storage in the file named fileName. fileName must end with one of .jpg, .jpeg, or .png |
 | Clear | Clears the canvas of anything drawn |
 
-### Interacting with Balls or Image Sprites![](../../../../.gitbook/assets/canvas-fig-4.png)Move a ball right and down 30 pixels every time it is touched {#interact-sprites}
+### Interacting with Balls or Image Sprites![](../../../../.gitbook/assets/canvas-fig-4.png)Move a ball right and down 30 pixels every time it is touched <a id="interact-sprites"></a>
 
 ![](../../../../.gitbook/assets/canvas-blocks-4.png)
 
@@ -83,13 +83,13 @@ The sample app [Inside 2016: Latest Trends in India](https://www.gitbook.com/boo
 | Flung \(x, y, speed, heading, xvel, yvel, flungSprite\) | When a fling gesture \(quick swipe\) is made on the canvas: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector. The value "flungSprite" is true if a sprite was located near the the starting point of the fling gesture |
 | Dragged \(startX, startY, prevX, prevY, currentX, currentY, draggedSprite\) | When the user does a drag from one point \(prevX, prevY\) to another \(x, y\). The pair \(startX, startY\) indicates where the user first touched the screen, and "draggedSprite" indicates whether a sprite is being dragged |
 
-### Easy Pong App with pinch to scale {#easy-pong}
+### Easy Pong App with pinch to scale <a id="easy-pong"></a>
 
 ![](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/assets/pingpong.gif)
 
 [Download source code here](https://goo.gl/LQs4su)
 
-### Pinch to Scale![](../../../../.gitbook/assets/pinch-to-scale-fig-1.png) {#pinch-scale}
+### Pinch to Scale![](../../../../.gitbook/assets/pinch-to-scale-fig-1.png) <a id="pinch-scale"></a>
 
 ### Scale a ball up or down by pinching on the Canvas
 

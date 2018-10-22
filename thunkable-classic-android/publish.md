@@ -29,7 +29,7 @@ Every app you publish must have a`VersionCode`and a`VersionName`. You can set th
 
 You will need to increase the`VersionCode`and change the`VersionName`of your application when you upload a new version to the Play Store.
 
-### 3 / Download app \(.apk\) to your computer {#exporting-your-keystore-from-mit-app-inventor}
+### 3 / Download app \(.apk\) to your computer <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 Package the app \(.apk file\) by going to the "Export" menu on the Thunkable toolbar
 

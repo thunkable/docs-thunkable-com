@@ -1,5 +1,11 @@
 # Release Notes
 
+## Oct 22, 2018
+
+Platform updates
+
+* [Thunkable PRO users](https://thunkable.com/#/pricing) can now remove the Thunkable logo from the initial screen of all downloaded and published apps. Thunkable will automatically replace that logo with the app icon that they upload. We will be introducing additional customization options in the future.
+
 ## Oct 10, 2018
 
 Platform updates

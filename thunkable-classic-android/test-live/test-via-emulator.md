@@ -4,12 +4,12 @@
 
 Here are the steps involved in installing and using Genymotion
 
-### Install Genymotion and creating an Android Virtual Device \(AVD\) {#step-1-installing-genymotion-and-creating-an-android-virtual-device-avd}
+### Install Genymotion and creating an Android Virtual Device \(AVD\) <a id="step-1-installing-genymotion-and-creating-an-android-virtual-device-avd"></a>
 
 1. Click [here](https://www.genymotion.com/account/create/) to create a Genymotion user account.
 2. Download Genymotion's [user guide](https://docs.genymotion.com/Content/Home.htm) \(under the\_PDF Guides\_section\) and follow the\_Installation\_section. Then scroll down to the Virtual Devices section to set up an Android Virtual Device \(AVD\) \(You need not worry about other pages\).
 
-### Deploy an APK file into an AVD {#step-2-deploying-an-apk-file-into-an-avd}
+### Deploy an APK file into an AVD <a id="step-2-deploying-an-apk-file-into-an-avd"></a>
 
 Once Genymotion is installed, you can use it to run packages apps \(APK files\), including apps that you have built and packaged with Thunkable. Here is an example:
 
@@ -25,7 +25,7 @@ Once Genymotion is installed, you can use it to run packages apps \(APK files\),
 
    ![](https://thunkable.com/explore/img/emulator/genymotion-with-apk.png)
 
-### Connect Genymotion to Thunkable through the Thunkable App {#step-3-connecting-genymotion-to-thunkable-through-the-thunkable-app}
+### Connect Genymotion to Thunkable through the Thunkable App <a id="step-3-connecting-genymotion-to-thunkable-through-the-thunkable-app"></a>
 
 You can also use Genymotion in live development in Thunkable. In order to do that, the computer you are using and the Genymotion emulator must be within the same subnet in the network. In the default setting, the Genymotion emulator and the computer are on different subnets. However, you can change the default settings to get them on the same subnet by doing the following:
 

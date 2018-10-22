@@ -7,7 +7,7 @@
 |  | ![](../../../../.gitbook/assets/button.png) | ![](../../../../.gitbook/assets/button-material-icon.png) |
 | Common use case | Start an event | Navigation or settings |
 
-### ![](../../../../.gitbook/assets/pro-tip-icon.png) Pro-tip: Buttons and Icon Fonts {#button-pro-tip}
+### ![](../../../../.gitbook/assets/pro-tip-icon.png) Pro-tip: Buttons and Icon Fonts <a id="button-pro-tip"></a>
 
 One of the most common customizations of buttons is to add an image to them but this can both take time to generate and also take up valuable space in your app. One way to avoid this is to use one of the many icon fonts available to substitute a custom font for images.
 

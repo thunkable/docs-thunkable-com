@@ -1,8 +1,8 @@
 # Barcode Scanner
 
-###  ![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/barcode-scanner-icon.png)  {#thunkable-for-android-❤}
+###  ![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/barcode-scanner-icon.png)  <a id="thunkable-for-android-&#x2764;"></a>
 
-### Read a Barcode or QR Code {#detect-an-objects-proximity-to-phone}
+### Read a Barcode or QR Code <a id="detect-an-objects-proximity-to-phone"></a>
 
 | Event | Description |
 | :--- | :--- |

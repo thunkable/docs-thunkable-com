@@ -10,7 +10,7 @@ If you send it to a friend, they can open it with **Apps \| Upload app project \
 
 ![](https://thunkable.com/explore/img/share/sharing_aias2.png)
 
-### Sharing your app for others to install on their phone/tablet \(.apk file\) {#sharing-your-app-for-others-to-install-on-their-phonetablet-apk-file}
+### Sharing your app for others to install on their phone/tablet \(.apk file\) <a id="sharing-your-app-for-others-to-install-on-their-phonetablet-apk-file"></a>
 
 Package the app \(.apk file\) by going to the "Export" menu on the Thunkable toolbar.
 

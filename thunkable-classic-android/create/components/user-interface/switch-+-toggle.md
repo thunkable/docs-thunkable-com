@@ -9,7 +9,7 @@ Toggles and switches are useful buttons for switching a user between two setting
 | [Switch](switch-+-toggle.md#switch-settings) | ![](../../../../.gitbook/assets/toggle-android-fig-2%20%281%29.png) | ![](../../../../.gitbook/assets/toggle-android-fig-1.png) |
 | [Toggle](switch-+-toggle.md#toggle-settings) | ![](../../../../.gitbook/assets/switch-android-fig-2.png) | ![](../../../../.gitbook/assets/switch-android-fig-1.png) |
 
-### Switch ![](../../../../.gitbook/assets/switch-android-icon.png) {#switch-settings}
+### Switch ![](../../../../.gitbook/assets/switch-android-icon.png) <a id="switch-settings"></a>
 
 #### Setting Up Switch to Change Appearance and Variable Setting When Set On and Off
 
@@ -47,7 +47,7 @@ Toggles and switches are useful buttons for switching a user between two setting
 | Got Focus | User's finger is over the switch, making it possible to click |
 | Lost Focus | User's finger is away from the switch, making it no longer possible to click |
 
-### Toggle ![](../../../../.gitbook/assets/toggle-android-icon.png) {#toggle-settings}
+### Toggle ![](../../../../.gitbook/assets/toggle-android-icon.png) <a id="toggle-settings"></a>
 
 #### Setting Up Toggle to Change Appearance and Variable Setting When Set On and Off
 

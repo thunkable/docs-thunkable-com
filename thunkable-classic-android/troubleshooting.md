@@ -50,7 +50,7 @@ If you cannot see the Tablet previewer:
 
 * Need to set Screen Size to 'Responsive' and check to see preview on Tablet size![](../.gitbook/assets/tablet-screen-fig-1.png)
 
-### Ads not showing up with AdMob ![](../.gitbook/assets/admob-icon.png) {#ads-admob}
+### Ads not showing up with AdMob ![](../.gitbook/assets/admob-icon.png) <a id="ads-admob"></a>
 
 If your ads are not showing up:
 
@@ -60,14 +60,14 @@ If your ads are not showing up:
 * Account has been suspended by AdMob. Clicking ads on your own app can lead to suspensions as can one or more users repeatedly clicking the ads on your app. Accounts can also be suspended for deceptive ad placement that generates accidental clicks
 * [Check the AdMob forum for more potential errors](https://community.thunkable.com/c/professional/admob)
 
-### App crashing with Spreadsheets ![](../.gitbook/assets/spreadsheets-icon.png) {#crash-spreadsheet}
+### App crashing with Spreadsheets ![](../.gitbook/assets/spreadsheets-icon.png) <a id="crash-spreadsheet"></a>
 
 If your app is crashing, then most likely:
 
 * You have not hit 'Sync to Template' every time you refresh your data on the Cloudstitch interface \(see step 3 of [Set up](troubleshooting.md#set-up)\)
 * Spreadsheets does not currently work if your cells contain a “,” or “:” in the cells that are being retrieved. More info on the [current workaround here](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) from Domnhall in our community if you do have them
 
-### Image not appearing  ![](../.gitbook/assets/image-icon.png) {#image-not-showing}
+### Image not appearing  ![](../.gitbook/assets/image-icon.png) <a id="image-not-showing"></a>
 
 If you're images are not showing up in app or in live preview
 
