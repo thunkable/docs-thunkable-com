@@ -1,5 +1,11 @@
 # Release Notes
 
+## Oct 23, 2018
+
+Bug fixes
+
+* Fixes the compatibility issue with the new [variable](../thunkable-classic-android/create/blocks/variables.md), [list](create/blocks/lists.md) and [object](create/blocks/objects.md) blocks
+
 ## Oct 22, 2018
 
 Platform updates

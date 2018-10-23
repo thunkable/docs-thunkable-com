@@ -1,5 +1,11 @@
 # Release Notes
 
+## Oct 23, 2018
+
+Platform improvements
+
+* Height or Width properties of visible components -  you can now enter a value by hitting your return key or you can exit from editing the field by hitting the escape key
+
 ## Oct 9, 2018
 
 Bug fix
