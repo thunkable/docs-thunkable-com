@@ -1,5 +1,19 @@
 # Release Notes
 
+## Coming soon to Thunkable ✕
+
+Platform updates
+
+* Publish to iOS - Supports the ability to publish to iOS with two-factor authentication turned on
+
+Component updates
+
+* Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a top tab bar navigator and a bottom tab bar navigator. Existing tab navigator will continue to be supported but we highly encourage creators to adopt the new tab components which will have more features
+
+Bug fixes
+
+* Live Testing / Preview - Fixes bug that showed previewed projects that were one step behind what was done in the Blocks Editor
+
 ## Oct 23, 2018
 
 Bug fixes
