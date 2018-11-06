@@ -102,7 +102,11 @@ Provisioning profiles are required by Apple to install an app on a device.
 
 #### Go to the [Apple ID account website](https://appleid.apple.com/#!&page=signin)
 
+Apple requires app-specific passwords to sign-in securely from Thunkable.
 
+{% hint style="info" %}
+This section is in process
+{% endhint %}
 
 ## App Store Connect
 
@@ -126,13 +130,21 @@ App Store Connect is your portal for managing your submission to the App Store.
 
 ### Upload an app icon
 
-We recommend an app icon that is 192 px by 192 px. This is
+This app icon appears when a user downloads your app from the App Store. Our recommended size is 192 x 192 px.
 
 ### Set a build and version number
 
+The version number is visible to your users when they download a new version of your app. The build number needs to increase with each version and is only visible to you. You can opt to let Thunkable automatically increment your build and version numbers.
+
 ### Permissions
 
-Apple requires that you explain to users why you may need access to a sensitive component like 
+Apple requires that you explain to users why you may need access to a sensitive services like a camera, photo library and microphone. You can add these explanations in the App Settings panel.
+
+## **Send to App Store Connect**
+
+If your app is submitted successfully, it should appear under the Testflight tab in your App Store Connect dashboard. 
+
+Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store. You can use the tool to share your app with others.
 
 ## Troubleshooting
 
@@ -152,27 +164,13 @@ Apple requires that you explain to users why you may need access to a sensitive 
 
 ## Submit your app for review
 
-**Congrats!** 
-
-Your latest build will appear under the Testflight tab in your App Store Connect dashboard. Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store. You can use the tool to share your app with others.
-
-![](../../.gitbook/assets/publish-ios-fig-7.png)
-
-You may need to answer a question about export compliance. You can select 'no' when asked if you app uses encryption since apps made on Thunkable for iOS do not at the moment.
-
-![](../../.gitbook/assets/publish-ios-fig-8.png)
-
-Your app is now ready for internal testing to be downloaded by you and others and ready to submit to the App Store. We recommend you test your app via Testflight before you submit your app for review to the App Store.
-
-![](../../.gitbook/assets/publish-ios-fig-11.png)
-
 {% hint style="info" %}
-
+You may need to answer a question about **export compliance**. You can select 'no' when asked if you app uses encryption since apps made on Thunkable for iOS do not at the moment.
 {% endhint %}
 
+{% hint style="info" %}
 After submitting your app for review, you may asked, **"Does this app use the Advertising Identifier \(IDFA\)?"** 
 
-{% hint style="info" %}
 The app will still be able to be published but you will want to **check** the following three boxes:
 
 * **Attribute this app installation to a previously served advertisement”**
@@ -182,19 +180,15 @@ The app will still be able to be published but you will want to **check** the fo
 Note, you should _not_ check the box labeled “Serve advertisements within the app”.
 {% endhint %}
 
-## 
-
-There are 3 main sections to fill out.
-
-
-
-The first section is **App Information** which is pretty straightforward.
+### App information
 
 ![](../../.gitbook/assets/thunkable-documentation-exhibits-72.png)
 
-The second section is **Pricing and Availability**. Also, very straightforward although there may be some strategy involved if you want to slowly release your app to different app stores \(New Zealand is a popular first country to launch in\).
+### Pricing and availability
 
 ![](../../.gitbook/assets/publish-ios-fig-13.png)
+
+### Design assets
 
 The final section contains the design assets \(**Screenshots, App Icon**\) which you will need to have ready.
 
@@ -215,4 +209,6 @@ You'll also need to select the build version that you want to submit.
 ![](../../.gitbook/assets/thunkable-documentation-exhibits-74.png)
 
 #### Congrats! You are now ready to submit to the App Store.
+
+![](../../.gitbook/assets/publish-ios-fig-7.png)
 
