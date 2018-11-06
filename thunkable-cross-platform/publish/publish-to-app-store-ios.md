@@ -5,7 +5,7 @@ To publish your app to the App Store, we currently require users to turn off two
 
 Please [**click here**](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations on how to turn off two-factor authentication.
 
-\*We are working on a fix to enable publishing to iOS with two-factor authentication turned on which may take up to several weeks until available.
+\*We are working on a fix to enable publishing to iOS with two-factor authentication turned on.
 {% endhint %}
 
 Publishing your app to the App Store can be a rewarding process. 
