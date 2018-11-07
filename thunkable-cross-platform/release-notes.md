@@ -4,13 +4,17 @@
 
 Platform updates
 
-* Publish to iOS - Supports the ability to publish to iOS with two-factor authentication turned on
+* [Publish to iOS](publish/publish-to-app-store-ios.md) - Supports the ability to publish to iOS with two-factor authentication turned on
+
+New components
+
+* Blockchain powered by Oasis
+
+## Nov 6, 2018
 
 Component updates
 
-* Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a top tab bar navigator and a bottom tab bar navigator. Existing tab navigator will continue to be supported but we highly encourage creators to adopt the new tab components which will have more features
-
-## Nov 5, 2018
+* Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a [Top Tab Navigator](create/components/layout/top-tab-navigator.md) and a [Bottom Tab Navigator](create/components/layout/bottom-tab-navigator.md). The original [Tab Navigator](create/components/layout/tab-navigator.md) will continue to be supported in existing projects but we highly encourage creators to adopt the new tab components which will have more features
 
 Bug fixes
 

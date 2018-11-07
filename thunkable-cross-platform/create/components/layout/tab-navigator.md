@@ -1,7 +1,7 @@
-# Tab Navigator
+# Tab Navigator \(retired\)
 
-{% hint style="warning" %}
-Navigators are the only component that you cannot drag and drop into your phone at the moment. You'll have to drag it left to the tree hierarchy. Make sure that screens are fully contained within your navigator.
+{% hint style="danger" %}
+The original Tab Navigator component is being retired for a separate [Top](top-tab-navigator.md) and [Bottom](bottom-tab-navigator.md) Tab Navigator. Existing projects that have the original Tab Navigator will continue to be supported. 
 {% endhint %}
 
 ![On Android, the tab bar is usually oriented at the top of the screen. On iOS, it is usually on the bottom.](../../../../.gitbook/assets/thunkable-documentation-exhibits-82.png)

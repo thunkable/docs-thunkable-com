@@ -29,6 +29,7 @@ The App Store review is typically more rigorous and consequently more time-inten
           <li>Icon (1024 x 1024 px)</li>
           <li>iPhone and iPad screenshots</li>
         </ul>
+        <p>Privacy policy url for all apps</p>
       </td>
       <td style="text-align:left">
         <p>Design assets</p>

@@ -16,16 +16,6 @@ Success on Google Play starts with quality. The best apps and games have higher 
 
 * Google Play Developer Account \($25 one-time fee\). Don't have an account? [**Sign up here**](https://play.google.com/apps/publish/signup/)\*\*\*\*
 
-There are a few additional requirements for the Play Store submission that do take time to create:
-
-* Design assets
-  * Icon \(512 x 512 px\)
-  * App screenshots
-  * Feature graphic \(1024 x 500 px\)
-* Privacy policy \(for certain apps that require sensitive information e.g. access to phone camera\)
-
-
-
 ## App info
 
 To publish your app on Android, you'll need to add an `app icon`, a `name`, a `package name` and an app `version`. To find the App settings, click on the App Icon on the top left.

@@ -30,12 +30,6 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 * Apple Developer Program membership \($100/year\). Don't have one? [**Sign up here**](https://developer.apple.com/programs/).
 
-There are a few additional requirements for the App Store review that do take time to create:
-
-* Design assets
-  * Icon \(1024 x 1024 px\)
-  * iPhone and iPad screenshots
-
 ## Register your app 
 
 **Go to the** [**Apple Developer website**](https://developer.apple.com/account/ios/identifier/bundle/create) ****\(Certificates, Identifiers and Profiles\)
@@ -55,6 +49,14 @@ You will then create a `Bundle ID` which is unique to your app but not visible t
 Apple recommends reversing your domain name to create your bundle ID i.e. com.{yourdomain}.{appname} to avoid conflicts with other apps.
 
 ## Two-factor authentication
+
+{% hint style="danger" %}
+To publish your app to the App Store, we currently require users to turn off two-factor authentication. [Apple recently made a change](https://support.apple.com/en-ie/HT204915) requiring new users and those that have upgraded to the latest iOS or MacOS to turn on two-factor authentication. If you have two-factor authentication turned on, **you will currently\* not be able to publish to the iOS App Store.**
+
+Please [**click here**](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations on how to turn off two-factor authentication.
+
+\*We are working on a fix to enable publishing to iOS with two-factor authentication turned on.
+{% endhint %}
 
 Two-factor authentication helps to keep your account secure and Apple is making it mandatory for new developers to turn two-factor authentication on. 
 
@@ -104,9 +106,13 @@ Provisioning profiles are required by Apple to install an app on a device.
 
 Apple requires app-specific passwords to sign-in securely from Thunkable.
 
-{% hint style="info" %}
-This section is in process
-{% endhint %}
+![](../../.gitbook/assets/thunkable-docs-exhibits-68.png)
+
+![Select &apos;Generate Password&apos; under the App-Specific Passwords section](../../.gitbook/assets/thunkable-docs-exhibits-69.png)
+
+![](../../.gitbook/assets/thunkable-docs-exhibits-70.png)
+
+![](../../.gitbook/assets/thunkable-docs-exhibits-71.png)
 
 ## App Store Connect
 
@@ -128,6 +134,8 @@ App Store Connect is your portal for managing your submission to the App Store.
 
 ## App info
 
+#### You're almost there.
+
 ### Upload an app icon
 
 This app icon appears when a user downloads your app from the App Store. Our recommended size is 192 x 192 px.
@@ -142,9 +150,11 @@ Apple requires that you explain to users why you may need access to a sensitive 
 
 ## **Send to App Store Connect**
 
-If your app is submitted successfully, it should appear under the Testflight tab in your App Store Connect dashboard. 
+You should receive an email from Apple that says your app is ready in the App Store Connect website. **This may take up to an hour.**
 
-Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store. You can use the tool to share your app with others.
+If your app is submitted successfully, it should appear under the Testflight tab in your App Store Connect dashboard. Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store.
+
+\(If there are any issues, you’ll get an email from us telling you what you’ll need to fix.\)
 
 ## Troubleshooting
 
@@ -160,47 +170,42 @@ Testflight is a tool from Apple that allows you to test your app before it is su
 * Provisioning profile. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles
 * Two-factor authentication. You must turn off two-factor authentication for your Apple Developer ID to publish with Thunkable. Please [click here](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations for turning off two-factor authentication 
 * Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
-* Apple ID an privacy terms. You must accept Apple's new Apple ID and privacy terms.
+* Apple ID and privacy terms. You must accept Apple's new Apple ID and privacy terms.
 
 ## Submit your app for review
 
-{% hint style="info" %}
-You may need to answer a question about **export compliance**. You can select 'no' when asked if you app uses encryption since apps made on Thunkable for iOS do not at the moment.
-{% endhint %}
+Congrats. You're so close.
 
-{% hint style="info" %}
-After submitting your app for review, you may asked, **"Does this app use the Advertising Identifier \(IDFA\)?"** 
+There are three main steps that are required before you can submit your app for review. To complete the steps, you will need:
 
-The app will still be able to be published but you will want to **check** the following three boxes:
-
-* **Attribute this app installation to a previously served advertisement”**
-* **“Attribute an action taken within this app to a previously served advertisement”**
-* **“I, YOUR\_NAME, confirm that this app, and any third party…”**
-
-Note, you should _not_ check the box labeled “Serve advertisements within the app”.
-{% endhint %}
+* Design assets
+  * Icon \(1024 x 1024 px\)
+  * iPhone and iPad screenshots
+* Privacy policy url for all apps
 
 ### App information
 
-![](../../.gitbook/assets/thunkable-documentation-exhibits-72.png)
+The App Information section is straightforward but does include a privacy policy url, which is required for all apps
+
+![](../../.gitbook/assets/thunkable-docs-exhibits-72.png)
+
+
 
 ### Pricing and availability
 
-![](../../.gitbook/assets/publish-ios-fig-13.png)
+![](../../.gitbook/assets/thunkable-docs-exhibits-73.png)
 
 ### Design assets
 
-The final section contains the design assets \(**Screenshots, App Icon**\) which you will need to have ready.
+The final section requires screenshots for both iPhone and iPad and a high resolution icon \(1024 x 1024 px\)
 
 {% hint style="info" %}
-For the App Store, iOS requires you to submit an additional app icon with no transparency at sized at 1024 x 1024 px. To generate this icon, we recommend a tool [like this](https://makeappicon.com/) to generate this icon
+Thunkable automatically submits your app for both iPhone and iPad so you'll have to submit screenshots for both iPhone and iPad. **** There is currently no way to specify the device type. For generating screenshots, we recommend a tool [like this](https://shotbot.io/?utm_source=makeappicon&utm_medium=web&utm_campaign=makeappicon)
+
+The high resolution icon will be featured in the App Store listing and must be 1024 x 1024 px with no transparency. To generate this icon, we recommend a tool [like this](https://makeappicon.com/)
 {% endhint %}
 
-{% hint style="info" %}
-By default, Thunkable submits your app to be available for both iPhone and iPad so you'll have to submit screenshots for both iPhone and iPad. **** For generating screenshots, we recommend a tool [like this](https://shotbot.io/?utm_source=makeappicon&utm_medium=web&utm_campaign=makeappicon)
-{% endhint %}
-
-![](../../.gitbook/assets/publish-ios-fig-14.png)
+![](../../.gitbook/assets/thunkable-docs-exhibits-74.png)
 
 You'll also need to select the build version that you want to submit.
 
@@ -208,7 +213,25 @@ You'll also need to select the build version that you want to submit.
 
 ![](../../.gitbook/assets/thunkable-documentation-exhibits-74.png)
 
-#### Congrats! You are now ready to submit to the App Store.
+### Export compliance
 
-![](../../.gitbook/assets/publish-ios-fig-7.png)
+{% hint style="info" %}
+You may need to answer a question about **export compliance**. You can select 'no' when asked if you app uses encryption since apps made on Thunkable for iOS do not at the moment.
+{% endhint %}
+
+### Advertising identifier
+
+{% hint style="info" %}
+After submitting your app for review, you may asked, "Does this app use the Advertising Identifier \(IDFA\)?" 
+
+The app will still be able to be published but you will want to **check** **the following three boxes**:
+
+* Attribute this app installation to a previously served advertisement”
+* “Attribute an action taken within this app to a previously served advertisement”
+* “I, YOUR\_NAME, confirm that this app, and any third party…”
+
+Note, you should _not_ check the box labeled “Serve advertisements within the app”.
+{% endhint %}
+
+
 
