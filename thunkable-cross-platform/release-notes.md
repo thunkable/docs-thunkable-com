@@ -8,7 +8,7 @@ Platform updates
 
 New components
 
-* Blockchain powered by Oasys
+* Blockchain powered by Oasis Labs
 
 Component updates
 
@@ -18,7 +18,9 @@ Component updates
 
 Bug fixes
 
-* Fixes bug that showed previewed projects that were one step behind what was done in the Blocks Editor
+* Fixes bug where previewed projects were one step behind the Blocks Editor
+* Fixes bug where variables did not work with map methods
+* Fixes bug where variables did not work well as list indexes
 
 ## Oct 23, 2018
 

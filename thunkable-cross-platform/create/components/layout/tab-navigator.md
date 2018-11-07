@@ -1,7 +1,7 @@
-# Tab Navigator \(retired\)
+# Tab Navigator
 
 {% hint style="danger" %}
-The original Tab Navigator component is being retired for a separate [Top](top-tab-navigator.md) and [Bottom](bottom-tab-navigator.md) Tab Navigator. Existing projects that have the original Tab Navigator will continue to be supported. 
+The original Tab Navigator component will be retired for a separate [Top](top-tab-navigator.md) and [Bottom](bottom-tab-navigator.md) Tab Navigator. Existing projects that have the original Tab Navigator will continue to be supported. 
 {% endhint %}
 
 ![On Android, the tab bar is usually oriented at the top of the screen. On iOS, it is usually on the bottom.](../../../../.gitbook/assets/thunkable-documentation-exhibits-82.png)
@@ -36,9 +36,5 @@ To hide the Tab bar, you'll actually have to change a Screen property
 | :--- | :--- |
 | Tab Bar Visible | Default \(`true`\); If `false`, Tab bar will not be visible |
 
-## Adding icons to Tab bar
 
-{% hint style="info" %}
-Currently, it is not yet possible to add icons to your tab bar for iOS. We are working to add this feature soon.
-{% endhint %}
 

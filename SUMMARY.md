@@ -22,7 +22,7 @@
         * [Column](thunkable-cross-platform/create/components/layout/column.md)
         * [Top Tab Navigator](thunkable-cross-platform/create/components/layout/top-tab-navigator.md)
         * [Bottom Tab Navigator](thunkable-cross-platform/create/components/layout/bottom-tab-navigator.md)
-        * [Tab Navigator \(retired\)](thunkable-cross-platform/create/components/layout/tab-navigator.md)
+        * [Tab Navigator](thunkable-cross-platform/create/components/layout/tab-navigator.md)
         * [Drawer Navigator](thunkable-cross-platform/create/components/layout/drawer-navigator.md)
         * [Stack Navigator](thunkable-cross-platform/create/components/layout/stack-navigator.md)
       * [User Interface](thunkable-cross-platform/create/components/user-interface/README.md)
