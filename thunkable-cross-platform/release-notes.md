@@ -8,13 +8,13 @@ Platform updates
 
 New components
 
-* Blockchain powered by Oasis
-
-## Nov 6, 2018
+* Blockchain powered by Oasys
 
 Component updates
 
 * Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a [Top Tab Navigator](create/components/layout/top-tab-navigator.md) and a [Bottom Tab Navigator](create/components/layout/bottom-tab-navigator.md). The original [Tab Navigator](create/components/layout/tab-navigator.md) will continue to be supported in existing projects but we highly encourage creators to adopt the new tab components which will have more features
+
+## Nov 6, 2018
 
 Bug fixes
 
