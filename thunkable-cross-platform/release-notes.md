@@ -10,11 +10,26 @@ New components
 
 * Blockchain powered by Oasis Labs
 
+Component / block updates
+
+* Visible property on components - Support making components visible and invisible from the designer and the blocks.
+* Date and time blocks - Get the current time from the device's clock
+
+Bug fixes
+
+* Custom launch screen for PRO users - fixes bug that does not show current app's logo
+
+## Nov 14, 2018
+
 Component updates
 
 * Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a [Top Tab Navigator](create/components/layout/top-tab-navigator.md) and a [Bottom Tab Navigator](create/components/layout/bottom-tab-navigator.md). The original [Tab Navigator](create/components/layout/tab-navigator.md) will continue to be supported in existing projects but we highly encourage creators to adopt the new tab components which will have more features
-* Visible property on components - Support making components visible and invisible from the designer and the blocks.
-* Date and time blocks - Get the current time from the device's clock
+
+Bug fixes
+
+* Text Input - automatically resizes screen when keyboard is open
+* Publish to iOS - fixes Camera and Photo Library permissions
+* Blocks - prevents possible infinite loops when asset block is loaded
 
 ## Nov 7, 2018
 
