@@ -14,12 +14,16 @@ Component / block updates
 
 * Visible property on components - Support making components visible and invisible from the designer and the blocks.
 * Date and time blocks - Get the current time from the device's clock
+* Add vibrate block
+* Add block to detect the platform the app ins running on \(iOS/Android\)
+* Add blocks to create text message, emails, and make phone calls
 
 Bug fixes
 
 * Custom launch screen for PRO users - fixes bug that does not show current app's logo
+* Fix bug that causes random block to not work in the variable initialization block
 
-## Nov 14, 2018
+## Nov 15, 2018
 
 Component updates
 

@@ -1,7 +1,7 @@
 # Tab Navigator
 
 {% hint style="danger" %}
-The original Tab Navigator component will be retired for a separate [Top](top-tab-navigator.md) and [Bottom](bottom-tab-navigator.md) Tab Navigator. Existing projects that have the original Tab Navigator will continue to be supported. 
+The original Tab Navigator component has been retired for a separate [Top](top-tab-navigator.md) and [Bottom](bottom-tab-navigator.md) Tab Navigator. Existing projects that have the original Tab Navigator will continue to be supported but we encourage creators to migrate to the new [Top](top-tab-navigator.md) and [Bottom](bottom-tab-navigator.md) Tab Navigator. 
 {% endhint %}
 
 ![On Android, the tab bar is usually oriented at the top of the screen. On iOS, it is usually on the bottom.](../../../../.gitbook/assets/thunkable-documentation-exhibits-82.png)
