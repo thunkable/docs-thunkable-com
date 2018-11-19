@@ -114,7 +114,7 @@ Apple requires app-specific passwords to sign-in securely from Thunkable.
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-71.png)
 
-## App Store Connect
+## App Store Connect <a id="appstore-connect"></a>
 
 ### Create a new app
 
