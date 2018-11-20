@@ -2,17 +2,12 @@
 
 ## Coming soon to Thunkable ✕
 
-Platform updates
-
-* [Publish to iOS](publish/publish-to-app-store-ios.md) - Supports the ability to publish to iOS with two-factor authentication turned on
-
 New components
 
 * Blockchain powered by Oasis Labs
 
 Component / block updates
 
-* Visible property on components - Support making components visible and invisible from the designer and the blocks.
 * Date and time blocks - Get the current time from the device's clock
 * Add vibrate block
 * Add block to detect the platform the app ins running on \(iOS/Android\)
@@ -20,8 +15,22 @@ Component / block updates
 
 Bug fixes
 
-* Custom launch screen for PRO users - fixes bug that does not show current app's logo
 * Fix bug that causes random block to not work in the variable initialization block
+
+## Nov 20, 2018
+
+Platform updates
+
+* [Publish to iOS](publish/publish-to-app-store-ios.md) - Supports the ability to publish to iOS with two-factor authentication turned on
+
+Component / block updates
+
+* Visible property on components - Support making components visible and invisible from the designer and the blocks
+
+Bug fixes
+
+* Custom launch screen for PRO users - fixes bug that does not show current app's logo
+* Thunkable Live app - displays app icons on the project list page
 
 ## Nov 15, 2018
 
