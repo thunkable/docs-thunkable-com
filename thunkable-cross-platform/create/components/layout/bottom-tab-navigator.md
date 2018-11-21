@@ -1,6 +1,6 @@
 # Bottom Tab Navigator
 
-![The Bottom Tab is probably the most common navigation technique in apps today](../../../../.gitbook/assets/thunkable-docs-exhibits-75.png)
+![Bottom tabs are a popular way to navigate an app today](../../../../.gitbook/assets/thunkable-docs-exhibits-81.png)
 
 ## Style your Tab
 
