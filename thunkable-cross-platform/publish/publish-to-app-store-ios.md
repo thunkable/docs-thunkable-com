@@ -1,13 +1,5 @@
 # Publish to App Store \(iOS\)
 
-{% hint style="danger" %}
-To publish your app to the App Store, we currently require users to turn off two-factor authentication. [Apple recently made a change](https://support.apple.com/en-ie/HT204915) requiring new users and those that have upgraded to the latest iOS or MacOS to turn on two-factor authentication. If you have two-factor authentication turned on, **you will currently\* not be able to publish to the iOS App Store.**
-
-Please [**click here**](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations on how to turn off two-factor authentication.
-
-\*We are working on a fix to enable publishing to iOS with two-factor authentication turned on.
-{% endhint %}
-
 Publishing your app to the App Store can be a rewarding process. 
 
 Apple requires a lot information for apps that are available in their App Store. As a result, the publishing process can feel long and will require at least 20 minutes to complete the necessary steps, which currently requires information from 4 different Apple websites.
@@ -49,14 +41,6 @@ You will then create a `Bundle ID` which is unique to your app but not visible t
 Apple recommends reversing your domain name to create your bundle ID i.e. com.{yourdomain}.{appname} to avoid conflicts with other apps.
 
 ## Two-factor authentication
-
-{% hint style="danger" %}
-To publish your app to the App Store, we currently require users to turn off two-factor authentication. [Apple recently made a change](https://support.apple.com/en-ie/HT204915) requiring new users and those that have upgraded to the latest iOS or MacOS to turn on two-factor authentication. If you have two-factor authentication turned on, **you will currently\* not be able to publish to the iOS App Store.**
-
-Please [**click here**](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations on how to turn off two-factor authentication.
-
-\*We are working on a fix to enable publishing to iOS with two-factor authentication turned on.
-{% endhint %}
 
 Two-factor authentication helps to keep your account secure and Apple is making it mandatory for new developers to turn two-factor authentication on. 
 
