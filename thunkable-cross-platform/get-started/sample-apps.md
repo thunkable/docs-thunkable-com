@@ -69,9 +69,9 @@ How well do you know your flags?
 
 Aloha is a private anonymous chat app with a short chat history powered by a [Firebase Realtime Database](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/realtime-db). To [keep your data as private as possible](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/app-data-privacy#create-your-own-private-repository-of-cloud-data), we recommend creating your own Firebase account and add your own API keys.
 
-#### ​[Click to remix​](https://x.thunkable.com/copy/a65a5be1e59eea64b78e7eaabd3cf866?utm_source=Docs%20Aloha) <a id="click-to-remix-2"></a>
+#### ​[Click to remix​](https://x.thunkable.com/copy/2cfe0d970f12050a267e01f38ec8039d) <a id="click-to-remix-2"></a>
 
-![](../../.gitbook/assets/thunkable-docs-exhibits-48.png)
+![](../../.gitbook/assets/thunkable-docs-exhibits-83.png)
 
 Forget trusting big companies to comply with GDPR; this is a scary simple way to set up private chat where you own and control your chat history
 
