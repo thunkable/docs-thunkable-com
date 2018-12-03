@@ -65,6 +65,14 @@ How well do you know your flags?
 
 ## **Medium** <a id="medium"></a>
 
+### Field <a id="aloha"></a>
+
+Field is a field survey app created in partnership with the [Urban Launchpad](http://urbanlaunchpad.github.io/), an org building low-cost tools for cities everywhere. With a little work, you can customize this app for surveying anything in the field. Data points are stored in an Airtable spreadsheet that you can [view here](https://airtable.com/shrFCpsb5J8AuktBv). The app also features a lightweight sign-in option that simply requires users to type in a single uniform password \("dhaka"\); no back-end data connection necessary.
+
+\*\*\*\*[**Click to remix**](https://x.thunkable.com/copy/bc0299b38125ff32c80d2959066940c5)\*\*\*\*
+
+![](../../.gitbook/assets/thunkable-docs-exhibits-84.png)
+
 ### Aloha <a id="aloha"></a>
 
 Aloha is a private anonymous chat app with a short chat history powered by a [Firebase Realtime Database](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/realtime-db). To [keep your data as private as possible](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/app-data-privacy#create-your-own-private-repository-of-cloud-data), we recommend creating your own Firebase account and add your own API keys.

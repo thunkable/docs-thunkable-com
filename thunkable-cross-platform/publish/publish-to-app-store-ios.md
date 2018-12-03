@@ -110,7 +110,9 @@ App Store Connect is your portal for managing your submission to the App Store.
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-53.png)
 
-![You will need to use the same app Name and Bundle ID you registered earlier.](../../.gitbook/assets/thunkable-docs-exhibits-55.png)
+![You will need to use the same app Name and Bundle ID you registered earlier. If you registered an &apos;Explicit App ID&apos;, you will enter it into the Bundle ID field above.](../../.gitbook/assets/thunkable-docs-exhibits-55.png)
+
+![If you registered a Wildcard App ID, you will be asked for your suffix \(see above\) which is simply the last part of your Wildcard App ID](../../.gitbook/assets/thunkable-docs-exhibits-88.png)
 
 ![You should see your new app in the My Apps section of the App Store Connect portal.](../../.gitbook/assets/thunkable-docs-exhibits-56.png)
 
@@ -139,6 +141,8 @@ You should receive an email from Apple that says your app is ready in the App St
 If your app is submitted successfully, it should appear under the Testflight tab in your App Store Connect dashboard. Testflight is a tool from Apple that allows you to test your app before it is submitted for release in the App Store.
 
 \(If there are any issues, you’ll get an email from us telling you what you’ll need to fix.\)
+
+![If your app is sent successfully, you&apos;ll see a new build under the TestFlight tab in your App Store Connect dashboard. Testflight allows you to invite beta testers to your app before you release it in the App Store.](../../.gitbook/assets/thunkable-docs-exhibits-85.png)
 
 ## Troubleshooting
 
@@ -203,10 +207,14 @@ You'll also need to select the build version that you want to submit.
 You may need to answer a question about **export compliance**. You can select 'no' when asked if you app uses encryption since apps made on Thunkable for iOS do not at the moment.
 {% endhint %}
 
+![](../../.gitbook/assets/thunkable-docs-exhibits-86.png)
+
+![](../../.gitbook/assets/thunkable-docs-exhibits-87.png)
+
 ### Advertising identifier
 
 {% hint style="info" %}
-After submitting your app for review, you may asked, "Does this app use the Advertising Identifier \(IDFA\)?" 
+After submitting your app for review, you may asked, "Does this app use the Advertising Identifier \(IDFA\)?"
 
 The app will still be able to be published but you will want to **check** **the following three boxes**:
 
@@ -216,6 +224,4 @@ The app will still be able to be published but you will want to **check** **the 
 
 Note, you should _not_ check the box labeled “Serve advertisements within the app”.
 {% endhint %}
-
-
 
