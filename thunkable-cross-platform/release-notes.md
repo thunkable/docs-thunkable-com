@@ -17,6 +17,14 @@ Bug fixes
 
 * Fix bug that causes random block to not work in the variable initialization block
 
+## Dec 5, 2018
+
+Bug fixes
+
+* Fixes variety of bugs that led to Thunkable Live Android crashes
+* Users no longer have to set margins and padding to 0 for columns and rows on Android 
+* Improved error messaging and validation for new Publish to IOS workflow
+
 ## Nov 20, 2018
 
 Platform updates
