@@ -1,4 +1,4 @@
-# Lottie
+# Animation
 
 The Animation component powered by [Lottie ](https://airbnb.design/lottie/)makes adding animations as easy as adding images. For designers, animations can be created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) or [Haiku](https://www.haiku.ai/) and imported as a `.json` file.
 

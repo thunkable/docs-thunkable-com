@@ -45,7 +45,7 @@
         * [Camera](thunkable-cross-platform/create/components/image/camera.md)
         * [Photo Library](thunkable-cross-platform/create/components/image/photo-library.md)
         * [Image Recognizer](thunkable-cross-platform/create/components/image/image-recognizer.md)
-        * [Lottie](thunkable-cross-platform/create/components/image/lottie.md)
+        * [Animation](thunkable-cross-platform/create/components/image/lottie.md)
       * [Location](thunkable-cross-platform/create/components/location/README.md)
         * [Map](thunkable-cross-platform/create/components/location/map.md)
         * [Location Sensor](thunkable-cross-platform/create/components/location/location-sensor.md)
