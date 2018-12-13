@@ -2,7 +2,7 @@
 
 ## What is a variable?
 
-In app creation, variables work like containers to hold numbers, phrases, the results of a calculation, a database call, or other important values in the app, in the mobile device's local storage or in the cloud.
+In app creation, variables work like containers to hold numbers, phrases, the results of a calculation, a database call, or other important values in the app, in the mobile device itself or in the cloud.
 
 Instead of repeating these values in multiple places, a variable can be used wherever it is needed in your Blocks code.
 
