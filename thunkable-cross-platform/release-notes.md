@@ -6,16 +6,27 @@ New components
 
 * Blockchain powered by Oasis Labs
 
-Component / block updates
-
-* Date and time blocks - Get the current time from the device's clock
-* Add vibrate block
-* Add block to detect the platform the app ins running on \(iOS/Android\)
-* Add blocks to create text message, emails, and make phone calls
-
 Bug fixes
 
 * Fix bug that causes random block to not work in the variable initialization block
+
+## Dec 13, 2018
+
+New components
+
+* [Local DB](create/components/data/local-db.md) - create and retrieve data from a data table directly saved in your app
+
+Component updates
+
+* [Share](create/components/social/share.md) - now enables users to send text messages, emails and make phone calls from mobile's device's default apps
+
+New block category
+
+* [Device](create/blocks/device.md)
+  * Date and time - Get the current time from the device's clock
+  * Vibrate - sets a device to vibrate 
+  * iOS / or Android - detects which platform the device is on
+  * Online or offline - detects if device is connected to Wi-Fi or data network
 
 ## Dec 5, 2018
 
