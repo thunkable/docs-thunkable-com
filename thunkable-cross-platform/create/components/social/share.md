@@ -9,9 +9,9 @@ Sharing is caring and the Share component enables users to use the default apps 
 | Send an email | Gmail | Mail |
 | Share a text or image | Any pre-installed communication app \(e.g. WhatsApp, Slack, etc\) | Any pre-installed communication app \(e.g. WhatsApp, Slack, etc\) |
 
-* Make a phone call
-* Send a text
-* Send an email
+* [Make a phone call](share.md#make-a-phone-call)
+* [Send a text](share.md#send-a-text)
+* [Send an email](share.md#send-an-email)
 * [Share a text or image](share.md#share-a-message)
 
 ## Make a phone call
