@@ -10,7 +10,7 @@ Bug fixes
 
 * Fix bug that causes random block to not work in the variable initialization block
 
-## Dec 13, 2018
+## Dec 14, 2018
 
 New components
 
