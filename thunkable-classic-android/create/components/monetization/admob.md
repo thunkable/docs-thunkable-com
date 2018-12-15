@@ -64,12 +64,24 @@ Loads your AdMob banner ad after the user has been in your app for 20 seconds. Y
 
 ### Troubleshooting
 
-Common issues
+We just added a block that should make it easier to understand why your AdMob ads may not be showing up on your built app.
 
-* Ads are not showing up
-  * AdMob account created very recently. Usually it takes at least a few hours for the account to be activated
-  * For Banner Ads, Screen set to 'Fixed'. Screen needs to be set to 'Responsive'
-  * Load Ad block not called in Blocks Editor
-  * Account has been suspended by AdMob. Clicking ads on your own app can lead to suspensions as can one or more users repeatedly clicking the ads on your app. Accounts can also be suspended for deceptive ad placement that generates accidental clicks
-  * [Check the AdMob forum for more potential errors](https://community.thunkable.com/c/professional/admob)
+![](../../../../.gitbook/assets/screen-shot-2018-12-14-at-12.56.52-pm.png)
+
+| Property / Event | Description |
+| :--- | :--- |
+| Ad Failed to Load \(`Error Code`\) | If AdMob ad fails to load, will return an `Error Code` Common issues |
+
+| Error Code | Description | Recommendation |
+| :--- | :--- | :--- |
+| 0 | Something happened internally on the AdMob side; for instance, an invalid response was received from the ad server. | Try again later |
+| 1 | The ad request was invalid; for instance, the ad unit ID was incorrect.  | Check to see if your AdMob account is active. Usually it takes a few hours for the account to be activated. Also, it is possible that your account has been suspended by AdMob. Clicking ads on your own app can lead to suspensions as can other excessive ad clicking behavior. Accounts can also be suspended for deceptive ad placement that generates accidental clicks |
+| 2 | The ad request was unsuccessful due to network connectivity. | Check if your app is online and try again |
+| 3 | The ad request was successful, but no ad was returned due to lack of ad inventory. | Reload the app and try again |
+
+Here are other reasons your ad may not be showing up:
+
+* For Banner Ads, Screen set to 'Fixed'. Screen needs to be set to 'Responsive'
+* Load Ad block not called in Blocks Editor
+* [Check the AdMob forum for more potential errors](https://community.thunkable.com/c/professional/admob)
 
