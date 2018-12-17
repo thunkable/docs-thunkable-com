@@ -1,5 +1,7 @@
 # Share
 
+![Adding the sharing component to your app](../../../../.gitbook/assets/sharing-component-picture.png)
+
 Sharing is caring and the Share component enables users to use the default apps on their mobile device to make a phone call, send a text, send an email or send a text or image via a user's pre-installed apps.
 
 |  | Android | iOS |
