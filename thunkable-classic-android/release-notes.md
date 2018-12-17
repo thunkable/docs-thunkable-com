@@ -1,5 +1,11 @@
 # Release Notes
 
+## Dec 14, 2018
+
+Component updates
+
+* [AdMob troubleshooting block](create/components/monetization/admob.md#troubleshooting) -- if you have issues showing ads in your app, you will get a specific error code that corresponds with the reason your ad may not be showing
+
 ## Oct 23, 2018
 
 Platform improvements

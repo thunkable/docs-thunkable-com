@@ -72,12 +72,12 @@ We just added a block that should make it easier to understand why your AdMob ad
 | :--- | :--- |
 | Ad Failed to Load \(`Error Code`\) | If AdMob ad fails to load, will return an `Error Code` Common issues |
 
-| Error Code | Description | Recommendation |
-| :--- | :--- | :--- |
-| 0 | Something happened internally on the AdMob side; for instance, an invalid response was received from the ad server. | Try again later |
-| 1 | The ad request was invalid; for instance, the ad unit ID was incorrect.  | Check to see if your AdMob account is active. Usually it takes a few hours for the account to be activated. Also, it is possible that your account has been suspended by AdMob. Clicking ads on your own app can lead to suspensions as can other excessive ad clicking behavior. Accounts can also be suspended for deceptive ad placement that generates accidental clicks |
-| 2 | The ad request was unsuccessful due to network connectivity. | Check if your app is online and try again |
-| 3 | The ad request was successful, but no ad was returned due to lack of ad inventory. | Reload the app and try again |
+| Error Code | Description |
+| :--- | :--- |
+| 0 | The Ad Unit ID is wrong or it is a new ID which could take hours to be activated |
+| 1 | You have entered the App ID or the Publisher ID instead of the Ad Unit ID which begins with `ca-app-pub-xxx` |
+| 2 | Please check the mobile device internet connectivity or disable ad blockers on the mobile device |
+| 3 | Your setup is correct. The issue is that AdMob does not always have an ad to return for every request. This may happen particularly if you have just registered your AdMob publisher ID, as it takes some time and multiple requests before the new ID starts returning ads |
 
 Here are other reasons your ad may not be showing up:
 
