@@ -11,7 +11,7 @@ Below are a few of our favorites with more to come. Feel free to remix!
 
 Beaver Bingo is a simple puzzle app that we think is great for parties. Party goers take photos of the items in the nine boxes, which together reveals a hidden message. The app features the [Image Recognizer](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/image/image-recognizer) component from Microsoft. No goats were harmed in the making of this app.
 
-​[**Click to remix**](https://goo.gl/avCsmh)
+​[**Click to remix**](https://x.thunkable.com/copy/e8ac388a2bc4601dccd3a5e137789680)\*\*\*\*
 
 ​
 
@@ -111,9 +111,9 @@ Work Credit has really transformed how our office works at Thunkable -- no longe
 
 ### Translator <a id="translator"></a>
 
-Translator is an app that translates English text into the 20 most popular languages in the world; features advanced use of ListView and persistent data with Local Storage. No set-up is required although Thunkers can use their own Yandex API key if desired
+Translator is an app that translates English text into 93 languages in the world; features advanced use of ListView and persistent data with Local Storage. No set-up is required although Thunkers can use their own Yandex API key if desired
 
-#### ​[Click to remix​](https://x.thunkable.com/copy/7795ea69a4e5f889d51965d43abe0f13?utm_source=Docs%20Translator) <a id="click-to-remix-5"></a>
+#### ​[Click to remix](https://x.thunkable.com/copy/334513711c3eb2b00652963c5ecbfb5c)​ <a id="click-to-remix-5"></a>
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-47.png)
 
