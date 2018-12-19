@@ -10,9 +10,19 @@ Bug fixes
 
 * Fix bug that causes random block to not work in the variable initialization block
 
-## Dec 14, 2018
+## Dec 18, 2018
 
-New components
+Block updates
+
+* [Variables](create/blocks/variables.md) - added a [change listener to app and stored variables](create/blocks/variables.md#for-app-and-stored-variables-updating-when-the-variable-initializes-or-changes)
+* [Color](create/blocks/colour.md) - added the ability to [set color by Hue, Saturation and Value](create/blocks/colour.md#set-hsv-color)
+
+Component updates
+
+* [Screen](create/components/layout/screen.md), [Row](create/components/layout/row.md) and [Column](create/components/layout/column.md) - `Justification` and `Alignment` properties renamed to `Horizontal and Vertical Alignment`
+* [Label](create/components/user-interface/label.md) - default height set to `fit contents`
+
+## Dec 14, 2018
 
 * [Local DB](create/components/data/local-db.md) - create and retrieve data from a data table directly saved in your app
 
@@ -23,10 +33,10 @@ Component updates
 New block category
 
 * [Device](create/blocks/device.md)
-  * Date and time - Get the current time from the device's clock
-  * Vibrate - sets a device to vibrate 
-  * iOS / or Android - detects which platform the device is on
-  * Online or offline - detects if device is connected to Wi-Fi or data network
+  * [Date and time](create/blocks/device.md#get-current-time-and-date) - Get the current time from the device's clock
+  * [Vibrate](create/blocks/device.md#set-device-to-vibrate) - sets a device to vibrate 
+  * [iOS or Android](create/blocks/device.md#get-mobile-operating-system) - detects which platform the device is on
+  * [Online or offline](create/blocks/device.md#get-online-offline-status) - detects if device is connected to Wi-Fi or data network
 
 ## Dec 5, 2018
 

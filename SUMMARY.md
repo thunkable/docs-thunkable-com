@@ -70,7 +70,7 @@
       * [Math](thunkable-cross-platform/create/blocks/math.md)
       * [Text](thunkable-cross-platform/create/blocks/text.md)
       * [Lists](thunkable-cross-platform/create/blocks/lists.md)
-      * [Colour](thunkable-cross-platform/create/blocks/colour.md)
+      * [Color](thunkable-cross-platform/create/blocks/colour.md)
       * [Objects](thunkable-cross-platform/create/blocks/objects.md)
       * [Device](thunkable-cross-platform/create/blocks/device.md)
       * [Variables](thunkable-cross-platform/create/blocks/variables.md)

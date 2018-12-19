@@ -37,11 +37,17 @@ You can also set a variable within a block event like the one above. Simply grab
 
 Once you have stored a value to your variable, you can retrieve it any time using a block like the one above.
 
-## For cloud variables, updating a when the cloud database changes
+## For `cloud` variables, updating when the cloud database changes
 
 ![](../../../.gitbook/assets/screen-shot-2018-10-12-at-6.10.44-am.png)
 
 Cloud variables are unique because they can be linked to values in a cloud database which can be shared across devices. Once you have created your cloud variable, you can set it to update when the variable updates in the cloud. This block replaces the Add.Listener and DataChanged blocks in the Realtime DB. You can see how this works in the [Gram](https://x.thunkable.com/projectPage/5bbff7e035aa10fd7702f479) app, which updates the pictures, captions and hearts when anyone else with the app uploads a new photo.
+
+## For `app` and `stored` variables, updating when the variable initializes or changes
+
+![](../../../.gitbook/assets/screen-shot-2018-12-18-at-11.17.52-pm.png)
+
+This is similar to how cloud variables work above but it applies to variables that are changed in the app itself and not on a shared cloud database
 
 ## Changing a variable
 

@@ -18,13 +18,13 @@ For more information on sizing in your app, please see our [introduction here​
 
 ## Space the elements horizontally
 
-The `Justification` property allows you to space elements in a Row horizontally
+The `Horizontal Alignment` property allows you to space elements in a Row horizontally
 
 ![](../../../../.gitbook/assets/thunkable-documentation-exhibits-64.png)
 
 ## Space the elements vertically
 
-The `Alignment` property allows you to space elements in a Row vertically
+The `Vertical Alignment` property allows you to space elements in a Row vertically
 
 ![](../../../../.gitbook/assets/spacing-fig-2.png)
 

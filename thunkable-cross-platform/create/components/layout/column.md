@@ -13,13 +13,13 @@ For more information on sizing in your app, please see our [introduction here​
 
 ## Space the elements vertically
 
-The `Justification` property allows you to space elements in a Column vertically
+The `Vertical Alignment` property allows you to space elements in a Column vertically
 
 ![](../../../../.gitbook/assets/column-fig-2.png)
 
 ## Space the elements horizontally
 
-The `Alignment` property allows you to space elements in a Column horizontally
+The `Horizontal Alignment` property allows you to space elements in a Column horizontally
 
 ![](../../../../.gitbook/assets/thunkable-documentation-exhibits-66.png)
 
