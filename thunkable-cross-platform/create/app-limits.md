@@ -8,6 +8,6 @@ Due to popular demand, Thunkable has increased app size limits to 50 MB per app 
 | Account size limit | 200 MB |
 | Screens | No fixed limit |
 | Download | One app per phone for iOS; no limit for Android |
-| Minimum Android version | 5.0 \(21\) Kit Kat |
+| Minimum Android version | 5.0 \(21\) Lollipop |
 | Minimum iOS version | 10.0 |
 
