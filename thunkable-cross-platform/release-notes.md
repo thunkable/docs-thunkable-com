@@ -5,22 +5,22 @@
 New components
 
 * Blockchain powered by Oasis Labs
+* Ads powered by AdMob
+* Bluetooth Low Energy
 
-Bug fixes
+Component updates
 
-* Fix bug that causes random block to not work in the variable initialization block
-
-## Dec 18, 2018
+* [Screen](create/components/layout/screen.md), [Row](create/components/layout/row.md) and [Column](create/components/layout/column.md) - `Justification` and `Alignment` properties renamed to `Horizontal and Vertical Alignment`
+* [Label](create/components/user-interface/label.md) - default height set to `fit contents`
 
 Block updates
 
 * [Variables](create/blocks/variables.md) - added a [change listener to app and stored variables](create/blocks/variables.md#for-app-and-stored-variables-updating-when-the-variable-initializes-or-changes)
 * [Color](create/blocks/colour.md) - added the ability to [set color by Hue, Saturation and Value](create/blocks/colour.md#set-hsv-color)
 
-Component updates
+Bug fixes
 
-* [Screen](create/components/layout/screen.md), [Row](create/components/layout/row.md) and [Column](create/components/layout/column.md) - `Justification` and `Alignment` properties renamed to `Horizontal and Vertical Alignment`
-* [Label](create/components/user-interface/label.md) - default height set to `fit contents`
+* Fix bug that causes random block to not work in the variable initialization block
 
 ## Dec 14, 2018
 
