@@ -267,7 +267,7 @@ Platform updates
 
 Platform updates
 
-* [Custom app package name ]()/ bundle ID now supported for both Android and iOS; app icon also supported for Android
+* [Custom app package name ](release-notes.md)/ bundle ID now supported for both Android and iOS; app icon also supported for Android
 * [Make a copy ](make-copy.md)of your project aka checkpoint in one click
 * Tracking of project [shares](share.md) now available on project page; share links no longer require a user to be logged in
 

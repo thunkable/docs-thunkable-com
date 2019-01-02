@@ -1,5 +1,15 @@
 # Release Notes
 
+## Jan 2, 2019
+
+Platform improvements
+
+* Increases the Android minSDK requirement to API 19, which is Android OS 4.4
+
+Bug fixes
+
+* Fixes the One Signal Push Notifications crash on Android OS 8 and above 
+
 ## Dec 14, 2018
 
 Component updates
