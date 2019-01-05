@@ -1,5 +1,11 @@
 # Release Notes
 
+## Jan 4, 2019
+
+Component updates
+
+* Screen  - updates the default sizing method to `Responsive` \(was `Fixed`\) 
+
 ## Jan 2, 2019
 
 Platform improvements
