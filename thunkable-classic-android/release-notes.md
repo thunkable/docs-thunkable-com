@@ -1,5 +1,16 @@
 # Release Notes
 
+## Jan 6, 2019
+
+Component updates
+
+* Push notification by One Signal - provides a way to get the OneSignal User Id by blocks
+
+Bug fixes
+
+* Fixes bug causes camera to crash
+* Fixes recent bug related to app sizing 
+
 ## Jan 4, 2019
 
 Component updates
