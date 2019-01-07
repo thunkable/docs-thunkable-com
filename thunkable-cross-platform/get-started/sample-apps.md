@@ -99,6 +99,8 @@ Personal Feed is an easy to edit feed of your favorite websites, powered by a si
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LDnuq_hSgrQRzRDy7uR%2F-LDnuwQ0_TUUA9rcXR2Z%2Fdocs-feed.png?alt=media&token=759cf490-5130-4d28-b9bc-f3b22e5ecf49)
 
+![](../../.gitbook/assets/screen-shot-2019-01-07-at-10.36.25-am.png)
+
 ### Work Credit <a id="social-credit"></a>
 
 Work Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). 
