@@ -14,6 +14,9 @@ Once you have the API key, you'll need to enter the unique URL into the property
 | :--- | :--- |
 | URL | The url for the web request which usually contains an API key |
 
+If you need to post body data, note that the Web API component will not set the Content-Type header automatically; you must add it manually to the component (ex. Header property "Content-Type", value "application/json").
+It is currently not possible to set headers via block code, therefore only static headers set in the Web API component properties are supported.
+
 ## Get and format \(parse\) data
 
 ![This block retrieves and formats data from the Open Weather Map API](../../../../.gitbook/assets/screen-shot-2018-08-01-at-2.12.03-pm.png)
@@ -129,7 +132,7 @@ Uploading and deleting data is usually reserved for a private API that you or yo
 | Event | Description |
 | :--- | :--- |
 | Put \(`response`, `status`,`error`\) | Performs an HTTP PUT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
-| Post \(`response`, `status`,`error`\) | Performs an HTTP POSTT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+| Post \(`response`, `status`,`error`\) | Performs an HTTP POST request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
 ## Delete data
 
