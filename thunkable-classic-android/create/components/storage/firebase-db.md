@@ -12,7 +12,7 @@ The sample app [Thunkable Messaging](https://goo.gl/QYbcpW) uses a Firebase DB a
 
 ### Set Up
 
-No set-up is required since Thunkable provides a default account for users to get started quickly. Once you're app is ready for prime time, we do recommend that you create your own private database for free with Firebase.
+No set-up is required since Thunkable provides a default account for users to get started quickly. Once your app is ready for prime time, we do recommend that you create your own private database for free with Firebase.
 
 To create your own database with Firebase, please [visit this link](https://firebase.google.com/) and follow the steps below.
 
