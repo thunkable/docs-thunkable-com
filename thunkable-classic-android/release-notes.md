@@ -1,5 +1,22 @@
 # Release Notes
 
+## Feb 8, 2019
+
+Component updates
+
+* AdMob - fixed bug where ads show up in Live Testing but not in Downloaded app
+
+## Jan 17, 2019
+
+Platform updates
+
+* Added link to download .apk from Export Barcode page
+* Fixed bug preventing some apps from building
+
+Component updates
+
+* Label - fixed bug that prevented Live Testing when using line breaks
+
 ## Jan 6, 2019
 
 Component updates

@@ -18,7 +18,7 @@ Sharing is caring and the Share component enables users to use the default apps 
 
 ## Make a phone call
 
-![The screenshots above are from a Pixel 3 and an iPhone 7](../../../../.gitbook/assets/thunkable-docs-exhibits-89.png)
+![The screenshots above are from a Pixel 3 and an iPhone 7](../../../../.gitbook/assets/thunkable-docs-exhibits.png)
 
 ![](../../../../.gitbook/assets/screen-shot-2018-12-13-at-12.05.03-pm.png)
 

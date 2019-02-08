@@ -7,6 +7,28 @@ New components
 * Blockchain powered by Oasis Labs
 * Ads powered by AdMob
 * Bluetooth Low Energy
+* Push Notifications
+* Canvas and Sprites
+
+Block updates
+
+* [Variables](create/blocks/variables.md) - added a [change listener to app and stored variables](create/blocks/variables.md#for-app-and-stored-variables-updating-when-the-variable-initializes-or-changes)
+
+Bug fixes
+
+* Fix bug that causes random block to not work in the variable initialization block
+
+## Feb 11, 2019
+
+Platform updates
+
+* Updated default Splash Screen to new 2019 logo and branding "Made with Thunkable" 
+
+## Jan 31, 2019
+
+Platform updates
+
+* Downloaded and published apps are now ~8MB smaller than before
 
 Component updates
 
@@ -15,12 +37,7 @@ Component updates
 
 Block updates
 
-* [Variables](create/blocks/variables.md) - added a [change listener to app and stored variables](create/blocks/variables.md#for-app-and-stored-variables-updating-when-the-variable-initializes-or-changes)
 * [Color](create/blocks/colour.md) - added the ability to [set color by Hue, Saturation and Value](create/blocks/colour.md#set-hsv-color)
-
-Bug fixes
-
-* Fix bug that causes random block to not work in the variable initialization block
 
 ## Dec 14, 2018
 
