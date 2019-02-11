@@ -5,7 +5,7 @@
 Platform updates
 
 * Merged the latest updates from our friends at MIT App Inventor API 26
-  * There may be some changes with design for apps set to `Fixed`; setting the Screen property to `Responsive` should change the app to look more like the previous design if that is your preference
+  * There are some design changes for apps set to `Fixed`; setting the Screen property to `Responsive` should change the app to look more like the previous design if that is your preference
 * Upgrade the Google Play Services \(Map, Location Services, AdMob, Push Notifications\) JAR to version 16
 
 ## Feb 8, 2019
