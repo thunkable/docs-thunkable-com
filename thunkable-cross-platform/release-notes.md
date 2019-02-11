@@ -22,7 +22,7 @@ Bug fixes
 
 Platform updates
 
-* Updated default Splash Screen to new 2019 logo and branding "Made with Thunkable" 
+* Updated default Splash Screen beaver on downloaded / published apps to new "Made with Thunkable" logo; Thunkable PRO users substitute the Thunkable branding with their own logo
 
 ## Jan 31, 2019
 
