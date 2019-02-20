@@ -1,6 +1,6 @@
 # Google Maps
 
-####  ![](../../../../.gitbook/assets/google-maps-icon.png)
+### ![](../../../../.gitbook/assets/google-maps-icon.png)
 
 {% hint style="info" %}
 Only one Google Maps component can work per screen
@@ -12,7 +12,7 @@ Only one Google Maps component can work per screen
 * [Real-time location sharing with Firebase](google-maps.md#real-time-location-sharing-with-firebase)
 * [Mapping geo-located assets with Spreadsheets powered by Cloudstitch](google-maps.md#mapping-geo-located-assets-with-spreadsheets-powered-by-cloudstitch)
 
-### Auto-centering map on user's location <a id="map-autocenter"></a>
+## Auto-centering map on user's location  <a id="map-autocenter"></a>
 
 Centers map on user location as depicted by blue dot
 
@@ -25,7 +25,7 @@ Centers map on user location as depicted by blue dot
 | OnLocation Changed | When Google Map senses a location change. The Google Maps location sensor is highly sensitive even when the user is stationary so this event is useful for initially centering the map on the user's location |
 | Move Map To Location | Centers map to a specific latitude and longitude |
 
-### Styling the map
+## Styling the map
 
 The map itself can be styled in a million different ways and the markers you add to the map can be customized in a number of ways.
 
@@ -46,7 +46,7 @@ The map itself can be styled in a million different ways and the markers you add
 
 \*Can only be set in the Blocks
 
-#### **MapType**
+### **MapType**
 
 Sets up map with a 'normal' MapType
 
@@ -56,13 +56,13 @@ Sets up map with a 'normal' MapType
 | :--- | :--- | :--- | :--- |
 | ![](https://thunkable.com/reference/components/images/visualization/u3341.png) | ![](../../../../.gitbook/assets/maps-terrain.png) | ![](../../../../.gitbook/assets/maps-satellie.jpg) | ![](../../../../.gitbook/assets/maps-hybrid.jpg) |
 
-#### **Themes**
+### **Themes**
 
 | 'standard' | 'silver' | 'retro' | 'dark' | 'night' | 'aubergine' |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | ![](../../../../.gitbook/assets/maps-standard.png) | ![](../../../../.gitbook/assets/maps-silver.png) | ![](../../../../.gitbook/assets/maps-retro.png) | ![](../../../../.gitbook/assets/maps-dark.png) | ![](../../../../.gitbook/assets/maps-night.png) | ![](../../../../.gitbook/assets/maps-aubergine.png) |
 
-#### **Style \(json\)**
+### **Style \(json\)**
 
 Google Maps lets users customize a map down to the color of the roads and the lakes. You can use a [Styling Wizard](https://mapstyle.withgoogle.com/) to create a custom style JSON file that you can import to your map.
 
@@ -72,7 +72,7 @@ Sets up map with a custom 'white' and 'gray' style![](../../../../.gitbook/asset
 
 `[ { "elementType": "geometry", "stylers": [ { "color": "#f5f5f5" } ] }, { "elementType": "geometry.fill", "stylers": [ { "color": "#ffffff" } ] }, { "elementType": "labels.icon", "stylers": [ { "visibility": "off" } ] }, { "elementType": "labels.text.fill", "stylers": [ { "color": "#000000" } ] }, { "featureType": "administrative.land_parcel", "elementType": "labels.text.fill", "stylers": [ { "color": "#bdbdbd" } ] }, { "featureType": "poi", "elementType": "geometry", "stylers": [ { "color": "#eeeeee" } ] }, { "featureType": "poi", "elementType": "labels.text.fill", "stylers": [ { "color": "#757575" } ] }, { "featureType": "poi.park", "elementType": "geometry", "stylers": [ { "color": "#e5e5e5" } ] }, { "featureType": "poi.park", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] }, { "featureType": "road", "elementType": "geometry", "stylers": [ { "color": "#ffffff" } ] }, { "featureType": "road", "elementType": "geometry.fill", "stylers": [ { "color": "#d8d8d8" } ] }, { "featureType": "road.arterial", "elementType": "labels.text.fill", "stylers": [ { "color": "#757575" } ] }, { "featureType": "road.highway", "elementType": "geometry", "stylers": [ { "color": "#dadada" } ] }, { "featureType": "road.highway", "elementType": "labels.text.fill", "stylers": [ { "color": "#616161" } ] }, { "featureType": "road.local", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] }, { "featureType": "transit.line", "elementType": "geometry", "stylers": [ { "color": "#e5e5e5" } ] }, { "featureType": "transit.station", "elementType": "geometry", "stylers": [ { "color": "#eeeeee" } ] }, { "featureType": "water", "elementType": "geometry", "stylers": [ { "color": "#e4e4e4" } ] }, { "featureType": "water", "elementType": "geometry.fill", "stylers": [ { "color": "#f3f3f3" } ] }, { "featureType": "water", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] } ]`
 
-### Adding standard markers, custom markers, circles & polylines to your map <a id="add-everything"></a>
+## Adding standard markers, custom markers, circles & polylines to your map  <a id="add-everything"></a>
 
 | Event | Description |
 | :--- | :--- |
@@ -91,21 +91,21 @@ Sets up map with a custom 'white' and 'gray' style![](../../../../.gitbook/asset
 | :--- | :--- | :--- | :--- |
 | ![](../../../../.gitbook/assets/add-marker-standard.jpg) | ![](../../../../.gitbook/assets/add-marker-custom.jpg) | ![](../../../../.gitbook/assets/add-circle.png) | ![](../../../../.gitbook/assets/add-polyline.jpg) |
 
-#### Removing Markers, Circles and Polylines before you add a new one <a id="markers-json"></a>
+### Removing Markers, Circles and Polylines before you add a new one  <a id="markers-json"></a>
 
 Google maps does not remove any marker, circle or polyline you have added to your map which can quickly clutter up your map. We recommend that in many cases, you create a function for removing existing markers, circles or polylines before you add new ones like the one below:
 
 ![](../../../../.gitbook/assets/remove-markers.png)
 
-#### **Add Standard Marker**
+### **Add Standard Marker**
 
 ![](../../../../.gitbook/assets/add-marker-standard-blocks.png)
 
-#### **Add Custom Marker**
+### **Add Custom Marker**
 
 ![](../../../../.gitbook/assets/add-custom-marker-blocks.png)
 
-#### Add Markers From JSON string format <a id="markers-json"></a>
+### Add Markers From JSON string format  <a id="markers-json"></a>
 
 Standard markers
 
@@ -115,25 +115,25 @@ Custom markers
 
 string = `[{lat: 37.77, lng: 122.42, icon: icon-thunkablemapsmall.png, title: Power Thunker}, {lat: 37.78, lng: 122.58, icon: icon-thunkablemapsmall.png, title: New Thunker}, {lat: 37.85, lng: 122.65, icon: icon-thunkablemapsmall.png, title: Funny Thunker}]`
 
-#### Add Circle <a id="markers-json"></a>
+### Add Circle  <a id="markers-json"></a>
 
 ![](../../../../.gitbook/assets/add-circle-blocks.png)
 
-#### Add Polyline Option 1 <a id="markers-json"></a>
+### Add Polyline Option 1  <a id="markers-json"></a>
 
 ![](../../../../.gitbook/assets/add-polyline-blocks1.png)
 
-#### Add Polyline Option 2![](../../../../.gitbook/assets/add-polyline-blocks2.png) <a id="markers-json"></a>
+### Add Polyline Option 2![](../../../../.gitbook/assets/add-polyline-blocks2.png)  <a id="markers-json"></a>
 
-#### Get Points from JSON string format <a id="markers-json"></a>
+### Get Points from JSON string format  <a id="markers-json"></a>
 
 string = `[[lat: 37.77, lng: 122.42], [lat: 37.78, lng: 122.58], . . .]`
 
-### Real-time location sharing with Firebase
+## Real-time location sharing with Firebase
 
 [Click here to view the source code](http://app.thunkable.com/?locale=en&repo=share.thunkableapps.com/templates/MapsDemo2.asc)
 
-### Mapping geo-located assets with Spreadsheets powered by Cloudstitch
+## Mapping geo-located assets with Spreadsheets powered by Cloudstitch
 
 [Click here to view the source code](http://app.thunkable.com/?locale=en&repo=share.thunkableapps.com/templates/MapsDemo3.asc)
 

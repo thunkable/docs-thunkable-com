@@ -1,6 +1,6 @@
 # Image Sprite + Ball
 
- ![](../../../../.gitbook/assets/image-sprite-icon.png) + ![](../../../../.gitbook/assets/ball-icon.png)
+![](../../../../.gitbook/assets/image-sprite-icon.png) + ![](../../../../.gitbook/assets/ball-icon.png)
 
 The difference between an Image Sprite and a Ball is that an Image Sprite can get its appearance from an image file, while a Ball's appearance can only be changed by varying its PaintColor and Radius properties.
 
@@ -14,7 +14,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 * [Bouncing Sprites](image-sprite-+-ball.md#bouncing-sprite)
 * [Sprite Collisions](image-sprite-+-ball.md#sprite-collisions)
 
-### Styling the Ball
+## Styling the Ball
 
 | Property | Description |
 | :--- | :--- |
@@ -22,7 +22,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Radius | The radius of the ball |
 | Visible | If checked, the ball will be visible on the screen |
 
-### Styling the Image Sprite
+## Styling the Image Sprite
 
 | Property | Description |
 | :--- | :--- |
@@ -32,7 +32,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Rotates | If checked, the sprite image rotates to match the sprite's heading. If unchecked, the sprite image does not rotate when the sprite changes heading. The sprite rotates around its center point. |
 | Visible | If checked, the image sprite will be visible on the scree |
 
-### Positioning the Sprite![](../../../../.gitbook/assets/sprite-fig-2.png) <a id="position-sprite"></a>
+## Positioning the Sprite![](../../../../.gitbook/assets/sprite-fig-2.png)  <a id="position-sprite"></a>
 
 | Property | Description |
 | :--- | :--- |
@@ -40,9 +40,9 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Y | In pixels from top. The vertical coordinate of the top edge of the sprite, increasing as the sprite moves down |
 | Z | Integers with higher numbers layered on top. How the sprite should be layered relative to other sprites, with higher-numbered layers in front of lower-numbered layers |
 
-### Setting a Sprite in motion![](../../../../.gitbook/assets/sprite-fig-3.png) <a id="sprite-motion"></a>
+## Setting a Sprite in motion![](../../../../.gitbook/assets/sprite-fig-3.png)  <a id="sprite-motion"></a>
 
-### **Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds**
+## **Set a Ball in motion at a random angle between 225 and 315 degrees at a speed of 5 pixels per 10 milliseconds**
 
 ![](../../../../.gitbook/assets/sprite-blocks-2.png)
 
@@ -55,9 +55,9 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Point Towards \(target\) | Turns the sprite to point towards a designated target sprite. The new heading will be parallel to the line joining the centerpoints of the two sprites |
 | Enabled | If checked, sprite will move when its speed is non-zero |
 
-### Moving a Sprite with touch![](../../../../.gitbook/assets/sprite-fig-1.png) <a id="touch-sprite"></a>
+## Moving a Sprite with touch![](../../../../.gitbook/assets/sprite-fig-1.png)  <a id="touch-sprite"></a>
 
-### Moving an Image Sprite horizontally when dragged
+## Moving an Image Sprite horizontally when dragged
 
 ![](../../../../.gitbook/assets/sprite-blocks-1.png)
 
@@ -70,9 +70,9 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Flung \(x, y, speed, heading, xvel, yvel\) | When a fling gesture \(quick swipe\) is made on the sprite: provides the \(x,y\) position of the start of the fling, relative to the upper left of the canvas. Also provides the speed \(pixels per millisecond\) and heading \(0-360 degrees\) of the fling, as well as the x velocity and y velocity components of the fling's vector. |
 | Move To \(x, y\) | Moves the sprite so that its left top corner is at the specfied x and y coordinates. |
 
-### Bouncing Sprites![](../../../../.gitbook/assets/sprite-fig-4.png) <a id="bouncing-sprite"></a>
+## Bouncing Sprites![](../../../../.gitbook/assets/sprite-fig-4.png)  <a id="bouncing-sprite"></a>
 
-### Keep bouncing unless the ball hits the bottom edge \(Game Over\)
+## Keep bouncing unless the ball hits the bottom edge \(Game Over\)
 
 ![](../../../../.gitbook/assets/sprite-blocks-3.png)
 
@@ -82,7 +82,7 @@ The sample app [Thunkable Pong](https://www.gitbook.com/book/albertching/thunkab
 | Bounce \(edge\) | Makes this sprite bounce, as if off a wall. For normal bouncing, the edge argument should be the one returned by EdgeReached |
 | Move Into Bounds | Moves the sprite back in bounds if part of it extends out of bounds, having no effect otherwise. If the sprite is too wide to fit on the canvas, this aligns the left side of the sprite with the left side of the canvas. If the sprite is too tall to fit on the canvas, this aligns the top side of the sprite with the top side of the canvas |
 
-### Sprite Collisions <a id="sprite-collisions"></a>
+## Sprite Collisions  <a id="sprite-collisions"></a>
 
 | Event | Description |
 | :--- | :--- |

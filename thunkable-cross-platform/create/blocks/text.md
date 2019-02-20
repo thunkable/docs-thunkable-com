@@ -8,11 +8,11 @@
 
 The most basic but most often used text block is below
 
-![](../../../.gitbook/assets/blocks-text-fig-2%20%281%29.png)
+![](../../../.gitbook/assets/blocks-text-fig-2-1.png)
 
 Often, you'll want to join text values together with the block below
 
-![](../../../.gitbook/assets/blocks-text-fig-7%20%281%29.png)
+![](../../../.gitbook/assets/blocks-text-fig-7-1.png)
 
 | ![](../../../.gitbook/assets/blocks-text-fig-11.png) |
 | :--- |

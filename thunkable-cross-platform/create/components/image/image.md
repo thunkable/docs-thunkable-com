@@ -11,7 +11,7 @@ The Image components lets you reference pictures added to your app or on the web
 
 ## Set Image
 
-#### Take picture with Camera and set Image
+### Take picture with Camera and set Image
 
 ![](../../../../.gitbook/assets/image-fig-2.png)
 
@@ -25,7 +25,7 @@ Sizing your Image requires setting the area of your app you want the Image to co
 
 For more information on sizing in your app, please see our [introduction here​](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/intro-to-sizing)
 
-#### Setting the area of your app the Image covers
+### Setting the area of your app the Image covers
 
 {% hint style="info" %}
 There is currently a bug that does not show your Image when the height or width is set to `Fit contents` We will fix it soon!
@@ -36,7 +36,7 @@ There is currently a bug that does not show your Image when the height or width 
 | Height | Default \(`40%`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 | Width | Default \(`85%`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 
-#### Resizing the Image
+### Resizing the Image
 
 Due to different screen sizes and pixel densities, it is nearly impossible for you to size your image to exactly fit the area both in terms of dimensions and pixel density. This is where the resize property comes into play
 

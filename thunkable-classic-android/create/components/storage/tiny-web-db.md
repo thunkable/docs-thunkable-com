@@ -4,7 +4,7 @@
 Since the introduction of Firebase, we only recommend the Tiny Web DB component for specific cases where you want to own and manage your own database infrastructure
 {% endhint %}
 
-### Setting up your own database \(Take a deep breath!\)
+## Setting up your own database \(Take a deep breath!\)
 
 By default, the Tiny Web DB component stores data on a test service provided by Thunkable. This service is helpful for testing, but it is shared by all Thunkable users, and it has a limit of 1000 entries. If you use it, your data will be overwritten eventually.
 
@@ -41,7 +41,7 @@ Your Thunkable apps can store and retrieve data using your new service. Just do 
 
 * Any StoreValue operations \(blocks\) will store data at your service, and any GetValue operations will retrieve from your service.
 
-### Functionality
+## Functionality
 
 | Event | Description |
 | :--- | :--- |

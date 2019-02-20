@@ -1,8 +1,8 @@
 # Contact Picker + Phone Number Picker
 
- ![](../../../../.gitbook/assets/contact-picker-icon.png) +  ![](../../../../.gitbook/assets/phone-number-picker-icon.png)
+![](../../../../.gitbook/assets/contact-picker-icon.png) + ![](../../../../.gitbook/assets/phone-number-picker-icon.png)
 
-### Information available from Contact Picker or Phone Number Picker
+## Information available from Contact Picker or Phone Number Picker
 
 After a user has made a selection, the following properties will be set to information:
 
@@ -16,7 +16,7 @@ After a user has made a selection, the following properties will be set to infor
 | Contact URI | The path to the contact on the phone |
 | Picture | The name of the file containing the contact's image, which can be used as a Picture property value for the Image or ImageSprite component |
 
-### Selecting a contact
+## Selecting a contact
 
 | Event | Description |
 | :--- | :--- |
@@ -30,7 +30,7 @@ After a user has made a selection, the following properties will be set to infor
 | Got Focus | User's finger is over the button, making it possible to click |
 | Lost Focus | User's finger is away from the button, making it no longer possible to click |
 
-### Button Appearance
+## Button Appearance
 
 There are two elements to a Contact Picker and Phone Number Picker, a button that opens the Picker and the Picker itself. You can only modify the appearance of the button
 

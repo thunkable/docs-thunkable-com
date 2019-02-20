@@ -4,7 +4,7 @@
 
 ![](../../../../.gitbook/assets/location-sensor-fig-1.png)
 
-## Get user's current location 
+## Get user's current location
 
 ![](../../../../.gitbook/assets/location-sensor-fig-2.png)
 

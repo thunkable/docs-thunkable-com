@@ -6,7 +6,7 @@
 * [Text calculations](text.md#text-calculations)
 * Obfuscate text
 
-### Basic text
+## Basic text
 
 ![](../../../.gitbook/assets/text-block-1.png)
 
@@ -14,7 +14,7 @@ Contains a text string.
 
 This string can contain any characters \(letters, numbers, or other special characters\). On Thunkable it will be considered a Text object
 
-### Reformat text
+## Reformat text
 
 ![](../../../.gitbook/assets/text-block-2.png)
 
@@ -41,7 +41,7 @@ This string can contain any characters \(letters, numbers, or other special char
 
 \(j\) **Lowercase** Returns a copy of its text string argument converted to all lower case
 
-### Conditionals with text
+## Conditionals with text
 
 \(a\) ![](../../../.gitbook/assets/text-block-5.png)\(b\) ![](../../../.gitbook/assets/text-block-6.png)\(c\) ![](../../../.gitbook/assets/text-block-17.png)
 
@@ -51,7 +51,7 @@ This string can contain any characters \(letters, numbers, or other special char
 
 \(c\) **Is empty** Returns whether or not the string contains any characters \(including spaces\). When the string length is 0, returns true otherwise it returns false
 
-### Text calculations
+## Text calculations
 
 \(a\) ![](../../../.gitbook/assets/text-block-4.png)\(b\) ![](../../../.gitbook/assets/text-block-18.png)
 
@@ -59,7 +59,7 @@ This string can contain any characters \(letters, numbers, or other special char
 
 \(b\) **Character position** Returns the character position where the first character of piece first appears in text, or 0 if not present. For example, the location of `ana` in `havana banana` is 4
 
-### Obfuscate text
+## Obfuscate text
 
 ![](../../../.gitbook/assets/blocks-text-android-fig-1.png)
 

@@ -17,14 +17,12 @@ You can set the background color, tab underline color for selected tabs and font
 
 ## Add a Label and/or an Icon to your Tab\(s\)
 
-You can choose to show just an icon, just a label or both a label and an icon or none at all. 
+You can choose to show just an icon, just a label or both a label and an icon or none at all.
 
 | Property | Description |
 | :--- | :--- |
 | Show Label | Default \(`true`\); If `true`, labels will be displayed in the tab |
 | Show Icon | Default \(`false`\); If `true`, icons will be displayed in the tab |
-
-
 
 To add a label and/or icon, you'll have to navigate to the properties for your Screen
 
@@ -41,6 +39,4 @@ To hide the Tab bar, you'll actually have to change a Screen property
 | Property | Description |
 | :--- | :--- |
 | Tab Bar Visible | Default \(`true`\); If `false`, Tab bar will not be visible |
-
-
 

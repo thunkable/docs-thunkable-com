@@ -3,7 +3,7 @@
 Since Thunkable's cross platform ✕ allows creators to build one app that works on both Android and iOS devices, most creators who want to distribute and monetize their app with larger audiences will choose to publish in both the App and Play Stores.
 
 {% hint style="info" %}
-The App Store review is typically more rigorous and consequently more time-intensive than the Play Store review--but both stores are continually raising the bar for what can be listed in their stores. 
+The App Store review is typically more rigorous and consequently more time-intensive than the Play Store review--but both stores are continually raising the bar for what can be listed in their stores.
 {% endhint %}
 
 <table>
@@ -49,4 +49,3 @@ The App Store review is typically more rigorous and consequently more time-inten
     </tr>
   </tbody>
 </table>
-

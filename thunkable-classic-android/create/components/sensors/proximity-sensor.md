@@ -1,8 +1,8 @@
 # Proximity Sensor
 
-### ![](../../../../.gitbook/assets/proximity-sensor-icon.png)
+## ![](../../../../.gitbook/assets/proximity-sensor-icon.png)
 
-### Detect an Object's Proximity to Phone
+## Detect an Object's Proximity to Phone
 
 | Event / Property | Description |
 | :--- | :--- |

@@ -27,11 +27,9 @@ To retrieve the API key, you'll have to navigate to the Account page and generat
 
 ![](../../../../.gitbook/assets/spreadsheet-airtable-fig-4.png)
 
-
-
 ![](../../../../.gitbook/assets/spreadsheet-airtable-fig-5.png)
 
-![](../../../../.gitbook/assets/spreadsheet-airtable-fig-6%20%281%29.png)
+![](../../../../.gitbook/assets/spreadsheet-airtable-fig-6-1.png)
 
 `Base ID`
 
@@ -39,7 +37,7 @@ To retrieve the Base ID, you'll actually have go to the [Airtable API documentat
 
 ![](../../../../.gitbook/assets/spreadsheet-airtable-fig-7.png)
 
-![](../../../../.gitbook/assets/spreadsheet-airtable-fig-8%20%281%29.png)
+![](../../../../.gitbook/assets/spreadsheet-airtable-fig-8-1.png)
 
 `Table Name` and `View Name`
 
@@ -55,7 +53,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ![](../../../../.gitbook/assets/spreadsheet-airtable-fig-10.png)
 
-![](../../../../.gitbook/assets/spreadsheet-airtable-fig-11%20%281%29.png)
+![](../../../../.gitbook/assets/spreadsheet-airtable-fig-11-1.png)
 
 ![](../../../../.gitbook/assets/screen-shot-2018-04-23-at-9.35.12-pm.png)
 
@@ -71,11 +69,9 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ![](../../../../.gitbook/assets/spreadsheet-airtable-fig-14.png)
 
-![](../../../../.gitbook/assets/spreadsheet-airtable-fig-15%20%281%29.png)
+![](../../../../.gitbook/assets/spreadsheet-airtable-fig-15-1.png)
 
 ![](../../../../.gitbook/assets/screen-shot-2018-04-23-at-9.34.58-pm.png)
-
-
 
 | Event | Description |
 | :--- | :--- |
@@ -85,8 +81,6 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | Update Row Num \(`rowNum`, `rowObject`\) | Updates a row based on a `rowObject` and a `rowNum` |
 | Replace Row Num \(`rowObject`\) | Replaces a row based on a `rowObject` |
 | Replace Row \(`rowNum`, `rowObject`\) | Replaces a row based on a `rowObject` and a `rowNum` |
-
-
 
 ### Deleting data
 

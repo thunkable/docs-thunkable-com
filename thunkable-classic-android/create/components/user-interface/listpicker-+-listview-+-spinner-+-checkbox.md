@@ -1,18 +1,18 @@
 # ListPicker + ListView + Spinner + CheckBox
 
-####  ![](../../../../.gitbook/assets/listpicker-icon%20%281%29.png) +  ![](../../../../.gitbook/assets/listview-icon%20%282%29.png) +   ![](../../../../.gitbook/assets/spinner-icon%20%282%29.png)  +  ![](../../../../.gitbook/assets/checkbox-icon.png)
+### ![](../../../../.gitbook/assets/listpicker-icon-1.png) +  ![](../../../../.gitbook/assets/listview-icon-2.png) +   ![](../../../../.gitbook/assets/spinner-icon-2.png)  +  ![](../../../../.gitbook/assets/checkbox-icon.png)
 
-|  | ![](../../../../.gitbook/assets/listpicker-icon.png) | ![](../../../../.gitbook/assets/listview-icon%20%281%29.png) | ![](../../../../.gitbook/assets/spinner-icon%20%281%29.png) | ![](../../../../.gitbook/assets/checkbox-icon%20%282%29.png) |
+|  | ![](../../../../.gitbook/assets/listpicker-icon.png) | ![](../../../../.gitbook/assets/listview-icon-1.png) | ![](../../../../.gitbook/assets/spinner-icon-1.png) | ![](../../../../.gitbook/assets/checkbox-icon-2.png) |
 | :--- | :--- | :--- | :--- | :--- |
 |  | [ListPicker](listpicker-+-listview-+-spinner-+-checkbox.md#listpicker) | [ListView](listpicker-+-listview-+-spinner-+-checkbox.md#listview) | [Spinner](listpicker-+-listview-+-spinner-+-checkbox.md#spinner) | [CheckBox](listpicker-+-listview-+-spinner-+-checkbox.md#checkbox) |
 |  | ![](../../../../.gitbook/assets/listpicker-example.png) | ![](../../../../.gitbook/assets/listview-example.png) | ![](../../../../.gitbook/assets/spinner-example.png) | ![](../../../../.gitbook/assets/checkbox-example.png) |
 | Common use case | Drop down menus with a **medium number** of elements users can select by scrolling or searching. **Opens in a new screen** | Drop down menus with a **medium number** of elements users can select by searching in the current screen | Drop down menus with a **small number** of elements \(up to 5\) where user options show next to filter in the current screen | Selections of a **single element or multiple elements** in a small list in the current screen |
 
-### ListPicker ![](../../../../.gitbook/assets/listpicker-icon%20%282%29.png) <a id="listpicker"></a>
+## ListPicker ![](../../../../.gitbook/assets/listpicker-icon-2.png)  <a id="listpicker"></a>
 
 The Listpicker is a popular choice for drop down menus with more than 5 choices since the list itself opens in a new screen. A searchable filter bar is also available to make selection in long lists even easier for users.
 
-#### Functionality
+### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -28,7 +28,7 @@ The Listpicker is a popular choice for drop down menus with more than 5 choices 
 | Got Focus | User's finger is over the Listpicker, making it possible to click |
 | Lost Focus | User's finger is away from the Listpicker, making it no longer possible to click |
 
-#### **Appearance**
+### **Appearance**
 
 There are two elements to a ListPicker, a button that opens the ListPicker and the ListPicker itself
 
@@ -52,11 +52,11 @@ There are two elements to a ListPicker, a button that opens the ListPicker and t
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
 | Visible | If checked, the button will be visible on the screen |
 
-### ListView ![](../../../../.gitbook/assets/listview-icon.png) <a id="listview"></a>
+## ListView ![](../../../../.gitbook/assets/listview-icon.png)  <a id="listview"></a>
 
 The ListView is a less customizable but also simpler drop down menu that can be displayed on the user's current screen
 
-#### Functionality
+### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -67,7 +67,7 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 | Selection | The selected item |
 | Selection Index | The index of the selected item, starting at 1. If no item is selected, the value will be 0 |
 
-#### **Appearance**
+### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -77,15 +77,15 @@ The ListView is a less customizable but also simpler drop down menu that can be 
 | Text Color | Text color of the list. Default \(White\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Visible | If checked, the Listpicker button will be visible on the screen |
 
-### Spinner ![](../../../../.gitbook/assets/spinner-icon.png) <a id="spinner"></a>
+## Spinner ![](../../../../.gitbook/assets/spinner-icon.png)  <a id="spinner"></a>
 
 The Spinner is a great drop down menu option for shorter lists
 
-#### Creating an initial list for the spinner
+### Creating an initial list for the spinner
 
 ![](../../../../.gitbook/assets/spinner-blocks-1.png)
 
-#### Functionality
+### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -96,7 +96,7 @@ The Spinner is a great drop down menu option for shorter lists
 | Selection Index | The index of the selected item, starting at 1. If no item is selected, the value will be 0 |
 | Display Dropdown | Displays the dropdown list similar to when user clicks on spinner |
 
-#### **Appearance**
+### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -105,11 +105,11 @@ The Spinner is a great drop down menu option for shorter lists
 | Prompt | Text to display for the Spinner window |
 | Visible | If checked, the Listpicker button will be visible on the screen |
 
-### CheckBox ![](../../../../.gitbook/assets/checkbox-icon%20%281%29.png) <a id="checkbox"></a>
+## CheckBox ![](../../../../.gitbook/assets/checkbox-icon-1.png)  <a id="checkbox"></a>
 
 The CheckBox is the simplest of menus because it has a single element that can be selected \(or unselected\)
 
-#### Functionality
+### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -119,7 +119,7 @@ The CheckBox is the simplest of menus because it has a single element that can b
 | Got Focus | User's finger is over the CheckBox, making it possible to click |
 | Lost Focus | User's finger is away from the CheckBox, making it no longer possible to click |
 
-#### **Appearance**
+### **Appearance**
 
 | Property | Description |
 | :--- | :--- |

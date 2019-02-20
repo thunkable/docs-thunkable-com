@@ -1,12 +1,12 @@
 # Web
 
-### ![](../../../../.gitbook/assets/web-icon.png)
+## ![](../../../../.gitbook/assets/web-icon.png)
 
 {% hint style="info" %}
 We recommend this component for more advanced users since it requires both connecting to the Web API of that service and formatting the data in a useable way for your app, also known as parsing.
 {% endhint %}
 
-### Web API service settings
+## Web API service settings
 
 | Property / Event | Description |
 | :--- | :--- |
@@ -17,7 +17,7 @@ We recommend this component for more advanced users since it requires both conne
 | Response File Name | The name of the file where the response should be saved. If Save Response is true and Response File Name is empty, then a new file name will be generated |
 | Request Headers | The request headers, as a list of two-element sublists. The first element of each sublist represents the request header field name. The second element of each sublist represents the request header field values, either a single value or a list containing multiple values |
 
-### Retrieving data from Yahoo Finance's Web API service using HTTP GET
+## Retrieving data from Yahoo Finance's Web API service using HTTP GET
 
 ![](../../../../.gitbook/assets/web-blocks-1.png)
 
@@ -32,7 +32,7 @@ We recommend this component for more advanced users since it requires both conne
 | Any XMLTextDecode\(text XmlText\) | Decodes the given XML string to produce a list structure. See the Thunkable documentation on "Other topics, notes, and details" for information |
 | Any Json Text Decode \(jsonText\) | Decodes the given JSON encoded value to produce a corresponding Thunkable value. A JSON list \[x, y, z\] decodes to a list \(x y z\), A JSON object with name A and value B, \(denoted as A:B enclosed in curly braces\) decodes to a list \(\(A B\)\), that is, a list containing the two-element list \(A B\) |
 
-### Uploading data to a web server using HTTP POST and PUT
+## Uploading data to a web server using HTTP POST and PUT
 
 The POST request creates a new field of data whereas the PUT request can update an existing field of data or create a new one
 
@@ -46,7 +46,7 @@ The POST request creates a new field of data whereas the PUT request can update 
 | Put Text With Encoding \(text, encoding\) | Performs an HTTP PUT request using the Url property and the specified text. The characters of the text are encoded using the given encoding. If the Save Response property is true, the response will be saved in a file and the Got File event will be triggered. The Response File Name property can be used to specify the name of the file. If the Save Response property is false, the Got Text event will be triggered |
 | Put File \(path\) | Performs an HTTP PUT request using the Url property and data from the specified file. If the Save Response property is 'true', the response will be saved in a file and the Got File event will be triggered. The Response File Name property can be used to specify the name of the file. If the Save Response property is 'false', the GotText event will be triggered |
 
-### Deleting data from a web server using HTTP DELETE
+## Deleting data from a web server using HTTP DELETE
 
 | Event | Description |
 | :--- | :--- |

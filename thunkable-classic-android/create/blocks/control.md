@@ -5,11 +5,11 @@
 * [Just do it](control.md#just-do-it)
 * [Navigate between screens](control.md#navigate-between-screens)
 
-### Place conditions on when things happen
+## Place conditions on when things happen
 
 ![](../../../.gitbook/assets/control-blocks-5.png)
 
-\(a\) ![](../../../.gitbook/assets/control-blocks-1.png) \(b\) ![](../../../.gitbook/assets/control-blocks-3.png)\(c\) ![](../../../.gitbook/assets/control-blocks-4.png)
+\(a\) ![](../../../.gitbook/assets/control-blocks-1%20%281%29.png) \(b\) ![](../../../.gitbook/assets/control-blocks-3.png)\(c\) ![](../../../.gitbook/assets/control-blocks-4.png)
 
 \(a\) **If condition is true, starts event** Tests a given condition. `If` the condition is true, performs the actions in a given sequence of blocks; otherwise, the blocks are ignored
 
@@ -17,7 +17,7 @@
 
 \(c\) **If first condition is true, starts one event, if second condition is true, starts second event, third if both are false** Tests a given condition. `If` the result is true, performs the actions in the `-do` sequence of blocks; otherwise tests the statement in the `-else if` section. If the result is true, performs the actions in the `-do` sequence of blocks; otherwise, performs the actions in the -else sequence of blocks
 
-### Repeat a certain event
+## Repeat a certain event
 
 \(a\) ![](../../../.gitbook/assets/control-blocks-6.png) \(b\) ![](../../../.gitbook/assets/control-blocks-7.png) \(c\) ![](../../../.gitbook/assets/control-blocks-8.png)
 
@@ -27,7 +27,7 @@
 
 \(c\) **Stops repeating event if certain condition is true** Tests the `-test` condition. If true, performs the action given in `-do` , then tests again. When test is false, the block ends and the action given in -do is no longer performed
 
-### Just do it
+## Just do it
 
 \(a\) ![](../../../.gitbook/assets/control-blocks-9.png)\(b\) ![](../../../.gitbook/assets/control-blocks-10.png)
 
@@ -35,7 +35,7 @@
 
 \(b\) **Dummy socket when blocks don't fit** Provides a "dummy socket" for fitting a block that has a plug on its left into a place where there is no socket, such as one of the sequence of blocks in the do part of a procedure or an if block. The block you fit in will be run, but its returned result will be ignored. This can be useful if you define a procedure that returns a result, but want to call it in a context that does not accept a result
 
-### Navigate between screens
+## Navigate between screens
 
 \(a\) ![](../../../.gitbook/assets/control-blocks-11.png)\(b\) ![](../../../.gitbook/assets/control-blocks-13.png) \(c\) ![](../../../.gitbook/assets/control-blocks-15.png)
 

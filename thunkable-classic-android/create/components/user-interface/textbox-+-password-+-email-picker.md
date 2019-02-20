@@ -1,6 +1,6 @@
 # TextBox + Password + Email Picker
 
-####  ![](../../../../.gitbook/assets/textbox-icon%20%281%29.png) +  ![](../../../../.gitbook/assets/password-textbox-icon%20%281%29.png)  +  ![](../../../../.gitbook/assets/email-picker-icon%20%281%29.png)
+### ![](../../../../.gitbook/assets/textbox-icon-1.png) +  ![](../../../../.gitbook/assets/password-textbox-icon-1.png)  +  ![](../../../../.gitbook/assets/email-picker-icon-1.png)
 
 Textboxes are a popular input component especially in apps with forms and login pages.
 
@@ -14,7 +14,7 @@ An Email Picker is a TextBox that pre-populates email addresses within a user's 
 |  | ![](../../../../.gitbook/assets/textbox.png) | ![](../../../../.gitbook/assets/password-textbox.png) | ![](../../../../.gitbook/assets/email-picker.png) |
 | Common use case | Username inputs for app login | Password inputs for app login | Email login |
 
-### **Appearance**
+## **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -34,7 +34,7 @@ An Email Picker is a TextBox that pre-populates email addresses within a user's 
 | Font Typeface | Default \(Roboto\), Roboto Regular, Roboto Thin, Sans Serif, Serif, and Monospace. You can upload your own custom font \(.ttf\) |
 | Visible | If checked, the textbox will be visible on the screen |
 
-### Functionality
+## Functionality
 
 | Event | Description |
 | :--- | :--- |

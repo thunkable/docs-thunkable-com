@@ -7,7 +7,7 @@
 * [List calculations](lists.md#list-calculations)
 * [Introduce randomness](lists.md#introduce-randomness)
 
-### Create a list
+## Create a list
 
 \(a\) ![](../../../.gitbook/assets/list-block-1.png)\(b\)![](../../../.gitbook/assets/list-block-2.png)
 
@@ -15,7 +15,7 @@
 
 \(b\) **Makes a list** Creates a list from the given blocks. If you don't supply any arguments, this creates an empty list, which you can add elements to later
 
-### Manage a list
+## Manage a list
 
 \(a\) ![](../../../.gitbook/assets/list-block-3.png)\(b\) ![](../../../.gitbook/assets/list-block-10.png)\(c\) ![](../../../.gitbook/assets/list-block-11.png)
 
@@ -43,7 +43,7 @@
 
 \(j\) **List from csv table** Parses a `text` as a CSV \(comma-separated value\) formatted table to produce a list of rows, each of which is a list of fields.Rows can be separated by newlines \(\n\) or CRLF \(\r\n\)
 
-### Select from a list
+## Select from a list
 
 \(a\) ![](../../../.gitbook/assets/list-block-9.png)\(b\) ![](../../../.gitbook/assets/list-block-16.png)
 
@@ -51,7 +51,7 @@
 
 \(b\) **Pair lookup \(similar to vlookup\)** Used for looking up information in a dictionary-like structure represented as a list. This operation takes three inputs, a `key`, a list `pairs`, and a `notFound`result, which by default, is set to "not found". Here `pairs`must be a list of pairs, that is, a list where each element is itself a list of two elements. Lookup in pairs finds the first pair in the list whose first element is the key, and returns the second element. For example, if the list is \(\(a apple\) \(d dragon\) \(b boxcar\) \(cat 100\)\) then looking up 'b' will return 'boxcar'. If there is no such pair in the list, then the lookup in pairs will return the `notFound`result. If pairs is not a list of pairs, then the operation will signal an error
 
-### Conditionals with lists
+## Conditionals with lists
 
 \(a\) ![](../../../.gitbook/assets/list-block-5.png)\(b\) ![](../../../.gitbook/assets/list-block-15.png)
 
@@ -59,7 +59,7 @@
 
 \(b\) **Is a list?** If `thing` is a list, returns true; otherwise, returns false
 
-### List calculations
+## List calculations
 
 \(a\) ![](../../../.gitbook/assets/list-block-6.png)\(b\) ![](../../../.gitbook/assets/list-block-8.png)
 
@@ -67,7 +67,7 @@
 
 \(b\) **Index** Returns the position of the `thing` in the `list`. If not in the list, returns 0
 
-### Introduce randomness
+## Introduce randomness
 
 \(a\)![](../../../.gitbook/assets/list-block-7.png)
 

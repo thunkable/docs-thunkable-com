@@ -1,10 +1,10 @@
 # Sharing
 
-###  ![](../../../../.gitbook/assets/sharing-icon.png)
+## ![](../../../../.gitbook/assets/sharing-icon.png)
 
 The component will display a list of the installed apps that can handle the information provided, and will allow the user to choose one to share the content with, for instance a mail app, a social network app, a texting app, and so on.
 
-### Share a message through another installed app![](../../../../.gitbook/assets/sharing-fig-1.png)
+## Share a message through another installed app![](../../../../.gitbook/assets/sharing-fig-1.png)
 
 | Property / Event | Description |
 | :--- | :--- |

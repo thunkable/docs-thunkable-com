@@ -1,6 +1,6 @@
 # Accelerometer
 
-### ![](../../../../.gitbook/assets/accelerometer-icon.png)
+## ![](../../../../.gitbook/assets/accelerometer-icon.png)
 
 The Accelerometer component on Thunkable can be used to detect shaking events, indicate if the phone should be in Portrait or Landscape mode, and measure acceleration in 3 dimensions:
 
@@ -8,7 +8,7 @@ The Accelerometer component on Thunkable can be used to detect shaking events, i
 
 Our amazing community member Domhnall made [this great resource](https://community.thunkable.com/t/how-to-use-the-accelerometer-sensor/1038) to further explain the power of this sensor
 
-### Trigger an event by shaking your phone
+## Trigger an event by shaking your phone
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -17,7 +17,7 @@ Our amazing community member Domhnall made [this great resource](https://communi
 | Sensitivity | A number that encodes how sensitive the accelerometer is. The choices are: 1 = weak, 2 = moderate, 3 = strong. |
 | Enabled | If 'true', the accelerometer sensor is enabled |
 
-### Measure changes in acceleration
+## Measure changes in acceleration
 
 | Event / Property | Description |
 | :--- | :--- |

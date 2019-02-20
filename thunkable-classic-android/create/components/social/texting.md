@@ -1,8 +1,8 @@
 # Texting
 
-### ![](../../../../.gitbook/assets/texting-icon.png)
+## ![](../../../../.gitbook/assets/texting-icon.png)
 
-### Send a text
+## Send a text
 
 ![](../../../../.gitbook/assets/texting-blocks-1.png)
 
@@ -13,7 +13,7 @@
 | Send Message | Sends a text message |
 | Google Voice Enabled | If true, then Send Message will attempt to send messages over Wifi using Google Voice. This requires that the Google Voice app must be installed and set up on the phone or tablet, with a Google Voice account. If Google Voice Enabled is false, the device must have phone and texting service in order to send or receive messages with this component |
 
-### Send a text automatically upon receiving one
+## Send a text automatically upon receiving one
 
 ![](../../../../.gitbook/assets/texting-blocks-2.png)
 

@@ -74,10 +74,10 @@ To find the spacing properties, you'll have to select the `Advanced` tab
 ## Add marker
 
 {% hint style="info" %}
-There are limited styling options for markers at the moment. We are working to add the ability to change colors as well as add custom icons 
+There are limited styling options for markers at the moment. We are working to add the ability to change colors as well as add custom icons
 {% endhint %}
 
-![The default map marker is red on both Google and Apple Maps](../../../../.gitbook/assets/thunkable-documentation-exhibits-75%20%281%29.png)
+![The default map marker is red on both Google and Apple Maps](../../../../.gitbook/assets/thunkable-documentation-exhibits-75-1.png)
 
 You can add a standard default marker to your map with the blocks below. The Map component does not yet supply its own latitude and longitude so we currently recommend using the Location Sensor component
 
@@ -93,9 +93,9 @@ To add a polyline, you can use the blocks below where `coordinates` need to be i
 
 ## Add polygon
 
-![This is the satellite map available on Apple Maps, available for iOS](../../../../.gitbook/assets/thunkable-documentation-exhibits-76%20%281%29.png)
+![This is the satellite map available on Apple Maps, available for iOS](../../../../.gitbook/assets/thunkable-documentation-exhibits-76-1.png)
 
-To add a polygon, you can use the blocks below where `coordinates` need to be in a list of latitude and longitude objects, `stroke Width` is an integer,  `stroke Color` is in hex format, and `fill Color` is in hex format
+To add a polygon, you can use the blocks below where `coordinates` need to be in a list of latitude and longitude objects, `stroke Width` is an integer, `stroke Color` is in hex format, and `fill Color` is in hex format
 
 ![](../../../../.gitbook/assets/screen-shot-2018-04-24-at-5.14.08-pm.png)
 

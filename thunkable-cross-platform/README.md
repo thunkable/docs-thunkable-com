@@ -7,7 +7,5 @@ Thunkable ✕ is our flagship platform where users create a single project that 
 * **Remix from the world's largest public collection of app projects**. Preview, view and remix from the Public Gallery, a collection of projects powered by the amazing Thunkable community
 * **Access the latest technologies.** Payments by Stripe. Assistant by Dialogflow. Spreadsheet by Airtable. Coming soon, blockchain.
 
-Thunkable ✕ is powered by React Native, one of the most popular technologies available to professional app developers today.  
-
-
+Thunkable ✕ is powered by React Native, one of the most popular technologies available to professional app developers today.
 

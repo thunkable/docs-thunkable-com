@@ -1,10 +1,10 @@
 # Slider
 
-###  ![](../../../../.gitbook/assets/slider-icon.png)
+## ![](../../../../.gitbook/assets/slider-icon.png)
 
 ![](../../../../.gitbook/assets/slider.png)
 
-### **Appearance**
+## **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -13,7 +13,7 @@
 | Color Right | Default \(Gray\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Visible | If checked, the slider will be visible on the screen |
 
-### Functionality
+## Functionality
 
 | Event / Property | Description |
 | :--- | :--- |

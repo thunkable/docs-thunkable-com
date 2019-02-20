@@ -10,7 +10,7 @@ Lego Mindstorms include an intelligent brick computer that controls the system, 
 
 LEGO and MINDSTORMS are registered trademarks of the LEGO Group.
 
-### Add a Bluetooth Client component to set up your Lego Mindstorm component\(s\)
+## Add a Bluetooth Client component to set up your Lego Mindstorm component\(s\)
 
 All of these components have a Bluetooth Client property that tells which Bluetooth Client component to use for communication with the robot. You will need to explicitly add a Bluetooth Client component to your project.
 
@@ -20,7 +20,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | :--- | :--- |
 | Bluetooth Client | The BluetoothClient component that should be used for communication |
 
-### Programming your robot
+## Programming your robot
 
 | EV3 | NXT | Description |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | [Commands](lego-mindstorms.md#ev3-commands) | [Direct Commands](lego-mindstorms.md#nxt-direct-commands) | Sends system or direct commands |
 |  | [Light Sensor](lego-mindstorms.md#nxt-light-sensor) | Controls the light sensor on the NXT |
 
-### EV3 Motors
+## EV3 Motors
 
 | Property | Description |
 | :--- | :--- |
@@ -60,7 +60,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Reset Tacho Count | Set the current tacho count to zero |
 | Get Tacho Count | Get the current tacho count |
 
-### EV3 UI
+## EV3 UI
 
 | Event | Description |
 | :--- | :--- |
@@ -71,7 +71,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Draw Circle \(color, x, y, radius, fill\) | Draw a circle on the screen |
 | Fill Screen \(color\) | Fill the screen with a color |
 
-### EV3 Gyro Sensor
+## EV3 Gyro Sensor
 
 | Property | Description |
 | :--- | :--- |
@@ -85,7 +85,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Set Angle Mode | Measures the orientation of the sensor |
 | Set Rate Mode | Measures the angular velocity of the sensor |
 
-### EV3 Color Sensor
+## EV3 Color Sensor
 
 | Property | Description |
 | :--- | :--- |
@@ -107,7 +107,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Set Reflected Mode | Make the sensor read the light level with reflected light |
 | Set Ambient Mode | Make the sensor read the light level without reflected light |
 
-### EV3 Touch Sensor
+## EV3 Touch Sensor
 
 | Property / Event | Description |
 | :--- | :--- |
@@ -116,7 +116,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Released Event Enabled | Whether the Released event should fire when the touch sensor is released |
 | Is Pressed | Returns true if the touch sensor is pressed |
 
-### EV3 Ultrasonic Sensor
+## EV3 Ultrasonic Sensor
 
 | Property | Description |
 | :--- | :--- |
@@ -135,14 +135,14 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Set Cm Unit | Measure the distance in centimeters |
 | Set Inch Unit | Measure the distance in inches |
 
-### EV3 Sound Sensor
+## EV3 Sound Sensor
 
 | Event | Description |
 | :--- | :--- |
 | PlayTone \(volume, frequency, milliseconds\) | Make the robot play a tone |
 | Stop Sound | Stop any sound on the robot |
 
-### EV3 Commands
+## EV3 Commands
 
 | Event | Description |
 | :--- | :--- |
@@ -155,7 +155,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Get Firmware Build | Get the firmware build on EV3 |
 | Get Hardware Version | Get the hardware version of EV3 |
 
-### NXT Drive
+## NXT Drive
 
 | Property | Description |
 | :--- | :--- |
@@ -173,7 +173,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Turn Clockwise Indefinitely \(power\) | Turn the robot clockwise indefinitely, with the specified percentage of maximum power |
 | Turn CounterClockwise Indefinitely \(power\) | Turn the robot counterclockwise indefinitely, with the specified percentage of maximum power |
 
-### NXT Color Sensor
+## NXT Color Sensor
 
 | Property | Description |
 | :--- | :--- |
@@ -196,7 +196,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Get Light Level | Returns the current light level as a value between 0 and 1023, or -1 if the light level can not be read or if the DetectC olor property is set to True |
 | Get Color | Returns the current detected color, or the color None if the color can not be read or if the DetectColor property is set to False |
 
-### NXT Touch Sensor
+## NXT Touch Sensor
 
 | Property / Event | Description |
 | :--- | :--- |
@@ -207,7 +207,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Pressed | Touch sensor has been pressed |
 | Released | Touch sensor has been released |
 
-### NXT Ultrasonic Sensor
+## NXT Ultrasonic Sensor
 
 | Property | Description |
 | :--- | :--- |
@@ -225,7 +225,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Within Range | Distance has gone within the range |
 | Above Range | Distance has gone above the range |
 
-### NXT Sound Sensor
+## NXT Sound Sensor
 
 | Property | Description |
 | :--- | :--- |
@@ -243,7 +243,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Within Range | Distance has gone within the range |
 | Above Range | Distance has gone above the range |
 
-### NXT Direct Commands
+## NXT Direct Commands
 
 | Event | Description |
 | :--- | :--- |
@@ -273,7 +273,7 @@ If you have one robot, you should have one BluetoothClient component. If you are
 | Stop Program | Stop execution of the currently running program on the robot |
 | Stop Sound Playback | Stop sound playback |
 
-### NXT Light Sensor
+## NXT Light Sensor
 
 | Property | Description |
 | :--- | :--- |

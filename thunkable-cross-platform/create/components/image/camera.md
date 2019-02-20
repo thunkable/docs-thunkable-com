@@ -2,7 +2,7 @@
 
 * [Take Photo](camera.md#take-photo)
 
-![](../../../../.gitbook/assets/camera-fig-1%20%281%29.png)
+![](../../../../.gitbook/assets/camera-fig-1-1.png)
 
 ## Take Photo
 

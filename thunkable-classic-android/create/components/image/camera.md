@@ -1,6 +1,6 @@
 # Camera
 
-### ![](../../../../.gitbook/assets/camera-icon.png)
+## ![](../../../../.gitbook/assets/camera-icon.png)
 
 The app [Taschenlampe](https://www.gitbook.com/book/albertching/thunkable-docs/edit#) \(Flashlight in German\) created by power Thunker Mika uses a camera's flash as a flashlight
 

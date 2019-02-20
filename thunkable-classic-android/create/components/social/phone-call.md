@@ -1,8 +1,8 @@
 # Phone Call
 
-###  ![](../../../../.gitbook/assets/phone-call-icon.png)
+## ![](../../../../.gitbook/assets/phone-call-icon.png)
 
-### Make a phone call
+## Make a phone call
 
 ![](../../../../.gitbook/assets/phone-call-blocks.png)
 

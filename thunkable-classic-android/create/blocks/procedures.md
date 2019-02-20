@@ -7,13 +7,13 @@ Procedure blocks can have inputs \(also known as arguments\) which you can add b
 * [Define a procedure](procedures.md#define-a-procedure)
 * [Call a procedure](procedures.md#call-a-procedure)
 
-### Define a procedure
+## Define a procedure
 
 ![](../../../.gitbook/assets/function-block-2.png)
 
 In the above example from the sample app [Thunkableagram: AI-powered Instagram](procedures.md), the procedure is named updatePost1 and encapsulates a number of events that will run when this procedure is called
 
-### Call a procedure
+## Call a procedure
 
 ![](../../../.gitbook/assets/function-block-3.png)
 

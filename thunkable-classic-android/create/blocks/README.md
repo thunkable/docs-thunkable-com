@@ -4,7 +4,7 @@ Built-in blocks are available regardless of which components are in your project
 
 | [Control](control.md) | [Logic](logic.md) | [Math](math.md) | [Text](text.md) |
 | :--- | :--- | :--- | :--- |
-| ![](../../../.gitbook/assets/control-blocks-1.png) | ![](../../../.gitbook/assets/logic-blocks-1%20%281%29.png) | ![](../../../.gitbook/assets/math-block-1.png) | ![](../../../.gitbook/assets/text-block-1.png) |
+| ![](../../../.gitbook/assets/control-blocks-1.png) | ![](../../../.gitbook/assets/logic-blocks-1-1.png) | ![](../../../.gitbook/assets/math-block-1.png) | ![](../../../.gitbook/assets/text-block-1.png) |
 | [**Lists**](lists.md) | [**Colors**](colors.md) | [**Variables**](variables.md) | [**Procedures**](procedures.md) |
 | ![](../../../.gitbook/assets/list-block-4.png) | ![](../../../.gitbook/assets/color-block-1.png) | ![](../../../.gitbook/assets/variable-block-1.png) | ![](../../../.gitbook/assets/function-block-4.png) |
 

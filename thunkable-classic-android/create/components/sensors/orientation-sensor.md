@@ -1,10 +1,10 @@
 # Orientation Sensor
 
-###  ![](../../../../.gitbook/assets/orientation-sensor-icon.png)
+## ![](../../../../.gitbook/assets/orientation-sensor-icon.png)
 
 ![](../../../../.gitbook/assets/orientation-fig-1.png)
 
-### Detect Phone Tilt Orientation
+## Detect Phone Tilt Orientation
 
 | Event / Property | Description |
 | :--- | :--- |

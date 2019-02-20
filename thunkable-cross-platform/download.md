@@ -23,11 +23,11 @@ Due to special circumstances from Apple, there is a limit of one downloaded app 
 
 To download your Android app, select Download Android App and an .apk file will be generated on your desktop
 
-![](../.gitbook/assets/thunkable-documentation-exhibits-95%20%281%29.png)
+![](../.gitbook/assets/thunkable-documentation-exhibits-95-1.png)
 
 ### Keep your .apk file
 
-If you are using the latest version of Chrome you might see a notification that your app "_is not commonly downloaded and may be dangerous_". While some .apk files can potentially contain malicious software you are downloading an app that you have created yourself so there is no danger here. You can click on the "More Options" menu and choose the "Keep" option as highlighted below to complete your download. 
+If you are using the latest version of Chrome you might see a notification that your app "_is not commonly downloaded and may be dangerous_". While some .apk files can potentially contain malicious software you are downloading an app that you have created yourself so there is no danger here. You can click on the "More Options" menu and choose the "Keep" option as highlighted below to complete your download.
 
 ![](../.gitbook/assets/screen-shot-2018-06-28-at-19.33.13.png)
 

@@ -13,7 +13,7 @@ Components
 * [App crashing with Spreadsheets](troubleshooting.md#crash-spreadsheet)
 * [Image not appearing ](troubleshooting.md#image-not-showing)
 
-### Exporting apps for downloading / publishing
+## Exporting apps for downloading / publishing
 
 If your app does not build, install or frequently crashes, the most likely problems are:
 
@@ -28,7 +28,7 @@ If your app does not build, install or frequently crashes, the most likely probl
   * Errors in blocks \(usually this will prevent the app from building\)
   * Too many blocks \(we have seen a few cases where a lot of blocks create performance issues\)
 
-### Live testing
+## Live testing
 
 If your app does not appear on your device, the most likely problems are:
 
@@ -38,19 +38,19 @@ If your app does not appear on your device, the most likely problems are:
 * Your device may not be connected to the same wifi network as your computer. Make sure both devices are connected to the same wifi network name.
 * Try using a different browser. If you are on Chrome, you can also try opening Thunkable a New Incognito Window
 
-### Emptying the backpack
+## Emptying the backpack
 
 If you are trying to empty your backpack:
 
-* Emptying the backpack can be completed with a right click on the Blocks Editor![](../.gitbook/assets/empty-backpack.png)
+* Emptying the backpack can be completed with a right click on the Blocks Editor![](../.gitbook/assets/empty-backpack%20%281%29.png)
 
-### Designing for tablets
+## Designing for tablets
 
 If you cannot see the Tablet previewer:
 
 * Need to set Screen Size to 'Responsive' and check to see preview on Tablet size![](../.gitbook/assets/tablet-screen-fig-1.png)
 
-### Ads not showing up with AdMob ![](../.gitbook/assets/admob-icon.png) <a id="ads-admob"></a>
+## Ads not showing up with AdMob ![](../.gitbook/assets/admob-icon.png)  <a id="ads-admob"></a>
 
 If your ads are not showing up:
 
@@ -60,14 +60,14 @@ If your ads are not showing up:
 * Account has been suspended by AdMob. Clicking ads on your own app can lead to suspensions as can one or more users repeatedly clicking the ads on your app. Accounts can also be suspended for deceptive ad placement that generates accidental clicks
 * [Check the AdMob forum for more potential errors](https://community.thunkable.com/c/professional/admob)
 
-### App crashing with Spreadsheets ![](../.gitbook/assets/spreadsheets-icon.png) <a id="crash-spreadsheet"></a>
+## App crashing with Spreadsheets ![](../.gitbook/assets/spreadsheets-icon.png)  <a id="crash-spreadsheet"></a>
 
 If your app is crashing, then most likely:
 
 * You have not hit 'Sync to Template' every time you refresh your data on the Cloudstitch interface \(see step 3 of [Set up](troubleshooting.md#set-up)\)
 * Spreadsheets does not currently work if your cells contain a “,” or “:” in the cells that are being retrieved. More info on the [current workaround here](https://www.gitbook.com/book/thunkable/thunkable-docs/edit#) from Domnhall in our community if you do have them
 
-### Image not appearing  ![](../.gitbook/assets/image-icon.png) <a id="image-not-showing"></a>
+## Image not appearing  ![](../.gitbook/assets/image-icon.png)  <a id="image-not-showing"></a>
 
 If you're images are not showing up in app or in live preview
 

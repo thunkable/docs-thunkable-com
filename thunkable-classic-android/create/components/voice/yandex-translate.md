@@ -1,16 +1,16 @@
 # Yandex Translate
 
-###  ![](../../../../.gitbook/assets/yandex-icon.png)
+## ![](../../../../.gitbook/assets/yandex-icon.png)
 
 This component needs Internet access, as it will request translations to the Yandex Translate service. See [http://api.yandex.com/translate/](http://api.yandex.com/translate/) for more information
 
 The Yandex Translate component is used in the sample app [ThunkableChat: Chat with Instant Translation](https://www.gitbook.com/book/albertching/thunkable-docs/edit#)
 
-### Translate spoken text to Russian
+## Translate spoken text to Russian
 
 ![](../../../../.gitbook/assets/yandex-translate-blocks.png)
 
-### Functionality
+## Functionality
 
 | Event | Description |
 | :--- | :--- |
@@ -18,7 +18,7 @@ The Yandex Translate component is used in the sample app [ThunkableChat: Chat wi
 | Got Translation \(responseCode, translation\) | Event triggered when the Yandex Translate service returns the translated text. The even also provides a response code for error handling. If the responseCode is not 200, then something went wrong and no translation will be available |
 | Yandex Key | Thunkable is providing its own key by DEFAULT. You can sign up for your own key on Yandex |
 
-### Available translation languages
+## Available translation languages
 
 According to [Yandex](https://tech.yandex.com/translate/doc/dg/concepts/api-overview-docpage/#languages), there are more than 90 available languages including the ones below
 

@@ -1,13 +1,13 @@
 # Button
 
-### ![](../../../../.gitbook/assets/button-icon.png)
+## ![](../../../../.gitbook/assets/button-icon.png)
 
 |  | Default | Material Icon |
 | :--- | :--- | :--- |
 |  | ![](../../../../.gitbook/assets/button.png) | ![](../../../../.gitbook/assets/button-material-icon.png) |
 | Common use case | Start an event | Navigation or settings |
 
-### ![](../../../../.gitbook/assets/pro-tip-icon.png) Pro-tip: Buttons and Icon Fonts <a id="button-pro-tip"></a>
+## ![](../../../../.gitbook/assets/pro-tip-icon.png) Pro-tip: Buttons and Icon Fonts  <a id="button-pro-tip"></a>
 
 One of the most common customizations of buttons is to add an image to them but this can both take time to generate and also take up valuable space in your app. One way to avoid this is to use one of the many icon fonts available to substitute a custom font for images.
 
@@ -17,11 +17,11 @@ For social media bars, we recommend the [Mono Social Font](http://drinchev.githu
 
 The sample app [Thunkableagram: AI-powered Instagram](button.md) uses the Material Design Icon Font for the bottom navigation bar
 
-### Click a Button to Open a Screen
+## Click a Button to Open a Screen
 
 ![](../../../../.gitbook/assets/button-blocks-1.png)
 
-### **Appearance**
+## **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -40,7 +40,7 @@ The sample app [Thunkableagram: AI-powered Instagram](button.md) uses the Materi
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
 | Visible | If checked, the button will be visible on the screen |
 
-### Functionality
+## Functionality
 
 | Event | Description |
 | :--- | :--- |

@@ -23,7 +23,7 @@ Firebase Realtime Database also pairs well with [Sign in](https://github.com/thu
 
 ### Create your free [Firebase](https://firebase.google.com/) project and account
 
-![](../../../../.gitbook/assets/firebase-fig-3%20%281%29.png)
+![](../../../../.gitbook/assets/firebase-fig-3-1.png)
 
 ### Edit database rules
 
@@ -39,13 +39,13 @@ Otherwise, you will need to set your Read and Write rules to `true`
 
 To connect your Firebase project with Thunkable, you'll have to add an `API key` and `Database URL` to the Firebase Settings in the App Settings, which you can find by clicking on your app icon
 
-![](../../../../.gitbook/assets/thunkable-documentation-exhibits-67%20%281%29.png)
+![](../../../../.gitbook/assets/thunkable-documentation-exhibits-67-1.png)
 
 One way to retrieve the `API key` and `Database URL` from Firebase is to click on the `Add Firebase to your web app option`
 
 ![](../../../../.gitbook/assets/thunkable-documentation-exhibits-68.png)
 
-![](../../../../.gitbook/assets/thunkable-documentation-exhibits-69%20%281%29.png)
+![](../../../../.gitbook/assets/thunkable-documentation-exhibits-69-1.png)
 
 ### Test save to your database
 
@@ -81,9 +81,7 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 
 ## Separating your data into project buckets
 
-You might want to split your database into smaller spaces, also known as project buckets.  To do this, you would need to save your value as an object and use the create object block to create your project bucket. More details in [this post](https://community.thunkable.com/t/project-bucket-option-in-ios/31957).
+You might want to split your database into smaller spaces, also known as project buckets. To do this, you would need to save your value as an object and use the create object block to create your project bucket. More details in [this post](https://community.thunkable.com/t/project-bucket-option-in-ios/31957).
 
-
-
-![Thanks to our power Thunker @actech for this awesome tip!](../../../../.gitbook/assets/image%20%289%29.png)
+![Thanks to our power Thunker @actech for this awesome tip!](../../../../.gitbook/assets/image-9.png)
 

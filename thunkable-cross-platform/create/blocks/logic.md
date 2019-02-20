@@ -10,7 +10,7 @@
 
 ## Value blocks
 
-Value blocks can go into the sockets of the statement blocks to define the conditions that are being tested. 
+Value blocks can go into the sockets of the statement blocks to define the conditions that are being tested.
 
 ![](../../../.gitbook/assets/blocks-logic-fig-5.png)
 
@@ -19,8 +19,4 @@ Value blocks can go into the sockets of the statement blocks to define the condi
 The null block is often used when retrieving data from a database or calling a service for the first time
 
 ![](../../../.gitbook/assets/screen-shot-2018-05-22-at-8.19.40-am.png)
-
-
-
-
 

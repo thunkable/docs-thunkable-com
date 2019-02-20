@@ -1,6 +1,6 @@
 # DatePicker + TimePicker
 
-####  ![](../../../../.gitbook/assets/datepicker-icon%20%281%29.png) +  ![](../../../../.gitbook/assets/timepicker-icon%20%282%29.png)
+### ![](../../../../.gitbook/assets/datepicker-icon-1.png) +  ![](../../../../.gitbook/assets/timepicker-icon-2.png)
 
 |  | ![](../../../../.gitbook/assets/datepicker-icon.png) | ![](../../../../.gitbook/assets/timepicker-icon.png) |
 | :--- | :--- | :--- |
@@ -8,9 +8,9 @@
 |  | ![](../../../../.gitbook/assets/datepicker.png) | ![](../../../../.gitbook/assets/timepicker.png) |
 | Common use case | Selecting day | Selecting time |
 
-### DatePicker ![](../../../../.gitbook/assets/datepicker-icon%20%282%29.png) <a id="datepicker"></a>
+## DatePicker ![](../../../../.gitbook/assets/datepicker-icon-2.png)  <a id="datepicker"></a>
 
-#### **Appearance**
+### **Appearance**
 
 There are two elements to a DatePicker, a button that opens the DatePicker and the DatePicker itself. The button you can customize but the DatePicker design is set to the Material Design default.
 
@@ -31,7 +31,7 @@ There are two elements to a DatePicker, a button that opens the DatePicker and t
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
 | Visible | If checked, the button will be visible on the screen |
 
-#### Functionality
+### Functionality
 
 | Property / Event | Description |
 | :--- | :--- |
@@ -48,9 +48,9 @@ There are two elements to a DatePicker, a button that opens the DatePicker and t
 | Month | Month selected by user \(1-12\) |
 | Year | Year selected by user |
 
-### TimePicker ![](../../../../.gitbook/assets/timepicker-icon%20%281%29.png) <a id="timepicker"></a>
+## TimePicker ![](../../../../.gitbook/assets/timepicker-icon-1.png)  <a id="timepicker"></a>
 
-#### **Appearance**
+### **Appearance**
 
 There are two elements to a TimePicker, a button that opens the TimePicker and the TimePicker itself. The button you can customize but the TimePicker design is set to the Material Design default.
 
@@ -71,7 +71,7 @@ There are two elements to a TimePicker, a button that opens the TimePicker and t
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
 | Visible | If checked, the button will be visible on the screen |
 
-#### Functionality
+### Functionality
 
 | Property / Event | Description |
 | :--- | :--- |

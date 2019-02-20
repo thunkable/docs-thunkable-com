@@ -1,6 +1,6 @@
 # Publish to App Store \(iOS\)
 
-Publishing your app to the App Store can be a rewarding process. 
+Publishing your app to the App Store can be a rewarding process.
 
 Apple requires a lot information for apps that are available in their App Store. As a result, the publishing process can feel long and will require at least 20 minutes to complete the necessary steps, which currently requires information from 4 different Apple websites.
 
@@ -22,38 +22,38 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 * Apple Developer Program membership \($100/year\). Don't have one? [**Sign up here**](https://developer.apple.com/programs/).
 
-## Register your app 
+## Register your app
 
-**Go to the** [**Apple Developer website**](https://developer.apple.com/account/ios/identifier/bundle/create) ****\(Certificates, Identifiers and Profiles\)
+**Go to the** [**Apple Developer website**](https://developer.apple.com/account/ios/identifier/bundle/create) _\*\*_\(Certificates, Identifiers and Profiles\)
 
 After login, the first thing you want to do is navigate to the App IDs section and register a new App ID.
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-50.png)
 
-When you register an App ID, you'll have to pick an app `Name`.  The app Name must be unique to the App Store and is what appears next to the app icon when it is downloaded on a user's phone.
+When you register an App ID, you'll have to pick an app `Name`. The app Name must be unique to the App Store and is what appears next to the app icon when it is downloaded on a user's phone.
 
 Apple will automatically create a `Team ID`. The `Team ID` is your unique account identifier that is linked to your Apple Developer Program membership.
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-51.png)
 
-You will then create a `Bundle ID` which is unique to your app but not visible to your app users. If you plan on publishing multiple apps, we suggest you create a Wildcard App ID. Otherwise, a single Explicit App ID should work. 
+You will then create a `Bundle ID` which is unique to your app but not visible to your app users. If you plan on publishing multiple apps, we suggest you create a Wildcard App ID. Otherwise, a single Explicit App ID should work.
 
 Apple recommends reversing your domain name to create your bundle ID i.e. com.{yourdomain}.{appname} to avoid conflicts with other apps.
 
 ## Two-factor authentication
 
-Two-factor authentication helps to keep your account secure and Apple is making it mandatory for new developers to turn two-factor authentication on. 
+Two-factor authentication helps to keep your account secure and Apple is making it mandatory for new developers to turn two-factor authentication on.
 
 If you do have it turned on, you'll need to complete a few more steps to confirm your identity with Apple.
 
 ### Generate and upload an account certificate
 
-First download the Certificate Signing Request \(CSR\) file.  You'l need this file to generate an account certificate.
+First download the Certificate Signing Request \(CSR\) file. You'l need this file to generate an account certificate.
 
-**Go to the** [**Apple Developer website**](https://developer.apple.com/account/ios/identifier/bundle/create) ****\(Certificates, Identifiers and Profiles\)
+**Go to the** [**Apple Developer website**](https://developer.apple.com/account/ios/identifier/bundle/create) _\*\*_\(Certificates, Identifiers and Profiles\)
 
 {% hint style="warning" %}
-You may already have an account certificate in your account. You can only have two certificates per account so you may need to revoke a certificate before you can create a new one.  
+You may already have an account certificate in your account. You can only have two certificates per account so you may need to revoke a certificate before you can create a new one.
 {% endhint %}
 
 ![After login, navigate to the Certificates section and create a new certificate ](../../.gitbook/assets/thunkable-docs-exhibits-57.png)
@@ -66,7 +66,7 @@ You may already have an account certificate in your account. You can only have t
 
 ### Generate and upload an app provisioning profile
 
-**Go to the** [**Apple Developer website**](https://developer.apple.com/account/ios/identifier/bundle/create) ****\(Certificates, Identifiers and Profiles\)
+**Go to the** [**Apple Developer website**](https://developer.apple.com/account/ios/identifier/bundle/create) _\*\*_\(Certificates, Identifiers and Profiles\)
 
 Provisioning profiles are required by Apple to install an app on a device.
 
@@ -98,7 +98,7 @@ Apple requires app-specific passwords to sign-in securely from Thunkable.
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-71.png)
 
-## App Store Connect <a id="appstore-connect"></a>
+## App Store Connect  <a id="appstore-connect"></a>
 
 ### Create a new app
 
@@ -115,8 +115,6 @@ App Store Connect is your portal for managing your submission to the App Store.
 ![If you registered a Wildcard App ID, you will be asked for your suffix \(see above\) which is simply the last part of your Wildcard App ID](../../.gitbook/assets/thunkable-docs-exhibits-88.png)
 
 ![You should see your new app in the My Apps section of the App Store Connect portal.](../../.gitbook/assets/thunkable-docs-exhibits-56.png)
-
-
 
 ## App info
 
@@ -177,8 +175,6 @@ The App Information section is straightforward but does include a privacy policy
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-72.png)
 
-
-
 ### Pricing and availability
 
 ![](../../.gitbook/assets/thunkable-docs-exhibits-73.png)
@@ -188,7 +184,7 @@ The App Information section is straightforward but does include a privacy policy
 The final section requires screenshots for both iPhone and iPad and a high resolution icon \(1024 x 1024 px\)
 
 {% hint style="info" %}
-Thunkable automatically submits your app for both iPhone and iPad so you'll have to submit screenshots for both iPhone and iPad. **** There is currently no way to specify the device type. For generating screenshots, we recommend a tool [like this](https://shotbot.io/?utm_source=makeappicon&utm_medium=web&utm_campaign=makeappicon)
+Thunkable automatically submits your app for both iPhone and iPad so you'll have to submit screenshots for both iPhone and iPad. _\*\*_ There is currently no way to specify the device type. For generating screenshots, we recommend a tool [like this](https://shotbot.io/?utm_source=makeappicon&utm_medium=web&utm_campaign=makeappicon)
 
 The high resolution icon will be featured in the App Store listing and must be 1024 x 1024 px with no transparency. To generate this icon, we recommend a tool [like this](https://makeappicon.com/)
 {% endhint %}

@@ -1,8 +1,8 @@
 # Clock
 
-### ![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/clock-icon.png) <a id="thunkable-for-android-&#x2764;"></a>
+## ![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/clock-icon.png)  <a id="thunkable-for-android-&#x2764;"></a>
 
-### Set a Timer \(to Turn Off a Splash Screen\) <a id="set-a-timer-to-turn-off-a-splash-screen"></a>
+## Set a Timer \(to Turn Off a Splash Screen\)  <a id="set-a-timer-to-turn-off-a-splash-screen"></a>
 
 ![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/clock-blocks-1.png)
 
@@ -15,7 +15,7 @@
 | Timer | When timer has gone off |
 | Timer Always Fires | If 'true', timer will fire even if the application is not showing on the screen |
 
-### Get the Current Time <a id="get-the-current-time"></a>
+## Get the Current Time  <a id="get-the-current-time"></a>
 
 ![](https://thunkable.gitbooks.io/thunkable-docs/content/assets/clock-blocks-2.png)
 
@@ -37,7 +37,7 @@
 | Second \(instant\) | Returns the second of the minute \(0-59\) from the instant |
 | Get Millis \(instant\) | Returns the instant in time measured as milliseconds since 1970 |
 
-### Set a Future Time <a id="set-a-future-time"></a>
+## Set a Future Time  <a id="set-a-future-time"></a>
 
 | Property | Description |
 | :--- | :--- |
@@ -50,7 +50,7 @@
 | Add Hours \(instant, hours\) | Returns an instant in time some hours after the argument |
 | Add Duration \(instant, duration\) | Returns an instant in time some time after the argument. Duration can be obtained from Clock.Duration |
 
-### Calculate Duration <a id="calculate-duration"></a>
+## Calculate Duration  <a id="calculate-duration"></a>
 
 | Property | Description |
 | :--- | :--- |

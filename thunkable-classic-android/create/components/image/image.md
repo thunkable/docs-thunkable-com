@@ -1,6 +1,6 @@
 # Image
 
-###  ![](../../../../.gitbook/assets/image-icon.png)
+## ![](../../../../.gitbook/assets/image-icon.png)
 
 {% hint style="info" %}
 We have heard of some performance issues with .jpegs so if you are having errors, you may want to convert your images to .pngs. We recommend the Web Viewer for displaying animated .gifs
@@ -10,13 +10,13 @@ We have heard of some performance issues with .jpegs so if you are having errors
 | :--- | :--- | :--- |
 | Common use case | Display any images but .gifs | Display .gifs |
 
-### Set Image source
+## Set Image source
 
 | Property | Description |
 | :--- | :--- |
 | Picture | You can upload an image to your app or reference an image url |
 
-### Style the Image
+## Style the Image
 
 | Property | Description |
 | :--- | :--- |

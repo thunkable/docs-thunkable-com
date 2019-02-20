@@ -20,11 +20,11 @@ Success on Google Play starts with quality. The best apps and games have higher 
 
 To publish your app on Android, you'll need to add an `app icon`, a `name`, a `package name` and an app `version`. To find the App settings, click on the App Icon on the top left.
 
-![](../../.gitbook/assets/ezgif.com-video-to-gif-31%20%281%29.gif)
+![](../../.gitbook/assets/ezgif.com-video-to-gif-31-1.gif)
 
 For recommendations on your `app icon` and `name`, [please see this guide](../create/app-icon-+-name.md).
 
-Each Android app that is published to the Play Store has a unique `package name`. Currently, you can enter this in the App \(Bundle\) ID field. 
+Each Android app that is published to the Play Store has a unique `package name`. Currently, you can enter this in the App \(Bundle\) ID field.
 
 {% hint style="info" %}
 If you are only publishing to the Play Store, you do not need to enter a Team ID to publish to the Play Store \(this is for iOS only\)
@@ -48,7 +48,7 @@ Before you download your app, make sure you set the appropriate Build and Versio
 
 Next, create a new release. This is where you'll upload the latest version of your app \(.apk\)
 
-![](../../.gitbook/assets/thunkable-documentation-exhibits-96%20%281%29.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-96-1.png)
 
 ![](../../.gitbook/assets/thunkable-documentation-exhibits-97.png)
 
@@ -56,7 +56,7 @@ Next, create a new release. This is where you'll upload the latest version of yo
 Enable Google Play App signing. This is an optional program but we recommend it for most use cases.
 {% endhint %}
 
-![Drag and drop your app \(.apk\) to the console](../../.gitbook/assets/thunkable-documentation-exhibits-100%20%281%29.png)
+![Drag and drop your app \(.apk\) to the console](../../.gitbook/assets/thunkable-documentation-exhibits-100-1.png)
 
 ### Update your Play store listing
 
@@ -64,11 +64,11 @@ To complete your Play Store listing, you will have to fill out a content rating 
 
 ![](blob:https://docs.thunkable.com/fb130b9d-e9ee-4ef9-86d8-e265361e07b2)
 
-![](../../.gitbook/assets/thunkable-documentation-exhibits-94%20%281%29.png)
+![](../../.gitbook/assets/thunkable-documentation-exhibits-94-1.png)
 
 ![](../../.gitbook/assets/thunkable-background-image-1080-x-1920-px-11.png)
 
-![App screenshots](../../.gitbook/assets/thunkable-background-image-1080-x-1920-px-12%20%281%29.png)
+![App screenshots](../../.gitbook/assets/thunkable-background-image-1080-x-1920-px-12-1.png)
 
 ![High resolution app icon \(512 x 512 px\)](../../.gitbook/assets/d-icon-dark.png)
 
@@ -92,6 +92,4 @@ Apps originally built on the [Thunkable Classic platform](../../thunkable-classi
 
 * If you updating an existing app on the Google Play Store, your app will need to have the i\) same package name, ii\) a higher or incremented version number, and the iii\) same keystore. The first two are easily editable in the App Settings page but the keystore is not yet able to be imported / exported. 
 * Copied apps within an account \(using the [Make Copy](../make-copy.md)\) will keep the same keystore as the original app. Apps that are copied from a [Share copy](../share.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same keystore. Apps from the [Thunkable Classic platform](../../thunkable-classic-android/) cannot yet be updated since it is not yet possible to import the keystore. 
-
-
 

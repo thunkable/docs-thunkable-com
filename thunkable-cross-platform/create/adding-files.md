@@ -2,7 +2,7 @@
 
 ## Adding a single file
 
-To add a single file like an image or a sound file, simply click on the component that you want to associate with that file and there should be an option to upload your asset directly or type in a url 
+To add a single file like an image or a sound file, simply click on the component that you want to associate with that file and there should be an option to upload your asset directly or type in a url
 
 ![](../../.gitbook/assets/ezgif.com-video-to-gif-31.gif)
 

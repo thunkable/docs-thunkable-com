@@ -36,13 +36,13 @@ Select the project that you previously downloaded
 * Sign into [Thunkable for Android Beta](https://beta.thunkable.com)
 * Select the project you would like to download 
 
-![](../.gitbook/assets/migrate-fig-1%20%281%29.png)![](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/assets/import-fig-9.png)
+![](../.gitbook/assets/migrate-fig-1-1.png)![](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/assets/import-fig-9.png)
 
 The code for the app is now downloaded to your computer. It is a file that is titled &lt;your\_app\_name&gt;.aia.
 
 **IMPORTANT: If you have a project with the same name in the main platform, you will have to rename the app project \(.aia\) file to import it to the platform**
 
-### Export your keystore from Thunkable for Android \(Beta\) <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+### Export your keystore from Thunkable for Android \(Beta\)  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 ![](../.gitbook/assets/migrate-fig-3.png)
 
@@ -50,9 +50,9 @@ The code for the app is now downloaded to your computer. It is a file that is ti
 
 * Sign into [Thunkable for Android](https://app.thunkable.com)
 
-![](../.gitbook/assets/legacy%20%281%29.png)
+![](../.gitbook/assets/legacy-1.png)
 
-### Import your keystore to Thunkable for Android \(Main Platform\) <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+### Import your keystore to Thunkable for Android \(Main Platform\)  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 ![](../.gitbook/assets/migrate-fig-4.png)
 
@@ -70,7 +70,7 @@ You can also download the apk directly from your apps home page by clicking on t
 
 ![](https://thunkable.com/explore/img/share/download_apk.png)
 
-### Publish your app to the Google Play Store <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+### Publish your app to the Google Play Store  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play. Make sure to edit your app version number.
 
@@ -84,7 +84,7 @@ WARNING: You can only have one unique keystore per account. If you import your k
 
 * Sign into [Thunkable for Android](https://app.thunkable.com)
 
-![](../.gitbook/assets/migrate-fig-3%20%281%29.png)
+![](../.gitbook/assets/migrate-fig-3-1.png)
 
 ### Export your keystore from Thunkable for Android Beta \(beta.thunkable.com\). Save it in a safe place.
 
@@ -94,7 +94,7 @@ WARNING: You can only have one unique keystore per account. If you import your k
 
 * Select the project you would like to download 
 
-![](../.gitbook/assets/migrate-fig-1%20%282%29.png)![](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/assets/import-fig-9.png)
+![](../.gitbook/assets/migrate-fig-1-2.png)![](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/assets/import-fig-9.png)
 
 The code for the app is now downloaded to your computer. It is a file that is titled &lt;your\_app\_name&gt;.aia.
 
@@ -112,7 +112,7 @@ If you have a project with the same name in the main platform, you will have to 
 
 * Sign into [Thunkable for Android](https://app.thunkable.com)
 
-![](../.gitbook/assets/migrate-fig-4%20%281%29.png)
+![](../.gitbook/assets/migrate-fig-4-1.png)
 
 ### Step 6. Download app \(.apk\) to your computer
 
@@ -128,7 +128,7 @@ You can also download the apk directly from your apps home page by clicking on t
 
 ![](https://thunkable.com/explore/img/share/download_apk.png)
 
-### Publish your app to the Google Play Store <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+### Publish your app to the Google Play Store  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play. Make sure to edit your app version number.
 

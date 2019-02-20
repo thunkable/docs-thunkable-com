@@ -1,6 +1,6 @@
 # Floating Action Button
 
-### ![](../../../../.gitbook/assets/fab-icon.png)
+## ![](../../../../.gitbook/assets/fab-icon.png)
 
 Material Design FABs can be standard sized \(56 x 56 dp\) or mini \(40 x 40 dp\) and can be customized both in terms of color and the icon on the button.
 
@@ -18,15 +18,15 @@ Note: The Floating Action Button is not yet visible on the Phone Previewer when 
 
 [Download App Source Code Here](https://goo.gl/PwQ2uA)
 
-### Set Screen Orientation to 'Portrait'
+## Set Screen Orientation to 'Portrait'
 
 For the best performance, please set the Screen Orientation to Portrait otherwise the FAB may disappear from your screen.
 
-### Position your FAB
+## Position your FAB
 
 The most common position for FAB is on the bottom right with a padding of 16 or 24 dp from the bottom and right. There is also an alternate use case as specified by Material Design standards. We recommend sticking to these guidelines in most cases since users are familiar with these positions and will more likely engage in the primary action of your app.![](../../../../.gitbook/assets/fab-fig-1.png)
 
-### Select your icon
+## Select your icon
 
 For user's convenience, Thunkable has automatically preloaded the Material Icon Font into the FAB and you can select from the entire library the 'Icon Name'. If the name has two words e.g. mic off, you will need to add an underscore e.g. mic\_off.
 
@@ -34,7 +34,7 @@ To see more options, [navigate here to the library](https://material.io/icons/)
 
 ![](../../../../.gitbook/assets/fab-fig-2.png)
 
-### Style the FAB
+## Style the FAB
 
 | Property | Description |
 | :--- | :--- |
@@ -47,7 +47,7 @@ To see more options, [navigate here to the library](https://material.io/icons/)
 | Animation Duration \(milliseconds\) | Applies only to instances where you change the FAB Icon Name and specifies the duration of the fade animation when switching between the icons. |
 | Visible | If checked, the button will be visible on the screen |
 
-### Add animation to your FAB
+## Add animation to your FAB
 
 Since FABs often represent the primary action in an app, developers will often add animation to transition between FABs depending different events that have been triggered
 

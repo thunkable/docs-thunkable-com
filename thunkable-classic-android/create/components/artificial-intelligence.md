@@ -6,6 +6,6 @@ So that we can all get ahead of the machines, the Thunkable platform already fea
 
 |  | Visual Perception | Speech Recognition | Translation Between Languages | Decision-making |
 | :--- | :--- | :--- | :--- | :--- |
-|  | ![](../../../.gitbook/assets/microsoft-icon.png) | ![](../../../.gitbook/assets/speech-recognizer-icon.png) | ![](../../../.gitbook/assets/yandex-icon%20%281%29.png) |  |
+|  | ![](../../../.gitbook/assets/microsoft-icon.png) | ![](../../../.gitbook/assets/speech-recognizer-icon.png) | ![](../../../.gitbook/assets/yandex-icon-1.png) |  |
 | Thunkable component | [Microsoft Image and Emotion Recognizer](image/microsoft-image-+-emotion-recognizer.md) | [Speech Recognizer](voice/speech-recognizer.md) | [Yandex Translate](voice/yandex-translate.md) |  |
 

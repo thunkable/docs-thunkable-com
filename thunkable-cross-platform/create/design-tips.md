@@ -2,11 +2,11 @@
 
 ## Fonts
 
-You can currently change the font on the ****[Label](components/user-interface/label.md) and [TextInput](components/user-interface/text-input.md) components by setting their **FontFamily** property in the Advanced tab. 
+You can currently change the font on the **\*\***[**Label**](components/user-interface/label.md) **and** [**TextInput**](components/user-interface/text-input.md) **components by setting their** FontFamily\*\* property in the Advanced tab.
 
 ![](../../.gitbook/assets/fontfamily.png)
 
-The available font choices differ depending on whether you are developing for [Android](design-tips.md#android-fonts) or [iOS](design-tips.md#ios-fonts) and are listed below. 
+The available font choices differ depending on whether you are developing for [Android](design-tips.md#android-fonts) or [iOS](design-tips.md#ios-fonts) and are listed below.
 
 ### Android Fonts
 
@@ -21,8 +21,6 @@ The available font choices differ depending on whether you are developing for [A
 | serif |
 | Roboto |
 | monospace |
-
-
 
 ### iOS Fonts
 
@@ -323,8 +321,4 @@ The available font choices differ depending on whether you are developing for [A
 | Zapf Dingbats |
 | ZapfDingbatsITC |
 | Zapfino |
-
-
-
-
 

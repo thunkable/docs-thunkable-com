@@ -1,16 +1,16 @@
 # Cloudinary DB
 
-###  ![](../../../../.gitbook/assets/cloudinary-icon.png)
+## ![](../../../../.gitbook/assets/cloudinary-icon.png)
 
 {% hint style="info" %}
 Thunkable provides its own API key by default for your convenience but if you may want to use your own Cloudinary key to ensure more privacy for your user's images or increase the 10MB image file size limit
 {% endhint %}
 
-### Take a picture, upload it to the Cloudinary cloud and store its url in Firebase
+## Take a picture, upload it to the Cloudinary cloud and store its url in Firebase
 
 ![](../../../../.gitbook/assets/cloudinary-fig-4.png)
 
-### Set up
+## Set up
 
 No set up is required. Thunkable provides its own subscription key as default. The current image size limit is 10MB.
 
@@ -26,7 +26,7 @@ You may want to create your own free account with [Cloudinary](http://cloudinary
 
 If you do create your own account, the API key corresponds to the 'subscription key', the API secret corresponds to the 'subscription secret' and the cloud name corresponds to the 'cloud name'
 
-### Functionality
+## Functionality
 
 | Event | Description |
 | :--- | :--- |

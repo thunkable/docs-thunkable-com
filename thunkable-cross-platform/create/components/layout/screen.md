@@ -11,7 +11,7 @@
 
 The `Horizontal Alignment` property allows you to space elements in a Screen horizontally
 
-![](../../../../.gitbook/assets/thunkable-documentation-exhibits-64%20%281%29.png)
+![](../../../../.gitbook/assets/thunkable-documentation-exhibits-64-1.png)
 
 ## Space elements vertically
 

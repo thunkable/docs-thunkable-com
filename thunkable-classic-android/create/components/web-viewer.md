@@ -1,6 +1,6 @@
 # Web Viewer
 
-###  ![](../../../.gitbook/assets/web-viewer-icon.png)
+## ![](../../../.gitbook/assets/web-viewer-icon.png)
 
 Web Viewers are powerful components for not only displaying websites but also images and custom html. Displaying custom html within a Web Viewer can enable Material Design effects or displaying simple websites when an internet connection is not available.
 
@@ -12,7 +12,7 @@ The current Web Viewer does support image uploading but not full screen video pl
 | :--- | :--- | :--- | :--- | :--- |
 | Common use case | Display a website from a url | Display an image from url or file source. Supports .gifs unlike the Image component | Display an offline website from html | Display a Material Design element from html |
 
-### Functionality
+## Functionality
 
 | Property | Description |
 | :--- | :--- |
@@ -29,7 +29,7 @@ The current Web Viewer does support image uploading but not full screen video pl
 | Clear Caches | Clears the Web Viewer caches |
 | Clear Locations | Clears stored location permissions |
 
-### **Appearance**
+## **Appearance**
 
 | Property | Description |
 | :--- | :--- |

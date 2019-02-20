@@ -1,6 +1,6 @@
 # Push Notifications
 
- ![](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/assets/one-signal-icon.png).![](../../../.gitbook/assets/push-fig-4.png)
+![](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/assets/one-signal-icon.png).![](../../../.gitbook/assets/push-fig-4.png)
 
 However, like ads, being overly aggressive can backfire and have a negative effect on your users. Annoying notifications--those that are irrelevant and too frequent--are the number one reason why users uninstall mobile apps.
 
@@ -20,7 +20,7 @@ Most of the work you do to use push notifications in your app will be on the One
 * [Specify the launch url](push-notifications.md#specify-the-launch-url-optional) \(optional\)
 * [Push immediately or schedule the notification](push-notifications.md#push-the-notification)
 
-### Set up with One Signal
+## Set up with One Signal
 
 One Signal is a free service that supports unlimited devices and notifications
 
@@ -29,7 +29,7 @@ One Signal is a free service that supports unlimited devices and notifications
 * Generate a [Google Server API key](https://documentation.onesignal.com/docs/generate-a-google-server-api-key) and project number
 * Select 'Native Android' as target SDK
 
-### Connecting One Signal with your app
+## Connecting One Signal with your app
 
 After dragging and dropping the Push Notifications component to your app, go to the App Settings page of your app and copy the One Signal App ID into the properties of the Push Notifications component![](../../../.gitbook/assets/push-fig-1.png)
 
@@ -37,21 +37,21 @@ After dragging and dropping the Push Notifications component to your app, go to 
 | :--- | :--- |
 | One Signal App ID | Corresponds to the One Signal App ID on the App Settings page of One Signal |
 
-### Create a message on One Signal
+## Create a message on One Signal
 
 ![](../../../.gitbook/assets/push-fig-3.png)
 
-### Add your app icon and title accent color \(optional\)
+## Add your app icon and title accent color \(optional\)
 
 If you want to use your app icon as your notification icon, you simply enter the letters "ya" into the small icon field
 
 ![](../../../.gitbook/assets/push-fig-5.png)
 
-### Specify the launch url \(optional\)
+## Specify the launch url \(optional\)
 
 ![](../../../.gitbook/assets/push-fig-6.png)
 
-### Push immediately or schedule the notification
+## Push immediately or schedule the notification
 
 One Signal allows users to send a push notification immediately or schedule one for later. You can also select their more intelligent timing that optimizes for a user's timezone or most likely to click time.
 

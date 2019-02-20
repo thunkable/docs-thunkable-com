@@ -16,13 +16,13 @@ On Android, the user does not have to submit any address information. On iOS, th
 
 ### Create your [Stripe](https://stripe.com/) account
 
-![](../../../../.gitbook/assets/payment-stripe-fig-1%20%281%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-1-1.png)
 
 ### Apply to accept payments by credit or debit card
 
 You'll have to apply to Stripe for your business to accept payment by credit or debit card
 
-![](../../../../.gitbook/assets/payment-stripe-fig-2%20%282%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-2-2.png)
 
 ![](../../../../.gitbook/assets/payment-stripe-fig-3.png)
 
@@ -30,49 +30,47 @@ You'll have to apply to Stripe for your business to accept payment by credit or 
 
 There are three properties that you need to retrieve from Stripe to connect it with Thunkable: `Test Publishable Key` , `Live Publishable Key` and `Stripe Account ID`. The first two are retrievable from the Stripe dashboard while the third requires visiting a special link. In the interest of security, you'll have to navigate to the App Settings on Thunkable to enter the properties for Stripe
 
-![](../../../../.gitbook/assets/payment-stripe-fig-7%20%284%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-7-4.png)
 
 `Test Publishable Key`
 
 On the Stripe dashboard, set your Developer toggle to "Viewing test data" and copy the Publishable key from the interface
 
-
-
-![](../../../../.gitbook/assets/payment-stripe-fig-8%20%281%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-8-1.png)
 
 `Live Publishable Key`
 
 On the Stripe dashboard, set your Developer toggle to live and copy the Publishable key from the interface
 
-![](../../../../.gitbook/assets/payment-stripe-fig-9%20%282%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-9-2.png)
 
 `Stripe Account ID`
 
-The Stripe Account ID is a unique account level ID that you retrieve by connecting your Stripe account to Thunkable. Make sure you are logged into your Stripe account and then visit ****BOTH ****[**x.thunkable.com/stripe/connect/test**](https://x.thunkable.com/stripe/connect/test) ****and ****[**x.thunkable.com/stripe/connect/live**](https://x.thunkable.com/stripe/connect/live) and click the buttons below
+The Stripe Account ID is a unique account level ID that you retrieve by connecting your Stripe account to Thunkable. Make sure you are logged into your Stripe account and then visit **BOTH** [**x.thunkable.com/stripe/connect/test**](https://x.thunkable.com/stripe/connect/test) **and** [**x.thunkable.com/stripe/connect/live**](https://x.thunkable.com/stripe/connect/live) and click the buttons below
 
-![](../../../../.gitbook/assets/payment-stripe-fig-10%20%281%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-10-1.png)
 
 ![](../../../../.gitbook/assets/payment-stripe-fig-11.png)
 
 You should see the following on your Stripe dashboard if your connections were successful
 
-![](../../../../.gitbook/assets/payment-stripe-fig-18%20%281%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-18-1.png)
 
 ## Send a test transaction
 
 To send a test transaction, make sure your Stripe property setting is set to `Test Mode`
 
-![](../../../../.gitbook/assets/payment-stripe-fig-7%20%282%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-7-2.png)
 
 To submit a test transaction, we recommend using a test card with the number `4242 4242 4242 4242`. You can specify any expiration date, security code and billing address / zipcode \(if necessary\).
 
 Apps that accept payments should have a simple form for collecting user information both for sending a receipt and collecting transaction information and a confirmation page for letting the user know if the transaction went through successfully
 
-![](../../../../.gitbook/assets/payment-stripe-fig-12%20%281%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-12-1.png)
 
 The Payment block itself returns a `chargeId` if the payment went through successfully or an `error` if it did not. The blocks below also include uploading data to a Spreadsheet if successful or an error message if the transaction did not go through.
 
-![](../../../../.gitbook/assets/payment-stripe-fig-4%20%281%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-4-1.png)
 
 | Event | Description |
 | :--- | :--- |
@@ -80,7 +78,7 @@ The Payment block itself returns a `chargeId` if the payment went through succes
 
 If you toggle on "Viewing test data" and "Payments" on the Stripe Dashboard, you will be able to view your test transactions
 
-![](../../../../.gitbook/assets/payment-stripe-fig-15%20%281%29.png)
+![](../../../../.gitbook/assets/payment-stripe-fig-15-1.png)
 
 ## Accept payments
 

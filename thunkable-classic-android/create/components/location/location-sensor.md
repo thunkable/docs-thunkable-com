@@ -1,12 +1,12 @@
 # Location Sensor
 
-###  ![](../../../../.gitbook/assets/location-sensor-icon.png)
+## ![](../../../../.gitbook/assets/location-sensor-icon.png)
 
 If available, the Location Sensor also measures altitude but you likely have to be outside for it to work properly. From the latitude and longitude readings, the location sensor can also provide an estimated street address and the speed at which a device may be moving
 
-![](../../../../.gitbook/assets/location-sensor-fig-1%20%281%29.png)
+![](../../../../.gitbook/assets/location-sensor-fig-1-1.png)
 
-### Estimating Location, Altitude and Speed
+## Estimating Location, Altitude and Speed
 
 | Event / Property | Description |
 | :--- | :--- |
@@ -20,7 +20,7 @@ If available, the Location Sensor also measures altitude but you likely have to 
 | Current Address | Estimated street address based on the sensed latitude and longitude coordinates that are geocoded or matches to a list of known addresses |
 | Enabled | If 'true', location sensor will be enabled |
 
-### Location Troubleshooting
+## Location Troubleshooting
 
 While location accuracy has significantly improved in recent years, there are times when location is not easy to detect such as indoors.
 
@@ -35,7 +35,7 @@ While location accuracy has significantly improved in recent years, there are ti
 | Provider Name | 'gps' or other network |
 | Provider Locked | If "true", locked to current location provider |
 
-### Estimating Latitude and Longitude from an Address
+## Estimating Latitude and Longitude from an Address
 
 The Location Sensor can also estimate latitude and longitude from a street address
 

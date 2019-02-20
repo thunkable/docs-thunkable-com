@@ -1,6 +1,6 @@
 # Label
 
- ![](../../../../.gitbook/assets/label-icon.png)
+![](../../../../.gitbook/assets/label-icon.png)
 
 | Common use case |
 | :--- |
@@ -8,7 +8,7 @@
 | Program text to change after certain events |
 | Padding / spacing between elements |
 
-### ![](../../../../.gitbook/assets/pro-tip-icon.png) Pro-tip: Labels and HTML formatting
+## ![](../../../../.gitbook/assets/pro-tip-icon.png) Pro-tip: Labels and HTML formatting
 
 Labels are the only interface component so far that supports HTML formatting, which can be helpful if you want to add a line break or bold only a few words.
 
@@ -16,7 +16,7 @@ Example:
 
 `<br>Example: Hello World<br><b>How are you?<b/>`
 
-### **Appearance**
+## **Appearance**
 
 | Property | Description |
 | :--- | :--- |

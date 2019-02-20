@@ -12,13 +12,13 @@ To use Sign In, you will need to first create your own Firebase account and proj
 
 ### Create your free [Firebase](https://firebase.google.com/) account and create a new project
 
-![](../../../../.gitbook/assets/thunkable-documentation-exhibits-70%20%281%29.png)
+![](../../../../.gitbook/assets/thunkable-documentation-exhibits-70-1.png)
 
 ### Enable Email / Password sign in
 
 In the Firebase console, navigate to Authentication and the tab "Sign-In Method". Enable Email/Password as shown below.
 
-![](../../../../.gitbook/assets/firebase-fig-4%20%281%29.png)
+![](../../../../.gitbook/assets/firebase-fig-4-1.png)
 
 ### Connect your Firebase account with Thunkable
 
@@ -28,7 +28,7 @@ There are two properties that you need to retrieve from Firebase to connect it w
 
 `API key` and `database URL`
 
-![](../../../../.gitbook/assets/thunkable-documentation-exhibits-68%20%281%29.png)
+![](../../../../.gitbook/assets/thunkable-documentation-exhibits-68-1.png)
 
 ![](../../../../.gitbook/assets/thunkable-documentation-exhibits-69.png)
 
@@ -48,7 +48,7 @@ The first step for users is to Sign Up with their email address and a password. 
 
 ## Sign in
 
-Users who sign up will be sent an email to verify the email address they provided is valid.  You can use the blocks below to check whether they have verified their email before they can proceed further
+Users who sign up will be sent an email to verify the email address they provided is valid. You can use the blocks below to check whether they have verified their email before they can proceed further
 
 {% hint style="info" %}
 There is currently a bug with email verification on Sign In
@@ -67,8 +67,4 @@ There is currently a bug with email verification on Sign In
 On the Firebase console, navigate to the Users tab under Authentication and you'll find a dashboard where you can reset a user's password, disable and delete their accounts.
 
 ![](../../../../.gitbook/assets/firebase-fig-1.png)
-
-### 
-
-
 

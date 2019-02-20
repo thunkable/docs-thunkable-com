@@ -6,6 +6,6 @@ In places without strong data connections, voice and audio is a much more effici
 
 |  | Understand user's voice | Convert words to speech | Translate user's speech | Record speech or sound | Play sound | Store audio |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | ![](../../../../.gitbook/assets/speech-recognizer-icon.png) | ![](../../../../.gitbook/assets/text-to-speech-icon.png) | ![](../../../../.gitbook/assets/yandex-icon%20%281%29.png) | ![](../../../../.gitbook/assets/sound-recorder-icon.png) | ![](../../../../.gitbook/assets/sound-icon.png) | ![](../../../../.gitbook/assets/cloudinary-icon.png) |
+|  | ![](../../../../.gitbook/assets/speech-recognizer-icon.png) | ![](../../../../.gitbook/assets/text-to-speech-icon.png) | ![](../../../../.gitbook/assets/yandex-icon-1.png) | ![](../../../../.gitbook/assets/sound-recorder-icon.png) | ![](../../../../.gitbook/assets/sound-icon.png) | ![](../../../../.gitbook/assets/cloudinary-icon.png) |
 | Recommended component | [Speech Recognizer](speech-recognizer.md) | [Text to Speech](text-to-speech.md) | [Yandex Translate](yandex-translate.md) | [Sound Recorder](sound-recorder.md) | [Sound or Player](sound-+-player.md) | [Cloudinary DB](../storage/cloudinary-db.md) |
 

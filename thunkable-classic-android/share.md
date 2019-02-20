@@ -1,6 +1,6 @@
 # Share
 
-### Sharing your app project \(.aia\) so that others can learn from and remix it
+## Sharing your app project \(.aia\) so that others can learn from and remix it
 
 Open the app project you would like to download. Choose **Apps \| Download selected app project \(.aia\) to my computer** to export the source code \(blocks\) for your app. The source code is downloaded as an .aia file.
 
@@ -10,7 +10,7 @@ If you send it to a friend, they can open it with **Apps \| Upload app project \
 
 ![](https://thunkable.com/explore/img/share/sharing_aias2.png)
 
-### Sharing your app for others to install on their phone/tablet \(.apk file\) <a id="sharing-your-app-for-others-to-install-on-their-phonetablet-apk-file"></a>
+## Sharing your app for others to install on their phone/tablet \(.apk file\)  <a id="sharing-your-app-for-others-to-install-on-their-phonetablet-apk-file"></a>
 
 Package the app \(.apk file\) by going to the "Export" menu on the Thunkable toolbar.
 
@@ -26,7 +26,7 @@ You can also download the apk directly from your apps home page by clicking on t
 
 Once the build completes, you can email the app \(".apk" file\) to your friends who can install it by opening the email from their phone. If you want to distribute it more widely, you can upload it to a website that both you and your friend can access. You can also distribute your app on the [Google Play Store](https://thunkable.com/explore/ai2/google-play.html).
 
-### Important note for your friends
+## Important note for your friends
 
 Anyone installing your app \(which is an ".apk" file\) directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of non-market applications.
 

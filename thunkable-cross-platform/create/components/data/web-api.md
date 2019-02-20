@@ -1,10 +1,10 @@
 # Web API
 
-Great data is an essential part of many apps built today and the Web API component enables apps to retrieve data from any public or private API \(application programming interface\) service on the web.  For more advanced developers who have write access to a private API, this component also enables you to upload and delete data.
+Great data is an essential part of many apps built today and the Web API component enables apps to retrieve data from any public or private API \(application programming interface\) service on the web. For more advanced developers who have write access to a private API, this component also enables you to upload and delete data.
 
 To see what public APIs are available, we recommend [this list from Todd Motto](https://github.com/toddmotto/public-apis)
 
-## Set up 
+## Set up
 
 For most public APIs, you'll likely have to first create an account to get your own unique API key. This is usually to prevent individuals from making too many requests or to charge developers when they exceed certain free limits.
 
@@ -18,7 +18,7 @@ Once you have the API key, you'll need to enter the unique URL into the property
 
 ![This block retrieves and formats data from the Open Weather Map API](../../../../.gitbook/assets/screen-shot-2018-08-01-at-2.12.03-pm.png)
 
-To retrieve data from an API, you simply need to use the `Get` block. 
+To retrieve data from an API, you simply need to use the `Get` block.
 
 | Event | Description |
 | :--- | :--- |
@@ -28,9 +28,9 @@ Most APIs will return data in a less than usable format for your app so we'll ta
 
 ### Example 1: [Open Weather Map API](https://openweathermap.org/current)
 
-You can find a working example of this in the sample app, [Weather]().
+You can find a working example of this in the sample app, [Weather](web-api.md).
 
-One of the most common output formats for APIs is JSON, short for Javascript Object Notation. The Open Weather Map API returns a JSON file like the one below. 
+One of the most common output formats for APIs is JSON, short for Javascript Object Notation. The Open Weather Map API returns a JSON file like the one below.
 
 ```text
 {
@@ -61,25 +61,25 @@ One of the most common output formats for APIs is JSON, short for Javascript Obj
 
 #### **Convert JSON to Object**
 
-![](../../../../.gitbook/assets/image%20%287%29.png)
+![](../../../../.gitbook/assets/image-7.png)
 
 If you simply want to retrieve the temperature \(`"temp":` in line 6\), you will have to first convert the JSON response into objects, an _entity_ like a person that has _properties_ to describe them like smart. Objects can be embedded within another object.
 
-In your JSON response, objects can be found within the `"` quotes `"`  followed by a colon `:`. The properties of the object is follows the colon `:` but is within the `{` curly brackets`}`. 
+In your JSON response, objects can be found within the `"` quotes `"` followed by a colon `:`. The properties of the object is follows the colon `:` but is within the `{` curly brackets`}`.
 
-In the example above,  `"coord":` , `"weather":`, `"base":` and `"main":` are both objects and properties of the overall object since they are contained within the `{` curly brackets `}`.
+In the example above, `"coord":` , `"weather":`, `"base":` and `"main":` are both objects and properties of the overall object since they are contained within the `{` curly brackets `}`.
 
 #### **Get Property of Object**
 
-![](../../../../.gitbook/assets/image%20%282%29.png)
+![](../../../../.gitbook/assets/image-2.png)
 
 Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the temperature \(`"temp":` in line 6\), we'll want to find the `temp` property of the `main` object which is the property of the overall object
 
 ![](../../../../.gitbook/assets/screen-shot-2018-08-01-at-2.52.33-pm.png)
 
-###  Example 2: [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
+### Example 2: [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
-You can find a working example of this in the sample app, [Ride]().
+You can find a working example of this in the sample app, [Ride](web-api.md).
 
 The JSON output of the Google Maps Distance Matrix API seems similar to the Open Weather Map API with one notable exception: it includes objects, properties and _lists_. Lists are items bounded by `[` square brackets `]`.
 
