@@ -12,7 +12,7 @@ Fortunately, we have some recommendations that will hopefully help you fix your 
 
 1. **Sign out completely** from Google \(and then sign back-in\)
 2. **Switch your browser** to Chrome, Firefox or Safari **\(i**f using Internet Explorer or Edge Web Browsers\) _\*\*_
-3. \*\*\*\*[**Enable cookies**](../../thunkable-cross-platform/create/login-issues.md#how-to-enable-cookies) _\*\*_in your browser \(if you have them switched off\)
+3. \*\*\*\*[**Enable cookies**]() _\*\*_in your browser \(if you have them switched off\)
 4. **Uninstall AdBlocker** extensions or add-ons \(if you have them installed\)
 5. **Disable Kaspersky Lab Antivirus** or whitelist thunkable.com \(if you have it installed\)
 
