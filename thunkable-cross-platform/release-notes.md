@@ -102,7 +102,7 @@ Bug fixes
 
 Bug fixes
 
-* Fixes the compatibility issue with the new [variable](../thunkable-classic-android/create/blocks/variables.md), [list](create/blocks/lists.md) and [object](create/blocks/objects.md) blocks
+* Fixes the compatibility issue with the new [variable](), [list](create/blocks/lists.md) and [object](create/blocks/objects.md) blocks
 
 ## Oct 22, 2018
 
@@ -292,7 +292,7 @@ Component updates
 
 * Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](create/components/voice/translator.md), [Text to Speech](create/components/voice/text-to-speech.md) and [Assistant](create/components/voice/assistant.md)
 * Transparent color now available as a color property across all visible components
-* Easy select and upload via Picture property for [Image](../thunkable-classic-android/create/components/image/) component
+* Easy select and upload via Picture property for [Image]() component
 
 Bug fixes
 
