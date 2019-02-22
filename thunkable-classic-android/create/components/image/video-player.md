@@ -1,12 +1,12 @@
 # Video Player
 
-###  ![](../../../../.gitbook/assets/video-player-icon.png)
+## ![](../../../../.gitbook/assets/video-player-icon.png)
 
 If your media files are too large, you may get errors when packaging or installing your application, in which case you should reduce the number of media files or their sizes
 
 If you want to avoid the video format size limit, you can also set the media source to a URL that points to a streaming video, but the URL must point to the video file itself, not to a program that plays the video.
 
-### Style the Video Player
+## Style the Video Player
 
 | Property | Description |
 | :--- | :--- |
@@ -17,7 +17,7 @@ If you want to avoid the video format size limit, you can also set the media sou
 | Volume | Sets the volume to a number between 0 and 100. Values less than 0 will be treated as 0, and values greater than 100 will be treated as 100 |
 | Visible | If checked, the button will be visible on the screen |
 
-### Play video
+## Play video
 
 | Event | Description |
 | :--- | :--- |

@@ -9,7 +9,7 @@ To publish your app on the Play Store from Thunkable, please follow the steps be
 * [Package name](publish.md#5--package-name)
 * [Keystores](publish.md#6--keystores)
 
-### 1 / Set up
+## 1 / Set up
 
 Here are the _minimum_ requirements for publishing to the Google Play Store:
 
@@ -19,7 +19,7 @@ Here are the _minimum_ requirements for publishing to the Google Play Store:
   * Feature graphic at 1024 px by 500 px
   * Screenshots
 
-### 2 / **Version your app**
+## 2 / **Version your app**
 
 Every app you publish must have a`VersionCode`and a`VersionName`. You can set these in the designer under the properties panel for the`Screen1`component.
 
@@ -29,7 +29,7 @@ Every app you publish must have a`VersionCode`and a`VersionName`. You can set th
 
 You will need to increase the`VersionCode`and change the`VersionName`of your application when you upload a new version to the Play Store.
 
-### 3 / Download app \(.apk\) to your computer <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+## 3 / Download app \(.apk\) to your computer  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 Package the app \(.apk file\) by going to the "Export" menu on the Thunkable toolbar
 
@@ -43,13 +43,13 @@ You can also download the apk directly from your apps home page by clicking on t
 
 ![](https://thunkable.com/explore/img/share/download_apk.png)
 
-### 4 / Upload to Google Play
+## 4 / Upload to Google Play
 
 You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play.
 
 For more details, you may want to start with [Introduction to Publishing on Google Play](https://developer.android.com/distribute/tools/launch-checklist.html) and [Google Support on Uploading to Google Play](https://support.google.com/googleplay/android-developer/answer/113469?hl=en&topic=2365624&ctx=topic).
 
-### 5 / Package name
+## 5 / Package name
 
 The package name for all apps built completely on Thunkable:
 
@@ -57,7 +57,7 @@ The package name for all apps built completely on Thunkable:
 
 Currently, there is no way to customize your package name \(which is visible on the Google Play store url\)
 
-### 6 / Keystores
+## 6 / Keystores
 
 During the .apk building process your application is signed with a digital private key which is associated with your account. Whenever you build a new version this same key is used to sign the new version. When an android phone has an application installed on it, it remembers the key that was used to sign it. In order to install an updated version of an application, the new application must be signed by the same key. It is therefore important that you not lose this key!
 

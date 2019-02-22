@@ -27,8 +27,6 @@ To retrieve the API key, you'll have to navigate to the Account page and generat
 
 ![](../../../../.gitbook/assets/spreadsheet-airtable-fig-4.png)
 
-
-
 ![](../../../../.gitbook/assets/spreadsheet-airtable-fig-5.png)
 
 ![](../../../../.gitbook/assets/spreadsheet-airtable-fig-6%20%281%29.png)
@@ -75,8 +73,6 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ![](../../../../.gitbook/assets/screen-shot-2018-04-23-at-9.34.58-pm.png)
 
-
-
 | Event | Description |
 | :--- | :--- |
 | Create Row \(`rowObject`\) | Uploads a new row of data based on a `rowObject` |
@@ -85,8 +81,6 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | Update Row Num \(`rowNum`, `rowObject`\) | Updates a row based on a `rowObject` and a `rowNum` |
 | Replace Row Num \(`rowObject`\) | Replaces a row based on a `rowObject` |
 | Replace Row \(`rowNum`, `rowObject`\) | Replaces a row based on a `rowObject` and a `rowNum` |
-
-
 
 ### Deleting data
 

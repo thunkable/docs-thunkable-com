@@ -1,6 +1,6 @@
 # NFC Sensor
 
-### ![](../../../../.gitbook/assets/nfc-icon.png)
+## ![](../../../../.gitbook/assets/nfc-icon.png)
 
 The NFC Sensor included in many phones is used to most commonly to enable tap and pay services like Apple and Android Pay. NFC tags, which require no power, are embedded not just in phones but in transit cards, laundry buttons and an increasing number of objects.
 
@@ -8,7 +8,7 @@ If available on the device, the NFC component supports the reading and writing o
 
 The component will only also work on Screen1.
 
-### **Read an NFC tag**
+## **Read an NFC tag**
 
 Reads an NFC tag that contains a YouTube URL and plays a specified video in the YouTube app
 
@@ -20,7 +20,7 @@ Reads an NFC tag that contains a YouTube URL and plays a specified video in the 
 | Tag Read \(message\) | Indicates that a new tag has been detected. Currently this is only a plain text tag |
 | Last Message | Refers to the last message read from an NFC tag |
 
-### Write **an NFC tag**
+## Write **an NFC tag**
 
 | Property / Event | Description |
 | :--- | :--- |

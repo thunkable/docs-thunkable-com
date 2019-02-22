@@ -1,6 +1,6 @@
 # Notifier
 
-####  ![](../../../../.gitbook/assets/notifier-icon.png)
+### ![](../../../../.gitbook/assets/notifier-icon.png)
 
 Notifiers come in two flavors - alerts, which are more passive but whose appearance can be customized and dialogs which default to the Material Design design but prompt users to confirm \(Message Dialog\), make a choice \(Choose Dialog\), enter text \(Text Dialog\) or wait \(Progress Dialog\) for a certain event before proceeding.
 
@@ -9,11 +9,11 @@ Notifiers come in two flavors - alerts, which are more passive but whose appeara
 |  | ![](../../../../.gitbook/assets/notifier-alert.png) | ![](../../../../.gitbook/assets/notifier.png) |
 | Common use case | Passive notification that an event has or is about to occur | Active notification that requires the user to tap, wait or input text before proceeding |
 
-### Alerts
+## Alerts
 
 Alerts are useful as passive messages as the user is navigating your app but no action is required such as "Login successful"
 
-#### **Appearance**
+### **Appearance**
 
 | Property | Description |
 | :--- | :--- |
@@ -21,13 +21,13 @@ Alerts are useful as passive messages as the user is navigating your app but no 
 | Background Color \(Alerts only\) | Default \(Dark Gray\). You can choose any color on the Designer palette or customize the color to any RGB value in the Blocks editor |
 | Notifier Length \(Alerts only\) | 'Short' or 'long'. Specifies the length of time that the alert is shown |
 
-#### Functionality
+### Functionality
 
 | Event | Description |
 | :--- | :--- |
 | Show Alert \(notice\) | Displays a temporary notification |
 
-### Dialogs
+## Dialogs
 
 Dialogs are useful when a message requires the user's attention and in some cases, a choice before proceeding
 
@@ -35,7 +35,7 @@ Dialogs are useful when a message requires the user's attention and in some case
 | :--- | :--- | :--- | :--- | :--- |
 |  | ![](../../../../.gitbook/assets/notifier.png) | ![](../../../../.gitbook/assets/dialog-progress.png) | ![](../../../../.gitbook/assets/dialog-choose.png) | ![](../../../../.gitbook/assets/dialog-text.png) |
 
-#### Functionality
+### Functionality
 
 | Event / Property | Description |
 | :--- | :--- |

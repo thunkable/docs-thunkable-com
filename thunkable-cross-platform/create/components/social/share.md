@@ -7,7 +7,7 @@ Sharing is caring and the Share component enables users to use the default apps 
 |  | Android | iOS |
 | :--- | :--- | :--- |
 | Make a phone call | Phone | Phone |
-| Send a text | Messages  | iMessage |
+| Send a text | Messages | iMessage |
 | Send an email | Gmail | Mail |
 | Share a text or image | Any pre-installed communication app \(e.g. WhatsApp, Slack, etc\) | Any pre-installed communication app \(e.g. WhatsApp, Slack, etc\) |
 
@@ -45,9 +45,6 @@ Sharing is caring and the Share component enables users to use the default apps 
 | Event | Description |
 | :--- | :--- |
 | Send Email \(`to email`, `subject`,`message`\) | Opens default email app to send an email`message` to a specified `to email`  with one add'l click; does not send email automatically for security and safety reasons |
-
-  
-
 
 ## Share a text or image
 

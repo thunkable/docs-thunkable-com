@@ -6,13 +6,13 @@
 * [Reformat number](math.md#reformat-number)
 * [Introduce randomness](math.md#introduce-randomness)
 
-### Basic number
+## Basic number
 
 ![](../../../.gitbook/assets/math-block-1.png)
 
 Can be used as any positive or negative number \(decimals included\). Double clicking on the "0" in the block will allow you to change the number
 
-### Conditional test
+## Conditional test
 
 ![](../../../.gitbook/assets/math-block-2.png)
 
@@ -32,7 +32,7 @@ Can be used as any positive or negative number \(decimals included\). Double cli
 
 \(g\) **Is a number?** Returns true if the given object `is a number`, and false otherwise
 
-### Math operators
+## Math operators
 
 ![](../../../.gitbook/assets/math-block-9.png)
 
@@ -90,7 +90,7 @@ Can be used as any positive or negative number \(decimals included\). Double cli
 
 \(w\) **Arctangent 2** Returns the `arctangent` of y/x, given y and x
 
-### Reformat number
+## Reformat number
 
 \(a\) ![](../../../.gitbook/assets/math-block-28.png)\(b\) ![](../../../.gitbook/assets/math-block-37.png)\(c\) ![](../../../.gitbook/assets/math-block-38.png)
 
@@ -100,7 +100,7 @@ Can be used as any positive or negative number \(decimals included\). Double cli
 
 \(c\) **Degrees to radians** Returns the value in radians of the given number in degrees. The result will be an angle in the range \[-π , +π\)
 
-### Introduce randomness
+## Introduce randomness
 
 \(a\) ![](../../../.gitbook/assets/math-block-15.png)\(b\) ![](../../../.gitbook/assets/math-block-16.png)\(c\) ![](../../../.gitbook/assets/math-block-17.png)
 

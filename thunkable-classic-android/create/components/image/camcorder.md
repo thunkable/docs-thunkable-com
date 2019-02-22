@@ -1,6 +1,6 @@
 # Camcorder
 
-###  ![](../../../../.gitbook/assets/camcorder-icon.png)
+## ![](../../../../.gitbook/assets/camcorder-icon.png)
 
 | Property | Description |
 | :--- | :--- |

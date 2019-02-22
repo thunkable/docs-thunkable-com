@@ -1,6 +1,6 @@
 # Text to Speech
 
-###  ![](../../../../.gitbook/assets/text-to-speech-icon.png)
+## ![](../../../../.gitbook/assets/text-to-speech-icon.png)
 
 You can also change the pronunciation of words \(not the actual language spoken\) by supplying a language or country code. For example, setting the language to French and speaking English text will sound like someone speaking English \(en\) with a French accent. Setting the country code to British English \(GBR\) will sound different from US English \(USA\) and not every country code will affect every language
 
@@ -8,11 +8,11 @@ The languages and countries available depend on the particular device, and can b
 
 The Text to Speech component is used in the sample app [ThunkableChat: Chat with Instant Translation](https://www.gitbook.com/book/albertching/thunkable-docs/edit#)
 
-### Speak text with a Mandarin Chinese pronunciation
+## Speak text with a Mandarin Chinese pronunciation
 
 ![](../../../../.gitbook/assets/text-to-speech-blocks.png)
 
-### Sound
+## Sound
 
 | Property | Description |
 | :--- | :--- |
@@ -22,7 +22,7 @@ The Text to Speech component is used in the sample app [ThunkableChat: Chat with
 | Available Languages | More languages are available than shown in Designer drop down. See below for latest |
 | Available Countries | Designer drop down shows more options than currently supported. See below for latest |
 
-### Available pronunciation languages
+## Available pronunciation languages
 
 According to [this article](https://en.wikipedia.org/wiki/Google_Text-to-Speech), below are the available language and countries for Text to Speech
 
@@ -57,7 +57,7 @@ According to [this article](https://en.wikipedia.org/wiki/Google_Text-to-Speech)
 | Ukranian | uk |  |
 | Vietnamese | vi |  |
 
-### Functionality
+## Functionality
 
 | Event | Description |
 | :--- | :--- |

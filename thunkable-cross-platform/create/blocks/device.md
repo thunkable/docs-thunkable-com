@@ -7,7 +7,7 @@ The Device blocks gather useful data from the device \(Android / iOS, online / o
 * [Get online/offline status](device.md#get-online-offline-status)
 * [Set device to vibrate](device.md#set-device-to-vibrate)
 
-##  Get current time and date
+## Get current time and date
 
 ![](../../../.gitbook/assets/thunkable-docs-exhibits-93.png)
 
@@ -25,7 +25,6 @@ Since Thunkable Cross Platform ✕ works on both Android and iOS from a single p
 
 ![](../../../.gitbook/assets/screen-shot-2018-12-13-at-2.17.26-pm.png)
 
-  
 To see how this might work in your app, take a look at the blocks below:
 
 ![](../../../.gitbook/assets/screen-shot-2018-12-13-at-2.16.39-pm.png)

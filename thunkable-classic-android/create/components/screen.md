@@ -1,6 +1,6 @@
 # Screen
 
- ![](../../../.gitbook/assets/screen-icon.png)
+![](../../../.gitbook/assets/screen-icon.png)
 
 {% hint style="info" %}
 On Thunkable, there is a recommendation of 10 screens per app. Please [read these instructions](https://thunkable.gitbook.io/thunkable-docs/thunkable-classic-android/2-create/app-limits) if you want to exceed 10 screens
@@ -18,25 +18,25 @@ Screens are where you set layouts, program the initial opening of the app and th
 * [Appearance](screen.md#appearance)
 * [Functionality](screen.md#functionality)
 
-### Align elements on a screen
+## Align elements on a screen
 
 ![](../../../.gitbook/assets/align-screen-fig-1.png)
 
-### Add a new screen
+## Add a new screen
 
 ![](https://lh6.googleusercontent.com/1oEzLB4YgohJ9xkkqyOox_Ljr9gbVxreM8EfuVqC0LX0jni6rhmNbBvZzbrqCCng0dHfeKh_g2bPthx2pfKrTpHZx3jOpAel5K_zXQPs3UyabZ1dYzq0VD4ikRJ0krCWMPZkpJZg)
 
-### Open a screen with a button
+## Open a screen with a button
 
 ![](../../../.gitbook/assets/open-screen-fig-1.png)
 
-### ![](../../../.gitbook/assets/pro-tip-icon.png) Pro-tip: Branding splash screens
+## ![](../../../.gitbook/assets/pro-tip-icon.png) Pro-tip: Branding splash screens
 
 Apps often take a few seconds to load which can be very discouraging to a new user. One way to create space for this loading period is by adding a screen with your logo and letting it run for a given amount of time \(we have found 3 seconds to feel just about right in most cases\).
 
 You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to learn more
 
-### App settings \(Screen1 Only\)
+## App settings \(Screen1 Only\)
 
 | Property | Description |
 | :--- | :--- |
@@ -50,7 +50,7 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 | Primary Color | Specifies the primary color for Material Design user interface elements such as buttons and title bars |
 | Primary Color Dark | Specifies the primary dark color for Material Design user interface elements such as buttons and title bars |
 
-### Appearance
+## Appearance
 
 | Property | Description |
 | :--- | :--- |
@@ -66,7 +66,7 @@ You can [watch this tutorial](https://www.youtube.com/watch?v=9u365ejwTqg) to le
 | Open Screen Animation | Default, Fade, Zoom, Slide Horizontal, Slide Vertical and None |
 | Close Screen Animation | Default, Fade, Zoom, Slide Horizontal, Slide Vertical and None |
 
-### Functionality
+## Functionality
 
 | Event | Description |
 | :--- | :--- |

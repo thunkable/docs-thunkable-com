@@ -20,13 +20,11 @@ You can manage much of your screen navigation through our [Tab](../components/la
 
 ![](../../../.gitbook/assets/blocks-control-fig-6.png)
 
-You can prompt a user to open a page within an app installed on their phone or a url in their browser using the block above. 
+You can prompt a user to open a page within an app installed on their phone or a url in their browser using the block above.
 
-Thanks to the development of universal links for iOS and Android app links, you simply need to enter the url of the webpage for your app to automatically open to the app if it's installed or open the web browser if it is not. 
+Thanks to the development of universal links for iOS and Android app links, you simply need to enter the url of the webpage for your app to automatically open to the app if it's installed or open the web browser if it is not.
 
-You can see this block featured in the sample app, [New Market Goods]().
-
-
+You can see this block featured in the sample app, [New Market Goods](control.md).
 
 ![](../../../.gitbook/assets/screen-shot-2018-08-23-at-5.03.34-pm.png)
 

@@ -1,10 +1,10 @@
 # Image Picker
 
-###  ![](../../../../.gitbook/assets/image-picker-icon.png)
+## ![](../../../../.gitbook/assets/image-picker-icon.png)
 
 ![](../../../../.gitbook/assets/image-picker-fig-1.png)
 
-### **Appearance**
+## **Appearance**
 
 There are two elements to an ImagePicker, a button that opens the ImagePicker and the ImagePicker itself. The button you can customize but the ImagePicker design is the Android default.
 
@@ -25,7 +25,7 @@ There are two elements to an ImagePicker, a button that opens the ImagePicker an
 | Show Feedback | If checked, shows visual feedback for a button with an image displayed |
 | Visible | If checked, the button will be visible on the screen |
 
-### Functionality
+## Functionality
 
 | Event | Description |
 | :--- | :--- |

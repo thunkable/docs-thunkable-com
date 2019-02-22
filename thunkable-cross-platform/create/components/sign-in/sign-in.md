@@ -48,7 +48,7 @@ The first step for users is to Sign Up with their email address and a password. 
 
 ## Sign in
 
-Users who sign up will be sent an email to verify the email address they provided is valid.  You can use the blocks below to check whether they have verified their email before they can proceed further
+Users who sign up will be sent an email to verify the email address they provided is valid. You can use the blocks below to check whether they have verified their email before they can proceed further
 
 {% hint style="info" %}
 There is currently a bug with email verification on Sign In
@@ -67,8 +67,4 @@ There is currently a bug with email verification on Sign In
 On the Firebase console, navigate to the Users tab under Authentication and you'll find a dashboard where you can reset a user's password, disable and delete their accounts.
 
 ![](../../../../.gitbook/assets/firebase-fig-1.png)
-
-### 
-
-
 

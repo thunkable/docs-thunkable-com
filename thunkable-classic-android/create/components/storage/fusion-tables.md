@@ -1,12 +1,12 @@
 # Fusion Tables
 
-### ![](../../../../.gitbook/assets/fusion-tables-icon.png)
+## ![](../../../../.gitbook/assets/fusion-tables-icon.png)
 
 With the power of Fusion Tables does come consider set-up -- up to an hour at our last estimate. If you have a data set with 500 or less rows, we recommend using the Spreadsheets component, which requires less set up time.
 
 This component uses the [Fusion Tables API V2.0.](fusion-tables.md)
 
-### Set up
+## Set up
 
 Applications using Fusion Tables must authenticate with Google's servers.
 
@@ -21,7 +21,7 @@ To get set up, please follow [these instructions from our friends at MIT App Inv
 | Service Account Email | The Service Account Email Address used for Service Authentication |
 | Use Service Authentication | If checked \(recommended\), indicates that the service account should be used for authentication |
 
-### Querying Data
+## Querying Data
 
 | Event | Description |
 | :--- | :--- |
@@ -32,13 +32,13 @@ To get set up, please follow [these instructions from our friends at MIT App Inv
 | ~~Do Query~~ | Deprecated at the end of 2012 |
 | ~~Forget Login~~ | Forget the end-user's login credentials. Do not use since it has no effect on Service Authentication |
 
-### Uploading Data
+## Uploading Data
 
 | Event | Description |
 | :--- | :--- |
 | InsertRow \(tableId, columns, values\) | Inserts a row into the specified Fusion Table. The tableId field is the id of the Fusion Table. The columns field is a comma-separated list of the columns into which to insert values. The values field specifies what values to insert into each column |
 
-### Custom SQL queries with Fusion Tables
+## Custom SQL queries with Fusion Tables
 
 The Send Query function lets you create a range of custom queries to Fusion Tables. The full range of what is available is [here](https://developers.google.com/fusiontables/docs/v2/getting_started). You may need add a function that adds "quotes" to your data elements
 

@@ -1,8 +1,8 @@
 # Sound Recorder
 
-###  ![](../../../../.gitbook/assets/sound-recorder-icon.png)
+## ![](../../../../.gitbook/assets/sound-recorder-icon.png)
 
-### Functionality
+## Functionality
 
 | Property / Event | Description |
 | :--- | :--- |

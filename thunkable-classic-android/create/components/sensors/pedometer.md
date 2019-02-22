@@ -1,12 +1,12 @@
 # Pedometer
 
-###  ![](../../../../.gitbook/assets/pedometer-icon.png)
+## ![](../../../../.gitbook/assets/pedometer-icon.png)
 
 The Pedometer senses motion via the Accelerometer and attempts to determine if a step has been taken. Using a configurable stride length, it can estimate the distance traveled as well.
 
 One thing to design for is that the most successful Pedometers are always on even when the app is not open. Currently, Thunkable apps generally don't work in the background when the apps are not open.
 
-### Start the pedometer, start counting steps and distance
+## Start the pedometer, start counting steps and distance
 
 ![](../../../../.gitbook/assets/pedometer-blocks.png)
 

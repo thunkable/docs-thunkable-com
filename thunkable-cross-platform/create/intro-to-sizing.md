@@ -1,6 +1,6 @@
 # Intro to Sizing
 
-For the app developer today, deciding what mobile device to design for is challenging. On Android alone, there are thousands of different devices that are in popular use today. On iOS, there are still 8 different iPhone sizes and 4 different iPad sizes. 
+For the app developer today, deciding what mobile device to design for is challenging. On Android alone, there are thousands of different devices that are in popular use today. On iOS, there are still 8 different iPhone sizes and 4 different iPad sizes.
 
 By sizing your components optimally, you can support as many screen sizes and resolutions appropriately across platforms in a single project.
 
@@ -12,12 +12,12 @@ The following properties are available to all visible components in the `Height`
 | :--- | :--- |
 | `Relative size` | Sets the size as a percent of the Screen |
 | `Absolute size` | Sets the size in pixels. The screen size of the Phone Previewer in the Designer is by default set to 500 px by 280 px but that may not reflect the size of your phone |
-| `Fit contents` | Sizes an element to the contents  |
+| `Fit contents` | Sizes an element to the contents |
 | `Fill container` | Sizes an element to fill the Screen, Row or Column that it is within |
 
 ## Use relative size for almost everything
 
-Relative size is your best friend for almost all elements since it will auto-scale elements to the screen. In some cases, where there are fixed dimensions 
+Relative size is your best friend for almost all elements since it will auto-scale elements to the screen. In some cases, where there are fixed dimensions
 
 | Component | Recommendation |
 | :--- | :--- |
@@ -28,7 +28,7 @@ Relative size is your best friend for almost all elements since it will auto-sca
 
 ### The special case of images
 
-Image with fixed dimensions and resolutions can be especially difficult to size. We recommend a simple approach that should work in most cases. 
+Image with fixed dimensions and resolutions can be especially difficult to size. We recommend a simple approach that should work in most cases.
 
 1. Upload or reference images with a minimum resolution \(this varies by image size and device\)
 2. Set the height and width in `relative size`
@@ -48,7 +48,7 @@ Despite the beauty of relative size, there are a few cases where setting element
 
 ### Use absolute size for Scrollable Screens
 
-Since a Scrollable Screen has a height that is greater than the size of the Screen, the height of the elements must be set in `Absolute size`. 
+Since a Scrollable Screen has a height that is greater than the size of the Screen, the height of the elements must be set in `Absolute size`.
 
-> You can see an [example of a Scrollable Screen]() in the Design Templates
+> You can see an [example of a Scrollable Screen](intro-to-sizing.md) in the Design Templates
 

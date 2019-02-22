@@ -1,8 +1,8 @@
 # Twitter
 
-###  ![](../../../../.gitbook/assets/twitter-icon.png)
+## ![](../../../../.gitbook/assets/twitter-icon.png)
 
-### Authorize app with Twitter
+## Authorize app with Twitter
 
 1. First, [go to this link](http://twitter.com/oauth_clients/new) to authorize your app with Twitter ![](../../../../.gitbook/assets/twitter-fig-1.png)![](../../../../.gitbook/assets/twitter-fig-2.png)
 2. Follow the instructions to obtain the Consumer Key and Consumer Secret from Twitter and add it to the properties for the Twitter component on Thunkable ![](../../../../.gitbook/assets/twitter-fig-3.png)![](../../../../.gitbook/assets/twitter-fig-4.png)
@@ -12,7 +12,7 @@
 | Consumer Key | Encrypted key. Authorizes Twitter via OAuth |
 | Consumer Secret | Encrypted key. Authorizes Twitter via OAuth |
 
-### Login to Twitter
+## Login to Twitter
 
 | Event | Description |
 | :--- | :--- |
@@ -21,14 +21,14 @@
 | IsAuthorized | After the program calls Authorize if the authorization was successful. It is also called after a call to Check Authorized if we already have a valid access token. After this event has been raised, any other method for this component can be called |
 | DeAuthorize | Removes Twitter authorization from this running app instance |
 
-### **Tweet**
+## **Tweet**
 
 | Event | Description |
 | :--- | :--- |
 | Tweet \(status\) | This sends a tweet as the logged-in user with the specified Text, which will be trimmed if it exceeds 160 characters |
 | Tweet With Image \(status, imagePath\) | This sends a tweet as the logged-in user with the specified Text and a path to the image to be uploaded, which will be trimmed if it exceeds 160 characters. If an image is not found or invalid, the update will not be sent |
 
-### Direct Message
+## Direct Message
 
 | Event | Description |
 | :--- | :--- |
@@ -37,7 +37,7 @@
 | DIrect Messages Received \(messages\) | When the recent messages requested through Request Direct Messages have been retrieved. A list of the messages can then be found in the messages parameter or the Messages property |
 | Direct Messages | This property contains a list of the most recent messages mentioning the logged-in user. Initially, the list is empty. The value of this property will then be set to the list of direct messages retrieved \(and maintain that value until any subsequent call to Request Direct Messages\) |
 
-### Follow
+## Follow
 
 | Event | Description |
 | :--- | :--- |
@@ -47,7 +47,7 @@
 | Followers | A list of the followers of the logged-in user. Initially, the list is empty. The value of this property will then be set to the list of followers \(and maintain its value until any subsequent call to Request Followers\) |
 | Stop Following \(user\) | Stops following a user |
 
-### Search Twitter
+## Search Twitter
 
 | Event | Description |
 | :--- | :--- |
@@ -55,7 +55,7 @@
 | Search Successful \(searchResults\) | When the results of the search requested through Search Twitter have been retrieved. A list of the results can then be found in the searchResults property |
 | Search Results | This property, which is initially empty, is set to a list of search results after the program. The value of the property will then be the same as the parameter to Search Successful. |
 
-### Request Friend Timeline
+## Request Friend Timeline
 
 | Event | Description |
 | :--- | :--- |
@@ -63,7 +63,7 @@
 | Friend Timeline Received | When the messages requested through Request Friend Timeline have been retrieved. The timeline parameter and the Timeline property will contain a list of lists, where each sub-list contains a status update of the form \(username message\) |
 | Friend Timeline | This property contains the 20 most recent messages of users being followed. Initially, the list is empty. The value of this property will then be set to the list of messages \(and maintain its value until any subsequent call to Request Friend Timeline |
 
-### Request Mentions
+## Request Mentions
 
 | Event | Description |
 | :--- | :--- |

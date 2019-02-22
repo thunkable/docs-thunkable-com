@@ -1,8 +1,8 @@
 # Spreadsheets
 
-###  ![](../../../../.gitbook/assets/spreadsheets-icon.png)
+## ![](../../../../.gitbook/assets/spreadsheets-icon.png)
 
- Set up is much easier than Fusion Tables and Spreadsheets can store more rows of data than Firebase or TinyDB, which are both limited to one row of data. The data is also easily visible and manipulated in a Google or Microsoft 360 spreadsheet, which makes like a lot easier.
+Set up is much easier than Fusion Tables and Spreadsheets can store more rows of data than Firebase or TinyDB, which are both limited to one row of data. The data is also easily visible and manipulated in a Google or Microsoft 360 spreadsheet, which makes like a lot easier.
 
 Spreadsheets is powered by Cloudstitch, a service that makes it easy to connect your Google or Microsoft 360 spreadsheets to your app. Our friends at Cloudstitch have also provided free auto-syncing of data exclusively for Thunkers.
 
@@ -14,7 +14,7 @@ The sample app [First Bus Map of Dhaka](spreadsheets.md) features mapping data s
 * [Upload data](spreadsheets.md#upload-data)
 * [Troubleshooting](spreadsheets.md#troubleshooting)
 
-### Set up
+## Set up
 
 1. First create an account with [Cloudstitch](https://cloudstitch.com/) and create a new project.
 2. Select 'Widget', 'Spreadsheet API' and 'Google Drive'.![](../../../../.gitbook/assets/spreadsheet-fig-3.png)
@@ -31,11 +31,11 @@ The sample app [First Bus Map of Dhaka](spreadsheets.md) features mapping data s
 | API Endpoint | Unique url for each spreadsheet created in Cloudstitch. The url is called the API endpoint on Cloudstitch but excludes the '/datasources/sheet' at the end of the endpoint. If you plan to upload data to your spreadsheet, enable auto-sync by adding '?dev=true' to the end of your API endpoint |
 | Sheet Name | Name of the sheet in the Spreadsheet |
 
-### Populate elements in a Listpicker from a Spreadsheet
+## Populate elements in a Listpicker from a Spreadsheet
 
 ![](../../../../.gitbook/assets/spreadsheets-blocks-1.png)
 
-### Get data
+## Get data
 
 | Event | Description |
 | :--- | :--- |
@@ -45,18 +45,18 @@ The sample app [First Bus Map of Dhaka](spreadsheets.md) features mapping data s
 | Get Row List \(rowNumber\) | Retrieves all data in a row as a list; user must designate row number as an integer and row 1 starts in row 2 since the first row of data is ignored |
 | Get Value \(columnName, rowNumber\) | Retrieves a single value based on column name and row number pair |
 
-### Populate elements in a Listpicker from a Spreadsheet
+## Populate elements in a Listpicker from a Spreadsheet
 
 ![](../../../../.gitbook/assets/spreadsheets-blocks-2.png)
 
-### Upload data
+## Upload data
 
 | Event | Description |
 | :--- | :--- |
 | Upload Data \(data\) | Uploads data to Spreadsheet. Data must be in the format “'columnName1'=’value1’&'columnName2'=’value2’\). See above for an example |
 | After Upload \(responseContent\) | Event triggered after data is uploaded from Spreadsheet. If OK, the 'responseContent' will return OK |
 
-### Troubleshooting
+## Troubleshooting
 
 If your app is crashing, then most likely:
 

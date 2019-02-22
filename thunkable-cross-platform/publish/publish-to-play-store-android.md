@@ -24,7 +24,7 @@ To publish your app on Android, you'll need to add an `app icon`, a `name`, a `p
 
 For recommendations on your `app icon` and `name`, [please see this guide](../create/app-icon-+-name.md).
 
-Each Android app that is published to the Play Store has a unique `package name`. Currently, you can enter this in the App \(Bundle\) ID field. 
+Each Android app that is published to the Play Store has a unique `package name`. Currently, you can enter this in the App \(Bundle\) ID field.
 
 {% hint style="info" %}
 If you are only publishing to the Play Store, you do not need to enter a Team ID to publish to the Play Store \(this is for iOS only\)
@@ -92,6 +92,4 @@ Apps originally built on the [Thunkable Classic platform](../../thunkable-classi
 
 * If you updating an existing app on the Google Play Store, your app will need to have the i\) same package name, ii\) a higher or incremented version number, and the iii\) same keystore. The first two are easily editable in the App Settings page but the keystore is not yet able to be imported / exported. 
 * Copied apps within an account \(using the [Make Copy](../make-copy.md)\) will keep the same keystore as the original app. Apps that are copied from a [Share copy](../share.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same keystore. Apps from the [Thunkable Classic platform](../../thunkable-classic-android/) cannot yet be updated since it is not yet possible to import the keystore. 
-
-
 

@@ -10,14 +10,14 @@ To use an extension in your app,
 2. Import it to the Extensions drawer of your Designer palette
 3. Drag and drop the extension into your app
 
-### Where to Find Extensions
+## Where to Find Extensions
 
 Trusted resources for extensions
 
 * [Thunkable Community Forum \#Extensions](https://community.thunkable.com/c/thunkable-extensions) - section of our community forum dedicated completely to posting extensions
 * [Pura Vida Apps by Taifun](https://puravidaapps.com/extensions.php) - complete list of extensions available for all platforms compatible with App Inventor
 
-### Extensions --&gt; Components
+## Extensions --&gt; Components
 
 We are very grateful for the contributions of our Thunker community and have just kicked off a program where we can turn your extensions into full blown components on the Thunkable platform.
 

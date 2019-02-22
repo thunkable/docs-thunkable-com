@@ -3,7 +3,7 @@
 * [Setting component properties to 'true' or 'false'](logic.md#setting-component-properties-to-true-or-false)
 * [Advanced conditions on when things happen](logic.md#advanced-conditions-on-when-things-happen)
 
-### Setting component properties to 'true' or 'false'
+## Setting component properties to 'true' or 'false'
 
 \(a\) ![](../../../.gitbook/assets/logic-blocks-1.png) \(b\) ![](../../../.gitbook/assets/logic-blocks-2.png)
 
@@ -11,7 +11,7 @@
 
 \(b\) **False** Represents the constant value false. Use it for setting boolean property values of components, or as the value of a variable that represents a condition.
 
-### Advanced conditions on when things happen
+## Advanced conditions on when things happen
 
 \(a\) ![](../../../.gitbook/assets/logic-blocks-3.png)\(b\) ![](../../../.gitbook/assets/logic-blocks-4.png)
 

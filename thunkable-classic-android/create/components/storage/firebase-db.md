@@ -1,6 +1,6 @@
 # Firebase DB
 
-### ![](../../../../.gitbook/assets/firebase-icon%20%281%29.png)
+## ![](../../../../.gitbook/assets/firebase-icon%20%281%29.png)
 
 The sample app [Thunkable Messaging](https://goo.gl/QYbcpW) uses a Firebase DB as a backend for person to person messaging
 
@@ -10,7 +10,7 @@ The sample app [Thunkable Messaging](https://goo.gl/QYbcpW) uses a Firebase DB a
   * [Load Images from image urls stored in Firebase](firebase-db.md#load-images-from-image-urls-stored-in-firebase)
 * [Store and Retrieve Data](firebase-db.md#store-and-retrieve-data)
 
-### Set Up
+## Set Up
 
 No set-up is required since Thunkable provides a default account for users to get started quickly. Once you're app is ready for prime time, we do recommend that you create your own private database for free with Firebase.
 
@@ -28,15 +28,15 @@ To create your own database with Firebase, please [visit this link](https://fire
 | Use Default | If checked, uses the default Firebase URL provided by Thunkable |
 | Persist | If checked, variables will retain their values when off-line and the App exits. Values will be uploaded to Firebase the next time the App is run while connected to the network. This is useful for applications which will gather data while not connected to the network. AppendValue and RemoveFirst will not work correctly when off-line, they require a network connection |
 
-### Send chat message using Firebase as a real-time backend
+## Send chat message using Firebase as a real-time backend
 
 ![](../../../../.gitbook/assets/firebase-blocks-1.png)
 
-### Load images from image urls stored in Firebase
+## Load images from image urls stored in Firebase
 
 ![](../../../../.gitbook/assets/firebase-blocks-2.png)
 
-### Store and Retrieve Data
+## Store and Retrieve Data
 
 | Event | Description |
 | :--- | :--- |

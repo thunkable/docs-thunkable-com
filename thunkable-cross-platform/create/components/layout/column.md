@@ -37,5 +37,3 @@ The `Horizontal Alignment` property allows you to space elements in a Column hor
 | :--- | :--- |
 | Scrollable | Default \(`false`\). Indicates whether the column is scrollable. For scrollable to work, you must also set your screen height to `fit contents`  and the components in your column must have heights set in `absolute` pixels |
 
-## 
-

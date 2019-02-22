@@ -22,7 +22,6 @@ A **cloud** variable also works across screens but is saved to the cloud powered
 
 ![](../../../.gitbook/assets/screen-shot-2018-10-11-at-1.29.35-pm.png)
 
-  
 To create a variable when the app starts, you can grab the block above, select your variable `scope` \(app, stored, cloud\) and give the variable a `name` like hello. You'll have to connect a block to give app variables an initial value \(in the picture above\). We recommend placing these blocks in the initial app screen.
 
 ## Set a variable during an app event
@@ -53,6 +52,5 @@ This is similar to how cloud variables work above but it applies to variables th
 
 ![](../../../.gitbook/assets/screen-shot-2018-10-11-at-1.44.00-pm.png)
 
-  
 Variables do not have to be fixed values and there may be times when you want to change your variable automatically like incrementing it by 1 after an event. To do so, grab a block like the one above.
 

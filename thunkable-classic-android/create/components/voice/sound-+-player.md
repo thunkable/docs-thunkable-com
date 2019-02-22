@@ -1,6 +1,6 @@
 # Sound + Player
 
-#### ![](../../../../.gitbook/assets/sound-icon.png) + ![](../../../../.gitbook/assets/player-icon.png)
+### ![](../../../../.gitbook/assets/sound-icon.png) + ![](../../../../.gitbook/assets/player-icon.png)
 
 The Sound component is recommended for short sound files like sound effects while the Player is recommended for longer sound files like songs
 
@@ -9,9 +9,9 @@ The Sound component is recommended for short sound files like sound effects whil
 |  | Sound | Player |
 | Common use case | Short sound files like sound effects | Long sound files like songs |
 
-### Sound ![](../../../../.gitbook/assets/sound-icon.png)
+## Sound ![](../../../../.gitbook/assets/sound-icon.png)
 
-#### Functionality
+### Functionality
 
 | Property / Event | Description |
 | :--- | :--- |
@@ -23,9 +23,9 @@ The Sound component is recommended for short sound files like sound effects whil
 | Vibrate \(milliseconds\) | Vibrates for the specified number of milliseconds e.g. 1000 is 1 second |
 | Minimum Interval \(milliseconds\) | The minimum interval between sounds. If you play a sound, all further play events will be ignored until the interval has passed |
 
-### Player ![](../../../../.gitbook/assets/player-icon.png)
+## Player ![](../../../../.gitbook/assets/player-icon.png)
 
-#### Functionality
+### Functionality
 
 | Property / Event | Description |
 | :--- | :--- |

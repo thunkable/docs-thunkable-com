@@ -42,7 +42,7 @@ The code for the app is now downloaded to your computer. It is a file that is ti
 
 **IMPORTANT: If you have a project with the same name in the main platform, you will have to rename the app project \(.aia\) file to import it to the platform**
 
-### Export your keystore from Thunkable for Android \(Beta\) <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+### Export your keystore from Thunkable for Android \(Beta\)  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 ![](../.gitbook/assets/migrate-fig-3.png)
 
@@ -52,7 +52,7 @@ The code for the app is now downloaded to your computer. It is a file that is ti
 
 ![](../.gitbook/assets/legacy%20%281%29.png)
 
-### Import your keystore to Thunkable for Android \(Main Platform\) <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+### Import your keystore to Thunkable for Android \(Main Platform\)  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 ![](../.gitbook/assets/migrate-fig-4.png)
 
@@ -70,7 +70,7 @@ You can also download the apk directly from your apps home page by clicking on t
 
 ![](https://thunkable.com/explore/img/share/download_apk.png)
 
-### Publish your app to the Google Play Store <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+### Publish your app to the Google Play Store  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play. Make sure to edit your app version number.
 
@@ -128,7 +128,7 @@ You can also download the apk directly from your apps home page by clicking on t
 
 ![](https://thunkable.com/explore/img/share/download_apk.png)
 
-### Publish your app to the Google Play Store <a id="exporting-your-keystore-from-mit-app-inventor"></a>
+### Publish your app to the Google Play Store  <a id="exporting-your-keystore-from-mit-app-inventor"></a>
 
 You can now go to [Google Play Publishing Home](https://play.google.com/apps/publish/signup/) and follow the steps to publish your app to Google Play. Make sure to edit your app version number.
 
