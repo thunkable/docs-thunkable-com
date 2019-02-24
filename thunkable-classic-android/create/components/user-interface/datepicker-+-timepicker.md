@@ -4,7 +4,7 @@
 
 |  | ![](../../../../.gitbook/assets/datepicker-icon.png) | ![](../../../../.gitbook/assets/timepicker-icon.png) |
 | :--- | :--- | :--- |
-|  | [DatePicker](datepicker-+-timepicker.md#datepicker) | [TimePicker](datepicker-+-timepicker.md#aloha) |
+|  | [DatePicker](datepicker-+-timepicker.md#datepicker) | [TimePicker](datepicker-+-timepicker.md#timepicker) |
 |  | ![](../../../../.gitbook/assets/datepicker.png) | ![](../../../../.gitbook/assets/timepicker.png) |
 | Common use case | Selecting day | Selecting time |
 
