@@ -4,7 +4,7 @@
 * [Reformat text](text.md#reformat-text)
 * [Conditionals with text](text.md#conditionals-with-text)
 * [Text calculations](text.md#text-calculations)
-* [Obfuscate text](text.md#obfucate-text)
+* [Obfuscate text](text.md#obfuscate-text)
 
 ## Basic text
 
