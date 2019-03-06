@@ -1,4 +1,4 @@
-# Payment
+# Payment by Stripe
 
 {% hint style="info" %}
 The Payment component powered by Stripe charges a 4.9% fee +$0.30 per transaction, 2% of which is taken by Thunkable as a maintenance fee

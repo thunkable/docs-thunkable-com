@@ -1,4 +1,4 @@
-# Assistant
+# Assistant by Dialogflow
 
 * [Set up](assistant.md#set-up)
 * [Select listening language](assistant.md#select-listening-language)

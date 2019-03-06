@@ -1,4 +1,4 @@
-# Translator
+# Translator by Yandex
 
 * [Set up](translator.md#set-up)
 * [Translate](translator.md#translate)

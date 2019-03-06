@@ -1,4 +1,4 @@
-# Map
+# Map by Google and Apple
 
 * [Choose your provider](map.md#choose-your-provider)
 * [Zoom and center the Map](map.md#zoom-and-center-the-map)

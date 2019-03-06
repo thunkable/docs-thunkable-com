@@ -1,4 +1,4 @@
-# Spreadsheet
+# Spreadsheet by Airtable
 
 Airtable is a service that looks like a spreadsheet but actually acts like a database so it can do database-like things like store attachments i.e. images in your spreadsheets \(and not just text\) and link records between spreadsheets.
 

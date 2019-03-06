@@ -1,2 +1,2 @@
-# AdMob
+# Ads by AdMob
 

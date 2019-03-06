@@ -1,4 +1,4 @@
-# Realtime DB
+# Realtime DB by Firebase
 
 This storage option is useful for anything from saving game high scores to tracking work credit, powered by Firebase.
 

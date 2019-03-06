@@ -1,4 +1,4 @@
-# Sign In
+# Email Sign In by Firebase
 
 * [Set up](sign-in-1.md#set-up)
 * [Basic sign in](sign-in-1.md#basic-sign-in-)
