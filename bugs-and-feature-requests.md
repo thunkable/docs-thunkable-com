@@ -16,7 +16,7 @@ To submit a bug or feature request, please follow the steps below.
 
 ## Check to see if your bug or feature request has already been reported in our [Thunkable public repository](https://github.com/thunkable/thunkable-issues/issues)
 
-![You can search and filter for your issue in the &apos;Filters&apos; bar](.gitbook/assets/thunkable-docs-exhibits-8.png)
+![You can search and filter for your issue in the &apos;Filters&apos; bar](.gitbook/assets/thunkable-docs-exhibits-8%20%281%29.png)
 
 ## If you find your issue on the list, you can add a reaction like a Thumbs up or add additional comments and details
 
@@ -28,11 +28,11 @@ To submit a bug or feature request, please follow the steps below.
 
 ## For bug reports, please describe your problem in as much detail as possible and if possible, how to reproduce it exactly. Share copy links are always welcome!
 
-![The more detail you provide, the faster we&apos;ll be able to reproduce it and address it](.gitbook/assets/thunkable-docs-exhibits-10.png)
+![The more detail you provide, the faster we&apos;ll be able to reproduce it and address it](.gitbook/assets/thunkable-docs-exhibits-10%20%281%29.png)
 
 ## For feature requests, please tell us how you would like to use the features in as much detail as possible such as what kind of app you are trying to build. This will help us define the feature to match your needs.
 
-![](.gitbook/assets/thunkable-docs-exhibits-11.png)
+![](.gitbook/assets/thunkable-docs-exhibits-11%20%281%29.png)
 
 ## Congrats!
 
