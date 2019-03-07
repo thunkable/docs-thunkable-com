@@ -21,9 +21,9 @@ We appreciate your feedback during this Beta launch. Please feel free to let us 
 
 Take these samples as a template to build your own apps. Download them as is or remix them and make them your own!
 
-* Scavenger Hunt
-* Secret Lunch Ballot
-* Supply Chain Ledger
+* [Scavenger Hunt](https://docs.thunkable.com/blockchain#scavenger-hunt-making-a-verifiable-location-based-application)
+* [Secret Lunch Ballot](https://docs.thunkable.com/blockchain#secret-lunch-ballot-build-your-own-confidential-poll-or-ballot-in-minutes)
+* [Supply Chain Ledger](https://docs.thunkable.com/blockchain#supply-chain-saving-data-from-multiple-users)
 
 ## Scavenger Hunt -- **Making a verifiable location-based application**
 
