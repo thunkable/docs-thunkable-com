@@ -41,7 +41,7 @@ You can easily customize this app by changing the voting options.
 
 1. \*\*\*\*[**Download**](https://x.thunkable.com/copy/3e29ef0537c2a1cc2d06908b14505548) **the World Lunch Ballot app file**
 2. **Remix** [**walkthrough**](https://docs.google.com/document/d/1A4RoGPnLOR_kXr6L6epEeIXPXJM1KXwfi5fIREJTvBo/edit?usp=sharing)\*\*\*\*
-3. **Step by step documentation**
+3. **Step by step** [**documentation**](https://docs.google.com/document/d/1MqaZT9I5p5w3dYg2IBgm6dDFHRreB7m1TvRHpDcg9FE/edit)\*\*\*\*
 4. **Video tutorial**
 
 ## Supply Chain -- Saving data to the Blockchain
