@@ -11,7 +11,7 @@ description: >-
 
 A blockchain is a public ledger of information collected through a network. Blockchain technology is not a company, nor is it an app, but rather an entirely new way of documenting data on the internet. The technology can be used to develop blockchain applications, such as social networks, messengers, games, exchanges, storage platforms, voting systems, prediction markets, online shops and much more. 
 
-## Oasis Labs and Thunkable
+## Oasis Labs and Thunkable 
 
 To help get you started incorporating blockchain technology into your apps, we've created both video tutorials and text walkthroughs for 3 sample apps. You can also find full documentation for the [OasisWeb3](https://docs.thunkable.com/~/drafts/-L_K4CA6uUkORsL2uJoM/primary/oasisweb3) and [OasisSmartContract](https://docs.thunkable.com/~/drafts/-L_K4CA6uUkORsL2uJoM/primary/oasissmartcontract) components.
 
