@@ -16,7 +16,7 @@ description: >-
 
 ## GetBalance Block
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 **Input:**
 
@@ -75,7 +75,7 @@ You can see that it includes things like status, gasUsed, and logs that you can 
 
 ## **SendTransaction Block**
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2822%29.png)
 
 Sends Gas from the user’s account to another account. This waits for the transaction to become a part of the blockchain and for the receipt to be ready before calling the next callback block.
 
@@ -94,7 +94,7 @@ Sends Gas from the user’s account to another account. This waits for the trans
 
 ## **SendTransactionWithoutReceipt Block**
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 This sends the transaction and returns the TransactionHash immediately and does not wait for the blockchain to finish writing the transaction. This block is helpful if you want to just send the transaction and want to do other things while waiting for the transaction to be written to the blockchain.
 

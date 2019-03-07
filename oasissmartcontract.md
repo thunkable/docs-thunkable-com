@@ -85,7 +85,7 @@ Use this block to just run a method without writing anything to the blockchain. 
 
 ## **EstimateGas Block**
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
 This is similar to the Method\_RunOnly block. The EstimateGas block  does a practice run of the Method with the given inputs and returns an estimate of how much Gas it will cost to run the method.
 
