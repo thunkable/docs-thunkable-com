@@ -67,7 +67,7 @@
 * [Payment by Stripe](payment.md)
 * [-----Blockchain-----](blockchain.md)
 * [OasisWeb3](oasisweb3.md)
-* [OasisSmartContract](oasissmartcontract.md)
+* [Oasis Smart Contract](oasissmartcontract.md)
 * [-----⎍ Blocks-----](blocks.md)
 * [Control](control.md)
 * [Logic](logic.md)

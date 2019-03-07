@@ -1,10 +1,8 @@
 ---
-description: >-
-  The OasisWeb3 Component allows you to (Insert description of the OasisWeb3
-  Component)
+description: Use this component to call your own smart contract on Oasis.
 ---
 
-# OasisSmartContract
+# Oasis Smart Contract
 
 ## **Method Block**
 
@@ -29,7 +27,7 @@ Use this block to call any method of a smart contract that has been deployed to 
 
 **Example:**
 
-**{**  
+**{  
         "transactionHash": "0x9fc76417374aa880d4449a1f7f31ec597f00b1f6f3dd2d66f4c9c6c445836d8b",  
         "transactionIndex": 0,  
         "blockHash": "0xef95f2f1ed3ca60b048b4bf67cde2195961e0bba6f70bcbea9a2c4e133e34b46",  
@@ -62,7 +60,7 @@ Use this block to call any method of a smart contract that has been deployed to 
             },  
             "MyMultipleEvent":\[{...}, {...}\] // If there are multiple of the same event, they will be in an array  
         }  
-    }
+    }**
 
 ## **Method\_RunOnly Block**
 
