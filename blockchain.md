@@ -54,7 +54,7 @@ You can easily customize this app by changing what information is stored.
 
 1. \*\*\*\*[**Download**](https://x.thunkable.com/copy/1aea7b688073f0c659c7690e009ec14f%20) **the Supply Chain app file**
 2. **Remix** [**walkthrough**](https://docs.google.com/document/d/15w5q747x_dsshxJ2uawys9TgQ_RHOiabW8yC4fI_y5Y/edit?usp=sharing)\*\*\*\*
-3. **Step by step documentation**
+3. **Step by step** [**documentation**](https://docs.google.com/document/d/13EtgoRD8CgfVkXw1ysc_oB9wmeQ8EivxRAYAqkdAfVU/edit?usp=sharing)\*\*\*\*
 4. **Video tutorial**
 
   
