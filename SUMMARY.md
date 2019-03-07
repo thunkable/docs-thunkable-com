@@ -65,7 +65,7 @@
 * [-----Monetization-----](monetization.md)
 * [Ads by AdMob](admob.md)
 * [Payment by Stripe](payment.md)
-* [-----Blockchain-----](blockchain.md)
+* [--Blockchain and Data Privacy--](blockchain.md)
 * [OasisWeb3](oasisweb3.md)
 * [Oasis Smart Contract](oasissmartcontract.md)
 * [-----⎍ Blocks-----](blocks.md)
