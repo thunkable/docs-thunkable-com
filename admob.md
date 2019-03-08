@@ -16,8 +16,8 @@ We highly recommend that you only add ads to your app after you have a large aud
 * [Download and publish](admob.md#download-and-publish) ![](.gitbook/assets/pro.png) ****
   * [Submit for review](admob.md#submit-for-review)
   * [Create `Ad Unit ID`](admob.md#create-an-ad-unit-id)\`\`
-  * Link `Ad Unit ID`
-  * Set `test mode = false`
+  * [Link `Ad Unit ID`](admob.md#link-ad-unit-id)\`\`
+  * [Set `test mode = false`](admob.md#set-test-mode-false)\`\`
 * [Troubleshooting](admob.md#troubleshooting)
 
 {% hint style="info" %}
@@ -116,11 +116,31 @@ Below is a visual walkthrough of the steps after you have created your AdMob acc
 
 ### Link `Ad Unit ID` 
 
+{% hint style="info" %}
+The Ad Unit ID should begin with `ca-app-pub-xxx`
+{% endhint %}
 
+![Enter your Ad Unit ID into the properties panel of your AdMob component. Make sure you enter the right Ad Unit ID for the appropriate ad format](.gitbook/assets/thunkable-docs-exhibits-13.png)
 
+### Set `test mode = false` 
 
+To protect the integrity of your account, we have by default set `test mode = true`.
+
+When you are ready activate your ads when you download or publish, you'll simply need to set `test mode = false`.
+
+![](.gitbook/assets/thunkable-docs-exhibits-14.png)
 
 ## **Troubleshooting**
+
+If you are not seeing ads appear in your app, it may be due to the following reasons:
+
+* Your AdMob account has been disabled due to a policy violation. Please sign in to your AdMob account
+* Your AdMob component property `test mode = true`. To activate, you'll need to flip the switch to `test mode = false`
+* Your  `Ad Unit ID` has not yet been activated. This may take up to a few hours
+* You have entered the App ID or the Publisher ID instead of the Ad Unit ID which begins with `ca-app-pub-xxx`
+* Please check the mobile device internet connectivity or disable ad blockers on the mobile device
+* Your setup is correct. The issue is that AdMob does not always have an ad to return for every request. This may happen particularly if you have just registered your AdMob publisher ID, as it takes some time and multiple requests before the new ID starts returning ads
+* [Check the community forum for other potential errors](https://community.thunkable.com/)
 
 \*\*\*\*
 

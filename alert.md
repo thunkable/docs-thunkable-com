@@ -2,7 +2,7 @@
 
 Alerts are useful components for displaying important messages while users are in the app itself
 
-![Popular two-button alerts for Android and iOS](.gitbook/assets/thunkable-docs-exhibits-14.png)
+![Popular two-button alerts for Android and iOS](.gitbook/assets/thunkable-docs-exhibits-14%20%281%29.png)
 
 ## One button alert
 
@@ -25,7 +25,7 @@ Two button alerts have two buttons, one that dismisses the notification and one 
 
 To set one up, simply add the following `simple` properties
 
-![](.gitbook/assets/thunkable-docs-exhibits-14%20%281%29.png)
+![](.gitbook/assets/thunkable-docs-exhibits-14%20%282%29.png)
 
 | Property | Description |
 | :--- | :--- |

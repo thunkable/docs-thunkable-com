@@ -31,7 +31,7 @@ The “Scavenger Hunt” app allows you to create a “geo hotspot” on a map .
 
 You can easily customize this app by changing the geo hotspot area that can give you coins when you are within its boundaries.
 
-1. **​**[**Download**](https://x.thunkable.com/copy/d426e1eaa91d801d260dfc267c0654cd) **the Scavenger Hunt app file**
+1. **​**[**Open**](https://x.thunkable.com/copy/d426e1eaa91d801d260dfc267c0654cd) **the Scavenger Hunt app file**
 2. **Remix**[ **walkthrough**](https://docs.google.com/document/d/18nnKSjujOBBMXJpLX8sfOx1RNO7kk9E6UZvF4D3PKq8/edit?usp=sharing)**​**
 3. **Step by step**[ **documentation**](https://docs.google.com/document/d/1Uijzp80LlE9Iq2av5DUMc18GY6E33R7Czn_TDiaesv0/edit?usp=sharing)**​**
 4. **Video** [**tutorial**](https://youtu.be/dyqB2jZ4soo)\*\*\*\*
@@ -40,7 +40,7 @@ You can easily customize this app by changing the geo hotspot area that can give
 
 The Lunch Ballot app is a polling app where users can vote on different lunch options. You can easily customize this app by changing the voting options.
 
-1. \*\*\*\*[**Download**](https://x.thunkable.com/copy/3e29ef0537c2a1cc2d06908b14505548) **the Secret Lunch Ballot app file**
+1. \*\*\*\*[**Open**](https://x.thunkable.com/copy/3e29ef0537c2a1cc2d06908b14505548) **the Secret Lunch Ballot App file**
 2. **Remix** [**walkthrough**](https://docs.google.com/document/d/1A4RoGPnLOR_kXr6L6epEeIXPXJM1KXwfi5fIREJTvBo/edit?usp=sharing)\*\*\*\*
 3. **Step by step** [**documentation**](https://docs.google.com/document/d/1MqaZT9I5p5w3dYg2IBgm6dDFHRreB7m1TvRHpDcg9FE/edit)\*\*\*\*
 4. **Video** [**tutorial**](https://youtu.be/uIVBYTjBeWE)\*\*\*\*
@@ -49,18 +49,18 @@ The Lunch Ballot app is a polling app where users can vote on different lunch op
 
 The Supply Chain app is a digital ledger app where manufacturers \(and other users\) can log shipments that have been received or dispatched. You can easily customize this app by changing what information is stored.
 
-1. \*\*\*\*[**Download**](https://x.thunkable.com/copy/1aea7b688073f0c659c7690e009ec14f%20) **the Supply Chain app file**
+1. \*\*\*\*[**Open**](https://x.thunkable.com/copy/1aea7b688073f0c659c7690e009ec14f) **the Supply Chain App file**
 2. **Remix** [**walkthrough**](https://docs.google.com/document/d/15w5q747x_dsshxJ2uawys9TgQ_RHOiabW8yC4fI_y5Y/edit?usp=sharing)\*\*\*\*
 3. **Step by step** [**documentation**](https://docs.google.com/document/d/13EtgoRD8CgfVkXw1ysc_oB9wmeQ8EivxRAYAqkdAfVU/edit?usp=sharing)\*\*\*\*
 4. **Video** [**tutorial**](https://youtu.be/Xs6LvVJ0oko)\*\*\*\*
 
 ## **Building and deploying your own smart contract on Thunkable**
 
-If you’d like to build a mobile app with smart contract and blockchain technology from scratch, you can also use the Oasis Developer Dashboard to write your own smart contract, connect it to Thunkable using the [OasisWeb3](https://docs.thunkable.com/oasisweb3) and [OasisSmartContract](https://docs.thunkable.com/oasissmartcontract) components.  
+If you’d like to build a mobile app with smart contract and blockchain technology from scratch, you can also use the [Oasis Developer Dashboard](http://dashboard.oasiscloud.io) to write your own smart contract, connect it to Thunkable using the [OasisWeb3](https://docs.thunkable.com/oasisweb3) and [OasisSmartContract](https://docs.thunkable.com/oasissmartcontract) components.  
   
-In less than an hour, you’ll have a complete mobile app that you can submit to the Apple App Store or Google Play Store.  
+In less than an hour, you’ll have a complete mobile app that you can submit to the Apple App Store or Google Play.  
   
-Go to the Oasis Developer Dashboard to learn more.
+Learn more about the [Oasis Developer Dashboard](https://docs.oasiscloud.io/en/latest/dashboard-quickstart/).
 
 **Other resources:**
 
