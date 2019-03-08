@@ -70,7 +70,21 @@ The first banner ad will load when ready and will reload a new ad every minute.
 
 ## Interstitial ad
 
+Interstitial ads are recommended after a user has completed a task in your app. We don't recommend showing an interstitial ad right after the app opens and the user has not spent any time in your app.
+
+To show an interstitial app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app
+
+![](.gitbook/assets/screen-shot-2019-03-08-at-8.54.29-am.png)
+
+
+
 ## R**ewarded video** ad
+
+Interstitial ads are recommended after a user has completed a heavy task in your app and would be willing to watch a long video to continue. 
+
+To show a rewarded video app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app. You'll then want to add a `Reward User` event to continue the app. 
+
+![](.gitbook/assets/screen-shot-2019-03-08-at-8.55.38-am.png)
 
 ## Live test \(Android only\) <a id="live-test"></a>
 
