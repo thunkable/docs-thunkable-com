@@ -60,6 +60,10 @@ Once approved, apps can be downloaded and published without further review.
 
 ## Banner ad
 
+## Banner Ads
+
+## Banner Ad
+
 AdMob banner ads are the simplest ad format to implement and are recommended for beginners.
 
 ![Drag and drop the component onto any screen. You may need to re-position banner ad to the bottom or top of the screen using the Vertical Alignment property of the Screen.](.gitbook/assets/thunkable-docs-exhibits-10.png)
@@ -80,7 +84,7 @@ To show an interstitial app, you need to first add the component and then add th
 
 ## R**ewarded video** ad
 
-Interstitial ads are recommended after a user has completed a heavy task in your app and would be willing to watch a long video to continue. 
+Rewarded video ads are recommended after a user has completed a heavy task in your app and would be willing to watch a long video to continue. 
 
 To show a rewarded video app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app. You'll then want to add a `Reward User` event to continue the app. 
 

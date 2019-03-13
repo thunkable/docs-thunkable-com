@@ -5,10 +5,29 @@
 New components
 
 * Blockchain powered by Oasis Labs
-* Ads powered by AdMob
+* [Ads powered by AdMob](https://docs.thunkable.com/release-notes#mar-12-2019)
 * Bluetooth Low Energy
 * Push Notifications
 * Canvas and Sprites
+
+## Mar 12, 2019
+
+New Components
+
+* [AdMob Banner](https://docs.thunkable.com/admob#banner-ad) - displays a rectangular ad at the top of bottom of any screen.
+* [AdMob Interstitial](https://docs.thunkable.com/admob#interstitial-ad) - full screen ads that display over the current screen.
+* [AdMob Rewarded Video](https://docs.thunkable.com/admob#rewarded-video-ad) - show a full screen video ad over the current screen and adds event handler to reward user after watching.
+
+Platform Updates
+
+* Improved build and deploy times
+* New icons for forthcoming Oasis components
+
+Bug Fixes
+
+* Fixed broken links to Thunkable docs
+
+## Feb 11, 2019
 
 Block updates
 
@@ -17,8 +36,6 @@ Block updates
 Bug fixes
 
 * Fix bug that causes random block to not work in the variable initialization block
-
-## Feb 11, 2019
 
 Platform updates
 
