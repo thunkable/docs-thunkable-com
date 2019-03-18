@@ -27,7 +27,7 @@ All apps must be approved by Thunkable subject to our [review guidelines](admob.
 
 Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.
 
-Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob. \(During the initial period, Thunkable will not charge a maintenance fee\)
+Thunkable also reserves the right to charge a maintenance fee for revenue earned via AdMob in the future. \(During the initial period, Thunkable will not charge a maintenance fee\)
 {% endhint %}
 
 ## Review guidelines
