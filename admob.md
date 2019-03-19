@@ -7,7 +7,7 @@ AdMob is the most popular ad network for monetizing mobile apps today. Apps with
 We highly recommend that you only add ads to your app after you have a large audience of users \(otherwise, you won't generate much revenue anyway\).
 
 * [Review guidelines](admob.md#review-guidelines)
-* [Sample apps](admob.md#sample-apps) \(coming soon\)
+* [Sample apps](admob.md#sample-apps)
 * [Ad formats](admob.md#ad-formats)
 * [Banner ad](admob.md#banner-ad)
 * [Interstitial ad](admob.md#interstitial-ad)
@@ -27,7 +27,7 @@ All apps must be approved by Thunkable subject to our [review guidelines](admob.
 
 Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.
 
-Thunkable also reserves the right to charge a maintenance fee for revenue earned via AdMob in the future. \(During the initial period, Thunkable will not charge a maintenance fee\)
+Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob in the future. \(During the initial period, Thunkable will not charge a maintenance fee\)
 {% endhint %}
 
 ## Review guidelines
@@ -48,7 +48,11 @@ Once approved, apps can be downloaded and published without further review.
 
 **Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.**
 
-## **Sample apps \(coming soon\)** <a id="sample-apps"></a>
+## **Sample apps** <a id="sample-apps"></a>
+
+| **Sample App** | Description |
+| :--- | :--- |
+| [Dad with Ad](https://x.thunkable.com/projects/5c85f9c0bd31e8c4e90f3539/Welcome/designer) | Dad app with AdMob Banner ad on home screen and AdMob Rewarded Video ad that appears after a user has receive an answer from my dad |
 
 ## Ad formats
 
@@ -59,10 +63,6 @@ Once approved, apps can be downloaded and published without further review.
 | Limit | 1 per screen | 1 per app | 1 per app |
 
 ## Banner ad
-
-## Banner Ads
-
-## Banner Ad
 
 AdMob banner ads are the simplest ad format to implement and are recommended for beginners.
 
