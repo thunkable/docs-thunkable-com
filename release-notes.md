@@ -5,7 +5,6 @@
 New components
 
 * Blockchain powered by Oasis Labs
-* [Ads powered by AdMob](https://docs.thunkable.com/release-notes#mar-12-2019)
 * Bluetooth Low Energy
 * Push Notifications
 * Canvas and Sprites
