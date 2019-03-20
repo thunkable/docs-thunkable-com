@@ -9,7 +9,7 @@ New components
 * Push Notifications
 * Canvas and Sprites
 
-## Mar 20, 2019
+## Mar 19, 2019
 
 Component Updates
 
