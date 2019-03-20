@@ -9,6 +9,13 @@ New components
 * Push Notifications
 * Canvas and Sprites
 
+## Mar 20, 2019
+
+Component Updates
+
+* [AdMob](admob.md)
+  * Thunkable Live iOS app now supports live testing apps with AdMob
+
 ## Mar 12, 2019
 
 New Components

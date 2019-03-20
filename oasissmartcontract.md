@@ -27,7 +27,7 @@ Use this block to call any method of a smart contract that has been deployed to 
 
 **Example:**
 
-**{  
+**`{  
         "transactionHash": "0x9fc76417374aa880d4449a1f7f31ec597f00b1f6f3dd2d66f4c9c6c445836d8b",  
         "transactionIndex": 0,  
         "blockHash": "0xef95f2f1ed3ca60b048b4bf67cde2195961e0bba6f70bcbea9a2c4e133e34b46",  
@@ -44,7 +44,7 @@ Use this block to call any method of a smart contract that has been deployed to 
                 },  
                 raw: {  
                     data: '0x7f9fade1c0d57a7af66ab4ead79fade1c0d57a7af66ab4ead7c2c2eb7b11a91385',  
-                    topics: \['0xfd43ade1c09fade1c0d57a7af66ab4ead7c2c2eb7b11a91ffdd57a7af66ab4ead7', '0x7f9fade1c0d57a7af66ab4ead79fade1c0d57a7af66ab4ead7c2c2eb7b11a91385'\]  
+                    topics: ['0xfd43ade1c09fade1c0d57a7af66ab4ead7c2c2eb7b11a91ffdd57a7af66ab4ead7', '0x7f9fade1c0d57a7af66ab4ead79fade1c0d57a7af66ab4ead7c2c2eb7b11a91385']  
                 },  
                 event: 'MyEvent',  
                 signature: '0xfd43ade1c09fade1c0d57a7af66ab4ead7c2c2eb7b11a91ffdd57a7af66ab4ead7',  
@@ -58,9 +58,9 @@ Use this block to call any method of a smart contract that has been deployed to 
             "MyOtherEvent": {  
                 ...  
             },  
-            "MyMultipleEvent":\[{...}, {...}\] // If there are multiple of the same event, they will be in an array  
+            "MyMultipleEvent":[{...}, {...}] // If there are multiple of the same event, they will be in an array  
         }  
-    }**
+    }`**
 
 ## **Method\_RunOnly Block**
 
@@ -118,7 +118,7 @@ Similar to the ****SubscribeToLogs block.
 * Callback is called whenever a new event occurs. The following parameters are passed into the callback:
 * logEntry \(object\): Is not undefined everytime a new event that matches the topics, addresses, etc. happens. Example
 
-**{  
+**`{  
     returnValues: {  
         myIndexedParam: 20,  
         myOtherIndexedParam: '0x123456789...',  
@@ -126,7 +126,7 @@ Similar to the ****SubscribeToLogs block.
     },  
     raw: {  
         data: '0x7f9fade1c0d57a7af66ab4ead79fade1c0d57a7af66ab4ead7c2c2eb7b11a91385',  
-        topics: \['0xfd43ade1c09fade1c0d57a7af66ab4ead7c2c2eb7b11a91ffdd57a7af66ab4ead7', '0x7f9fade1c0d57a7af66ab4ead79fade1c0d57a7af66ab4ead7c2c2eb7b11a91385'\]  
+        topics: ['0xfd43ade1c09fade1c0d57a7af66ab4ead7c2c2eb7b11a91ffdd57a7af66ab4ead7', '0x7f9fade1c0d57a7af66ab4ead79fade1c0d57a7af66ab4ead7c2c2eb7b11a91385']  
     },  
     event: 'MyEvent',  
     signature: '0xfd43ade1c09fade1c0d57a7af66ab4ead7c2c2eb7b11a91ffdd57a7af66ab4ead7',  
@@ -136,7 +136,7 @@ Similar to the ****SubscribeToLogs block.
     blockHash: '0xfd43ade1c09fade1c0d57a7af66ab4ead7c2c2eb7b11a91ffdd57a7af66ab4ead7',  
     blockNumber: 1234,  
     address: '0xde0B295669a9FD93d5F28D9Ec85E40f4cb697BAe'  
-}**
+}`**
 
 * * **changedLog \(object\): This output is there every time a log is removed from the blockchain.**
   * **Error \(object\): Is there when an error occurs with the subscription**

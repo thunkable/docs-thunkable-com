@@ -41,7 +41,7 @@ Every time you write to the blockchain, a transaction is generated. This could b
 
 * Error \(type: object\): Is not undefined if there was an error while trying to retrieve the transaction object.
 * TransactionObject \(type: Object\): This object contains information about the transaction, such as who was Gas sent to and who was it sent from, or how much did it cost to send. Here is an example transaction object:
-  * **{     "hash": "0x9fc76417374aa880d4449a1f7f31ec597f00b1f6f3dd2d66f4c9c6c445836d8b",     "nonce": 2,     "blockHash": "0xef95f2f1ed3ca60b048b4bf67cde2195961e0bba6f70bcbea9a2c4e133e34b46",     "blockNumber": 3,     "transactionIndex": 0,     "from": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",     "to": "0x6295ee1b4f6dd65047762f924ecd367c17eabf8f",     "value": '123450000000000000',     "gas": 314159,     "gasPrice": '2000000000000',     "input": "0x57cb2fc4" }**
+  * **`{     "hash": "0x9fc76417374aa880d4449a1f7f31ec597f00b1f6f3dd2d66f4c9c6c445836d8b",     "nonce": 2,     "blockHash": "0xef95f2f1ed3ca60b048b4bf67cde2195961e0bba6f70bcbea9a2c4e133e34b46",     "blockNumber": 3,     "transactionIndex": 0,     "from": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",     "to": "0x6295ee1b4f6dd65047762f924ecd367c17eabf8f",     "value": '123450000000000000',     "gas": 314159,     "gasPrice": '2000000000000',     "input": "0x57cb2fc4" }`**
 
 ## **GetTransactionReceipt Block**
 
@@ -57,7 +57,7 @@ Similar to the GetTransaction block, this block also retrieves information about
 
 Receipt and Error. Here’s an example of the Receipt:
 
-**{  
+**`{  
   "status": true,  
   "transactionHash": "0x9fc76417374aa880d4449a1f7f31ec597f00b1f6f3dd2d66f4c9c6c445836d8b",  
   "transactionIndex": 0,  
@@ -66,10 +66,10 @@ Receipt and Error. Here’s an example of the Receipt:
   "contractAddress": "0x11f4d0A3c12e86B4b5F39B213F7E19D048276DAe",  
   "cumulativeGasUsed": 314159,  
   "gasUsed": 30234,  
-  "logs": \[{  
+  "logs": [{  
          // logs as returned by getPastLogs, etc.  
-     }, ...\]  
-}**
+     }, ...]  
+}`**
 
 You can see that it includes things like status, gasUsed, and logs that you can only get once the transaction has been processed and you can see what happened.
 

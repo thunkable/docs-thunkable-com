@@ -12,7 +12,7 @@ We highly recommend that you only add ads to your app after you have a large aud
 * [Banner ad](admob.md#banner-ad)
 * [Interstitial ad](admob.md#interstitial-ad)
 * [Rewarded video ad](admob.md#rewarded-video-ad)
-* [Live test](admob.md#live-test) \(Android only\)
+* [Live test](admob.md#live-test)
 * [Download and publish](admob.md#download-and-publish) ![](.gitbook/assets/pro.png) ****
   * [Submit for review](admob.md#submit-for-review)
   * [Create `Ad Unit ID`](admob.md#create-an-ad-unit-id)\`\`
@@ -90,9 +90,7 @@ To show a rewarded video app, you need to first add the component and then add t
 
 ![](.gitbook/assets/screen-shot-2019-03-08-at-8.55.38-am.png)
 
-## Live test \(Android only\) <a id="live-test"></a>
-
-At the moment, it is only possible to live test apps on Android devices. \(To view an ad on an iOS device today, you'll need a PRO account, your app to be approved and to download your app to your iOS device\). We hope to lift this restriction soon.
+## Live test <a id="live-test"></a>
 
 For your convenience, we have provided a test  `Ad Unit ID` for you to see how a particular ad format may appear in your app. 
 
