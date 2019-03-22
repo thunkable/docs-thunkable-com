@@ -9,6 +9,12 @@ New components
 * Push Notifications
 * Canvas and Sprites
 
+## Mar 20, 2019
+
+Platform Updates
+
+* Login - added the ability to login to the platform by email
+
 ## Mar 19, 2019
 
 Component Updates

@@ -8,6 +8,8 @@ description: Build blockchain apps with built-in privacy.
 
 **\*\*\*For beta access, please email jimmy@thunkable.com\*\*\***
 
+\(Please note: Oasis Labs is a beta product. As a result there may be system updates that impact your app's ability to connect to the platform or even loose data during major quarterly upgrades. You can learn more [_here_](http://docs.oasiscloud.io/en/latest/dashboard-quickstart/) about upgrade cycles\)
+
 ## **Using Oasis to build new experiences**
 
 Using Oasis technology, developers can quickly and easily build new types of experiences in your app that incorporate blockchain and privacy technologies.
@@ -21,9 +23,9 @@ We appreciate your feedback during this Beta launch. Please feel free to let us 
 
 Take these samples as a template to build your own apps. Download them as is or remix them and make them your own!
 
-* [Scavenger Hunt](https://docs.thunkable.com/blockchain#scavenger-hunt-making-a-verifiable-location-based-application)
-* [Secret Lunch Ballot](https://docs.thunkable.com/blockchain#secret-lunch-ballot-build-your-own-confidential-poll-or-ballot-in-minutes)
-* [Supply Chain Ledger](https://docs.thunkable.com/blockchain#supply-chain-saving-data-from-multiple-users)
+* [Scavenger Hunt](https://x.thunkable.com/copy/2627dcda2a5fb31f40fa1228d45ced08)
+* [Secret Lunch Ballot](https://x.thunkable.com/copy/dc1ff801843255fe2f97bda121389205)
+* [Supply Chain Ledger](https://x.thunkable.com/copy/740929e0127475f2b2e9272b031020d2)
 
 ## Scavenger Hunt -- **Making a verifiable location-based application**
 

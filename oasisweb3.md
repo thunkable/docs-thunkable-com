@@ -151,6 +151,8 @@ You can use this block to subscribe to specific events on the blockchain**.**
   * changedLog \(object\): Is there every time a log is removed from the blockchain.
   * Error \(object\): Is there when an error occurs with the subscription.
 
+\(Please note: Oasis Labs is a beta product. As a result there may be system updates that impact your app's ability to connect to the platform or even loose data during major quarterly upgrades. You can learn more [_here_](http://docs.oasiscloud.io/en/latest/dashboard-quickstart/) about upgrade cycles\)
+
 \*\*\*\*
 
 \*\*\*\*
