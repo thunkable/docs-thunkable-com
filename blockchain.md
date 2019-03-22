@@ -8,7 +8,10 @@ description: Build blockchain apps with built-in privacy.
 
 **\*\*\*For beta access, please email jimmy@thunkable.com\*\*\***
 
-\(Please note: Oasis Labs is a beta product. As a result there may be system updates that impact your app's ability to connect to the platform or even loose data during major quarterly upgrades. You can learn more [_here_](http://docs.oasiscloud.io/en/latest/dashboard-quickstart/) about upgrade cycles\)
+Please note: 
+
+1. Oasis Labs is a beta product. As a result there may be system updates that impact your app's ability to connect to the platform or even loose data during major quarterly upgrades. You can learn more [_here_](http://docs.oasiscloud.io/en/latest/dashboard-quickstart/) about upgrade cycles\)
+2. If you are testing on iOS, please open and force quit the Thunkable Live App before testing Oasis components. 
 
 ## **Using Oasis to build new experiences**
 
@@ -23,9 +26,9 @@ We appreciate your feedback during this Beta launch. Please feel free to let us 
 
 Take these samples as a template to build your own apps. Download them as is or remix them and make them your own!
 
-* [Scavenger Hunt](https://x.thunkable.com/copy/2627dcda2a5fb31f40fa1228d45ced08)
-* [Secret Lunch Ballot](https://x.thunkable.com/copy/dc1ff801843255fe2f97bda121389205)
-* [Supply Chain Ledger](https://x.thunkable.com/copy/740929e0127475f2b2e9272b031020d2)
+* [Scavenger Hunt](https://x.thunkable.com/copy/942b7843b8af4c63ffb543e1beab8916)
+* [Secret Lunch Ballot](https://x.thunkable.com/copy/c0285902e5ea65237406bfb1b95ef2c1)
+* [Supply Chain Ledger](https://x.thunkable.com/copy/52a5807a9c643b9b307ffa1c6457448c)
 
 ## Scavenger Hunt -- **Making a verifiable location-based application**
 
@@ -33,7 +36,7 @@ The “Scavenger Hunt” app allows you to create a “geo hotspot” on a map .
 
 You can easily customize this app by changing the geo hotspot area that can give you coins when you are within its boundaries.
 
-1. **​**[**Open**](https://x.thunkable.com/copy/d426e1eaa91d801d260dfc267c0654cd) **the Scavenger Hunt app file**
+1. **​**[**Open**](https://x.thunkable.com/copy/942b7843b8af4c63ffb543e1beab8916) **the Scavenger Hunt app file**
 2. **Remix**[ **walkthrough**](https://docs.google.com/document/d/18nnKSjujOBBMXJpLX8sfOx1RNO7kk9E6UZvF4D3PKq8/edit?usp=sharing)**​**
 3. **Step by step**[ **documentation**](https://docs.google.com/document/d/1Uijzp80LlE9Iq2av5DUMc18GY6E33R7Czn_TDiaesv0/edit?usp=sharing)**​**
 4. **Video** [**tutorial**](https://youtu.be/dyqB2jZ4soo)\*\*\*\*
@@ -42,7 +45,7 @@ You can easily customize this app by changing the geo hotspot area that can give
 
 The Lunch Ballot app is a polling app where users can vote on different lunch options. You can easily customize this app by changing the voting options.
 
-1. \*\*\*\*[**Open**](https://x.thunkable.com/copy/3e29ef0537c2a1cc2d06908b14505548) **the Secret Lunch Ballot App file**
+1. \*\*\*\*[**Open**](https://x.thunkable.com/copy/c0285902e5ea65237406bfb1b95ef2c1) **the Secret Lunch Ballot App file**
 2. **Remix** [**walkthrough**](https://docs.google.com/document/d/1A4RoGPnLOR_kXr6L6epEeIXPXJM1KXwfi5fIREJTvBo/edit?usp=sharing)\*\*\*\*
 3. **Step by step** [**documentation**](https://docs.google.com/document/d/1MqaZT9I5p5w3dYg2IBgm6dDFHRreB7m1TvRHpDcg9FE/edit)\*\*\*\*
 4. **Video** [**tutorial**](https://youtu.be/uIVBYTjBeWE)\*\*\*\*
@@ -51,7 +54,7 @@ The Lunch Ballot app is a polling app where users can vote on different lunch op
 
 The Supply Chain app is a digital ledger app where manufacturers \(and other users\) can log shipments that have been received or dispatched. You can easily customize this app by changing what information is stored.
 
-1. \*\*\*\*[**Open**](https://x.thunkable.com/copy/1aea7b688073f0c659c7690e009ec14f) **the Supply Chain App file**
+1. \*\*\*\*[**Open**](https://x.thunkable.com/copy/52a5807a9c643b9b307ffa1c6457448c) **the Supply Chain App file**
 2. **Remix** [**walkthrough**](https://docs.google.com/document/d/15w5q747x_dsshxJ2uawys9TgQ_RHOiabW8yC4fI_y5Y/edit?usp=sharing)\*\*\*\*
 3. **Step by step** [**documentation**](https://docs.google.com/document/d/13EtgoRD8CgfVkXw1ysc_oB9wmeQ8EivxRAYAqkdAfVU/edit?usp=sharing)\*\*\*\*
 4. **Video** [**tutorial**](https://youtu.be/Xs6LvVJ0oko)\*\*\*\*
