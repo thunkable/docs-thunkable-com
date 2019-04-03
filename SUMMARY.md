@@ -34,6 +34,7 @@
 * [Switch](switch.md)
 * [Slider](slider.md)
 * [Alert](alert.md)
+* [Loading Icon](loading-icon.md)
 * [-----Voice-----](voice.md)
 * [Speech Recognizer](speech-recognizer.md)
 * [Text to Speech](text-to-speech.md)

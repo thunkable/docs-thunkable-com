@@ -41,6 +41,7 @@ All apps with AdMob must be first approved by Thunkable before they can be downl
 
 Thunkable will review apps for compliance with AdMob policies but will specifically **reject apps** that are:
 
+* Incomplete apps - apps that are still in their early stages and won't show how ads will be used in the app
 * Earning apps - apps that encourage users to clicks ads in exchange for some form of payment
 * Auto-impression apps  - apps that repeatedly load banner ads in the background of apps
 
