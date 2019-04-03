@@ -1,4 +1,4 @@
-# -----Components-----
+# 🛠️ Components
 
 There are two kinds of components that you can add to your app -- Visible components that appear on your screen and Invisible or sometimes referred to as API components that work across screens in the background.
 

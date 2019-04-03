@@ -1,4 +1,4 @@
-# -----Get Started-----
+# 👶 Get Started
 
 ![Hi. I&apos;m the hardworking Thunkable beaver](.gitbook/assets/beaver-logo.png)
 

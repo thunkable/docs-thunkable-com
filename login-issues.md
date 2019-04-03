@@ -1,7 +1,7 @@
 # Login Issues
 
 {% hint style="info" %}
-We currently offer the ability to login to our web platform and mobile app with your Google account. We are hoping to add additional options in the future!
+We currently allow creators to log in with either a Gmail account or with any other email address the choose.
 {% endhint %}
 
 ![](.gitbook/assets/webp.net-resizeimage-22.png)

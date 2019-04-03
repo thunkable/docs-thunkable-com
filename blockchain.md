@@ -2,7 +2,7 @@
 description: Build blockchain apps with built-in privacy.
 ---
 
-# --Blockchain and Data Privacy--
+# 🔒 Blockchain and Data Privacy
 
 **In partnership with** [**Oasis Labs**](http://www.oasislabs.com)**, you can now build mobile applications that include components of blockchain and built-in privacy technologies on Thunkable.**
 
