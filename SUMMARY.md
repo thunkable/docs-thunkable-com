@@ -13,6 +13,7 @@
 * [App Icon + Name](app-icon-+-name.md)
 * [Adding Files](adding-files.md)
 * [App Limits](app-limits.md)
+* [Managing Storage](managing-storage.md)
 * [Intro to Spacing](intro-to-spacing.md)
 * [Intro to Sizing](intro-to-sizing.md)
 * [Fonts](fonts.md)
