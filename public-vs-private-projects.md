@@ -4,7 +4,7 @@
 
 To set your projects to public or private, click the "details" button on a project. You can then click the Public/Private switch to make your project public or private.
 
-![](.gitbook/assets/ezgif.com-video-to-gif-1.gif)
+![](.gitbook/assets/ezgif.com-video-to-gif-1%20%281%29.gif)
 
 ## Public projects
 
