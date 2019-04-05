@@ -41,7 +41,7 @@ To retrieve the Base ID, you'll actually have go to the [Airtable API documentat
 
 `Table Name` and `View Name`
 
-The Table Name and View Name can be retrieved by grabbing the fields from your spreadsheet as shown below
+The Table Name and View Name can be retrieved by grabbing the fields from your spreadsheet as shown below. Your default Table Name should be "Table 1". Your default View Name should be "Grid View".
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-9.png)
 
