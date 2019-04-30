@@ -1,7 +1,7 @@
 # Welcome
 
 {% hint style="warning" %}
-Classic docs will be moving to a new home soon. The new address is: 
+Thunkable Classic docs has moved to a new home. You can find them at: 
 
 [classic-docs.thunkable.com](https://classic-docs.thunkable.com)
 {% endhint %}

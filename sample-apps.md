@@ -142,7 +142,7 @@ Weather is an app that pulls the latest temperature from the [Open Weather Map A
 
 Ride is a simple uber-like app designed for a single rider and driver that demonstrates some of the more complex possibilities of using the Google Maps APIs with the [Web API](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/web-api) component including the geocoding, distance matrix and routing APIs. Developers will have to first create and use their own Google Maps API key and [Realtime DB](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/realtime-db) with Firebase. This is the first sample app that uses the cool renaming component feature that was just implemented.
 
-​[**Click to remix**](https://goo.gl/hzH5Hz)​
+​[**Click to remix**​](https://x.thunkable.com/copy/d792490707738a2ede0f5da7afc0895d)
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LERllacDxPSYIV2IOl1%2F-LERm0fft8EgeYmcHUIY%2FThunkable%20Docs%20Exhibits.png?alt=media&token=cc50a60d-749b-49a8-8a69-2ad8cf5c7cae)
 

@@ -1,10 +1,10 @@
 ---
 description: >-
-  Use the OasisWeb3 component to add information about your account to the
-  application including identity and wallet amount.
+  Use the Blockchain Wallet component to add information about your account to
+  the application including identity and wallet amount.
 ---
 
-# OasisWeb3
+# Blockchain Wallet
 
 ### **GetAccountAddress Block**
 
@@ -12,7 +12,7 @@ description: >-
 
 **Output:**
 
-* Address \(type: text\): Each time an app with the OasisWeb3 component is installed, the app gets a new blockchain account. Each blockchain account on Oasis has an address that identifies it, and is of the form “0xc38f0DFC19816706eF10bC9E362cF5C1138Bd6d3”
+* Address \(type: text\): Each time an app with the Blockchain Wallet component is installed, the app gets a new blockchain account. Each blockchain account on Oasis has an address that identifies it, and is of the form “0xc38f0DFC19816706eF10bC9E362cF5C1138Bd6d3”
 
 ## GetBalance Block
 

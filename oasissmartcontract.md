@@ -2,7 +2,7 @@
 description: Use this component to call your own smart contract on Oasis.
 ---
 
-# Oasis Smart Contract
+# Smart Contract
 
 ## **Method Block**
 

@@ -8,6 +8,13 @@ New components
 * Bluetooth Low Energy
 * Push Notifications
 * Canvas and Sprites
+* Accelerometer
+
+## Apr 9, 2019
+
+New Components
+
+* [Loading icon](loading-icon.md) - helpful UI component to tell your app users that an activity is happening in the background
 
 ## Mar 20, 2019
 

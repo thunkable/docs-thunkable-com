@@ -21,13 +21,13 @@ We highly recommend that you only add ads to your app after you have a large aud
 * [Troubleshooting](admob.md#troubleshooting)
 
 {% hint style="info" %}
-**AdMob is our first**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
+**AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
 
 All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://airtable.com/shr3qok3ARKXY7cBt). Once approved, apps can be downloaded and published without further review.
 
 Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.
 
-Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob in the future. \(During the initial period, Thunkable will not charge a maintenance fee\)
+Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob in the future. 
 {% endhint %}
 
 ## Review guidelines
