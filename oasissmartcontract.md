@@ -1,8 +1,12 @@
 ---
-description: Use this component to call your own smart contract on Oasis.
+description: Use this component to call your own smart contract on Oasis
 ---
 
-# Smart Contract
+# Smart Contract by Oasis
+
+{% hint style="info" %}
+From sharing medical records, to analyzing personal financial information, to training machine learning models, the Oasis platform supports applications that use even the most sensitive data without compromising privacy or performance
+{% endhint %}
 
 ## **Method Block**
 
@@ -62,7 +66,7 @@ Use this block to call any method of a smart contract that has been deployed to 
         }  
     }`**
 
-## **Method\_RunOnly Block**
+## **Method Run Only**
 
 ![](.gitbook/assets/image%20%281%29.png)
 
@@ -81,7 +85,7 @@ Use this block to just run a method without writing anything to the blockchain. 
 * Result \(Any\): This is the value that the method returned.
 * Error \(Object\): Any error that occurred while running the method.
 
-## **EstimateGas Block**
+## **Estimate Gas**
 
 ![](.gitbook/assets/image%20%2816%29.png)
 
@@ -100,7 +104,7 @@ This is similar to the Method\_RunOnly block. The EstimateGas block  does a prac
 * GasAmount: How much gas it will cost to run the method.
 * Error: Any errors that happened while estimating.
 
-## **SubscribeToEvent Block**
+## **Subscribe To Event**
 
 ![](.gitbook/assets/image%20%284%29.png)
 

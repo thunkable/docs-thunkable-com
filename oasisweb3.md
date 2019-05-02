@@ -1,12 +1,16 @@
 ---
 description: >-
-  Use the Blockchain Wallet component to add information about your account to
-  the application including identity and wallet amount.
+  Use the Blockchain Wallet to add information about your account to the
+  application including identity and wallet amount
 ---
 
-# Blockchain Wallet
+# Blockchain Wallet by Oasis
 
-### **GetAccountAddress Block**
+{% hint style="info" %}
+From sharing medical records, to analyzing personal financial information, to training machine learning models, the Oasis platform supports applications that use even the most sensitive data without compromising privacy or performance
+{% endhint %}
+
+## **Get Account Address**
 
 ![](.gitbook/assets/image%20%282%29.png)
 
@@ -14,7 +18,7 @@ description: >-
 
 * Address \(type: text\): Each time an app with the Blockchain Wallet component is installed, the app gets a new blockchain account. Each blockchain account on Oasis has an address that identifies it, and is of the form “0xc38f0DFC19816706eF10bC9E362cF5C1138Bd6d3”
 
-## GetBalance Block
+## Get Balance
 
 ![](.gitbook/assets/image%20%2810%29.png)
 
@@ -27,7 +31,7 @@ description: >-
 * Balance \(type: text\): The balance of the blockchain account whose address was provided. You can find out the account balance of any blockchain account on the Oasis blockchain using this block. The unit of this balance is just called “Gas” for now. While the balance is a number, because the balances can be really small or really big, we return it to you as a String \(Text\).
 * Error \(type: Object\): Is not undefined if there was an error while trying to retrieve the balance of the account.
 
-## **GetTransaction Block**
+## **Get Transaction**
 
 ![](.gitbook/assets/image%20%285%29.png)
 
@@ -43,7 +47,7 @@ Every time you write to the blockchain, a transaction is generated. This could b
 * TransactionObject \(type: Object\): This object contains information about the transaction, such as who was Gas sent to and who was it sent from, or how much did it cost to send. Here is an example transaction object:
   * **`{     "hash": "0x9fc76417374aa880d4449a1f7f31ec597f00b1f6f3dd2d66f4c9c6c445836d8b",     "nonce": 2,     "blockHash": "0xef95f2f1ed3ca60b048b4bf67cde2195961e0bba6f70bcbea9a2c4e133e34b46",     "blockNumber": 3,     "transactionIndex": 0,     "from": "0xa94f5374fce5edbc8e2a8697c15331677e6ebf0b",     "to": "0x6295ee1b4f6dd65047762f924ecd367c17eabf8f",     "value": '123450000000000000',     "gas": 314159,     "gasPrice": '2000000000000',     "input": "0x57cb2fc4" }`**
 
-## **GetTransactionReceipt Block**
+## **Get Transaction Receipt**
 
 ![](.gitbook/assets/image.png)
 
@@ -73,7 +77,7 @@ Receipt and Error. Here’s an example of the Receipt:
 
 You can see that it includes things like status, gasUsed, and logs that you can only get once the transaction has been processed and you can see what happened.
 
-## **SendTransaction Block**
+## **Send Transaction**
 
 ![](.gitbook/assets/image%20%2822%29.png)
 
@@ -92,7 +96,7 @@ Sends Gas from the user’s account to another account. This waits for the trans
 * Receipt: The receipt of the completed transaction showing what happened when the transaction was written to the blockchain
 * Error: If there was an error when trying to send the transaction. Can happen if you’re sending more Gas than you have in your account or you don’t have enough Gas to pay for the transaction to happen.
 
-## **SendTransactionWithoutReceipt Block**
+## **Send Transaction Without Receipt**
 
 ![](.gitbook/assets/image%20%2811%29.png)
 
@@ -111,7 +115,7 @@ This sends the transaction and returns the TransactionHash immediately and does 
 * Receipt: The receipt of the completed transaction showing what happened when the transaction was written to the blockchain
 * Error: If there was an error when trying to send the transaction. Can happen if you’re sending more Gas than you have in your account or you don’t have enough Gas to pay for the transaction to happen.
 
-## **SendTransaction\_RunOnly Block**
+## **Send Transaction Run Only**
 
 ![](.gitbook/assets/image%20%286%29.png)
 
@@ -132,7 +136,7 @@ This is useful when you want do a practice run of sending a transaction. Sometim
 
 
 
-## **SubscribeToLogs Block**
+## **Subscribe To Logs**
 
 ![](.gitbook/assets/image%20%283%29.png)
 

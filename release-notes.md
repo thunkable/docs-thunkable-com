@@ -4,11 +4,16 @@
 
 New components
 
-* Blockchain powered by Oasis Labs
 * Bluetooth Low Energy
 * Push Notifications
 * Canvas and Sprites
 * Accelerometer
+
+## May 2, 2019
+
+New Components
+
+* [Blockchain Wallet](oasisweb3.md) and [Smart Contract](oasissmartcontract.md) - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
 
 ## Apr 9, 2019
 
