@@ -2,7 +2,7 @@
 
 ![One Signal is the world leader in push notifications and they offer their service for free. They make money by selling your users&apos; data to third parties](.gitbook/assets/onesignaldemo.png)
 
-Push notifications are one of the biggest advantages that mobile apps have over their mobile website counterparts since they can send a message to a user without an app being open. However, annoying notifications, those that are irrelevant and too frequent, can be dismissed our block easily so we highly recommend sending notifications only when the content is relevant to the user.
+Push notifications are one of the biggest advantages that mobile apps have over their mobile website counterparts since they can send a message to a user without an app being open. However, annoying notifications, those that are irrelevant and too frequent, can be dismissed or blocked easily so we highly recommend sending notifications only when the content is relevant to the user.
 
 | App type | Frequency | Content |
 | :--- | :--- | :--- |
@@ -24,13 +24,15 @@ One Signal is a free service that supports unlimited devices and notifications. 
 
 After you have added a new app, you'll likely see a screen like the one below:
 
+When you create a new OneSignal project it asks you what platform your want to use. From this dialog choose "Android".
+
 ![](.gitbook/assets/screen-shot-2019-04-30-at-9.47.44-am.png)
 
 Thunkable currently supports Apple iOS and Google Android.
 
 ## Android Set Up
 
-Setting  up push notifications for Android is relatively straightforward. Here's a quick overview of the steps, followed by a more detailed walk-through.
+Setting up push notifications for Android is relatively straightforward. Here's a quick overview of the steps, followed by a more detailed walk-through.
 
 ![By the end of this tutorial you should have an Android\_AppID to add to your Thunkable project.](.gitbook/assets/android.png)
 
@@ -41,15 +43,15 @@ Setting  up push notifications for Android is relatively straightforward. Here's
 
 ### 1. Select Your Platform
 
-When you create a new OneSignal project it ask you what platform your want are using. In this dialog choose "Android"
-
 ![Create a new app and give it a name.](.gitbook/assets/screenshot-2019-05-01-at-11.20.30.png)
+
+After you have given your app a name you will be asked to select which platform you would like to use. From this dialog, choose **Google Android** and click Next.
 
 ![Click on &quot;Google Android&quot; to set up an Android app.](.gitbook/assets/screen-shot-2019-04-30-at-9.47.44-am.png)
 
 ### 2. Configure Your Platform
 
-We you go to configure your platform you will be prompted for a **Firebase Server Key** and a **Firebase Sender ID.** As the name implies, you will need a firebase account to provide this information.
+When configuring your platform you will be prompted for a **Firebase Server Key** and a **Firebase Sender ID.** As these names imply, you will need a Firebase account to provide this information.
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-11.21.33.png)
 
