@@ -1,4 +1,4 @@
-# 🖥️ App Services & Emulators🖥️
+# 🖥️ App Services & Emulators
 
 ## Create an Account
 

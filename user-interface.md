@@ -1,2 +1,2 @@
-# 🔎🔎 User Interface🔎🔎
+# 🔎 User Interface
 

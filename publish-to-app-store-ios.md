@@ -13,6 +13,7 @@ Thunkable is continually looking for ways to streamline the publishing process a
 * [App info](publish-to-app-store-ios.md#app-info)
 * [Troubleshooting](publish-to-app-store-ios.md#troubleshooting)
 * [Submit your app for review](publish-to-app-store-ios.md#submit-your-app-for-review)
+* [Adding Push Notifications](publish-to-app-store-ios.md#adding-push-notifications)
 
 ## Minimum requirements
 
@@ -220,4 +221,28 @@ The app will still be able to be published but you will want to **check** **the 
 
 Note, you should _not_ check the box labeled “Serve advertisements within the app”.
 {% endhint %}
+
+## Adding Push Notifications
+
+If you are adding Push Notifications to an app that is already published, you will need to create a new **.mobileprovision** file. Here's a quick overview of what that process looks like.
+
+Click on _Provisioning Profiles &gt; All_ to see your current iOS provisioning profiles. Notice that the app you just created is now **invalid** so we need to generate a new one.
+
+![](.gitbook/assets/inactive.png)
+
+Open the inactive profile and click on **Edit** to generate a new one.
+
+![](.gitbook/assets/edit.png)
+
+Scroll to the bottom of the page and click **Generate.**
+
+![](.gitbook/assets/generate.png)
+
+On the next screen, click the **Download** button and the .mobileprovision file will be saved to your downloads folder.
+
+![](.gitbook/assets/download.png)
+
+ 
+
+
 

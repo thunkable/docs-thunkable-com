@@ -1,2 +1,2 @@
-# 💲 💲 Monetization💲 💲
+# 💲 Monetization
 

@@ -1,2 +1,2 @@
-# 📷  Images in Your App 📷
+# 📷  Images in Your App
 

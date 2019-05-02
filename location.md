@@ -1,2 +1,2 @@
-# 🌍🌍🌍 Location🌍🌍🌍
+# 🌍 Location
 
