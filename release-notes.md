@@ -4,16 +4,21 @@
 
 New components
 
-* Bluetooth Low Energy
-* Push Notifications
 * Canvas and Sprites
 * Accelerometer
+* Bluetooth Low Energy
+
+## May 6, 2019
+
+New Components
+
+* [Push Notification](push-notifications-by-one-signal.md) by One Signal ![](.gitbook/assets/pro.png) - PRO only component for sending push notification to users who have downloaded your app; all Thunkers can add the component to their project and live test on Android
 
 ## May 2, 2019
 
 New Components
 
-* [Blockchain Wallet](oasisweb3.md) and [Smart Contract](oasissmartcontract.md) - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
+* [Blockchain Wallet](oasisweb3.md) and [Smart Contract](oasissmartcontract.md) by Oasis - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
 
 ## Apr 9, 2019
 
@@ -31,21 +36,21 @@ Platform Updates
 
 Component Updates
 
-* [AdMob](admob.md)
+* AdMob ![](.gitbook/assets/pro.png) 
   * Thunkable Live iOS app now supports live testing apps with AdMob
 
 ## Mar 12, 2019
 
 New Components
 
-* [AdMob Banner](https://docs.thunkable.com/admob#banner-ad) - displays a rectangular ad at the top of bottom of any screen.
-* [AdMob Interstitial](https://docs.thunkable.com/admob#interstitial-ad) - full screen ads that display over the current screen.
-* [AdMob Rewarded Video](https://docs.thunkable.com/admob#rewarded-video-ad) - show a full screen video ad over the current screen and adds event handler to reward user after watching.
+* Ads by AdMob ![](.gitbook/assets/pro.png) - all Thunkers can add to their project and live test but only PRO members can download and publish apps with AdMob
+  * [Banner](https://docs.thunkable.com/admob#banner-ad)  **-** displays a rectangular ad at the top of bottom of any screen
+  * [Interstitial](https://docs.thunkable.com/admob#interstitial-ad) - full screen ads that display over the current screen
+  * [Rewarded Video](https://docs.thunkable.com/admob#rewarded-video-ad) - show a full screen video ad over the current screen and adds event handler to reward user after watching
 
 Platform Updates
 
 * Improved build and deploy times
-* New icons for forthcoming Oasis components
 
 Bug Fixes
 

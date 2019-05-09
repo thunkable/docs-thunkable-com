@@ -12,7 +12,7 @@ From sharing medical records, to analyzing personal financial information, to tr
 
 ## **Get Account Address**
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 **Output:**
 
@@ -20,7 +20,7 @@ From sharing medical records, to analyzing personal financial information, to tr
 
 ## Get Balance
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 
 **Input:**
 
@@ -33,7 +33,7 @@ From sharing medical records, to analyzing personal financial information, to tr
 
 ## **Get Transaction**
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 Every time you write to the blockchain, a transaction is generated. This could be sending Gas from one account to another or running a smart contract method that writes new data to the blockchain.
 
@@ -49,7 +49,7 @@ Every time you write to the blockchain, a transaction is generated. This could b
 
 ## **Get Transaction Receipt**
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 Similar to the GetTransaction block, this block also retrieves information about the transaction. The main difference is that the receipt is only available once the transaction is fully a part of the blockchain and it tells you exactly what happened when you wrote something to the blockchain. GetTransaction will get you information about what is supposed to happen after you’ve submitted the transaction, but the blockchain is still working on writing it down.
 
@@ -79,7 +79,7 @@ You can see that it includes things like status, gasUsed, and logs that you can 
 
 ## **Send Transaction**
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%283%29.png)
 
 Sends Gas from the user’s account to another account. This waits for the transaction to become a part of the blockchain and for the receipt to be ready before calling the next callback block.
 
@@ -98,7 +98,7 @@ Sends Gas from the user’s account to another account. This waits for the trans
 
 ## **Send Transaction Without Receipt**
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 This sends the transaction and returns the TransactionHash immediately and does not wait for the blockchain to finish writing the transaction. This block is helpful if you want to just send the transaction and want to do other things while waiting for the transaction to be written to the blockchain.
 
@@ -117,7 +117,7 @@ This sends the transaction and returns the TransactionHash immediately and does 
 
 ## **Send Transaction Run Only**
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%2820%29.png)
 
 This is useful when you want do a practice run of sending a transaction. Sometimes you want to make sure the transaction will go through with the gas price and gas that you’ve specified etc. This block won’t actually write the transaction onto the blockchain and so using this block won’t cost you any Gas.
 
@@ -138,7 +138,7 @@ This is useful when you want do a practice run of sending a transaction. Sometim
 
 ## **Subscribe To Logs**
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 You can use this block to subscribe to specific events on the blockchain**.**
 

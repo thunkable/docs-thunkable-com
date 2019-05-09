@@ -1,7 +1,38 @@
 # Payment by Stripe
 
+Some of the leading apps in the world from Lyft to Instacart process their credit card payments via Stripe. Thanks to the Payment component powered by Stripe, you have access to the same developer friendly service that professional developers around the world use to build businesses in their apps.
+
 {% hint style="info" %}
-The Payment component powered by Stripe charges a 4.9% fee +$0.30 per transaction, 2% of which is taken by Thunkable as a maintenance fee
+### Payment processing fee
+
+Coming soon, the Payment component by Stripe will no longer charge a Thunkable commission fee for ![](.gitbook/assets/pro.png) members. 
+
+![](.gitbook/assets/pro.png)members will soon enjoy the same payment processing fee that Stripe charges its partners.
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">
+        <p></p>
+        <p>
+          <img src=".gitbook/assets/pro.png" alt/>
+        </p>
+      </th>
+      <th style="text-align:left">Everyone else</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Payment processing fee</td>
+      <td style="text-align:left">*2.9% fee +$0.30 per transaction (0% Thunkable commission fee) *coming
+        soon</td>
+      <td style="text-align:left">4.9% fee +$0.30 per transaction (2% Thunkable commission fee)</td>
+    </tr>
+  </tbody>
+</table>
 {% endhint %}
 
 * [Set up](payment.md#set-up)

@@ -6,10 +6,6 @@ description: Build blockchain apps with built-in privacy.
 
 **In partnership with** [**Oasis Labs**](http://www.oasislabs.com)**, you can now build mobile applications that include components of blockchain and built-in privacy technologies on Thunkable.**
 
-**\*\*\*For beta access, please email jimmy@thunkable.com\*\*\***
-
-Please note: 
-
 1. Oasis Labs is a beta product. As a result there may be system updates that impact your app's ability to connect to the platform or even loose data during major quarterly upgrades. You can learn more [_here_](http://docs.oasiscloud.io/en/latest/dashboard-quickstart/) about upgrade cycles\)
 2. If you are testing on iOS, please open and force quit the Thunkable Live App before testing Oasis components. 
 
@@ -19,8 +15,7 @@ Using Oasis technology, developers can quickly and easily build new types of exp
 
 Incorporating elements from Oasis can be particularly valuable for apps that need to preserve data privacy or require a high level of verifiability. For example, you can use Oasis components to build a messaging app that keeps what you write secret, or a supply chain application where shipping times can be verified and unalterable.
 
-Below are a number of sample applications that you can use as templates to get started.  
-We appreciate your feedback during this Beta launch. Please feel free to let us know your thoughts with this[ survey](https://anne577751.typeform.com/to/QAqsRp).
+Below are a number of sample applications that you can use as templates to get started.
 
 ## **Sample Apps to get started**
 
@@ -61,7 +56,7 @@ The Supply Chain app is a digital ledger app where manufacturers \(and other use
 
 ## **Building and deploying your own smart contract on Thunkable**
 
-If you’d like to build a mobile app with smart contract and blockchain technology from scratch, you can also use the [Oasis Developer Dashboard](http://dashboard.oasiscloud.io) to write your own smart contract, connect it to Thunkable using the [OasisWeb3](https://docs.thunkable.com/oasisweb3) and [OasisSmartContract](https://docs.thunkable.com/oasissmartcontract) components.  
+If you’d like to build a mobile app with smart contract and blockchain technology from scratch, you can also use the [Oasis Developer Dashboard](http://dashboard.oasiscloud.io) to write your own smart contract, connect it to Thunkable using the [Blockchain Wallet](https://docs.thunkable.com/oasisweb3) and [Smart Contract](https://docs.thunkable.com/oasissmartcontract) components.  
   
 In less than an hour, you’ll have a complete mobile app that you can submit to the Apple App Store or Google Play.  
   

@@ -97,8 +97,6 @@ For your convenience, we have provided a test  `Ad Unit ID` for you to see how a
 
 During live test, all AdMob ads will be set to `test mode = true`, which means clicks and impressions will not be counted. This is true even if you add your own `Ad Unit ID` and set `test mode = false`.
 
-![](.gitbook/assets/admob-on-design-doc-mar-2019.png)
-
 ## Download and publish ![](.gitbook/assets/pro.png) 
 
 {% hint style="info" %}
