@@ -4,7 +4,7 @@
 
 **At this time Push Notifications can only be tested on Android Devices.**
 
-**You can add Push Notifications to iOS apps but this will disable the live-test feature. We therefore recommend first building and testing your iOS app, and adding push notifications as a last step.**
+**You can add Push Notifications to iOS apps but testing can only be done after an app is published to the App Store.** 
 
 ![One Signal is the world leader in push notifications and they offer their service for free. ](.gitbook/assets/onesignaldemo.png)
 
@@ -50,7 +50,7 @@ After adding your app, OneSignal will ask you to select a platform. Below, we ha
 
 **At this time Push Notifications can only be tested on Android Devices.**
 
-**You can add Push Notifications to iOS apps but this will disable the live-test feature. We therefore recommend first building and testing your iOS app, and adding push notifications as a last step.**
+**You can add Push Notifications to iOS apps but testing can only be done after an app is published to the App Store.** 
 
 ![](.gitbook/assets/screen-shot-2019-04-30-at-9.47.44-am.png)
 
