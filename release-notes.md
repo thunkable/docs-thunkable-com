@@ -6,7 +6,15 @@ New components
 
 * Canvas and Sprites
 * Accelerometer
+* Gyroscope
+* Magnetometer
 * Bluetooth Low Energy
+
+## May 14, 2019
+
+Component Updates
+
+* [Payment](payment.md) by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction \(0% Thunkable fee\)
 
 ## May 6, 2019
 
