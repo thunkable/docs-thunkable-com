@@ -29,7 +29,7 @@ The Payment component by Stripe will no longer charge a Thunkable fee for ![](.g
   <tbody>
     <tr>
       <td style="text-align:left">Payment processing fee</td>
-      <td style="text-align:left">2.9% fee +$0.30 per transaction (0% Thunkable fee)</td>
+      <td style="text-align:left">2.9% fee +$0.30 per transaction</td>
       <td style="text-align:left">4.9% fee +$0.30 per transaction (2% Thunkable fee)</td>
     </tr>
   </tbody>

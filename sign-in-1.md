@@ -38,9 +38,9 @@ There are two properties that you need to retrieve from Firebase to connect it w
 
 ## Sign up
 
-The first step for users is to Sign Up with their email address and a password. They will be sent an email to verify the address that they provided. A sample block that also saves login credentials locally \(for a user's convenience\) is provided below:
+The first step for users is to Sign Up with their email address and a password. They will be sent an email to verify the address that they provided. A sample block that also saves login credentials locally with [stored variables](https://docs.thunkable.com/variables#app-stored-and-cloud-variables) is provided below:
 
-![Note that this block includes error checking before proceeding](.gitbook/assets/screen-shot-2018-05-23-at-6.59.48-am.png)
+![](.gitbook/assets/docs_signup.png)
 
 | Event | Description |
 | :--- | :--- |
@@ -50,11 +50,15 @@ The first step for users is to Sign Up with their email address and a password. 
 
 Users who sign up will be sent an email to verify the email address they provided is valid. You can use the blocks below to check whether they have verified their email before they can proceed further
 
-{% hint style="info" %}
+{% hint style="danger" %}
 There is currently a bug with email verification on Sign In
 {% endhint %}
 
-![](.gitbook/assets/screen-shot-2018-05-23-at-7.07.59-am.png)
+![](.gitbook/assets/docs_signin.png)
+
+When the user's email and password have been stored locally, the following blocks can be used to sign the user in with these details automatically.
+
+![](.gitbook/assets/docs_signin_saved.png)
 
 | Event | Description |
 | :--- | :--- |
