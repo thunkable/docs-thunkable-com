@@ -10,7 +10,7 @@
 
 | Property | Description |
 | :--- | :--- |
-| URL | Accepts website or image urls that must include `https://` or `http://`. Can also accept `.html` files that have been uploaded to the app \(great for offline use\) |
+| URL | Accepts website or image urls that must include `https://` or `http://`. |
 
 The Web Viewer currently permits full-screen viewing of videos on iOS only
 
