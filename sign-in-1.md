@@ -50,11 +50,7 @@ The first step for users is to Sign Up with their email address and a password. 
 
 Users who sign up will be sent an email to verify the email address they provided is valid. You can use the blocks below to check whether they have verified their email before they can proceed further
 
-{% hint style="danger" %}
-There is currently a bug with email verification on Sign In
-{% endhint %}
-
-![](.gitbook/assets/docs_signin.png)
+![](.gitbook/assets/signin.png)
 
 When the user's email and password have been stored locally, the following blocks can be used to sign the user in with these details automatically.
 
@@ -64,7 +60,8 @@ When the user's email and password have been stored locally, the following block
 | :--- | :--- |
 | Sign in \( `email`, `password`\) | Signs in an existing user. Returns an `error` if sign in is not successful, either because the email is not registered or the password is incorrect. You can also use the `isEmailVerified`output to limit user to sign in only if they have verified their email |
 | Sign out \( `email`\) | Signs out a user from an account, usually to sign in with a different account |
-| Reset password \( `email`\) | Sends an email to a user to reset his or her password |
+| Reset password \( `email`\) | Sends an email to a user to reset their password |
+|  |  |
 
 ## Manage user access
 
