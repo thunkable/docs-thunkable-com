@@ -5,10 +5,16 @@
 New components
 
 * Canvas and Sprites
-* Accelerometer
-* Gyroscope
-* Magnetometer
 * Bluetooth Low Energy
+* Extended Listviewer
+
+## May 20, 2019
+
+New Components
+
+* [Accelerometer](accelerometer.md) - accesses the mobile device's sensor that measures even tiny forces of acceleration acting on the phone from natural \(in a moving vehicle\) and man-made \(shaking the device\)
+* [Gyroscope](gyroscope.md) - accesses the mobile device's sensor that measures even tiny tilts of the phone, often used in gaming apps
+* [Magnetometer](magnetometer.md) - accesses the mobile device's sensor that measures magnetic fields from the Earth and other nearby objects 
 
 ## May 14, 2019
 
