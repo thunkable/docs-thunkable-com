@@ -7,6 +7,12 @@ New components
 * Canvas and Sprites
 * Extended Listviewer
 
+Component updates
+
+* Screen Orientation
+* Map Component updates
+* Add heading event for Magnetometer
+
 ## Jun 10, 2019
 
 New component
@@ -19,7 +25,14 @@ Component updates
 
 Platform updates
 
+* Added the ability to change your profile photo and headline on your [account settings](https://x.thunkable.com/account/settings) page
 * Made app settings page more discoverable with icon -- edit your app title, description, icon and more!
+
+## Jun 3, 2019
+
+Platform updates
+
+* Added ability to change username from [account settings](https://x.thunkable.com/account/settings) page. Username changes will be reflected on the Thunkable community forum
 
 ## May 23, 2019
 
