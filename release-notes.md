@@ -5,8 +5,28 @@
 New components
 
 * Canvas and Sprites
-* Bluetooth Low Energy
 * Extended Listviewer
+
+## Jun 10, 2019
+
+New component
+
+* [Bluetooth Low Energy](bluetooth-low-energy.md) - connect to, receive and send data from a mobile device to any device that has a bluetooth low energy chip installed
+
+Component updates
+
+* Add [shaking event](accelerometer.md#shaking) to Accelerometer component
+
+Platform updates
+
+* Made app settings page more discoverable with icon -- edit your app title, description, icon and more!
+
+## May 23, 2019
+
+Bug Fixes
+
+* Fixes asset error during iOS publish
+* Fixes component search for a few components
 
 ## May 20, 2019
 

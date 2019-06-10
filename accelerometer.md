@@ -9,6 +9,16 @@ The accelerometer sensor is used to measure the force of acceleration acting on 
 
 ## Events
 
+### Shaking
+
+There may be some instances where you want to start an event by shaking your mobile device or when the mobile device is shook. There is a `Shaking` event that you can add to your blocks that has sensitivity levels of `high`, `medium` and `low`
+
+![](.gitbook/assets/screen-shot-2019-06-10-at-10.06.07-am.png)
+
+
+
+### Accelerometer changes
+
 When the accelerometer sensor detects a change in the force acting on the phone the `Changes` event will be fired. Each time the event fires the four associated parameters will be updated.
 
 ![](.gitbook/assets/screenshot-2019-05-18-at-14.13.50.png)

@@ -61,6 +61,7 @@
 * [Web API](web-api.md)
 * [⏲️ Sensors](sensors.md)
 * [Timer](timer.md)
+* [Bluetooth Low Energy](bluetooth-low-energy.md)
 * [Accelerometer](accelerometer.md)
 * [Gyroscope](gyroscope.md)
 * [Magnetometer](magnetometer.md)
