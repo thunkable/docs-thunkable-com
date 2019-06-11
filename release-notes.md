@@ -13,15 +13,19 @@ Component updates
 * Map Component updates
 * Add heading event for Magnetometer
 
-## Jun 10, 2019
+## Week of Jun 10, 2019
 
 New component
 
 * [Bluetooth Low Energy](bluetooth-low-energy.md) - connect to, receive and send data from a mobile device to any device that has a bluetooth low energy chip installed
 
+## Jun 11, 2019
+
 Component updates
 
 * Add [shaking event](accelerometer.md#shaking) to Accelerometer component
+
+## Jun 10, 2019
 
 Platform updates
 
