@@ -2,8 +2,6 @@
 
 * [Welcome to Thunkable](README.md)
 * [👶 Getting Started](get-started.md)
-* [Thunkable Cross Platform ✕](thunkable-cross-platform.md)
-* [FAQs](faqs.md)
 * [Tutorials](tutorials.md)
 * [Public Gallery](untitled.md)
 * [Public & Private Projects](public-vs-private-projects.md)
@@ -96,7 +94,8 @@
 * [Publish](publish.md)
 * [Publish to App Store \(iOS\)](publish-to-app-store-ios.md)
 * [Publish to Play Store \(Android\)](publish-to-play-store-android.md)
-* [Troubleshooting](troubleshooting.md)
+* [Troubleshooting](troubleshooting/README.md)
+  * [FAQs](troubleshooting/faqs.md)
 * [Release Notes](release-notes.md)
 * [Bugs and Feature Requests](bugs-and-feature-requests.md)
 

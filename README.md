@@ -12,9 +12,9 @@ With Thunkable, non-coders can easily design beautiful apps, program powerful fu
 
 All apps built on Thunkable work for both Android and iOS devices. 
 
+## [Pricing and Membership](https://thunkable.com/#/pricinghttps://thunkable.com/#/pricing)
+
 ## Have specific questions?
-
-
 
 | Community | Email us |
 | :--- | :--- |
