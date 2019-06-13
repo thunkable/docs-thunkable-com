@@ -1,12 +1,12 @@
-# 👶 Get Started
+---
+description: Follow these steps to build your first app!
+---
 
-![Hi. I&apos;m the hardworking Thunkable beaver](.gitbook/assets/beaver-logo.png)
+# 👶 Getting Started
 
-## PRO-TIPS
+## **Step 1.** **Download the Thunkable mobile app**
 
-## **Step 1.** **Download the Thunkable mobile app\(s\).**
-
-Before you do anything else, we recommend downloading the Thunkable mobile app\(s\). This will let you [preview](live-test.md) any app project on your device. Hooray!
+With the Thunkable Live mobile app, you can preview your apps directly on your personal devices.
 
 | [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) |
 | :--- |
@@ -16,19 +16,13 @@ Before you do anything else, we recommend downloading the Thunkable mobile app\(
 | :--- |
 
 
-If you don't have an iOS or Android device, you can also [set up an emulator](emulators.md) on your computer that will mimic what you would see on an actual device.
+If you don't have an iOS or Android device, you can [set up an emulator](emulators.md) on your computer that will display your apps.
 
-## **Step 2. Learn how the platform works with a tutorial.**
+## **Step 2. YouTube Tutorials**
 
-We have beginner tutorials built into the platform with [companion videos](https://www.youtube.com/watch?v=YrONgW8udmM&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE) if you prefer.
+They exist! They are helpful! You should get started by clicking [here](https://www.youtube.com/watch?v=YrONgW8udmM&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE).  
 
 {% page-ref page="tutorials.md" %}
 
-## **Step 3. See what others have built on the Public Gallery.**
 
-Preview, view and remix from the Public Gallery, a collection of projects powered by the amazing Thunkable community**.**
-
-{% page-ref page="untitled.md" %}
-
-\*\*\*\*
 

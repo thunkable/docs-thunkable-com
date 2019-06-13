@@ -1,26 +1,28 @@
-# Welcome
+---
+description: The platform where anyone can build their own mobile apps.
+---
+
+# Welcome to Thunkable
+
+## In the Beginning...
+
+If you've made it to this page, you probably want to build an app. Congratulations!
+
+With Thunkable, non-coders can easily design beautiful apps, program powerful functionality with drag & drop blocks and upload apps to the Google Play Store and Apple's App Store.
+
+All apps built on Thunkable work for both Android and iOS devices. 
+
+## Have specific questions?
+
+
+
+| Community | Email us |
+| :--- | :--- |
+| Connect with our community of Thunkers around the world to get the latest developments and discuss everything app-related. | For all other requests, please email us [hello@thunkable.com](mailto:hello@thunkable.com) |
 
 {% hint style="warning" %}
 Thunkable Classic docs has moved to a new home. You can find them at: 
 
 [classic-docs.thunkable.com](https://classic-docs.thunkable.com)
 {% endhint %}
-
-## What is Thunkable?
-
-Thunkable is the easiest way to build an app.
-
-**At Thunkable, our mission is simple -- to enable everyone to build their own beautiful and powerful mobile apps.**
-
-Instead of writing code, simply add your favorite components and connect them together.
-
-Instead of choosing between iOS or Android, Thunkable app projects work on both iOS and Android devices.
-
-Instead of starting your app from scratch, get inspired by and remix projects from our Public Gallery, featuring the work of our amazing community of app creators.
-
-## Questions?
-
-| Community | Email us |
-| :--- | :--- |
-| [Meet our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com) |
 

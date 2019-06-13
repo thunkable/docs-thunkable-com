@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Thunkable](README.md)
+* [👶 Getting Started](get-started.md)
 * [Thunkable Cross Platform ✕](thunkable-cross-platform.md)
 * [FAQs](faqs.md)
-* [👶 Get Started](get-started.md)
 * [Tutorials](tutorials.md)
 * [Public Gallery](untitled.md)
 * [Public & Private Projects](public-vs-private-projects.md)
