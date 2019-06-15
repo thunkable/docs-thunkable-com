@@ -1,22 +1,32 @@
+---
+description: A new app marketplace.
+---
+
 # Public Gallery
 
-## Preview any public project with your Thunkable mobile app
+## Thunkable Public Gallery
 
-All app projects on the Gallery are public and can be previewed on your mobile device with one click.
+The Thunkable Gallery is an app building marketplace where users can find, share and remix existing projects. By default, all public projects built on Thunkable are sent to the Public Gallery.
 
-![](.gitbook/assets/thunkable-docs-exhibits-42.png)
+## How to use the Thunkable Gallery
 
-## View inside the project
+When browsing the Gallery, here are three things that you can do with public projects:
 
-If you want, you can view inside any project to see how it works
+1. **View a Project** Click to open any project on the Public Gallery to view an app's design or programming blocks.
 
 ![](.gitbook/assets/thunkable-docs-exhibits-43.png)
 
-## Remix a new version
+**2. Preview a Project**  
+After downloading the [Thunkable Live mobile app](https://docs.thunkable.com/live-test), you can use the app to preview any public project directly on your mobile device. 
 
-All projects on the Public Gallery are remixable, which means you can build on top of those projects with one click.
+![](.gitbook/assets/thunkable-docs-exhibits-42.png)
 
-Remixed projects will give credit to the original creator\(s\).
+**3. Remix a Project**  
+All projects on the Public Gallery can be remixed. This means that you can customize any app project that you see. 
 
 ![](.gitbook/assets/thunkable-docs-exhibits-44.png)
+
+
+
+
 

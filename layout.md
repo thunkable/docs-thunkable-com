@@ -1,12 +1,16 @@
-# Layout
+---
+description: How to set up and organize your app.
+---
 
-## Screens are the main organizing elements of apps
+# Layout: Getting Started
 
-The most effective apps are built around a central home screen
+## From Idea to App 
 
-{% hint style="info" %}
+To go from idea to app, we strongly recommend that you sketch out your vision using the below app templates. It's important to have a sense of where the 
+
+![](.gitbook/assets/image%20%2819%29.png)
+
 There are [no limits](https://thunkable.gitbook.io/thunkable-docs/~/edit/primary/thunkable-cross-platform/2-create/app-limits) to the number of screens
-{% endhint %}
 
 ## Arrange Screens with Navigators
 

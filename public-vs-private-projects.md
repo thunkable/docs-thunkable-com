@@ -1,44 +1,28 @@
 # Public & Private Projects
 
-## Setting projects to Public or Private
+## Public Projects
 
-To set your projects to public or private, click the "details" button on a project. You can then click the Public/Private switch to make your project public or private.
+Public projects are included in the [Thunkable Public Gallery](https://docs.thunkable.com/untitled) for anyone to preview, download or remix. If you create a public project, please know that it can be viewed by anyone in the Thunkable community. 
 
-![](.gitbook/assets/ezgif.com-video-to-gif-1%20%281%29.gif)
+## Private Projects
 
-## Public projects
+Private projects are just that, private. They can only be seen by their app creator and do not get included in the [Thunkable Public Gallery.](https://docs.thunkable.com/untitled) Only Thunkable PRO users can create and share private projects. 
 
-![](.gitbook/assets/screen-shot-2018-10-05-at-4.12.55-pm.png)
+[Learn more about PRO.](https://thunkable.com/#/pricing)
 
-Public projects are included in the Thunkable Public Gallery for anyone to preview, download or remix. Any changes that you make to public projects are visible to those in the community in real-time.
+## Making Projects Public or Private
 
-All users can create and edit public projects & public projects can be shared with anyone.
-
-## Private projects
-
-![](.gitbook/assets/screen-shot-2018-10-05-at-4.13.02-pm.png)
-
-Private projects are just that, private. They are not included in the Thunkable Gallery and are for your eyes only.
-
-Only Thunkable PRO users have the ability to create and edit private projects. [Click here to learn more about PRO](https://thunkable.com/#/pricing).
-
-Private projects can be shared but only with other Thunkers who have PRO membership.
-
-Private projects become Read-Only projects when a Thunker's PRO membership expires.
+To make your projects public or private, click the "details" button on a project. You can then click the Public/Private switch to change who can view your project.
 
 ## Read-Only projects
 
-![](.gitbook/assets/screen-shot-2018-10-05-at-4.31.16-pm.png)
+Private projects become Read-Only projects when a Thunker's PRO membership expires. Read-Only projects remain private and are not included in the Thunkable Gallery.
 
-Read-Only projects remain private and are not included in the Thunkable Gallery. You can preview them but not edit, download or publish them unless you switch them to Public.
-
-Once they have been switched to Public, they cannot be switched back to Read only.
-
-Private projects become Read-Only projects when a Thunker's PRO membership expires but will switch back to Private if PRO is renewed.
+You can only preview Read-Only. Once a project has been switched to Public, you cannot switch it back to Read-Only.
 
 ## Legacy projects
 
-![](.gitbook/assets/screen-shot-2018-10-05-at-4.22.07-pm.png)
+The term Legacy projects refers to apps that were built on Thunkable before Thunkable PRO existed. If you are a long-term Thunkable user and have legacy projects, they can be edited in private mode at any time.  
 
-Legacy projects can be edited in Private mode at any time and are denoted by the cool beaver symbol above.
+
 

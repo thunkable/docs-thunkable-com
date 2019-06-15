@@ -10,7 +10,7 @@ From sharing medical records, to analyzing personal financial information, to tr
 
 ## **Method Block**
 
-![](.gitbook/assets/image%20%2828%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 Use this block to call any method of a smart contract that has been deployed to the blockchain.
 
@@ -106,7 +106,7 @@ This is similar to the Method\_RunOnly block. The EstimateGas block  does a prac
 
 ## **Subscribe To Event**
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
 Similar to the ****SubscribeToLogs block.
 
