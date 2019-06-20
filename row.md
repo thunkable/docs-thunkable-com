@@ -13,16 +13,47 @@ description: >-
 
 ![](.gitbook/assets/row-fig-1.png)
 
-## Set the size of the row
+## **Set the size of the row**
 
-For more information on sizing in your app, please see our [introduction here​](intro-to-sizing.md)
+**For more information on sizing in your app, please see our introduction here​**  
 
-| Property | Description |
-| :--- | :--- |
-| Height | Default \(`Fill container`\); `Fill container` sizes the row to fill the Screen or container that it is within. `Fit contents`  sizes the row to the size of its contents; `Relative size` size the row to a percent of the Screen or other container it is within; `Absolute size` sizes the row to a specific number of pixels |
-| Width | Default \(`Fill container`\); `Fill container` sizes the row to fill the Screen or container that it is within. `Fit contents`  sizes the row to the size of its contents; `Relative size` size the row to a percent of the Screen or other container it is within; `Absolute size` sizes the row to a specific number of pixels |
 
-## Space the elements horizontally
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Property</b>
+      </th>
+      <th style="text-align:left"><b>Description</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Height</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Fill container - The row fills the entire screen vertically</li>
+          <li>Fit contents - The row&#x2019;s height changes to fit the components it
+            contains</li>
+          <li>Relative size - The row fills the specified percentage of the screen</li>
+          <li>Absolute size - Sizes the row to a specified number of pixels</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Width</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Fill container - The row fills the entire screen horizontally</li>
+          <li>Fit contents - The row&#x2019;s width changes to fit the components it
+            contains</li>
+          <li>Relative size - The row fills the specified percentage of the screen</li>
+          <li>Absolute - Sizes the row to a specified number of pixels</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>## Space the elements horizontally
 
 The `Horizontal Alignment` property allows you to space elements in a Row horizontally
 

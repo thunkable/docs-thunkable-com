@@ -1,3 +1,7 @@
+---
+description: A column is a vertical container that allows you to stack components.
+---
+
 # Column
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-65.png)
@@ -6,14 +10,46 @@
 
 For more information on sizing in your app, please see our [introduction here​](intro-to-sizing.md)
 
-| Property | Description |
-| :--- | :--- |
-| Height | Default \(`Fill container`\); `Fill container` sizes the row to fill the Screen or container that it is within. `Fit contents`  sizes the row to the size of its contents; `Relative size` size the row to a percent of the Screen or other container it is within; `Absolute size` sizes the row to a specific number of pixels |
-| Width | Default \(`Fill container`\); `Fill container` sizes the row to fill the Screen or container that it is within. `Fit contents`  sizes the row to the size of its contents; `Relative size` size the row to a percent of the Screen or other container it is within; `Absolute size` sizes the row to a specific number of pixels |
-
-## Space the elements vertically
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Property</b>
+      </th>
+      <th style="text-align:left"><b>Description</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Height</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Fill container - The column fills the entire screen vertically</li>
+          <li>Fit contents - The column&#x2019;s height changes to fit the components
+            it contains</li>
+          <li>Relative size - The column fills the specified percentage of the screen</li>
+          <li>Absolute size - Sizes the column to a specified number of pixels</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Width</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Fill container - The column fills the entire screen horizontally</li>
+          <li>Fit contents - The column&#x2019;s width changes to fit the components
+            it contains</li>
+          <li>Relative size - The column fills the specified percentage of the screen</li>
+          <li>Absolute - Sizes the column to a specified number of pixels</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>## Space the elements vertically
 
 The `Vertical Alignment` property allows you to space elements in a Column vertically
+
+![](.gitbook/assets/image.png)
 
 ![](.gitbook/assets/column-fig-2.png)
 
@@ -29,7 +65,21 @@ The `Horizontal Alignment` property allows you to space elements in a Column hor
 | :--- | :--- |
 | Background Color | Default \(`none`\). Select any color using the color picker, RGBA or HEX value |
 | Background Picture | You can upload a background image to your app or reference an image url e.g.`beaver-yellow.png` |
-| Background Picture Resize Mode | Determines how to resize the image when the frame doesn't match the raw image dimensions;`cover`\(default\) Scale the image uniformly \(maintain the image's aspect ratio\) so that both dimensions \(width and height\) of the image will be equal to or larger than the corresponding dimension of the view \(minus padding\);`contain`Scale the image uniformly \(maintain the image's aspect ratio\) so that both dimensions \(width and height\) of the image will be equal to or less than the corresponding dimension of the view \(minus padding\);`stretch`Scale width and height independently, This may change the aspect ratio of the src;`repeat`Repeat the image to cover the frame of the view. The image will keep it's size and aspect ratio;`center`Centers the image in the frame |
+
+## Background Picture Resize Mode
+
+This determines how to resize the image when the frame doesn't match the raw image dimensions.
+
+![](.gitbook/assets/image%20%2841%29.png)
+
+* Cover: Fills the entire screen without changing the height and width ratio of the image 
+* Contain: The entire image will be scaled down to fit inside the screen, without changing the height and width ratio of the image 
+* Stretch: The image's height will change to fill the screen length-wise 
+* Repeat: Repeat the image to cover the screen. The image's height and width ratio
+
+   will not change    
+
+* Center: Positions the image in the middle of the frame
 
 ## Enable scrolling
 

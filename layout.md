@@ -8,7 +8,7 @@ description: How to set up and organize your app.
 
 To go from an idea to app, we strongly recommend that you sketch out your vision using the below app templates. It's important to first create a roadmap for how people will interact with your app. 
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2825%29.png)
 
 ## Arrange Screens with Navigators
 

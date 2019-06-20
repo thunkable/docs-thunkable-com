@@ -61,7 +61,7 @@ One of the most common output formats for APIs is JSON, short for Javascript Obj
 
 #### **Convert JSON to Object**
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2852%29.png)
 
 If you simply want to retrieve the temperature \(`"temp":` in line 6\), you will have to first convert the JSON response into objects, an _entity_ like a person that has _properties_ to describe them like smart. Objects can be embedded within another object.
 
@@ -71,7 +71,7 @@ In the example above, `"coord":` , `"weather":`, `"base":` and `"main":` are bot
 
 #### **Get Property of Object**
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the temperature \(`"temp":` in line 6\), we'll want to find the `temp` property of the `main` object which is the property of the overall object
 
