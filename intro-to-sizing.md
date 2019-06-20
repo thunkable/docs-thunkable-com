@@ -34,7 +34,7 @@ Image with fixed dimensions and resolutions can be especially difficult to size.
 2. Set the height and width in `relative size`
 3. Set the resize mode property to either `cover` or `contain` \(see below\). This will autosize your image even if the dimensions of the image change
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2861%29.png)
 
 ### Use Fit Contents for the height of Labels and Text Inputs
 

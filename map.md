@@ -1,4 +1,4 @@
-# Map by Google and Apple
+# Maps by Google and Apple
 
 * [Choose your provider](map.md#choose-your-provider)
 * [Zoom and center the Map](map.md#zoom-and-center-the-map)
@@ -6,6 +6,7 @@
 * [Edit Map size](map.md#edit-map-size)
 * [Add spacing](map.md#add-spacing)
 * [Add marker](map.md#add-marker)
+* [Delete markers](map.md#delete-markers)
 * [Add polyline](map.md#add-polyline)
 * [Add polygon](map.md#add-polygon)
 
@@ -82,6 +83,12 @@ There are limited styling options for markers at the moment. We are working to a
 You can add a standard default marker to your map with the blocks below. The Map component does not yet supply its own latitude and longitude so we currently recommend using the Location Sensor component
 
 ![](.gitbook/assets/screen-shot-2018-04-24-at-1.18.26-pm.png)
+
+## Delete markers
+
+Sometimes it's helpful to clear all the markers from the map e.g. when you are trying to update your location in real-time which requires adding a marker and deleting existing markers.
+
+![](.gitbook/assets/screen-shot-2019-06-18-at-2.56.36-pm.png)
 
 ## Add polyline
 

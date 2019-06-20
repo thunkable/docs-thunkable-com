@@ -83,5 +83,5 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 
 You might want to split your database into smaller spaces, also known as project buckets. To do this, you would need to save your value as an object and use the create object block to create your project bucket. More details in [this post](https://community.thunkable.com/t/project-bucket-option-in-ios/31957).
 
-![Thanks to our power Thunker @actech for this awesome tip!](.gitbook/assets/image%20%2846%29.png)
+![Thanks to our power Thunker @actech for this awesome tip!](.gitbook/assets/image%20%2855%29.png)
 

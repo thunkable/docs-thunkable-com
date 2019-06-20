@@ -1,15 +1,32 @@
+---
+description: >-
+  When building apps on Thunkable, Screens function like blank pages in a book.
+  They allow you to display different components and information.
+---
+
 # Screen
 
-## Screen starts and opens
+## Understanding Screen Blocks 
+
+When "Screen1 Starts"
+
+![](.gitbook/assets/image%20%2822%29.png)
 
 | Event | Description |
 | :--- | :--- |
-| Starts | Triggers an event / set of events when the Screen is first opened |
-| Opens | Triggers an event / set of events whenever the Screen is opened |
+| Starts | Triggers an event / set of events when the Screen is **first** opened |
+
+![](.gitbook/assets/image%20%289%29.png)
+
+| Event | Description |
+| :--- | :--- |
+| Opens | Triggers an event / set of events anytime the Screen is opened |
 
 ## Space elements horizontally
 
 The `Horizontal Alignment` property allows you to space elements in a Screen horizontally
+
+![](.gitbook/assets/image%20%288%29.png)
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-64%20%281%29.png)
 
@@ -21,13 +38,31 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 
 ## Add a background color or picture
 
+![](.gitbook/assets/image%20%2842%29.png)
+
 | Property | Description |
 | :--- | :--- |
 | Background Color | Default \(`none`\). Select any color using the color picker, RGBA or HEX value |
 | Background Picture | You can upload a background image to your app or reference an image url e.g.`beaver-yellow.png` |
-| Background Picture Resize Mode | Determines how to resize the image when the frame doesn't match the raw image dimensions;`cover`\(default\) Scale the image uniformly \(maintain the image's aspect ratio\) so that both dimensions \(width and height\) of the image will be equal to or larger than the corresponding dimension of the view \(minus padding\);`contain`Scale the image uniformly \(maintain the image's aspect ratio\) so that both dimensions \(width and height\) of the image will be equal to or less than the corresponding dimension of the view \(minus padding\);`stretch`Scale width and height independently, This may change the aspect ratio of the src;`repeat`Repeat the image to cover the frame of the view. The image will keep it's size and aspect ratio;`center`Centers the image in the frame |
+
+## Background Picture Resize Mode
+
+This determines how to resize the image when the frame doesn't match the raw image dimensions.
+
+![](.gitbook/assets/image%20%2840%29.png)
+
+* Cover: Fills the entire screen without changing the height and width ratio of the image 
+* Contain: The entire image will be scaled down to fit inside the screen, without changing the height and width ratio of the image 
+* Stretch: The image's height will change to fill the screen length-wise 
+* Repeat: Repeat the image to cover the screen. The image's height and width ratio
+
+   will not change    
+
+* Center: Positions the image in the middle of the frame
 
 ## Enable scrolling
+
+![](.gitbook/assets/image%20%2837%29.png)
 
 | Property | Description |
 | :--- | :--- |

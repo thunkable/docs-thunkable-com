@@ -2,7 +2,7 @@
 
 Since mobile phones and tablets are made in all different shapes and sizes, it's not possible to simply drag and drop elements on a screen so that they are positioned on a screen like you would in a Google Slides document, which is set to a fixed height and width.
 
-To position elements of an app in Thunkable, you'll have to manage the spacing between elements with a few powerful properties. You will also find some helpful examples in the [design templates](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/x/get%20started/design-templates.md) and [sample apps](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/x/get%20started/sample-apps.md).
+To position elements of an app in Thunkable, you'll have to manage the spacing between elements with a few powerful properties. You will also find some helpful examples in the [sample apps](https://docs.thunkable.com/sample-apps) section.
 
 * [Spacing within a Screen, Row or Column](intro-to-spacing.md#spacing-within-a-screen-row-or-column)
 * [Spacing around Visible Components within a Screen, Row or Column](intro-to-spacing.md#spacing-around-visible-components-within-a-screen-row-or-column)

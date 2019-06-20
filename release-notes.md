@@ -6,18 +6,25 @@ New components
 
 * Canvas and Sprites
 * Extended Listviewer
+* Google Sheets
 
 Component updates
 
 * Screen Orientation
-* Map Component updates
-* Add heading event for Magnetometer
+* Drawer Navigator - give option to open and close drawer in blocks
 
-## Week of Jun 10, 2019
+## Jun 21, 2019
 
 New component
 
 * [Bluetooth Low Energy](bluetooth-low-energy.md) - connect to, receive and send data from a mobile device to any device that has a bluetooth low energy chip installed
+
+## Jun 17, 2019
+
+Component updates
+
+* Add [delete markers](map.md#delete-markers) event to Maps component
+* Add heading event for Magnetometer
 
 ## Jun 11, 2019
 

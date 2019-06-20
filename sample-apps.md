@@ -2,165 +2,182 @@
 
 Thunkable is building the world's largest gallery of open sourced apps to help inspire you and save you time.
 
-Below are a few of our favorites with more to come. Feel free to remix!
+Below are a few of our favorites with more to come. Feel free to customize them for your own use and share them with `#MadewithThunkable`!
 
-## Beginner  <a id="beginner"></a>
+## New & Exciting <a id="beginner"></a>
 
-### Beaver Bingo  <a id="beaver-bingo"></a>
+This section is reserved for apps that we think are breaking ground in either app design, technology or in a new problem space being addressed. 
 
-Beaver Bingo is a simple puzzle app that we think is great for parties. Party goers take photos of the items in the nine boxes, which together reveals a hidden message. The app features the [Image Recognizer](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/image/image-recognizer) component from Microsoft. No goats were harmed in the making of this app.
+### Presidential Leaning <a id="beaver-bingo"></a>
 
-​[**Click to remix**](https://x.thunkable.com/copy/e8ac388a2bc4601dccd3a5e137789680)\*\*\*\*
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5ce8607cfc142a9350a1af18) **\|** [**Customize**](http://bit.ly/2F9YOpb) **\|** [**See Inside**](https://x.thunkable.com/projects/5ce8607cfc142a9350a1af18/openProject/designer)\*\*\*\*
 
-​
+What if polling was done by app \(instead of telephone poll\)? Ahead of the US presidential elections, this simple polling app tracks how the leading candidates are resonating with anyone who has the app. Each app user is limited to one vote per day, and the app saves each voter's preference from one day to the next. The results refreshes itself every day powered by [cloud variables](variables.md#for-cloud-variables-updating-when-the-cloud-database-changes) and a [free private Firebase real-time database](realtime-db.md#create-your-free-firebase-project-and-account) and data over time is logged in a [spreadsheet](spreadsheet.md) powered by Airtable.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LG6LWlqrPyH9JJ53ht4%2F-LG6LahQOA6HW26fqtqc%2FThunkable%20Docs%20Exhibits%20%2817%29.png?alt=media&token=7f5d29e2-a792-47d9-9384-44eedcf66943)
+`#firebase` `#realtimedb` `#cloudvariables` `#spreadsheet` `#airtable`
 
-### Ukulele  <a id="ukulele"></a>
+![The app so far seems to trend with the actual polling results, with much less of the work](.gitbook/assets/thunkable-docs-exhibits-17.png)
 
-Ukulele is a simple soundboard app that plays the ukulele chords for one of our favorite songs of all time \(and of the [best Hawaiian songs of all time](http://www.honolulumagazine.com/Honolulu-Magazine/June-2007/50-Greatest-Songs-of-Hawai-8217i/index.php?cparticle=2&siarticle=1#artanc)\), _Waikiki_, recorded in 1946 by Andy Cummings. The ukulele chords themselves were recorded by an aspiring but very amateur ukulele player / thunker Albert Ching \(originally from Waikiki\)
+### Dad Advice \(in Any Language\) <a id="beaver-bingo"></a>
 
-​[**Click to remix**​](https://x.thunkable.com/copy/5fa58583cfa9f3f56b13fe30838b8a34?utm_source=Docs%20Ukulele)
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cfec5e7571571b651a3274b) **\|** [**Customize**](http://bit.ly/2Zk5tF1) **\|** [**See Inside**](https://x.thunkable.com/projects/5cfec5e7571571b651a3274b/1338101c-8a9e-4e93-b7e4-46c2c61efc6c/designer)\*\*\*\*
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LFZv2Fw1ZwOCy73b-J7%2F-LFZvKbjIQ0NblxgFK9a%2FThunkable%20Docs%20Exhibits%20%2813%29.png?alt=media&token=d6e096d5-a062-4396-9eb1-8862fcb654d8)
+What if you could internationalize your content into 93 different languages with little additional effort? This app takes content created by Refinery29 and automatically translates it to the user's desire language \(thanks to the [Translator](translator.md) component powered by Yandex\) and then speaks it aloud in that language \(powered by the [Text to Speech](text-to-speech.md) component\).
 
-Feel free to remix this for your favorite instruments although slower sounds will work better
+`#localdb` `#translator` `#yandex` `#texttospeech` `#accelerometer`
 
-### New Market Goods  <a id="new-market-goods"></a>
+![It turns out fatherly advice comes in many different forms](.gitbook/assets/thunkable-docs-exhibits-18.png)
 
-New Market Goods is a simple website app with a branding screen and a social media bar that opens a deep link to a user's installed apps that works across platforms. No set-up is required. If you'd like to learn how this app was made then check out our free tutorial in the [Thunkable Community](https://community.thunkable.com/t/business-app-new-market-goods/32448?u=domhnall)​
+## Family & Friends <a id="beginner"></a>
 
-#### ​[Click to remix​](https://x.thunkable.com/copy/b6b5a10eff0464562aa7d50f99faeab8?utm_source=Docs%20New%20Market%20Goods)  <a id="click-to-remix"></a>
+Since mobile apps are radically easier to make with Thunkable, why not make apps just for the most important people in your life? We've started experimenting with some ways that apps have actually helped us feel closer to the ones we love. 
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LKdDT8MnfHwH_PJfJa0%2F-LKdGdNTrN4tL281zokZ%2FThunkable%20Docs%20Exhibits%20%2833%29.png?alt=media&token=3aed801a-c4f7-45db-adda-af59de15f2b4)
+### Dad <a id="beaver-bingo"></a>
 
-### Feelings  <a id="feelings"></a>
-
-Feelings is a swipe-able audio book powered by a Tab Navigator and a Text to Speech component. No set-up is required. You can find a step-by-step guide of how to build this app yourself in the [Thunkable Community](https://community.thunkable.com/t/audio-book-app-feelings/32601?u=domhnall).
-
-#### ​[Click to remix](https://goo.gl/xs2ZYn)​  <a id="click-to-remix-1"></a>
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LAn5wecEraNWaG7Ig2g%2F-LAn678PFMfkuuT4PwVV%2F✕-feelings.png?generation=1524497157516821&alt=media)
-
-### Rollin  <a id="rollin"></a>
-
-If you've ever played a board game or an RPG then you know what dice are. You also probably know easy they are to lose or misplace. With this app you can create and customize as many dice and sound effects as you like so that they're never more than a click away. There's a free tutorial in the [Thunkable Community](https://community.thunkable.com/t/game-app-rollin/32715?u=domhnall) all about how this app was made.
-
-\*\*\*\*[**Click to remix**](https://x.thunkable.com/copy/e36ce555a68f0b8af5420889df24b198?utm_source=Docs%20Rollin) ​
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LFbz_hgPjdDBevm6dcY%2F-LFc0EIyzebld8UgWZCA%2Frollin.png?alt=media&token=2534b9a0-9a97-4513-84c1-718d86205259)
-
-​
-
-### Fun with Flags  <a id="fun-with-flags"></a>
-
-This simple trivia app will test your user's knowledge of country flags. By building something like this for yourself you will develop your understanding of parallel lists, functions, APIs, incrementers and, string matching. You can find a detailed tutorial of how to build this app in the [Thunkable Community](https://community.thunkable.com/t/quiz-app-fun-with-flags/32265?u=domhnall).
-
-​[**Click to remix**​](https://x.thunkable.com/copy/0f20b428ce0fdca34f40d351fb34bcbc?utm_source=Docs%20Fun%20with%20Flags)
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LFRjHX_7dpMoNO6KQ9T%2F-LFRjLYMCZ0Ex6I4FHE1%2FScreen%20Shot%202018-06-20%20at%2011.27.50.png?alt=media&token=b0334574-190d-4ecf-8da3-2fee44e9e2d0)
-
-How well do you know your flags?
-
-## **Medium**  <a id="medium"></a>
-
-### Field  <a id="aloha"></a>
-
-Field is a field survey app created in partnership with the [Urban Launchpad](http://urbanlaunchpad.github.io/), an org building low-cost tools for cities everywhere. With a little work, you can customize this app for surveying anything in the field. Data points are stored in an Airtable spreadsheet that you can [view here](https://airtable.com/shrFCpsb5J8AuktBv). The app also features a lightweight sign-in option that simply requires users to type in a single uniform password \("dhaka"\); no back-end data connection necessary.
-
-\*\*\*\*[**Click to remix**](https://x.thunkable.com/copy/bc0299b38125ff32c80d2959066940c5)\*\*\*\*
-
-![](.gitbook/assets/thunkable-docs-exhibits-84.png)
-
-### Aloha  <a id="aloha"></a>
-
-Aloha is a private anonymous chat app with a short chat history powered by a [Firebase Realtime Database](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/realtime-db). To [keep your data as private as possible](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/app-data-privacy#create-your-own-private-repository-of-cloud-data), we recommend creating your own Firebase account and add your own API keys.
-
-#### ​[Click to remix​](https://x.thunkable.com/copy/2cfe0d970f12050a267e01f38ec8039d)  <a id="click-to-remix-2"></a>
-
-![](.gitbook/assets/thunkable-docs-exhibits-83.png)
-
-Forget trusting big companies to comply with GDPR; this is a scary simple way to set up private chat where you own and control your chat history
-
-### **こんにちは \(Kon'nichiwa\)**  <a id="konnichiha-konnichiwa"></a>
-
-こんにちは is an app designed for travel in any country. It uses the newly upgraded [Speech Recognizer](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/voice/speech-recognizer) combined with the [Translator](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/voice/translator) component powered by Yandex to translate any spoke phrase into one of 87 supported languages. The app also features persistent data using [Local Storage](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/local-storage), importing a list of data from [Spreadsheet](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/spreadsheet), and sharing results with the [Share](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/social/share) component.
-
-​[**Click to remix**](https://goo.gl/DHp6Qv)​
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LDMxRXysZV227KRr7jD%2F-LDMyWRtMD2XM1SO0t4i%2Fdocs-real.png?alt=media&token=7752c139-e5ac-4d0f-b4e9-6a434d5ab1e2)
-
-### Personal Feed  <a id="personal-feed"></a>
-
-Personal Feed is an easy to edit feed of your favorite websites, powered by a simple Airtable [spreadsheet](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/spreadsheet) with descriptions that you can modify at any time. This app can be remixed in a number of ways but this example shares popular men's blogger Mister Ching's favorite products for the summer. This app features a Stack Navigator, a Share component, and custom fonts in Labels as well!
-
-#### ​[Click to remix](https://goo.gl/3Y9WuD)​  <a id="click-to-remix-3"></a>
-
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LDnuq_hSgrQRzRDy7uR%2F-LDnuwQ0_TUUA9rcXR2Z%2Fdocs-feed.png?alt=media&token=759cf490-5130-4d28-b9bc-f3b22e5ecf49)
-
-![](.gitbook/assets/screen-shot-2019-01-07-at-10.36.25-am.png)
-
-### Work Credit  <a id="social-credit"></a>
-
-Work Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up).
-
-#### ​[Click to remix](https://x.thunkable.com/copy/19f21e06e130839ae24b7c9400041776?utm_source=Docs%20Work%20Credit)​  <a id="click-to-remix-4"></a>
-
-![](.gitbook/assets/thunkable-docs-exhibits-46.png)
-
-Work Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)
-
-### Translator  <a id="translator"></a>
-
-Translator is an app that translates English text into 93 languages in the world; features advanced use of ListView and persistent data with Local Storage. No set-up is required although Thunkers can use their own Yandex API key if desired
-
-#### ​[Click to remix](https://x.thunkable.com/copy/334513711c3eb2b00652963c5ecbfb5c)​  <a id="click-to-remix-5"></a>
-
-![](.gitbook/assets/thunkable-docs-exhibits-47.png)
-
-### Dad  <a id="dad"></a>
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5aac3404264501000175f715) **\|** [**Customize**](http://bit.ly/2Zky256) **\|** [**See Inside**](https://x.thunkable.com/projects/5aac3404264501000175f715/Welcome/designer) **\|** [**Download from Google Play**](https://play.google.com/store/apps/details?id=com.alohaproductions.dad)\*\*\*\*
 
 Dad is a digital version of Albert's dad, based on a recorded interview and powered by Dialogflow's [Assistant](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/voice/assistant) service. Thunkers must create their own Dialogflow account to customize their digital version. You can read more of the story of this app on [our blog](https://blog.thunkable.com/meet-my-dad-in-an-app-8a93ded720e0).
 
-#### ​[Click to remix​](https://x.thunkable.com/copy/9ac106a73750f2eee39c6cde58fb0a6a?utm_source=Docs%20Dad)  <a id="click-to-remix-6"></a>
+`#assistant` `#dialogflow` `#sound` `#timer` `#animation` `#lottie`
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LDOU76HnGn3C2xgquwz%2F-LDOVoElVe3QD7DH7WUk%2Fdocs-dad.png?alt=media&token=cd9737b2-8957-458b-a064-3c5cca1df312)
+![For this family, this app is priceless so that dad can sing his story in his own words](.gitbook/assets/thunkable-docs-exhibits-19.png)
 
-This is one of our favorite apps we've ever made on the platform -- it's a great combination of the latest in A.I. and voice technologies and our human need to keep our loved ones close to us at all times
+### Charlie Checker
 
-### Weather  <a id="weather"></a>
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cdc2816c1b0904ee706e43b) **\|** [**Customize**](http://bit.ly/2ZwvWiT) **\|** [**See Inside**](https://x.thunkable.com/projects/5cdc2816c1b0904ee706e43b/85b82818-576b-4c27-9e38-894610248978/designer)\*\*\*\*
 
-Weather is an app that pulls the latest temperature from the [Open Weather Map API](https://www.openweathermap.org/api) and as a bonus the latest traffic from the Google Maps component; Thunkers are encouraged to create a free account to use their own Open Weather Map API key
+For anyone who has a pet \(or child\) whose care is managed by multiple people, this app helps to coordinate regular meals, treats, walks and poops. This app is powered by a [free private Firebase Database](realtime-db.md#create-your-free-firebase-project-and-account) that syncs data quickly across devices. This app resets itself every day.
 
-​[**Click to remix**](https://x.thunkable.com/copy/e9009e9d022a9916ef12868b4b89e46f?utm_source=Docs%20Weather)\*\*\*\*
+`#cloudvariables` `#firebase` `#share` 
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LEq0bwjeW5_OAWyJYHw%2F-LEq24udV6KeQ2ydjY0W%2FThunkable%20Docs%20Exhibits%20%281%29.png?alt=media&token=465fd0ff-850a-4929-8219-c81402d3c30c)
+![This is the most used app for Charlie&apos;s owner](.gitbook/assets/thunkable-docs-exhibits-20.png)
 
-## Advanced  <a id="advanced"></a>
+## \(Private\) Social Media <a id="beginner"></a>
 
-### Ride  <a id="ride"></a>
+Social media was originally invented for people to share things with people they trust. With the evolution of popular platforms today, it's increasingly hard to simply keep our channels private enough so our conversations and photos are less filtered and bringing us all joy \(instead of FOMO\).
 
-Ride is a simple uber-like app designed for a single rider and driver that demonstrates some of the more complex possibilities of using the Google Maps APIs with the [Web API](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/web-api) component including the geocoding, distance matrix and routing APIs. Developers will have to first create and use their own Google Maps API key and [Realtime DB](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/data/realtime-db) with Firebase. This is the first sample app that uses the cool renaming component feature that was just implemented.
+### Snap Gram <a id="beaver-bingo"></a>
 
-​[**Click to remix**​](https://x.thunkable.com/copy/d792490707738a2ede0f5da7afc0895d)
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cdf36d454cc871aaa0e4ca4) **\|** [**Customize**](http://bit.ly/2F8UmHn) **\|** [**See Inside**](https://x.thunkable.com/projects/5cdf36d454cc871aaa0e4ca4/project/properties/designer/)\*\*\*\*
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LERllacDxPSYIV2IOl1%2F-LERm0fft8EgeYmcHUIY%2FThunkable%20Docs%20Exhibits.png?alt=media&token=cc50a60d-749b-49a8-8a69-2ad8cf5c7cae)
+This app is kind of like an Instagram and Snapchat hybrid and we've created a private version of this app that we are using daily at the Thunk Tank to help our global team feel more connected. To make your app private, simply create a [free Cloudinary image account](media-db.md#create-a-free-cloudinary-account) to keep your images within your sights and a [free private Firebase Database](realtime-db.md#create-your-free-firebase-project-and-account) to host the links to those images. You won't believe what people will share with a little bit of privacy!
 
-This sample app is inspired by the cycle rickshaws of Dhaka and estimates travel distance by rickshaw/bicycle
+`#cloudvariables` `#firebase` `#mediadb` `#cloudinary` `#camera` 
 
-### Reservation  <a id="reservation"></a>
+![The Thunkable team loves to play jenga](.gitbook/assets/thunkable-docs-exhibits-21.png)
 
-Reservation is a demonstration of how to accept credit card payments through your app. Thunkers must create their own Stripe account \(please [follow the documentation](https://docs.thunkable.com/ios/components/monetisation/payments.html) carefully on set-up\). The app also uploads user data to a [spreadsheet](https://docs.thunkable.com/ios/components/data-storage/spreadsheets.html) for proper tracking of user transactions.
+## City Living <a id="beginner"></a>
 
-#### ​[**Click to remix**​](https://x.thunkable.com/copy/41eb1b5e0fa0cef568819d6cb86176db?utm_source=Docs%20Reservation)  <a id="click-to-remix-7"></a>
+Cities are an increasingly popular place to live and work but navigating them can be a challenge. Here are a few apps that aspire to make that simpler.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LBhN-32VJnxP6H6aVul%2F-LBhNks255r92-wbDCeu%2FThunkable%20Documentation%20Exhibits%20%2897%29.png?alt=media&token=5fca5d60-4809-43aa-a225-4a2160faaabe)
+### Translator <a id="beaver-bingo"></a>
 
-### Gram  <a id="gram"></a>
+#### [**Preview**](https://x.thunkable.com/projectPage/5cdf36d454cc871aaa0e4ca4) **\|** [**Customize**](http://bit.ly/2F8UmHn) **\|** [**See Inside**](https://x.thunkable.com/projects/5cdf36d454cc871aaa0e4ca4/project/properties/designer/)\*\*\*\*
 
-Gram is what photo sharing should be -- ad-free, auto-captioning and secure. This app features the Sign In component with Realtime DB both powered by Firebase, Image Recognizer by Microsoft and a way to "heart" photos. Thunkers must create their own Firebase account and add their own API keys and database url in their account settings.
+Designed for your work and holiday travel, translator is an app that translates English text and speaks it aloud into 93 languages in the world.
 
-#### ​[Click to remix](https://x.thunkable.com/copy/edbe5a83435a2bb468491f964d7f24d6)​  <a id="click-to-remix-8"></a>
+`#cloudvariables` `#firebase` `#mediadb` `#cloudinary` `#camera`
 
-![](.gitbook/assets/thunkable-docs-exhibits-80.png)
+![The app welcome screen is inspired by the Japanese artist Yayoi Kusama](.gitbook/assets/thunkable-docs-exhibits-22.png)
+
+### SF POPOS \(Privately Owned Public Open Spaces\) <a id="beaver-bingo"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5ceda3ddbb4b310ae3f75587) **\|** [**Customize**](http://bit.ly/2XUROUA) **\|** [**See Inside**](https://x.thunkable.com/projects/5ceda3ddbb4b310ae3f75587/Home/designer)
+
+This is a map of San Francisco's 78 privately owned public opened spaces \(POPOS\). POPOS are publicly accessible spaces in forms of plazas, terraces, atriums, small parks, and even snippets which are provided and maintained by private developers. In San Francisco, POPOS mostly appear in the Downtown office district area. Data is sourced from [open data from DataSF](https://data.sfgov.org/Culture-and-Recreation/Map-of-Privately-Owned-Public-Open-Spaces/kjpt-g66i) and read from [this Airtable spreadsheet](https://airtable.com/shrpmLa5AV2tqKlbz). You can learn more about SF's POPOS [here](https://sfplanning.org/privately-owned-public-open-space-and-public-art). 
+
+`#maps` `#google` `#locationsensor` `#spreadsheet` `#airtable`
+
+![Our Thunkable office is located close to the POPOS in SF](.gitbook/assets/thunkable-docs-exhibits-33%20%281%29.png)
+
+## High Performing Teams <a id="beginner"></a>
+
+The highest performing teams are said to be ones full of trust, empathy and psychological safety. Here are a few apps that may help your favorite teams build these important qualities.
+
+### Office Weather & Traffic <a id="social-credit"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5d03c723c9b63a41476d5f9f) **\|** [**Customize**](http://bit.ly/2ZwexXz) **\|** [**See Inside**](https://x.thunkable.com/projects/5d03c723c9b63a41476d5f9f/project/properties/designer/)\*\*\*\*
+
+Designed for teams that are spread out across different parts of the world, this simple app helps you quickly keep track of the external conditions that may be affecting your colleague's work and  mood. At the very least, it may enable you to avoid talking about the weather and onto more important things. Customize for your team by editing the information in the OfficeDB component. The app pulls the latest temperature from the Open Weather Map API and as a bonus the latest traffic from Google Maps. There is a limit of 60 calls per minute in the free tier of the Open Weather Map API.
+
+`#webapi` `#openweathermapapi` `#googlemaps` `#localdb` `#camera`
+
+![Its&apos;s not always raining in Dublin](.gitbook/assets/thunkable-docs-exhibits-23.png)
+
+### Work Credit <a id="social-credit"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5ab560f9896b670001627b02) **\|** [**Customize**](http://bit.ly/2Y3J1Q0) **\|** [**See Inside**](https://x.thunkable.com/projects/5ab560f9896b670001627b02/Welcome/designer)\*\*\*\*
+
+Work Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). Work Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)
+
+`#cloudvariables` `#firebase`
+
+![Give your favorite Thunkable some work credit!](.gitbook/assets/thunkable-docs-exhibits-25.png)
+
+### Mark's Guide to 1:1s <a id="social-credit"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cf843d788653e8a1a46bc70) **\|** [**Customize**](http://bit.ly/2XV9ZJM) **\|** [**See Inside**](https://x.thunkable.com/projects/5cf843d788653e8a1a46bc70/db39998c-08ef-4525-a997-0f90f0b1bb97/designer)\*\*\*\*
+
+For managers out there, here's a helpful set of questions to guide your next 1:1 meeting from Mark, the beloved VP of engineering at Thunkable. For our team, this app is a great way for best practices to quickly spread throughout an organization. You can easily customize the questions by simply editing the question in the local database.
+
+`#localdb` `#accelerometer` 
+
+![This guide is a really good baseline for your next 1:1 conversation](.gitbook/assets/thunkable-docs-exhibits-24.png)
+
+## Thriving Small Businesses <a id="beginner"></a>
+
+Starting your own business is a gratifying endeavor but most new business don't make it for the long haul. Here are a few apps that can help support the businesses that you love
+
+### New Market Goods <a id="beaver-bingo"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5ab08b5735d5500001e43644) **\|** [**Customize**](http://bit.ly/2XP45tD) **\|** [**See Inside**](https://x.thunkable.com/projects/5ab08b5735d5500001e43644/Intro/designer)\*\*\*\*
+
+Simple website wrapper app with a multi-image branding screen, a social media bar that opens a deep link to a user's installed apps that works across platforms. If you are a PRO member, you can add push notifications to notify app users of ongoing sales.  Check out our free tutorial in the [Thunkable Community](https://community.thunkable.com/t/business-app-new-market-goods/32448?u=domhnall)​ to make one for the business that you love.  
+****`#webviewer` `#timer` `#push notifications`
+
+![Notify your most loyal customers of sales with push notifications](.gitbook/assets/thunkable-docs-exhibits-26%20%281%29.png)
+
+### Credit Card Reader <a id="beaver-bingo"></a>
+
+#### [**Preview**](https://x.thunkable.com/projectPage/5ab08b5735d5500001e43644) **\|** [**Customize**](http://bit.ly/2XSeowR) **\|** [**See Inside**](https://x.thunkable.com/projects/5cba08b994f2be770bdfce63/project/properties/designer/)\*\*\*\*
+
+Simple point of sale for accepting credit cards on your mobile device powered by Stripe. Stripe + Thunkable charges a 2.9% + $0.30 per transaction for PRO members \(4.9% + $0.30 per transaction for Non-PRO members\). [Follow the instructions here](payment.md) to create and connect your Stripe account.
+
+`#payment` `#stripe` `#timer` 
+
+![PRO members are only charged the minimum 2.9% + $0.30 per transactions](.gitbook/assets/thunkable-docs-exhibits-28.png)
+
+### Reimburse Me <a id="beaver-bingo"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cbe4ef9c6bd9a464a5fd893) **\|** [**Customize**](http://bit.ly/2XT9zn6) **\|** [**See Inside**](https://x.thunkable.com/projects/5cbe4ef9c6bd9a464a5fd893/CompanyLogo/designer)\*\*\*\*
+
+Simple reimbursement app that uploads receipt images to a spreadsheet powered by Airtable \([See spreadsheet here](https://airtable.com/shrOaUvxcDXr2WQzp)\). For sensitive financial data, we recommend using your own private Media DB powered by Cloudinary \(and not the default one\). You may also want to add a login to add an extra layer of security.
+
+`#spreadsheet` `#airtable` `#mediadb` `#cloudinary` `#camera` `#photolibrary`
+
+![Make sure to get reimbursed for legitimate items](.gitbook/assets/thunkable-docs-exhibits-29.png)
+
+## Fun & Games  <a id="beginner"></a>
+
+Mobile games and puzzle apps are not just a great form of entertainment in those in between moments but they also great mediums for monetizing your app with ads. 
+
+### Beaver Bingo  <a id="beaver-bingo"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5b341e9d7e4c2919242a87f7) **\|** [**Customize**](http://bit.ly/2XVtGB7) **\|** [**See Inside**](https://x.thunkable.com/projects/5b341e9d7e4c2919242a87f7/project/properties/designer/)\*\*\*\*
+
+Beaver Bingo is a simple puzzle app that we think is great for parties. Party goers take photos of the items in the nine boxes, which together reveals a hidden message. The app features the [Image Recognizer](https://docs.thunkable.com/~/revisions/-LOOoZWLYzPlQ4m9-n_W/thunkable-cross-platform/create/components/image/image-recognizer) component from Microsoft. No goats were harmed in the making of this app.
+
+`#imagerecognizer` `#microsoft` `#camera` `#sound` `#timer` 
+
+![We played this game at our office Open House and it was interactive!](.gitbook/assets/thunkable-docs-exhibits-30.png)
+
+### Shake Dice  <a id="beaver-bingo"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cfe89503f47072fb7f22be2) **\|** [**Customize**](http://bit.ly/2XYFR0a) **\|** [**See Inside**](https://x.thunkable.com/projects/5cfe89503f47072fb7f22be2/Screen1/designer) **\|** [**Download from Google Play**](https://play.google.com/store/apps/details?id=com.alohaproductions.shakedice)\*\*\*\*
+
+If you've ever played a board game or an RPG then you know what dice are. You also probably know easy they are to lose or misplace. With this app you can create and customize as many dice and sound effects as you like so that they're never more than a click away. There's a free tutorial in the [Thunkable Community](https://community.thunkable.com/t/game-app-rollin/32715?u=domhnall) all about how this app was made.  This app also shows an Interstitial [Ad by AdMob](admob.md) every time the dice shows 5.
+
+`#accelerometer` `#admob`
+
+![If you don&apos;t have a dice handy, this app is basically the same thing, down to the motion](.gitbook/assets/thunkable-docs-exhibits-32.png)
 

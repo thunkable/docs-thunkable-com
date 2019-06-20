@@ -14,6 +14,12 @@ Private projects are just that, private. They can only be seen by their app crea
 
 To make your projects public or private, click the "details" button on a project. You can then click the Public/Private switch to change who can view your project.
 
+![](.gitbook/assets/public2.gif)
+
+You can also click on your project name in the upper left hand corner, and click the switch to set your project to public or private. 
+
+![](.gitbook/assets/public1.gif)
+
 ## Read-Only projects
 
 Private projects become Read-Only projects when a Thunker's PRO membership expires. Read-Only projects remain private and are not included in the Thunkable Gallery.

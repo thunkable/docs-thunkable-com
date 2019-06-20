@@ -1,3 +1,9 @@
+---
+description: >-
+  A row is horizontal container that allows you to position components side by
+  side.
+---
+
 # Row
 
 * [Set the size of the row](row.md#set-size-of-the-row)
@@ -7,7 +13,7 @@
 
 ![](.gitbook/assets/row-fig-1.png)
 
-## Set size of the row
+## Set the size of the row
 
 For more information on sizing in your app, please see our [introduction here​](intro-to-sizing.md)
 
@@ -34,5 +40,16 @@ The `Vertical Alignment` property allows you to space elements in a Row vertical
 | :--- | :--- |
 | Background Color | Default \(`none`\). Select any color using the color picker, RGBA or HEX value |
 | Background Picture | You can upload a background image to your app or reference an image url e.g.`beaver-yellow.png` |
-| Background Picture Resize Mode | Determines how to resize the image when the frame doesn't match the raw image dimensions;`cover`\(default\) Scale the image uniformly \(maintain the image's aspect ratio\) so that both dimensions \(width and height\) of the image will be equal to or larger than the corresponding dimension of the view \(minus padding\);`contain`Scale the image uniformly \(maintain the image's aspect ratio\) so that both dimensions \(width and height\) of the image will be equal to or less than the corresponding dimension of the view \(minus padding\);`stretch`Scale width and height independently, This may change the aspect ratio of the src;`repeat`Repeat the image to cover the frame of the view. The image will keep it's size and aspect ratio;`center`Centers the image in the frame |
+|  |  |
+
+**Background Picture Resize Mode** 
+
+* Cover: Fills the entire screen without changing the height and width ratio of the image 
+* Contain: The entire image will be scaled down to fit inside the screen, without changing the height and width ratio of the image 
+* Stretch: The image's height will change to fill the screen length-wise 
+* Repeat: Repeat the image to cover the screen. The image's height and width ratio
+
+   will not change    
+
+* Center: Positions the image in the middle of the frame
 
