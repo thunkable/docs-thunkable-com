@@ -57,6 +57,8 @@ description: >-
 
 The `Horizontal Alignment` property allows you to space elements in a Row horizontally
 
+![](.gitbook/assets/image%20%2835%29.png)
+
 ![](.gitbook/assets/thunkable-documentation-exhibits-64.png)
 
 ## Space the elements vertically

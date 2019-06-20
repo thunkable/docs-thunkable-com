@@ -186,7 +186,7 @@ Bug fixes
 
 Component updates
 
-* Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a [Top Tab Navigator](top-tab-navigator.md) and a [Bottom Tab Navigator](bottom-tab-navigator.md). The original [Tab Navigator](tab-navigator.md) will continue to be supported in existing projects but we highly encourage creators to adopt the new tab components which will have more features
+* Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a [Top Tab Navigator](top-tab-navigator.md) and a [Bottom Tab Navigator](bottom-tab-navigator.md). The original [Tab Navigator]() will continue to be supported in existing projects but we highly encourage creators to adopt the new tab components which will have more features
 
 Bug fixes
 

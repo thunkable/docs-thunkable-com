@@ -18,7 +18,6 @@
 * [🛠️ Components](components.md)
 * [Top Tab Navigator](top-tab-navigator.md)
 * [Bottom Tab Navigator](bottom-tab-navigator.md)
-* [Tab Navigator](tab-navigator.md)
 * [Drawer Navigator](drawer-navigator.md)
 * [Stack Navigator](stack-navigator.md)
 * [🔎 User Interface](user-interface.md)

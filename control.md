@@ -12,7 +12,7 @@ The if `this`, do `that` block can be transformed to support more complex logic
 
 ## Open a screen
 
-You can manage much of your screen navigation through our [Tab](tab-navigator.md), [Drawer](drawer-navigator.md) and [Stack](stack-navigator.md) navigator components but for simple screen navigation, you can use the very popular block below
+You can manage much of your screen navigation through our [Tab](), [Drawer](drawer-navigator.md) and [Stack](stack-navigator.md) navigator components but for simple screen navigation, you can use the very popular block below
 
 ![](.gitbook/assets/blocks-control-fig-8.png)
 

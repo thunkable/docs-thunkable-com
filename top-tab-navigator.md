@@ -1,42 +1,57 @@
+---
+description: >-
+  Possibly the most common style of navigation in mobile apps is tab-based
+  navigation.
+---
+
 # Top Tab Navigator
 
-![The Top Tab is a popular navigation in Android apps, where it was a part of Material Design ](.gitbook/assets/thunkable-docs-exhibits-76.png)
+The Top Tab Navigator is positioned at the top of your app, and allows users to switch between different screens by clicking. 
+
+![](.gitbook/assets/image%20%2865%29.png)
 
 ## Style your Tab
 
-You can set the background color, tab underline color for selected tabs and font color for selected and unselected tabs
+You have many options for styling your Top Tab Navigator, such as changing the background color or tint color. Here are the different options for customization:
 
-| Property | Description |
-| :--- | :--- |
-| Background Color | Default \(`#007AFF`\); Background color for the top tab |
-| Tab Indicator Color | Default \(`#FFEB3B`\); Tab underline color for selected tab |
-| Active Tint Color | Default \(`#FFFFFF`\); Font color for selected tab |
-| Inactive Tint Color | Default \(`#FFFFFF`\); Font color for unselected tab\(s\) |
-| Upper Case Label \(advanced\) | Default \(`true`\); If `true`, tab labels will be converted to uppercase / capitalized letters |
-| Tab Indicator Height \(advanced\) | Default \(`2`\); Height of the tab underline color |
+* **Background Color:** Select a color for the top tab navigator.  
+* **Tab Indicator Color:** An underline will appear underneath the tab you select. You can select a color for the underline.  
+* **Active Tint Color:** Select a font color for the tab currently in use.  
+* **Inactive Tint Color:** Select a color for the text of the tabs that are not in use.  
+* **Upper Case Label \(Advanced\):** Make the text for all the tabs upper case.  
+* **Tab Indicator Height \(Advanced\):** An underline will appear underneath the tab you select. This section will allow you to choose how tall the underline is.
 
-## Add a Label and/or an Icon to your Tab\(s\)
+## Adding Labels and Icons to your Tabs 
 
-You can choose to show just an icon, just a label or both a label and an icon or none at all.
+When designing a tab, you can use words or images to guide users to different screens. 
 
-| Property | Description |
-| :--- | :--- |
-| Show Label | Default \(`true`\); If `true`, labels will be displayed in the tab |
-| Show Icon | Default \(`false`\); If `true`, icons will be displayed in the tab |
+![Using Words](.gitbook/assets/image%20%2865%29.png)
 
-To add a label and/or icon, you'll have to navigate to the properties for your Screen
+![Using Images](.gitbook/assets/image%20%2830%29.png)
 
-| Property | Description |
-| :--- | :--- |
-| Tab Bar Label | Name of your tab label |
-| Active Tab Icon | Optional icon that appears when tab is selected; You can upload an image or type in an image url e.g.`home-red.png` |
-| Inactive Tab Icon | Optional icon that appears when tab is not selected; You can upload an image or type in an image url e.g.`home-gray.png` |
+## Step by Step Instructions
+
+Step 1. Add screens to a Navigator by dragging and dropping them on top of a Navigator.
+
+Step 2. Select the Top Tab Navigator. Decide if you would like to display icons or labels by clicking on these switches:
+
+![](.gitbook/assets/image%20%2823%29.png)
+
+Step 3. Depending on if you are adding icons or labels, select the screen you would like to style and upload an image or add content:
+
+![](.gitbook/assets/image%20%2839%29.png)
+
+Additional descriptions are below:
+
+**Tab Bar Label** -- The name of your tab label
+
+**Active Tab Icon** -- Icon that appears when tab is selected; You can upload an image for this icon.
+
+**Inactive Tab Icon** --  Icon that appears when tab is not selected; You can upload an image for this icon.
 
 ## Enable swiping
 
-Swiping is a popular way to move through screens and is enabled by the Tab Navigator
+Swiping is a popular way to move through screens and is enabled by the Tab Navigator. You can enable the swipe feature by clicking the "SwipeEnabled' switch. 
 
-| Property | Description |
-| :--- | :--- |
-| Swipe Enabled | Default \(`false`\); If true, enables screen navigation by swiping |
+![](.gitbook/assets/image%20%2836%29.png)
 
