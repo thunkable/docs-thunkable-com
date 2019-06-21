@@ -12,7 +12,7 @@ From sharing medical records, to analyzing personal financial information, to tr
 
 ## **Get Account Address**
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2838%29.png)
 
 **Output:**
 
@@ -20,7 +20,7 @@ From sharing medical records, to analyzing personal financial information, to tr
 
 ## Get Balance
 
-![](.gitbook/assets/image%20%2869%29.png)
+![](.gitbook/assets/image%20%2870%29.png)
 
 **Input:**
 
@@ -138,7 +138,7 @@ This is useful when you want do a practice run of sending a transaction. Sometim
 
 ## **Subscribe To Logs**
 
-![](.gitbook/assets/image%20%2854%29.png)
+![](.gitbook/assets/image%20%2855%29.png)
 
 You can use this block to subscribe to specific events on the blockchain**.**
 

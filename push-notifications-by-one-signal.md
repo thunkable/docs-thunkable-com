@@ -38,11 +38,11 @@ One Signal is a free service that supports unlimited devices and notifications. 
 
 * Go to [One Signal](https://onesignal.com/) and sign up for an account
 
-![](.gitbook/assets/image%20%2844%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 
 After you have signed up, click Add App and enter in your app name:
 
-![](.gitbook/assets/image%20%2856%29.png)
+![](.gitbook/assets/image%20%2857%29.png)
 
 ![](.gitbook/assets/image%20%2818%29.png)
 
@@ -85,14 +85,14 @@ Once you have created a new project, click on the gear icon beside Project Overv
 
 Select the Cloud Messaging option:
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 There are two things that you will need to copy and paste back into One Signal:
 
 1. Server Key
 2. Sender ID
 
-![](.gitbook/assets/image%20%2853%29.png)
+![](.gitbook/assets/image%20%2854%29.png)
 
 Go back to the **One Signal** platform.
 
@@ -122,13 +122,13 @@ On the right hand side, paste the code from One Signal into the Android App ID s
 
 Click the Live Test button. Once the app is on your phone, go back to One Signal. Click the "Check Subscribed Users" button.
 
-![](.gitbook/assets/image%20%2858%29.png)
+![](.gitbook/assets/image%20%2859%29.png)
 
 If you are live testing or have downloaded your Android app, you should see a congratulations message. Click "DONE".
 
 Select the "MESSAGES" option and then select "NEW PUSH". You will now be able to create push notifications and send them to your app users.
 
-![](.gitbook/assets/image%20%2866%29.png)
+![](.gitbook/assets/image%20%2867%29.png)
 
 ##  iOS Setup
 
@@ -197,5 +197,5 @@ When you are ready to send your first push notification, select the "MESSAGES" o
 
 
 
-![](.gitbook/assets/image%20%2866%29.png)
+![](.gitbook/assets/image%20%2867%29.png)
 

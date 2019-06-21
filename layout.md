@@ -18,7 +18,7 @@ Here are three examples of navigators that you can use on Thunkable.
 
 1. \*\*\*\*[**Bottom**](https://docs.thunkable.com/bottom-tab-navigator) **and** [**Top Tab**](https://docs.thunkable.com/top-tab-navigator) **Navigators** - These navigators allow you to change screens by clicking on icons at the top or bottom of the screen. 
 
-![Top Tab Navigator](.gitbook/assets/image%20%2865%29.png)
+![Top Tab Navigator](.gitbook/assets/image%20%2866%29.png)
 
 **2.** [**Drawer Navigators**](https://docs.thunkable.com/drawer-navigator) - A navigator that pulls out a side menu of different options to choose from. 
 

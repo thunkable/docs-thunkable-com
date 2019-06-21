@@ -8,7 +8,13 @@ description: >-
 
 The Top Tab Navigator is positioned at the top of your app, and allows users to switch between different screens by clicking. 
 
-![](.gitbook/assets/image%20%2865%29.png)
+![](.gitbook/assets/image%20%2866%29.png)
+
+## Adding Navigators
+
+To add a navigator to your app, you will need to drag the navigator component into your component tree, and then drag a screen on top of the navigator component. 
+
+![](.gitbook/assets/ezgif.com-video-to-gif-6%20%281%29.gif)
 
 ## Style your Tab
 
@@ -25,7 +31,7 @@ You have many options for styling your Top Tab Navigator, such as changing the b
 
 When designing a tab, you can use words or images to guide users to different screens. 
 
-![Using Words](.gitbook/assets/image%20%2865%29.png)
+![Using Words](.gitbook/assets/image%20%2866%29.png)
 
 ![Using Images](.gitbook/assets/image%20%2830%29.png)
 
@@ -39,7 +45,7 @@ Step 2. Select the Top Tab Navigator. Decide if you would like to display icons 
 
 Step 3. Depending on if you are adding icons or labels, select the screen you would like to style and upload an image or add content:
 
-![](.gitbook/assets/image%20%2839%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
 
 Additional descriptions are below:
 
@@ -53,5 +59,5 @@ Additional descriptions are below:
 
 Swiping is a popular way to move through screens and is enabled by the Tab Navigator. You can enable the swipe feature by clicking the "SwipeEnabled' switch. 
 
-![](.gitbook/assets/image%20%2836%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
