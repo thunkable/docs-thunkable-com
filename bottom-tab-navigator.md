@@ -16,9 +16,10 @@ To add a navigator to your app, you will need to drag the navigator component in
 
 You have many options for styling your Bottom Tab Navigator, such as changing the background color or tint color. Here are the different options for customization:
 
-* **Background Color:** Select a color for the bottom tab navigator.  
-* **Active Tint Color:** Select a font color for the tab currently in use.  
+* **Active Tint Color:** An underline will appear underneath the tab you select. You can select a color for the underline. 
+* **Active Background Tint Color:** Select a font color for the tab currently in use. 
 * **Inactive Tint Color:** Select a color for the text of the tabs that are not in use. 
+* **InactiveBackgroundColor:** Select a color for the background of the tabs that are not in use.
 
 ## **Adding Labels and Icons to your Tab**
 
