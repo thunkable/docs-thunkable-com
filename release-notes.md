@@ -4,6 +4,7 @@
 
 New components
 
+* [Bluetooth Low Energy](bluetooth-low-energy.md) - connect to, receive and send data from a mobile device to any device that has a bluetooth low energy chip installed
 * Canvas and Sprites
 * Extended Listviewer
 * Google Sheets
@@ -11,13 +12,16 @@ New components
 Component updates
 
 * Screen Orientation
-* Drawer Navigator - give option to open and close drawer in blocks
 
-## Jun 21, 2019
+## Jun 24, 2019
 
-New component
+Component updates
 
-* [Bluetooth Low Energy](bluetooth-low-energy.md) - connect to, receive and send data from a mobile device to any device that has a bluetooth low energy chip installed
+* [Drawer Navigator](drawer-navigator.md) - added block to toggle open and close the drawer to enable hamburger menu
+
+Platform updates
+
+* Displays profile photo in the top right corner of platform; update yours on the [account settings page here](https://x.thunkable.com/account/settings)
 
 ## Jun 17, 2019
 
