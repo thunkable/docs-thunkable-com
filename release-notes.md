@@ -11,6 +11,7 @@ New components
 
 Component updates
 
+* Maps - Add [delete markers](map.md#delete-markers) event to Maps component
 * Screen Orientation
 
 ## Jun 24, 2019
@@ -27,7 +28,6 @@ Platform updates
 
 Component updates
 
-* Add [delete markers](map.md#delete-markers) event to Maps component
 * Add heading event for Magnetometer
 
 ## Jun 11, 2019
