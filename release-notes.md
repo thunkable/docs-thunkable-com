@@ -4,15 +4,23 @@
 
 New components
 
-* [Bluetooth Low Energy](bluetooth-low-energy.md) - connect to, receive and send data from a mobile device to any device that has a bluetooth low energy chip installed
 * Canvas and Sprites
 * Extended Listviewer
 * Google Sheets
 
 Component updates
 
-* Maps - Add [delete markers](map.md#delete-markers) event to Maps component
 * Screen Orientation
+
+## Jun 26, 2019
+
+New components
+
+* [Bluetooth Low Energy](bluetooth-low-energy.md) - connect to, receive and send data from a mobile device to any device that has a bluetooth low energy chip installed
+
+Component updates
+
+* Maps - Add [delete markers](map.md#delete-markers) event to Maps component
 
 ## Jun 24, 2019
 
