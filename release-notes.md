@@ -21,6 +21,7 @@ New components
 Component updates
 
 * Maps - Add [delete markers](map.md#delete-markers) event to Maps component
+* [Label](label.md) - More styling options! Adds more options to set the font weight and to align the text in the label 
 
 ## Jun 24, 2019
 

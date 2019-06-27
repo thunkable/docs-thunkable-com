@@ -12,9 +12,10 @@
 | :--- | :--- |
 | Text | Default \(`Label`\); Text of the label |
 | Color | Default \(`#007AFF`\); Color of the text that appears in the label |
-| Font Bold | Default \(`false`\); If `true`, text font will be **bold** |
-| Font Italic | Default \(`false`\);  If `true`, text font will be _italic_ |
 | Font Size | Default \(`14`\); Size of the optional text that appears on the button |
+| Font Weight | Default \(`Normal`\); Thickness of the font from `Normal, Bold, 100, 200, 300, 400, 500 . . . 900` where `100` is the thinnest |
+| Font Style | Default \(`Normal`\); You can set the text font to be _`italic`_ |
+| Text Align | Default \(`Auto`\); You can also set the horizontal alignment of the text in the label to be `Left`, `Right`, `Center` and `Justify` |
 | Background Color | Default \(`none`\); Sets the background color of the label |
 | Border | Default \(`none`\); You can set the `width`, `color` and `style` of the border around the label |
 
