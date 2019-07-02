@@ -72,7 +72,7 @@ Cities are an increasingly popular place to live and work but navigating them ca
 
 ### Translator <a id="beaver-bingo"></a>
 
-#### [**Preview**](https://x.thunkable.com/projectPage/5cdf36d454cc871aaa0e4ca4) **\|** [**Customize**](http://bit.ly/2F8UmHn) **\|** [**See Inside**](https://x.thunkable.com/projects/5cdf36d454cc871aaa0e4ca4/project/properties/designer/)\*\*\*\*
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5c183d7c7bd8616f60c5a39a) **\|** [**Customize**](http://bit.ly/2XL0tMy) **\|** [**See Inside**](https://x.thunkable.com/projects/5c183d7c7bd8616f60c5a39a/Welcome/designer)\*\*\*\*
 
 Designed for your work and holiday travel, translator is an app that translates English text and speaks it aloud into 93 languages in the world.
 
@@ -139,7 +139,7 @@ Simple website wrapper app with a multi-image branding screen, a social media ba
 
 ### Credit Card Reader <a id="beaver-bingo"></a>
 
-#### [**Preview**](https://x.thunkable.com/projectPage/5ab08b5735d5500001e43644) **\|** [**Customize**](http://bit.ly/2XSeowR) **\|** [**See Inside**](https://x.thunkable.com/projects/5cba08b994f2be770bdfce63/project/properties/designer/)\*\*\*\*
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cba08b994f2be770bdfce63) **\|** [**Customize**](http://bit.ly/2XSeowR) **\|** [**See Inside**](https://x.thunkable.com/projects/5cba08b994f2be770bdfce63/project/properties/designer/)\*\*\*\*
 
 Simple point of sale for accepting credit cards on your mobile device powered by Stripe. Stripe + Thunkable charges a 2.9% + $0.30 per transaction for PRO members \(4.9% + $0.30 per transaction for Non-PRO members\). [Follow the instructions here](payment.md) to create and connect your Stripe account.
 
