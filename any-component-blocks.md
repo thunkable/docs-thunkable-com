@@ -16,17 +16,17 @@ For example, in the picture below, any button you click on the screen will chang
 
 With the first dropdown menu, you can select what type of component you want to change the properties for. 
 
-![](https://lh3.googleusercontent.com/G7UBxi-2p7uZeV9HUNx5ekjW3Q1Ac8S7PSM6l5salHzmB_xqv3NSlGasQTfrfjzW3L_qI-AuHohli2EvgIYgGSMoExw4ZT-EtyZfIv30nvAofm7GZPMBWl5j2Ffi5wpd0EAMIY3o)
+![](.gitbook/assets/any-button-click.png)
 
 With the second dropdown menu, you can choose when the changes to the properties will occur. 
 
-![](https://lh5.googleusercontent.com/kz9sROoZL6LEAGZ51JBJ7kbaRKTC20cyKbNMgdNK35qJHLBXYoL9bBQP3ZxCE0NxfDiFECXn32sjqRQ-NsNSpHkObL3WFEJK_SxCgyLzd33wRUfozOTU_2yuTn761GosPFqMrd5K)
+![](.gitbook/assets/create-example%20%282%29.png)
 
 ## **The Component Item Block**
 
 If you want to customize a button that you clicked on the screen, you can use this block.
 
-![](https://lh6.googleusercontent.com/4wP1rX7PyUup5Z1uWaAw8wWV4SMYXxrwPDQrpHYXsBUM0BnBnOu5jGS_Qn4ipMQX7W7jfa0TTf2zmfUeE20oYSNGDkjBL2pvxup6Bi-EX0oV6GuI2-nfxoX3pbFRP1cpjvxFYhPk)
+![](.gitbook/assets/create-example%20%286%29.png)
 
 With the blocks below, anytime a button is clicked, the text of that button will be set to “I Love Thunkable!”. 
 
@@ -42,13 +42,13 @@ When you use the create block, your app will automatically create something. For
 
 This picture shows that when Screen1 Opens, your app will create a button and put it on Screen1. 
 
-![](https://lh6.googleusercontent.com/YQJr-0U5h2xWT-MJ1GZ9NtngLq2rYsT2I6VV5STBfJEsZI4hSIA9j0MTK0VskeUezy5xH5SDsUmBEZk4JqAg0lqbWQiin-OqlCiklSwjfzldil39CyLkqwYd3D46nupbOw5-BEvn)
+![](.gitbook/assets/create-example.png)
 
 ## **Using the Create Block**
 
 With the first dropdown menu, you can select what type of visible component you want to create. 
 
-![](https://lh4.googleusercontent.com/wzyGuLRYDIj5l5n4ncgX2R0Yml5NV--HkAOto_ZY6vM8FFw0AAMRW70dqidOyaLMOEWdmN8RJKUfXJFz2_O_Kcex32V_-qMo3GCEKwmYGl5zDhcNKSBOHyhX1VQwcqMHsupBmjAz)
+![](.gitbook/assets/create-example%20%284%29.png)
 
 With the second dropdown menu, you can select where you want to position the component you are creating on the app’s screen. 
 
@@ -56,7 +56,7 @@ _**Notes: The options in the third drop down will vary depending on which compon
   
 ****The following block creates a new button and places it as the first item on Screen1.
 
-![](https://lh6.googleusercontent.com/IA_j24W74S0yxzHEPY-bFaQQ4VdwL8vA4_mVqFjsQ4xbRBiIuMQqvc64opKttdQ4V9556lfeJasyKCcXNN35Ze5b-jha2Lh0ZfFBUCSXSbma0DT58w2SOW0BpuFiPvCV3D4c3mfA)
+![](.gitbook/assets/create-example%20%287%29.png)
 
 The table below explains the different block options:
 
@@ -69,11 +69,11 @@ The table below explains the different block options:
 
 ## **The Component Item Block**
 
-![](https://lh3.googleusercontent.com/X6HdV6l87jtk0_DG3HAwXCMZCgzY5kcOpAmKoMA_DAHndE8FV3Bi-ZKRRJib9IlZ729ruHUU-mXvuN9QjhSFiA3Rbz6_lwOo_KafCy3R4DNfu83-4Udi-eMxsPh1-D8HwKpRQEW0)
+![](.gitbook/assets/create-example%20%285%29.png)
 
 If you want to customize the component you just created, you can use this block. 
 
-![](https://lh5.googleusercontent.com/zzZo4lWBU9lI8iYhTCafenmQRJAjBFkrdH7XWgp2ycPXCTqh1QiiMdMttLW1ypdaScdKYXSSr9QuimSw9Ir_x7k8KPRFjIgdEVG7wrVISKhRbgfDppQ5JDTk9reAa-zzE8sZMR5s)
+![](.gitbook/assets/create-example%20%283%29.png)
 
 These blocks say, when any button on the screen1 is clicked, create a new button. Next, set the new button’s text to “I was just created!”. 
 
