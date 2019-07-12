@@ -88,7 +88,7 @@ You can use the clone block instead of repeatedly using the same combination of 
 _Note: You cannot clone screens and invisible components with the clone block.  
 ****_
 
-![](https://lh3.googleusercontent.com/mnfrFmxawiTErAduIpoYL4MNm0_GfOLp3gjFjHGMtO5AlDYArVoe18xrI2yGfpV3VwRNyo6g0qNaQ96V7dOLYd028OJCdZyE1wdbrRiH1kEd3qfbCTVBb1YrXV1KdrrFULyRAqQ3)
+![](.gitbook/assets/clone.png)
 
 ## **Using the Clone Block**
 
