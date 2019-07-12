@@ -8,7 +8,7 @@ description: Clone and create components
 
 With the Generic Event block, you can change properties \(such as the ****text and color\) of any component in your app. 
 
-For example, the blocks below show that any button you click on the screen will change the color of Button1 to be purple. 
+For example, in the picture below, any button you click on the screen will change the text of Label1 to be “Thunking Is Fun!”.
 
 ![](.gitbook/assets/generic-block.png)
 
