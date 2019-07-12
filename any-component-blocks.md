@@ -10,7 +10,7 @@ With the Generic Event block, you can change properties \(such as the ****text a
 
 For example, the blocks below show that any button you click on the screen will change the color of Button1 to be purple. 
 
-![](https://lh6.googleusercontent.com/5IhJ3v2m2TpNP4ld_szJ21SsJSKmmmpC-zogMSTBkZuZteFxTnB3az-uqVqF-QkTNNBEPpzvqjqIGo8SKAcfvwOm9rehFP2xfFsgkWjM8HIfoYr36NAKATlQkkDtexKeU4MAqPfh)
+![](.gitbook/assets/generic-block.png)
 
 ## **Using the Generic Event Block**
 
@@ -64,8 +64,8 @@ The table below explains the different block options:
 | :--- | :--- |
 | **As first in** | **This creates and positions the component as the first item in the specified row, column or screen.** |
 | **As last in** | **This creates and positions the component as the last item in the specified row, column or screen.** |
-| **Before** | **This creates and positions the component before the component selected in the second dropdown menu.** |
-| **After** | **This creates and positions the component before the component selected in the second dropdown menu.** |
+| **Before** | **This creates and positions the component before the component selected in the third dropdown menu.** |
+| **After** | **This creates and positions the component before the component selected in the third dropdown menu.** |
 
 ## **The Component Item Block**
 
@@ -94,7 +94,7 @@ _Note: You cannot clone screens and invisible components with the clone block.
 
 With the first dropdown menu, you can select the component that you want to clone. 
 
-![](https://lh4.googleusercontent.com/SxyHlKnXjDUbsiT8Rdp4nTFAXd3wLembyqMBlZzKkbEybTJP43gIZ8vmeUzvE64C3pxlSAi_u3A5OaDptXr7BZ5YVED_B0t0hpa0_despnkBOa8hDaW5bMhfH6wKkCxMdMXbGT2q)
+![](.gitbook/assets/clone-+-first-drop-down%20%281%29.png)
 
 With the second dropdown menu, you can select where you want to position the cloned component on the app’s screen.  
 
