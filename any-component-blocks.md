@@ -26,7 +26,7 @@ With the second dropdown menu, you can choose when the changes to the properties
 
 If you want to customize a button that you clicked on the screen, you can use this block.
 
-![](.gitbook/assets/create-example%20%286%29.png)
+![](.gitbook/assets/create-example%20%289%29.png)
 
 With the blocks below, anytime a button is clicked, the text of that button will be set to “I Love Thunkable!”. 
 
@@ -48,7 +48,7 @@ This picture shows that when Screen1 Opens, your app will create a button and pu
 
 With the first dropdown menu, you can select what type of visible component you want to create. 
 
-![](.gitbook/assets/create-example%20%284%29.png)
+![](.gitbook/assets/create-example%20%286%29.png)
 
 With the second dropdown menu, you can select where you want to position the component you are creating on the app’s screen. 
 
@@ -56,7 +56,7 @@ _**Notes: The options in the third drop down will vary depending on which compon
   
 ****The following block creates a new button and places it as the first item on Screen1.
 
-![](.gitbook/assets/create-example%20%287%29.png)
+![](.gitbook/assets/create-example%20%2810%29.png)
 
 The table below explains the different block options:
 
@@ -69,7 +69,7 @@ The table below explains the different block options:
 
 ## **The Component Item Block**
 
-![](.gitbook/assets/create-example%20%285%29.png)
+![](.gitbook/assets/create-example%20%288%29.png)
 
 If you want to customize the component you just created, you can use this block. 
 
@@ -99,7 +99,7 @@ With the first dropdown menu, you can select the component that you want to clon
 With the second dropdown menu, you can select where you want to position the cloned component on the app’s screen.  
 
 
-![](https://lh3.googleusercontent.com/rLqoTsGe-zC2Zl96MxbvvMQD48CJb4ukYcG0MYFgSkjfp2Q0DwfVJzjouemBrNjqVk1rZPdgbZKYUX9pknCT4RmC04WVb6s10Kl_VuCx6-nMmnKpDNFgVuB9g2Eeueg2ctcS3pmB)
+![](.gitbook/assets/create-example%20%285%29.png)
 
 | **Property** | **Description** |
 | :--- | :--- |
@@ -112,11 +112,11 @@ With the second dropdown menu, you can select where you want to position the clo
 
 If you want to customize a cloned component, you can use this block. 
 
-![](https://lh5.googleusercontent.com/-b20oXnAVan71segMwzqIsEKJ742UWkECmmoiqJu1C-pv5LmatF5zo2IKTMpKnOSw4RP0Yenc7KZ1ArU11OMA6bZ6RTQ08LGHxwVhpyoy6EhSAWDP_4C0B9MVPJ3my70dBSyzGCs)
+![](.gitbook/assets/create-example%20%284%29.png)
 
 When Screen1 opens, these blocks will tell your app to clone Button2, and then set the clone’s text to be “I was just cloned!” \(Try this out for yourself [here](https://x.thunkable.com/copy/1b3d78230c9ce0d91ea6c47e22703800)\).
 
-![](https://lh6.googleusercontent.com/vfQCDREKgyEIs7OS24P-Pi9NAR7DLLwXmDAkRjyW_cfshHYhIHs6QAMNMukBxVV46muaJAUBfvJc1HX50ykEutJrSBOeXjP-L-2eKI7665dkyBRQPQHfVpQw8IT7w5MYeePFDPHu)
+![](.gitbook/assets/create-example%20%287%29.png)
 
 ![When any button is clicked, button1 is cloned and the text of the clone is changed to &#x201C;I was just cloned!&#x201D;](.gitbook/assets/clone-gif.gif)
 
