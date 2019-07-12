@@ -77,7 +77,7 @@ If you want to customize the component you just created, you can use this block.
 
 These blocks say, when any button on the screen1 is clicked, create a new button. Next, set the new button’s text to “I was just created!”. 
 
-![When any button on the screen is clicked, a new button is created at the top of the screen.](https://lh5.googleusercontent.com/GbFFVpRlI9mBg0Y7xyOurfoG0SpVJNFZMLQBgiU_jdFMEWT8nUE4N8rh8ps_4W6eDUCVx94FIj-c68l0TYkOVjz6dCwhRTfx-yAHJKZUGzWbuVioIJBlNWqOg9pDFCsVTeaNbZzb)
+![When any button on the screen is clicked, a new button is created at the top of the screen.](.gitbook/assets/create-block.gif)
 
 ## **What is the Clone Block?**
 
@@ -118,7 +118,7 @@ When Screen1 opens, these blocks will tell your app to clone Button2, and then s
 
 ![](https://lh6.googleusercontent.com/vfQCDREKgyEIs7OS24P-Pi9NAR7DLLwXmDAkRjyW_cfshHYhIHs6QAMNMukBxVV46muaJAUBfvJc1HX50ykEutJrSBOeXjP-L-2eKI7665dkyBRQPQHfVpQw8IT7w5MYeePFDPHu)
 
-![When any button is clicked, button1 is cloned and the text of the clone is changed to &#x201C;I was just cloned!&#x201D;](https://lh6.googleusercontent.com/BdLBswDu5oTEkhPlIEhaHcKTAvA6wMtVNpWaFjpURnRbppIzbLH1H-s6imEo1FNK1whwNFRiyMQ_0s1xcInyyDVHqjyBPPchnZfoxYYoINFA5Acq8j54N6f84vtuO9Oy6F_3i9A9)
+![When any button is clicked, button1 is cloned and the text of the clone is changed to &#x201C;I was just cloned!&#x201D;](.gitbook/assets/clone-gif.gif)
 
 ## **What is the Generic Method Block** 
 
