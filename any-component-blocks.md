@@ -32,7 +32,7 @@ With the blocks below, anytime a button is clicked, the text of that button will
 
 ![](https://lh5.googleusercontent.com/ZT_nI3goz0UxQKiTnAg04kG7gKIPGchospMupER54IF07XllFrzdr0GSlUr3yK-DxkN5ieL4IZcqfWJuvfhQHFYRCI9QnIOt5x6bI0GCGyjwQVgvKaGsfwjQD85vkXo_hg1Ov1Jz)
 
-![Anytime a button is clicked, the text of that button will be set to &#x201C;I Love Thunkable!&#x201D;. ](https://lh5.googleusercontent.com/Lg5G0zPoGFVuvVC78tQ11kmLdUM2lA7bCBPPbV5z579pXLcLDrmdNhDUuYdo-Dp7YpFChhMD1UApLU_5CJme6PKryzU7zVrKtxiZpWYIivEpugS9jJx-GFVxgvHNdunI87An8X3z)
+![Anytime a button is clicked, the text of that button will be set to &#x201C;I Love Thunkable!&#x201D;.](.gitbook/assets/generic-method-block%20%281%29.gif)
 
 ## **What is the Create Block?**
 
