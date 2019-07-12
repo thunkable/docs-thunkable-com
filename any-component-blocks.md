@@ -105,8 +105,8 @@ With the second dropdown menu, you can select where you want to position the clo
 | :--- | :--- |
 | **As first in** | **This clones the first item in the specified row, column or screen.** |
 | **As last in** | **This clones the last item in the specified row, column or screen.** |
-| **Before** | **This positions the cloned component before the component selected in the second dropdown menu.** |
-| **After** | **This positions the cloned component after the component selected in the second dropdown menu.** |
+| **Before** | **This positions the cloned component before the component selected in the third dropdown menu.** |
+| **After** | **This positions the cloned component after the component selected in the second third menu.** |
 
 ## **The Clone Item Block**
 
