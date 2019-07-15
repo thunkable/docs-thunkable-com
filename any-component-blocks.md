@@ -174,7 +174,7 @@ The Generic Get Block allows you to get properties \(such as text and color\) of
 
 You can use the dropdown menu to select the component whose text you want to get.
 
-![](https://lh6.googleusercontent.com/cYc7ZnqKZZRNP_CyfE3qrsXM6QSCCP2wdCH7Xx10DBFWmMei1SEkMhxBQR6gR488Y-JUSPAEAxVaE7Vi8RIUZYh0mJ9_-wwIPfryXu5VrxuJDUCiwx40d2j5TJ2lBEHFtLnefOem)
+![](.gitbook/assets/generic-get-block.png)
 
 ## **Using the Generic Get Block**
 
@@ -192,7 +192,7 @@ There are two ways to get the text of a component using the Generic Get Block.
 
 The ‘All Components in Container’ block groups together all the visible components in a container \(ie. Row, Column or Screen\) that are of the same type, in a list.
 
-![](.gitbook/assets/create-example-1%20%284%29.png)
+![](.gitbook/assets/all-components-in-container.png)
 
 In the block above, all of the buttons that are on Screen1 are stored in list.
 
@@ -224,12 +224,12 @@ There are two ways to delete a component using the Remove Block.
 
 The Component Block has a dropdown menu which lists all the components that are on the screen.
 
-![](.gitbook/assets/create-example-1.png)
+![](.gitbook/assets/component-block.png)
 
  You can select one of the components from the menu and use it within any of the blocks that have an input for a component. Some examples include: the clone, create or generic event block.  
 
 
-![](.gitbook/assets/create-example-1%20%281%29.png)
+![](.gitbook/assets/dropdown.png)
 
 ![](https://lh5.googleusercontent.com/J4J8BApN93zhp4IKv5V9CeWe8Tln8vUQrzRdIMP-cxkGK80Jx-zMxNB1bXLSIUWjNukKsUsNHLeoy9JljlQ_Eh5AYkOqIjWU0HePZkVmhrwqy5edlSggHMdRDcaKRIM5aphoIBxg)
 
