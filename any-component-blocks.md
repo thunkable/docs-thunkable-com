@@ -25,13 +25,13 @@ With the first dropdown menu, you can select what type of component you want to 
 
 With the second dropdown menu, you can choose when an event will take place. 
 
-![](.gitbook/assets/create-example%20%283%29.png)
+![](.gitbook/assets/create-example%20%285%29.png)
 
 ## **The Component Item Block**
 
 If you want to customize the button that you clicked on the screen, you can use this block.
 
-![](.gitbook/assets/create-example%20%2810%29.png)
+![](.gitbook/assets/create-example%20%2813%29.png)
 
 With these blocks, anytime a button is clicked, the text of that button will be set to “I Love Thunkable!”.
 
@@ -49,7 +49,7 @@ When you use the create block, your app will automatically create something. For
 
 This picture shows that when Screen1 Opens, your app will create a button and put it on Screen1.
 
-![](.gitbook/assets/create-example%20%2812%29.png)
+![](.gitbook/assets/create-example%20%2815%29.png)
 
 ## **Using the Create Block**
 
@@ -84,7 +84,7 @@ _**Note: You can replace the third dropdown with any block that represents a vis
 
 If you want to customize the component you just created, you can use this block.
 
-![](.gitbook/assets/create-example%20%284%29.png)
+![](.gitbook/assets/create-example%20%286%29.png)
 
 These blocks say, when any button on the screen1 is clicked, create a new label. Next, set the new label’s text to “I was just created!”.   
  
@@ -109,7 +109,7 @@ With the first dropdown menu, you can select the component that you want to clon
 
 With the second dropdown menu, you can select where you want to position the cloned component relative to another component on the app’s screen.
 
-![](.gitbook/assets/create-example%20%286%29.png)
+![](.gitbook/assets/create-example%20%288%29.png)
 
 | **Property** | **Description** |
 | :--- | :--- |
@@ -124,32 +124,33 @@ _**Note: The options in the third drop down will vary depending on which compone
 
 If you want to customize a cloned component, you can use this block. 
 
-![](.gitbook/assets/create-example%20%285%29.png)
+![](.gitbook/assets/create-example%20%287%29.png)
 
 When Screen1 opens, these blocks will tell your app to clone Button2, and then set the clone’s text to be “I was just cloned!” \(Try this out for yourself [here](https://x.thunkable.com/copy/1b3d78230c9ce0d91ea6c47e22703800)\).
 
-![](.gitbook/assets/create-example%20%288%29.png)
+![](.gitbook/assets/create-example%20%2811%29.png)
 
 ![When any button is clicked, button1 is cloned and the text of the clone is changed to &#x201C;I was just cloned!&#x201D;](.gitbook/assets/clone-gif.gif)
 
 ## **What is the Generic Method Block** 
 
-The Generic Method block allows you to use the functions of a component without having to drag it out of the designer. 
+The Generic Method Block can be used to call functions for components that were made with the clone or create blocks. 
 
-![](https://lh3.googleusercontent.com/2S_jvnCPcEYAsF4UNg0ur7PmVkQQvFao6FnzBa4AEwqvlqJNm52IhI-0ootZSo6VUhapr61gn3EZf1_oUXmo83HibF1xdCTkshmSSGHi577RKy-OHNUX8DuY5H2GcMzXJte3so7d)
+![](.gitbook/assets/create-example%20%2810%29.png)
 
-The blocks above say that when Screen1 opens, use the Web Viewer component and call its reload function. 
+The blocks above say that when Button1 is clicked, create a Web Viewer component and call the reload function for it.
 
 ## **Using the Generic Method Block**
 
 With the first dropdown menu, you can select the component you want to call a function for. 
 
-![](https://lh6.googleusercontent.com/NizKA2E1g5TK3Ewj1SDu05TNFxaHbA4pPn3ViQL0HsACyA36DAIOIDCYyLKQ4vHtG8PflWt9n58bGtPV53hlzn1bqXkHZQFdBwEaVPbewikciPNpx8hw1hW214M5OK8RSUa-Y6FV)
+![](.gitbook/assets/create-example-copy.png)
 
 The second dropdown menu allows you to select which function you want to call.
 
- ![](https://lh4.googleusercontent.com/CymmFwb2McoFKo9YKRvNKMCPbC3gAHaGutaQ3yumJomUxgBdED6Z62CTXzAulqbT5iYF0yw37I6iJjmly4rZY12mq_WYEzZ4bjbB6YLYtsAP80Iv5LJEQYPnAMclu5VvZdk2JY-F)  
-****_**Note: The options in the second drop down will vary depending on which component you select from the first dropdown.**_
+![](.gitbook/assets/create-example-copy-2.png)
+
+_**Note: The options in the second drop down will vary depending on which component you select from the first dropdown.**_
 
 ## What is the Generic Set Block?
 
@@ -159,12 +160,11 @@ Using the Generic Set Block
 
 There are two ways to change the text of a component using the Generic Set Block.
 
-1. Use the dropdown menu to select the component whose text you want to set  
+1. Use the dropdown menu to select the component whose text you want to set 
 
+![](.gitbook/assets/create-example%20%281%29.png)
 
-   ![](https://lh5.googleusercontent.com/JCy1KpxK0e9EVMGgrEilJtcEkj0kYQ-AR27buAWADl-32OLzHFCcZ_RDgcTC57gWSRclhIybtjooPaczoJm6bP0jXLQLU2N7ubEhbgg-Lyl4w3mhQVkeOmFcjiiU8x68YmqL-6FL)
-
-2. You can use the Component Item Block with the Generic Set Block to change the text of the component that was clicked.
+2. You can use the Component Item Block with the Generic Set Block     to change the text of the component that was clicked.
 
 ![](https://lh6.googleusercontent.com/T5wDUmFZr7jyQCK-7zhwA55BatIOoqIUAhjJ78J2Pme6_0zmCkeeKDS3zrA6kiQORzJ53KStvzleMBnpyldHg0doGwZTUG72e0Nk4Ix6EhQbYj0QDMdCBKEXXwG-g1oCPHTxLTzb)
 
