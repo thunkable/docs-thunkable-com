@@ -222,11 +222,11 @@ There are two ways to delete a component using the Remove Block.
 
 ## **The Component Block**
 
+The Component Block has a dropdown menu which lists all the components that are on the screen.
+
 ![](.gitbook/assets/create-example-1.png)
 
-The Component Block has a dropdown menu which lists all the components that are on the screen. 
-
-You can select one of the components from the menu and use it within any of the blocks that have an input for a component. Some examples include: the clone, create or generic event block.  
+ You can select one of the components from the menu and use it within any of the blocks that have an input for a component. Some examples include: the clone, create or generic event block.  
 
 
 ![](.gitbook/assets/create-example-1%20%281%29.png)
