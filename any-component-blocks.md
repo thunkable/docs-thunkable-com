@@ -150,7 +150,7 @@ The second dropdown menu allows you to select which function you want to call.
 
 ![](.gitbook/assets/create-example-copy-2.png)
 
-_**Note: The options in the second drop down will vary depending on which component you select from the first dropdown.**_
+_**Notes: The options in the second drop down will vary depending on which component you select from the first dropdown. Also, the component you plug-in needs to be of the same type as the one in the first dropdown.**_
 
 ## What is the Generic Set Block?
 
