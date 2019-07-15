@@ -76,7 +76,7 @@ The table below explains the different block options:
 | **Before** | **This creates and positions the component before the component selected in the third dropdown menu.** |
 | **After** | **This creates and positions the component after the component selected in the second dropdown menu.** |
 
-_**Note: You can replace the third dropdown with any block that represents a visible component using the component block.**_
+_**Note: You can replace the third dropdown with any block that represents a visible component using the component block. It can also be a variable function parameter, or any block whose value is a component.**_
 
 ## **The Component Item Block**
 
