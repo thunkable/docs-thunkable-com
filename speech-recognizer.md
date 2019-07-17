@@ -21,16 +21,27 @@ The Speech Recognizer component can translate a full phrase or in real-time as a
 | :--- | :--- |
 | Listen with Partial Result  \(`speech`\) | Returns a text `partialResult` in real-time as a phrase is being spoken. The Speech Recognizer stops listening after it stops detecting any sound. |
 
-## Properties
+## Languages Supported
 
-At the moment there is only one property for the SpeechRecognizer. You can set the `DefaultLanguage` to be the language that your end user speaks. The following languages are supported.
+At the moment there is only one property for the SpeechRecognizer. You can set the `DefaultLanguage` to be the language that your end user speaks. The following languages are supported:
 
 * Arabic
 * Chinese\_China
 * Chinese\_HongKong
 * Chinese\_Taiwan
-* Dutch
 * English
+* Dutch
 * English\_GB
 * English\_US
+* French
+* German
+* Hindi
+* Italian
+* Japanese
+* Korean
+* Portuguese
+* Portuguese\_Brazil
+* Russian
+* Spanish
+* Ukrainian
 

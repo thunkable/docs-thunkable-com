@@ -1,43 +1,67 @@
+---
+description: The label component allows you to display text in your app.
+---
+
 # Label
 
 * [Style the Label](label.md#style-the-label)
 * [Edit the Label size](label.md#edit-the-label-size)
 * [Add spacing](label.md#add-spacing)
 
-> On Thunkable Classic Android, Labels were often used to add spacing to an app but that's no longer necessary with the spacing properties available in most visible components on Thunkable Cross Platform ✕. [Learn more about spacing here](intro-to-spacing.md)
-
 ## Style the Label
 
-| Property | Description |
-| :--- | :--- |
-| Text | Default \(`Label`\); Text of the label |
-| Color | Default \(`#007AFF`\); Color of the text that appears in the label |
-| Font Size | Default \(`14`\); Size of the optional text that appears on the button |
-| Font Weight | Default \(`Normal`\); Thickness of the font from `Normal, Bold, 100, 200, 300, 400, 500 . . . 900` where `100` is the thinnest |
-| Font Style | Default \(`Normal`\); You can set the text font to be _`italic`_ |
-| Text Align | Default \(`Auto`\); You can also set the horizontal alignment of the text in the label to be `Left`, `Right`, `Center` and `Justify` |
-| Background Color | Default \(`none`\); Sets the background color of the label |
-| Border | Default \(`none`\); You can set the `width`, `color` and `style` of the border around the label |
+You can customize your label using the following properties: 
+
+* **Text:** Text that appears on the label
+* **Font Size:** Size of the text that appears on the label
+* **Color:** Color of the text that appears on the label
+* **Background Color:** Sets the background color of the label
+* **Font Style**
+  * **Normal:** Default text display
+  * **Italic:** Display the text in italics
+* **Font Weight:** Select how bold the text on the label will be
+* **Text Align**
+  * **Auto -** Aligns the text automatically
+  * **Left -** Displays the text starting from the left of the label
+  * **Right -** Displays the text starting from the right of the label
+  * **Center -** Displays the text starting from the middle of the label
+  * **Justify -** Aligns both the right and left side of the text equally
+* **Visible:** To see the label in your app, set the switch to true
+* **Border**
+  * **Width:** Enter how wide you want the border outline of the label to be
+  * **Color:** Pick a color for the border of the label
+  * **Style:** Select if you want the border of the label to be a dotted, dashed or solid line
+  * **Radius:** Enter how round you want the edges of the border for the label to be
 
 ## Edit the Label size
 
-If the text in your label is more than a single line, we recommend that you set the Height to `Fit contents`
+You can set how tall the label is using the height property and set how wide the label is using the width property.
 
-For more information on sizing in your app, please see our [introduction here​](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/intro-to-sizing)
+**Height**
 
-| Property | Description |
-| :--- | :--- |
-| Height | Default \(`25 pixels`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
-| Width | Default \(`Fit contents`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
+* **Fill container -** The label fills the entire screen vertically
+* **Fit contents -** The  label’s height changes to be the size of the contents it contains
+* **Relative size -** The label fills the specified percentage of the screen
+* **Absolute size -** Sizes the label to a specified number of pixels
+
+**Width**
+
+* **Fill container -** The label fills the entire screen horizontally
+* **Fit contents -** The  label’s width changes to be the size of the contents it contains
+* **Relative size -** The label fills the specified percentage of the screen
+* **Absolute -** Sizes the label to a specified number of pixels
+
+_Note: If the text in your label is more than a single line, we recommend that you set the Height to `Fit contents`_
 
 ## Add spacing
 
-For more information on adding spacing in your app, please see our [introduction here](intro-to-spacing.md)
+You change the spacing and positioning of the label with the Margin and Padding properties. 
 
-To find the spacing properties, you'll have to select the `Advanced` tab
+**Margin**
 
-| Property | Description |
-| :--- | :--- |
-| Margin `Advanced` | Default \(`none`\); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
-| Padding `Advanced` | Default \(`none`\); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
+* You can specify how much space you want between the edges of the label and the screen using either pixel or percent values.
+
+**Padding**
+
+* You can specify how much space you want between the border and contents of the label using either pixel or percent values.
 

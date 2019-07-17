@@ -1,6 +1,10 @@
+---
+description: The image component lets you display pictures in your app.
+---
+
 # Image
 
-The Image components lets you reference pictures added to your app or on the web and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](photo-library.md), [Image Recognizer](image-recognizer.md) and [Media DB](media-db.md)
+The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](photo-library.md), [Image Recognizer](image-recognizer.md) and [Media DB](media-db.md)
 
 * [Set Image](image-1.md#set-image)
 * [Edit Image size](image-1.md#edit-image-size)
@@ -11,56 +15,67 @@ The Image components lets you reference pictures added to your app or on the web
 
 ## Set Image
 
-### Take picture with Camera and set Image
+There are a few ways you can display an image in your app:  
+****
 
-![](.gitbook/assets/image-fig-2.png)
+1. **Upload a picture to your app**  ![](https://lh3.googleusercontent.com/q4lZ_0EQDXPqxKesgd0G61kHJBrFWxqGkZWJpBw6Bz3qy39OdFVIN-JtL1f-fiJsBnGYD0Y8QFGlEbMnC9PewzAe0jHO7LhXh60vkt3-x0za-r-VIKyvPJfMfu7EACxpHKyYkX4T) 
+2. **Provide a link to the image**  ![](https://lh6.googleusercontent.com/Qgxd14OTm3vZowwQsZ6-2uE2UozbUonGywxOOkr3Pozhia7jNDIw9_o-1CxsfEtynzkusC87RG9sCIcfsvzQ_3YGDvN6nZcG1hOVGbFhdQRN2FHmPQbYEBYgNDfFgL2v3x2kAauW) 
+3. **Take a picture with the Camera component**
 
-| Property | Description |
-| :--- | :--- |
-| Picture | You can upload an image to your app, reference an image url e.g. `beaver-yellow.png`, or set your picture with another component like the Camera |
+![](https://lh6.googleusercontent.com/3NGhjTG3vkioCAOKtCmSRwiBuxf9VGtPdu6X60Nx6yZGMMMRtlDc7mZDQcr2fL1PpCFfd-WBcx4zAymckUVtzOJx3P_wLspnshq6UYMAJKVCLsMfusYXAjS9neKBrgGoGspaCPBw)
+
+The blocks above open up your phone’s camera and set the Image component to the picture that you took. 
 
 ## Edit Image size
 
-Sizing your Image requires setting the area of your app you want the Image to cover and resizing the Image to fit into that area
+You can set how tall the Image is using the height property and set how wide it is using the width property.
 
-For more information on sizing in your app, please see our [introduction here​](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/intro-to-sizing)
+**Height**
 
-### Setting the area of your app the Image covers
+* **Fill container -** The Image fills the entire screen vertically
+* **Fit contents -** The Image’s height changes to fit the contents it contains
+* **Relative size -** The Image fills the specified percentage of the screen
+* **Absolute size -** Sizes the Image to a specified number of pixels
 
-{% hint style="info" %}
-There is currently a bug that does not show your Image when the height or width is set to `Fit contents` We will fix it soon!
-{% endhint %}
+**Width**
 
-| Property | Description |
-| :--- | :--- |
-| Height | Default \(`40%`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
-| Width | Default \(`85%`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
+* **Fill container -** The Image fills the entire screen horizontally
+* **Fit contents -** The Image’s width changes to fit the contents it contains
+* **Relative size -** The Image fills the specified percentage of the screen
+* **Absolute -** Sizes the Image to a specified number of pixels
+
+
 
 ### Resizing the Image
 
-Due to different screen sizes and pixel densities, it is nearly impossible for you to size your image to exactly fit the area both in terms of dimensions and pixel density. This is where the resize property comes into play
-
 ![](.gitbook/assets/image-fig-3.png)
 
-| Property | Description |
-| :--- | :--- |
-| Resize mode | Default \(`contain`\); Five options: 1\) `Contain` resizes to fit the area regardless of image quality or 2\) `Center` centers the image and sizes it to its image quality  3\) `Cover` resizes image to its max height or width regardless of image quality and crops the other dimension, 4\) `Repeat` repeats the image at its original image quality as many times as possible within the image area, 5\) `Stretch` stretches the image to the image area |
+With the Resize Mode property, you can do the following:
+
+* **Cover:** Resizes the picture to its max height or width regardless without changing the image quality.
+* **Contain:** Resizes the picture to fit the area without changing its quality
+* **Stretch:** The picture’s height will change to fill the image component length-wise
+* **Repeat:** Repeats the picture at its original quality within the image component area
+* **Center:** Positions the picture in the middle of the image component
 
 ## Style the Image
 
-| Property | Description |
-| :--- | :--- |
-| Border | Default \(`none`\); You can set the `width`, `color` and `style` of the button border |
-| Background Color  `Advanced` | Default \(`none`\); Sets the background color of the Image \(if there is space not covered by the image\) |
+You can style the image with the following properties:
+
+* **Border**
+  * **Width:** Enter how wide you want the border outline of the image to be 
+  * **Color:** Pick a color for the border of the image
+  * **Radius:** Enter how round you want the edges of the border for the image to be ****
 
 ## Add spacing
 
-For more information on adding spacing in your app, please see our [introduction here](intro-to-spacing.md)
+You can change the spacing and positioning of the Image with the Margin and Padding properties.
 
-To find the spacing properties, you'll have to select the `Advanced` tab
+**Margin**
 
-| Property | Description |
-| :--- | :--- |
-| Margin `Advanced` | Default \(`none`\); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
-| Padding `Advanced` | Default \(`none`\); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
+* You can specify how much space you want between the edges of the image and the screen using either pixel or percent values.
+
+**Padding**
+
+* You can specify how much space you want between the border and the contents of the image using either pixel or percent value. 
 

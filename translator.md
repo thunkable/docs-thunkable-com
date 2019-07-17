@@ -20,7 +20,7 @@ There is no set-up required since Thunkable provides its own key to access the Y
 
 ## Translate
 
-The blocks below translate a text from a Text Input and display the results as a label
+The blocks below translate a text from a Text Input and display the results as a label on the app's screen.
 
 ![](.gitbook/assets/translator-yandex-fig-1.png)
 

@@ -21,6 +21,15 @@ We recommend using a Label with the Slider so that users can get immediate feedb
 
 ## Style the Slider
 
+* **Minimum Track Tint Color:** Color of the slider track to the left of the thumb
+* **Maximum Track Tint Color:** Color of the slider track to the right of the thumb
+* **Thumb Tint Color \(Android only\):** Color of the thumb
+* **Border:** 
+  * **Width:** Enter how wide you want the border outline of the Slider to be
+  * **Color:** Pick a color for the border of the Slider
+  * **Style:** Select if you want the border to be a dotted, dashed or solid line
+  * **Radius:** Enter how round you want the edges of the border for the Slider to be
+
 | Property | Description |
 | :--- | :--- |
 | Minimum Track Tint Color | Default \(`none`\); Color of the slider track to the left of the thumb |
@@ -30,21 +39,31 @@ We recommend using a Label with the Slider so that users can get immediate feedb
 
 ### Edit the Slider size
 
-For more information on sizing in your app, please see our [introduction here​](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/intro-to-sizing)
+You can set how tall the Slider is using the height property and set how wide it is using the width property.
 
-| Property | Description |
-| :--- | :--- |
-| Height | Default \(`Fit contents`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent of Screen, 4\)`Absolute size`in pixels |
-| Width | Default \(`Fit contents`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent of Screen, 4\)`Abso` |
+**Height**
+
+* **Fill container -** The Slider fills the entire screen vertically
+* **Fit contents -** The Slider’s height changes to fit the contents it contains
+* **Relative size -** The Slider fills the specified percentage of the screen
+* **Absolute size -** Sizes the Slider to a specified number of pixels
+
+**Width**
+
+* **Fill container -** The Slider fills the entire screen horizontally
+* **Fit contents -** The Slider’s width changes to fit the contents it contains
+* **Relative size -** The Slider fills the specified percentage of the screen
+* **Absolute -** Sizes the Slider to a specified number of pixels
 
 ## Add spacing
 
-For more information on adding spacing in your app, please see our [introduction here](intro-to-spacing.md)
+You change the spacing and positioning of the Slider with the Margin and Padding properties.
 
-To find the spacing properties, you'll have to select the `Advanced` tab
+**Margin**
 
-| Property | Description |
-| :--- | :--- |
-| Margin `Advanced` | Default \(`none`\); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
-| Padding `Advanced` | Default \(`none`\); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
+* You can specify how much space you want between the border and the contents of Slider using either pixel or percent values.
+
+**Padding**
+
+* You can specify how much space you want between the edges of the Slider and the screen using either pixel or percent values.
 

@@ -1,3 +1,7 @@
+---
+description: The text to speech simply takes in text and reads it out loud.
+---
+
 # Text to Speech
 
 * [Select spoken language](text-to-speech.md#select-spoken-language)

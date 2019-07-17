@@ -1,3 +1,7 @@
+---
+description: The sound component does exactly that. It plays a sound.
+---
+
 # Sound
 
 * [Set Sound source](sound.md#set-sound-source)
@@ -5,7 +9,7 @@
 
 ## Set Sound source
 
-To use the sound component, select either a locally stored sound file or reference one stored in the cloud
+To play a sound, you need to upload it to the files section on Thunkable.
 
 | Property | Description |
 | :--- | :--- |

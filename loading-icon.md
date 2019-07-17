@@ -13,7 +13,11 @@ For activities that take more than a few seconds, loading icons can be helpful t
 
 ## Showing and hiding the loading icon
 
-The loading icon should be displayed when the app is performing an activity in the background and hidden when it is not. One way to show and hide the icon is to use the `visible` property of the component.
+The loading icon should be displayed when the app is performing an activity in the background and hidden when it is not. 
+
+One way to show and hide the icon is to use the `visible` property of the component.
 
 ![Loading icon shows up when the app opens but disappears after data is retrieved from a Spreadsheet](.gitbook/assets/screen-shot-2019-04-02-at-11.51.13-am.png)
+
+When the visibility is set to true, the loading icon will be seen on the app screen. If set to false, the loading icon will not be seen on the app screen.
 

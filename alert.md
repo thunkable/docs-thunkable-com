@@ -40,7 +40,7 @@ If you want to start an event from a confirm button, you will want to add the bl
 
 ## Alert with three or more buttons
 
-Using the `Advanced` properties, it is possible to add add'l buttons to an alert for more sophisticated use cases
+Using the `Advanced` properties, it is possible to add buttons to an alert for more sophisticated use cases
 
 ![A three button alert with ](.gitbook/assets/thunkable-docs-exhibits-16.png)
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  With the Web Viewer component, you can open up any website within your app to
+  display.
+---
+
 # Web Viewer
 
 * [Set URL](web-viewer.md#set-url)
@@ -8,29 +14,43 @@
 
 ## Set URL
 
-| Property | Description |
-| :--- | :--- |
-| URL | Accepts website or image urls that must include `https://` or `http://`. Can also accept `.html` files that have been uploaded to the app \(great for offline use\) |
+To open up a website in your app, you need to provide  the Web Viewer with a URL. 
 
-The Web Viewer currently permits full-screen viewing of videos on iOS only
+A URL is kind of like a street address - it tells the web viewer the location of the website on the internet.
+
+* **URL:** Enter in the link to the website or an image. The URL must include https:// or http://. 
+
+![With the blocks above, www.thunkable.com will be opened up on screen 1 through the web viewer.](https://lh3.googleusercontent.com/pq73qQKNcE8WrSuzlfxWegp-3PZHhi7nx2_5_I46yhSDwbuw0nHJfnciHrsv2fapyWIshJnhiT8wfzQOgvmcf7uX__pPl4i0EYDXyBYQLnndkdnzqo89ktouyJcEHtivRT_1X1Xz)
+
+_Note: Can also accept .html files that have been uploaded to the app \(great for offline use\). Additionally, t_he Web Viewer currently permits full-screen viewing of videos on iOS only
 
 ## Edit Web Viewer size
 
-For more information on sizing in your app, please see our [introduction here​](intro-to-sizing.md)
+You can set how tall the Web Viewer is using the height property and set how wide it is using the width property.
 
-| Property | Description |
-| :--- | :--- |
-| Height | Default \(`Fill container`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent of Screen, 4\)`Absolute size`in pixels |
-| Width | Default \(`Fill container`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent of Screen, 4\)`Abso` |
+**Height**
+
+* **Fill container -** The Web Viewer fills the entire screen vertically
+* **Fit contents -** The Web Viewer’s height changes to fit the contents it contains
+* **Relative size -** The Web Viewer fills the specified percentage of the screen
+* **Absolute size -** Sizes the Web Viewer to a specified number of pixels
+
+**Width**
+
+* **Fill container -** The Web Viewer fills the entire screen horizontally
+* **Fit contents -** The Web Viewer’s width changes to fit the contents it contains
+* **Relative size -** The Web Viewer fills the specified percentage of the screen
+* **Absolute -** Sizes the Web Viewer to a specified number of pixels
 
 ## Add spacing
 
-For more information on adding spacing in your app, please see our [introduction here](intro-to-spacing.md)
+You change the spacing and positioning of the Web Viewer with the Margin and Padding properties. 
 
-To find the spacing properties, you'll have to select the `Advanced` tab
+**Margin**
 
-| Property | Description |
-| :--- | :--- |
-| Margin `Advanced` | Default \(`none`\); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
-| Padding `Advanced` | Default \(`none`\); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
+* You can specify how much space you want between the border and the contents of Web Viewer using either pixel or percent values.
+
+**Padding**
+
+* You can specify how much space you want between the edges of the Web Viewer and the screen using either pixel or percent values.
 

@@ -1,4 +1,12 @@
+---
+description: >-
+  Think of a Light Switch. It has two settings, On and Off. That is exactly what
+  the switch component is like.
+---
+
 # Switch
+
+A switch is a component that has two settings, true and false. You can get your app to do specific tasks only if the switch is set to true. 
 
 * [Set up](switch.md#set-up)
 * [Style the Switch](switch.md#style-the-switch)
@@ -19,9 +27,9 @@ To enable the Switch, you'll have to use the block below to set the Switch `valu
 
 ## Style the Switch
 
-| Properties | Description |
-| :--- | :--- |
-| Tint Color | Color of the switch track when switch set to off |
-| On Tint Color | Color of the switch track when switch set to on |
-| Thumb Tint Color | Color of the switch thumb |
+You can customize the switch with the following properties:
+
+* **Tint Color:** Color of the switch track when switch is set to off
+* **On Tint Color:** Color of the switch track when switch set to on 
+* **Thumb Tint Color:** Color of the switch thumb
 

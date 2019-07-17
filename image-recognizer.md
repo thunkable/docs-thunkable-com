@@ -1,3 +1,9 @@
+---
+description: >-
+  The image recognizer lets you take a picture and returns a one-line
+  description for what’s happening in the picture you took.
+---
+
 # Image Recognizer
 
 * [Set up](image-recognizer.md#set-up)

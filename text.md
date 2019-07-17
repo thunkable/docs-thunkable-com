@@ -12,11 +12,7 @@ The most basic but most often used text block is below
 
 Often, you'll want to join text values together with the block below
 
-![](.gitbook/assets/blocks-text-fig-7%20%281%29.png)
-
-| ![](.gitbook/assets/blocks-text-fig-11.png) |
-| :--- |
-
+![The blocks above say that when Screen1 opens, set the text of Label1 to be &quot;hello world&quot;.](.gitbook/assets/image%20%2858%29.png)
 
 ## Reformat text
 
@@ -33,10 +29,6 @@ When you import data from a database or API, you may need to reformat it and the
 | ![](.gitbook/assets/blocks-text-fig-15.png) |
 | :--- |
 
-
-The block below will help you add additional text to a list of items
-
-![](.gitbook/assets/blocks-text-fig-3.png)
 
 ## Analyze text
 

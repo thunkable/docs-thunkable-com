@@ -1,3 +1,9 @@
+---
+description: >-
+  With the camera component, you can open up your phone’s camera to take a
+  picture.
+---
+
 # Camera
 
 * [Take Photo](camera.md#take-photo)
@@ -6,9 +12,13 @@
 
 ## Take Photo
 
-![](.gitbook/assets/camera-fig-2.png)
+The camera block has three outputs:
 
-| Property | Description |
-| :--- | :--- |
-| Take Photo \(`Photo`, `DidUserCancel`, `Error`\) | Opens the camera and saves the `Photo` after the user takes a picture. `DidUserCancel` is either 'true' or 'false' depending on whether or not the user cancelled taking a photo. `Error` is the error message if there was an error in taking the photo. |
+ **i\) Photo:** This saves the photo taken by the user.
+
+**ii\) DidUserCancel:** This is either true or false depending on whether the user cancelled taking the picture
+
+**iii\) Error:** Indicates if there was an error when the photo was taken
+
+![The blocks below say that when Button1 is clicked, open the camera. Then set the photo taken to be the picture displayed on the screen. ](https://lh4.googleusercontent.com/8heKZ_1gASVYkGgBwyIzqEf5XYjKzZTmZM3oPIJtNSVqD9XjEfUWzsu5XI4qa3fQUhE0vCmMaXxBxhbYZwltlRrArZCWs9DfFA1A3LSdxfBNRqvMQNhtploWHnvIOiFbFUp-kJMi)
 

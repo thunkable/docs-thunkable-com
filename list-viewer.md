@@ -1,3 +1,9 @@
+---
+description: >-
+  The List Viewer component allows you to add, view and click on items in a
+  list.
+---
+
 # List Viewer
 
 * [Add items to a List Viewer](list-viewer.md#add-items-to-a-list-viewer)
@@ -32,30 +38,39 @@ For longer lists, we recommend using the [Spreadsheet](spreadsheet.md) component
 
 ## Style the List Viewer
 
-| Property | Description |
-| :--- | :--- |
-| Show Arrow | Default \(`true`\); If `true,`shows an arrow with each list item |
-| Background Color | Default \(`none`\); Sets the background color of the List Viewer |
-| Background Picture | Default \(`none`\); Optional background picture that appears in the List Viewer |
+You can customize the List Viewer with the following properties:
+
+* **Show Arrow:** To see an arrow beside each item in the list, set the switch to true
+* **Visible:** To see the text input in your app, set the switch to true
+* **Border**
+  * **Width:** Enter how wide you want the border outline of the List Viewer to be
+  * **Color:** Pick a color for the border of the List Viewer
+  * **Style:** Select if you want the border to be a dotted, dashed or solid line
+  * **Radius:** Enter how round you want the edges of the border for the List Viewer to be
+* **Background Colour \(Advanced\):** Sets the background color of the List Viewer
 
 ## Edit the ListViewer height
 
 A List Viewer automatically fill 100% of the Screen width
 
-For more information on sizing in your app, please see our [introduction here​](intro-to-sizing.md)
+You can set how tall the List Viewer is using the height property.
 
-| Property | Description |
-| :--- | :--- |
-| Height | Default \(`Fill container`\); Four options: 1\)`Fit contents`which auto-sizes to the content size or 2\)`Fill container`which auto-sizes to the container 3\)`Relative size`in percent of Screen, 4\)`Absolute size`in pixels |
+**Height**
+
+* **Fill container -** The List Viewer fills the entire screen vertically
+* **Fit contents -** The List Viewer’s height changes to fit the contents it contains
+* **Relative size -** The List Viewer fills the specified percentage of the screen
+* **Absolute size -** Sizes the List Viewer to a specified number of pixels
 
 ## Add spacing
 
-For more information on adding spacing in your app, please see our [introduction here](intro-to-spacing.md)
+You change the spacing and positioning of the List Viewer with the Margin and Padding properties.
 
-To find the spacing properties, you'll have to select the `Advanced` tab
+**Margin**
 
-| Property | Description |
-| :--- | :--- |
-| Margin `Advanced` | Default \(`none`\); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
-| Padding `Advanced` | Default \(`none`\); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
+* You can specify how much space you want between the border and the contents of List Viewer using either pixel or percent values.
+
+**Padding**
+
+* You can specify how much space you want between the edges of the List Viewer and the screen using either pixel or percent values.
 
