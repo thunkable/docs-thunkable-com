@@ -12,6 +12,12 @@ Component updates
 
 * Screen Orientation
 
+## Jul 15, 2019
+
+New blocks
+
+* "[Any Component](any-component-blocks.md)" - create and clone visible components e.g. Labels, Images, Buttons in your app on the fly. Very helpful for data-driven apps where the number of components matches the data that it is linked to e.g. a photo-sharing or chat apps and should reduce the number of blocks in many cases
+
 ## Jun 26, 2019
 
 New components
