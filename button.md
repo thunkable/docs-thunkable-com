@@ -1,7 +1,7 @@
 ---
 description: >-
-  When you tap on the play icon to hear your favourite music on your phone, you
-  are using a button.
+  When you tap on the play icon to hear your favourite music, you are using a
+  button.
 ---
 
 # Button
