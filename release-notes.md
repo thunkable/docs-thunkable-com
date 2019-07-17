@@ -12,6 +12,12 @@ Component updates
 
 * Screen Orientation
 
+Platform updates
+
+* Translation into Chinese 中文 \(more languages to come in the future\)
+* Tooltips
+* Ability to copy / duplicate components and their properties
+
 ## Jul 15, 2019
 
 New blocks
