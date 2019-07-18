@@ -2,31 +2,7 @@
 
 Thunkable is building the world's largest gallery of open sourced apps to help inspire you and save you time.
 
-Below are a few of our favorites with more to come. Feel free to customize them for your own use and share them with `#MadewithThunkable`!
-
-## New & Exciting <a id="beginner"></a>
-
-This section is reserved for apps that we think are breaking ground in either app design, technology or in a new problem space being addressed. 
-
-### Presidential Leaning <a id="beaver-bingo"></a>
-
-#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5ce8607cfc142a9350a1af18) **\|** [**Customize**](http://bit.ly/2F9YOpb) **\|** [**See Inside**](https://x.thunkable.com/projects/5ce8607cfc142a9350a1af18/openProject/designer)\*\*\*\*
-
-What if polling was done by app \(instead of telephone poll\)? Ahead of the US presidential elections, this simple polling app tracks how the leading candidates are resonating with anyone who has the app. Each app user is limited to one vote per day, and the app saves each voter's preference from one day to the next. The results refreshes itself every day powered by [cloud variables](variables.md#for-cloud-variables-updating-when-the-cloud-database-changes) and a [free private Firebase real-time database](realtime-db.md#create-your-free-firebase-project-and-account) and data over time is logged in a [spreadsheet](spreadsheet.md) powered by Airtable.
-
-`#firebase` `#realtimedb` `#cloudvariables` `#spreadsheet` `#airtable`
-
-![The app so far seems to trend with the actual polling results, with much less of the work](.gitbook/assets/thunkable-docs-exhibits-17.png)
-
-### Dad Advice \(in Any Language\) <a id="beaver-bingo"></a>
-
-#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cfec5e7571571b651a3274b) **\|** [**Customize**](http://bit.ly/2Zk5tF1) **\|** [**See Inside**](https://x.thunkable.com/projects/5cfec5e7571571b651a3274b/1338101c-8a9e-4e93-b7e4-46c2c61efc6c/designer)\*\*\*\*
-
-What if you could internationalize your content into 93 different languages with little additional effort? This app takes content created by Refinery29 and automatically translates it to the user's desire language \(thanks to the [Translator](translator.md) component powered by Yandex\) and then speaks it aloud in that language \(powered by the [Text to Speech](text-to-speech.md) component\).
-
-`#localdb` `#translator` `#yandex` `#texttospeech` `#accelerometer`
-
-![It turns out fatherly advice comes in many different forms](.gitbook/assets/thunkable-docs-exhibits-18.png)
+Below are a few of our favorites with more to come. Feel free to customize them for your own use and share them with `#MadewithThunkable`
 
 ## Family & Friends <a id="beginner"></a>
 
