@@ -137,16 +137,6 @@ Simple website wrapper app with a multi-image branding screen, a social media ba
 
 ![Notify your most loyal customers of sales with push notifications](.gitbook/assets/thunkable-docs-exhibits-26%20%281%29.png)
 
-### Credit Card Reader <a id="beaver-bingo"></a>
-
-#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cba08b994f2be770bdfce63) **\|** [**Customize**](http://bit.ly/2XSeowR) **\|** [**See Inside**](https://x.thunkable.com/projects/5cba08b994f2be770bdfce63/project/properties/designer/)\*\*\*\*
-
-Simple point of sale for accepting credit cards on your mobile device powered by Stripe. Stripe + Thunkable charges a 2.9% + $0.30 per transaction for PRO members \(4.9% + $0.30 per transaction for Non-PRO members\). [Follow the instructions here](payment.md) to create and connect your Stripe account.
-
-`#payment` `#stripe` `#timer` 
-
-![PRO members are only charged the minimum 2.9% + $0.30 per transactions](.gitbook/assets/thunkable-docs-exhibits-28.png)
-
 ### Reimburse Me <a id="beaver-bingo"></a>
 
 #### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cbe4ef9c6bd9a464a5fd893) **\|** [**Customize**](http://bit.ly/2XT9zn6) **\|** [**See Inside**](https://x.thunkable.com/projects/5cbe4ef9c6bd9a464a5fd893/CompanyLogo/designer)\*\*\*\*
