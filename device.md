@@ -6,6 +6,7 @@ The Device blocks gather useful data from the device \(Android / iOS, online / o
 * [Get mobile operating system](device.md#get-mobile-operating-system)
 * [Get online/offline status](device.md#get-online-offline-status)
 * [Set device to vibrate](device.md#set-device-to-vibrate)
+* Dismiss keyboard
 
 ## Get current time and date
 
@@ -40,4 +41,10 @@ There may be times you may want to design a different experience when a user is 
 Apps often work in the background and vibrating a device is a popular way of notifying a user of a certain event. To set your device to vibrate, you can use the block sample below:
 
 ![](.gitbook/assets/screen-shot-2018-12-13-at-2.21.45-pm.png)
+
+## Dismiss keyboard
+
+If you have a Text Input in your app, there may be situations when you want to dismiss the keyboard for the user. The block below will help with that:
+
+![](.gitbook/assets/screen-shot-2019-07-19-at-4.34.21-pm.png)
 

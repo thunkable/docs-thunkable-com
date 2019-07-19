@@ -32,3 +32,11 @@ By default the gyroscope sensor is turned on, but the `enabled`property can be u
 | `set Enabled` | Bool | true |
 | `get Enabled` | Bool |  |
 
+![](.gitbook/assets/image%20%2814%29.png)
+
+| Property | Type | Description |
+| :--- | :--- | :--- |
+| `Alpha` | Number | Rotation about the y-axis |
+| `Beta` | Number | Rotation about the x-axis |
+| `Gamma` | Number | Rotation about the z-axis |
+

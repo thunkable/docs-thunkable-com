@@ -16,7 +16,21 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 * Tooltips
-* Ability to copy / duplicate components and their properties
+* Ability to duplicate components and their properties
+* Ability to duplicate projects in the projects page
+
+## Jul 19, 2019
+
+Component updates
+
+* [Label](label.md) - creates a new line in the text by simply adding a `\n` in the text so you don't have to add an add'l Label component
+* [Webviewer](web-viewer.md) - supports full screen video, geolocation and data detector types
+* [Stack Navigator](stack-navigator.md#style-your-screen-color) - supports editing the background color of the header bar
+* [Gyroscope](gyroscope.md#properties) - added ability to get `alpha`, `beta` and `gamma` values
+
+Block updates
+
+* Add block to dismiss keyboard in the [Device](device.md#dismiss-keyboard) drawer
 
 ## Jul 15, 2019
 

@@ -10,7 +10,7 @@ description: >-
 
 When "Screen1 Starts"
 
-![](.gitbook/assets/image%20%2827%29.png)
+![](.gitbook/assets/image%20%2828%29.png)
 
 | Event | Description |
 | :--- | :--- |
@@ -38,7 +38,7 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 
 ## Add a background color or picture
 
-![](.gitbook/assets/image%20%2852%29.png)
+![](.gitbook/assets/image%20%2853%29.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -49,7 +49,7 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 
 This determines how to resize the image when the frame doesn't match the raw image dimensions.
 
-![](.gitbook/assets/image%20%2850%29.png)
+![](.gitbook/assets/image%20%2851%29.png)
 
 * Cover: Fills the entire screen without changing the height and width ratio of the image 
 * Contain: The entire image will be scaled down to fit inside the screen, without changing the height and width ratio of the image 
@@ -62,7 +62,7 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 ## Enable scrolling
 
-![](.gitbook/assets/image%20%2847%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 
 | Property | Description |
 | :--- | :--- |

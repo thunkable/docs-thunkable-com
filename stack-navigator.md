@@ -37,11 +37,12 @@ It is possible to hide the Header bar and maintain the Stacking transition by us
 | :--- | :--- |
 | Header Mode | Default \(`Screen`\); If you want to hide the header, set to `none` |
 
-## Style your screen color
+## Style your screen and header color
 
 By default, when you add a Stack, the Screens contained within it change their background color to a light gray. If you want to change it to another color, find the Screen property below:
 
 | Property | Description |
 | :--- | :--- |
 | Background Color | Default \(`Light gray`\). Select any color using the color picker, RGBA or HEX value |
+| Header Background Color | Default \(`White`\). Select any color using the color picker, RGBA or HEX value |
 
