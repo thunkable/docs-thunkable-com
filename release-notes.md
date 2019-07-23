@@ -17,6 +17,7 @@ Platform updates
 * Translation into Chinese 中文 \(more languages to come in the future\)
 * Tooltips
 * Ability to duplicate components and their properties
+* Ability to duplicate projects in the project list page
 
 ## Jul 19, 2019
 
