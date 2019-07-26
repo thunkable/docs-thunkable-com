@@ -20,7 +20,7 @@ Dad is a digital version of Albert's dad, based on a recorded interview and powe
 
 ### Charlie Checker
 
-#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cdc2816c1b0904ee706e43b) **\|** [**Customize**](http://bit.ly/2ZwvWiT) **\|** [**See Inside**](https://x.thunkable.com/projects/5cdc2816c1b0904ee706e43b/85b82818-576b-4c27-9e38-894610248978/designer)\*\*\*\*
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5d3b76ebc2dc714ed6788107) **\|** [**Customize**](http://bit.ly/2Y8kFZv) **\|** [**See Inside**](https://x.thunkable.com/projects/5d3b76ebc2dc714ed6788107/project/properties/designer/)\*\*\*\*
 
 For anyone who has a pet \(or child\) whose care is managed by multiple people, this app helps to coordinate regular meals, treats, walks and poops. This app is powered by a [free private Firebase Database](realtime-db.md#create-your-free-firebase-project-and-account) that syncs data quickly across devices. This app resets itself every day.
 
