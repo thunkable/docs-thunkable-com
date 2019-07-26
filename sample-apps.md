@@ -42,6 +42,16 @@ This app is kind of like an Instagram and Snapchat hybrid and we've created a pr
 
 ![The Thunkable team loves to play jenga](.gitbook/assets/thunkable-docs-exhibits-21.png)
 
+### Color Chat <a id="beaver-bingo"></a>
+
+#### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5d02ccd2c9b63a335d6d5864) **\|** [**Customize**](http://bit.ly/2OjS5A5) **\|** [**See Inside**](https://x.thunkable.com/projects/5d02ccd2c9b63a335d6d5864/project/properties/designer/)\*\*\*\*
+
+This is a Slack-like chat app where users pick their own chat bubble colors. You can make the backend private by connecting it to your own [Firebase database](realtime-db.md#set-up-your-own-firebase-account). This app features the clone and device time blocks.
+
+`#cloudvariables` `#firebase` `#cloneblocks` `#devicetime` `#drawernavigator`  `#slider`
+
+![](.gitbook/assets/thunkable-docs-exhibits-34.png)
+
 ## City Living <a id="beginner"></a>
 
 Cities are an increasingly popular place to live and work but navigating them can be a challenge. Here are a few apps that aspire to make that simpler.
@@ -100,7 +110,7 @@ For managers out there, here's a helpful set of questions to guide your next 1:1
 
 ![This guide is a really good baseline for your next 1:1 conversation](.gitbook/assets/thunkable-docs-exhibits-24.png)
 
-## Thriving Small Businesses <a id="beginner"></a>
+## Start-Up Hacks <a id="beginner"></a>
 
 Starting your own business is a gratifying endeavor but most new business don't make it for the long haul. Here are a few apps that can help support the businesses that you love
 
