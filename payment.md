@@ -1,40 +1,18 @@
 # Payment by Stripe
 
+{% hint style="danger" %}
+ Sorry!  The Payment component is currently unavailable. Apps already downloaded or published with the component will still work but the component will not work for any _new_ app downloads or publishes. We are working to fix this as soon as we can.
+{% endhint %}
+
 Some of the leading apps in the world from Lyft to Instacart process their credit card payments via Stripe. Thanks to the Payment component powered by Stripe, you have access to the same developer friendly service that professional developers around the world use to build businesses in their apps.
 
-{% hint style="info" %}
-### New lower fees for ![](.gitbook/assets/pro.png) members! 
+## Transaction fees
 
-### 
+Each transaction made with Stripe will be subject to the following payment processing fees. ![](.gitbook/assets/pro.png)members enjoy the same payment processing fee that Stripe charges its partners.
 
-The Payment component by Stripe will no longer charge a Thunkable fee for ![](.gitbook/assets/pro.png) members. 
-
-![](.gitbook/assets/pro.png)members now enjoy the same payment processing fee that Stripe charges its partners.
-
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">
-        <p></p>
-        <p>
-          <img src=".gitbook/assets/pro.png" alt/>
-        </p>
-      </th>
-      <th style="text-align:left">Everyone else</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Payment processing fee</td>
-      <td style="text-align:left">2.9% fee +$0.30 per transaction</td>
-      <td style="text-align:left">4.9% fee +$0.30 per transaction (2% Thunkable fee)</td>
-    </tr>
-  </tbody>
-</table>
-{% endhint %}
+|  | ![](.gitbook/assets/pro.png) | Everyone else |
+| :--- | :--- | :--- |
+| Payment processing fee | 2.9% fee +$0.30 per transaction | 4.9% fee +$0.30 per transaction \(2% Thunkable fee\) |
 
 * [Set up](payment.md#set-up)
 * [Send a test transaction](payment.md#send-a-test-transaction)
