@@ -8,13 +8,9 @@ description: The platform where anyone can build their own mobile apps.
 
 If you've made it to this page, you probably want to build an app. Congratulations!
 
-Thunkable makes it simple to create and customize mobile apps that solve problems for our teams or just ourselves \(because we're worth it\).
+Thunkable makes it simple to create and customize mobile apps without coding. 
 
-Instead of choosing between iOS or Android, Thunkable app projects work on both iOS and Android devices.
-
-Instead of trying to figure out what you can build, get inspired by and remix projects from our Sample Apps or Public Gallery, featuring the work of our amazing community of app creators.
-
-Instead of writing code to create or customize your app, design them by dragging and dropping your favorite components and connecting them together with blocks \(originally inspired by Lego\).
+All apps built on Thunkable work for both Android and iOS, and you can get started by remixing existing projects from our Sample Apps or Public Gallery.
 
 ## Have specific questions?
 
