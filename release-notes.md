@@ -10,14 +10,29 @@ New components
 
 Component updates
 
-* Screen Orientation
+* Screen - the ability to fix orientation to `portrait` and `landscape`
 
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
-* Tooltips
-* Ability to duplicate components and their properties
-* Ability to duplicate projects in the project list page
+
+## Aug 21, 2019
+
+Component updates
+
+* [Web API](web-api.md) - added blocks to support changing headers and query parameters
+
+Bug fixes
+
+* [Share](share.md#send-a-text) - fixes bug to send text messages on iOS devices
+
+## Aug 16, 2019
+
+Platform updates
+
+* Tooltips!
+* Ability to duplicate components and their properties!
+* Ability to duplicate projects in the project list page!
 
 ## Jul 19, 2019
 

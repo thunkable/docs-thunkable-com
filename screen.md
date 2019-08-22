@@ -76,5 +76,9 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 ## Set orientation
 
-Coming Soon.
+| Property | Description |
+| :--- | :--- |
+| Screen Orientation | Default \(`all`\). You can fix the screen orientation to `portrait` and `landscape` |
+
+
 
