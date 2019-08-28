@@ -6,7 +6,7 @@
   * [Tutorials](get-started/tutorials.md)
   * [Thunkable Live App](get-started/live-test.md)
 * [🆕 Create New Project](projects/README.md)
-  * [Change Project Settings](projects/icon.md)
+  * [Change Project Settings](projects/settings.md)
   * [Project Assets and Sizes](projects/assets.md)
   * [Thunkable Sample Projects](projects/sample-apps.md)
   * [Public Gallery of Projects](projects/public-gallery.md)

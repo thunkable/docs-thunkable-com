@@ -15,7 +15,7 @@ When you first sign in to Thunkable you will be prompted to create a project. To
 
 ### Other articles in this section
 
-{% page-ref page="icon.md" %}
+{% page-ref page="settings.md" %}
 
 {% page-ref page="assets.md" %}
 
