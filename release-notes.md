@@ -272,7 +272,7 @@ Platform updates
 Platform updates
 
 {% hint style="success" %}
-Thunkable has launched the [Public Gallery](untitled.md), a public collection apps for anyone to preview, download or remix.
+Thunkable has launched the [Public Gallery](projects/public-gallery.md), a public collection apps for anyone to preview, download or remix.
 
 All new apps will be public by default and included in the Public Gallery.
 
@@ -363,7 +363,7 @@ Bug fixes
 Platform updates
 
 * Renaming components is now supported. Click on the top of the properties panel to edit the component name
-* Each new project can be set to [public or private](public-vs-private-projects.md).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](share-1.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
+* Each new project can be set to [public or private](projects/).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](share-1.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
 * Sample apps now featured on the project list page
 * Supports iOS usage descriptions for describing to users why certain permissions are needed when they download your app; applies only when you Publish to the iOS App Store
 
@@ -388,7 +388,7 @@ New components
 
 Platform updates
 
-* [Five new tutorials](tutorials.md) for Thunkable beginners now located in platform panel on the left
+* [Five new tutorials](get-started/tutorials.md) for Thunkable beginners now located in platform panel on the left
 * [Share a read-only version](share-1.md#share-a-read-only-version-of-your-app-project-by-link) of your project is now supported with a public option
 
 Bug fixes
@@ -403,7 +403,7 @@ Bug fixes
 Platform updates
 
 * Significant user interface update including a new Design / Blocks switch, add Components shifted to the left panel and Properties shifted to the right panel
-* Live app now lets you [live preview](live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
+* Live app now lets you [live preview](get-started/live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
 * [Publish for Android](publish.md#publish-to-the-play-store-android) now supported
 * Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-⑤--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
 * Updated [download](download.md#download-and-install-ios-app) and [publish](publish.md#publish-to-the-app-store-ios) emails for iOS

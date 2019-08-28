@@ -2,14 +2,14 @@
 description: Preview your Thunkable project on almost any Android or iOS device.
 ---
 
-# Thunkable Live
+# Thunkable Live App
 
 ## **What is Thunkable Live?**
 
 Thunkable Live is an app that connects the projects in your web browser directly to your mobile device. It allows you to do two things:
 
-1. You can [**Live Test**](file:///@thunkable/s/thunkable-docs/~/edit/drafts/-LnCeo225SCFice-kzC9/live-test#live-test) your project. Any changes you make in your browser are displayed on your device, while you are working.
-2. You can [**Live Preview**](file:///@thunkable/s/thunkable-docs/~/edit/drafts/-LnCeo225SCFice-kzC9/live-test#live-preview) any of your projects, directly on your device, without the need to be logged in to your computer.
+1. You can [**Live Test**](live-test.md#live-test) your project. Any changes you make in your browser are displayed on your device, while you are working.
+2. You can [**Live Preview**](live-test.md#live-preview) any of your projects, directly on your device, without the need to be logged in to your computer.
 
 ## **Download Thunkable Live**
 
@@ -19,9 +19,9 @@ The Thunkable app allows you to live test your app on your device, in real-time,
 | :--- | :--- |
 
 
-![](.gitbook/assets/appstorepic_email_small.png)
+![](../.gitbook/assets/appstorepic_email_small.png)
 
-If you don't have an iOS or Android device, you can also [set up an emulator](file:///@thunkable/s/thunkable-docs/~/edit/drafts/-LnCeo225SCFice-kzC9/emulators) on your computer that will mimic what you would see on an actual device.‌
+If you don't have an iOS or Android device, you can also [set up an emulator](../emulators.md) on your computer that will mimic what you would see on an actual device.‌
 
 With Thunkable Live installed on your device, you are now ready to live test or to live preview.‌
 
@@ -33,15 +33,15 @@ While live testing, any changes that you make to your project should be reflecte
 
 From any of your Thunkable projects, click on the **Live Test** button at the top of the screen to begin live testing.
 
-![](.gitbook/assets/live_test%20%281%29.png)
+![](../.gitbook/assets/live_test%20%281%29.png)
 
-‌The next pop-up you see depends on [if you are signed in with Google](file:///@thunkable/s/thunkable-docs/~/edit/drafts/-LnCeo225SCFice-kzC9/live-test#if-you-are-signed-in-with-google) or [if you are signed in by email](file:///@thunkable/s/thunkable-docs/~/edit/drafts/-LnCeo225SCFice-kzC9/live-test#if-you-are-signed-in-by-email).‌
+‌The next pop-up you see depends on if you are [signed in with Google](live-test.md#if-you-are-signed-in-with-google) or if you have [signed in by email](live-test.md#if-you-are-signed-in-by-email).‌
 
 ### **If you are signed in with Google:**
 
 Clicking on the Live Test button will remind you to open Thunkable Live on your device.
 
-![](.gitbook/assets/lt_gmail.png)
+![](../.gitbook/assets/lt_gmail.png)
 
 Sign in with the same Google account in Thunkable Live to preview your projects directly on your device.
 
@@ -49,11 +49,11 @@ Sign in with the same Google account in Thunkable Live to preview your projects 
 
 When you click the Live Test button you will be prompted to enter a code into your computer.
 
-![](.gitbook/assets/lt_email.png)
+![](../.gitbook/assets/lt_email.png)
 
 To find this code, open Thunkable Live on your device and click **Need a code? Click Here.**
 
-![](.gitbook/assets/live2%20%281%29.png)
+![](../.gitbook/assets/live2%20%281%29.png)
 
 Enter this code into the first prompt and you will be able to live test your app.
 
@@ -61,7 +61,7 @@ Enter this code into the first prompt and you will be able to live test your app
 
 For the first time, you can live preview all your app projects from the comfort of your mobile device. Simply login and you should see a list of all your projects on your Thunkable Live app.
 
-![](.gitbook/assets/live-preview-fig-1%20%281%29.gif)
+![](../.gitbook/assets/live-preview-fig-1%20%281%29.gif)
 
 ## Troubleshooting
 

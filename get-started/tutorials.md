@@ -1,16 +1,20 @@
+---
+description: We have lots of ways for you to learn how to use Thunkable.
+---
+
 # Tutorials
 
 ## In-platform tutorials
 
 To learn how to use Thunkable, try our in-platform tutorials. Click the pop out drawer on the left hand side of the screen to get started.
 
-![](.gitbook/assets/thunkable-docs-exhibits-37.png)
+![](../.gitbook/assets/thunkable-docs-exhibits-37.png)
 
 ## [Video Tutorials](https://www.youtube.com/watch?v=YrONgW8udmM&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE)
 
-Follow step by step app building instructions in our YouTube tutorial series!
+Follow step by step app building instructions in our [YouTube tutorial series](https://www.youtube.com/watch?v=YrONgW8udmM&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE)!
 
-![](.gitbook/assets/thunkable-docs-exhibits-38.png)
+![](../.gitbook/assets/thunkable-docs-exhibits-38.png)
 
 ## [Community Tutorials](https://community.thunkable.com/c/thunkable-cross-tutorials)
 

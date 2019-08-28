@@ -28,19 +28,19 @@ Click on one of the links below to download the Thunkable mobile app.
 | :---: | :---: |
 
 
-If you don't have an iOS or Android device, you can [set up an emulator](emulators.md) on your computer that will display your apps.
+If you don't have an iOS or Android device, you can [set up an emulator](../emulators.md) on your computer that will display your apps.
 
 ## Step 4. Components
 
 We have custom components and third-party integrations that you can drop directly into your projects. Learning as much as you can about these components will make your apps more beautiful and more enjoyable to use.
 
-{% page-ref page="components.md" %}
+{% page-ref page="../components.md" %}
 
 ## Step 5. Blocks
 
 Blocks are the brains of your app. By improving your blocks skills you will be able to create apps that are more efficient and that have more features.
 
-{% page-ref page="blocks.md" %}
+{% page-ref page="../blocks.md" %}
 
  
 
