@@ -376,7 +376,7 @@ Component updates
 Component updates
 
 * [Map](map.md) - adds new block events e.g. on Map Click, on Marker Click and supports the ability to add markers, polylines and polygons
-* [Text to Speech](https://docs.thunkable.com/x/components/artificial-intelligence/text-to-speech.html) - increase supported languages from 6 to 87
+* [Text to Speech](https://docs.thunkable.com/text-to-speech) - increase supported languages from 6 to 87
 * [Share](share.md#share-an-image) - now supports sharing locally stored assets \(does not work on Live Test for iOS\)
 
 New components
@@ -400,12 +400,12 @@ Bug fixes
 
 ## May 7, 2018
 
-Platform updates
+Platform updates [broken link](https://play.google.com/brokenlink) [out-of-bounds link](https://app.gitbook.com/@thunkable/s/thunkable-docs/~/edit/drafts/-LnMymO8dgjVIc_YwQ4R/functions)
 
 * Significant user interface update including a new Design / Blocks switch, add Components shifted to the left panel and Properties shifted to the right panel
 * Live app now lets you [live preview](get-started/live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
 * [Publish for Android](publish.md#publish-to-the-play-store-android) now supported
-* Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-⑤--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
+* Adds [version support](https://docs.thunkable.com/publish-to-app-store-ios#send-to-app-store-connect) for download / publish for Android and iOS
 * Updated [download](download.md#download-and-install-ios-app) and [publish](publish.md#publish-to-the-app-store-ios) emails for iOS
 
 ## April 12, 2018

@@ -94,7 +94,7 @@ Designed for teams that are spread out across different parts of the world, this
 
 #### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5ab560f9896b670001627b02) **\|** [**Customize**](http://bit.ly/2Y3J1Q0) **\|** [**See Inside**](https://x.thunkable.com/projects/5ab560f9896b670001627b02/Welcome/designer)\*\*\*\*
 
-Work Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/x/components/data-storage/realtime-db.html#set-up). Work Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)
+Work Credit is a team counting app for thankless tasks. The app shares data for the team in a private Firebase realtime database account so Thunkers looking to create one for their team will need to [set one up](https://docs.thunkable.com/realtime-db#set-up-your-own-firebase-account). Work Credit has really transformed how our office works at Thunkable -- no longer are thankless tasks thankless. The winner each week gets to pick out our lunch destination on Friday \(which is quite an honor\)
 
 `#cloudvariables` `#firebase`
 
