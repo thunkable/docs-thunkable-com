@@ -5,6 +5,8 @@
 New components
 
 * Canvas and Sprites
+* Date and Time Picker
+* PDF Viewer
 * Extended Listviewer
 * Google Sheets
 
@@ -14,6 +16,7 @@ Component updates
 
 Platform updates
 
+* Android keystore import and export
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
 ## Aug 21, 2019
