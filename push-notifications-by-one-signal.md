@@ -23,6 +23,10 @@ However, annoying notifications---those that are irrelevant and too frequent---c
 **Push Notifications are a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps \(Android only\), only PRO Thunkers can download and publish apps with Push Notifications.
 {% endhint %}
 
+{% hint style="danger" %}
+Live Testing on Push Notifications is currently \(Sept. 2019\) not working as expected for all users. We're working to fix this, but for now please download your app to test and verify your OneSignal account.
+{% endhint %}
+
 {% hint style="info" %}
 **Availability**
 
