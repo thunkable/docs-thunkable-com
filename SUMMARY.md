@@ -21,8 +21,6 @@
 * [Slider](slider.md)
 * [Alert](alert.md)
 * [Loading Icon](loading-icon.md)
-* [Date Picker](date-picker.md)
-* [Time Picker](time-picker.md)
 * [📐 Layout](layout.md)
 * [Top Tab Navigator](top-tab-navigator.md)
 * [Bottom Tab Navigator](bottom-tab-navigator.md)
