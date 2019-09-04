@@ -1,9 +1,5 @@
 # Date Picker
 
-{% hint style="info" %}
-This component has not yet been released but will be available soon
-{% endhint %}
-
 Date Pickers are helpful when you want the user of your app to easily select a specific date using the native Android or iOS date picker
 
 ![Native Android Date Picker on the left and iOS on the right](.gitbook/assets/thunkable-docs-exhibits-37.png)
