@@ -68,7 +68,6 @@
 * [Email Sign In by Firebase](sign-in-1.md)
 * [💲 Monetization](monetization.md)
 * [Ads by AdMob](admob.md)
-* [Payment by Stripe](payment.md)
 * [🤖 Blocks](blocks.md)
 * [Control](control.md)
 * [Logic](logic.md)
