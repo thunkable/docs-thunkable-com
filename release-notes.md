@@ -5,7 +5,6 @@
 New components
 
 * Canvas and Sprites
-* Date and Time Picker
 * PDF Viewer
 * Extended Listviewer
 * Google Sheets
@@ -18,6 +17,13 @@ Platform updates
 
 * Android keystore import and export
 * Translation into Chinese 中文 \(more languages to come in the future\)
+
+## Sep 4, 2019
+
+New components
+
+* [Date Input](date-input.md) - lets users easily select a specific date using the native Android or iOS date picker
+* [Time Input](time-input.md) - lets users easily select a specific time using the native Android or iOS date picker
 
 ## Aug 21, 2019
 
@@ -120,7 +126,7 @@ New Components
 
 Component Updates
 
-* [Payment](payment.md) by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction \(0% Thunkable fee\)
+* [Payment]() by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction \(0% Thunkable fee\)
 
 ## May 6, 2019
 
@@ -432,7 +438,7 @@ Platform updates
 New components
 
 * [Spreadsheet](spreadsheet.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
-* [Payment](payment.md) by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
+* [Payment]() by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
 
 Platform updates
 
