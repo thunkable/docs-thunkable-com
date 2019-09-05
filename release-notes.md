@@ -5,7 +5,6 @@
 New components
 
 * Canvas and Sprites
-* Date and Time Picker
 * PDF Viewer
 * Extended Listviewer
 * Google Sheets

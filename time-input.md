@@ -1,16 +1,16 @@
-# Time Picker
+# Time Input
 
 {% hint style="info" %}
 This component has not yet been released but will be available soon
 {% endhint %}
 
-Time Pickers are helpful when you want the user of your app to easily select a specific time using the native Android or iOS date picker
+Time Input components are helpful when you want the user of your app to easily select a specific time using the native Android or iOS date picker
 
 ![Native Android Time Picker on the left and iOS on the right](.gitbook/assets/thunkable-docs-exhibits-38%20%281%29.png)
 
 ## Set up 
 
-The Time Picker is only surfaced after you have triggered it from another event so you'll need to select the event using an event block like the one below.
+The Time Input component is only surfaced after you have triggered it from another event so you'll need to select the event using an event block like the one below.
 
 After the user has selected a date, you will get the following outputs which you can format however you choose
 
