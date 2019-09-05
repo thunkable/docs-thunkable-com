@@ -5,7 +5,6 @@
 New components
 
 * Canvas and Sprites
-* Date and Time Picker
 * PDF Viewer
 * Extended Listviewer
 * Google Sheets
@@ -18,6 +17,13 @@ Platform updates
 
 * Android keystore import and export
 * Translation into Chinese 中文 \(more languages to come in the future\)
+
+## Sep 4, 2019
+
+New components
+
+* [Date Input](date-input.md) - lets users easily select a specific date using the native Android or iOS date picker
+* [Time Input](time-input.md) - lets users easily select a specific time using the native Android or iOS date picker
 
 ## Aug 21, 2019
 
