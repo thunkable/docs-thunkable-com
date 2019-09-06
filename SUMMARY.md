@@ -23,6 +23,7 @@
 * [Loading Icon](loading-icon.md)
 * [Date Input](date-input.md)
 * [Time Input](time-input.md)
+* [PDF Reader](pdf-reader.md)
 * [📐 Layout](layout.md)
 * [Top Tab Navigator](top-tab-navigator.md)
 * [Bottom Tab Navigator](bottom-tab-navigator.md)
