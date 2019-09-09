@@ -13,15 +13,18 @@ Component updates
 
 Platform updates
 
-* Android keystore import and export
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
-## Sep 6, 2019
+## Sep 9, 2019
 
 New components
 
 * Canvas and Sprites - build simple games like Space Invaders and Pong with our newest version of Canvas which includes among other features, a physics engine to create more engaging games
 * [PDF Reader](pdf-reader.md) - allow users to view PDFs from the convenience of an app
+
+Platform updates
+
+* Android keystore import and export
 
 ## Sep 4, 2019
 
