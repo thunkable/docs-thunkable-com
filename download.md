@@ -1,7 +1,7 @@
 # Download
 
 {% hint style="info" %}
-Before you download, we recommend first [adding an App Icon and Name](projects/settings.md) to your app
+Before you download, we recommend first [adding an App Icon and Name](app-icon-+-name.md) to your app
 {% endhint %}
 
 * [Download limits](download.md#download-limits)
@@ -71,5 +71,5 @@ Common issues
 
 **You cannot install your app and get the message "Cannot connect to storage.googleapis.com"**
 
-* You have a special character like "&" in your [App Name](projects/settings.md#app-name)
+* You have a special character like "&" in your [App Name](app-icon-+-name.md#app-name)
 
