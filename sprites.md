@@ -36,5 +36,3 @@ Groups of sprites that have the same behavior should belong to the same sprite t
 
 ![](.gitbook/assets/screen-shot-2019-09-09-at-7.47.21-am.png)
 
-
-

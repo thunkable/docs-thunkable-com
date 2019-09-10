@@ -14,13 +14,3 @@ To add a canvas to your app, drag and drop the canvas component into the app bui
 
 Canvas components contain stages, which allow you to set the background color of the game.
 
-
-
-
-
-
-
-
-
-
-
