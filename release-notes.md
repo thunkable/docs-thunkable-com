@@ -24,7 +24,7 @@ New components
 
 Platform updates
 
-* Android keystore import and export
+* [Importing / exporting Android keystores](publish-to-play-store-android.md#export-keystore-from-thunkable-classic) - update apps published to the Google Play store that were made on Thunkable Classic or another compatible platform
 
 ## Sep 4, 2019
 
