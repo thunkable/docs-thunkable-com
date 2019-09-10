@@ -28,7 +28,7 @@ To add a sprite to the canvas, drag and drop a "Sprite Type" onto the app builde
 
 **IsStatic:** When a sprite is static, it acts like a wall. No forces can move it.
 
-**FixedRotation:** When fixed rotation is false, the sprite can rotate in any direction. When fixed rotation is true, the 
+**FixedRotation:** When fixed rotation is false, the sprite can rotate in any direction. When fixed rotation is true, the sprite will remain at its current angle.
 
 ## Adding Different Types of Sprites
 
