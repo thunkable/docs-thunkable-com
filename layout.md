@@ -2,7 +2,7 @@
 description: How to set up and organize your app.
 ---
 
-# Layout: Getting Started
+# 📐 Layout
 
 ## From Idea to App 
 
@@ -25,4 +25,20 @@ Here are three examples of navigators that you can use on Thunkable.
 ![](.gitbook/assets/thunkable-documentation-exhibits-83.png)
 
 **3.** [**Stack Navigators**](https://docs.thunkable.com/stack-navigator) - Navigators that allow you to stack screens on top of other screens.
+
+## Layout Components
+
+{% page-ref page="top-tab-navigator.md" %}
+
+{% page-ref page="bottom-tab-navigator.md" %}
+
+{% page-ref page="stack-navigator.md" %}
+
+{% page-ref page="drawer-navigator.md" %}
+
+{% page-ref page="screen.md" %}
+
+{% page-ref page="row.md" %}
+
+{% page-ref page="column.md" %}
 

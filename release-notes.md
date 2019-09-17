@@ -4,7 +4,6 @@
 
 New components
 
-* Canvas and Sprites
 * Extended Listviewer
 * Google Sheets
 
@@ -15,6 +14,24 @@ Component updates
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
+
+## In Testing
+
+New components
+
+* Canvas and Sprites - build simple games like Space Invaders and Pong with our newest version of Canvas which includes among other features, a physics engine to create more engaging games
+* [PDF Reader](pdf-reader.md) - allow users to view PDFs from the convenience of an app
+
+Platform updates
+
+* [Importing / exporting Android keystores](publish-to-play-store-android.md#export-keystore-from-thunkable-classic) - update apps published to the Google Play store that were made on Thunkable Classic or another compatible platform
+
+## Sep 4, 2019
+
+New components
+
+* [Date Input](date-input.md) - lets users easily select a specific date using the native Android or iOS date picker
+* [Time Input](time-input.md) - lets users easily select a specific time using the native Android or iOS date picker
 
 ## Aug 21, 2019
 
@@ -117,7 +134,7 @@ New Components
 
 Component Updates
 
-* [Payment](payment.md) by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction \(0% Thunkable fee\)
+* [Payment]() by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction \(0% Thunkable fee\)
 
 ## May 6, 2019
 
@@ -272,7 +289,7 @@ Platform updates
 Platform updates
 
 {% hint style="success" %}
-Thunkable has launched the [Public Gallery](untitled.md), a public collection apps for anyone to preview, download or remix.
+Thunkable has launched the [Public Gallery](projects/public-gallery.md), a public collection apps for anyone to preview, download or remix.
 
 All new apps will be public by default and included in the Public Gallery.
 
@@ -363,7 +380,7 @@ Bug fixes
 Platform updates
 
 * Renaming components is now supported. Click on the top of the properties panel to edit the component name
-* Each new project can be set to [public or private](public-vs-private-projects.md).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](share-1.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
+* Each new project can be set to [public or private](projects/).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](share-1.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
 * Sample apps now featured on the project list page
 * Supports iOS usage descriptions for describing to users why certain permissions are needed when they download your app; applies only when you Publish to the iOS App Store
 
@@ -376,7 +393,7 @@ Component updates
 Component updates
 
 * [Map](map.md) - adds new block events e.g. on Map Click, on Marker Click and supports the ability to add markers, polylines and polygons
-* [Text to Speech](https://docs.thunkable.com/x/components/artificial-intelligence/text-to-speech.html) - increase supported languages from 6 to 87
+* [Text to Speech](https://docs.thunkable.com/text-to-speech) - increase supported languages from 6 to 87
 * [Share](share.md#share-an-image) - now supports sharing locally stored assets \(does not work on Live Test for iOS\)
 
 New components
@@ -388,7 +405,7 @@ New components
 
 Platform updates
 
-* [Five new tutorials](tutorials.md) for Thunkable beginners now located in platform panel on the left
+* [Five new tutorials](get-started/tutorials.md) for Thunkable beginners now located in platform panel on the left
 * [Share a read-only version](share-1.md#share-a-read-only-version-of-your-app-project-by-link) of your project is now supported with a public option
 
 Bug fixes
@@ -400,12 +417,12 @@ Bug fixes
 
 ## May 7, 2018
 
-Platform updates
+Platform updates [broken link](https://play.google.com/brokenlink) [out-of-bounds link](https://app.gitbook.com/@thunkable/s/thunkable-docs/~/edit/drafts/-LnMymO8dgjVIc_YwQ4R/functions)
 
 * Significant user interface update including a new Design / Blocks switch, add Components shifted to the left panel and Properties shifted to the right panel
-* Live app now lets you [live preview](live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
+* Live app now lets you [live preview](get-started/live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
 * [Publish for Android](publish.md#publish-to-the-play-store-android) now supported
-* Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-⑤--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
+* Adds [version support](https://docs.thunkable.com/publish-to-app-store-ios#send-to-app-store-connect) for download / publish for Android and iOS
 * Updated [download](download.md#download-and-install-ios-app) and [publish](publish.md#publish-to-the-app-store-ios) emails for iOS
 
 ## April 12, 2018
@@ -429,7 +446,7 @@ Platform updates
 New components
 
 * [Spreadsheet](spreadsheet.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
-* [Payment](payment.md) by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
+* [Payment]() by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
 
 Platform updates
 

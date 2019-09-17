@@ -10,7 +10,8 @@ Success on Google Play starts with quality. The best apps and games have higher 
 * [App info](publish-to-play-store-android.md#app-info)
 * [Download your Android app](publish-to-play-store-android.md#download-your-android-app)
 * [Submit your app for review](publish-to-play-store-android.md#submit-your-app-for-review)
-* [Troubleshooting](publish-to-play-store-android.md#troubleshooting)
+* [Updating an existing app on the Play Store](publish-to-play-store-android.md#updating-an-existing-app-on-the-play-store)
+* [Exporting / importing keystore from Thunkable Classic](publish-to-play-store-android.md#exporting-importing-a-keystore-from-thunkable-classic)
 
 ## Minimum requirements
 
@@ -22,7 +23,7 @@ To publish your app on Android, you'll need to add an `app icon`, a `name`, a `p
 
 ![](.gitbook/assets/ezgif.com-video-to-gif-31%20%281%29.gif)
 
-For recommendations on your `app icon` and `name`, [please see this guide](app-icon-+-name.md).
+For recommendations on your `app icon` and `name`, [please see this guide](projects/settings.md).
 
 Each Android app that is published to the Play Store has a unique `package name`. Currently, you can enter this in the App \(Bundle\) ID field.
 
@@ -82,14 +83,43 @@ Apps that request access to sensitive permissions or data \(as defined in the [u
 
 **Congrats! You are now ready to submit to the Play Store.**
 
-## Troubleshooting
+## **Updating an existing app on the Play Store**
 
-**You cannot update an existing app on the Google Play Store**
+If you updating an existing app on the Google Play Store, your app will need to have the i\) same package name, ii\) a higher or incremented version number, and the iii\) same keystore. 
 
-{% hint style="warning" %}
-Apps originally built on the [Thunkable Classic platform]() cannot be updated since it is not yet possible to import the keystore
+You can modify the first two in the App Settings page but you will need to follow the directions below to export / import a keystore if you are updating an app on the Google Play store that was originally created in Thunkable Classic or another platform. 
+
+{% hint style="info" %}
+Keystores in Android are storage mechanisms for security certificates to prevent others from updating your app on the Google Play store. Copied apps within an account \(using the [Make Copy](make-copy.md)\) will keep the same keystore as the original app. Apps that are copied from a [Share copy](share-1.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same keystore. 
 {% endhint %}
 
-* If you updating an existing app on the Google Play Store, your app will need to have the i\) same package name, ii\) a higher or incremented version number, and the iii\) same keystore. The first two are easily editable in the App Settings page but the keystore is not yet able to be imported / exported. 
-* Copied apps within an account \(using the [Make Copy](make-copy.md)\) will keep the same keystore as the original app. Apps that are copied from a [Share copy](share-1.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same keystore. Apps from the [Thunkable Classic platform]() cannot yet be updated since it is not yet possible to import the keystore. 
+## Exporting / importing a keystore from Thunkable Classic
+
+{% hint style="danger" %}
+Thunkable Classic is retiring soon!  We highly recommend you rebuild your apps in the Thunkable Cross-platform and import your keystore if your app is published to the Google Play Store
+{% endhint %}
+
+### Export keystore from Thunkable Classic
+
+Go to Thunkable Classic \([app.thunkable.com](http://app.thunkable.com/)\) click Apps \(in the upper left corner\) and then Export keystore to save your Classic `android.keystore` file to your computer.
+
+![](.gitbook/assets/screen-shot-2019-09-10-at-11.00.05-am.png)
+
+### Import keystore
+
+On the Thunkable Cross Platform \([x.thunkable.com](http://x.thunkable.com/)\), select the the app that you have previous published from Classic and are trying to update from X.
+
+Click the name and icon of your app in upper left corner to bring up App Settings on right side.
+
+![](.gitbook/assets/screen-shot-2019-09-10-at-11.11.22-am.png)
+
+Scroll all the way to the bottom of App Settings and click Import Keystore. **Note this will replace the existing keystore for this app so be sure you haven’t used it to publish to Google Play store before proceeding.** You can always Export it first and save it to your computer just in case.
+
+![Enter &#x201C;android&#x201D; as the password](.gitbook/assets/screen-shot-2019-09-10-at-11.11.34-am.png)
+
+Enter **“android”** as the password and select the android.keystore file you previously saved to your computer from Classic.
+
+Congrats! You should be able to successfully publish updates now. Note that you’ll need to repeat the steps for each app you previously published with your Classic keystore as every app has their own keystore.
+
+
 
