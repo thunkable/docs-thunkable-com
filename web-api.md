@@ -13,6 +13,28 @@ Once you have the API key, you'll need to enter the unique URL into the property
 | Property | Description |
 | :--- | :--- |
 | URL | The url for the web request which usually contains an API key |
+| Query Parameter | Specifies some parameters of the data |
+| Headers | Specifies some meta-data, eg: usernames and passwords |
+
+### Setting Query Parameters and Headers
+
+Query parameters and headers can be set in the designer or in the blocks editor. In the example below you can add any property:value pair you want. You can add as many params to your app as you need, but each parameter has to be added one at a time. 
+
+![](.gitbook/assets/wvd0.png)
+
+In the blocks editor, it is possible to use the `create object` block to add multiple property:value pairs simultaneously. 
+
+![](.gitbook/assets/wvd3.png)
+
+In addition to creating your own objects, it is also possible to use JSON to specify the property:value pairs for your query parameters or headers. 
+
+![](.gitbook/assets/wvd4.png)
+
+{% hint style="warning" %}
+There is a known bug with the `get object from JSON` block, so we temporarily suggest using the work-around shown below if you need to use JSON to set your query or header parameters.
+{% endhint %}
+
+![](.gitbook/assets/wvd5.png)
 
 ## Get and format \(parse\) data
 

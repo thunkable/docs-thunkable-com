@@ -9,15 +9,20 @@ description: The sound component does exactly that. It plays a sound.
 
 ## Set Sound source
 
-To play a sound, you need to upload it to the files section on Thunkable.
+To play a sound, you need to upload it to the files section on Thunkable. You can also set the source of the sound component via the blocks. See how to do this in the [next section](sound.md#play-a-sound).
+
+![](.gitbook/assets/sound_source.png)
 
 | Property | Description |
 | :--- | :--- |
 | Source | The name of the sound file e.g. `shake-it-off.mp3` or a link to the sound file; the Sound component accepts .mp3 and .wav files but does not accept .ogg files |
+| Volume | Set how loudly the file should be played. Expects a value between 0 and 100 |
 
 ## Play a sound
 
-![](.gitbook/assets/sound-fig-1.png)
+Loading a sound happens asynchronously. This means that you need to wait some amount of time between changing the source file and the file being ready to play. The best practice for this component is to use the `on source loaded` block to call the `Play` function when the source file is ready to play. 
+
+![](.gitbook/assets/play_sound.png)
 
 | Event / Property | Description |
 | :--- | :--- |
