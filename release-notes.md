@@ -15,11 +15,17 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
-## In Testing
+## Sep 12, 2019
+
+Bug fixes
+
+* Screen - fixes `Scrollable` property on Screen component; still a bug with `Scrollable` property for Row component
+
+## Sep 10, 2019
 
 New components
 
-* Canvas and Sprites - build simple games like Space Invaders and Pong with our newest version of Canvas which includes among other features, a physics engine to create more engaging games
+* [Canvas](canvas.md) and [Sprites](sprites.md) - build simple games like Space Invaders and Pong with our newest version of Canvas which includes among other features, a physics engine to create more engaging games
 * [PDF Reader](pdf-reader.md) - allow users to view PDFs from the convenience of an app
 
 Platform updates
