@@ -4,6 +4,7 @@
 
 New components
 
+* QR Code / Barcode Scanner
 * Extended Listviewer
 * Google Sheets
 
