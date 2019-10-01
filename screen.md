@@ -8,19 +8,37 @@ description: >-
 
 ## Understanding Screen Blocks 
 
-When "Screen1 Starts"
+### when Screen1 Starts
 
-![](.gitbook/assets/image%20%2843%29.png)
-
-| Event | Description |
-| :--- | :--- |
-| Starts | Triggers an event / set of events when the Screen is **first** opened |
-
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/screen-starts.png)
 
 | Event | Description |
 | :--- | :--- |
-| Opens | Triggers an event / set of events anytime the Screen is opened |
+| Starts | Fires when the Screen is **first** opened |
+
+### when Screen1 Opens
+
+![](.gitbook/assets/screen-opens.png)
+
+| Event | Description |
+| :--- | :--- |
+| Opens | Fires **anytime** the Screen is opened |
+
+### when Screen1 BackButtonPressed
+
+![](.gitbook/assets/screen-back-button-pressed.png)
+
+| Event | Description |
+| :--- | :--- |
+| BackButtonPressed | Fires when the physical or on-screen back button is pressed. \(Android only\) |
+
+### in Screen1 call ToggleDrawerMenu
+
+![](.gitbook/assets/screen-toggle-drawer-menu.png)
+
+| Function | Description |
+| :--- | :--- |
+| ToggleDrawerMenu | Opens or Closes the drawer menu, if available. Must be used in conjunction with the [Drawer Navigator](drawer-navigator.md) |
 
 ## Space elements horizontally
 

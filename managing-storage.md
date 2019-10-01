@@ -1,35 +1,28 @@
-# Adding Files and Managing Storage
+---
+description: Tips to get the most from your Thunkable Account
+---
 
-It's better to keep app sizes as small as possible to preserve space on people's devices. All app projects have a 50MB limit, and Thunkable accounts have a 200MB total limit. 
+# Managing Storage
 
-## App size limits \(50MB per app\)
+ The size of your Thunkable project is generous, but finite. Projects created with free accounts need to be slightly smaller, while PRO subscribers will have a more generous allowance of project storage but in either case you will want to make the most out of every megabyte. 
 
-| Element | Limit |
-| :--- | :--- |
-| App size | 50 MB |
-| Account size limit | 200 MB |
-| Screens | No fixed limit |
-| Download | One app per phone for iOS; no limit for Android |
-| Minimum Android version | 5.0 \(21\) Lollipop |
-| Minimum iOS version | 10.0 |
+### Project Size
 
-You can view a project's app size on the project's details page:
+You can find a table of project sizes here:
 
-![](.gitbook/assets/ezgif.com-video-to-gif-3.gif)
+{% page-ref page="projects/assets.md" %}
 
-The main contributor to an app's size are files \(also known as assets\). To add or delete files, click on the expand icon in the files section: 
+### Cloud Storage
 
-![Find and remove unneeded files](.gitbook/assets/ezgif.com-video-to-gif-2.gif)
+Depending on when you need an asset, it might make sense to store it in the cloud instead. Using cloud storage in your app will not have any impact on your local project size. Thunkable provides multiple third-party integrations, including [Airtable](spreadsheet.md), [Cloudinary](media-db.md), and [Firebase](realtime-db.md), as well as our own [cloud variables](variables.md#app-stored-and-cloud-variables) for smaller pieces of data.
 
-## Account storage limits \(200MB per account\)
+### Refactoring your App
 
-You can view your total account storage size in your account settings.
+Sometimes there's simply no option left other than to go back through your app and make it more efficient. Some tips for refactoring your app include:
 
-![](.gitbook/assets/screen-shot-2019-04-04-at-2.13.03-pm.png)
+* Reduce block count by creating [functions](functions.md)
+* Use [loops](control.md#repeat-an-event) to perform repetitive tasks
+* Use [generics](any-component-blocks.md) as much as possible
 
-If you are near the limit, you may be able to create additional storage by removing projects that you no longer need like an old version or copy of a project. We may add the option for you to purchase additional storage in the future.
 
-![](.gitbook/assets/ezgif.com-video-to-gif-1.gif)
-
- 
 
