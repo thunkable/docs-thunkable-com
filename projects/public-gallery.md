@@ -19,7 +19,7 @@ When browsing the Gallery, here are three things that you can do with public pro
 **2. Preview a Project**  
 After downloading the [Thunkable Live mobile app](../get-started/live-test.md), you can use the app to preview any public project directly on your mobile device. 
 
-![](../.gitbook/assets/thunkable-docs-exhibits-42.png)
+![](../.gitbook/assets/thunkable-docs-exhibits-42%20%281%29.png)
 
 **3. Remix a Project**  
 All projects on the Public Gallery can be remixed. This means that you can customize any app project that you see. 
