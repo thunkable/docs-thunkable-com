@@ -6,6 +6,8 @@ Apple requires a lot information for apps that are available in their App Store.
 
 Thunkable is continually looking for ways to streamline the publishing process and has made it possible for creators to publish from a non-Mac computer, which is normally required from the standard publishing process.
 
+### Table of Contents
+
 * [Minimum requirements](publish-to-app-store-ios.md#minimum-requirements)
 * [Register your app](publish-to-app-store-ios.md#register-your-app)
 * [Two-factor authentication](publish-to-app-store-ios.md#two-factor-authentication)
@@ -27,12 +29,13 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 ![](.gitbook/assets/pubish_step_by_step.gif)
 
-1. [Sign into you Apple Developer Account](publish-to-app-store-ios.md#sign-into-your-apple-developer-account)
-2. [Make a Certificate Signing Request](publish-to-app-store-ios.md#register-your-app)
-3. [Generate a Mobile Provisioning Profile](publish-to-app-store-ios.md#provision-your-app)
-4. [Set an app-specific password](publish-to-app-store-ios.md#generate-an-app-specific-password)
-5. [Create an app on App Store Connect](publish-to-app-store-ios.md#appstore-connect)
-6. [Send to App Store Connect](publish-to-app-store-ios.md#send-to-app-store-connect)
+1. [ ] [Sign into you Apple Developer Account](publish-to-app-store-ios.md#sign-into-your-apple-developer-account)
+2. [ ] [Register your App ID](publish-to-app-store-ios.md#register-your-app-id)
+3. [ ] [Create a Distribution Certificate](publish-to-app-store-ios.md#create-a-distribution-certificate)
+4. [ ] [Generate a Mobile Provisioning Profile](publish-to-app-store-ios.md#provision-your-app)
+5. [ ] [Set an app-specific password](publish-to-app-store-ios.md#generate-an-app-specific-password)
+6. [ ] [Create an app on App Store Connect](publish-to-app-store-ios.md#appstore-connect)
+7. [ ] [Send to App Store Connect](publish-to-app-store-ios.md#send-to-app-store-connect)
 
 ## Sign into your Apple Developer Account
 
@@ -60,6 +63,8 @@ Enter the Apple ID and password that are associated with your Apple Developer ac
 
 ## Register your App ID
 
+Every app published on the App Store must have a unique name. For example, there can only ever be one app called `Thunkable Sample App`. 
+
 ### Apple
 
 Go to the [**Apple Developer website**](https://developer.apple.com/account) ****to ****register a new App ID. Click through the tabs below to see each screen in the ID creation process.
@@ -76,7 +81,7 @@ Open your Apple Developer account page and choose the **Certificates, IDs & Prof
 {% tab title="Step 2" %}
 ![](.gitbook/assets/dev_02.png)
 
-In the menu on the left, click on the **Identifiers** menu item
+From the menu on the left, click on the **Identifiers** menu item
 {% endtab %}
 
 {% tab title="Step 3" %}
@@ -112,7 +117,7 @@ This new app ID is added to your list of app IDs.
 
 ### Thunkable
 
-Back in Thunkable, you will be prompted for your App Name, Team ID and Bundle ID
+Back in Thunkable, you will be prompted for your App Name, Team ID and Bundle ID. If you are unsure of what these are, please refer to Step 6, above. 
 
 * **App Name:** The app Name must be unique to the App Store and is what appears next to the app icon when it is downloaded on a user's phone.
 * **Team ID:**  A unique account identifier that is linked to your Apple Developer Program membership. Apple will automatically create this for you, and it can be used for every app you publish.
@@ -123,19 +128,17 @@ Back in Thunkable, you will be prompted for your App Name, Team ID and Bundle ID
 
 ## Create a Distribution Certificate
 
-Two-factor authentication helps to keep your account secure and Apple is making it mandatory for new developers to turn two-factor authentication on.
-
-If you do have it turned on, you'll need to complete a few more steps to confirm your identity with Apple.
+Two-factor authentication helps to keep your account secure and Apple has made it mandatory for new developers to turn two-factor authentication on. If you do have 2FA turned on, you'll need to complete the following steps to confirm your identity with Apple.
 
 ### Thunkable
 
-In the publishing dialog, click on the link that says **Click to Download CSR.** This is your Certificate Signing Request file and you will need it to generate an iOS Distribution Certificate. 
+In the publishing dialog, click the link that says **Click to Download CSR.** This is your Certificate Signing Request file and you will need it to generate an iOS Distribution Certificate. 
 
 ![](.gitbook/assets/download_csr.png)
 
 ### Apple 
 
-Go to .... to generate an iOS Distribution Certificate. Two-factor authentication helps to keep your account secure and Apple is making it mandatory for new developers to turn two-factor authentication on.
+Go to the [Certificates page](https://developer.apple.com/account/resources/certificates/list) in your Apple Developer account to generate an iOS Distribution Certificate. Two-factor authentication helps to keep your account secure and Apple is making it mandatory for new developers to turn two-factor authentication on.
 
 {% hint style="warning" %}
 You may already have an account certificate in your account. You can only have two certificates per account so you may need to revoke a certificate before you can create a new one.
@@ -144,18 +147,32 @@ You may already have an account certificate in your account. You can only have t
 {% tabs %}
 {% tab title="Step 1" %}
 ![](.gitbook/assets/cert_01.png)
+
+Click on the blue **+** icon to create a new iOS distribution certificate.
 {% endtab %}
 
 {% tab title="Step 2" %}
 ![](.gitbook/assets/cert_02.png)
+
+Choose **iOS Distribution \(App Store and Ad Hoc\)** from the next list and click **Continue.**
 {% endtab %}
 
 {% tab title="Step 3" %}
 ![](.gitbook/assets/cert_03.png)
+
+Upload the [Certificate Signing Request](publish-to-app-store-ios.md#thunkable-2) you download from Thunkable and click **Continue** to get your certificate.
 {% endtab %}
 
 {% tab title="Step 4" %}
 ![](.gitbook/assets/cert_04.png)
+
+Click the blue **Download** button to save a copy of this certificate to your computer.
+{% endtab %}
+
+{% tab title="Step 5" %}
+![](.gitbook/assets/04_csr_cer.png)
+
+Back in Thunkable, click the **Upload Certificate** button and choose the `.cer` file that you have just created. 
 {% endtab %}
 {% endtabs %}
 
@@ -168,36 +185,50 @@ Provisioning profiles are required by Apple to install an app on a device. You n
 {% tabs %}
 {% tab title="Step 1" %}
 ![](.gitbook/assets/prof_01.png)
+
+Open up the [Profiles list](https://developer.apple.com/account/resources/profiles/list) in your Apple Developer account and click the blue **+** button to get started. 
 {% endtab %}
 
 {% tab title="Step 2" %}
 ![](.gitbook/assets/prof_02.png)
+
+Make sure you are creating a **Distribution** profile and that the **App Store** option \(highlighted above\) is selected. Click **Continue** to choose an App ID.
 {% endtab %}
 
 {% tab title="Step 3" %}
 ![](.gitbook/assets/prof_03.png)
+
+From the drop down menu, choose the ID for the app that you are trying to publish. Click **Continue** to go to the next page.
 {% endtab %}
 
 {% tab title="Step 4" %}
 ![](.gitbook/assets/prof_04.png)
+
+Choose a certificate and click **Continue.**
 {% endtab %}
 
 {% tab title="Step 5" %}
 ![](.gitbook/assets/prof_05.png)
+
+Finally, give your provisioning profile a meaningful name and hit the **Generate** button.
 {% endtab %}
 
 {% tab title="Step 6" %}
 ![](.gitbook/assets/prof_06.png)
+
+Once the provisioning profile has been generated you can then **Download** it to your computer. 
 {% endtab %}
 
 {% tab title="Step 7" %}
 ![](.gitbook/assets/prof_07.png)
+
+The profile has a `.mobileprovision`file type. You now need to go back to Thunkable and upload this file. 
 {% endtab %}
 {% endtabs %}
 
 ### Thunkable
 
-Back in Thunkable, upload your `.mobileprovision` file and click the **Next** button to go to the next step. 
+Back in Thunkable, upload your `.mobileprovision` file and click the **Next** button to go to the next step; [Generating an app-specific password.](publish-to-app-store-ios.md#generate-an-app-specific-password)
 
 ![](.gitbook/assets/05_provisioning.png)
 
@@ -213,41 +244,43 @@ Go to the [Apple ID account website](https://appleid.apple.com/#!&page=signin) a
 {% tab title="Step 1" %}
 ![](.gitbook/assets/appid_01.png)
 
-Step 1: Enter your Apple ID and Password
+**Step 1:** Enter your Apple ID and Password
 {% endtab %}
 
 {% tab title="Step 2" %}
 ![](.gitbook/assets/appid_02.png)
 
-Step 2: If prompted, enter your 6 digit authentication code.
+**Step 2:** If prompted, enter your 6 digit authentication code.
 {% endtab %}
 
 {% tab title="Step 3" %}
 ![](.gitbook/assets/appid_03.png)
 
-Once signed in, click on the **Generate password...** link highlighted above.
+**Step 3:** Once signed in, click on the **Generate password...** link highlighted above.
 {% endtab %}
 
 {% tab title="Step 4" %}
 ![](.gitbook/assets/appid_04.png)
 
-Give your password a meaningful name so you will be able to recognise it later.
+**Step 4:** Give your password a meaningful name so you will be able to recognise it later.
 {% endtab %}
 
 {% tab title="Step 5" %}
 ![](.gitbook/assets/appid_05.png)
 
-Step 5: You will not be able to retrieve this password once you click **Done** so make sure you save it some place safe.
+**Step 5:** You will not be able to retrieve this password once you click **Done** so make sure you save it some place safe.
 {% endtab %}
 {% endtabs %}
 
 ### Thunkable 
 
-Paste your app-specific password into the empty text box and click the **Next** button to send your project to App Store Connect. 
+Paste your app-specific password into the empty text box and click the **Next** button to send your project to [App Store Connect](publish-to-app-store-ios.md#appstore-connect). 
 
 ![](.gitbook/assets/06_app_specific_password.png)
 
 ## App Store Connect  <a id="appstore-connect"></a>
+
+App Store Connect is where you'll prepare your app store listing
 
 ### Thunkable
 
@@ -277,7 +310,7 @@ App Store Connect is your portal for managing your submission to the App Store.
 {% tab title="Step 4" %}
 ![](.gitbook/assets/store_04.png)
 
-You will need to use the same app Name and Bundle ID you registered earlier. If you registered an 'Explicit App ID', you will enter it into the Bundle ID field above.
+You will need to use the same **App Name** and **Bundle ID** you registered earlier. If you registered an 'Explicit App ID', you will enter it into the Bundle ID field above.
 {% endtab %}
 
 {% tab title="Step 5" %}
@@ -287,7 +320,9 @@ You will need to use the same app Name and Bundle ID you registered earlier. If 
 
 ## App info
 
-#### You're almost there.
+You're almost there.
+
+![](.gitbook/assets/08_app_info-1.png)
 
 ### Upload an app icon
 
@@ -300,6 +335,14 @@ The version number is visible to your users when they download a new version of 
 ### Permissions
 
 Apple requires that you explain to users why you may need access to a sensitive services like a camera, photo library and microphone. You can add these explanations in the App Settings panel.
+
+![](.gitbook/assets/app_settings.png)
+
+### Congratulations
+
+You should shortly receive an email from Thunkable to let you know that your app is being sent to the App Store. There are still a number of steps that Apple need to take before your app can be downloaded, but that's everything completed from the Thunkable side of things - congrats!
+
+![](.gitbook/assets/app_sent.png)
 
 ## **Send to App Store Connect**
 
