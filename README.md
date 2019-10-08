@@ -4,7 +4,7 @@ description: The platform where anyone can build their own mobile apps.
 
 # 👋 Welcome to Thunkable
 
-## In the Beginning...
+In the Beginning...
 
 If you've made it to this page, you probably want to build an app. Congratulations!
 

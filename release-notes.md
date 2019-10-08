@@ -5,8 +5,8 @@
 New components
 
 * QR Code / Barcode Scanner
+* Video Player
 * Extended Listviewer
-* Google Sheets
 
 Component updates
 
@@ -15,6 +15,13 @@ Component updates
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
+
+## Oct 4, 2019
+
+Component updates
+
+* [Canvas](canvas.md) - added option to change the color of the frame, or the area surrounding the Canvas
+* [Alert](alert.md) - adds default text for the Confirm and Cancel buttons
 
 ## Oct 2, 2019
 
