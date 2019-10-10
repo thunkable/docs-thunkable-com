@@ -28,9 +28,9 @@ To auto-center your map, you can pair the Map component with a Location Sensor
 
 | Property | Description |
 | :--- | :--- |
-| Latitude | Default \(`37.78`\); In degrees above the equator from `-90` to `90` where locations north of the equator are positive and those south are negative |
-| Longitude | Default \(`-122.4`\); In degrees east or west from the equator from `-90` to `90` where locations west of the equator are negative and those east are positive |
-| Zoom | Default \(`0`\); Range is -15 to 10 where -15 is most zoomed out |
+| Latitude | Default \(`37.78`\); Degrees north or south of the equator, from `-90` to `90.`Locations north of the equator are positive and those to the south are negative. Latitude at the equator is 0°. |
+| Longitude | Default \(`-122.4`\); Degrees east or west of the prime meridian, from `-180` to `180`. Locations west of the prime meridian are negative and those to the east are positive. Longitude at the prime meridian is 0°. |
+| Zoom | Default \(`0`\); Range is `-15` to `10` where -15 is most zoomed out |
 | Shows User Location | Default \(`true`\); If `true`, shows user location as a blinking blue dot |
 | Shows My Location Button \(Google Maps only\) | Default \(`true`\); In `true`, shows my location button that auto-centers map on user's location |
 
