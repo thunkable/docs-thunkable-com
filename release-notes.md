@@ -5,7 +5,6 @@
 New components
 
 * QR Code / Barcode Scanner
-* Video Player
 * Extended Listviewer
 
 Component updates
@@ -15,6 +14,12 @@ Component updates
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
+
+## Oct 17, 2019
+
+New components
+
+* [Video](video.md) - allow users to play videos in your app
 
 ## Oct 4, 2019
 
@@ -309,7 +314,7 @@ Platform updates
 Platform updates
 
 {% hint style="success" %}
-Thunkable has launched the [Public Gallery](projects/public-gallery.md), a public collection apps for anyone to preview, download or remix.
+Thunkable has launched the [Public Gallery](public-gallery.md), a public collection apps for anyone to preview, download or remix.
 
 All new apps will be public by default and included in the Public Gallery.
 
