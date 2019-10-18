@@ -11,7 +11,7 @@
 
 You can create a list of variable lengths with the blocks below
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 ![](.gitbook/assets/blocks-lists-fig-3.png)
 

@@ -12,7 +12,7 @@ The most basic but most often used text block is below
 
 Often, you'll want to join text values together with the block below
 
-![The blocks above say that when Screen1 opens, set the text of Label1 to be &quot;hello world&quot;.](.gitbook/assets/image%20%2889%29.png)
+![The blocks above say that when Screen1 opens, set the text of Label1 to be &quot;hello world&quot;.](.gitbook/assets/image%20%2896%29.png)
 
 ## Reformat text
 

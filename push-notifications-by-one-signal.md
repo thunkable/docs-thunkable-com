@@ -42,13 +42,13 @@ One Signal is a free service that supports unlimited devices and notifications. 
 
 * Go to [One Signal](https://onesignal.com/) and sign up for an account
 
-![](.gitbook/assets/image%20%2873%29.png)
+![](.gitbook/assets/image%20%2880%29.png)
 
 After you have signed up, click Add App and enter in your app name:
 
-![](.gitbook/assets/image%20%2894%29.png)
+![](.gitbook/assets/image%20%28101%29.png)
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 After adding your app, OneSignal will ask you to select a platform. Below, we have created guides for both Android and iOS.
 
@@ -81,7 +81,7 @@ For instructions on how to set up a Firebase account, please click [here](https:
 
 Once you are signed in with Firebase, create a new project.
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2821%29.png)
 
 Once you have created a new project, click on the gear icon beside Project Overview and select **Project settings**.
 
@@ -89,20 +89,20 @@ Once you have created a new project, click on the gear icon beside Project Overv
 
 Select the Cloud Messaging option:
 
-![](.gitbook/assets/image%20%2856%29.png)
+![](.gitbook/assets/image%20%2860%29.png)
 
 There are two things that you will need to copy and paste back into One Signal:
 
 1. Server Key
 2. Sender ID
 
-![](.gitbook/assets/image%20%2888%29.png)
+![](.gitbook/assets/image%20%2895%29.png)
 
 Go back to the **One Signal** platform.
 
 Earlier you should have selected the Android option on One Signal, and your screen should look like this:
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 Copy and paste the Firebase Server Key and the Firebase Sender ID sections into One Signal.
 
@@ -126,13 +126,13 @@ On the right hand side, paste the code from One Signal into the Android App ID s
 
 Click the Live Test button. Once the app is on your phone, go back to One Signal. Click the "Check Subscribed Users" button.
 
-![](.gitbook/assets/image%20%2897%29.png)
+![](.gitbook/assets/image%20%28104%29.png)
 
 If you are live testing or have downloaded your Android app, you should see a congratulations message. Click "DONE".
 
 Select the "MESSAGES" option and then select "NEW PUSH". You will now be able to create push notifications and send them to your app users.
 
-![](.gitbook/assets/image%20%28106%29.png)
+![](.gitbook/assets/image%20%28113%29.png)
 
 ##  iOS Setup
 
@@ -201,5 +201,5 @@ When you are ready to send your first push notification, select the "MESSAGES" o
 
 
 
-![](.gitbook/assets/image%20%28106%29.png)
+![](.gitbook/assets/image%20%28113%29.png)
 

@@ -10,13 +10,13 @@ description: >-
 
 When "Screen1 Starts"
 
-![](.gitbook/assets/image%20%2843%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 
 | Event | Description |
 | :--- | :--- |
 | Starts | Triggers an event / set of events when the Screen is **first** opened |
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 | Event | Description |
 | :--- | :--- |
@@ -26,7 +26,7 @@ When "Screen1 Starts"
 
 The `Horizontal Alignment` property allows you to space elements in a Screen horizontally
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-64%20%281%29.png)
 
@@ -38,7 +38,7 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 
 ## Add a background color or picture
 
-![](.gitbook/assets/image%20%2880%29.png)
+![](.gitbook/assets/image%20%2887%29.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -49,7 +49,7 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 
 This determines how to resize the image when the frame doesn't match the raw image dimensions.
 
-![](.gitbook/assets/image%20%2878%29.png)
+![](.gitbook/assets/image%20%2885%29.png)
 
 * Cover: Fills the entire screen without changing the height and width ratio of the image 
 * Contain: The entire image will be scaled down to fit inside the screen, without changing the height and width ratio of the image 
@@ -62,7 +62,7 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 ## Enable scrolling
 
-![](.gitbook/assets/image%20%2871%29.png)
+![](.gitbook/assets/image%20%2877%29.png)
 
 | Property | Description |
 | :--- | :--- |
