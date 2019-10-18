@@ -24,7 +24,7 @@ After downloading the [Thunkable Live mobile app](../get-started/live-test.md), 
 **3. Remix a Project**  
 All projects on the Public Gallery can be remixed. This means that you can customize any app project that you see. 
 
-![](../.gitbook/assets/thunkable-docs-exhibits-44.png)
+![](../.gitbook/assets/thunkable-docs-exhibits-44%20%282%29.png)
 
 
 
