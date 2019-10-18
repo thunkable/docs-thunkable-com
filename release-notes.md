@@ -15,7 +15,7 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
-## Oct 17, 2019
+## Oct 18, 2019
 
 New components
 
