@@ -10,7 +10,7 @@ Barcodes and QR codes can be useful features in many types of apps from social a
 
 ## Set-up
 
-The Barcode Scanner is among the easiest components to set-up and use. After adding the component to your app, you can connect it with a button and a label like the blocks below \(You can see these blocks in this sample [Barcode Scanner](https://x-staging-pro.thunkable.com/copy/ff8c74c9f342eeee4b0f6041f1c9989a) app\)
+The Barcode Scanner is among the easiest components to set-up and use. After adding the component to your app, you can connect it with a button and a label like the blocks below.
 
 ![](.gitbook/assets/screen-shot-2019-10-24-at-1.39.04-pm.png)
 
