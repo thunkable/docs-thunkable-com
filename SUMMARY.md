@@ -45,6 +45,7 @@
 * [Image Recognizer](image-recognizer.md)
 * [Animation by Lottie](lottie.md)
 * [Video](video.md)
+* [Barcode Scanner](barcode-scanner.md)
 * [📊 Data](data.md)
 * [Local Storage](local-storage.md)
 * [Local DB](local-db.md)
