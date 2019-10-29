@@ -10,14 +10,16 @@ The Video component lets you play videos in your app that are stored in the clou
 
 * [Set Video](video.md#set-video)
 * [Edit Video size](video.md#edit-video-size)
+* [Set to Auto-Play](video.md#set-to-auto-play)
 * [Change Video](video.md#change-video)
+* [Pause or Un-Pause](video.md#pause-or-un-pause)
 
 ## Set Video
 
 There are a few ways you can set a video source in your app:
 
 1. **Provide a link to the video.** \(The link has to end in `.mp4`, `.mov`, …so videos uploaded to YouTube and other video sharing sites may not work.\)
-2. **Upload a video to your app.** Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app).
+2. **Upload a video to your app.** Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
 
 ## Edit Video size
 
@@ -37,11 +39,29 @@ You can set how tall the Video is using the `height` property and set how wide i
 * **Relative size -** The Video fills the specified percentage of the screen
 * **Absolute -** Sizes the Video to a specified number of pixels
 
+## Set to Auto-Play
+
+To set a video to play automatically, just toggle the Play property to `true` 
+
+![](.gitbook/assets/screen-shot-2019-10-29-at-2.03.22-pm.png)
+
 ## Change Video
 
 If you want to build a video player \([try this sample app](https://x.thunkable.com/copy/f915eb9a227c4214f5f6c4521d31a86c)\), you may want to change the video source when an event happens \(like clicking the next button\). If you store your videos in something like a Local DB, you could change the videos with the blocks below:
 
 ![Blocks from a Video player sample app](.gitbook/assets/screen-shot-2019-10-17-at-3.30.25-pm.png)
+
+## Pause or Un-pause 
+
+The easiest way to permit the user to pause or un-pause a video is through the built in video player. 
+
+There is the option to also pause a video in the blocks editor. To do so, you can use blocks like the ones shown below:
+
+{% hint style="warning" %}
+For Android creators, we recommend using the built in video player to pause and un-pause videos. Using the blocks below will reset the video to the beginning of the video \(and not where it was last played\)
+{% endhint %}
+
+![](.gitbook/assets/screen-shot-2019-10-29-at-2.16.45-pm.png)
 
 
 

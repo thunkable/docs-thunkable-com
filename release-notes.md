@@ -4,7 +4,6 @@
 
 New components
 
-* QR Code / Barcode Scanner
 * Extended Listviewer
 
 Component updates
@@ -14,6 +13,22 @@ Component updates
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
+
+## Oct 29, 2019
+
+New components
+
+* [Barcode Scanner](barcode-scanner.md) - allow apps to read any barcode or QR code with the help of a device camera
+
+Component updates
+
+* [Video](video.md) - added the ability to auto-play videos and pause / play video from blocks
+
+## Oct 25, 2019
+
+Platform updates
+
+* Gallery - added the ability to search public gallery projects by creator username
 
 ## Oct 18, 2019
 
