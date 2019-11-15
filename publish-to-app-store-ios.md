@@ -134,6 +134,8 @@ Two-factor authentication helps to keep your account secure and Apple has made i
 
 In the publishing dialog, click the link that says **Click to Download CSR.** This is your Certificate Signing Request file and you will need it to generate an iOS Distribution Certificate. 
 
+
+
 ![](.gitbook/assets/download_csr.png)
 
 ### Apple 
@@ -234,7 +236,7 @@ Back in Thunkable, upload your `.mobileprovision` file and click the **Next** bu
 
 ## Generate an app-specific password
 
-Apple requires app-specific passwords to sign-in securely from Thunkable. Once you have created your app specific password this will be saved in your Thunkable project, thus allowing your to upload your project to the App Store and to make future updates to you app, if needed. 
+Apple requires app-specific passwords to sign-in securely from Thunkable. You will need this password to update your app in the future, so make sure to record it securely.
 
 ### Apple
 
@@ -393,12 +395,14 @@ The App Information section is straightforward but does include a privacy policy
 
 ### Design assets
 
-The final section requires screenshots for both iPhone and iPad and a high resolution icon \(1024 x 1024 px\)
+The final section requires screenshots for both iPhone and iPad and a high resolution icon.
 
-{% hint style="info" %}
-Thunkable automatically submits your app for both iPhone and iPad so you'll have to submit screenshots for both iPhone and iPad. _\*\*_ There is currently no way to specify the device type. For generating screenshots, we recommend a tool [like this](https://shotbot.io/?utm_source=makeappicon&utm_medium=web&utm_campaign=makeappicon)
+The high resolution icon will be featured in the App Store listing and must be 1024 x 1024 px with no transparency. To generate this icon, we recommend a tool [like this](https://makeappicon.com/).
 
-The high resolution icon will be featured in the App Store listing and must be 1024 x 1024 px with no transparency. To generate this icon, we recommend a tool [like this](https://makeappicon.com/)
+As described in Apple's [screenshot specifications document](https://help.apple.com/app-store-connect/#/devd274dd925), screenshots are required from **two models of iPhone** and **two models of iPad**.
+
+{% hint style="success" %}
+Thunkable offers a [full iOS screenshot service](https://community.thunkable.com/t/ios-screenshot-suite-available-for-pro-users-now-includes-ipad/264450?u=jane) for [PRO creators](https://thunkable.com/#/pricing).
 {% endhint %}
 
 ![](.gitbook/assets/thunkable-docs-exhibits-74.png)

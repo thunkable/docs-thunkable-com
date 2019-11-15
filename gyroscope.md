@@ -10,16 +10,9 @@ The gyroscope is capable of measuring how quickly the phone is being turned. It 
 
 ## Events
 
-Whenever the phone is turned, or rotated, the `Changes` event will fire. This event returns 4 parameters for us to work with. 
+Whenever the phone is turned, or rotated, the `Changes` event will fire. 
 
-![](.gitbook/assets/screenshot-2019-05-18-at-14.15.00.png)
-
-| Parameter | Type | Returns |
-| :--- | :--- | :--- |
-| `xRotationRate` | Number | Angular velocity, about the x axis, in $$rad/s$$  |
-| `yRotationRate` | Number | Angular velocity, about the y axis, in $$rad/s$$  |
-| `zRotationRate` | Number | Angular velocity, about the z axis, in $$rad/s$$  |
-| `error` | String | Error message from the sensor |
+![](.gitbook/assets/gyro_changes.png)
 
 ## Properties
 
@@ -34,9 +27,19 @@ By default the gyroscope sensor is turned on, but the `enabled`property can be u
 
 ![](.gitbook/assets/image%20%2825%29.png)
 
+![](.gitbook/assets/gyro_abc.png)
+
 | Property | Type | Description |
 | :--- | :--- | :--- |
 | `Alpha` | Number | Rotation about the y-axis |
 | `Beta` | Number | Rotation about the x-axis |
 | `Gamma` | Number | Rotation about the z-axis |
+
+![](.gitbook/assets/gyro_xyz.png)
+
+| Property | Type | Description |
+| :--- | :--- | :--- |
+| `X` | Number | Angular velocity about the X axis |
+| `Y` | Number | Angular velocity about the Y axis |
+| `Z` | Number | Angular velocity about the Z axis |
 

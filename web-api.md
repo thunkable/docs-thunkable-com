@@ -30,12 +30,6 @@ In addition to creating your own objects, it is also possible to use JSON to spe
 
 ![](.gitbook/assets/wvd4.png)
 
-{% hint style="warning" %}
-There is a known bug with the `get object from JSON` block, so we temporarily suggest using the work-around shown below if you need to use JSON to set your query or header parameters.
-{% endhint %}
-
-![](.gitbook/assets/wvd5.png)
-
 ## Get and format \(parse\) data
 
 ![This block retrieves and formats data from the Open Weather Map API](.gitbook/assets/screen-shot-2018-08-01-at-2.12.03-pm.png)

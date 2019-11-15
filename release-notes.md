@@ -14,6 +14,12 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
+## Nov 18, 2019
+
+Platform updates
+
+* Gallery - added the ability to star your favorite projects
+
 ## Oct 29, 2019
 
 New components
