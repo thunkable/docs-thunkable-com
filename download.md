@@ -79,3 +79,8 @@ Common issues
 
 * You have a special character like "&" in your [App Name](projects/settings.md#app-name)
 
+**When you install your app on Android, you see the message "There was a problem parsing the Package"**
+
+* This is caused by your package name, also known in your project as your App \(Bundle\) ID. Your App \(Bundle\) ID is a series of short strings of text that are separated by periods, such as **com.thunkable.creator.app**. These string of text must i\) be lowercase, ii\) begin with a letter.
+  * Examples of App \(Bundle\) IDs that can cause errors: com.thunkable.creator.1app, Com.Thunkable.Creator.APP
+
