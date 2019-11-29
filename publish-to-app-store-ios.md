@@ -234,11 +234,11 @@ Back in Thunkable, upload your `.mobileprovision` file and click the **Next** bu
 
 ![](.gitbook/assets/05_provisioning.png)
 
-## Generate an app-specific password
+## App-specific passwords
 
 Apple requires app-specific passwords to sign-in securely from Thunkable. You will need this password to update your app in the future, so make sure to record it securely.
 
-### Apple
+### Generate an app-specific password
 
 Go to the [Apple ID account website](https://appleid.apple.com/#!&page=signin) and create an app-specific password.
 
@@ -273,6 +273,17 @@ Go to the [Apple ID account website](https://appleid.apple.com/#!&page=signin) a
 **Step 5:** You will not be able to retrieve this password once you click **Done** so make sure you save it some place safe.
 {% endtab %}
 {% endtabs %}
+
+### Changing an App-specific password
+
+To change an app-specific password, you will need to 1\) revoke your old password and 2\) generate a new password using the steps above.   
+  
+To revoke an app-specific password:
+
+1. Sign into your [Apple ID account page](https://appleid.apple.com/#!&page=signin)
+2. In the **Security** section, click **Edit**
+3. Go to the **App-Specific Passwords** section and click **View History**
+4. Click the ⓧ next to an individual password to revoke it, or click 'Revoke All' to revoke all of your app-specific passwords
 
 ### Thunkable 
 
@@ -328,7 +339,7 @@ You're almost there.
 
 ### Upload an app icon
 
-This app icon appears when a user downloads your app from the App Store. Our recommended size is 192 x 192 px.
+This app icon appears when a user downloads your app from the App Store. Our recommended size is 192 x 192 px. This icon must not have any transparent pixels.
 
 ### Set a build and version number
 
@@ -371,6 +382,7 @@ If your app is submitted successfully, it should appear under the Testflight tab
 * Two-factor authentication. You must turn off two-factor authentication for your Apple Developer ID to publish with Thunkable. Please [click here](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations for turning off two-factor authentication 
 * Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
 * Apple ID and privacy terms. You must accept Apple's new Apple ID and privacy terms.
+* You see a message saying "ITMS-90809: Deprecated API Usage - Apple will stop accepting submissions of apps that use UIWebView APIs". This is a warning, but you can still publish your app. See the [Web Viewer](https://docs.thunkable.com/web-viewer) documentation for more details.
 
 ## Submit your app for review
 

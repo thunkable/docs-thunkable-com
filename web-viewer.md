@@ -6,6 +6,11 @@ description: >-
 
 # Web Viewer
 
+{% hint style="info" %}
+When publishing an app containing a Web Viewer, you may see a message saying that your Web Viewer has a "deprecated API". We are working on updating this component.   
+The Web Viewer API will be brought up to date before the Play Store or App Store stops accepting the deprecated API.
+{% endhint %}
+
 * [Set URL](web-viewer.md#set-url)
 * [Edit Web Viewer size](web-viewer.md#edit-web-viewer-size)
 * [Add spacing](web-viewer.md#add-spacing)

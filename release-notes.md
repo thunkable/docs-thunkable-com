@@ -13,6 +13,7 @@ Component updates
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
+* Updating [Web Viewer](https://docs.thunkable.com/web-viewer) in response to deprecation message seen when publishing apps
 
 ## Nov 18, 2019
 

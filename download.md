@@ -67,7 +67,13 @@ Common issues
 
 * You uploaded an icon that has the same name as an existing asset that you have uploaded
 * Your app icon is not an image file
+* Your app icon contains transparent pixels. Apple does not allow you to have any icons with any transparent colors
 * We are having trouble with our build servers. Please try again in 30 minutes or chat with us if you are still having problems
+* App \(Bundle\) ID. Your App \(Bundle\) ID is a series of short strings of text that are separated by periods, such as **com.thunkable.creator.app**. These string of text must i\) be lowercase, ii\) begin with a letter.
+  * Examples of App \(Bundle\) IDs that can cause errors: com.thunkable.creator.1app, Com.Thunkable.Creator.APP
+* Asset names. We recommend that asset names **only** contain Roman alphabet characters with no accents, and numbers.
+  * Examples of asset names that could cause errors: image\(1\).jpg, imãge.jpg
+  * Examples of asset names that won't cause errors: image1.jpg, image.jpg
 
 **You cannot install your app and get the message "Cannot connect to storage.googleapis.com"**
 

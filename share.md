@@ -46,6 +46,10 @@ Sharing is caring and the Share component enables users to use the default apps 
 | :--- | :--- |
 | Send Email \(`to email`, `subject`,`message`\) | Opens default email app to send an email`message` to a specified `to email`  with one add'l click; does not send email automatically for security and safety reasons |
 
+{% hint style="info" %}
+You can use HTML formatting to customize the emails you send with the Share component \(iOS only\)
+{% endhint %}
+
 ## Share a text or image
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits-92.png)
