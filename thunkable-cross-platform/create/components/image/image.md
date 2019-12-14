@@ -23,7 +23,7 @@ The Image components lets you reference pictures added to your app or on the web
 
 Sizing your Image requires setting the area of your app you want the Image to cover and resizing the Image to fit into that area
 
-For more information on sizing in your app, please see our [introduction here​](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/intro-to-sizing)
+For more information on sizing in your app, please see our [introduction here​](https://docs.thunkable.com/thunkable-cross-platform/create/intro-to-sizing)
 
 ### Setting the area of your app the Image covers
 
