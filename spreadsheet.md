@@ -1,4 +1,4 @@
-# Spreadsheet by Airtable
+# Airtable
 
 Airtable is a service that looks like a spreadsheet but actually acts like a database so it can do database-like things like store attachments i.e. images in your spreadsheets \(and not just text\) and link records between spreadsheets.
 
@@ -9,7 +9,7 @@ We like Airtable because set-up is relatively a breeze for a spreadsheet
 
 ## Set up
 
-### Create your [free Airtable](https://airtable.com/) spreadsheet and account
+### Create your [free Airtable](https://airtable.com/) base and account
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-1.png)
 

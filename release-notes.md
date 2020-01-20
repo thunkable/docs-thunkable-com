@@ -15,6 +15,28 @@ Platform updates
 * Translation into Chinese 中文 \(more languages to come in the future\)
 * Updating [Web Viewer](https://docs.thunkable.com/web-viewer) in response to deprecation message seen when publishing apps
 
+## Jan 3, 2020
+
+Platform updates
+
+* [Web Preview](web-preview.md) \(Beta\) - see a web preview of your apps on the details page of your project and any project on the Thunkable gallery; some [components are not supported yet](web-preview.md#unsupported-components) and projects may appear differently than they do on your device
+
+## Dec 19, 2019
+
+Platform updates
+
+* Project Detail Page - updated styling \([see sample](https://x.thunkable.com/projectPage/5c183d7c7bd8616f60c5a39a)\)
+
+## Dec 10, 2019
+
+Platform updates
+
+* User Profile Page - updated profile pages for all creators, featuring all your projects \([see sample](https://x.thunkable.com/profiles/albert)\); Only `public` projects will be visible to other creators
+
+Component updates
+
+* [Timer](timer.md) - added the ability to set the timer in seconds or milliseconds and to count up
+
 ## Nov 18, 2019
 
 Platform updates

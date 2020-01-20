@@ -10,15 +10,15 @@ If you are seeing this page, you are likely having problems logging into our web
 
 Fortunately, we have some recommendations that will hopefully help you fix your login issues. Our top suggestions are:
 
-1. **Sign out completely** from Google \(and then sign back-in\)
-2. **Switch your browser** to Chrome, Firefox or Safari **\(i**f using Internet Explorer or Edge Web Browsers\) _\*\*_
-3. \*\*\*\*[**Enable cookies**](login-issues.md#how-to-enable-cookies) _\*\*_in your browser \(if you have them switched off\)
+1. **Sign out completely** from Google and then sign back-in
+2. **Switch your browser** to Chrome, Firefox or Safari \(if using Internet Explorer or Edge Web Browsers\)
+3. [**Enable cookies**](login-issues.md#pro-tip-how-to-enable-cookies) in your browser, if you have them switched off.
 4. **Uninstall AdBlocker** extensions or add-ons \(if you have them installed\)
 5. **Disable Kaspersky Lab Antivirus** or whitelist thunkable.com \(if you have it installed\)
 
 A helpful summary is below:
 
-| \*\*\*\* | **Compatible with Thunkable** | **Not compatible with Thunkable** |
+|  | **Compatible with Thunkable** | **Not compatible with Thunkable** |
 | :--- | :--- | :--- |
 | Browser | Chrome, Firefox or Safari | Microsoft Internet Explorer or Edge Web Browser |
 | Cookies | Cookies enabled in the browser | Cookies disabled in the browser |
@@ -31,9 +31,13 @@ To enable cookies, please follow the directions below:
 
 ## **Chrome**
 
-* You will need to have settings like the one below.  More info [here](https://support.google.com/accounts/answer/61416?hl=en).
+In Chrome you need to make sure that you are allowing sites to save and read cookie data. You will also need to ensure that you **do not block** third-party cookies. 
 
-![](../.gitbook/assets/login-issues-fig-4%20%281%29.png)
+Open you Chrome cookie settings: [chrome://settings/content/cookies](chrome://settings/content/cookies).
+
+More info about cookies in Chrome [here](https://support.google.com/accounts/answer/61416?hl=en).
+
+![](../.gitbook/assets/chrome_cookie_settings.png)
 
 ## **Firefox**
 
@@ -43,9 +47,17 @@ To enable cookies, please follow the directions below:
 
 ## **Safari**
 
-* You will need to have settings like the one below. More info [here](https://support.apple.com/kb/ph21411?locale=en_US).
+Open Safari &gt; Preferences ... &gt; Privacy
 
-![](https://lh4.googleusercontent.com/wFfLLTBcmkBEsmEqhgrZ_xGB-cJZDXO-PMeLmlM8SBTvKkqZercDpebnck1sM-48z_EzCWQV8zT5sdZiNeJWLWp4yWMYt7TcsY8F6119dk9yzFeHWP4IXiFDt50ksV0_LLShCbh6)
+Prevent cross-site tracking should be **checked.** 
+
+Block all cookies should be **unchecked**.
+
+![](../.gitbook/assets/safari_cookie_settings.png)
+
+Read more about cross-site tracking [here](https://support.apple.com/en-ie/guide/safari/sfri40732/13.0/mac/10.15).
+
+Read more about managing cookies [here](https://support.apple.com/en-ie/guide/safari/sfri11471/mac).
 
 **IMPORTANT**: Please make sure to refresh your page after you enable cookies
 
