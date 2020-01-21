@@ -84,12 +84,6 @@ You can add a standard default marker to your map with the blocks below. The Map
 
 ![](.gitbook/assets/screen-shot-2018-04-24-at-1.18.26-pm.png)
 
-## Delete markers
-
-Sometimes it's helpful to clear all the markers from the map e.g. when you are trying to update your location in real-time which requires adding a marker and deleting existing markers.
-
-![](.gitbook/assets/screen-shot-2019-06-18-at-2.56.36-pm.png)
-
 ## Add polyline
 
 ![This is the satellite map available on Google Maps on Android and iOS](.gitbook/assets/thunkable-documentation-exhibits-77.png)
@@ -104,5 +98,15 @@ To add a polyline, you can use the blocks below where `coordinates` need to be i
 
 To add a polygon, you can use the blocks below where `coordinates` need to be in a list of latitude and longitude objects, `stroke Width` is an integer, `stroke Color` is in hex format, and `fill Color` is in hex format
 
+
+
 ![](.gitbook/assets/screen-shot-2018-04-24-at-5.14.08-pm.png)
+
+## Clear map
+
+Sometimes it's helpful to clear all of the markers, polylines and polygons from the map, e.g. when you are trying to update your location in real-time which requires adding a marker and deleting existing markers.
+
+The **deleteAllMarkers** block will clear all data from the map. This includes markers, polylines, and polygons.
+
+![](.gitbook/assets/screen-shot-2019-06-18-at-2.56.36-pm.png)
 

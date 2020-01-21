@@ -26,5 +26,5 @@ To play a sound, you need to upload it to the files section on Thunkable.
 | Resumes | Resumes playing the sound after a pause |
 | Stop | Stops playing the sound |
 | OnError | Triggers an event if there is an error playing the sound file |
-| Volume | The volume of the sound |
+| Volume | The volume of the sound between 0 and 100 |
 
