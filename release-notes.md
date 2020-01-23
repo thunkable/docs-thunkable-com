@@ -15,6 +15,12 @@ Platform updates
 * Translation into Chinese 中文 \(more languages to come in the future\)
 * Updating [Web Viewer](https://docs.thunkable.com/web-viewer) in response to deprecation message seen when publishing apps
 
+## Jan 23, 2020
+
+Platform
+
+* Speed improvements for projects with large number of blocks
+
 ## Jan 3, 2020
 
 Platform updates
