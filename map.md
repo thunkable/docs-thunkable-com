@@ -6,9 +6,9 @@
 * [Edit Map size](map.md#edit-map-size)
 * [Add spacing](map.md#add-spacing)
 * [Add marker](map.md#add-marker)
-* [Delete markers](map.md#delete-markers)
 * [Add polyline](map.md#add-polyline)
 * [Add polygon](map.md#add-polygon)
+* [Clear map](https://docs.thunkable.com/map#clear-map)
 
 ![](.gitbook/assets/map-fig-1.png)
 

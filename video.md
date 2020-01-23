@@ -4,7 +4,9 @@ description: The video component lets you play videos in your app.
 
 # Video
 
-The Video component lets you play videos in your app that are stored in the cloud or in your app \(be careful, video files can be quite large and exceed the 50 MB [size limit](projects/assets.md#app-size-limits-50-mb-per-app) for apps\). App users can easily pause, rewind or fast-forward the video with the built in player.
+The Video component lets you play videos in your app that are stored in the cloud or in your app. App users can easily pause, rewind or fast-forward the video with the built in player.
+
+Please note that video files can be quite large and might exceed the 50 MB [size limit](projects/assets.md#app-size-limits-50-mb-per-app) for apps. 
 
 ![](.gitbook/assets/screen-shot-2019-10-17-at-2.52.02-pm.png)
 
@@ -18,7 +20,7 @@ The Video component lets you play videos in your app that are stored in the clou
 
 There are a few ways you can set a video source in your app:
 
-1. **Provide a link to the video.** \(The link has to end in `.mp4`, `.mov`, …so videos uploaded to YouTube and other video sharing sites may not work.\)
+1. **Provide a link to the video.** The link has to end in `.mp4`, `.mov`, …so videos uploaded to YouTube and other video sharing sites may not work.
 2. **Upload a video to your app.** Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
 
 ## Edit Video size
@@ -47,18 +49,18 @@ To set a video to play automatically, just toggle the Play property to `true`
 
 ## Change Video
 
-If you want to build a video player \([try this sample app](https://x.thunkable.com/copy/f915eb9a227c4214f5f6c4521d31a86c)\), you may want to change the video source when an event happens \(like clicking the next button\). If you store your videos in something like a Local DB, you could change the videos with the blocks below:
+If you want to build a video player [like this sample app](https://x.thunkable.com/copy/f915eb9a227c4214f5f6c4521d31a86c), you may want to change the video source when an event happens, eg. when the Next button is clicked. If you index your videos in something like a Local DB, you can change the video being displayed with the blocks below:
 
 ![Blocks from a Video player sample app](.gitbook/assets/screen-shot-2019-10-17-at-3.30.25-pm.png)
 
-## Pause or Un-pause 
+## Pause and Resume Video 
 
-The easiest way to permit the user to pause or un-pause a video is through the built in video player. 
+The easiest way to permit the user to pause or resume a video is through the built-in video player. 
 
 There is the option to also pause a video in the blocks editor. To do so, you can use blocks like the ones shown below:
 
 {% hint style="warning" %}
-For Android creators, we recommend using the built in video player to pause and un-pause videos. Using the blocks below will reset the video to the beginning of the video \(and not where it was last played\)
+For Android creators, we recommend using the built in video player to pause and resume videos. Using the blocks below will reset the video to the beginning of the video \(and not where it was last played\)
 {% endhint %}
 
 ![](.gitbook/assets/screen-shot-2019-10-29-at-2.16.45-pm.png)
