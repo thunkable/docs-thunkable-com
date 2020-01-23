@@ -1,4 +1,4 @@
-# Airtable
+# Airtable Spreadsheet
 
 Airtable is a service that looks like a spreadsheet but actually acts like a database so it can do database-like things like store attachments i.e. images in your spreadsheets \(and not just text\) and link records between spreadsheets.
 
@@ -33,11 +33,11 @@ To retrieve the API key, you'll have to navigate to the Account page and generat
 
 `Base ID`
 
-To retrieve the Base ID, you'll actually have go to the [Airtable API documentation](https://airtable.com/api) page and select your spreadsheet. You'll then have to select the Node.js tab of the code editor and find the Base ID in the code as shown below
+To retrieve the Base ID, navigate to the [Airtable API documentation](https://airtable.com/api) page and select your spreadsheet. You will see the Base ID in the 'Introduction' section of this page.
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-7.png)
 
-![](.gitbook/assets/spreadsheet-airtable-fig-8%20%281%29.png)
+![](.gitbook/assets/airtablebaseid.jpg)
 
 `Table Name` and `View Name`
 

@@ -50,7 +50,7 @@
 * [Local Storage](local-storage.md)
 * [Local DB](local-db.md)
 * [Realtime DB by Firebase](realtime-db.md)
-* [Airtable](spreadsheet.md)
+* [Airtable Spreadsheet](spreadsheet.md)
 * [Web API](web-api.md)
 * [Media DB by Cloudinary](media-db.md)
 * [Smart Contract by Oasis](oasissmartcontract.md)
