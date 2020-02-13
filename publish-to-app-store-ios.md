@@ -236,7 +236,14 @@ Back in Thunkable, upload your `.mobileprovision` file and click the **Next** bu
 
 ## App-specific passwords
 
-Apple requires app-specific passwords to sign-in securely from Thunkable. You will need this password to update your app in the future, so make sure to record it securely.
+Apple requires app-specific passwords to sign-in securely from Thunkable. 
+
+{% hint style="info" %}
+You only need **one** app-specific password for your Thunkable account.   
+You do **not** need a separate app-specific password for separate apps.
+{% endhint %}
+
+You will need this password to update your app in the future, so make sure to record it securely.
 
 ### Generate an app-specific password
 
@@ -262,7 +269,7 @@ Go to the [Apple ID account website](https://appleid.apple.com/#!&page=signin) a
 {% endtab %}
 
 {% tab title="Step 4" %}
-![](.gitbook/assets/appid_04.png)
+![](.gitbook/assets/docspublishasp.png)
 
 **Step 4:** Give your password a meaningful name so you will be able to recognise it later.
 {% endtab %}
