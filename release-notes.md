@@ -4,7 +4,7 @@
 
 New components
 
-* Extended Listviewer
+* Data Viewer: a list viewer with extended functionality that can be connected to external data sources \(Google Sheets, Airtable, Local DB\)
 
 Component updates
 
@@ -14,6 +14,16 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 * Updating [Web Viewer](https://docs.thunkable.com/web-viewer) in response to deprecation message seen when publishing apps
+
+## Jan 29, 2020
+
+Bug fixes
+
+* Fixes bugs related to recent blocks speed improvement as detailed in the [community](https://community.thunkable.com/t/thunkable-x-blocks-update-your-feedback/425809?u=jane)
+
+Platform
+
+* Preview your app without your device. Added a web preview to the Live Test modal so creators can preview their app without their device. Just click on the `Live Test` button in the designer to test this feature for yourself. This feature is in beta and [not all components are supported](https://docs.thunkable.com/web-preview)
 
 ## Jan 23, 2020
 
