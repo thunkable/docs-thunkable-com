@@ -15,6 +15,14 @@ Platform updates
 * Translation into Chinese 中文 \(more languages to come in the future\)
 * Updating [Web Viewer](https://docs.thunkable.com/web-viewer) in response to deprecation message seen when publishing apps
 
+## Feb 28, 2020
+
+Platform updates
+
+* [Save screens](https://community.thunkable.com/t/latest-thunkable-release-save-screens-is-here-2020-02-27/488296) and use them in different projects 
+* Added Z property on sprites
+* Save expand/collapse settings in the component tree
+
 ## Jan 29, 2020
 
 Bug fixes
