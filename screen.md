@@ -98,5 +98,29 @@ This determines how to resize the image when the frame doesn't match the raw ima
 | :--- | :--- |
 | Screen Orientation | Default \(`all`\). You can fix the screen orientation to `portrait` and `landscape` |
 
+## Save Screen
+
+Thunkable allows you to reuse a screen, and its associated blocks, in multiple projects with the "Save to My Screens" feature. You can find the save screen button at the top of the properties for every screen component in your app.
+
+![](.gitbook/assets/02_save_screen.png)
+
+### Name your Screen
+
+It's important that when you save your screen you use a descriptive and memorable name that describes what your screen does. The example below is for a sign in screen, which is something that often get reused across multiple projects.
+
+![](.gitbook/assets/03_name_screen.png)
+
+### Add a New Screen
+
+Once you've saved a screen, any time you click the **`+`** button to add a new screen you will be given the option to add a blank screen or to "Copy from My Screens".
+
+![](.gitbook/assets/04_new_project.png)
+
+### Choose a Saved Screen
+
+Simply choose the screen that you want to add in and click the "Copy" button to proceed.
+
+![](.gitbook/assets/05_choose_screen.png)
+
 
 
