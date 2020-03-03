@@ -20,7 +20,7 @@ The camera block has three outputs:
 
 **iii\) Error:** Indicates if there was an error when the photo was taken
 
-![The blocks below say that when Button1 is clicked, open the camera. Then set the photo taken to be displayed in an Image component. ](.gitbook/assets/camera.png)
+![These blocks say that when Button1 is clicked, open the camera. Then set the photo taken to be displayed in an Image component. ](.gitbook/assets/camera.png)
 
-![The blocks below say that when Button1 is clicked, open the camera. If the user does not cancel the action, one of two things will happen: if there is an error, display the error message on a Label. If there is not an error, set the photo taken to be displayed in an Image component. ](.gitbook/assets/cameraqualified.png)
+![These blocks say that when Button1 is clicked, open the camera. If the user does not cancel the action, one of two things will happen: if there is an error, display the error message on a Label. If there is not an error, set the photo taken to be displayed in an Image component. ](.gitbook/assets/cameraqualified.png)
 
