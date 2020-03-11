@@ -1,3 +1,7 @@
+---
+description: How to publish your Thunkable Project to the Apple App Store
+---
+
 # Publish to App Store \(iOS\)
 
 Publishing your app to the App Store can be a rewarding process.

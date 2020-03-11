@@ -1,3 +1,7 @@
+---
+description: How to publish your Thunkable project in the Google Play Store
+---
+
 # Publish to Play Store \(Android\)
 
 Publishing your app to the Play Store is a relatively straightforward process and will help your app reach 2 billion active Android devices.
@@ -105,7 +109,7 @@ Go to Thunkable Classic \([app.thunkable.com](http://app.thunkable.com/)\) click
 
 ![](.gitbook/assets/screen-shot-2019-09-10-at-11.00.05-am.png)
 
-### Import keystore
+### Import keystore to Thunkable X
 
 On the Thunkable Cross Platform \([x.thunkable.com](http://x.thunkable.com/)\), select the the app that you have previous published from Classic and are trying to update from X.
 
@@ -121,5 +125,15 @@ Enter **“android”** as the password and select the android.keystore file you
 
 Congrats! You should be able to successfully publish updates now. Note that you’ll need to repeat the steps for each app you previously published with your Classic keystore as every app has their own keystore.
 
+### Export keystore from Thunkable X
 
+If you make a copy of a Thunkable X app project, the copy will have a different keystore to the original project. 
+
+To export a keystore from a Thunkable X app project, Click the name and icon of your app in upper left corner to bring up App Settings on right side as seen in 'Import keystore to Thunkable X'. Scroll all the way to the bottom of the App Settings and click Export Keystore. 
+
+In the dialog that comes up, you will see the keystore's password and a button that says Export Keystore. You will need this password to import your keystore to other projects. 
+
+![The keystore password and export button](.gitbook/assets/exportkeystore2.png)
+
+Note: A Thunkable X app project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time
 
