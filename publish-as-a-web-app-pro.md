@@ -10,6 +10,24 @@ Publishing as a Web App is currently the fastest way to publish your Thunkable a
 The "Publish as a Web App" component is a feature just for Thunkable PRO users. To upgrade your subscription please visit your [membership page](https://x.thunkable.com/account/membership).
 {% endhint %}
 
+## Mobile Web App
+
+![](.gitbook/assets/mobile_web_app.png)
+
+Mobile web apps are best experienced by opening the link directly on your phone. To make your mobile app feel more like a native app you can add it to the [home screen](https://intercom.help/thunkable/en/articles/3828958-add-to-home-screen) directly from your mobile web browser.
+
+If you preview a mobile web app on a desktop or laptop computer you will see a phone frame around the app. This is to give you a rough idea of its final proportions, but ultimately this will vary from device to device depending on factors such as screen size, aspect ratio, and pixel density.
+
+To get an app that can respond to devices of any size, consider publishing as a [Responsive Web App](publish-as-a-web-app-pro.md#responsive-web-app).
+
+## Responsive Web App
+
+![](.gitbook/assets/responsive_web_app.png)
+
+Publishing your app as a responsive web app means that it will scale according to the size of the device that it is being opened on. 
+
+If your app in designed only to be run on phones, consider publishing as a [Mobile Web App](publish-as-a-web-app-pro.md#mobile-web-app).
+
 ## Demo
 
 Here's a 3 minute overview of how "Publish as a Web App" works.
