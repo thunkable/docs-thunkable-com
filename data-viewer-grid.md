@@ -22,13 +22,9 @@ The data viewer components allow you to create beautiful user interfaces for you
 
 When setting up the Data Viewer, you need to specify the source of your data. You can choose to connect to cloud-based data such as Google Sheets or Airtable, or you can create your own table if you want offline access to your data.
 
-![](.gitbook/assets/create_data_source.png)
-
 ### Create your own Table
 
 Start by naming your data source.
-
-![](.gitbook/assets/name_local_data.png)
 
 The next thing to do is edit the placeholder data that is automatically generated. Select the Data Viewer component and click on the link that says `Click here to edit the data` 
 

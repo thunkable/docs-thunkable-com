@@ -14,87 +14,145 @@ This component is currently in beta. To sign up to test the Data Viewer please f
 
 The data viewer components allow you to create beautiful user interfaces for your data. All of this is done in just 3 steps, no blocks required!
 
-1. Pick your Data Source
-2. Choose your Item Layout
-3. Set your Data Bindings
+1. [Pick your Data Source](data-viewer-list.md#data-source)
+2. [Choose your Item Layout](data-viewer-list.md#list-item-layout)
+3. [Set your Data Bindings](data-viewer-list.md#data-bindings)
 
 ## Data Source
 
-When setting up the Data Viewer, you need to specify the source of your data. You can choose to connect to cloud-based data such as Google Sheets or Airtable, or you can create your own table if you want offline access to your data.
+To begin using the Data Viewer specify where your data are stored. Thunkable gives you three options. You can use [Google Sheets](data-viewer-list.md#google-sheets) or [Airtable](data-viewer-list.md#airtable) to store data in the cloud. Alternatively, you can [create your own table](data-viewer-list.md#create-your-own-table). This is ideal if you want local, offline access to your data. Creating your own table is also the fastest and easiest way to get started with the data viewer.
 
-![](.gitbook/assets/create_data_source.png)
+In the Data\_Viewer\_List component, click on the `Add` button. In the pop-up modal you can choose an existing data source. If this is your first time using the Data Viewer you can create a new one by clicking on the `Create New` button.
+
+![](.gitbook/assets/add_data.png)
+
+In the next modal, choose between [Create your own table](data-viewer-list.md#create-your-own-table), [Airtable](data-viewer-list.md#airtable) or [Google Sheets](data-viewer-list.md#google-sheets) to be source of your data.
+
+![](.gitbook/assets/create_data_source2.png)
+
+Please note that some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
 
 ### Create your own Table
 
 Start by naming your data source.
 
-![](.gitbook/assets/name_local_data.png)
+![](.gitbook/assets/name_local_data2.png)
 
-The next thing to do is edit the placeholder data that is automatically generated. Select the Data Viewer component and click on the link that says `Click here to edit the data` 
+Next, select the Data Viewer component and click on the link that says `Click here to edit the data`. This allows you to edit the placeholder data that was automatically generated
 
 ![](.gitbook/assets/edit_data.png)
+
+The data editor allows you to edit, add, and delete columns of information. To change any of the individual values simply click on the cell and type whatever you like. 
+
+![](.gitbook/assets/edit_table2.png)
 
 ### Airtable 
 
 In Airtable, a base in considered to be the data source. Adding an [Airtable](spreadsheet.md) is really simple. 
 
-To get started, copy your API key from your [account page](https://airtable.com/account). An Airtable API key is a 14 character code that begins with the three letters "key". Paste this key into Thunkable and hit `Refresh` to see a list of your Airtable bases. 
+To start, copy your API key from your Airtable [account page](https://airtable.com/account). An Airtable API key is a 14 character code that begins with the three letters "key". Paste this key into Thunkable and click the `Refresh` button to see a list of your Airtable bases. 
 
-Choose the one you want to use as your data source and click `Create`.
+Choose the base you want to use as your data source and click `Create`.
 
 ![](.gitbook/assets/airtable_setup.png)
+
+If you're new to Airtable you can read more about it in our [Airtable](spreadsheet.md) documentation. 
 
 ### Google Sheets
 
 In Google Sheets, the entire document is considered to be the data source.
 
-## Selected Collection
-
-In Google Sheets, an individual sheet i.e. `Sheet1` is considered a collection.
-
-In Airtable, an individual table, i.e. `Table 1` is considered a collection.
-
 ## List Item Layout
 
-Once you have specified a [data source](data-viewer-list.md#data-source) and a [selected collection](data-viewer-list.md#selected-collection) you can choose your List Item Layout. There are 7 options to choose from. Depending on that raw data you have you can choose a layout that best fits your particular needs
+Once you have specified a [data source](data-viewer-list.md#data-source) you can choose your List Item Layout. There are 7 options to choose from. Depending on the raw data you have you can choose a layout that best fits your particular needs
 
 ### Title
 
+![](.gitbook/assets/dlv1.png)
+
 ### Title Subtitle
+
+![](.gitbook/assets/dlv2.png)
 
 ### Image Title 
 
+![](.gitbook/assets/dlv3.png)
+
 ### Image Title Subtitle
+
+![](.gitbook/assets/dlv4.png)
 
 ### Image Title Subtitle Text
 
+![](.gitbook/assets/dlv5.png)
+
 ### Image Title Subtitle Secondary Image Description
+
+![](.gitbook/assets/dlv6.png)
 
 ### Image Title Subtitle Description
 
-
+![](.gitbook/assets/dlv7.png)
 
 
 
 ## Data Bindings
 
-You can now manually specify which columns in your data source correspond with the placeholders in your chosen layout. Each layout will have it's own specific set of data bindings. Two examples are included below for reference.
+You can now manually specify which columns in your data source correspond with the placeholders in your chosen layout. Each layout will have its own specific set of data bindings. Two examples are included below for reference.
 
-![](.gitbook/assets/screenshot-2020-02-17-at-17.07.38.png)
+If you use the [Title](data-viewer-list.md#title) layout, you will only have one data binding, the Title property.
 
-![](.gitbook/assets/screenshot-2020-02-17-at-17.07.55.png)
+![](.gitbook/assets/data_bindings_1.png)
+
+This increases all the way up to five properties, in the case of the [Image Title Subtitle Secondary Image Description](data-viewer-list.md#image-title-subtitle-secondary-image-description) layout.
+
+![](.gitbook/assets/data_bindings_5.png)
 
 
 
 ## Left Swipe
 
-You can set a customisable, clickable button to appear when the list item is swiped to the left.
+You can set a customisable, clickable button to appear when the list item is swiped to the left. If `Left Swipe` is set to true you will see additional options to customise the button text, text color and button background color. 
 
-![](.gitbook/assets/left.jpg)
+![](.gitbook/assets/left_swipe_props1.png)
+
+When you test this on your phone you will see that each list item can be dragged to the left to reveal a clickable button. The [Left Swipe Click](data-viewer-list.md#swipe) event handler controls what happens when this block is clicked.
+
+![](.gitbook/assets/screenshot-2020-04-22-at-11.00.57.png)
 
 ## Right Swipe
 
 You can also set a customisable, clickable button to appear when the list item is swiped to the right.
 
+![](.gitbook/assets/right_swipe_props1.png)
+
 ![](.gitbook/assets/right.jpg)
+
+## Blocks
+
+### Click 
+
+The Item Click event is fired when any list item in the Data Viewer is clicked. It returns a `row id` which corresponds to the unique Thunkable Id of the item that was clicked. The row id is most useful when used with the the Data Source blocks.
+
+![](.gitbook/assets/item_click.png)
+
+### Swipe 
+
+The left and right swipe click events are fired when these buttons are clicked. Both return a `row id` to quickly identify which row was clicked when using the Data Source blocks
+
+![](.gitbook/assets/left_swipe.png)
+
+![](.gitbook/assets/right_swipe.png)
+
+### Height & Width 
+
+The following blocks allow you to work with the height and width properties of the Data Viewer.
+
+![](.gitbook/assets/dlv_properties.png)
+
+### Visible
+
+The entire Data Viewer can be hidden or shown by setting the `Visible`property to false or true, respectively. 
+
+![](.gitbook/assets/dlv_visible.png)
 

@@ -1,4 +1,4 @@
-# Airtable Spreadsheet
+# Airtable
 
 Airtable is a service that looks like a spreadsheet but actually acts like a database so it can do database-like things like store attachments i.e. images in your spreadsheets \(and not just text\) and link records between spreadsheets.
 
@@ -15,7 +15,7 @@ We like Airtable because set-up is relatively a breeze for a spreadsheet
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-2.png)
 
-### Connect your Airtable spreadsheet with Thunkable
+### Connect your Airtable base with Thunkable
 
 There are four properties that you need to retrieve from Airtable to connect it with Thunkable: `API key`, `Base ID`, `Table Name` and `View Name`
 
