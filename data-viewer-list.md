@@ -62,6 +62,18 @@ If you're new to Airtable you can read more about it in our [Airtable](spreadshe
 
 In Google Sheets, the entire document is considered to be the data source.
 
+To connect a Google Sheet, sign in and grant permission for your Thunkable project to access your Google Drive.
+
+![](.gitbook/assets/sign-in.png)
+
+Once you have allowed this, you will see a list of spreadsheets in your Google Drive. If you don't seen the sheet you are looking for you can switch to list view, sort alphabetically or search for the one you need. Click `Select` to return to your Thunkable project.
+
+![](.gitbook/assets/select-a-file.png)
+
+Finally, give you data source a name and you're ready to go. 
+
+![](.gitbook/assets/give_name_to.png)
+
 ## List Item Layout
 
 Once you have specified a [data source](data-viewer-list.md#data-source) you can choose your List Item Layout. There are 7 options to choose from. Depending on the raw data you have you can choose a layout that best fits your particular needs
@@ -118,7 +130,7 @@ You can set a customisable, clickable button to appear when the list item is swi
 
 When you test this on your phone you will see that each list item can be dragged to the left to reveal a clickable button. The [Left Swipe Click](data-viewer-list.md#swipe) event handler controls what happens when this block is clicked.
 
-![](.gitbook/assets/screenshot-2020-04-22-at-11.00.57.png)
+![](.gitbook/assets/left_swipe_preview.png)
 
 ## Right Swipe
 
@@ -126,7 +138,7 @@ You can also set a customisable, clickable button to appear when the list item i
 
 ![](.gitbook/assets/right_swipe_props1.png)
 
-![](.gitbook/assets/right.jpg)
+![](.gitbook/assets/right_swipe_preview.png)
 
 ## Blocks
 
