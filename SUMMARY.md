@@ -94,6 +94,7 @@
 * [Device](device.md)
 * [Variables](variables.md)
 * [Functions](functions.md)
+* [Data Sources](data-sources.md)
 * ["Any Component" Blocks](any-component-blocks.md)
 * [🖥️ App Services & Emulators](emulators.md)
 * [App Data Privacy](app-data-privacy.md)

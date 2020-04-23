@@ -18,15 +18,19 @@ The data viewer components allow you to create beautiful user interfaces for you
 2. [Choose your Item Layout](data-viewer-list.md#list-item-layout)
 3. [Set your Data Bindings](data-viewer-list.md#data-bindings)
 
+You can add additional functionality to the Data Viewer List by using the included [component blocks](data-viewer-list.md#blocks) or you can work directly with your raw data by using the [Data Sources blocks](data-sources.md).
+
 ## Data Source
 
-To begin using the Data Viewer specify where your data are stored. Thunkable gives you three options. You can use [Google Sheets](data-viewer-list.md#google-sheets) or [Airtable](data-viewer-list.md#airtable) to store data in the cloud. Alternatively, you can [create your own table](data-viewer-list.md#create-your-own-table). This is ideal if you want local, offline access to your data. Creating your own table is also the fastest and easiest way to get started with the data viewer.
+To begin using the Data Viewer you need to specify where your data are stored. Thunkable gives you three different storage options. 
 
-In the Data\_Viewer\_List component, click on the `Add` button. In the pop-up modal you can choose an existing data source. If this is your first time using the Data Viewer you can create a new one by clicking on the `Create New` button.
+You can use [Google Sheets](data-viewer-list.md#google-sheets) or [Airtable](data-viewer-list.md#airtable) to store data in the cloud. Alternatively, you can [create your own table](data-viewer-list.md#create-your-own-table). This is ideal if you want local, offline access to your data. Creating your own table is also the fastest and easiest way to get started with the data viewer.
+
+In the Data\_Viewer\_List component properties, click the `Add` button. In the pop-up modal you can choose an existing data source. If this is your first time using the Data Viewer you can create a new one by clicking on the `Create New` button.
 
 ![](.gitbook/assets/add_data.png)
 
-In the next modal, choose between [Create your own table](data-viewer-list.md#create-your-own-table), [Airtable](data-viewer-list.md#airtable) or [Google Sheets](data-viewer-list.md#google-sheets) to be source of your data.
+In the next modal, choose between [Create your own table](data-viewer-list.md#create-your-own-table), [Airtable](data-viewer-list.md#airtable) or [Google Sheets](data-viewer-list.md#google-sheets) as the source of your data.
 
 ![](.gitbook/assets/create_data_source2.png)
 
@@ -61,6 +65,10 @@ If you're new to Airtable you can read more about it in our [Airtable](spreadshe
 ### Google Sheets
 
 In Google Sheets, the entire document is considered to be the data source.
+
+{% hint style="info" %}
+In order to use Google Sheets, the first row in your Sheet must be a header row. 
+{% endhint %}
 
 To connect a Google Sheet, sign in and grant permission for your Thunkable project to access your Google Drive.
 
@@ -138,6 +146,9 @@ You can also set a customisable, clickable button to appear when the list item i
 
 ![](.gitbook/assets/right_swipe_props1.png)
 
+  
+When you test this on your phone you will see that each list item can be dragged to the right to reveal a clickable button. The[ Right Swipe Click](data-viewer-list.md#right-swipe) event handler controls what happens when this block is clicked.
+
 ![](.gitbook/assets/right_swipe_preview.png)
 
 ## Blocks
@@ -167,4 +178,14 @@ The following blocks allow you to work with the height and width properties of t
 The entire Data Viewer can be hidden or shown by setting the `Visible`property to false or true, respectively. 
 
 ![](.gitbook/assets/dlv_visible.png)
+
+### Data Source Blocks
+
+When you connect a Data Source to your project you will also have access to a second block drawer. These Data Source blocks allow you to perform a variety of CRUD \(**C**reate, **R**ead, **U**pdate, **D**elete\) operations on your data. 
+
+Click on the link below to learn how to use the Data Sources blocks in your project. 
+
+{% page-ref page="data-sources.md" %}
+
+
 
