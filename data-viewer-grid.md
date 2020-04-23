@@ -120,7 +120,23 @@ For example, if you use the "[Title only](data-viewer-grid.md#title-only)" layou
 
 ## Blocks
 
+### Click
 
+The `Item Click` event is fired when any card in the Data Viewer is clicked. It returns a `row id` which corresponds to the unique Thunkable Id of the card that was clicked. The row id is particularly useful when used with the the [Data Source](data-sources.md) blocks.
+
+![](.gitbook/assets/grid_click.png)
+
+### Height & Width
+
+The following blocks allow you to work with the height and width properties of the Data Viewer.
+
+![](.gitbook/assets/grid_size.png)
+
+### Visible
+
+The entire Data Viewer can be completely hidden or shown by setting the `Visible`property to false or true, respectively. 
+
+![](.gitbook/assets/grid_visible%20%281%29.png)
 
 ### Data Sources
 
