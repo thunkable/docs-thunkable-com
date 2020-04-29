@@ -1,6 +1,12 @@
 # Project Assets and Sizes
 
-It's better to keep app sizes as small as possible to preserve space on people's devices. All app projects have a 50MB limit, and Thunkable accounts have a 200MB total limit. 
+It's best to keep app sizes as small as possible to preserve space on people's devices. All app projects have a 50MB limit, and Thunkable accounts have a 200MB total limit. 
+
+{% hint style="info" %}
+Thunkable PRO subscribers get 1GB of storage and can create unlimited public and [private](./#private-projects) projects.
+
+[Learn more about PRO.](https://thunkable.com/#/pricing)
+{% endhint %}
 
 ## App size limits \(50MB per app\)
 
