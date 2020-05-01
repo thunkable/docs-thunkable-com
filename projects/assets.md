@@ -8,7 +8,7 @@ Thunkable PRO subscribers get 1GB of storage and can create unlimited public and
 [Learn more about PRO.](https://thunkable.com/#/pricing)
 {% endhint %}
 
-## App size limits \(50MB per app\)
+## Minimum Requirements
 
 | Element | Limit |
 | :--- | :--- |

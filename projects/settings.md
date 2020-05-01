@@ -18,12 +18,6 @@ This is not your app name! This is just the name of your project on Thunkable. W
 
 Your app icon is the picture that represents your app on your mobile device. This icon will also appear on your listing in the Google Play Store or App Store, and as your project icon on Thunkable.
 
-{% hint style="info" %}
-Thunkable PRO users can remove the Thunkable branding from their app splash screen by changing the app icon.
-
-[Learn more about PRO.](https://thunkable.com/#/pricing)
-{% endhint %}
-
 To upload an app icon, click on your app's project name on the upper left hand side, and then click the upload button in the icon section. Please make sure that the file you upload does not have the same name as another asset that you are using for your app. This will cause an error.
 
 ![](../.gitbook/assets/appicon.gif)
