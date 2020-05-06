@@ -7,7 +7,7 @@ description: >-
 # Data Viewer List
 
 {% hint style="info" %}
-This component is currently in beta. To sign up to test the Data Viewer please follow [these instructions](https://community.thunkable.com/t/what-are-data-sources/469342?u=domhnallohanlon).
+ If you have any feedback for us about the Data Viewer components please let us know over in the [Thunkable Community](https://community.thunkable.com/t/latest-thunkable-release-new-components-data-viewer-list-and-data-viewer-grid-2020-05-05/564204?u=domhnallohanlon).
 {% endhint %}
 
 ## Overview
