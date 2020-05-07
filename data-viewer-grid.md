@@ -6,6 +6,8 @@ description: >-
 
 # Data Viewer Grid
 
+![](.gitbook/assets/nhl.png)
+
 {% hint style="info" %}
 If you have any feedback for us about the Data Viewer components please let us know over in the [Thunkable Community](https://community.thunkable.com/t/latest-thunkable-release-new-components-data-viewer-list-and-data-viewer-grid-2020-05-05/564204?u=domhnallohanlon).
 {% endhint %}
