@@ -4,7 +4,7 @@ description: We have lots of ways for you to learn how to use Thunkable.
 
 # Tutorials
 
-## In-platform tutorials
+## In-platform Tutorials
 
 To learn how to use Thunkable, try our in-platform tutorials. Click the pop out drawer on the left hand side of the screen to get started.
 

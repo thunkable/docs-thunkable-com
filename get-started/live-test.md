@@ -2,18 +2,18 @@
 description: Preview your Thunkable project on almost any Android or iOS device.
 ---
 
-# Thunkable Live App
+# The Thunkable Live App
 
-## **What is Thunkable Live?**
+## **What is the Thunkable Live App?**
 
-Thunkable Live is an app that connects the projects in your web browser directly to your mobile device. It allows you to do two things:
+The Thunkable Live app connects the projects in your web browser directly to your mobile device. It allows you to do two things:
 
-1. You can [**Live Test**](live-test.md#live-test) your project. Any changes you make in your browser are displayed on your device, while you are working.
+1. You can [**Live Test**](live-test.md#live-test) your project. Any changes you make in your browser are displayed on your device immediately. 
 2. You can [**Live Preview**](live-test.md#live-preview) any of your projects, directly on your device, without the need to be logged in to your computer.
 
-## **Download Thunkable Live**
+## **Download the Thunkable Live App**
 
-The Thunkable app allows you to live test your app on your device, in real-time, while you are building it. Not even hard core developers have this super power. You can also preview all your app projects from the comfort of your mobile device.
+The Thunkable Live app allows you to live test your app on your device, in real-time, while you are building it. Not even hard core developers have this super power. You can also preview all your app projects from the comfort of your mobile device.
 
 | [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](http://appstore.com/thunkablelive) |
 | :--- | :--- |

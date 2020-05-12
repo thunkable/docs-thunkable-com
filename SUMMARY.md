@@ -4,7 +4,7 @@
 * [👶 Getting Started](get-started/README.md)
   * [Signing In](get-started/signing-in.md)
   * [Tutorials](get-started/tutorials.md)
-  * [Thunkable Live App](get-started/live-test.md)
+  * [The Thunkable Live App](get-started/live-test.md)
 * [🆕 Create New Project](projects/README.md)
   * [Change Project Settings](projects/settings.md)
   * [Project Assets and Sizes](projects/assets.md)
