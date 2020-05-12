@@ -4,9 +4,11 @@ description: Features and functions for your app
 
 # 🛠️ Components
 
-## What's a component?
+## What's a Component?
 
-Apps contain many different features. On Thunkable, you get to pick and choose which features - which we call components - go into your app. 
+Apps contain many different features. 
+
+On Thunkable, you get to pick and choose which features - which we call components - go into your app. 
 
 Some features you can see. Let's call these features visible components. Examples include buttons, loading icons and images. 
 
@@ -55,7 +57,7 @@ Components are organized into 10 different categories. For a more detailed descr
 
 {% page-ref page="monetization.md" %}
 
-To find a component, you can manually scroll through the components section. You can also expand and collapse categories depending on your needs.
+To find a component, you can manually scroll through the components section on the Thunkable app builder. You can also expand and collapse categories depending on your needs.
 
 ![](.gitbook/assets/linear.gif)
 
@@ -69,7 +71,7 @@ The component tree can be found at the top left corner of your screen, just belo
 
 You can move components around on the component tree to change the location of a component in your app.  
 
-Components that are nested can be expanded and collapsed by clicking on the ▾ icon. 
+Components that are nested can also be expanded and collapsed by clicking on the ▾ icon. 
 
 ![](.gitbook/assets/component_tree.gif)
 
