@@ -21,7 +21,7 @@ Some features you can't see. Let's call these features invisible components. Exa
 
 To put it simply, visible components are features that you can see on your app screen--like the ones pictures above.  
 
-Visible components can be styled by size, text, space and location. 
+Visible components can be styled by size, text, space, and location. 
 
 When adding visible components into your app, please note that they can only exist on one screen at a time. For example, if you want to add a button to three different screens, each screen will require its own button.
 
@@ -29,7 +29,7 @@ When adding visible components into your app, please note that they can only exi
 
 Invisible components are features on your app that you can't see. They often relate to your app's functionality, and are quietly running in the background. When you add an invisible component to your app, that component can work on any screen. 
 
-For example, if you add a database to your app, that database can be accessed from any screen. You do not need to add a database component to each screen. 
+For example, if you add a database component to your app, the database can be accessed from any screen. You do not need to add a database component to each screen. 
 
 ## Finding Components
 
@@ -55,17 +55,21 @@ Components are organized into 10 different categories. For a more detailed descr
 
 {% page-ref page="monetization.md" %}
 
-To find a component you can manually scroll to the category you want. You can also expand and collapse categories depending on your needs.
+To find a component, you can manually scroll through the components section. You can also expand and collapse categories depending on your needs.
 
 ![](.gitbook/assets/linear.gif)
 
-The quickest way to find a component is by searching for it in the search bar. Matching components will be displayed as you type.
+The quickest way to find a component is by searching for it in the search bar. Any matching components will also be displayed as you type.
 
 ![](.gitbook/assets/search.gif)
 
-## Component Tree
+## The Component Tree
 
-In the top left of your screen, just below your project name, is the component tree. This is an list of the visible and invisible components that are in your app. Components that are nested can be expanded and collapsed by clicking on the ▾ icon.
+The component tree can be found at the top left corner of your screen, just below your project name. The component tree contains a list of the visible and invisible components in your app. 
+
+You can move components around on the component tree to change the location of a component in your app.  
+
+Components that are nested can be expanded and collapsed by clicking on the ▾ icon. 
 
 ![](.gitbook/assets/component_tree.gif)
 
