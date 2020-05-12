@@ -13,7 +13,7 @@ description: >-
 
 ![](.gitbook/assets/row-fig-1.png)
 
-## **Set the size of the row**
+## **Set the Size of a Row**
 
 **For more information on sizing in your app, please see our introduction here​**  
 
@@ -53,21 +53,21 @@ description: >-
       </td>
     </tr>
   </tbody>
-</table>## Space the elements horizontally
+</table>## Space the Elements Horizontally
 
 The `Horizontal Alignment` property allows you to space elements in a Row horizontally
 
-![](.gitbook/assets/image%20%2862%29.png)
+![](.gitbook/assets/image%20%2863%29.png)
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-64.png)
 
-## Space the elements vertically
+## Space the Elements Vertically
 
 The `Vertical Alignment` property allows you to space elements in a Row vertically
 
 ![](.gitbook/assets/spacing-fig-2.png)
 
-## Add a background color or picture
+## Add a Background Color or Picture
 
 | Property | Description |
 | :--- | :--- |

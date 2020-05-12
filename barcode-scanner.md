@@ -8,7 +8,7 @@ Barcodes and QR codes can be useful features in many types of apps from social a
 
 ![](.gitbook/assets/thunkable-play-store-screenshots-1080-x-1920-17.png)
 
-## Set-up
+## Getting Started
 
 The Barcode Scanner is among the easiest components to set-up and use. After adding the component to your app, you can connect it with a button and a label like the blocks below.
 

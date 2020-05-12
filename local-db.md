@@ -2,7 +2,7 @@
 
 Many apps require a simple table of data to perform a number of essential tasks. One way to add this data is via an online [Spreadsheet](spreadsheet.md) but a faster and simpler way to do so is through a Local DB, short for database.
 
-## Add a table of data to your app
+## Add a Table of Data to Your App
 
 The first thing you want to do after you add the component is to edit the data table.
 

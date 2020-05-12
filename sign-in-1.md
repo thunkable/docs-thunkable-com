@@ -8,19 +8,19 @@
 To use Sign In, you will need to first create your own Firebase account and project
 {% endhint %}
 
-## Set up
+## Getting Started
 
 ### Create your free [Firebase](https://firebase.google.com/) account and create a new project
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-70%20%281%29.png)
 
-### Enable Email / Password sign in
+### Enable Email / Password Sign in
 
 In the Firebase console, navigate to Authentication and the tab "Sign-In Method". Enable Email/Password as shown below.
 
 ![](.gitbook/assets/firebase-fig-4%20%281%29.png)
 
-### Connect your Firebase account with Thunkable
+### Connect your Firebase Account with Thunkable
 
 There are two properties that you need to retrieve from Firebase to connect it with Thunkable which are both retrievable from the Firebase console: `API key` and `database URL`
 
@@ -63,7 +63,7 @@ When the user's email and password have been stored locally, the following block
 | Reset password \( `email`\) | Sends an email to a user to reset their password |
 |  |  |
 
-## Manage user access
+## Manage User Access
 
 On the Firebase console, navigate to the Users tab under Authentication and you'll find a dashboard where you can reset a user's password, disable and delete their accounts.
 

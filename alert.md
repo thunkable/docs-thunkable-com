@@ -1,16 +1,16 @@
-# Alert
+# Alerts
 
 Alerts are useful components for displaying important messages while users are in the app itself
 
 ![Popular two-button alerts for Android and iOS](.gitbook/assets/thunkable-docs-exhibits-14%20%281%29.png)
 
-## One button alert
+## One Button Alert
 
 A one button alert, also known as a notification, displays a message and one button to confirm user has viewed the message
 
 ![](.gitbook/assets/thunkable-docs-exhibits-15.png)
 
-To set one up, simply fill in the following `simple` properties. The Cancel Button Text only needs to be filled out for a two-button alert. You can use blocks to start an event when
+To set up an alert, simply fill in the following `simple` properties. The Cancel Button Text only needs to be filled out for a two-button alert. You can use blocks to start an event when
 
 | Property | Description |
 | :--- | :--- |

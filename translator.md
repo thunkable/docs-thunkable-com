@@ -3,7 +3,7 @@
 * [Set up](translator.md#set-up)
 * [Translate](translator.md#translate)
 
-## Set up
+## Getting Started
 
 There is no set-up required since Thunkable provides its own key to access the Yandex service. If you do not want to depend on Thunkable's default key, you can also use your own free API key from Yandex
 

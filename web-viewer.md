@@ -47,7 +47,7 @@ You can set how tall the Web Viewer is using the height property and set how wid
 * **Relative size -** The Web Viewer fills the specified percentage of the screen
 * **Absolute -** Sizes the Web Viewer to a specified number of pixels
 
-## Add spacing
+## Add Spacing
 
 You change the spacing and positioning of the Web Viewer with the Margin and Padding properties. 
 

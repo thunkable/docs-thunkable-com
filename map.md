@@ -12,7 +12,7 @@
 
 ![](.gitbook/assets/map-fig-1.png)
 
-## Choose your provider
+## Choose Your Provider
 
 For iOS, you have the option to choose between Apple Maps or Google Maps. On Android, only Google Maps is available. Google Maps provides more custom style options from different map types to coloring and exposing or hiding map features.
 
@@ -20,7 +20,7 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 | :--- | :--- |
 | Provider `Advanced` | Default \(`google`\); To select Apple Maps for iOS, leave the property `blank` |
 
-## Zoom and center the Map
+## Zoom and Center the Map
 
 To auto-center your map, you can pair the Map component with a Location Sensor
 
@@ -61,7 +61,7 @@ For more information on sizing in your app, please see our [introduction here​
 | Height | Default \(`Fill container`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 | Width | Default \(`Fit container`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
 
-## Add spacing
+## Add Spacing
 
 For more information on adding spacing in your app, please see our [introduction here](intro-to-spacing.md)
 
@@ -72,7 +72,7 @@ To find the spacing properties, you'll have to select the `Advanced` tab
 | Margin `Advanced` | Default \(`none`\); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
 | Padding `Advanced` | Default \(`none`\); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
 
-## Add marker
+## Add Marker
 
 {% hint style="info" %}
 There are limited styling options for markers at the moment. We are working to add the ability to change colors as well as add custom icons
@@ -84,7 +84,7 @@ You can add a standard default marker to your map with the blocks below. The Map
 
 ![](.gitbook/assets/screen-shot-2018-04-24-at-1.18.26-pm.png)
 
-## Add polyline
+## Add Polyline
 
 ![This is the satellite map available on Google Maps on Android and iOS](.gitbook/assets/thunkable-documentation-exhibits-77.png)
 
@@ -92,7 +92,7 @@ To add a polyline, you can use the blocks below where `coordinates` need to be i
 
 ![](.gitbook/assets/screen-shot-2018-04-24-at-4.58.42-pm.png)
 
-## Add polygon
+## Add Polygon
 
 ![This is the satellite map available on Apple Maps, available for iOS](.gitbook/assets/thunkable-documentation-exhibits-76%20%281%29.png)
 
@@ -102,7 +102,7 @@ To add a polygon, you can use the blocks below where `coordinates` need to be in
 
 ![](.gitbook/assets/screen-shot-2018-04-24-at-5.14.08-pm.png)
 
-## Clear map
+## Clear Map
 
 Sometimes it's helpful to clear all of the markers, polylines and polygons from the map, e.g. when you are trying to update your location in real-time which requires adding a marker and deleting existing markers.
 

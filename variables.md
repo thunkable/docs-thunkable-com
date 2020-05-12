@@ -1,6 +1,6 @@
 # Variables
 
-## What is a variable?
+## What is a Variable?
 
 In app creation, variables work like containers to hold numbers, phrases, the results of a calculation, a database call, or other important values in the app, in the mobile device itself or in the cloud.
 
@@ -18,7 +18,7 @@ A **stored** variable also works across screens but is saved to the mobile devic
 
 A **cloud** variable also works across screens but is saved to the cloud powered by Firebase. By default, the cloud variable is saved to the Thunkable default Firebase database but you can save them to your own private Firebase database by [following the instructions here](realtime-db.md#create-your-free-firebase-project-and-account). Cloud variables can be used similar to saving and retrieving values to a [Realtime DB](realtime-db.md) powered by Firebase and can be used in a number of applications that share data across users in the cloud. If you use cloud variables, you no longer need to add a Realtime DB to your app.
 
-## Initialize a variable when the app starts
+## Initialize a Variable When the App Starts
 
 ![](.gitbook/assets/screen-shot-2018-10-11-at-1.29.35-pm.png)
 

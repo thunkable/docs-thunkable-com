@@ -8,7 +8,11 @@ Welcome to Thunkable! We're excited to help you begin your app building journey.
 
 On Thunkable, anyone can easily design beautiful apps, program powerful functionality with drag & drop blocks, and upload apps to the Google Play Store and Apple's App Store.
 
-All apps built on Thunkable work for both Android and iOS devices \(see:[ minimum requirements](projects/assets.md)\), and you can get started by remixing existing projects from our Sample Apps Page or Public Gallery.
+You can also build [web apps](https://docs.thunkable.com/publish-as-a-web-app-pro), which are apps that you don't need to download and can be directly accessed online. 
+
+All apps built on Thunkable work for both Android and iOS devices \(see:[ minimum requirements](projects/assets.md)\). 
+
+You can get started by remixing existing projects from our [Sample Apps Page](https://docs.thunkable.com/sample-apps) or [Public Gallery](https://docs.thunkable.com/public-gallery).
 
 ## Intro to Documentation
 

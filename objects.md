@@ -6,7 +6,7 @@ The Object blocks pair well with the [Web API](web-api.md), [Map](map.md) and [L
 * [Uploading a row of data into a Spreadsheet](objects.md#uploading-a-row-of-data-into-a-spreadsheet)
 * [Understanding what properties are contained in a Location object](objects.md#understanding-what-properties-are-contained-in-a-location-object)
 
-## Retrieving a single property from a data API
+## Retrieving a Single Property from a Data API
 
 ![](.gitbook/assets/blocks-object-fig-4.png)![](.gitbook/assets/blocks-object-fig-2.png)
 
@@ -18,7 +18,7 @@ You may just want to pull out one attribute \(like temp\_f or the temperature in
 
 ![](.gitbook/assets/web-api-fig-2.png)
 
-## Uploading a row of data into a Spreadsheet
+## Uploading a Row of Data into a Spreadsheet
 
 ![](.gitbook/assets/blocks-object-fig-5.png)
 
@@ -26,7 +26,7 @@ For the Spreadsheet component, you will have to upload a row of data as an objec
 
 ![](.gitbook/assets/blocks-object-fig-6.png)
 
-## Understanding what properties are contained in a Location object
+## Understanding What Properties are Contained in a Location Object
 
 ![](.gitbook/assets/blocks-object-fig-3.png)
 

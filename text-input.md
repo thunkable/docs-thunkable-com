@@ -14,7 +14,7 @@ description: >-
 
 ![](.gitbook/assets/text-input-fig-1.png)
 
-## Set keyboard type
+## Set Keyboard type
 
 ![](.gitbook/assets/text-input-fig-2.png)
 
@@ -25,7 +25,7 @@ You can choose from the following types of keyboards:
 * **Numeric:** Displays a keypad with only numbers; It is similar to the phone pad keyboard
 * **Phone Pad:** Displays a telephone keypad; It is similar to the numeric keyboard
 
-## Set up for passwords
+## Set up for Passwords
 
 
 

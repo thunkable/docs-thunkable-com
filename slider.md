@@ -4,7 +4,7 @@ The Slider is a great UI element to enable users easily select a value from a fi
 
 ![](.gitbook/assets/slider-fig-2.png)
 
-## Set up
+## Getting Started
 
 To set up a slider, you'll have to first define the `minimum` and `maximum` values, the initial `value` and the incremental `steps` of the slider
 

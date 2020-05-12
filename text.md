@@ -4,7 +4,7 @@
 * [Reformat text](text.md#reformat-text)
 * [Analyze text](text.md#analyze-text)
 
-## Text value
+## Text Value
 
 The most basic but most often used text block is below
 
@@ -12,9 +12,9 @@ The most basic but most often used text block is below
 
 Often, you'll want to join text values together with the block below
 
-![The blocks above say that when Screen1 opens, set the text of Label1 to be &quot;hello world&quot;.](.gitbook/assets/image%20%2896%29.png)
+![The blocks above say that when Screen1 opens, set the text of Label1 to be &quot;hello world&quot;.](.gitbook/assets/image%20%2897%29.png)
 
-## Reformat text
+## Reformat Text
 
 When you import data from a database or API, you may need to reformat it and the blocks below should help:
 
@@ -30,7 +30,7 @@ When you import data from a database or API, you may need to reformat it and the
 | :--- |
 
 
-## Analyze text
+## Analyze Text
 
 The block below tests whether the text value is empty
 

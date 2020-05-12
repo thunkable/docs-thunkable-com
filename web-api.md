@@ -4,7 +4,7 @@ Great data is an essential part of many apps built today and the Web API compone
 
 To see what public APIs are available, we recommend [this list from Todd Motto](https://github.com/toddmotto/public-apis)
 
-## Set up
+## Getting Started
 
 For most public APIs, you'll likely have to first create an account to get your own unique API key. This is usually to prevent individuals from making too many requests or to charge developers when they exceed certain free limits.
 
@@ -30,7 +30,7 @@ In addition to creating your own objects, it is also possible to use JSON to spe
 
 ![](.gitbook/assets/wvd4.png)
 
-## Get and format \(parse\) data
+## Get and Format \(parse\) Data
 
 ![This block retrieves and formats data from the Open Weather Map API](.gitbook/assets/screen-shot-2018-08-01-at-2.12.03-pm.png)
 
@@ -77,7 +77,7 @@ One of the most common output formats for APIs is JSON, short for Javascript Obj
 
 #### **Convert JSON to Object**
 
-![](.gitbook/assets/image%20%28105%29.png)
+![](.gitbook/assets/image%20%28106%29.png)
 
 If you simply want to retrieve the temperature \(`"temp":` in line 6\), you will have to first convert the JSON response into objects, an _entity_ like a person that has _properties_ to describe them like smart. Objects can be embedded within another object.
 
@@ -87,7 +87,7 @@ In the example above, `"coord":` , `"weather":`, `"base":` and `"main":` are bot
 
 #### **Get Property of Object**
 
-![](.gitbook/assets/image%20%2868%29.png)
+![](.gitbook/assets/image%20%2869%29.png)
 
 Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the temperature \(`"temp":` in line 6\), we'll want to find the `temp` property of the `main` object which is the property of the overall object
 

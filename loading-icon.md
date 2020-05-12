@@ -1,17 +1,17 @@
 # Loading Icon
 
-For activities that take more than a few seconds, loading icons can be helpful to tell your app users that an activity is happening in the background, such as retrieving or uploading data
+For activities that take more than a few seconds, loading icons can be helpful to tell your app users that an activity is happening in the background, such as retrieving or uploading data.
 
 ![The large loading icon is on the top; the small is on the bottom on a Pixel 3](.gitbook/assets/ezgif.com-crop.gif)
 
-## Style the loading icon 
+## Style the Loading Icon 
 
 | Property | Description |
 | :--- | :--- |
 | Color | The color of the loading icon |
 | Size | `Small` or `large` |
 
-## Showing and hiding the loading icon
+## Showing and Hiding the Loading Icon
 
 The loading icon should be displayed when the app is performing an activity in the background and hidden when it is not. 
 

@@ -8,7 +8,7 @@ Below are a few of our favorites with more to come. Feel free to customize them 
 
 These Sign In templates can be easily remixed. Click to download!
 
-![Neon Sunset](.gitbook/assets/image%20%2855%29.png)
+![Neon Sunset](.gitbook/assets/image%20%2856%29.png)
 
 [Neon Sunset Sign In Screen](https://x.thunkable.com/projects/5da788f26164c09e93474d37/1a91f1d5-e27f-41c5-a539-64cb9fc372a9/designer)
 
@@ -16,15 +16,15 @@ These Sign In templates can be easily remixed. Click to download!
 
 [Mountain Dusk Sign In Screen](https://x.thunkable.com/projects/5da8e0870a9fe1d848990c43/1a91f1d5-e27f-41c5-a539-64cb9fc372a9/designer)
 
-![Purple Range](.gitbook/assets/image%20%2869%29.png)
+![Purple Range](.gitbook/assets/image%20%2870%29.png)
 
 [Purple Range Sign In Screen](https://x.thunkable.com/projects/5da8f241d7ccb46aaa9fad94/1a91f1d5-e27f-41c5-a539-64cb9fc372a9/designer)
 
-![Simple Red](.gitbook/assets/image%20%2865%29.png)
+![Simple Red](.gitbook/assets/image%20%2866%29.png)
 
 [Simple Red Sign In Screen](https://x.thunkable.com/projects/5da8ebfc5d6a7d33a56a775d/1a91f1d5-e27f-41c5-a539-64cb9fc372a9/designer)
 
-![Simple Blue](.gitbook/assets/image%20%28117%29.png)
+![Simple Blue](.gitbook/assets/image%20%28118%29.png)
 
 [Simple Blue Sign In Screen](https://x.thunkable.com/projects/5be22744bc7185bcb8db34f0/c6f748a4-93b7-473f-a901-e788ba05f8ef/designer)
 

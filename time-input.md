@@ -4,7 +4,7 @@ A Time Input component is helpful when you want the user of your app to easily s
 
 ![Native Android Time Picker on the left and iOS on the right](.gitbook/assets/thunkable-docs-exhibits-38%20%281%29.png)
 
-## Set up 
+## Getting Started 
 
 The Time Input component needs no set-up \(Woohoo!\). Just drag and drop the component into your project. As a bonus, the current time will automatically show up as a label.
 

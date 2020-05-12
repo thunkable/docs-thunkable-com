@@ -5,7 +5,7 @@
 * [Introduce randomness](math.md#introduce-randomness)
 * [Other](math.md#other)
 
-## Numeric value
+## Numeric Value
 
 ![](.gitbook/assets/blocks-math-fig-2.png)
 
@@ -21,7 +21,7 @@ There is also a block for irrational numbers like `π`
 | :--- |
 
 
-## Perform calculations
+## Perform Calculations
 
 Perhaps the most often used calculation in an app is `addition` but this block also supports `subtraction`, `multiplication`, `division` and `exponential` figures
 
@@ -59,7 +59,7 @@ There's also this useful calculation block for lists
 | :--- |
 
 
-## Introduce randomness
+## Introduce Randomness
 
 For games and other apps, it may be important to introduce randomness into your app
 

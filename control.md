@@ -10,13 +10,13 @@ The if `this`, do `that` block can be transformed to support more complex logic
 
 ![The purple settings button can be used to add additional conditions for events](.gitbook/assets/docs-1.png)
 
-## Open a screen
+## Open a Screen
 
 You can manage much of your screen navigation through our [Tab](), [Drawer](drawer-navigator.md) and [Stack](stack-navigator.md) navigator components but for simple screen navigation, you can use the very popular block below
 
 ![](.gitbook/assets/blocks-control-fig-8.png)
 
-## Open an installed app or website by link
+## Open an Installed App or Website by Link
 
 ![](.gitbook/assets/blocks-control-fig-6.png)
 
@@ -28,11 +28,11 @@ You can see this block featured in the sample app, [New Market Goods](control.md
 
 ![](.gitbook/assets/screen-shot-2018-08-23-at-5.03.34-pm.png)
 
-## Repeat an event
+## Repeat an Event
 
 ![](.gitbook/assets/blocks-control-fig-1.png)![](.gitbook/assets/blocks-control-fig-2.png)
 
-## Repeat an event with a loop
+## Repeat an Event with a Loop
 
 ![](.gitbook/assets/blocks-control-fig-3.png)![](.gitbook/assets/blocks-control-fig-4.png)
 

@@ -40,7 +40,7 @@ In the next modal, choose between [Create your own table](data-viewer-list.md#cr
 
 Please note that some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
 
-### Create your own Table
+### Create your Own Table
 
 Start by naming your data source.
 

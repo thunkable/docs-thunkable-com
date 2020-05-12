@@ -30,7 +30,7 @@ Thunkable reserves the right to change an app's approval status subject to any v
 Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob in the future. 
 {% endhint %}
 
-## Review guidelines
+## Review Guidelines
 
 Thunkable has partnered with AdMob to ensure that apps created on our cross-platform use ads to monetize apps in a way that both provides high quality traffic to advertisers and a high quality user experience for end users of apps.
 
@@ -49,13 +49,13 @@ Once approved, apps can be downloaded and published without further review.
 
 **Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.**
 
-## **Sample apps** <a id="sample-apps"></a>
+## **Sample Apps** <a id="sample-apps"></a>
 
 | **Sample App** | Description |
 | :--- | :--- |
 | [Dad with Ad](https://x.thunkable.com/projects/5c85f9c0bd31e8c4e90f3539/Welcome/designer) | Dad app with AdMob Banner ad on home screen and AdMob Rewarded Video ad that appears after a user has receive an answer from my dad |
 
-## Ad formats
+## Ad Formats
 
 |  | Banner ad | Interstitial ad | Rewarded video ad |
 | :--- | :--- | :--- | :--- |
@@ -73,7 +73,7 @@ That's it.  There's no blocks needed.
 
 The first banner ad will load when ready and will reload a new ad every minute.
 
-## Interstitial ad
+## Interstitial Ad
 
 Interstitial ads are recommended after a user has completed a task in your app. We don't recommend showing an interstitial ad right after the app opens and the user has not spent any time in your app.
 
@@ -83,7 +83,7 @@ To show an interstitial app, you need to first add the component and then add th
 
 
 
-## R**ewarded video** ad
+## R**ewarded Video** Ad
 
 Rewarded video ads are recommended after a user has completed a heavy task in your app and would be willing to watch a long video to continue. 
 
@@ -91,19 +91,19 @@ To show a rewarded video app, you need to first add the component and then add t
 
 ![](.gitbook/assets/screen-shot-2019-03-08-at-8.55.38-am.png)
 
-## Live test <a id="live-test"></a>
+## Live Test <a id="live-test"></a>
 
 For your convenience, we have provided a test  `Ad Unit ID` for you to see how a particular ad format may appear in your app. 
 
 During live test, all AdMob ads will be set to `test mode = true`, which means clicks and impressions will not be counted. This is true even if you add your own `Ad Unit ID` and set `test mode = false`.
 
-## Download and publish ![](.gitbook/assets/pro.png) 
+## Download and Publish ![](.gitbook/assets/pro.png) 
 
 {% hint style="info" %}
 Only ![](.gitbook/assets/pro.png) ****members can download and publish apps with AdMob
 {% endhint %}
 
-### **Submit for review**
+### **Submit for Review**
 
 All apps with AdMob must be approved by the team at Thunkable \([**submit your app here**](https://airtable.com/shr3qok3ARKXY7cBt)\).  
   

@@ -25,7 +25,7 @@ By default the gyroscope sensor is turned on, but the `enabled`property can be u
 | `set Enabled` | Bool | true |
 | `get Enabled` | Bool |  |
 
-![](.gitbook/assets/image%20%2825%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 ![](.gitbook/assets/gyro_abc.png)
 

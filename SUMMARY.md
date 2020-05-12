@@ -19,7 +19,7 @@
 * [Web Viewer](web-viewer.md)
 * [Switch](switch.md)
 * [Slider](slider.md)
-* [Alert](alert.md)
+* [Alerts](alert.md)
 * [Loading Icon](loading-icon.md)
 * [Date Input](date-input.md)
 * [Time Input](time-input.md)

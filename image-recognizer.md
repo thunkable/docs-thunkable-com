@@ -11,7 +11,7 @@ description: >-
 
 ![](.gitbook/assets/image-recognizer-microsoft-fig-1.png)
 
-## Set up
+## Getting Started
 
 No set up is required.
 

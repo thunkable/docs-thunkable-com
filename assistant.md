@@ -10,19 +10,19 @@
 
 The Assistant component by Google's Dialogflow gives you the power of a Google Home or Amazon Alexa all from the comfort of your mobile device's built-in microphone. 
 
-## Set up
+## Getting Started
 
 ### **Create a** [**free Dialogflow**](https://dialogflow.com/) **account**
 
 ![](.gitbook/assets/assistant-dialogflow-fig-1.png)
 
-### Create a new agent
+### Create a New Agent
 
 An agent is the voice-enabled chatbot that is programmed to listen and respond to your given conversation
 
 ![You&apos;ll have the option of selecting a default listening language](.gitbook/assets/screen-shot-2019-10-02-at-4.23.32-pm.png)
 
-### Connect your Dialogflow agent with Thunkable
+### Connect Your Dialogflow Agent with Thunkable
 
 There are 3 fields you'll need to fill out on the Thunkable properties panel to connect it to Dialogflow: `Client Email`, `Private Key` and `Project Id`. 
 

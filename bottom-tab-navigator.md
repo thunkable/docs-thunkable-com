@@ -12,7 +12,7 @@ To add a navigator to your app, you will need to drag the navigator component in
 
 ![](.gitbook/assets/ezgif.com-video-to-gif-6%20%282%29.gif)
 
-## Style your Tab
+## Style Your Tab
 
 You have many options for styling your Bottom Tab Navigator, such as changing the background color or tint color. Here are the different options for customization:
 
@@ -21,7 +21,7 @@ You have many options for styling your Bottom Tab Navigator, such as changing th
 * **Inactive Tint Color:** Select a color for the text of the tabs that are not in use. 
 * **InactiveBackgroundColor:** Select a color for the background of the tabs that are not in use.
 
-## **Adding Labels and Icons to your Tab**
+## **Adding Labels and Icons to Your Tab**
 
 When designing a tab, you can use words or images to guide users to different screens.  
 

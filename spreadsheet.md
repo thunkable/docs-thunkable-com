@@ -7,7 +7,7 @@ We like Airtable because set-up is relatively a breeze for a spreadsheet
 * [Set up](spreadsheet.md#set-up)
 * [Getting, uploading, updating and deleting data](spreadsheet.md#getting-uploading-updating-and-deleting-data-in-a-spreadsheet)
 
-## Set up
+## Getting Started
 
 ### Create your [free Airtable](https://airtable.com/) base and account
 
@@ -15,7 +15,7 @@ We like Airtable because set-up is relatively a breeze for a spreadsheet
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-2.png)
 
-### Connect your Airtable base with Thunkable
+### Connect Your Airtable Base with Thunkable
 
 There are four properties that you need to retrieve from Airtable to connect it with Thunkable: `API key`, `Base ID`, `Table Name` and `View Name`
 
@@ -45,9 +45,9 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-9.png)
 
-## Getting, uploading, updating and deleting data
+## Getting, Uploading, Updating, and Deleting data
 
-### Getting data
+### Getting Data
 
 #### Getting items for a ListView from an Airtable column
 
@@ -65,7 +65,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | Get All Rows | Returns `rows` as an object |
 | Get Selected Rows \(`startingRowNumber`, `numRows`\) | Returns `rows` as an object based on a specified `startingRowNumber` and `numRows` |
 
-### Uploading and updating data
+### Uploading and Updating Data
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-14.png)
 
@@ -82,7 +82,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | Replace Row Num \(`rowObject`\) | Replaces a row based on a `rowObject` |
 | Replace Row \(`rowNum`, `rowObject`\) | Replaces a row based on a `rowObject` and a `rowNum` |
 
-### Deleting data
+### Deleting Data
 
 | Event | Description |
 | :--- | :--- |

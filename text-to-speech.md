@@ -7,7 +7,7 @@ description: The text to speech simply takes in text and reads it out loud.
 * [Select spoken language](text-to-speech.md#select-spoken-language)
 * [Speak](text-to-speech.md#speak)
 
-## Select spoken language
+## Select Spoken Language
 
 To set up the Text to Speech component, simply select the spoken language that will correspond with the text provided. There are currently over 85 languages you can choose from
 

@@ -8,13 +8,13 @@ There is a predefined set of colors in the blocks palette
 
 ![](.gitbook/assets/blocks-color-fig-1.png)
 
-## Set RGBA color
+## Set RGBA Color
 
 As pictured below, the easiest way to set a specific color is using a text block with the syntax `rgba(r,g,b,a)`
 
 ![](.gitbook/assets/screen-shot-2018-12-18-at-11.03.09-pm.png)
 
-## Set RGB color
+## Set RGB Color
 
 ![](.gitbook/assets/blocks-color-fig-5.png)
 
@@ -30,7 +30,7 @@ or you can choose one at random
 
 ![](.gitbook/assets/blocks-color-fig-2.png)
 
-## Set HSV color
+## Set HSV Color
 
 A popular alternative to setting RGB color is to set Hue, Saturation and Value colors with the block below
 

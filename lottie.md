@@ -9,7 +9,7 @@ For the rest of us, there is a large and growing community of designers who have
 
 ![](.gitbook/assets/animation-lottie-fig-1.gif)
 
-## Set up
+## Getting Started
 
 | Property | Description |
 | :--- | :--- |

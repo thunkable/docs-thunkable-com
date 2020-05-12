@@ -1,6 +1,6 @@
 # Accelerometer
 
-## Description 
+## Getting Started 
 
 The accelerometer sensor is used to measure the force of acceleration acting on the phone. The sensor reports this force for each of the three principal axes, the x axis, y axis and, the z axis. The values obtained from the sensor are in metres per second squared, $$m/s^2$$.  
 
@@ -17,7 +17,7 @@ There may be some instances where you want to start an event by shaking your mob
 
 
 
-### Accelerometer changes
+### Accelerometer Changes
 
 When the accelerometer sensor detects a change in the force acting on the phone the `Changes` event will be fired. Each time the event fires the four associated parameters will be updated.
 

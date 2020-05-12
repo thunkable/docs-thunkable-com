@@ -4,7 +4,7 @@
 
 ![](.gitbook/assets/location-sensor-fig-1.png)
 
-## Get user's current location
+## Get User's Current Location
 
 ![](.gitbook/assets/location-sensor-fig-2.png)
 

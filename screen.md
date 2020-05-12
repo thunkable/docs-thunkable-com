@@ -40,23 +40,23 @@ description: >-
 | :--- | :--- |
 | ToggleDrawerMenu | Opens or Closes the drawer menu, if available. Must be used in conjunction with the [Drawer Navigator](drawer-navigator.md) |
 
-## Space elements horizontally
+## Space Elements Horizontally
 
 The `Horizontal Alignment` property allows you to space elements in a Screen horizontally
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-64%20%281%29.png)
 
-## Space elements vertically
+## Space Elements Vertically
 
 The `Vertical Alignment` property allows you to space elements in a Screen vertically
 
 ![](.gitbook/assets/spacing-fig-2.png)
 
-## Add a background color or picture
+## Add a Background Color or Picture
 
-![](.gitbook/assets/image%20%2887%29.png)
+![](.gitbook/assets/image%20%2888%29.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -67,7 +67,7 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 
 This determines how to resize the image when the frame doesn't match the raw image dimensions.
 
-![](.gitbook/assets/image%20%2885%29.png)
+![](.gitbook/assets/image%20%2886%29.png)
 
 * Cover: Fills the entire screen without changing the height and width ratio of the image 
 * Contain: The entire image will be scaled down to fit inside the screen, without changing the height and width ratio of the image 
@@ -78,21 +78,21 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 * Center: Positions the image in the middle of the frame
 
-## Enable scrolling
+## Enable Scrolling
 
-![](.gitbook/assets/image%20%2877%29.png)
+![](.gitbook/assets/image%20%2878%29.png)
 
 | Property | Description |
 | :--- | :--- |
 | Scrollable | Default \(`false`\). Indicates whether the screen is scrollable. For scrollable to work, you must also set your screen height to `fit contents`  and the components in your screen must have heights set in `absolute` pixels |
 
-## Hide \(or show\) status bar
+## Hide \(or show\) Status Bar
 
 | Property | Description |
 | :--- | :--- |
 | Show Status Bar | Default \(`true`\). If set to `false`, hides the top status bar |
 
-## Set orientation
+## Set Orientation
 
 | Property | Description |
 | :--- | :--- |
@@ -104,7 +104,7 @@ Thunkable allows you to reuse a screen, and its associated blocks, in multiple p
 
 ![](.gitbook/assets/02_save_screen.png)
 
-### Name your Screen
+### Name Your Screen
 
 It's important that when you save your screen you use a descriptive and memorable name that describes what your screen does. The example below is for a sign in screen, which is something that often get reused across multiple projects.
 

@@ -15,7 +15,7 @@ We highly recommend you use your own Firebase account with your app. With the in
 * [Get data](realtime-db.md#get-data)
 * [Update data in real-time](realtime-db.md#update-data-in-real-time)
 
-## Set up your own Firebase account
+## Set up Your Own Firebase account
 
 Thunkable provides a default Firebase account for testing purposes. When your app is ready to be distributed, we strongly advise connecting your app to your personal Firebase instance.
 
@@ -25,7 +25,7 @@ Firebase Realtime Database also pairs well with [Sign in](https://github.com/thu
 
 ![](.gitbook/assets/firebase-fig-3%20%281%29.png)
 
-### Edit database rules
+### Edit Database Rules
 
 If you are using [Sign In](sign-in-1.md) powered by Firebase in your app, you do not need to edit the default database rules which permit reading and writing to the database for authorized users.
 
@@ -35,7 +35,7 @@ Otherwise, you will need to set your Read and Write rules to `true`
 
 ![](.gitbook/assets/firebase-fig-8.png)
 
-### Connect your Firebase project with Thunkable
+### Connect Your Firebase Project with Thunkable
 
 To connect your Firebase project with Thunkable, you'll have to add an `API key` and `Database URL` to the Firebase Settings in the App Settings, which you can find by clicking on your app icon
 
@@ -47,13 +47,13 @@ One way to retrieve the `API key` and `Database URL` from Firebase is to click o
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-69%20%281%29.png)
 
-### Test save to your database
+### Test Save to your Database
 
 Once your project is connected to your Thunkable app, we recommend that you do a simple test and save a value into your database. It should appear in your data tab in your Firebase console.
 
 ![](.gitbook/assets/firebase-fig-10.png)
 
-## Save data
+## Save Data
 
 ![](.gitbook/assets/firebase-fig-11.png)
 
@@ -61,7 +61,7 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 | :--- | :--- |
 | Save \(`key`, `value`\) | Asks Firebase to save a given `value` under the given `key` |
 
-## Get data
+## Get Data
 
 ![](.gitbook/assets/firebase-fig-12.png)
 
@@ -69,7 +69,7 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 | :--- | :--- |
 | Get \(`key`,`value`\) | Asks Firebase to get the`value`stored under the given`key` |
 
-## Update data in real-time
+## Update Data in Real-time
 
 ![](.gitbook/assets/firebase-fig-13.png)
 
@@ -79,9 +79,9 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 | Data Changed \(`key`,`value`\) | Asks Firebase for updates to`value`for specified`key`. Requires an Add Listener block. |
 | Remove Listener \(`key`\) | Ask Firebase to stop listening to a specific`key`for changes in the database |
 
-## Separating your data into project buckets
+## Separating Your Data into Project Buckets
 
 You might want to split your database into smaller spaces, also known as project buckets. To do this, you would need to save your value as an object and use the create object block to create your project bucket. More details in [this post](https://community.thunkable.com/t/project-bucket-option-in-ios/31957).
 
-![Thanks to our power Thunker @actech for this awesome tip!](.gitbook/assets/image%20%28110%29.png)
+![Thanks to our power Thunker @actech for this awesome tip!](.gitbook/assets/image%20%28111%29.png)
 

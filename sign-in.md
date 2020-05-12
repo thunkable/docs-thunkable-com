@@ -1,3 +1,9 @@
+---
+description: >-
+  Authentication components enable your app to verify if something is true, like
+  a password.
+---
+
 # ✉️ Authentication
 
 ## Authentication Components

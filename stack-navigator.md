@@ -8,7 +8,7 @@ Navigators are the only component that you cannot drag and drop into your phone 
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-84.png)
 
-## Name your screens
+## Name Your Screens
 
 The Stack navigator creates a header bar across all screens. You can add a title to this bar by navigating to the Screen properties
 
@@ -17,7 +17,7 @@ The Stack navigator creates a header bar across all screens. You can add a title
 | Header Title | Title of your header |
 | Header Back Title | Title of the back button on a stacked screen; if `blank`, will use the `Header Title` |
 
-## Set your screen transitions
+## Set Your Screen Transitions
 
 To enable a Stack transition, you will have to add a Screen navigation block like the one below. You can find the Screen navigation block in the pre-built Control category:
 
@@ -29,7 +29,7 @@ Screens can Stack from left to right or from top to bottom. You can set the tran
 | :--- | :--- |
 | Mode | Default \(`card`\); `Card` mode stacks screens from left to right while `modal` stacks screens from top to bottom |
 
-## Hide your header
+## Hide Your Header
 
 It is possible to hide the Header bar and maintain the Stacking transition by using the Stack property below. Hiding the Header bar will also hide the back button that makes it easier to transition to your original screen
 
@@ -37,7 +37,7 @@ It is possible to hide the Header bar and maintain the Stacking transition by us
 | :--- | :--- |
 | Header Mode | Default \(`Screen`\); If you want to hide the header, set to `none` |
 
-## Style your screen and header color
+## Style Your Screen and Header Color
 
 By default, when you add a Stack, the Screens contained within it change their background color to a light gray. If you want to change it to another color, find the Screen property below:
 

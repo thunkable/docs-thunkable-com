@@ -36,7 +36,7 @@ In the next modal, choose between [Create your own table](data-viewer-list.md#cr
 
 Please note that some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
 
-### Create your own Table
+### Create your Own Table
 
 Start by naming your data source.
 
@@ -132,7 +132,7 @@ This increases all the way up to five properties, in the case of the [Image Titl
 
 ## Left Swipe
 
-You can set a customisable, clickable button to appear when the list item is swiped to the left. If `Left Swipe` is set to true you will see additional options to customise the button text, text color and button background color. 
+You can set a customizable, clickable button to appear when the list item is swiped to the left. If `Left Swipe` is set to true you will see additional options to customize the button text, text color and button background color. 
 
 ![](.gitbook/assets/left_swipe_props1.png)
 
@@ -142,7 +142,7 @@ When you test this on your phone you will see that each list item can be dragged
 
 ## Right Swipe
 
-You can also set a customisable, clickable button to appear when the list item is swiped to the right.
+You can also set a customizable, clickable button to appear when the list item is swiped to the right.
 
 ![](.gitbook/assets/right_swipe_props1.png)
 

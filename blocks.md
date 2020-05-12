@@ -12,7 +12,7 @@ Thunkable Blocks are the building blocks of a great experience for your app user
 
 They can be connected to a commonly used set of blocks that range from opening screens, setting up logic, reformatting data or simplifying code.
 
-## Frequently used built-in blocks
+## Frequently Used Built-in Blocks
 
 Below are some of the most commonly used blocks and where you might find them:
 

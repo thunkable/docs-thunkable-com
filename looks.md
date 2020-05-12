@@ -4,13 +4,13 @@ description: 'Program a sprite''s image, size, and visibility'
 
 # Looks
 
-![Hide the sprite on the canvas](.gitbook/assets/image%20%2883%29.png)
+![Hide the sprite on the canvas](.gitbook/assets/image%20%2884%29.png)
 
-![Show the sprite on the canvas](.gitbook/assets/image%20%2897%29.png)
+![Show the sprite on the canvas](.gitbook/assets/image%20%2898%29.png)
 
-![Returns true if the sprite is visible, and false if it is hidden](.gitbook/assets/image%20%2830%29.png)
+![Returns true if the sprite is visible, and false if it is hidden](.gitbook/assets/image%20%2831%29.png)
 
-![Set the sprite&apos;s image to an image in the sprite type&apos;s picture list](.gitbook/assets/image%20%2881%29.png)
+![Set the sprite&apos;s image to an image in the sprite type&apos;s picture list](.gitbook/assets/image%20%2882%29.png)
 
 ## 
 

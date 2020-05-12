@@ -6,7 +6,7 @@ description: A column is a vertical container that allows you to stack component
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-65.png)
 
-## Set size of the column
+## Set the Size of a Column
 
 For more information on sizing in your app, please see our [introduction here​](intro-to-sizing.md)
 
@@ -70,7 +70,7 @@ The `Horizontal Alignment` property allows you to space elements in a Column hor
 
 This determines how to resize the image when the frame doesn't match the raw image dimensions.
 
-![](.gitbook/assets/image%20%2885%29.png)
+![](.gitbook/assets/image%20%2886%29.png)
 
 * Cover: Fills the entire screen without changing the height and width ratio of the image 
 * Contain: The entire image will be scaled down to fit inside the screen, without changing the height and width ratio of the image 

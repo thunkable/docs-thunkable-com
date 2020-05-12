@@ -7,7 +7,7 @@ No set up is required but creating your free Cloudinary account is highly recomm
 * [Set up](media-db.md#set-up)
 * [Upload media](media-db.md#upload-media)
 
-## Set up
+## Getting Started
 
 No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
 
@@ -23,7 +23,7 @@ To connect your Cloudinary cloud to Thunkable, simply retrieve the following fie
 
 ![](.gitbook/assets/media-db-cloudinary-fig-2.png)
 
-## Upload media
+## Upload Media
 
 ![](.gitbook/assets/media-db-cloudinary-fig-3.png)
 
