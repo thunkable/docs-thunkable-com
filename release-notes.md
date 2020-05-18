@@ -12,13 +12,13 @@ New components
 
 * [Data Viewer List ](https://docs.thunkable.com/data-viewer-list)and [Data Viewer Grid](https://docs.thunkable.com/data-viewer-grid): list viewers with extended functionality that can be connected to external [Data Sources](https://docs.thunkable.com/data-sources) \(Google Sheets, Airtable, Local DB\)
 
-## April 27, 2020
+## Apr 27, 2020
 
 Component updates
 
 * Ability to fix [Screen Orientation](https://docs.thunkable.com/screen#set-orientation) to `Portrait`, `Landscape` or `auto`
 
-## March 13, 2020
+## Mar 13, 2020
 
 Platform updates
 
