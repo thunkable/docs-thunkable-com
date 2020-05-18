@@ -14,13 +14,13 @@ New components
 
 ## April 27, 2020
 
-Component Updates
+Component updates
 
 * Ability to fix [Screen Orientation](https://docs.thunkable.com/screen#set-orientation) to `Portrait`, `Landscape` or `auto`
 
 ## March 13, 2020
 
-Platform Updates
+Platform updates
 
 * Ability to publish your Thunkable app as a [web app](https://docs.thunkable.com/publish-as-a-web-app-pro)
 
