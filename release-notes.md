@@ -2,18 +2,27 @@
 
 ## Coming soon to Thunkable ✕
 
-New components
-
-* Data Viewer: a list viewer with extended functionality that can be connected to external data sources \(Google Sheets, Airtable, Local DB\)
-
-Component updates
-
-* Screen - the ability to fix orientation to `portrait` and `landscape`
-
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
-* Updating [Web Viewer](https://docs.thunkable.com/web-viewer) in response to deprecation message seen when publishing apps
+
+## May 7, 2020
+
+New Components
+
+* [Data Viewer List ](https://docs.thunkable.com/data-viewer-list)and [Data Viewer Grid](https://docs.thunkable.com/data-viewer-grid): list viewers with extended functionality that can be connected to external [Data Sources](https://docs.thunkable.com/data-sources) \(Google Sheets, Airtable, Local DB\)
+
+## April 27, 2020
+
+Component Updates
+
+* Ability to fix [Screen Orientation](https://docs.thunkable.com/screen#set-orientation) to `Portrait`, `Landscape` or `auto`
+
+## March 13, 2020
+
+Platform Updates
+
+* Ability to publish your Thunkable app as a [web app](https://docs.thunkable.com/publish-as-a-web-app-pro)
 
 ## Feb 28, 2020
 
