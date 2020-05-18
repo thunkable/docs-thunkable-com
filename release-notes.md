@@ -8,7 +8,7 @@ Platform updates
 
 ## May 7, 2020
 
-New Components
+New components
 
 * [Data Viewer List ](https://docs.thunkable.com/data-viewer-list)and [Data Viewer Grid](https://docs.thunkable.com/data-viewer-grid): list viewers with extended functionality that can be connected to external [Data Sources](https://docs.thunkable.com/data-sources) \(Google Sheets, Airtable, Local DB\)
 
