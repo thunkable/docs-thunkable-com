@@ -2,8 +2,14 @@
 
 ## Coming soon to Thunkable ✕
 
+New components
+
+* Audio Recorder
+
 Platform updates
 
+* New tutorials panel
+* Improvements in organizing projects at x.thunkable.com/projects
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
 ## May 7, 2020
