@@ -14,7 +14,7 @@ The Web Viewer API will be brought up to date before the Play Store or App Store
 * [Set URL](web-viewer.md#set-url)
 * [Edit Web Viewer size](web-viewer.md#edit-web-viewer-size)
 * [Add spacing](web-viewer.md#add-spacing)
-* [Post Message/Receive Message](https://docs.thunkable.com/web-viewer#post-message-receive-message)
+* [Post Message/Receive Message](web-viewer.md#post-message-receive-message)
 
 ![](.gitbook/assets/web-viewer-fig-1.png)
 
