@@ -14,6 +14,7 @@ We highly recommend you use your own Firebase account with your app. With the in
 * [Save data](realtime-db.md#save-data)
 * [Get data](realtime-db.md#get-data)
 * [Update data in real-time](realtime-db.md#update-data-in-real-time)
+* [Separating your data into project buckets](realtime-db.md#separating-your-data-into-project-buckets)
 
 ## Set up Your Own Firebase account
 
