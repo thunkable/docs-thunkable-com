@@ -14,6 +14,7 @@ The Web Viewer API will be brought up to date before the Play Store or App Store
 * [Set URL](web-viewer.md#set-url)
 * [Edit Web Viewer size](web-viewer.md#edit-web-viewer-size)
 * [Add spacing](web-viewer.md#add-spacing)
+* [Post Message/Receive Message](https://docs.thunkable.com/web-viewer#post-message-receive-message)
 
 ![](.gitbook/assets/web-viewer-fig-1.png)
 
@@ -58,4 +59,14 @@ You change the spacing and positioning of the Web Viewer with the Margin and Pad
 **Padding**
 
 * You can specify how much space you want between the edges of the Web Viewer and the screen using either pixel or percent values.
+
+## Post Message/Receive Message
+
+If you own the website being displayed in your Web Viewer, you can send and receive messages from your website in the Web Viewer.
+
+![Example of Web Viewer &apos;Post Message&apos; block](.gitbook/assets/image%20%28124%29.png)
+
+![Example of Web Viewer &apos;Receives Message&apos; block](.gitbook/assets/image%20%28123%29.png)
+
+You can see examples of sending/receiving messages and get further setup instructions [here](https://github.com/thunkable/webviewer-extension/).
 
