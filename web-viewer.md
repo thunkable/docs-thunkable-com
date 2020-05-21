@@ -62,7 +62,7 @@ You change the spacing and positioning of the Web Viewer with the Margin and Pad
 
 ## Post Message/Receive Message
 
-If you own the website being displayed in your Web Viewer, you can send and receive messages from your website in the Web Viewer.
+If you own the website being displayed in your Web Viewer, you can send and receive messages between your website and the Web Viewer using Javascript.
 
 ![Example of Web Viewer &apos;Post Message&apos; block](.gitbook/assets/image%20%28124%29.png)
 
