@@ -106,7 +106,7 @@
 * [Publish to App Store \(iOS\)](publish-to-app-store-ios.md)
 * [Publish to Play Store \(Android\)](publish-to-play-store-android.md)
 * [Publish as a Web App \(PRO\)](publish-as-a-web-app-pro.md)
-* [Preview on the Web \(Beta\)](web-preview.md)
+* [Preview on the Web](web-preview.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [Login Issues](troubleshooting/login-issues.md)
   * [FAQs](troubleshooting/faqs.md)

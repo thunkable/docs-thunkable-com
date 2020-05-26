@@ -2,15 +2,15 @@
 description: Preview your awesome apps from the comfort of your favorite browser
 ---
 
-# Preview on the Web \(Beta\)
+# Preview on the Web
 
+Preview on the Web allows you to live preview your own project directly from your browser. Simply click on "Live Test" to preview your own app in a pop-up window.  
 
+![](.gitbook/assets/live_preview.gif)
 
-{% hint style="warning" %}
-This feature is in beta and will continue to improve over time. Please share your feedback on our [community forum](https://community.thunkable.com/).
-{% endhint %}
+ You can also preview any _public_ app, directly from the Project Detail Page. Here's [one example](https://x.thunkable.com/projectPage/5ea6ed029ce3d64d1d3a27dc) but you can find thousands of others in the public gallery.
 
-Thunkable is testing a feature to allow creators to preview their own and others' mobile apps from the project's details page. 
+![](.gitbook/assets/project_preview.gif)
 
 ### Unsupported Components
 
