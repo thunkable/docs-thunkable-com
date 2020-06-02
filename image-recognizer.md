@@ -6,6 +6,14 @@ description: >-
 
 # Image Recognizer
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/3UWbWPlkjw8" %}
+
+
+
+## Overview
+
 * [Set up](image-recognizer.md#set-up)
 * [Auto-caption a picture](image-recognizer.md#auto-caption-a-picture)
 

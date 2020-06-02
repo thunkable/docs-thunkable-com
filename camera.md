@@ -6,6 +6,14 @@ description: >-
 
 # Camera
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/3UWbWPlkjw8" %}
+
+
+
+## Overview
+
 * [Take Photo](camera.md#take-photo)
 
 ![](.gitbook/assets/camera-fig-1%20%281%29.png)

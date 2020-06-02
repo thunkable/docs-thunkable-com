@@ -1,5 +1,13 @@
 # Translator by Yandex
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/lOmoqqLbDeI" %}
+
+
+
+## Overview
+
 * [Set up](translator.md#set-up)
 * [Translate](translator.md#translate)
 

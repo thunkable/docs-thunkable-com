@@ -1,5 +1,13 @@
 # Airtable
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/2fVRne8drfQ" %}
+
+
+
+## Overview
+
 Airtable is a service that looks like a spreadsheet but actually acts like a database so it can do database-like things like store attachments i.e. images in your spreadsheets \(and not just text\) and link records between spreadsheets.
 
 We like Airtable because set-up is relatively a breeze for a spreadsheet

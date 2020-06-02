@@ -4,6 +4,14 @@ description: The text to speech simply takes in text and reads it out loud.
 
 # Text to Speech
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/\_n1NMgVU-y8" %}
+
+
+
+## Overview
+
 * [Select spoken language](text-to-speech.md#select-spoken-language)
 * [Speak](text-to-speech.md#speak)
 

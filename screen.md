@@ -6,6 +6,18 @@ description: >-
 
 # Screen
 
+## Video Tutorials
+
+{% embed url="https://youtu.be/h7Zqa1-Ajdg" %}
+
+
+
+{% embed url="https://youtu.be/pGhATTA1cIA" %}
+
+
+
+
+
 ## Understanding Screen Blocks 
 
 ### when Screen1 Starts

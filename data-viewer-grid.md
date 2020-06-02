@@ -6,6 +6,14 @@ description: >-
 
 # Data Viewer Grid
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/w63TJ5YM3Do" %}
+
+
+
+## Sample App
+
 ![](.gitbook/assets/nhl.png)
 
 Check out our Hockey teams [sample app](https://bit.ly/35JQF7a) to see the Data Viewer grid in action. Click the "Copy Project" button is you'd like to reuse this open-source sample for yourself. 

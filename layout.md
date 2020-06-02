@@ -10,6 +10,12 @@ To go from an idea to app, we strongly recommend that you sketch out your vision
 
 ![](.gitbook/assets/image%20%2849%29.png)
 
+## Navigator Tutorial
+
+{% embed url="https://youtu.be/Z9R\_kg4ew2M" %}
+
+
+
 ## Arrange Screens with Navigators
 
 Most apps navigate through screens using navigators. Click [here](https://www.youtube.com/watch?v=Z9R_kg4ew2M) to watch a tutorial on how to use each navigator. 
