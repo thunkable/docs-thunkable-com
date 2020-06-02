@@ -14,7 +14,7 @@ This is not your app name! This is just the name of your project on Thunkable. W
 
 ![](../.gitbook/assets/projectname.gif)
 
-### **App Icon**
+### **Changing the App Icon and Removing the Thunkable Branding Screen**
 
 Your app icon is the picture that represents your app on your mobile device. This icon will also appear on your listing in the Google Play Store or App Store, and as your project icon on Thunkable.
 
