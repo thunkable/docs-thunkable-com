@@ -102,7 +102,33 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 | Property | Description |
 | :--- | :--- |
-| Show Status Bar | Default \(`true`\). If set to `false`, hides the top status bar |
+| Show StatusBar | Default \(`true`\). If set to `false`, hides the top status bar |
+
+## Status Bar Theme
+
+| Property | Description |
+| :--- | :--- |
+| StatusBar Style | Choose between `default` , `light-content` or `dark-content` to set the theme or style of the status bar |
+
+## Status Bar Opacity
+
+{% hint style="warning" %}
+Please Note: The `Translucent StatusBar` property will only work on Android devices at this time.
+{% endhint %}
+
+| Property | Description |
+| :--- | :--- |
+| Translucent StatusBar  | Default \(`false`\). Set to `true` to make the Status Bar translucent.  Android-only. |
+
+## Status Bar Color
+
+{% hint style="warning" %}
+Please Note: The `StatusBar Color`property will only work on Android devices at this time.
+{% endhint %}
+
+| Property | Description |
+| :--- | :--- |
+| StatusBar Color | Default \(`0,0,0,0.53`\). Select any color using the color picker, RGBA or HEX value. Android-only. |
 
 ## Set Orientation
 
