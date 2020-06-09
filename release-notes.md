@@ -2,6 +2,10 @@
 
 ## Coming soon to Thunkable ✕
 
+Component updates
+
+* Add blocks to set Image of [Sprite](sprites.md) to next/previous image in Picture List
+
 New components
 
 * Audio Recorder
