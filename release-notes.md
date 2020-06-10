@@ -5,6 +5,7 @@
 Component updates
 
 * Add blocks to set Image of [Sprite](sprites.md) to next/previous image in Picture List
+* Make appearance of [Text Input](text-input.md) in Design tab more true to how it appears in built app/web app when Number Of Lines is greater than 1
 
 New components
 
