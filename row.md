@@ -53,7 +53,9 @@ description: >-
       </td>
     </tr>
   </tbody>
-</table>## Space the elements horizontally
+</table>
+
+## Space the elements horizontally
 
 The `Horizontal Alignment` property allows you to space elements in a Row horizontally
 
