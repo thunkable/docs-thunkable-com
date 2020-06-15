@@ -10,13 +10,19 @@ Thunkable gives you a variety of ways to create your very own cross platform app
 
 {% page-ref page="signing-in.md" %}
 
-## **Step 2. Try Our Tutorials**
+## Step 2. Check out your Thunkable Projects page
+
+Choose how you want your projects to be laid out. Search and filter your projects.
+
+{% page-ref page="your-thunkable-projects-page.md" %}
+
+## **Step 3. Try Our Tutorials**
 
 They exist! They are helpful! Thunkable tutorials cover both basic concepts and advanced features.  
 
 {% page-ref page="tutorials.md" %}
 
-## **Step 3.** **Download the Thunkable Mobile App**
+## **Step 4.** **Download the Thunkable Mobile App**
 
 With the Thunkable Live mobile app, you can preview your apps directly on your personal devices. To learn more, please click below. 
 
@@ -30,13 +36,13 @@ Click on one of the links below to download the Thunkable mobile app.
 
 If you don't have an iOS or Android device, you can [set up an emulator](../emulators.md) on your computer that will display your apps.
 
-## Step 4. Components
+## Step 5. Components
 
 We have custom components and third-party integrations that you can drop directly into your projects. These components will allow you to build more advanced features.  
 
 {% page-ref page="../components.md" %}
 
-## Step 5. Blocks
+## Step 6. Blocks
 
 The language of blocks is a visible programming language. By dragging and dropping blocks together, you can program your app. 
 
