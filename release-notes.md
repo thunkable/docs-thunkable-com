@@ -2,17 +2,12 @@
 
 ## Coming soon to Thunkable ✕
 
-Component updates
-
-* Add blocks to set Image of [Sprite](sprites.md) to next/previous image in Picture List
-
 New components
 
 * Audio Recorder
 
 Platform updates
 
-* New tutorials panel
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
 ## June 15, 2020
@@ -26,6 +21,13 @@ Platform updates
 Component updates
 
 * Make appearance of [Text Input](text-input.md) in Design tab more true to how it appears in built app/web app when Number Of Lines is greater than 1
+* Add blocks to set Image of [Sprite](sprites.md) to next/previous image in Picture List
+
+## June 5, 2020
+
+Platform updates
+
+* New tutorials panel
 
 ## May 7, 2020
 
