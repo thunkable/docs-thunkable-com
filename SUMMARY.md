@@ -3,6 +3,7 @@
 * [👋 Welcome to Thunkable](README.md)
 * [👶 Getting Started](get-started/README.md)
   * [Signing In](get-started/signing-in.md)
+  * [Your Thunkable Projects Page](get-started/your-thunkable-projects-page.md)
   * [Tutorials](get-started/tutorials.md)
   * [The Thunkable Live App](get-started/live-test.md)
 * [🆕 Create New Project](projects/README.md)
