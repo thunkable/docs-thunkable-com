@@ -45,7 +45,9 @@ For more information on sizing in your app, please see our [introduction here​
       </td>
     </tr>
   </tbody>
-</table>## Space the elements vertically
+</table>
+
+## Space the elements vertically
 
 The `Vertical Alignment` property allows you to space elements in a Column vertically
 
