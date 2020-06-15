@@ -5,7 +5,6 @@
 Component updates
 
 * Add blocks to set Image of [Sprite](sprites.md) to next/previous image in Picture List
-* Make appearance of [Text Input](text-input.md) in Design tab more true to how it appears in built app/web app when Number Of Lines is greater than 1
 
 New components
 
@@ -14,8 +13,19 @@ New components
 Platform updates
 
 * New tutorials panel
-* Improvements in organizing projects at x.thunkable.com/projects
 * Translation into Chinese 中文 \(more languages to come in the future\)
+
+## June 15, 2020
+
+Platform updates
+
+* Redesign of [Thunkable Projects Page](https://docs.thunkable.com/get-started/your-thunkable-projects-page)
+
+## June 8, 2020
+
+Component updates
+
+* Make appearance of [Text Input](text-input.md) in Design tab more true to how it appears in built app/web app when Number Of Lines is greater than 1
 
 ## May 7, 2020
 
