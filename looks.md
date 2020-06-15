@@ -12,5 +12,7 @@ description: 'Program a sprite''s image, size, and visibility'
 
 ![Set the sprite&apos;s image to an image in the sprite type&apos;s picture list](.gitbook/assets/image%20%2882%29.png)
 
+![Set the sprite&apos;s image to the next or previous image in the sprite type&apos;s picture list](.gitbook/assets/screen-shot-2020-06-15-at-2.53.31-pm.png)
+
 ## 
 
