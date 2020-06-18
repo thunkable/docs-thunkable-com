@@ -69,71 +69,11 @@ You change the spacing and positioning of the label with the Margin and Padding 
 
 ## Events
 
-### Click
-
-![](.gitbook/assets/image_click.png)
-
-This event handler is fired when the user clicks on the image.
+### 
 
 ## Properties
 
-### Computed Dimensions
-
-![](.gitbook/assets/computed_height.png)
-
-![](.gitbook/assets/img_computed_width.png)
-
-The `Computed Height` and `Computed Width` blocks return the on screen dimensions of the label, after it has been rendered on screen. The value returned is an integer, representing the size in pixels.
-
-### Height 
-
-![](.gitbook/assets/image_height.png)
-
-The set and get height blocks work with the Height property of the image component. Acceptable input values are. 
-
-* Number of Pixels
-* Percentage Height
-* "Fit Contents"
-* "Fill Container"
-
-### Picture 
-
-![](.gitbook/assets/image_picture.png)
-
-The set and get picture blocks work with picture property of the image component. Pictures can be uploaded as local assets or specified as URLs 
-
-### Resize Mode 
-
-![](.gitbook/assets/image_resize_mode.png)
-
-The set and get resize mode blocks work with how the picture is scaled within the image component. Acceptable values are:
-
-* Cover
-* Contain
-* Stretch
-* Repeat
-* Center
-
-### Visible 
-
-![](.gitbook/assets/img_visible.png)
-
-The set and get visible blocks are used to show or hide the entire image component. Acceptable values are:
-
-* True
-* False
-
-### Width
-
-![](.gitbook/assets/image_width.png)
-
-  
-The set and get width blocks work with the Width property of the image component. Acceptable values are.‌
-
-* Number of Pixels
-* Percentage Width
-* "Fit Contents"
-* "Fill Container"
+### 
 
 
 
