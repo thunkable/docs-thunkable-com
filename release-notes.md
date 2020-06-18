@@ -10,6 +10,15 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
+## June 18, 2020
+
+Component updates
+
+* Adding click events for [Text Input](text-input.md), [Label](label.md) and [Image](image-1.md) components
+* Improving the [Map](map.md) event
+* [Data Source](data-sources.md): Google Sheets can now be accessed by index in Data Source blocks 
+* [Time Input ](time-input.md)label updated
+
 ## June 15, 2020
 
 Platform updates
