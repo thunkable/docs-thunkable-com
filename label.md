@@ -7,6 +7,8 @@ description: The label component allows you to display text in your app.
 * [Style the Label](label.md#style-the-label)
 * [Edit the Label size](label.md#edit-the-label-size)
 * [Add spacing](label.md#add-spacing)
+* [Event Blocks](label.md#events)
+* [Property Blocks](label.md#properties)
 
 ## Style the Label
 
