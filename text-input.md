@@ -11,6 +11,8 @@ description: >-
 * [Style the Text Input](text-input.md#style-the-text-input)
 * [Edit the Text Input size](text-input.md#edit-the-text-input-size)
 * [Add spacing](text-input.md#add-spacing)
+* [Event Blocks](text-input.md#events)
+* [Property Blocks](text-input.md#properties)
 
 ![](.gitbook/assets/text-input-fig-1.png)
 
