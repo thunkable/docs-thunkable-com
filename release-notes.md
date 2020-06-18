@@ -2,10 +2,6 @@
 
 ## Coming soon to Thunkable ✕
 
-New components
-
-* Audio Recorder
-
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
@@ -18,6 +14,10 @@ Component updates
 * Improving the [Map](map.md) event
 * [Data Source](data-sources.md): Google Sheets can now be accessed by index in Data Source blocks 
 * [Time Input ](time-input.md)label updated
+
+New components
+
+* [Audio Recorder](audio-recorder.md)
 
 ## June 15, 2020
 
