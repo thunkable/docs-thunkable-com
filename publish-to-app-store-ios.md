@@ -125,8 +125,8 @@ Back in Thunkable, you will be prompted for your App Name, Team ID and Bundle ID
 
 * **App Name:** The app Name must be unique to the App Store and is what appears next to the app icon when it is downloaded on a user's phone.
 * **Team ID:**  A unique account identifier that is linked to your Apple Developer Program membership. Apple will automatically create this for you, and it can be used for every app you publish.
-* **Bundle ID:** Also unique to your app, but not visible to your app users. If you plan on publishing multiple apps, we suggest you create a Wildcard App ID. Otherwise, a single Explicit App ID should work. Apple recommends reversing your domain name to create your bundle ID i.e. 
-  * _com.yourDomainName.yourAppName_ to avoid conflicts with other apps.
+* **Bundle ID:** Also unique to your app, but not visible to your app users. Otherwise, a single Explicit App ID should work. Apple recommends reversing your domain name to create your bundle ID i.e. _com.yourDomainName.yourAppName_ to avoid conflicts with other apps.
+  * _Note: Starting June 16, 2020, uploading apps to the App Store requires an explicit bundle ID. Wildcard bundle IDs are no longer available when creating app records._
 
 ![](.gitbook/assets/03_registerapp-1.png)
 
