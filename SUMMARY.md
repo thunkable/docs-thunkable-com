@@ -37,6 +37,7 @@
 * [Column](column.md)
 * [🔊 Voice](voice.md)
 * [Sound](sound.md)
+* [Audio Recorder](audio-recorder.md)
 * [Text to Speech](text-to-speech.md)
 * [Speech Recognizer](speech-recognizer.md)
 * [Assistant by Dialogflow](assistant.md)
