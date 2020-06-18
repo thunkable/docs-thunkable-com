@@ -82,5 +82,86 @@ You change the spacing and positioning of the text input with the Margin and Pad
 
 * You can specify how much space you want between the border and the contents of the text input using either pixel or percent values.
 
+## Events
+
+### Click
+
+![](.gitbook/assets/ti_click.png)
+
+This event fires when the user clicks on the Text Input component.
+
+## Properties
+
+### Border Width
+
+![](.gitbook/assets/ti_border_width.png)
+
+The border width value corresponds to the size of the border around the Text Input. Changes to the color and style of the border must be done in the[ designer.](text-input.md#style-the-text-input) 
+
+### Computed Dimensions 
+
+![](.gitbook/assets/ti_ch.png)
+
+![](.gitbook/assets/ti_cw.png)
+
+The `Computed Height` and `Computed Width` blocks return the on-screen dimensions of the Text Input, after it has been rendered on the device screen. The value returned is an integer, representing the size of the component, in pixels.
+
+### Height 
+
+![](.gitbook/assets/ti_height.png)
+
+The set and get height blocks work with the Height property of the Text Input component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Height
+* "Fit Contents"
+* "Fill Container"
+
+### Hint 
+
+![](.gitbook/assets/ti_hint.png)
+
+The set and get hint work with the prompt that is displayed in the Text Input, before the user starts typing. Any string of text or number can be used as the hint.
+
+### Keyboard Type 
+
+![](.gitbook/assets/ti_keyboard_type.png)
+
+The set and get keyboard type property gives you control over what version of the keyboard is displayed on-screen when the user starts typing. Acceptable values are:  
+
+
+* default
+* email address
+* numeric
+* phone pad
+
+### Text 
+
+![](.gitbook/assets/ti_text.png)
+
+The set and get text property works with the string of text that displayed in the Text Input. 
+
+### Visible 
+
+![](.gitbook/assets/ti_visible.png)
+
+The set and get visible blocks are used to show or hide the entire Text Input component. Acceptable values are:
+
+* True
+* False
+
+### Width
+
+![](.gitbook/assets/ti_width.png)
+
+The set and get width blocks work with the Width property of the Text Input component. Acceptable values are.‌
+
+* Number of Pixels
+* Percentage Width
+* "Fit Contents"
+* "Fill Container"
+
+
+
 
 
