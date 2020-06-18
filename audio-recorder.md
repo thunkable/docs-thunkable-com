@@ -31,10 +31,30 @@ This is an example of how you can use the 'Start Recording' and 'Stop Recording'
 
 ![](.gitbook/assets/startstoprecording.png)
 
-| Outputs | Data Type | Function |
-| :--- | :--- | :--- |
-| audio file | Audio | Returns recorded audio |
-| error | Text | If there is an error, returns the error \(else returns `null`\) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Outputs</th>
+      <th style="text-align:left">Data Type</th>
+      <th style="text-align:left">Function</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">audio file</td>
+      <td style="text-align:left">
+        <p>.mp4 (on device)</p>
+        <p>webm (on web)</p>
+      </td>
+      <td style="text-align:left">Returns recorded audio</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">error</td>
+      <td style="text-align:left">Text</td>
+      <td style="text-align:left">If there is an error, returns the error (else returns <code>null</code>)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Using your Audio File
 
