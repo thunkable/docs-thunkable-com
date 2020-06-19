@@ -4,7 +4,8 @@ description: Create interactive gaming apps with sprites.
 
 # Sprites
 
-Sprites are images that can be placed on the canvas, where they can react to being touched or dragged across the screen, or collided with other sprites or the edge of the screen.
+Sprites are images that can be placed on the Stage in the Canvas.   
+They can react to being touched or dragged across the screen, or colliding with other sprites or the edge of the screen.
 
 ## Adding Sprites
 
@@ -12,7 +13,9 @@ To add a sprite to the canvas, drag and drop a "Sprite Type" onto the app builde
 
 ## Sprite Properties
 
-**PictureList/Picture Selection:** To change the picture of your sprite, in the Sprite Type, add images to the Picture List. The in the individual sprites, you can select a picture from the list.
+### Picture List
+
+**PictureList:** To change the picture of your sprite, in the Sprite Type, add images to the Picture List. The in the individual sprites, you can select a picture from the list.
 
 **Height:** Changes the height of the sprite
 

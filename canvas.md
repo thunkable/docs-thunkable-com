@@ -41,7 +41,7 @@ You can set **Gravity** of the Stage along the X and Y axis. The Sprites on the 
 {% endtab %}
 
 {% tab title="Y and X Gravity" %}
-![Behavior of Sprite when Y Gravity = 100, X Gravity = 100](.gitbook/assets/x-y-axis-gravity.gif)
+![Behavior of Sprite when Y Gravity = 100, X Gravity = 100](.gitbook/assets/x-y-axis-gravity-1-.gif)
 {% endtab %}
 {% endtabs %}
 
