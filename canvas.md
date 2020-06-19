@@ -8,10 +8,10 @@ The canvas component is a touch-sensitive panel that enables the movement of ite
 
 You can use this component to create a variety of games and experiences that involve different methods of touching a screen.
 
-* Adding a Canvas
-* The Stage
-* Gravity
-* Touch Drawing
+* [Adding a Canvas](canvas.md#adding-a-canvas)
+* [The Stage](canvas.md#the-stage)
+  * [Gravity](canvas.md#gravity)
+  * [Touch Drawing](canvas.md#touch-drawing)
 
 ## Adding a Canvas 
 
