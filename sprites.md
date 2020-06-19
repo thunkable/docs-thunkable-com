@@ -7,6 +7,13 @@ description: Create interactive gaming apps with sprites.
 Sprites are images that can be placed on the Stage in the Canvas.   
 They can react to being touched or dragged across the screen, or colliding with other sprites or the edge of the screen.
 
+* [Sprites vs Sprite Types](sprites.md#sprites-vs-sprite-types)
+* [Adding Sprite Types to your app](sprites.md#adding-sprites-types-to-your-app)
+* [Adding Sprites to your app](sprites.md#adding-sprites-to-your-app)
+* [Sprite Type Properties](sprites.md#sprite-type-properties)
+* [Sprite Properties](sprites.md#sprite-properties)
+* [Example: Different Types of Sprites](sprites.md#example-different-types-of-sprites)
+
 ## Sprites vs Sprite Types
 
 A **Sprite Type** is a **category** of Sprites that you can add to your app. For example, in a video game you might have a Main Character Sprite Type, an NPC Sprite Type, and Obstacle Sprite Types. 
@@ -49,7 +56,29 @@ In the below GIF, there is a canvas with a Sprite, called Sprite1. There is also
 
 **Drawing:** Toggle whether the sprite will draw a line when it is dragged around the Screen. You can set the **Drawing Color** and **Drawing Width** of the line that is drawn.
 
-## Adding Different Types of Sprites
+## Sprite Properties
+
+**Picture Selection:** Select an image from the Picture List defined in the Sprite Type to display on the Sprite.
+
+**X, Y:** Location of the Sprite on the X-axis and Y-axis of the Stage. You can also click and drag the Sprite to your desired initial position.
+
+**Z:** Where the Sprite is in the **Depth** of the Canvas. A Sprite with a higher Z-value will appear in front of a Sprite with a lower Z-value.
+
+**Bounce:** When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed.
+
+**Is Draggable:** When true, the player can drag the sprite
+
+**Passes Through:** When true, all sprites will pass under or above the sprite. When false, the sprites will collide using the physics engine. 
+
+**Is Static:** When a sprite is static, it acts like a wall. No forces can move it.
+
+**Ignore Gravity:** Toggle whether of not the sprite is affected by the Stage's gravity. You can read more about the Stage's gravity properties [here](canvas.md#gravity).
+
+**FixedRotation:** When fixed rotation is false, the sprite can rotate in any direction. When fixed rotation is true, the sprite will remain at its current angle.
+
+**Drawing:** Toggle whether the sprite will draw a line when it is dragged around the Screen. You can set the **Drawing Color** and **Drawing Width** of the line that is drawn.
+
+## Example: Different Types of Sprites
 
 Groups of sprites that have the same behavior should belong to the same sprite type. In the example below, WallType is a Sprite Type, and there are multiple Sprites of this type in the app \(ie. the walls\). 
 
