@@ -40,13 +40,19 @@ In the below GIF, there is a canvas with a Sprite, called Sprite1. There is also
 
 **Picture List:** You can upload multiple images to a Sprite Type's **Picture List**. This allows you to change the appearance of the sprite when some event happens.
 
+In the GIF below, we see that when one Sprite \(the Thunkable Beaver\) collides with another Sprite \(the tree trunk\), the appearance of the Tree Sprite changes.
+
+![The Picture List of Sprite\_Type2](.gitbook/assets/spritetype2.png)
+
+![Demonstration of cycling through Image List](.gitbook/assets/imagelist.gif)
+
 **Angle:** Change the angle of the sprite. The angle is measured in a clockwise direction and is measured in degrees, eg. setting angle to 30 will rotate your sprite 30 degrees clockwise.
 
-**Bounce:** When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed.
+**Bounce:** When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed. This is demonstrated in the GIF above under Picture List, where the beaver has a bounce of 50, or half its initial speed.
 
 **Is Draggable:** When true, the player can drag the sprite
 
-**Passes Through:** When true, all sprites will pass under or above the sprite. When false, the sprites will collide using the physics engine. 
+**Passes Through:** When true, all sprites will pass under or above the sprite. When false, the sprites will collide using the physics engine. This is demonstrated in the GIF above under Picture List.
 
 **Is Static:** When a sprite is static, it acts like a wall. No forces can move it.
 
@@ -58,25 +64,13 @@ In the below GIF, there is a canvas with a Sprite, called Sprite1. There is also
 
 ## Sprite Properties
 
+**Angle, Bounce, Is Draggable, Passes Through, Is Static, Ignore Gravity, Fixed Rotation,** and **Drawing** are all Sprite Type properties as well as Sprite properties. These are described in the previous section.  
+
 **Picture Selection:** Select an image from the Picture List defined in the Sprite Type to display on the Sprite.
 
 **X, Y:** Location of the Sprite on the X-axis and Y-axis of the Stage. You can also click and drag the Sprite to your desired initial position.
 
-**Z:** Where the Sprite is in the **Depth** of the Canvas. A Sprite with a higher Z-value will appear in front of a Sprite with a lower Z-value.
-
-**Bounce:** When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed.
-
-**Is Draggable:** When true, the player can drag the sprite
-
-**Passes Through:** When true, all sprites will pass under or above the sprite. When false, the sprites will collide using the physics engine. 
-
-**Is Static:** When a sprite is static, it acts like a wall. No forces can move it.
-
-**Ignore Gravity:** Toggle whether of not the sprite is affected by the Stage's gravity. You can read more about the Stage's gravity properties [here](canvas.md#gravity).
-
-**FixedRotation:** When fixed rotation is false, the sprite can rotate in any direction. When fixed rotation is true, the sprite will remain at its current angle.
-
-**Drawing:** Toggle whether the sprite will draw a line when it is dragged around the Screen. You can set the **Drawing Color** and **Drawing Width** of the line that is drawn.
+**Z:** Where the Sprite is in the **Depth** of the Canvas. A Sprite with a higher Z-value will appear in front of a Sprite with a lower Z-value. This is demonstrated in the GIF above under the 'Picture List' section of Sprite Type Properties: the beaver has a higher Z-value than the tree, so it is in front when it passes the tree.
 
 ## Example: Different Types of Sprites
 
