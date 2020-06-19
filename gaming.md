@@ -4,7 +4,24 @@ description: Learn how to build awesome gaming apps on Thunkable.
 
 # 🎮Gaming
 
-With the [canvas](https://docs.thunkable.com/canvas) and [sprite](https://docs.thunkable.com/sprites) components, you can build games and touch interface experiences.
+With Thunkable's gaming components, you can build games and touch interface experiences.
+
+## Canvas
+
+The Canvas contains the Stage where your Sprites are displayed.   
+Read more in the [Canvas docs](canvas.md).
+
+## Sprites
+
+Sprites are the elements on your stage that represent characters, obstacles, and more.   
+Read more in the [Sprites docs.](sprites.md)
+
+## Gaming Blocks
+
+You can use blocks to change the appearance and behavior of your Stage and Sprites.   
+Read more in the [Gaming Blocks docs.](gaming-blocks.md)
+
+## Example Games
 
 ![](.gitbook/assets/screen-shot-2019-09-09-at-8.12.42-am.png)
 
