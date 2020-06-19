@@ -4,17 +4,53 @@ description: 'Events Blocks: Blocks that program the canvas to respond'
 
 # Events
 
-![Program an action after the canvas loads](.gitbook/assets/image%20%2827%29.png)
+## Canvas 
 
-![Program an action after a sprite is clicked](.gitbook/assets/image%20%2858%29.png)
+### When Canvas Loads
 
-![Program an action to happen when two sprites collide](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/evnt_loads.png)
 
-![Program an action when a sprite collides with an edge of the canvas](.gitbook/assets/image%20%2815%29.png)
+ Program an action after the canvas loads.
 
-![Program an action when the user touches the canvas](.gitbook/assets/image%20%2829%29.png)
+### When Canvas Touched
 
-![Program an action when the user stops dragging the sprite](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/evnt_down%20%281%29.png)
+
+
+
+Program an action when the user touches the canvas
+
+## Sprites
+
+Please note, that for the sprite events, event handlers can be configured to work with an entire type of sprite or just with one specific sprite. 
+
+![](.gitbook/assets/types_explained.png)
+
+### Sprite Clicked 
+
+![](.gitbook/assets/evnt_clicked.png)
+
+This event triggers when the sprite is clicked.
+
+### Collision with Sprite 
+
+![](.gitbook/assets/evnt_collide_sprite.png)
+
+This event triggers when the two sprites collide.
+
+### Collision with Edge 
+
+![](.gitbook/assets/evnt_collide_edge.png)
+
+This event triggers when the sprite collides with the edge.
+
+### Sprite Dropped
+
+![](.gitbook/assets/evnt_dropped%20%281%29.png)
+
+This event triggers when the user stops dragging the sprite.
+
+
 
 ## 
 
