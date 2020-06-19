@@ -106,6 +106,7 @@
 * [Share](share-1.md)
 * [Publish](publish.md)
 * [Publish to App Store \(iOS\)](publish-to-app-store-ios.md)
+* [Generate iOS Screenshots](generate-ios-screenshots.md)
 * [Publish to Play Store \(Android\)](publish-to-play-store-android.md)
 * [Publish as a Web App \(PRO\)](publish-as-a-web-app-pro.md)
 * [Preview on the Web](web-preview.md)

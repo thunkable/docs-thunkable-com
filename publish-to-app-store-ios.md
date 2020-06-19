@@ -422,10 +422,10 @@ The final section requires screenshots for both iPhone and iPad and a high resol
 
 The high resolution icon will be featured in the App Store listing and must be 1024 x 1024 px with no transparency. To generate this icon, we recommend a tool [like this](https://makeappicon.com/).
 
-As described in Apple's [screenshot specifications document](https://help.apple.com/app-store-connect/#/devd274dd925), screenshots are required from **two models of iPhone** and **two models of iPad**.
+You can see the screenshots you need in Apple's [screenshot specifications document](https://help.apple.com/app-store-connect/#/devd274dd925).
 
-{% hint style="success" %}
-Thunkable offers a [full iOS screenshot service](https://community.thunkable.com/t/ios-screenshot-suite-available-for-pro-users-now-includes-ipad/264450?u=jane) for [PRO creators](https://thunkable.com/#/pricing).
+{% hint style="info" %}
+ You can create your own iOS screenshots in your browser. Learn more here: [Generate iOS Screenshots](generate-ios-screenshots.md)
 {% endhint %}
 
 ![](.gitbook/assets/thunkable-docs-exhibits-74.png)
