@@ -50,6 +50,8 @@ The App Store review is typically more rigorous and consequently more time-inten
   </tbody>
 </table>
 
+You may need to create screenshots in different sizes for your app listing. You can learn how to do that here: [Generate Screenshots](generate-screenshots.md).
+
 {% page-ref page="publish-to-app-store-ios.md" %}
 
 {% page-ref page="publish-to-play-store-android.md" %}
