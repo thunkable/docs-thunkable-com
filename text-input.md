@@ -92,6 +92,26 @@ You change the spacing and positioning of the text input with the Margin and Pad
 
 This event fires when the user clicks on the Text Input component.
 
+### Unfocus 
+
+![](.gitbook/assets/ti_unfocus.png)
+
+This event fires when the component looses focus, i.e the user clicks on another component.
+
+### Submit 
+
+![](.gitbook/assets/ti_submit.png)
+
+This event fires when the enter or submit button is pressed on the device keyboard.
+
+### Changes
+
+![](.gitbook/assets/ti_changes.png)
+
+This event fires every time a character is added or removed to the Text Input.
+
+
+
 ## Properties
 
 ### Border Width
