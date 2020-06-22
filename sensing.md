@@ -1,12 +1,28 @@
 # Sensing
 
-![Get the distance between two sprites](.gitbook/assets/image%20%283%29.png)
+### Distance Between Sprite and Sprite
 
-![Get the distance between a sprite and a point](.gitbook/assets/image%20%28116%29.png)
+![](.gitbook/assets/sens_sprite.png)
 
-![Get angle between sprites](.gitbook/assets/image%20%2834%29.png)
+Get the distance between two sprites 
 
-![Gets the closest instance of the provided sprite type to the given sprite](.gitbook/assets/image%20%28119%29.png)
+### Distance Between Sprite and Coordinate
+
+![](.gitbook/assets/sens_coord.png)
+
+Get the distance between a sprite and a point 
+
+### Angle From Sprite to Sprite 
+
+![](.gitbook/assets/sens_angle.png)
+
+Get angle between sprites
+
+### Closest Instance of Sprite Type to Sprite
+
+![](.gitbook/assets/sens_nearest_sprite.png)
+
+Gets the closest instance of the provided sprite type to the given sprite
 
 ## 
 
