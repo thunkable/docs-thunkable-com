@@ -425,7 +425,7 @@ The high resolution icon will be featured in the App Store listing and must be 1
 You can see the screenshots you need in Apple's [screenshot specifications document](https://help.apple.com/app-store-connect/#/devd274dd925).
 
 {% hint style="info" %}
- You can create your own iOS screenshots in your browser. Learn more here: [Generate iOS Screenshots](generate-ios-screenshots.md)
+ You can create your own iOS screenshots in your browser. Learn more here: [Generate iOS Screenshots](generate-screenshots.md)
 {% endhint %}
 
 ![](.gitbook/assets/thunkable-docs-exhibits-74.png)
