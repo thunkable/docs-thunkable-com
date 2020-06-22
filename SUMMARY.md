@@ -85,6 +85,7 @@
 * [Direction](direction.md)
 * [Sensing](sensing.md)
 * [Add & Remove](add-and-remove.md)
+* [Stage](stage.md)
 * [🤖 Blocks](blocks.md)
 * [Control](control.md)
 * [Logic](logic.md)
