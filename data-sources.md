@@ -26,7 +26,9 @@ The inputs are dynamic so if you change the name of Column 1 or Column 2 in the 
 
 The `get value from` blocks allows you get read one value from a specific cell in your data table. You can specify the column name in the block itself and pass the unique row id as an input. 
 
-Note that each row has its own unique 24 character ID so passing an integer such as 0 or 1 will not work in this block.
+Note that each row has its own unique 24 character ID. You must use this ID to refer to rows of your Airtable and Local data sources in the blocks below.
+
+If your data source is a **Google Sheet**, you can refer to the row by its integer position \(1 for the first row, 2 for the second row, etc.\)
 
 ![](.gitbook/assets/get_value.png)
 
