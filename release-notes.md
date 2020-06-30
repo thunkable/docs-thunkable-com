@@ -5,13 +5,18 @@
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
-* Add creator of original project to [Project Details Page](get-started/your-thunkable-projects-page.md#your-project-detail-page) of remixed projects
 
 Component Updates
 
 * Add Go Forward/Go Back blocks to [Web Viewer](web-viewer.md)
 * Add Click event to [Lottie Animation](lottie.md) component
 * Add 'flip [Sprite](sprites.md) to left/right' block to [Canvas](canvas.md) blocks
+
+## June 29, 2020
+
+Platform Updates
+
+* Add creator of original project to [Project Details Page](get-started/your-thunkable-projects-page.md#your-project-detail-page) of remixed projects
 
 ## June 18, 2020
 
