@@ -8,7 +8,7 @@ description: >-
 
 The Top Tab Navigator is positioned at the top of your app, and allows users to switch between different screens by clicking. 
 
-![](.gitbook/assets/image%20%28113%29.png)
+![](.gitbook/assets/image%20%28112%29.png)
 
 ## Adding Navigators
 
@@ -31,9 +31,9 @@ You have many options for styling your Top Tab Navigator, such as changing the b
 
 When designing a tab, you can use words or images to guide users to different screens. 
 
-![Using Words](.gitbook/assets/image%20%28113%29.png)
+![Using Words](.gitbook/assets/image%20%28112%29.png)
 
-![Using Images](.gitbook/assets/image%20%2855%29.png)
+![Using Images](.gitbook/assets/image%20%2854%29.png)
 
 ## Step by Step Instructions
 
@@ -41,11 +41,11 @@ Step 1. Add screens to a Navigator by dragging and dropping them on top of a Nav
 
 Step 2. Select the Top Tab Navigator. Decide if you would like to display icons or labels by clicking on these switches:
 
-![](.gitbook/assets/image%20%2845%29.png)
+![](.gitbook/assets/image%20%2844%29.png)
 
 Step 3. Depending on if you are adding icons or labels, select the screen you would like to style and upload an image or add content:
 
-![](.gitbook/assets/image%20%2873%29.png)
+![](.gitbook/assets/image%20%2872%29.png)
 
 Additional descriptions are below:
 
@@ -59,5 +59,5 @@ Additional descriptions are below:
 
 Swiping is a popular way to move through screens and is enabled by the Tab Navigator. You can enable the swipe feature by clicking the "SwipeEnabled' switch. 
 
-![](.gitbook/assets/image%20%2865%29.png)
+![](.gitbook/assets/image%20%2864%29.png)
 
