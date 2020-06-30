@@ -57,7 +57,9 @@ On the Project Detail page, you can test out your app, similar to when it has be
 
 You can also view information about the project, such as its name, creator, project size, and how many times it has been remixed or favorited.
 
-![](../.gitbook/assets/projectpage.png)
+If the project is a remix of another project, the name and creator of the original project will be displayed.
+
+![](../.gitbook/assets/projectdetailpage.png)
 
 \*\*\*\*
 
