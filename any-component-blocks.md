@@ -194,7 +194,7 @@ The ‘All Components in Container’ block groups together all the visible comp
 
 ![](.gitbook/assets/all-components-in-container.png)
 
-In the block above, all of the buttons that are on Screen1 are stored in list.
+In the block above, all of the buttons that are on Screen1 are stored in list. This means that you can use [list](https://docs.thunkable.com/lists) blocks to select items from this list, eg. the first item in 'all Button in Screen1'.
 
 ## Using the ‘All Components in Container’ Block?
 

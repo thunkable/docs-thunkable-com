@@ -56,7 +56,7 @@ description: >-
 
 The `Horizontal Alignment` property allows you to space elements in a Screen horizontally
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-64%20%281%29.png)
 
@@ -68,7 +68,7 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 
 ## Add a Background Color or Picture
 
-![](.gitbook/assets/image%20%2888%29.png)
+![](.gitbook/assets/image%20%2887%29.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -79,7 +79,7 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 
 This determines how to resize the image when the frame doesn't match the raw image dimensions.
 
-![](.gitbook/assets/image%20%2886%29.png)
+![](.gitbook/assets/image%20%2885%29.png)
 
 * Cover: Fills the entire screen without changing the height and width ratio of the image 
 * Contain: The entire image will be scaled down to fit inside the screen, without changing the height and width ratio of the image 
@@ -92,7 +92,7 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 ## Enable Scrolling
 
-![](.gitbook/assets/image%20%2878%29.png)
+![](.gitbook/assets/image%20%2877%29.png)
 
 | Property | Description |
 | :--- | :--- |

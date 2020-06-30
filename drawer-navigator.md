@@ -20,7 +20,7 @@ To add a navigator to your app, you will need to drag the navigator component in
 
 To name your drawers, click on each screen and navigate to the Drawer label on the bottom right corner of the properties section. 
 
-![](.gitbook/assets/image%20%2860%29.png)
+![](.gitbook/assets/image%20%2859%29.png)
 
 ## Styling a Drawer
 
