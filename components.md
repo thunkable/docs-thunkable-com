@@ -17,7 +17,7 @@ Some features you can't see. Let's call these features invisible components. Exa
 
 ## Visible Components
 
-![](.gitbook/assets/image%20%2893%29.png)
+![](.gitbook/assets/image%20%2892%29.png)
 
 To put it simply, visible components are features that you can see on your app screen--like the ones pictures above.  
 
