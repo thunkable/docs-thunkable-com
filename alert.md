@@ -38,11 +38,21 @@ If you want to start an event from a confirm button, you will want to add the bl
 
 ![](.gitbook/assets/screen-shot-2018-06-26-at-3.56.11-pm.png)
 
-## Alert with three or more buttons
+## Button List: Alert with three or more buttons
 
-Using the `Advanced` properties, it is possible to add buttons to an alert for more sophisticated use cases
+It is possible to add buttons to an alert for more sophisticated use cases.  
+This can be done in the `Advanced` properties of the Alert in the Design tab.  
+It can also be done using the `set Button List to` block by creating a [list](lists.md) of [objects](objects.md).
 
-![A three button alert with ](.gitbook/assets/thunkable-docs-exhibits-16.png)
+On iOS, the Alert can show more than 3 Buttons.  
+On Android, the Alert can show up to 3 buttons. If more than 3 buttons are specified, the first 3 will be shown.   
+
+
+![Example of defining Button List in the Design tab](.gitbook/assets/screen-shot-2020-07-01-at-11.25.22-am.png)
+
+![Example of defining Button List with blocks ](.gitbook/assets/buttonlistblocks.png)
+
+![A three button alert displayed on Android and iOS devices](.gitbook/assets/thunkable-docs-exhibits-16.png)
 
 | Property | Description |
 | :--- | :--- |
