@@ -61,7 +61,9 @@ On Android, the Alert can show up to 3 buttons. If more than 3 buttons are speci
 | Text `Advanced` | The text of the button |
 | Style `Advanced` | The style of the button; `ok` is a confirm button, `cancel` is a cancel button and `destructive` is a confirm button with text in red \(iOS only\) |
 
-If you want to start an event from a confirm button, you will want to add the blocks below:
+The 'showButtonList' block will return an output called 'buttonPressed'.  
+This will return the position of the Button in your Button List.  
+You can take some action based on which button was pressed.
 
-![](.gitbook/assets/screen-shot-2018-06-26-at-3.56.16-pm.png)
+![](.gitbook/assets/buttonpressed.png)
 
