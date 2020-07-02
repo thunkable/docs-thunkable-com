@@ -67,6 +67,3 @@ You can take some action based on which button was pressed.
 
 ![](.gitbook/assets/buttonpressed.png)
 
-Note: the Buttons may appear in a different order when testing the app on a device.   
-The number that ‘buttonPressed’ returns is the order that the Buttons are added in the app project.
-
