@@ -54,6 +54,12 @@ Change the sprite's height or width.
 
 Get the sprite's height or width.
 
+## Flip Sprite
+
+![](.gitbook/assets/flipsprite.png)
+
+Flip Sprite along a specified axis.
+
 ## Freeze Frame 
 
 ### Stamp
