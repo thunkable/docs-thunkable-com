@@ -38,6 +38,12 @@ A URL is kind of like a street address - it tells the web viewer the location of
 
 _Note: Can also accept .html files that have been uploaded to the app \(great for offline use\). Additionally, t_he Web Viewer currently permits full-screen viewing of videos on iOS only
 
+## Go Back/Forward
+
+You can use blocks to navigate back through previously visited web pages. Once you have gone back, you can also use blocks to navigate forward through your visited pages again.
+
+![](.gitbook/assets/webviewerforwardback.png)
+
 ## Edit Web Viewer size
 
 You can set how tall the Web Viewer is using the height property and set how wide it is using the width property.
