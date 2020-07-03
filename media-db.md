@@ -25,9 +25,26 @@ To connect your Cloudinary cloud to Thunkable, simply retrieve the following fie
 
 ## Upload Media
 
-![](.gitbook/assets/media-db-cloudinary-fig-3.png)
+You can upload any media file to your Cloudinary DB.
 
-| Event | Description |
-| :--- | :--- |
-| Upload \(`media`\) | Uploads the image to the Cloudinary cloud and returns a `mediaURL` if successful |
+![Example of getting Cloudinary URL for a photo and saving it as a cloud variable](.gitbook/assets/uploadphoto.png)
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Event</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Upload (<code>media</code>)</td>
+      <td style="text-align:left">
+        <p>Uploads the image to the Cloudinary cloud. Returns a <code>mediaURL</code> if
+          successful.</p>
+        <p>Else returns <code>error</code>.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
