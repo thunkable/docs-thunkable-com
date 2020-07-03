@@ -12,11 +12,39 @@ Instead of repeating these values in multiple places, a variable can be used whe
 
 When you create a variable, you'll have the choice between an app, stored and cloud variable. All variable types work across screens and the only difference is where they are stored.
 
-An **app** variable works across screens and is stored in the app itself
+### App Variables
+
+An **app** variable works across screens and is stored in the app itself.   
+You can save any data type as an app variable.
+
+### Stored Variables
 
 A **stored** variable also works across screens but is saved to the mobile device itself. This means that a stored variable can be retrieved from a previous session. A stored variable is similar to saving a value to [Local Storage](local-storage.md) and is especially useful for retrieving a user's previous setting. If you use stored variables, you no longer need to add Local Storage to your app.
 
-A **cloud** variable also works across screens but is saved to the cloud powered by Firebase. By default, the cloud variable is saved to the Thunkable default Firebase database but you can save them to your own private Firebase database by [following the instructions here](realtime-db.md#create-your-free-firebase-project-and-account). Cloud variables can be used similar to saving and retrieving values to a [Realtime DB](realtime-db.md) powered by Firebase and can be used in a number of applications that share data across users in the cloud. If you use cloud variables, you no longer need to add a Realtime DB to your app.
+You can save any data type as a stored variable.
+
+### Cloud Variables
+
+A **cloud** variable also works across screens but is saved to the cloud powered by Firebase.   
+  
+By default, the cloud variable is saved to the Thunkable default Firebase database. We recommend saving them to your own private Firebase DB by [connecting a private Firebase DB to your app](realtime-db.md#set-up-your-own-firebase-account). 
+
+Cloud variables can be used similar to saving and retrieving values to a [Realtime DB](realtime-db.md) powered by Firebase and can be used in a number of applications that share data across users in the cloud. If you use cloud variables, you no longer need to add a Realtime DB to your app.
+
+#### Cloud Variables and Data
+
+You can only save a piece of [text](text.md) or an [object](objects.md) as a cloud variable.
+
+To save a list as a cloud variable, use the 'make text from list' block to convert the list to a piece of text.
+
+![Example of saving list as a cloud variable](.gitbook/assets/savelisttocloud.png)
+
+  
+When you retrieve this text from your cloud variable, you can convert it to a list with the 'make list from text' block to work with it as a list in your app.
+
+![Example of getting a list from a cloud variable](.gitbook/assets/getlistfromcloud.png)
+
+To save media as a cloud variable, use the [Cloudinary Media DB](media-db.md) component to upload your audio to the cloud and get a URL that points to it. You can save this URL as a cloud variable.
 
 ## Initialize a Variable When the App Starts
 
