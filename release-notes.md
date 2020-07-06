@@ -8,8 +8,14 @@ Platform updates
 
 Component Updates
 
-* Add Go Forward/Go Back blocks to [Web Viewer](web-viewer.md)
 * Add Click event to [Lottie Animation](lottie.md) component
+* Fixes to [Map](map.md) Region so map does not reset on any event
+
+## July 3, 2020
+
+Component Updates
+
+* Add Go Forward/Go Back blocks to [Web Viewer](web-viewer.md)
 * Add 'flip [Sprite](sprites.md)' block to [Canvas](canvas.md) blocks
 
 ## June 29, 2020
