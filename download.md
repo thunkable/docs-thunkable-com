@@ -12,12 +12,11 @@ Before you download, we recommend first [adding an App Icon and Name](projects/s
 
 Due to special circumstances from Apple, there is a limit of one downloaded app per phone on iOS. Download wait times will also be a bit longer.
 
+When there is a queue of iOS apps waiting to be built, [PRO](https://thunkable.com/#/pricing) creators will be given priority in the queue.
+
 |  | Android | iOS |
 | :--- | :--- | :--- |
 | Download app limit | No limit | One app per phone |
-| Download time | Up to a few minutes | Typically under 20 min |
-
-## Download and install Android app
 
 ### Select Download Android app
 
