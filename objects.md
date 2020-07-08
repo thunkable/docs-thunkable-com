@@ -42,7 +42,7 @@ You can use the 'get Object properties of' block to return the names of the prop
 
 This block returns a list of property names. This list can be manipulated with [list](lists.md) blocks.
 
-## Understanding What Properties are Contained in a Location Object
+## Generate JSON from Object
 
 ![](.gitbook/assets/blocks-object-fig-3.png)
 
