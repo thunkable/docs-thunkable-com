@@ -24,16 +24,16 @@ Similarly, you may want to convert an Object to JSON to make an API POST, or set
 
 ![](.gitbook/assets/blocks-object-fig-3.png)
 
-## Reading Values of an Object
+## Reading Property Values of an Object
 
-### Retrieving Properties of an Object
+### Get Values of an Object
 
 You can use the `get property` block to read the value of an object's property.  
 If the object does not have a property with this name, it will return `undefined`.
 
 ![](.gitbook/assets/image%20%28122%29.png)
 
-### Get properties of an Object
+### Get Properties of an Object
 
 You can use the `get Object properties of` block to return the names of the properties of an object.
 
@@ -41,7 +41,7 @@ You can use the `get Object properties of` block to return the names of the prop
 
 This block returns a list of property names. This list can be used with [list](lists.md) blocks.
 
-## Set Properties of an Object
+## Set Property Values of an Object
 
 With the `set property` block, you can change the value of a single property of an object.
 
