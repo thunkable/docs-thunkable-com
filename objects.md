@@ -18,13 +18,29 @@ You may just want to pull out one attribute \(like temp\_f or the temperature in
 
 ![](.gitbook/assets/web-api-fig-2.png)
 
-## Uploading a Row of Data into a Spreadsheet
+## Creating an Object
+
+You can use the following block to create a new object. Objects can be uploaded to your [Firebase DB](realtime-db.md) as the value of a [cloud variable](variables.md#cloud-variables), or they can be uploaded to an [Airtable DB](spreadsheet.md) as a row object.
 
 ![](.gitbook/assets/blocks-object-fig-5.png)
 
-For the Spreadsheet component, you will have to upload a row of data as an object similar to the blocks below:
+You can click on the gear icon to add properties to your object:
 
-![](.gitbook/assets/blocks-object-fig-6.png)
+![](.gitbook/assets/object.png)
+
+## Set Properties of an Object
+
+With the 'set property' block, you can change the value of a single property of an object.
+
+![](.gitbook/assets/setprop.png)
+
+## Get properties of an Object
+
+You can use the 'get Object properties of' block to return the names of the properties of an object.
+
+![](.gitbook/assets/getprops.png)
+
+This block returns a list of property names. This list can be manipulated with [list](lists.md) blocks.
 
 ## Understanding What Properties are Contained in a Location Object
 
