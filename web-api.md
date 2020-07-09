@@ -153,3 +153,7 @@ Uploading and deleting data is usually reserved for a private API that you or yo
 | :--- | :--- |
 | Delete \(`response`, `status`,`error`\) | Performs an HTTP DELETE request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
+## See Also
+
+You can also post and receive messages between a web page and a [Web Viewer](web-viewer.md) using the Post Message function. Read more about that [here](web-viewer.md#post-message-receive-message).
+
