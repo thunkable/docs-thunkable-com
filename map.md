@@ -120,9 +120,9 @@ The **deleteAllMarkers** block will clear all data from the map. This includes m
 
 The map has several events. You can trigger actions to happen when these events occur.
 
-Some of these blocks return **position** and **coordinate** outputs. These are objects which can be used with [object blocks.](objects.md)
+Some of these blocks return **coordinate** objects. These can be used with [object blocks.](objects.md)
 
-**Position** and **coordinate** will both return an object with the following properties:
+**Coordinate** will both return an object with the following properties:
 
 **target:** Numeric ID for your app  
 **coordinate:{  
@@ -149,15 +149,29 @@ This event happens when the location of the user changes. It returns the **coord
 
 ### On Press
 
-This event happens when the user taps on the Map. It returns the **coordinate** and **position** objects.
+This event happens when the user taps on the Map.
 
-![Example of using On Press block](.gitbook/assets/pressdemo.png)
+![](.gitbook/assets/maponpressnew%20%281%29.png)
+
+| Output name | Output value |
+| :--- | :--- |
+| Latitude | Latitude of selected position |
+| Longitude | Longitude of selected position |
+| position X | X Co-ordinate of selected position on map component |
+| position Y | Y Co-ordinate of selected position on map component |
 
 ### On Long Press
 
-This event happens when the user presses on the map for a longer period of time. It returns the **coordinate** and **position** objects.
+This event happens when the user presses on the map for a longer period of time.
 
-![Example of using On Long Press block](.gitbook/assets/maplongpressdemo.png)
+![](.gitbook/assets/maponlongpressnew.png)
+
+| Output name | Output value |
+| :--- | :--- |
+| Latitude | Latitude of selected position |
+| Longitude | Longitude of selected position |
+| position X | X Co-ordinate of selected position on map component |
+| position Y | Y Co-ordinate of selected position on map component |
 
 ### On Marker Press
 
