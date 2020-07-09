@@ -1,6 +1,6 @@
 # Objects
 
-The Object blocks pair well with the [Web API](web-api.md), [Map](map.md) and [Location Sensor](location-sensor.md) components which often send data in object format. The [Spreadsheet](spreadsheet.md) component also requires data to be in object format for it to upload successfully
+The Object blocks pair well with the [Web API](web-api.md), [Map](map.md) and [Location Sensor](location-sensor.md) components which often send data in object format. The [Spreadsheet](spreadsheet.md) component also requires data to be in object format for it to upload successfully as a row
 
 ## Creating an Object
 
