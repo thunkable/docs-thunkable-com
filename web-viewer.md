@@ -84,3 +84,7 @@ If you own the website being displayed in your Web Viewer, you can send and rece
 
 You can see examples of sending/receiving messages and get further setup instructions [here](https://github.com/thunkable/webviewer-extension/).
 
+### See Also
+
+You may also find the [Web API](web-api.md) component useful for sending/receiving information between your app and a website.
+

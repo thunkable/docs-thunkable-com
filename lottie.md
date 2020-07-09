@@ -33,3 +33,9 @@ For more information on sizing in your app, please see our [introduction here​
 | Height | `Fit contents` Container is just as large as the animation; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size in percent of the Screen; `Absolute size` Size in pixels |
 | Width | `Fit contents` Container is just as large as the animation; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size in percent of the Screen; `Absolute size` Size in pixels |
 
+## Events
+
+You can trigger some action to happen when the animation is clicked using the 'when Animation Click' event.
+
+![](.gitbook/assets/lottieclick.png)
+
