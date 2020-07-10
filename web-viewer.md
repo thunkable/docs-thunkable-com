@@ -14,11 +14,6 @@ description: >-
 
 ## Overview
 
-{% hint style="info" %}
-When publishing an app containing a Web Viewer, you may see a message saying that your Web Viewer has a "deprecated API". We are working on updating this component.   
-The Web Viewer API will be brought up to date before the Play Store or App Store stops accepting the deprecated API.
-{% endhint %}
-
 * [Set URL](web-viewer.md#set-url)
 * [Edit Web Viewer size](web-viewer.md#edit-web-viewer-size)
 * [Add spacing](web-viewer.md#add-spacing)
@@ -32,11 +27,11 @@ To open up a website in your app, you need to provide  the Web Viewer with a URL
 
 A URL is kind of like a street address - it tells the web viewer the location of the website on the internet.
 
-* **URL:** Enter in the link to the website or an image. The URL must include https:// or http://. 
+* **URL:** Enter in the link to the website or an image. The URL must include https:// 
 
-![With the blocks above, www.thunkable.com will be opened up on screen 1 through the web viewer.](https://lh3.googleusercontent.com/pq73qQKNcE8WrSuzlfxWegp-3PZHhi7nx2_5_I46yhSDwbuw0nHJfnciHrsv2fapyWIshJnhiT8wfzQOgvmcf7uX__pPl4i0EYDXyBYQLnndkdnzqo89ktouyJcEHtivRT_1X1Xz)
+![](.gitbook/assets/webviewerseturl.png)
 
-_Note: Can also accept .html files that have been uploaded to the app \(great for offline use\). Additionally, t_he Web Viewer currently permits full-screen viewing of videos on iOS only
+Note: Can also accept .html files that have been uploaded to the app \(great for offline use\). 
 
 ## Go Back/Forward
 
