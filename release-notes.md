@@ -6,6 +6,8 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
+## July 9, 2020
+
 Component Updates
 
 * Add Click event to [Lottie Animation](lottie.md) component
