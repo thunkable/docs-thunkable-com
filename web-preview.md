@@ -27,6 +27,8 @@ Not all components are supported on the web at this time so please see the list 
 | **Gyroscope** | Sensors | **`Supported but may not work as expected`** |
 | **Magnetometer** | Sensors | **`Supported but may not work as expected`** |
 | **Alert** | User Interface | **`Not supported yet`** |
+| **Date Input** | User Interface | **`Not supported yet`** |
+| **Time Input** | User Interface | **`Not supported yet`** |
 | **Speech Recognizer** | Voice | **`Not supported yet`** |
 | **Assistant** | Voice | **`Not supported yet`** |
 | **Photo Library** | Image | **`Not supported yet`** |
