@@ -6,6 +6,19 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
+Component updates
+
+* New [function](functions.md) with return blocks
+* In web apps, open links in new tab
+* Add opacity property to [Sprites](sprites.md)
+* Add ability to draw circles, polygons to [Canvas](canvas.md)
+* Support landscape mode for [Screens](screen.md) on Android apps
+* Fix 'set Zoom to' block in [Map](map.md)
+
+New components
+
+* Video recorder
+
 ## July 9, 2020
 
 Component Updates
