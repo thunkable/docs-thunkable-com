@@ -11,7 +11,7 @@ Component updates
 * New [function](functions.md) with return blocks
 * In web apps, open links in new tab
 * Add opacity property to [Sprites](sprites.md)
-* Add ability to draw circles, polygons to [Canvas](canvas.md)
+* Add ability to add circles, polygons to Canvas with [Looks](looks.md) blocks
 * Support landscape mode for [Screens](screen.md) on Android apps
 * Fix 'set Zoom to' block in [Map](map.md)
 
