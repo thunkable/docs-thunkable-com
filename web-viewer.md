@@ -10,7 +10,9 @@ description: >-
 
 {% embed url="https://youtu.be/MDMM0cHvpUA" %}
 
-
+{% hint style="info" %}
+Some websites may not appear when [Live Testing](get-started/live-test.md) your app. If you don't see your website when Live Testing your app, try [downloading and installing](download.md) your app to see if your website displays.
+{% endhint %}
 
 ## Overview
 
