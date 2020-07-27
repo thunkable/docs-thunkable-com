@@ -94,5 +94,11 @@ Get draggability of the sprite
 
 Stop all sprites that are moving.
 
-## 
+## Examples
+
+### Move Sprite to Pointer
+
+When the user clicks on the canvas these blocks will move the `Sprite1` to the location that was touched. 
+
+![](.gitbook/assets/move_sprite_to.png)
 
