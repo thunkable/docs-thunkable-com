@@ -83,6 +83,20 @@ Component updates
 
 * Ability to fix [Screen Orientation](https://docs.thunkable.com/screen#set-orientation) to `Portrait`, `Landscape` or `auto`
 
+## Mar 26, 2020
+
+Blocks
+
+* Added `if-else` block
+
+Bugs
+
+* Fixed bug in `forever` block
+
+Platform
+
+* Removed deprecated UIWebView component \(ITMS-90809\)
+
 ## Mar 13, 2020
 
 Platform updates
