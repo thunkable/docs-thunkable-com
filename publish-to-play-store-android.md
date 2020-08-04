@@ -18,7 +18,7 @@ Success on Google Play starts with quality. The best apps and games have higher 
 
 ## Minimum requirements
 
-* Google Play Developer Account \($25 one-time fee\). Don't have an account? [**Sign up here**](https://play.google.com/apps/publish/signup/)\*\*\*\*
+* Google Play Developer Account \($25 one-time fee\). Don't have an account? [**Sign up here**](https://play.google.com/apps/publish/signup/)
 
 ## App info
 
