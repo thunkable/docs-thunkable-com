@@ -6,18 +6,24 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
-Component updates
+Component Updates
 
-* New [function](functions.md) with return blocks
-* In web apps, open links in new tab
-* Add opacity property to [Sprites](sprites.md)
-* Add ability to add circles, polygons to Canvas with [Looks](looks.md) blocks
-* Support landscape mode for [Screens](screen.md) on Android apps
-* Fix 'set Zoom to' block in [Map](map.md)
+* New Sound blocks
 
 New components
 
 * Video recorder
+
+## July 17, 2020
+
+Component updates
+
+* New [function](functions.md) with return blocks
+* Add opacity property to [Sprites](sprites.md)
+* Fix 'set Zoom to' block in [Map](map.md)
+* Add ability to add circles, polygons to Canvas with [Looks](looks.md) blocks
+* Support landscape mode for [Screens](screen.md) on Android apps
+* In web apps, open links in new tab
 
 ## July 9, 2020
 
