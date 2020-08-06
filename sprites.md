@@ -48,6 +48,8 @@ In the GIF below, we see that when one Sprite \(the Thunkable Beaver\) collides 
 
 **Angle:** Change the angle of the sprite. The angle is measured in a clockwise direction and is measured in degrees, eg. setting angle to 30 will rotate your sprite 30 degrees clockwise.
 
+**Opacity:** Change the opacity of the Sprite.
+
 **Bounce:** When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed. This is demonstrated in the GIF above under Picture List, where the beaver has a bounce of 50, or half its initial speed.
 
 **Is Draggable:** When true, the player can drag the sprite
@@ -64,7 +66,7 @@ In the GIF below, we see that when one Sprite \(the Thunkable Beaver\) collides 
 
 ## Sprite Properties
 
-**Angle, Bounce, Is Draggable, Passes Through, Is Static, Ignore Gravity, Fixed Rotation,** and **Drawing** are all Sprite Type properties as well as Sprite properties. These are described in the previous section.  
+**Angle, Opacity, Bounce, Is Draggable, Passes Through, Is Static, Ignore Gravity, Fixed Rotation,** and **Drawing** are all Sprite Type properties as well as Sprite properties. These are described in the previous section.  
 
 **Picture Selection:** Select an image from the Picture List defined in the Sprite Type to display on the Sprite.
 

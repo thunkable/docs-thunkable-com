@@ -76,6 +76,30 @@ Add freeze frame of sprite in current position.
 
 Draw line between two points with specified width and color.
 
+### Draw Circle
+
+![](.gitbook/assets/canvasdrawcircle.png)
+
+Draw circle outline at specified point with a given radius.
+
+### Draw Filled Circle
+
+![](.gitbook/assets/canvasdrawfilledcircle.png)
+
+Draw filled circle at specified point with a given radius.
+
+### Draw Polygon
+
+![](.gitbook/assets/canvasdrawpolygon.png)
+
+Draw a polygon outline at a specified point. The number of sides, length of sides, and angle of rotation \(measured in degrees\) can be specified.
+
+### Draw Filled Polygon
+
+![](.gitbook/assets/canvasdrawfilledpolygon.png)
+
+Draw a filled polygon at a specified point. The number of sides, length of sides, and angle of rotation \(measured in degrees\) can be specified.
+
 ### Clear Drawings
 
 ![](.gitbook/assets/look_clear_drawings.png)
