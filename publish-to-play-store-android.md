@@ -4,6 +4,10 @@ description: How to publish your Thunkable project in the Google Play Store
 
 # Publish to Play Store \(Android\)
 
+{% hint style="warning" %}
+The Google Play Store requires new apps to target API level 29. APKs built with Thunkable do not currently target API 29. Previously published apps can be updated as usual. You can find more information [here](https://community.thunkable.com/t/everything-you-need-to-know-about-the-api-29-update/).
+{% endhint %}
+
 Publishing your app to the Play Store is a relatively straightforward process and will help your app reach 2 billion active Android devices.
 
 {% hint style="info" %}
