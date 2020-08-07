@@ -44,7 +44,7 @@ Most APIs will return data in a less than usable format for your app so we'll ta
 
 ### Example 1: [Open Weather Map API](https://openweathermap.org/current)
 
-You can find a working example of this in the sample app, [Weather](web-api.md).
+You can find a working example of this in the sample app, [City Living](sample-apps.md#city-living-apps).
 
 One of the most common output formats for APIs is JSON, short for Javascript Object Notation. The Open Weather Map API returns a JSON file like the one below.
 
@@ -95,7 +95,7 @@ Once you have converted the JSON into objects, you can then specify the `objects
 
 ### Example 2: [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
-You can find a working example of this in the sample app, [Ride](web-api.md).
+You can find a working example of this in the sample app, [Ride](https://community.thunkable.com/t/advanced-sample-app-ride-a-private-uber-like-app-made-on-thunkable/30646).
 
 The JSON output of the Google Maps Distance Matrix API seems similar to the Open Weather Map API with one notable exception: it includes objects, properties and _lists_. Lists are items bounded by `[` square brackets `]`.
 
