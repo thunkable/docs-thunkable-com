@@ -71,6 +71,16 @@ You change the spacing and positioning of the Web Viewer with the Margin and Pad
 
 * You can specify how much space you want between the edges of the Web Viewer and the screen using either pixel or percent values.
 
+## Manage Permissions
+
+You can toggle whether the Web Viewer automatically requests the user's location. Some websites require access to the user's location to work. However, if you do not plan on displaying a website that needs this permission in your app, then you may not want your app to request an unnecessary permission.
+
+To set whether or not the Web Viewer requests the user's location, go to the Design tab and click on your Web Viewer. In the panel on the right hand side of the screen, click on the **Advanced** tab.
+
+![Advanced tab of Web Viewer component](.gitbook/assets/webviewer.png)
+
+Scroll down until you see a switch labeled **Geolocation Enabled**. Use this switch to toggle whether your Web Viewer requests the user's location.
+
 ## Post Message/Receive Message
 
 If you own the website being displayed in your Web Viewer, you can send and receive messages between your website and the Web Viewer using Javascript.
