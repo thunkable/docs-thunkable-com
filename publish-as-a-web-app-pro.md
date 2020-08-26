@@ -71,15 +71,13 @@ Not all components are supported on the web at this time so please see the list 
 | **Barcode Scanner** | Image | **`Not supported yet`** |
 | **Blockchain Wallet** | Data | **`Will not be supported`** |
 | **Bluetooth Low Energy** | Sensors | **`Not supported yet`** |
-| **Data Viewer Grid** | User Interface | **`Not supported yet`** |
-| **Data Viewer List** | User Interface | **`Not supported yet`** |
 | **Gyroscope** | Sensors | **`Supported but may not work as expected`** |
-| **Local Storage** | Data | **`Not supported yet`** |
+| **Local Storage** | Data | **`Not supported yet -`**[**`stored variables`**](variables.md#stored-variables) **`are supported`** |
 | **Magnetometer** | Sensors | **`Supported but may not work as expected`** |
 | **Map** | Location | **`Not supported yet`** |
 | **Photo Library** | Image | **`Not supported yet`** |
 | **Push Notification** | Social | **`Not supported yet`** |
-| **Share** | Social | **`Not supported yet`** |
+| **Share** | Social | **`Email and Phone work, other blocks not supported yet`** |
 | **Smart Contract** | Data | **`Will not be supported`** |
 | **Speech Recognizer** | Voice | **`Not supported yet`** |
 
