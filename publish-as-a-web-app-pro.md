@@ -7,7 +7,7 @@ description: How to publish your project to the Internet as a Web App
 Publishing as a Web App is currently the fastest way to publish your Thunkable app. This means that you can get user feedback in minutes instead of hours or days. One major advantage to publishing on the internet is that you don't need to pay additional fees to an app market place. 
 
 {% hint style="info" %}
-The "Publish as a Web App" component is a feature just for Thunkable PRO users. To upgrade your subscription please visit your [membership page](https://x.thunkable.com/account/membership).
+The "Publish as a Web App" component is a feature just for Thunkable creators with active PRO subscriptions. To upgrade your subscription please visit your [membership page](https://x.thunkable.com/account/membership). If you cancel your PRO membership, your app will be unpublished once your PRO membership expires.
 {% endhint %}
 
 ## Mobile Web App
@@ -80,4 +80,5 @@ Not all components are supported on the web at this time so please see the list 
 | **Share** | Social | **`Email and Phone work, other blocks not supported yet`** |
 | **Smart Contract** | Data | **`Will not be supported`** |
 | **Speech Recognizer** | Voice | **`Not supported yet`** |
+| **Web Viewer** | User Interface | **`BACK block not supported yet, some Google sites not supported`** |
 
