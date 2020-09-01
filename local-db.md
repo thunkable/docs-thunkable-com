@@ -27,5 +27,5 @@ You may want to update the data in your Local DB from the app itself. At the mom
 | :--- | :--- |
 | Set Cell \(`column, row number, value)` | Updates the data in a specified `column` and `row` with a `value` |
 
-At present, changes made to your Local DB data will not be stored across app sessions. If you want the changes to yoru data to be stored across app sessions, you can use an Airtable component, whose data is stored in the cloud, or use [stored variables](variables.md#stored-variables) to store data locally, either as strings of text or as [objects](objects.md) with multiple properties.
+At present, changes made to your Local DB data will not be stored across app sessions. If you want the changes to your data to be stored across app sessions, you can use an Airtable component, whose data is stored in the cloud, or use [stored variables](variables.md#stored-variables) to store data locally, either as strings of text or as [objects](objects.md) with multiple properties.
 
