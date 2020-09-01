@@ -50,7 +50,9 @@ You can use the `update value in` block to modify or update an existing cell in 
 
 ### Delete
 
-In the initial release of the [Data Viewer List](data-viewer-list.md) and the [Data Viewer Grid](data-viewer-grid.md) there are currently no blocks for removing data or deleting data from a table.
+You can use the `Delete Row` block to delete a row of data from your Data source.   
+The `row id` is passed as an input.  
+If there is an `error`, the error message is passed as an output. 
 
-We are planning on adding more features and blocks, including delete blocks, in future updates to these components. 
+![](.gitbook/assets/deleterow.png)
 
