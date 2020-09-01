@@ -41,6 +41,10 @@ You can use blocks to navigate back through previously visited web pages. Once y
 
 ![](.gitbook/assets/webviewerforwardback.png)
 
+{% hint style="info" %}
+The Back block may not work when you test your app on the web, but will work when [Live Testing](get-started/live-test.md#live-test) your app and in [downloaded](download.md) apps
+{% endhint %}
+
 ## Edit Web Viewer size
 
 You can set how tall the Web Viewer is using the height property and set how wide it is using the width property.
