@@ -87,6 +87,7 @@
 * [Sensing](sensing.md)
 * [Add & Remove](add-and-remove.md)
 * [Stage](stage.md)
+* [Canvas Label](canvas-label-1.md)
 * [🤖 Blocks](blocks.md)
 * [Control](control.md)
 * [Logic](logic.md)
