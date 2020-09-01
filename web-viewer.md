@@ -11,7 +11,7 @@ description: >-
 {% embed url="https://youtu.be/MDMM0cHvpUA" %}
 
 {% hint style="info" %}
-Some websites may not appear when [Live Testing](get-started/live-test.md) your app. If you don't see your website when Live Testing your app, try [downloading and installing](download.md) your app to see if your website displays.
+Some websites may not appear when testing your app on the web. You may need to [Live Test](get-started/live-test.md#live-test) the app on a device, or [download](download.md) and install the app, to see your web page.
 {% endhint %}
 
 ## Overview
