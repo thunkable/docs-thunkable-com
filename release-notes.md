@@ -13,6 +13,29 @@ Component Updates
 New components
 
 * Video recorder
+* Ratings Component
+
+## August 28, 2020
+
+New components
+
+* [Canvas Label](canvas-label.md)
+
+Component Updates
+
+* Add multiple [Stages](canvas.md#the-stage) to a [Canvas](canvas.md)
+
+## August 26, 2020
+
+Platform Update
+
+* Update built Android apps to target API level 29
+
+## August 7, 2020
+
+Component Updates
+
+* Manage [location permissions](web-viewer.md#manage-permissions) for [Web Viewer](web-viewer.md)
 
 ## July 17, 2020
 
