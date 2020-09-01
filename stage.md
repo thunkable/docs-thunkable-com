@@ -1,5 +1,11 @@
 # Stage
 
+## Current Stage
+
+![](.gitbook/assets/currentstage.png)
+
+Select which Stage to display in the Canvas.
+
 ## Stage Appearance
 
 ### Set Background Color 
