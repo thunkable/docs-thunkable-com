@@ -19,7 +19,7 @@ To add a canvas to your app, drag and drop the canvas component into the app bui
 
 When you click on the Canvas in your component tree, Canvas tab will appear. Click on this tab to customize your canvas
 
-![Screenshot of Canvas tab in your Thunkable project editor](.gitbook/assets/canvastab.png)
+![](.gitbook/assets/newcanvas.png)
 
 The three elements of a Canvas are the **Stage,** the **Sprites**, and the **Canvas Label**.
 

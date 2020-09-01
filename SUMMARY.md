@@ -78,6 +78,7 @@
 * [🎮Gaming](gaming.md)
 * [Canvas](canvas.md)
 * [Sprites](sprites.md)
+* [Canvas Label](canvas-label.md)
 * [🤖Gaming Blocks🎮](gaming-blocks.md)
 * [Events](events.md)
 * [Motion](motion.md)
