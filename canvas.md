@@ -21,7 +21,7 @@ When you click on the Canvas in your component tree, Canvas tab will appear. Cli
 
 ![Screenshot of Canvas tab in your Thunkable project editor](.gitbook/assets/canvastab.png)
 
-The two elements of a Canvas are the **Stage** and the **Sprites**.
+The three elements of a Canvas are the **Stage,** the **Sprites**, and the **Canvas Label**.
 
 ## The Stage
 
@@ -50,4 +50,12 @@ You can set **Gravity** of the Stage along the X and Y axis. The Sprites on the 
 You can enable **Touch Drawing** on your Screen.   
 You can set the **Drawing Color** to choose the color you draw in.   
 You can set the **Drawing Width** to choose the thickness of the line you draw on the stage.
+
+### Multiple Stages
+
+You can add multiple stages to a Canvas component, in the same way you can add multiple Screens to an app project. when you have selected your Canvas tab, click on the + next to your Stage name to add another Stage to the Canvas.
+
+![](.gitbook/assets/addstage.png)
+
+Each Stage has its own Sprites, background color, gravity, etc. 
 
