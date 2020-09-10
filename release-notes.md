@@ -12,7 +12,6 @@ Component Updates
 
 New components
 
-* Video recorder
 * Ratings Component
 
 ## August 28, 2020
@@ -47,6 +46,7 @@ Component updates
 * Add ability to add circles, polygons to Canvas with [Looks](looks.md) blocks
 * Support landscape mode for [Screens](screen.md) on Android apps
 * In web apps, open links in new tab
+* [Video Recorder](video-recorder.md) component
 
 ## July 9, 2020
 
