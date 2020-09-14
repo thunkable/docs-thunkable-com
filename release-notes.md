@@ -9,6 +9,7 @@ Platform updates
 Component Updates
 
 * New Sound blocks
+* Refresh block for [Data Viewer List](data-viewer-list.md) and [Data Viewer Grid ](data-viewer-grid.md)components
 
 New components
 
