@@ -2,7 +2,7 @@
 description: Tips to get the most from your Thunkable Account
 ---
 
-# Managing Storage
+# 💾 Managing Storage
 
  The size of your Thunkable project is generous, but finite. Projects created with free accounts need to be slightly smaller, while PRO subscribers will have a more generous allowance of project storage but in either case you will want to make the most out of every megabyte. 
 

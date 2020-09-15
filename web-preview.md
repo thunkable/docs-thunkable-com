@@ -2,7 +2,7 @@
 description: Preview your awesome apps from the comfort of your favorite browser
 ---
 
-# Preview on the Web
+# 🌐 Preview on the Web
 
 Preview on the Web allows you to live preview your own project directly from your browser. Simply click on "Live Test" to preview your own app in a pop-up window.  
 

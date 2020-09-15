@@ -1,4 +1,4 @@
-# Intro to Sizing
+# 🖼️ Intro to Sizing
 
 For the app developer today, deciding what mobile device to design for is challenging. On Android alone, there are thousands of different devices that are in popular use today. On iOS, there are still 8 different iPhone sizes and 4 different iPad sizes.
 

@@ -20,5 +20,5 @@ When you add a canvas to your project, you will get 7 additional categories of b
 
 {% page-ref page="stage.md" %}
 
-
+{% page-ref page="canvas-label-1.md" %}
 

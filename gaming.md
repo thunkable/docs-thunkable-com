@@ -16,6 +16,11 @@ Read more in the [Canvas docs](canvas.md).
 Sprites are the elements on your stage that represent characters, obstacles, and more.   
 Read more in the [Sprites docs.](sprites.md)
 
+## Canvas Label
+
+Use the Canvas Label to display text on your Canvas.  
+Read more in the [Canvas Label](canvas-label.md) docs.
+
 ## Gaming Blocks
 
 You can use blocks to change the appearance and behavior of your Stage and Sprites.   

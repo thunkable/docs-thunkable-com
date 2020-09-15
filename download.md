@@ -1,4 +1,4 @@
-# Download
+# 📥 Download
 
 {% hint style="info" %}
 Before you download, we recommend first [adding an App Icon and Name](projects/settings.md) to your app

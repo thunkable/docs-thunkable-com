@@ -1,4 +1,4 @@
-# App Data Privacy
+# 🔒 App Data Privacy
 
 One of the reasons you may want to create your own app is to keep the data that you often share with apps visible to only people you trust \(and not a big company or hackers\).
 

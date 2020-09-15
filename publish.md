@@ -1,4 +1,4 @@
-# Publish
+# 📱 Publish
 
 Since Thunkable's cross platform ✕ allows creators to build one app that works on both Android and iOS devices, most creators who want to distribute and monetize their app with larger audiences will choose to publish in both the App and Play Stores.
 

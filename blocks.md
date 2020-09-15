@@ -6,20 +6,31 @@ The best apps define an elegant sequence of events that happen without the user 
 
 This is where Thunkable Blocks come in.
 
-![The Blocks screen can be found by clicking the Blocks tab on the upper left corner of the screen](.gitbook/assets/ezgif.com-video-to-gif-33%20%281%29.gif)
-
 Thunkable Blocks are the building blocks of a great experience for your app users. Every component has its own set of blocks to start or trigger an event and set and change properties.
 
 They can be connected to a commonly used set of blocks that range from opening screens, setting up logic, reformatting data or simplifying code.
 
-## Frequently Used Built-in Blocks
+{% page-ref page="control.md" %}
 
-Below are some of the most commonly used blocks and where you might find them:
+{% page-ref page="logic.md" %}
 
-| Block | Category | Description |
-| :--- | :--- | :--- |
-| [Navigate to Screen `1`](control.md#open-a-screen) | Control | Opens a specified screen in your app |
-| [If `this`, do `that`](control.md#if-this-do-that) | Control | Set conditions for events to happen in your app |
-|  |  |  |
-|  |  |  |
+{% page-ref page="math.md" %}
+
+{% page-ref page="text.md" %}
+
+{% page-ref page="lists.md" %}
+
+{% page-ref page="colour.md" %}
+
+{% page-ref page="objects.md" %}
+
+{% page-ref page="device.md" %}
+
+{% page-ref page="variables.md" %}
+
+{% page-ref page="functions.md" %}
+
+{% page-ref page="data-sources.md" %}
+
+{% page-ref page="any-component-blocks.md" %}
 

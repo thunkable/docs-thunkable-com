@@ -1,4 +1,4 @@
-# Release Notes
+# 📰 Release Notes
 
 ## Coming soon to Thunkable ✕
 
