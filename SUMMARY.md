@@ -123,5 +123,5 @@
 * [🔤 Fonts](fonts.md)
 * [💾 Managing Storage](managing-storage.md)
 * [📰 Release Notes](release-notes.md)
-* [❕Bugs and Feature Requests](bugs-and-feature-requests.md)
+* [📝 Bugs and Feature Requests](bugs-and-feature-requests.md)
 

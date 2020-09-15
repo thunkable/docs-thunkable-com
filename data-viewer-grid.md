@@ -150,12 +150,6 @@ The entire Data Viewer can be completely hidden or shown by setting the `Visible
 
 ![](.gitbook/assets/grid_visible%20%281%29.png)
 
-### Refresh
-
-Refresh the Data Viewer Grid to sync with the Data Source.
-
-![](.gitbook/assets/dvg_refresh.png)
-
 ### Data Sources
 
 When you connect a Data Source to your project you will also have access to a second block drawer. These Data Source blocks allow you to perform a variety of CRUD \(**C**reate, **R**ead, **U**pdate, **D**elete\) operations on your data. 

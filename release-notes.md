@@ -9,11 +9,6 @@ Platform updates
 Component Updates
 
 * New Sound blocks
-
-## September 14, 2020
-
-Component Updates
-
 * Refresh block for [Data Viewer List](data-viewer-list.md) and [Data Viewer Grid ](data-viewer-grid.md)components
 
 ## September 8, 2020
