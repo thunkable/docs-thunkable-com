@@ -11,9 +11,11 @@ Component Updates
 * New Sound blocks
 * Refresh block for [Data Viewer List](data-viewer-list.md) and [Data Viewer Grid ](data-viewer-grid.md)components
 
+## September 8, 2020
+
 New components
 
-* Ratings Component
+* [Rating](rating.md) Component
 
 ## August 28, 2020
 

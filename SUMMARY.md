@@ -27,6 +27,7 @@
 * [PDF Reader](pdf-reader.md)
 * [Data Viewer List](data-viewer-list.md)
 * [Data Viewer Grid](data-viewer-grid.md)
+* [Rating](rating.md)
 * [📐 Layout](layout.md)
 * [Top Tab Navigator](top-tab-navigator.md)
 * [Bottom Tab Navigator](bottom-tab-navigator.md)
