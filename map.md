@@ -28,7 +28,7 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 
 ## Zoom and Center the Map
 
-To auto-center your map, you can pair the Map component with a Location Sensor
+To auto-center your map, you can pair the Map component with a [Location Sensor](location-sensor.md)
 
 ![](.gitbook/assets/map-fig-2.png)
 
@@ -44,7 +44,7 @@ To auto-center your map, you can pair the Map component with a Location Sensor
 
 ![](.gitbook/assets/map-fig-3.png)
 
-To style the Map like the picture above, set Prover to `google`, Shows Traffic to `true`, Map Type to `standard` and Custom Map Style String to:
+To style the Map like the picture above, set Provider to `Google`, Shows Traffic to `true`, Map Type to `standard` and Custom Map Style String to:
 
 ```javascript
 [ { "elementType": "geometry", "stylers": [ { "color": "#f5f5f5" } ] }, { "elementType": "geometry.fill", "stylers": [ { "color": "#ffffff" } ] }, { "elementType": "labels.icon", "stylers": [ { "visibility": "off" } ] }, { "elementType": "labels.text.fill", "stylers": [ { "color": "#000000" } ] }, { "featureType": "administrative.land_parcel", "elementType": "labels.text.fill", "stylers": [ { "color": "#bdbdbd" } ] }, { "featureType": "poi", "elementType": "geometry", "stylers": [ { "color": "#eeeeee" } ] }, { "featureType": "poi", "elementType": "labels.text.fill", "stylers": [ { "color": "#757575" } ] }, { "featureType": "poi.park", "elementType": "geometry", "stylers": [ { "color": "#e5e5e5" } ] }, { "featureType": "poi.park", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] }, { "featureType": "road", "elementType": "geometry", "stylers": [ { "color": "#ffffff" } ] }, { "featureType": "road", "elementType": "geometry.fill", "stylers": [ { "color": "#d8d8d8" } ] }, { "featureType": "road.arterial", "elementType": "labels.text.fill", "stylers": [ { "color": "#757575" } ] }, { "featureType": "road.highway", "elementType": "geometry", "stylers": [ { "color": "#dadada" } ] }, { "featureType": "road.highway", "elementType": "labels.text.fill", "stylers": [ { "color": "#616161" } ] }, { "featureType": "road.local", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] }, { "featureType": "transit.line", "elementType": "geometry", "stylers": [ { "color": "#e5e5e5" } ] }, { "featureType": "transit.station", "elementType": "geometry", "stylers": [ { "color": "#eeeeee" } ] }, { "featureType": "water", "elementType": "geometry", "stylers": [ { "color": "#e4e4e4" } ] }, { "featureType": "water", "elementType": "geometry.fill", "stylers": [ { "color": "#f3f3f3" } ] }, { "featureType": "water", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] } ]
@@ -126,9 +126,18 @@ You can use the **deleteAllPolygons** block to delete all [polygons](map.md#add-
 
 The map has several events. You can trigger actions to happen when these events occur.
 
-Some of these blocks return **coordinate** objects. These can be used with [object blocks.](objects.md)
+### On Map Ready
 
-**Coordinate** will both return an object with the following properties:
+This event happens when the Map has loaded in your app. This is a good time to add any markers, polylines or polygons to your app that you want the user to see as soon as your app opens.
+
+![Example of using On Map Ready block](.gitbook/assets/onmapready.png)
+
+### On User Location Change
+
+This event happens when the location of the user changes. It returns the **coordinate** object.  
+You can use [object blocks](objects.md) to get the properties of the coordinate object.
+
+The **coordinate** object has the following properties:
 
 **target:** Numeric ID for your app  
 **coordinate:{  
@@ -138,18 +147,7 @@ Some of these blocks return **coordinate** objects. These can be used with [obje
 position:{  
       x:** x-position of selected point on the Map component  
       **y:** x-position of selected point on the Map component  
-**}**  
-
-
-### On Map Ready
-
-This event happens when the Map has loaded in your app. This is a good time to add any markers, polylines or polygons to your app that you want the user to see as soon as your app opens.
-
-![Example of using On Map Ready block](.gitbook/assets/onmapready.png)
-
-### On User Location Change
-
-This event happens when the location of the user changes. It returns the **coordinate** object.
+**}**
 
 ![Example of using On user Location Change block](.gitbook/assets/userlocationchangedemo.png)
 
