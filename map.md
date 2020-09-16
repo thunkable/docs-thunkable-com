@@ -108,13 +108,19 @@ To add a polygon, you can use the blocks below where `coordinates` need to be in
 
 ![](.gitbook/assets/screen-shot-2018-04-24-at-5.14.08-pm.png)
 
-### Clear Map
+### Delete Markers, Polylines and Polygons
 
-Sometimes it's helpful to clear all of the markers, polylines and polygons from the map, e.g. when you are trying to update your location in real-time which requires adding a marker and deleting existing markers.
+You can use the **deleteAllMarkers** block to delete all [markers](map.md#add-marker) from your app.
 
-The **deleteAllMarkers** block will clear all data from the map. This includes markers, polylines, and polygons.
+![](.gitbook/assets/deleteallmarkers.png)
 
-![](.gitbook/assets/screen-shot-2019-06-18-at-2.56.36-pm.png)
+You can use the **deleteAllPolylines** block to delete all [polylines](map.md#add-polyline) from your app.
+
+![](.gitbook/assets/deleteallpolylines.png)
+
+You can use the **deleteAllPolygons** block to delete all [polygons](map.md#add-polygon) from your app.
+
+![](.gitbook/assets/deleteallpolygons.png)
 
 ## Map Events
 

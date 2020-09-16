@@ -179,6 +179,12 @@ The entire Data Viewer can be hidden or shown by setting the `Visible`property t
 
 ![](.gitbook/assets/dlv_visible.png)
 
+### Refresh
+
+Refresh the Data Viewer List to sync with the Data Source.
+
+![](.gitbook/assets/dvl_refresh.png)
+
 ### Data Source Blocks
 
 When you connect a Data Source to your project you will also have access to a second block drawer. These Data Source blocks allow you to perform a variety of CRUD \(**C**reate, **R**ead, **U**pdate, **D**elete\) operations on your data. 
