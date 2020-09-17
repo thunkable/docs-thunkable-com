@@ -50,9 +50,3 @@ Thunkable is completely free for anyone to use - simply sign in and start buildi
 
 In addition to our free memberships, we also offer [Thunkable PRO](https://thunkable.com/#/pricing) memberships for users who want access additional features, such as extra storage or advanced components. Please take a look at our [pricing page](https://thunkable.com/#/pricing) to see a side-by-side comparison.
 
-{% hint style="warning" %}
-Thunkable Classic docs have moved to a new home. You can find them at: 
-
-[classic-docs.thunkable.com](https://classic-docs.thunkable.com)
-{% endhint %}
-
