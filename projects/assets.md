@@ -12,8 +12,8 @@ Thunkable PRO subscribers get 1GB of storage and can create unlimited public and
 
 | Element | Limit |
 | :--- | :--- |
-| App size | 50 MB for Free and PRO accounts. |
-| Account size limit | 200 MB for Free, 1 GB for PRO. |
+| App size | 50 MB for Free and [PRO](https://thunkable.com/#/pricing) accounts. |
+| Account size limit | 200 MB for Free, 1 GB for [PRO](https://thunkable.com/#/pricing). |
 | Screens | No fixed limit |
 | Download | One app per phone for iOS; no limit for Android |
 | Minimum Android version | 5.0 \(21\) Lollipop |

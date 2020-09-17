@@ -4,8 +4,6 @@
 
 {% embed url="https://youtu.be/lOmoqqLbDeI" %}
 
-
-
 ## Overview
 
 * [Set up](translator.md#set-up)

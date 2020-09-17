@@ -6,13 +6,19 @@ description: The platform where anyone can build their own mobile apps.
 
 Welcome to Thunkable! We're excited to help you begin your app building journey.
 
-On Thunkable, anyone can easily design beautiful apps, program powerful functionality with drag & drop blocks, and upload apps to the Google Play Store and Apple's App Store.
+On Thunkable, anyone can easily design beautiful apps, program powerful functionality with drag & drop blocks, and upload apps to the [Google Play Store](publish-to-play-store-android.md) and [Apple's App Store](publish-to-app-store-ios.md).
 
 You can also build [web apps](https://docs.thunkable.com/publish-as-a-web-app-pro), which are apps that you don't need to download and can be directly accessed online. 
 
 All apps built on Thunkable work for both Android and iOS devices \(see:[ minimum requirements](projects/assets.md)\). 
 
 You can get started by remixing existing projects from our [Sample Apps Page](https://docs.thunkable.com/sample-apps) or [Public Gallery](https://docs.thunkable.com/public-gallery).
+
+## Tutorial videos
+
+You can check out our [YouTube channel](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw) for video tutorials, from Beginner to Advanced.
+
+{% embed url="https://www.youtube.com/watch?v=rqpjqHXW-\_E&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE" %}
 
 ## Intro to Documentation
 
