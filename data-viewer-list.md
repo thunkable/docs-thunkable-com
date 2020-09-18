@@ -114,7 +114,9 @@ Once you have specified a [data source](data-viewer-list.md#data-source) you can
 
 ![](.gitbook/assets/dlv7.png)
 
+### Custom Layout
 
+You can also design a[ Custom Data Viewer Layout](custom-data-viewer-layout.md) and save it with the Layout Type 'List' to use it in your Data Viewer List.
 
 ## Data Bindings
 

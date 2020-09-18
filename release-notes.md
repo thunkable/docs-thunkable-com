@@ -14,7 +14,13 @@ Component Updates
 
 Component Updates
 
+## September 18, 2020
+
 * Refresh block for [Data Viewer List](data-viewer-list.md) and [Data Viewer Grid ](data-viewer-grid.md)components
+
+New components
+
+* [Custom Data Viewer Layout](custom-data-viewer-layout.md) for use with [Data Viewer List ](data-viewer-list.md)and [Data Viewer Grid](data-viewer-grid.md)
 
 ## September 8, 2020
 

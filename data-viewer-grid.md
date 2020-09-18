@@ -124,6 +124,10 @@ Finally, give you data source a name and you're ready to go.
 
 ![](.gitbook/assets/gv7.png)
 
+### Custom Layout
+
+You can also design a[ Custom Data Viewer Layout](custom-data-viewer-layout.md) and save it with the Layout Type 'Grid' to use it in your Data Viewer Grid.
+
 ## Data Bindings
 
 Finally, you need to manually specify which columns in your data source correspond with which placeholders in your chosen layout. Each layout will have its own specific set of data bindings.
