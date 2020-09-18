@@ -6,7 +6,7 @@ description: Design a custom layout for displaying your data in a Data Viewer
 
 ## Overview
 
-While the Data Viewer List and Data Viewer Grid have different layout options, you may want to design a custom layout for your data. This can be achieved with [Row](row.md) and [Column](column.md) components.
+While the [Data Viewer List](data-viewer-list.md) and [Data Viewer Grid](data-viewer-grid.md) have different layout options, you may want to design a custom layout for your data. This can be achieved with [Row](row.md) and [Column](column.md) components.
 
 ## Video Tutorial
 
