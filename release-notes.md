@@ -15,7 +15,6 @@ Component Updates
 Component Updates
 
 * [Delete All Rows](data-sources.md#delete-all-rows) block for [Data Sources ](data-sources.md)
-* [Alert](alert.md) now works in [Web Apps](publish-as-a-web-app-pro.md)
 
 ## September 18, 2020
 

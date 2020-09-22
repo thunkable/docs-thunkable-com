@@ -1,4 +1,4 @@
-# Alerts
+# Alert
 
 Alerts are useful components for displaying important messages while users are in the app itself
 
