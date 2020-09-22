@@ -48,6 +48,10 @@ In the next modal, choose between [Create your own table](data-viewer-list.md#cr
 
 Please note that some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
 
+At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File &gt; Save as Google Sheets**.
+
+![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
+
 ### Create your Own Table
 
 Start by naming your data source.
