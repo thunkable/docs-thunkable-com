@@ -32,6 +32,10 @@ If your data source is a **Google Sheet**, you can refer to the row by its integ
 
 ![](.gitbook/assets/get_value.png)
 
+`Get row object` will return the row object of the specified row ID. The row object can be used with [Objects blocks.](objects.md)
+
+![](.gitbook/assets/darasourcesgetrowobject.png)
+
 The `list of values in` block allows you to read an entire column of data from a table and returns it as a list that you can then manipulate with the built-in [List blocks](lists.md).
 
 ![](.gitbook/assets/list_of_values.png)
@@ -50,9 +54,18 @@ You can use the `update value in` block to modify or update an existing cell in 
 
 ### Delete
 
+#### Delete Row
+
 You can use the `Delete Row` block to delete a row of data from your Data source.   
 The `row id` is passed as an input.  
 If there is an `error`, the error message is passed as an output. 
 
 ![](.gitbook/assets/deleterow.png)
+
+#### Delete All Rows
+
+You can use the `delete all rows` ****block to delete all rows in your data source.  
+If there is an `error`, the error message is passed as an output.
+
+![](.gitbook/assets/datasourcedeleteallrows.png)
 

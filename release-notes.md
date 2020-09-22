@@ -10,11 +10,15 @@ Component Updates
 
 * New Sound blocks
 
-## September 14, 2020
+## September 22, 2020
 
 Component Updates
 
+* [Delete All Rows](data-sources.md#delete-all-rows) block for [Data Sources ](data-sources.md)
+
 ## September 18, 2020
+
+Component Updates
 
 * Refresh block for [Data Viewer List](data-viewer-list.md) and [Data Viewer Grid ](data-viewer-grid.md)components
 
