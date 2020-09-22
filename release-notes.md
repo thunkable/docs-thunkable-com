@@ -8,7 +8,7 @@ Platform updates
 
 Component Updates
 
-* New Sound blocks
+* New blocks to add Camera, Sound, Speech and Share functionality to your app from the Blocks tab
 
 ## September 22, 2020
 
