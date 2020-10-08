@@ -8,13 +8,14 @@ Platform updates
 
 Component Updates
 
-* New blocks to add Camera, Sound, Speech and Share functionality to your app from the Blocks tab
+* Move invisible components to the Blocks tab
 
 ## September 22, 2020
 
 Component Updates
 
 * [Delete All Rows](data-sources.md#delete-all-rows) block for [Data Sources ](data-sources.md)
+* [Alert](alert.md) now works in [Web Apps](publish-as-a-web-app-pro.md)
 
 ## September 18, 2020
 
