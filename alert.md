@@ -2,7 +2,9 @@
 
 Alerts are useful components for displaying important messages while users are in the app itself
 
-![Popular two-button alerts for Android and iOS](.gitbook/assets/thunkable-docs-exhibits-14%20%281%29.png)
+![Demonstration of how an Alert looks on Android, iOS and Web](.gitbook/assets/alertdemo.jpg)
+
+
 
 ## One Button Alert
 
