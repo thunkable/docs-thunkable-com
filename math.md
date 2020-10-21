@@ -31,7 +31,9 @@ Perhaps the most often used calculation in an app is `addition` but this block a
 | :--- |
 
 
-There are also a few more advanced calculation blocks that may be helpful including `trigonometric`
+There are also a few more advanced calculation blocks that may be helpful including `trigonometric.`
+
+These blocks will return a value assuming the input is given in degrees.
 
 ![](.gitbook/assets/blocks-math-fig-4.png)
 
