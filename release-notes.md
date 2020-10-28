@@ -10,6 +10,12 @@ Component Updates
 
 * Move invisible components to the Blocks tab
 
+## October 28, 2020
+
+Component Updates
+
+* Fixed error caused by deleting [Sprites](sprites.md) from app project
+
 ## September 22, 2020
 
 Component Updates
