@@ -66,7 +66,6 @@ Not all components are supported on the web at this time so please see the list 
 | :--- | :--- | :--- |
 | **Accelerometer** | Sensors | **`Supported but may not work as expected`** |
 | **AdMob** | Monetization | **`Can not be supported`** |
-| **Alert** | User Interface | **`Not supported yet`** |
 | **Assistant** | Voice | **`Not supported yet`** |
 | **Barcode Scanner** | Image | **`Not supported yet`** |
 | **Blockchain Wallet** | Data | **`Will not be supported`** |
