@@ -26,6 +26,16 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 | :--- | :--- |
 | Provider `Advanced` | Default \(`google`\); To select Apple Maps for iOS, leave the property `blank` |
 
+### Google Maps: Add API Key
+
+It is possible to add your own Google Maps API Key to your Thunkable app project.
+
+Simply click on your project name to open the [Project Settings](projects/settings.md) menu, and scroll down to the **Google Map Settings** section. You will see the option to enter a Google Maps API Key for Android and iOS.
+
+![](.gitbook/assets/mapapikeys.png)
+
+You can get your own Google Maps API Key [here](https://developers.google.com/maps/documentation/javascript/get-api-key).
+
 ## Zoom and Center the Map
 
 To auto-center your map, you can pair the Map component with a [Location Sensor](location-sensor.md)

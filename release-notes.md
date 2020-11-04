@@ -16,6 +16,12 @@ Component Updates
 
 * Fixed error caused by deleting [Sprites](sprites.md) from app project
 
+## October 15, 2020
+
+Component Updates
+
+* Allow creators to add their own [Google Maps API key](map.md#google-maps-add-api-key) to their project settings
+
 ## September 22, 2020
 
 Component Updates
