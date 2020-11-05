@@ -9,6 +9,7 @@ Platform updates
 Component Updates
 
 * Move invisible components to the Blocks tab
+* Improve appearance of apps that use [Top Tab Navigators](top-tab-navigator.md) when downloaded to a notched device
 
 ## October 28, 2020
 
