@@ -19,6 +19,7 @@ Thunkable is continually looking for ways to streamline the publishing process a
 * [App info](publish-to-app-store-ios.md#app-info)
 * [Troubleshooting](publish-to-app-store-ios.md#troubleshooting)
 * [Submit your app for review](publish-to-app-store-ios.md#submit-your-app-for-review)
+* [Update your App](publish-to-app-store-ios.md#update-your-app)
 * [Adding Push Notifications](publish-to-app-store-ios.md#adding-push-notifications)
 
 ## Minimum requirements
