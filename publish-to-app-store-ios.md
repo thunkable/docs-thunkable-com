@@ -378,6 +378,10 @@ If your app is submitted successfully, it should appear under the Testflight tab
 
 ![If your app is sent successfully, you&apos;ll see a new build under the TestFlight tab in your App Store Connect dashboard. Testflight allows you to invite beta testers to your app before you release it in the App Store.](.gitbook/assets/thunkable-docs-exhibits-85.png)
 
+## Update Your App
+
+To update an existing App Store listing, follow the instructions on Apple's website [here](https://help.apple.com/app-store-connect/#/dev480217e79). For Step 6, _Upload your new build to App Store Connect,_ follow the instructions above to send your app to App Store Connect.
+
 ## Troubleshooting
 
 **You do not see your app uploaded to App Store Connect**
@@ -461,7 +465,13 @@ Note, you should _not_ check the box labeled “Serve advertisements within the 
 
 ## Adding Push Notifications
 
-If you are adding Push Notifications to an app that is already published, you will need to create a new **.mobileprovision** file. Here's a quick overview of what that process looks like.
+To publish an app to the App Store that contains Push Notifications, you need to:
+
+* send an app that does not contain Push Notifications to App Store Connect
+* add push notifications to your app project \([see instructions here](push-notifications-by-one-signal.md#ios-setup)\)
+* send the new version of your app to App Store Connect
+
+Between sending these two versions of your app to App Store Connect, you will need to create a new **.mobileprovision** file. Here's a quick overview of what that process looks like.
 
 Click on _Provisioning Profiles &gt; All_ to see your current iOS provisioning profiles. Notice that the app you just created is now **invalid** so we need to generate a new one.
 
