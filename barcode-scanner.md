@@ -14,7 +14,7 @@ The Barcode Scanner is among the easiest components to set-up and use. After add
 
 ![](.gitbook/assets/screen-shot-2019-10-24-at-1.39.04-pm.png)
 
-The `value` is the code within the barcode and QR code. You can also detect the `type` \(either barcode or QR\). 
+The `value` is the code within the barcode and QR code. You can also detect the `type` \(either **barcode** or **qr**\). 
 
 In most cases you'll use the default `back` camera in your mobile device but you also have the option to specify the front camera in certain cases.
 
