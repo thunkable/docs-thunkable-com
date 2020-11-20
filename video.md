@@ -20,8 +20,10 @@ Please note that video files can be quite large and might exceed the 50 MB [size
 
 There are a few ways you can set a video source in your app:
 
-1. **Provide a link to the video.** The link has to end in `.mp4`, `.mov`, …so videos uploaded to YouTube and other video sharing sites may not work.
-2. **Upload a video to your app.** Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
+1. **Upload a video to your app.** Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
+2. **Provide a link to the video.** The link has to end in `.mp4`, `.mov`, …so videos uploaded to YouTube and other video sharing sites may not work.
+
+Please note that the Video component is not recommended for streaming live video content. 
 
 ## Edit Video size
 
