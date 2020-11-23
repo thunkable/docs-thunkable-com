@@ -12,14 +12,18 @@ To add a navigator to your app, you will need to drag the navigator component in
 
 ![](.gitbook/assets/ezgif.com-video-to-gif-6%20%282%29.gif)
 
-## Style Your Tab
+## Tab Navigator Properties
 
 You have many options for styling your Bottom Tab Navigator, such as changing the background color or tint color. Here are the different options for customization:
 
-* **Active Tint Color:** An underline will appear underneath the tab you select. You can select a color for the underline. 
-* **Active Background Tint Color:** Select a font color for the tab currently in use. 
+#### **Simple Properties**
+
+* **Active Tint Color:** Select a font color for the tab currently in use.
+* **Active Background Color:** Select a color for the tab currently in use.
 * **Inactive Tint Color:** Select a color for the text of the tabs that are not in use. 
-* **InactiveBackgroundColor:** Select a color for the background of the tabs that are not in use.
+* **Inactive Background Color:** Select a color for the tab not currently in use.
+* **ShowLabel:** Toggle whether to show tab labels in the Tab Navigator.
+* **ShowIcon:** Toggle whether to show icons in the Tab Navigator.
 
 ## **Adding Labels and Icons to Your Tab**
 
