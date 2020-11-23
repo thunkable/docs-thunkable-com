@@ -21,6 +21,7 @@ Thunkable is continually looking for ways to streamline the publishing process a
 * [Submit your app for review](publish-to-app-store-ios.md#submit-your-app-for-review)
 * [Update your App](publish-to-app-store-ios.md#update-your-app)
 * [Adding Push Notifications](publish-to-app-store-ios.md#adding-push-notifications)
+* [Remove your app from the App Store](publish-to-app-store-ios.md#remove-your-app-from-the-app-store)
 
 ## Minimum requirements
 
@@ -491,6 +492,22 @@ On the next screen, click the **Download** button and the .mobileprovision file 
 ![](.gitbook/assets/download.png)
 
  
+
+## Remove your app from the App Store
+
+If you want to remove your apps from being listed in the App Store, open your app listing on [App Store Connect](https://appstoreconnect.apple.com/apps) and  follow these instructions:
+
+1. On the “App Store” tab, click on “Pricing and Availability” 
+2. Click the “Remove from Sale” radio button
+3. Then click the “Save” button to unpublish your app
+
+You can see these buttons in the screenshot below:
+
+![](.gitbook/assets/app_store_remove.png)
+
+Please note that if your Apple Developer account expires, your apps will no longer be available for download in the App Store.
+
+Removing your app from the Play Store will not delete it from devices which have previously downloaded the app.
 
 
 

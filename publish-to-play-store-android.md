@@ -15,6 +15,7 @@ Success on Google Play starts with quality. The best apps and games have higher 
 * [Download your Android app](publish-to-play-store-android.md#download-your-android-app)
 * [Submit your app for review](publish-to-play-store-android.md#submit-your-app-for-review)
 * [Updating an existing app on the Play Store](publish-to-play-store-android.md#updating-an-existing-app-on-the-play-store)
+* [Remove your app from the Play Store](publish-to-play-store-android.md#remove-your-app-from-the-play-store)
 
 ## Minimum requirements
 
@@ -144,15 +145,18 @@ Enter the password and select the .keystore file you previously saved to your co
 
 Congrats! You should be able to successfully publish updates now. Note that you’ll need to repeat the steps every time you want to update an app that was originally built as a different project as every app has their own keystore.
 
-#### Export keystore from Thunkable Classic
+## Remove your app from the Play Store
 
-{% hint style="danger" %}
-Thunkable Classic is retiring soon!  We highly recommend you rebuild your apps in the Thunkable Cross-platform and import your keystore if your app is published to the Google Play Store
-{% endhint %}
+To make your app unavailable for download on the Play Store, open your app listing on the [Google Play Console](https://play.google.com/console) and do the following:
 
-Go to Thunkable Classic \([app.thunkable.com](http://app.thunkable.com/)\) click Apps \(in the upper left corner\) and then Export keystore to save your Classic `android.keystore` file to your computer.
+1. Scroll down to “Release” and click on “Setup” 
+2. Then “Advanced Settings”. 
+3. Click the “Unpublished” radio button 
+4. Then click “Save” to unpublish your app.
 
-![](.gitbook/assets/screen-shot-2019-09-10-at-11.00.05-am.png)
+You can see the relevant areas below:
 
-The password for this .keystore file will be **android**.
+![](.gitbook/assets/play_store.png)
+
+Removing your app from the Play Store will not delete it from devices which have previously downloaded the app.
 
