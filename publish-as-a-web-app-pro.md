@@ -44,9 +44,15 @@ The first time you publish a new project you will have to click on the blue `Get
 
 ![](.gitbook/assets/03_get_link_large-1.png)
 
-In the next modal you can choose whether you want to open the app in a new tab, copy the app link, or share your app through popular channels like Facebook, WhatsApp and Reddit. You can even “unpublish” your app by clicking on `Disable published link` text. All of these options are illustrated below. 
+In the next modal you can:
 
-![](.gitbook/assets/frame-3-1.png)
+* open the app in a new tab
+* copy the app link
+* select whether to publish as a [**Mobile web app**](publish-as-a-web-app-pro.md#mobile-web-app) or a [**Responsive web app**](publish-as-a-web-app-pro.md#responsive-web-app)\*\*\*\*
+* share your app through popular channels like Facebook, Twitter and Reddit 
+* **unpublish** your app by clicking on `Disable published link` text
+
+![](.gitbook/assets/publish-as-web-app%20%282%29.png)
 
 🎉 Congratulations - your Thunkable project is now live on the internet a published web app.
 
