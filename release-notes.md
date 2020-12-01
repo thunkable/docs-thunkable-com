@@ -6,6 +6,7 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 * Introducing drag-and-drop layout: Thunkable creators can drop components to the desired position on their app screen
+* Removing certain permissions from built Android apps to make publishing to the Play Store easier
 
 Component Updates
 
