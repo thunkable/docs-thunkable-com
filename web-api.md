@@ -145,7 +145,8 @@ Uploading and deleting data is usually reserved for a private API that you or yo
 | Event | Description |
 | :--- | :--- |
 | Put \(`response`, `status`,`error`\) | Performs an HTTP PUT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
-| Post \(`response`, `status`,`error`\) | Performs an HTTP POSTT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+| Post \(`response`, `status`,`error`\) | Performs an HTTP POST request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+| Patch \(`response, status, error`\) | Performs an HTTP PATCH request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
 ## Delete data
 
