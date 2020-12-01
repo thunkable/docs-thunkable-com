@@ -16,6 +16,17 @@ New Components
 
 * In-app purchases
 
+## November 20, 2020
+
+Platform Updates
+
+* Introduced Drag and Drop as [beta feature](https://x.thunkable.com/account/settings)
+* Introduced moving invisible components to Blocks tab as [beta feature](https://x.thunkable.com/account/settings)
+
+Component updates
+
+* Add [PATCH](web-api.md#upload-data) method to [Web API](web-api.md) component
+
 ## October 28, 2020
 
 Component Updates
