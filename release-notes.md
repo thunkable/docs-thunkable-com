@@ -5,18 +5,17 @@
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
-* Introducing drag-and-drop layout: Thunkable creators can drop components to the desired position on their app screen
-* Removing certain permissions from built Android apps to make publishing to the Play Store easier
-* Enable creators to access their project files from the Thunkable Design tab
-
-Component Updates
-
-* Move invisible components to the Blocks tab
-* Web API PATCH block
 
 New Components
 
 * In-app purchases
+
+## December 2, 2020
+
+Platform updates
+
+* Removing certain permissions from built Android apps to make publishing to the Play Store easier
+* Enable creators to access their project files from the Thunkable Design tab
 
 ## November 20, 2020
 
