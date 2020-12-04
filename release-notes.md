@@ -6,6 +6,10 @@ Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
 
+Component Updates
+
+* Fix behavior where blocks in '[when Screen Opens](screen.md#when-screen1-opens)' event block are triggered multiple times
+
 New Components
 
 * In-app purchases
