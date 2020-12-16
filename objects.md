@@ -31,7 +31,7 @@ Similarly, you may want to convert an Object to JSON to make an API POST, or set
 You can use the `get property` block to read the value of an object's property.  
 If the object does not have a property with this name, it will return `undefined`.
 
-![](.gitbook/assets/image%20%28122%29.png)
+![](.gitbook/assets/getprop.png)
 
 ### Get Properties of an Object
 
