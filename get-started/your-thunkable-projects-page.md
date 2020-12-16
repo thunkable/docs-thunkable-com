@@ -59,7 +59,7 @@ You can also view information about the project, such as its name, creator, proj
 
 If the project is a remix of another project, the name and creator of the original project will be displayed.
 
-![](../.gitbook/assets/projectdetailpage.png)
+![](../.gitbook/assets/project_detail_page.png)
 
 \*\*\*\*
 
