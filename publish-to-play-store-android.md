@@ -99,6 +99,8 @@ Apps that request access to sensitive permissions or data \(as defined in the [u
 
 ## **Updating an existing app on the Play Store**
 
+You can view Google's instructions for updating your app [here](https://support.google.com/googleplay/android-developer/answer/9859350?hl=en).
+
 If you updating an existing app on the Google Play Store, your app will need to have:
 
 * the same [package name](publish-to-play-store-android.md#the-package-name) as the published app
