@@ -6,7 +6,7 @@ description: The platform where anyone can build their own mobile apps.
 
 ## In the Beginning...
 
-If you've made it to this page, you probably want to build an app. Congratulations!
+If you've made it to this page, you probably want to build an app. Congrats!
 
 Thunkable makes it simple to create and customize mobile apps without coding. 
 
