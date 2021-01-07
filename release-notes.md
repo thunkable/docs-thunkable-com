@@ -5,6 +5,8 @@
 Platform updates
 
 * Translation into Chinese 中文 \(more languages to come in the future\)
+* Bring more components and properties to the Drag and Drop interface
+* Introduce a tool to convert snap-to-position projects to drag-and-drop projects
 
 Component Updates
 
@@ -13,6 +15,12 @@ Component Updates
 New Components
 
 * In-app purchases
+
+## December 15, 2020
+
+Platform Updates
+
+* Combined Drag and Drop UI and moving invisible components to blocks. These features can now be enabled by checking 'Be the first to try out new drag and drop interface' when creating a new project.
 
 ## December 2, 2020
 
