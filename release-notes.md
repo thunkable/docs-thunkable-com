@@ -4,17 +4,35 @@
 
 Platform updates
 
-* Translation into Chinese 中文 \(more languages to come in the future\)
-* Bring more components and properties to the Drag and Drop interface
 * Introduce a tool to convert snap-to-position projects to drag-and-drop projects
+* Add the following to Drag and Drop UI
+  * AdMob Banner
+  * Switch
+  * Time Input
+  * Date Input
+  * 'Partial Results' output block for Speech Recognizer component
+  * Additional guidelines to guide positioning of components
 
 Component Updates
 
 * Fix behavior where blocks in '[when Screen Opens](screen.md#when-screen1-opens)' event block are triggered multiple times
+* Improve Web Viewer 'Go Forward' and 'Go Back' blocks
+* Improve Video Player performance on web apps
+* Improve performance of 'when Screen Opens' block when Loading Icon present on the Screen
 
 New Components
 
 * In-app purchases
+
+## January 8, 2020
+
+Platform updates
+
+* Add a processing indicator when new project is created
+
+Component Updates
+
+* Improve performance of [Sensor](sensors.md) components
 
 ## December 15, 2020
 
