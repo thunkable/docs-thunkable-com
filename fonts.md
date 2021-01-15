@@ -10,7 +10,7 @@ The available font choices differ depending on whether you are developing for [A
 
 ### Android Fonts
 
-You can view these fonts here.
+You can view these fonts [here](https://fonts.google.com/).
 
 | Font Name |
 | :--- |
