@@ -16,13 +16,19 @@ Platform updates
 Component Updates
 
 * Fix behavior where blocks in '[when Screen Opens](screen.md#when-screen1-opens)' event block are triggered multiple times
-* Improve Web Viewer 'Go Forward' and 'Go Back' blocks
 * Improve Video Player performance on web apps
 * Improve performance of 'when Screen Opens' block when Loading Icon present on the Screen
 
 New Components
 
 * In-app purchases
+
+## January 26, 2020
+
+Platform Updates
+
+* Improve positioning of imported Figma files in a Screen
+* Improve appearance of component tree
 
 ## January 8, 2020
 
