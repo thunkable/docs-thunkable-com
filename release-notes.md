@@ -23,14 +23,25 @@ New Components
 
 * In-app purchases
 
-## January 26, 2020
+## February 3, 2021
+
+Platform Updates
+
+* Improve iOS build process on Drag and Drop UI
+
+Component Updates
+
+* Improve performance of Text Input with 'Secure Text Entry' property enabled on web apps and apps being previewed on the web
+* Update text for set/get blocks
+
+## January 26, 2021
 
 Platform Updates
 
 * Improve positioning of imported Figma files in a Screen
 * Improve appearance of component tree
 
-## January 8, 2020
+## January 8, 2021
 
 Platform updates
 
