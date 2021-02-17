@@ -23,9 +23,9 @@ You can view a project's app size on the project's details page:
 
 ![](../.gitbook/assets/ezgif.com-video-to-gif-3.gif)
 
-The main contributor to an app's size are files \(also known as assets\). To add or delete files, click on the expand icon in the files section: 
+The main contributor to an app's size are files \(also known as assets\). To add or delete files, click on the Assets button in the side bar. Then click the "+" icon to manage all the files in your project. 
 
-![Find and remove unneeded files](../.gitbook/assets/ezgif.com-video-to-gif-2.gif)
+![](../.gitbook/assets/manage_assets.gif)
 
 ## Account storage limits \(200MB per account\)
 

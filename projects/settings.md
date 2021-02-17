@@ -4,15 +4,15 @@
 
 ### App Name
 
-To put it simply, your "app name" is the name of your app. This is the name that will be displayed on the Google Play Store or App Store. To create an app name, click on the name of your project on the upper left hand side. Next, write in your app name where it says "App Name". 
+To put it simply, your "app name" is the name of your app. This is the name that will be displayed on the Google Play Store or App Store. It is also the name that users see when they install your app on their device. To create an app name click on the Settings button in the side bar. Then write in your app name where it says "App Name". 
 
-![](../.gitbook/assets/appname.gif)
+![](../.gitbook/assets/app_name.gif)
 
 ### **Project Name** 
 
-This is not your app name! This is just the name of your project on Thunkable. When you create a new project, you will be prompted to write in a project name. You can change this name at anytime by clicking on the edit icon next to your project name.
+This is not your app name! This is just the name of your project on Thunkable. When you create a new project, you will be prompted to write in a project name. You can change this name at anytime by clicking on your project name in the top bar.
 
-![](../.gitbook/assets/projectname.gif)
+![](../.gitbook/assets/new_project_name.gif)
 
 ### **Changing the App Icon and Removing the Thunkable Branding Screen**
 
@@ -24,9 +24,9 @@ Thunkable PRO users can remove the Thunkable branding from their app splash scre
 [Learn more about PRO.](https://thunkable.com/#/pricing)
 {% endhint %}
 
-To upload an app icon, click on your app's project name on the upper left hand side, and then click the upload button in the icon section. Please make sure that the file you upload does not have the same name as another asset that you are using for your app. This will cause an error.
+To upload an app icon click on the Settings button in the side bar. Then click the upload button in the icon section. Please make sure that the file you upload does not have the same name as another asset that you are using for your app. This will cause an error.
 
-![](../.gitbook/assets/appicon.gif)
+![](../.gitbook/assets/new_icon.gif)
 
 {% hint style="warning" %}
 Avoid using the character "&" in your app name; at the moment, it prevents your app from being installed on your device

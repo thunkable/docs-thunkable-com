@@ -12,9 +12,15 @@ When a user of your app taps on the Date Input, it will automatically launch the
 
 ## Set the Date Format
 
-You can set the format of the date by simply choosing your desired format from the `Style` property
+You can set the format of the date by choosing an option from the `Style` property. Currently supported styles are:
 
-![](.gitbook/assets/screen-shot-2019-09-04-at-5.14.19-pm.png)
+* YYYY-MM-DD
+* MM/DD/YYYY
+* M/D/YY
+* Month Day, Year
+* Mth. Day, Year
+
+![](.gitbook/assets/date_input_style.png)
 
 ## Save the Date
 

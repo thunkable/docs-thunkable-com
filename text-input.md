@@ -35,9 +35,9 @@ You can choose from the following types of keyboards:
 
 You can also set up Text Input for passwords as shown below using the Secure Text Entry Switch. This switch will replace text with \* as users type.
 
-To activate Secure Text Entry, click on the advanced properties tab for the text input component. Scroll down to the Secure Text Entry section and set the switch to true.
+To activate Secure Text Entry, look for the Text Input Style properties and make sure that the  Secure Text Entry switch is set to true.
 
-![](https://lh4.googleusercontent.com/omT1m9fLlApRjOmKpjDj2yoSKYQta1hfWi3lSw-Atz0cOt8WHQFzQMaW37b0OnXWJOcS4GyPnziQ-Yn_Bv_G499Uddz9dMMT3ZAhlfD-av2NTjwj2pVfHrMglp0qQ5wi4xbDzddQ)
+![](.gitbook/assets/secure_text_entry.png)
 
 
 

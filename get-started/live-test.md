@@ -33,7 +33,7 @@ While live testing, any changes that you make to your project should be reflecte
 
 From any of your Thunkable projects, click on the **Live Test** button at the top of the screen to begin live testing.
 
-![](../.gitbook/assets/live_test%20%281%29.png)
+![](../.gitbook/assets/live_test_icon.png)
 
 ‌The next pop-up you see depends on if you are [signed in with Google](live-test.md#if-you-are-signed-in-with-google) or if you have [signed in by email](live-test.md#if-you-are-signed-in-by-email).‌
 
