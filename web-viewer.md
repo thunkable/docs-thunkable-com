@@ -14,6 +14,20 @@ description: >-
 Some websites may not appear when testing your app on the web. You may need to [Live Test](get-started/live-test.md#live-test) the app on a device, or [download](download.md) and install the app, to see your web page.
 {% endhint %}
 
+## Properties
+
+In the Design panel, you can set many properties of the Web Viewer.
+
+### Simple
+
+**URL:** Set initial URL to be displayed in the Web Viewer  
+**Height:** Set Height of Web Viewer  
+**Width:** Set Width of Web Viewer  
+**Visible:** Toggle whether or not the Web Viewer is visible in the app  
+**Margin \(top, bottom, left, right\):** Set a defined distance between the Web Viewer and its neighboring components on the Screen  
+**Padding \(top, bottom, left, right\):** Set a defined distance between the border of the Web Viewer and its contents  
+**Border:** Set the **width, radius, color** and **style** of a border around the perimeter of the Web Viewer 
+
 ## Overview
 
 * [Set URL](web-viewer.md#set-url)
