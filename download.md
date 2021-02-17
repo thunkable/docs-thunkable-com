@@ -54,9 +54,9 @@ The link to download the app is only intended for your own use and will expire a
 
 ### To install, trust Thunkable on your device
 
-On your first time downloading apps for iOS, you will need to open your `Settings` app, navigate to `General` and `Device Management` and then `Trust "Rappidly Inc"` \(the business name of Thunkable\)
+On your first time downloading apps for iOS, you will need to open your `Settings` app, navigate to `General` and `Device Management` and then `Trust "Thunkabe, Inc."` \(the business name of Thunkable\)
 
-![](.gitbook/assets/download-fig-3.png)
+![](.gitbook/assets/assets_-lan5scxl2uqujuoqkjo_-lan5weceranwag7ig2g_-lan671msr8pjsfhbvj7_download-fig-3.png)
 
 ### Troubleshooting
 
