@@ -22,7 +22,7 @@ This block will open the camera and allow the user to take a photo. The photo ca
 
 ### Advanced Block
 
-![](.gitbook/assets/image%20%28169%29.png)
+![](.gitbook/assets/image%20%28172%29.png)
 
 | Output Name | Data Type | Function |
 | :--- | :--- | :--- |
@@ -52,7 +52,7 @@ This block will generate a description of a given image. This block requires int
 
 This component is powered by [Microsoft Azure](https://blogs.microsoft.com/ai/azure-image-captioning/). You can get your own server URL and subscription key for Microsoft Azure [here](https://azure.microsoft.com/en-us/free/). You can add these details to your app in the [Project Settings panel](projects/settings.md#api-keys), which you can access by clicking on your app icon.
 
-![](.gitbook/assets/image%20%28173%29.png)
+![](.gitbook/assets/image%20%28176%29.png)
 
 ### Advanced Block
 
@@ -71,7 +71,7 @@ This component is powered by [Microsoft Azure](https://blogs.microsoft.com/ai/az
 
 This block will scan a barcode or a QR code and return its value.
 
-![](.gitbook/assets/image%20%28165%29.png)
+![](.gitbook/assets/image%20%28168%29.png)
 
 ### Advanced Block
 

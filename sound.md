@@ -20,7 +20,7 @@ Pause a selected audio file that is currently playing.
 
 Resume a selected audio file that has been previously paused.
 
-![](.gitbook/assets/image%20%28166%29.png)
+![](.gitbook/assets/image%20%28169%29.png)
 
 ## Stop
 
@@ -39,13 +39,13 @@ Returns **false** otherwise.
 
 Records for the specified amount of seconds, then returns the recorded audio.
 
-![](.gitbook/assets/image%20%28172%29.png)
+![](.gitbook/assets/image%20%28175%29.png)
 
 ## Untimed Recording
 
 The **start recording** block begins a recording.
 
-![](.gitbook/assets/image%20%28171%29.png)
+![](.gitbook/assets/image%20%28174%29.png)
 
 The **sound file from stopped recording** block will stop the recording initiated by the **start recording** block, and return the recorded sound file.
 

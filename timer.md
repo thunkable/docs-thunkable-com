@@ -73,7 +73,7 @@ Set interval of Timer in milliseconds.
 
 #### Get Interval of Timer
 
-![](.gitbook/assets/image%20%28167%29.png)
+![](.gitbook/assets/image%20%28170%29.png)
 
 Returns interval of Timer in milliseconds.
 

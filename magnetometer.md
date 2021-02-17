@@ -27,7 +27,7 @@ You will see a settings panel where you can set:
 
 You can either confirm your choices and create the Magnetometer, or delete the Magnetometer.
 
-![](.gitbook/assets/image%20%28174%29.png)
+![](.gitbook/assets/image%20%28177%29.png)
 
 ##  Change Settings of Magnetometer <a id="change-settings-of-magnetometer"></a>
 
@@ -65,7 +65,7 @@ Returns flux density, in the x direction, expressed in $$\mu T$$
 
 #### Call Y
 
-![](.gitbook/assets/image%20%28170%29.png)
+![](.gitbook/assets/image%20%28173%29.png)
 
 Returns flux density, in the y  direction, expressed in $$\mu T$$
 
@@ -77,7 +77,7 @@ Returns flux density, in the x direction, expressed in $$\mu T$$
 
 #### Call Heading
 
-![](.gitbook/assets/image%20%28164%29.png)
+![](.gitbook/assets/image%20%28166%29.png)
 
 Returns a value between 0 and 360 which denotes the user's direction relative to the Earth's geographic North Pole
 
