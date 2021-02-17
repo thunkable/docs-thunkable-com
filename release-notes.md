@@ -275,7 +275,7 @@ Platform updates
 Platform updates
 
 {% hint style="success" %}
-Thunkable has launched the [Public Gallery](projects/public-gallery.md), a public collection apps for anyone to preview, download or remix.
+Thunkable has launched the [Public Gallery](public-gallery.md), a public collection apps for anyone to preview, download or remix.
 
 All new apps will be public by default and included in the Public Gallery.
 
