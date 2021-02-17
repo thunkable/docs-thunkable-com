@@ -1,11 +1,17 @@
 # Translator by Yandex
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/lOmoqqLbDeI" %}
+
+## Overview
+
 * [Set up](translator.md#set-up)
 * [Translate](translator.md#translate)
 
-## Set up
+## Getting Started
 
-There is no set-up required since Thunkable provides its own key to access the Yandex service. If you do not want to depend on Thunkable's default key, you can also use your own free API key from Yandex
+There is no set-up required since Thunkable provides its own key to access the Yandex service. If you do not want to depend on Thunkable's default key, you can also get an API key from Yandex and use it with the component.
 
 | Property | Description |
 | :--- | :--- |

@@ -1,4 +1,4 @@
-# Bugs and Feature Requests
+# 📝 Bugs and Feature Requests
 
 {% hint style="info" %}
 Bugs are things on our platform that don't work as expected. Feature requests are new functionality that you will like to see added in the near future.

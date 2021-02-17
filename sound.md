@@ -1,5 +1,5 @@
 ---
-description: The sound component does exactly that. It plays a sound.
+description: The sound component plays a designated sound.
 ---
 
 # Sound
@@ -7,7 +7,7 @@ description: The sound component does exactly that. It plays a sound.
 * [Set Sound source](sound.md#set-sound-source)
 * [Play a sound](sound.md#play-a-sound)
 
-## Set Sound source
+## Set Sound Source
 
 To play a sound, you need to upload it to the files section on Thunkable.
 
@@ -15,7 +15,7 @@ To play a sound, you need to upload it to the files section on Thunkable.
 | :--- | :--- |
 | Source | The name of the sound file e.g. `shake-it-off.mp3` or a link to the sound file; the Sound component accepts .mp3 and .wav files but does not accept .ogg files |
 
-## Play a sound
+## Play a Sound
 
 ![](.gitbook/assets/sound-fig-1.png)
 
@@ -26,5 +26,5 @@ To play a sound, you need to upload it to the files section on Thunkable.
 | Resumes | Resumes playing the sound after a pause |
 | Stop | Stops playing the sound |
 | OnError | Triggers an event if there is an error playing the sound file |
-| Volume | The volume of the sound |
+| Volume | The volume of the sound between 0 and 100 |
 

@@ -13,7 +13,7 @@ A switch is a component that has two settings, true and false. You can get your 
 
 ![](.gitbook/assets/switch-fig-1.gif)
 
-## Set up
+## Getting Started
 
 To enable the Switch, you'll have to use the block below to set the Switch `value` to the `newValue` when you turn on and off the switch.
 

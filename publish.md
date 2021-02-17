@@ -1,4 +1,4 @@
-# Publish
+# 📱 Publish
 
 Since Thunkable's cross platform ✕ allows creators to build one app that works on both Android and iOS devices, most creators who want to distribute and monetize their app with larger audiences will choose to publish in both the App and Play Stores.
 
@@ -49,3 +49,10 @@ The App Store review is typically more rigorous and consequently more time-inten
     </tr>
   </tbody>
 </table>
+
+You may need to create screenshots in different sizes for your app listing. You can learn how to do that here: [Generate Screenshots](generate-screenshots.md).
+
+{% page-ref page="publish-to-app-store-ios.md" %}
+
+{% page-ref page="publish-to-play-store-android.md" %}
+

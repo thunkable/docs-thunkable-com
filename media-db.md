@@ -7,7 +7,7 @@ No set up is required but creating your free Cloudinary account is highly recomm
 * [Set up](media-db.md#set-up)
 * [Upload media](media-db.md#upload-media)
 
-## Set up
+## Getting Started
 
 No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
 
@@ -23,11 +23,28 @@ To connect your Cloudinary cloud to Thunkable, simply retrieve the following fie
 
 ![](.gitbook/assets/media-db-cloudinary-fig-2.png)
 
-## Upload media
+## Upload Media
 
-![](.gitbook/assets/media-db-cloudinary-fig-3.png)
+You can upload any media file to your Cloudinary DB.
 
-| Event | Description |
-| :--- | :--- |
-| Upload \(`media`\) | Uploads the image to the Cloudinary cloud and returns a `mediaURL` if successful |
+![Example of getting Cloudinary URL for a photo and saving it as a cloud variable](.gitbook/assets/uploadphoto.png)
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Event</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Upload (<code>media</code>)</td>
+      <td style="text-align:left">
+        <p>Uploads the image to the Cloudinary cloud. Returns a <code>mediaURL</code> if
+          successful.</p>
+        <p>Else returns <code>error</code>.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 

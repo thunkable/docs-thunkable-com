@@ -1,7 +1,7 @@
-# Download
+# 📥 Download
 
 {% hint style="info" %}
-Before you download, we recommend first [adding an App Icon and Name](app-icon-+-name.md) to your app
+Before you download, we recommend first [adding an App Icon and Name](projects/settings.md) to your app
 {% endhint %}
 
 * [Download limits](download.md#download-limits)
@@ -12,12 +12,11 @@ Before you download, we recommend first [adding an App Icon and Name](app-icon-+
 
 Due to special circumstances from Apple, there is a limit of one downloaded app per phone on iOS. Download wait times will also be a bit longer.
 
+When there is a queue of iOS apps waiting to be built, [PRO](https://thunkable.com/#/pricing) creators will be given priority in the queue.
+
 |  | Android | iOS |
 | :--- | :--- | :--- |
 | Download app limit | No limit | One app per phone |
-| Download time | Up to a few minutes | Typically under 20 min |
-
-## Download and install Android app
 
 ### Select Download Android app
 
@@ -67,9 +66,20 @@ Common issues
 
 * You uploaded an icon that has the same name as an existing asset that you have uploaded
 * Your app icon is not an image file
+* Your app icon contains transparent pixels. Apple does not allow you to have any icons with any transparent colors
 * We are having trouble with our build servers. Please try again in 30 minutes or chat with us if you are still having problems
+* App \(Bundle\) ID. Your App \(Bundle\) ID is a series of short strings of text that are separated by periods, such as **com.thunkable.creator.app**. These string of text must i\) be lowercase, ii\) begin with a letter.
+  * Examples of App \(Bundle\) IDs that can cause errors: com.thunkable.creator.1app, Com.Thunkable.Creator.APP
+* Asset names. We recommend that asset names **only** contain Roman alphabet characters with no accents, and numbers.
+  * Examples of asset names that could cause errors: image\(1\).jpg, imãge.jpg
+  * Examples of asset names that won't cause errors: image1.jpg, image.jpg
 
 **You cannot install your app and get the message "Cannot connect to storage.googleapis.com"**
 
-* You have a special character like "&" in your [App Name](app-icon-+-name.md#app-name)
+* You have a special character like "&" in your [App Name](projects/settings.md#app-name)
+
+**When you install your app on Android, you see the message "There was a problem parsing the Package"**
+
+* This is caused by your package name, also known in your project as your App \(Bundle\) ID. Your App \(Bundle\) ID is a series of short strings of text that are separated by periods, such as **com.thunkable.creator.app**. These string of text must i\) be lowercase, ii\) begin with a letter.
+  * Examples of App \(Bundle\) IDs that can cause errors: com.thunkable.creator.1app, Com.Thunkable.Creator.APP
 

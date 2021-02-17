@@ -5,7 +5,7 @@ The Speech Recognizer component can translate a full phrase or in real-time as a
 * [Translate a full phrase](speech-recognizer.md#recognize-a-full-phrase)
 * [Translate in real-time](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/Recognize%20in%20real-time/README.md)
 
-## Translate a full phrase
+## Translate a Full Phrase
 
 ![](.gitbook/assets/speech-recognizer-fig-1.png)
 
@@ -13,7 +13,7 @@ The Speech Recognizer component can translate a full phrase or in real-time as a
 | :--- | :--- |
 | Listen \(`speech`\) | Returns a text `value` after a full phrase has been spoken. The Speech Recognizer stops listening after it stops detecting any sound. |
 
-## Translate in real-time
+## Translate in Real-time
 
 ![](.gitbook/assets/speech-recognizer-fig-2.png)
 

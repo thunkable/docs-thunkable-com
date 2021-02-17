@@ -16,7 +16,7 @@ Sharing is caring and the Share component enables users to use the default apps 
 * [Send an email](share.md#send-an-email)
 * [Share a text or image](share.md#share-a-message)
 
-## Make a phone call
+## Make a Phone Call
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits.png)
 
@@ -26,7 +26,7 @@ Sharing is caring and the Share component enables users to use the default apps 
 | :--- | :--- |
 | Call Phone \(`phone number`\) | Opens default Phone app to make a call to a specified `phone number` with one add'l click; does not make phone call automatically for security and safety reasons |
 
-## Send a text
+## Send a Text
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits-90.png)
 
@@ -46,11 +46,15 @@ Sharing is caring and the Share component enables users to use the default apps 
 | :--- | :--- |
 | Send Email \(`to email`, `subject`,`message`\) | Opens default email app to send an email`message` to a specified `to email`  with one add'l click; does not send email automatically for security and safety reasons |
 
-## Share a text or image
+{% hint style="info" %}
+You can use HTML formatting to customize the emails you send with the Share component \(iOS only\)
+{% endhint %}
+
+## Share a Text or Image
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits-92.png)
 
-### Share a text
+### Share a Text
 
 ![](.gitbook/assets/share-component-fig-2%20%281%29.png)
 
@@ -58,7 +62,7 @@ Sharing is caring and the Share component enables users to use the default apps 
 | :--- | :--- |
 | Share Message \(`message`\) | Shares text via a user's choice of pre-installed communications app |
 
-### Share an image
+### Share an Image
 
 ![](.gitbook/assets/share-component-fig-3%20%281%29.png)
 

@@ -1,4 +1,4 @@
-# Intro to Sizing
+# 🖼️ Intro to Sizing
 
 For the app developer today, deciding what mobile device to design for is challenging. On Android alone, there are thousands of different devices that are in popular use today. On iOS, there are still 8 different iPhone sizes and 4 different iPad sizes.
 
@@ -6,14 +6,14 @@ By sizing your components optimally, you can support as many screen sizes and re
 
 ## Understanding the four sizing options
 
-The following properties are available to all visible components in the `Height` and `Width` properties
+The following properties are available to all visible components in the `Height` and `Width` properties. In these definitions, a **parent component** is a Screen, Row or Column that contains the component. 
 
 | Property | Description |
 | :--- | :--- |
-| `Relative size` | Sets the size as a percent of the Screen |
+| `Relative size` | Sets the size as a percent of the **parent component** |
 | `Absolute size` | Sets the size in pixels. The screen size of the Phone Previewer in the Designer is by default set to 500 px by 280 px but that may not reflect the size of your phone |
-| `Fit contents` | Sizes an element to the contents |
-| `Fill container` | Sizes an element to fill the Screen, Row or Column that it is within |
+| `Fit contents` | Sets the height/width of the element to the height/width of its contents |
+| `Fill container` | Sizes an element to fill its **parent component** |
 
 ## Use relative size for almost everything
 
@@ -34,7 +34,7 @@ Image with fixed dimensions and resolutions can be especially difficult to size.
 2. Set the height and width in `relative size`
 3. Set the resize mode property to either `cover` or `contain` \(see below\). This will autosize your image even if the dimensions of the image change
 
-![](.gitbook/assets/image%20%28113%29.png)
+![](.gitbook/assets/image%20%28121%29.png)
 
 ### Use Fit Contents for the height of Labels and Text Inputs
 
@@ -46,9 +46,9 @@ To ensure that the text is not cut off on the screen, in most cases we recommend
 
 Despite the beauty of relative size, there are a few cases where setting elements in absolute size is recommended or required
 
-### Use absolute size for Scrollable Screens
+### Use absolute size for Scrollable Screens and Column
 
-Since a Scrollable Screen has a height that is greater than the size of the Screen, the height of the elements must be set in `Absolute size`.
+Since a Scrollable Screen has a height that is greater than the size of the Screen, the height of the elements must be set to `Absolute size` or `fit contents.` You cannot use relative sizing or 'fill container' for components in a scrollable Screen or Column.
 
-> You can see an [example of a Scrollable Screen](intro-to-sizing.md) in the Design Templates
+> You can see an [example of a Scrollable Screen](sample-apps.md#beaver-bingo-1) in the Design Templates
 

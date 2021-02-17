@@ -14,7 +14,7 @@ description: >-
 
 ![](.gitbook/assets/list-viewer-fig-1.png)
 
-## Add items to a List Viewer
+## Add Items to a List Viewer
 
 We recommend adding a short list of items within the app itself as the Screen starts
 
@@ -28,7 +28,7 @@ For longer lists, we recommend using the [Spreadsheet](spreadsheet.md) component
 | :--- | :--- |
 | Text Items | Default \(`none`\); items must be in list format |
 
-## Select item from a List Viewer
+## Select Item from a List Viewer
 
 ![](.gitbook/assets/list-viewer-fig-4.png)
 
@@ -49,7 +49,7 @@ You can customize the List Viewer with the following properties:
   * **Radius:** Enter how round you want the edges of the border for the List Viewer to be
 * **Background Colour \(Advanced\):** Sets the background color of the List Viewer
 
-## Edit the ListViewer height
+## Edit the ListViewer Height
 
 A List Viewer automatically fill 100% of the Screen width
 
@@ -62,7 +62,7 @@ You can set how tall the List Viewer is using the height property.
 * **Relative size -** The List Viewer fills the specified percentage of the screen
 * **Absolute size -** Sizes the List Viewer to a specified number of pixels
 
-## Add spacing
+## Add Spacing
 
 You change the spacing and positioning of the List Viewer with the Margin and Padding properties.
 

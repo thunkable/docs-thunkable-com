@@ -2,15 +2,17 @@
 
 Alerts are useful components for displaying important messages while users are in the app itself
 
-![Popular two-button alerts for Android and iOS](.gitbook/assets/thunkable-docs-exhibits-14%20%281%29.png)
+![Demonstration of how an Alert looks on Android, iOS and Web](.gitbook/assets/alertdemo.jpg)
 
-## One button alert
+
+
+## One Button Alert
 
 A one button alert, also known as a notification, displays a message and one button to confirm user has viewed the message
 
 ![](.gitbook/assets/thunkable-docs-exhibits-15.png)
 
-To set one up, simply fill in the following `simple` properties. The Cancel Button Text only needs to be filled out for a two-button alert. You can use blocks to start an event when
+To set up an alert, simply fill in the following `simple` properties. The Cancel Button Text only needs to be filled out for a two-button alert. You can use blocks to start an event when
 
 | Property | Description |
 | :--- | :--- |
@@ -38,11 +40,21 @@ If you want to start an event from a confirm button, you will want to add the bl
 
 ![](.gitbook/assets/screen-shot-2018-06-26-at-3.56.11-pm.png)
 
-## Alert with three or more buttons
+## Button List: Alert with three or more buttons
 
-Using the `Advanced` properties, it is possible to add buttons to an alert for more sophisticated use cases
+It is possible to add buttons to an alert for more sophisticated use cases.  
+This can be done in the `Advanced` properties of the Alert in the Design tab.  
+It can also be done using the `set Button List to` block by creating a [list](lists.md) of [objects](objects.md).
 
-![A three button alert with ](.gitbook/assets/thunkable-docs-exhibits-16.png)
+On iOS, the Alert can show more than 3 Buttons.  
+On Android, the Alert can show up to 3 buttons. If more than 3 buttons are specified, the first 3 will be shown.   
+
+
+![Example of defining Button List in the Design tab](.gitbook/assets/screen-shot-2020-07-01-at-11.25.22-am.png)
+
+![Example of defining Button List with blocks ](.gitbook/assets/buttonlistblocks.png)
+
+![A three button alert displayed on Android and iOS devices](.gitbook/assets/thunkable-docs-exhibits-16.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -51,7 +63,12 @@ Using the `Advanced` properties, it is possible to add buttons to an alert for m
 | Text `Advanced` | The text of the button |
 | Style `Advanced` | The style of the button; `ok` is a confirm button, `cancel` is a cancel button and `destructive` is a confirm button with text in red \(iOS only\) |
 
-If you want to start an event from a confirm button, you will want to add the blocks below:
+The 'showButtonList' block will return an output called 'buttonPressed'.  
+This will return the position of the Button in your Button List.  
+You can take some action based on which button was pressed.
 
-![](.gitbook/assets/screen-shot-2018-06-26-at-3.56.16-pm.png)
+![](.gitbook/assets/buttonpressed.png)
+
+Note: the Buttons may appear in a different order when testing the app on a device.   
+The number that ‘buttonPressed’ returns is the order that the Buttons are added in the app project.
 

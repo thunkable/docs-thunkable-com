@@ -7,11 +7,11 @@
 * [Modify list](lists.md#modify-list)
 * [Shuffle list](lists.md#shuffle-list)
 
-## Create a list
+## Create a List
 
 You can create a list of variable lengths with the blocks below
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 ![](.gitbook/assets/blocks-lists-fig-3.png)
 
@@ -19,7 +19,7 @@ This block lets you create a list from text and even lets you set delimiters i.e
 
 ![](.gitbook/assets/blocks-lists-fig-8.png)
 
-## Sort list
+## Sort List
 
 If you are importing a list from a Spreadsheet or other data source, it may be helpful to sort it in your app. You can sort a list alphabetically or numerically, ascending or descending
 
@@ -29,7 +29,7 @@ If you are importing a list from a Spreadsheet or other data source, it may be h
 | :--- |
 
 
-## Select from a list
+## Select from a List
 
 Items in a list have an index number, the first item is 1, second is 2 and so on. Not only can you `select` an item from a list by number from the `front` but also from the `back`, the `first`, the `last` and also a `random` item. You can but `remove` it after you have selected it
 
@@ -39,7 +39,7 @@ Items in a list have an index number, the first item is 1, second is 2 and so on
 | :--- | :--- |
 
 
-## Analyze list
+## Analyze List
 
 The following blocks analyze a list in different ways
 
@@ -47,13 +47,13 @@ The following blocks analyze a list in different ways
 
 ![](.gitbook/assets/blocks-lists-fig-1.png)![](.gitbook/assets/blocks-lists-fig-7.png)
 
-## Modify list
+## Modify List
 
 You can change an item in your list with the block below
 
 ![](.gitbook/assets/blocks-lists-fig-6.png)
 
-## Shuffle list
+## Shuffle List
 
 Get a copy of a list with the items shuffled in a random order.
 

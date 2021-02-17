@@ -1,6 +1,6 @@
 # Logic
 
-## Statement blocks
+## Statement Blocks
 
 [If `then`, do `that`](control.md#if-this-do-that) blocks are often paired with statement blocks that test whether a condition is met
 
@@ -8,7 +8,7 @@
 
 ![There are additional statement options available when you select the dropdown](.gitbook/assets/docs-2.png)
 
-## Value blocks
+## Value Blocks
 
 Value blocks can go into the sockets of the statement blocks to define the conditions that are being tested.
 

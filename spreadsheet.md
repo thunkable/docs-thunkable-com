@@ -1,4 +1,12 @@
-# Spreadsheet by Airtable
+# Airtable
+
+## Video Tutorial
+
+{% embed url="https://youtu.be/2fVRne8drfQ" %}
+
+
+
+## Overview
 
 Airtable is a service that looks like a spreadsheet but actually acts like a database so it can do database-like things like store attachments i.e. images in your spreadsheets \(and not just text\) and link records between spreadsheets.
 
@@ -7,15 +15,15 @@ We like Airtable because set-up is relatively a breeze for a spreadsheet
 * [Set up](spreadsheet.md#set-up)
 * [Getting, uploading, updating and deleting data](spreadsheet.md#getting-uploading-updating-and-deleting-data-in-a-spreadsheet)
 
-## Set up
+## Getting Started
 
-### Create your [free Airtable](https://airtable.com/) spreadsheet and account
+### Create your [free Airtable](https://airtable.com/) base and account
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-1.png)
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-2.png)
 
-### Connect your Airtable spreadsheet with Thunkable
+### Connect Your Airtable Base with Thunkable
 
 There are four properties that you need to retrieve from Airtable to connect it with Thunkable: `API key`, `Base ID`, `Table Name` and `View Name`
 
@@ -33,11 +41,11 @@ To retrieve the API key, you'll have to navigate to the Account page and generat
 
 `Base ID`
 
-To retrieve the Base ID, you'll actually have go to the [Airtable API documentation](https://airtable.com/api) page and select your spreadsheet. You'll then have to select the Node.js tab of the code editor and find the Base ID in the code as shown below
+To retrieve the Base ID, navigate to the [Airtable API documentation](https://airtable.com/api) page and select your spreadsheet. You will see the Base ID in the 'Introduction' section of this page.
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-7.png)
 
-![](.gitbook/assets/spreadsheet-airtable-fig-8%20%281%29.png)
+![](.gitbook/assets/airtablebaseid.jpg)
 
 `Table Name` and `View Name`
 
@@ -45,9 +53,9 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-9.png)
 
-## Getting, uploading, updating and deleting data
+## Getting, Uploading, Updating, and Deleting data
 
-### Getting data
+### Getting Data
 
 #### Getting items for a ListView from an Airtable column
 
@@ -65,7 +73,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | Get All Rows | Returns `rows` as an object |
 | Get Selected Rows \(`startingRowNumber`, `numRows`\) | Returns `rows` as an object based on a specified `startingRowNumber` and `numRows` |
 
-### Uploading and updating data
+### Uploading and Updating Data
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-14.png)
 
@@ -82,7 +90,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 | Replace Row Num \(`rowObject`\) | Replaces a row based on a `rowObject` |
 | Replace Row \(`rowNum`, `rowObject`\) | Replaces a row based on a `rowObject` and a `rowNum` |
 
-### Deleting data
+### Deleting Data
 
 | Event | Description |
 | :--- | :--- |

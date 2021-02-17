@@ -4,6 +4,11 @@
 
 Bluetooth Low Energy, or BLE, is used to wirelessly connect two devices to one another. The BLE component allows you to find and connect to BLE devices and to communicate directly with them.
 
+{% hint style="info" %}
+BLE functionality can't be tested with the [Thunkable Live](https://docs.thunkable.com/get-started/live-test) app on iOS.   
+To test the BLE functionality in your app on iOS, please [download](https://docs.thunkable.com/download#download-and-install-ios-app) your app.
+{% endhint %}
+
 ## Functions
 
 Version 1 of the BLE component in Thunkable ✕ contains 5 functions, each of which are documented in greater detail below.

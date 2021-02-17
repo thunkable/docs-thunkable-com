@@ -3,15 +3,15 @@
 * [Set up](timer.md#set-up)
 * [Start an event with a Timer](timer.md#start-an-event-with-a-timer)
 
-## Set up
+## Getting Started
 
-### Determine interval
+### Determine Interval
 
 | Property | Enabled |
 | :--- | :--- |
 | Interval \(milliseconds\) | Default \(`3000`\); Timer interval is in milliseconds |
 
-### Determine how often you want the Timer to trigger an event
+### Determine How Often You Want the Timer to trigger an Event
 
 The Timer fires only once by default but you can set it to fire continuously by enabling a loop
 
@@ -26,7 +26,7 @@ The Timer fires only once by default but you can set it to fire continuously by 
 
 If 'enabled' is set to `true`, the Timer will trigger on its own when the app starts. If you want to start the timer at a later point in your app based on another event, you can set 'enabled' is set to `true`
 
-## Start an event with a Timer
+## Start an Event with a Timer
 
 You can start an event--such as opening a new Screen--when the Timer fires based on its given `interval`
 
