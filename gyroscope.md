@@ -6,15 +6,46 @@ The gyroscope is capable of measuring how quickly the phone is being turned. It 
 
 ![The x, y and z axes of a standard smartphone](.gitbook/assets/screenshot-2019-05-18-at-15.27.06.png)
 
+## Adding a Gyroscope to your app
 
+To add a Gyroscope to your app:
 
-## Events
+1. Go to the Blocks tab of your project
+2. Find the Sensors drawer of blocks and click on the ⊕ symbol to add a Sensor to your app
+3. Select Gyroscope from the menu that pops up
+
+![](.gitbook/assets/sensors.png)
+
+![](.gitbook/assets/sensor-options.png)
+
+You will see a settings panel where you can set:
+
+* The **Name** of the Gyroscope
+* Whether the Gyroscope is **Enabled**
+
+You can either confirm your choices and create the Gyroscope, or delete the Gyroscope.
+
+![](.gitbook/assets/image%20%28163%29.png)
+
+## Change Settings of Gyroscope
+
+You will see the sensors you have added to your app underneath the Sensors section of your blocks.
+
+![](.gitbook/assets/showallsensors.png)
+
+If you click on the ⚙ icon next to your Gyroscope, you will be able to edit its settings as seen in the panels above. You can click on your Gyroscope's name to access its drawer of blocks.
+
+## Blocks
+
+### Events
+
+#### when Gyroscope Changes
 
 Whenever the phone is turned, or rotated, the `Changes` event will fire. 
 
 ![](.gitbook/assets/gyro_changes.png)
 
-## Properties
+### Properties
 
 By default the gyroscope sensor is turned on, but the `enabled`property can be used to read and write new values to the gyroscope, thus allowing you to turn it on or off.
 

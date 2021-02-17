@@ -32,6 +32,12 @@ To upload an app icon click on the Settings button in the side bar. Then click t
 Avoid using the character "&" in your app name; at the moment, it prevents your app from being installed on your device
 {% endhint %}
 
+## API Keys
+
+If you use blocks for [Translating](../speech.md#translation), [Image Recognition](../camera.md#image-recognition) or [Uploading media to the cloud](../camera.md#upload-image-to-the-cloud), or use a Firebase database to support your [cloud variables](../variables.md#cloud-variables) or [Signing In](../sign-in-1.md), you can enter personal API keys for these components in the project settings. 
+
+![](../.gitbook/assets/cloudinary-settings.png)
+
 ## Best Practices
 
 | App Icon | App Name |

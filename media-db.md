@@ -17,7 +17,7 @@ No set up is required but creating your free Cloudinary account is highly recomm
 
 ### Connect your Cloudinary cloud to Thunkable
 
-To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret`
+To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret.` You can add these details to your app in the [Project Settings panel](projects/settings.md#api-keys), which you can access by clicking on your app icon.
 
 ![](.gitbook/assets/media-db-cloudinary-fig-4.png)
 

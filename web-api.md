@@ -4,19 +4,40 @@ Great data is an essential part of many apps built today and the Web API compone
 
 To see what public APIs are available, we recommend [this list from Todd Motto](https://github.com/toddmotto/public-apis)
 
-## Getting Started
+## Adding a Web API to your app
+
+To add a Web API component to your app:
+
+* Go to your Blocks tab
+* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
+* Click the ⊕ icon next to the `Web APIs` drawer
+
+![](.gitbook/assets/advanced-components%20%281%29.png)
+
+You will see a dialog with options to enter certain properties for your Web API component. Click Submit to create the Web API component, or Delete to dismiss the dialog without creating the component.
+
+![](.gitbook/assets/web-api-contents.png)
 
 For most public APIs, you'll likely have to first create an account to get your own unique API key. This is usually to prevent individuals from making too many requests or to charge developers when they exceed certain free limits.
 
 Once you have the API key, you'll need to enter the unique URL into the property field of the Web API component
 
-| Property | Description |
-| :--- | :--- |
-| URL | The url for the web request which usually contains an API key |
-| Query Parameter | Specifies some parameters of the data |
-| Headers | Specifies some meta-data, eg: usernames and passwords |
+| Property | Description | Required? |
+| :--- | :--- | :--- |
+| URL | The url for the web request which usually contains an API key | Required |
+| Query Parameter | Specifies some parameters of the data | Optional |
+| Body | Body of your API call | Optional |
+| Headers | Specifies some meta-data, eg: usernames and passwords | Optional |
 
-### Setting Query Parameters and Headers
+### Change properties of your Web API
+
+Once you have added at least one Web API component to your app, you will be able to view all of your Web API components under the `Web APIs` drawer in the Advanced section of the Blocks tab. 
+
+To edit the properties of a Web API component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click Delete to delete the component.
+
+![](.gitbook/assets/web-apis-blicks.png)
+
+## Setting Query Parameters and Headers
 
 Query parameters and headers can be set in the designer or in the blocks editor. In the example below you can add any property:value pair you want. You can add as many params to your app as you need, but each parameter has to be added one at a time. 
 

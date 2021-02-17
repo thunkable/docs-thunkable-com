@@ -49,7 +49,7 @@ Platform updates
 
 Component Updates
 
-* Improve performance of [Sensor](sensors.md) components
+* Improve performance of [Sensor]() components
 
 ## December 15, 2020
 
@@ -175,7 +175,7 @@ Component updates
 
 New components
 
-* [Audio Recorder](audio-recorder.md)
+* [Audio Recorder]()
 
 ## June 15, 2020
 
@@ -256,7 +256,7 @@ Platform
 
 Platform updates
 
-* [Web Preview](web-preview.md) \(Beta\) - see a web preview of your apps on the details page of your project and any project on the Thunkable gallery; some [components are not supported yet](web-preview.md#unsupported-components) and projects may appear differently than they do on your device
+* [Web Preview]() \(Beta\) - see a web preview of your apps on the details page of your project and any project on the Thunkable gallery; some [components are not supported yet]() and projects may appear differently than they do on your device
 
 ## Dec 19, 2019
 
@@ -739,7 +739,7 @@ Component updates
 
 New components
 
-* [Speech Recognizer](speech-recognizer.md) - uses artificial intelligence to recognize and translate spoken language into text in 14 different languages
+* [Speech Recognizer]() - uses artificial intelligence to recognize and translate spoken language into text in 14 different languages
 * [Share](share.md) - allows users to share text or post images using their favorite installed communication app from Slack and Facebook to iMessage and WhatsApp
 * [Switch](switch.md) - popular UI element to turn on and off a certain feature in an app, often used in settings pages
 
@@ -770,7 +770,7 @@ Platform updates
 
 Component updates
 
-* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](translator.md), [Text to Speech](text-to-speech.md) and [Assistant](assistant.md)
+* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](), [Text to Speech]() and [Assistant](assistant.md)
 * Transparent color now available as a color property across all visible components
 * Easy select and upload via Picture property for [Image]() component
 

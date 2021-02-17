@@ -77,19 +77,111 @@ The first banner ad will load when ready and will reload a new ad every minute.
 
 Interstitial ads are recommended after a user has completed a task in your app. We don't recommend showing an interstitial ad right after the app opens and the user has not spent any time in your app.
 
-To show an interstitial app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app
+To show an interstitial app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app.
+
+### Adding an Interstitial ad to your app
+
+To add an Interstitial ad to your app:
+
+1. Go to your Blocks tab 
+2. Click on the icon next to the Ads drawer of blocks
+3. Select **AdMob Interstitial**
+
+![](.gitbook/assets/add-ad.png)
+
+![](.gitbook/assets/ads-dialog.png)
+
+You will see a dialog where you can set:
+
+* The **Name** of the AdMob component
+* The **Ad Unit ID \(Android\)**
+* The **Ad Unit ID \(iOS\)**
+* Whether **Test Mode** is enabled for this ad component
+
+![](.gitbook/assets/admob-inter-dialog.png)
+
+### Interstitial Ad Blocks
+
+#### Events
+
+Use the **when Ad Open** and **when Ad Close** blocks to trigger events to happen when the interstitial ad opens or closes.
+
+![](.gitbook/assets/admob-inter-blocks-events.png)
+
+#### Actions
+
+Use the **Show Ad** block to show an interstitial ad in your app. If there is an error, the **error** block will catch and return it.
 
 ![](.gitbook/assets/screen-shot-2019-03-08-at-8.54.29-am.png)
 
+#### Properties
 
+Use these blocks to set and get the **Android Ad Unit ID** of your interstitial ad.
+
+![](.gitbook/assets/admob-inter-blocks-android-id.png)
+
+Use these blocks to set and get the **iOS Ad Unit ID** of your interstitial ad.
+
+![](.gitbook/assets/admob-inter-blocks-ios-id.png)
+
+Use these blocks to set and get the **Test Mode** status of your interstitial ad.
+
+![](.gitbook/assets/admob-inter-blocks-testmode.png)
 
 ## R**ewarded Video** Ad
 
 Rewarded video ads are recommended after a user has completed a heavy task in your app and would be willing to watch a long video to continue. 
 
-To show a rewarded video app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app. You'll then want to add a `Reward User` event to continue the app. 
+To show a rewarded video app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app. You'll then want to add a `Reward User` event to reward your user in the app. 
+
+### Adding a Rewarded Video ad to your app
+
+To add an Rewarded Video ad to your app:
+
+1. Go to your Blocks tab 
+2. Click on the icon next to the Ads drawer of blocks
+3. Select **AdMob Rewarded Video**
+
+![](.gitbook/assets/add-ad.png)
+
+![](.gitbook/assets/ads-dialog.png)
+
+You will see a dialog where you can set:
+
+* The **Name** of the AdMob component
+* The **Ad Unit ID \(Android\)**
+* The **Ad Unit ID \(iOS\)**
+* Whether **Test Mode** is enabled for this ad component
+
+![](.gitbook/assets/videoadsettings.png)
+
+### Rewarded Video Ad Blocks
+
+#### Events
+
+Use the **when Ad Open** and **when Ad Close** blocks to trigger events to happen when the interstitial ad opens or closes.
+
+![](.gitbook/assets/admob-video-blocks-events.png)
+
+#### Actions
+
+Use the **Show Ad** block to show the ad video, and the **Reward User** block to reward the user after displaying the video.
 
 ![](.gitbook/assets/screen-shot-2019-03-08-at-8.55.38-am.png)
+
+#### Properties
+
+Use these blocks to set and get the **Android Ad Unit ID** of your Rewarded Video Ad.
+
+![](.gitbook/assets/admob-video-blocks-android.png)
+
+Use these blocks to set and get the **iOS Ad Unit ID** of your Rewarded Video Ad.
+
+![](.gitbook/assets/admob-video-blocks-ios.png)
+
+Use these blocks to set and get the **Test Mode** status of your Rewarded Video Ad.
+
+![](.gitbook/assets/admob-video-blocks-testmode.png)
 
 ## Live Test <a id="live-test"></a>
 

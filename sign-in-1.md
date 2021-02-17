@@ -36,32 +36,51 @@ There are two properties that you need to retrieve from Firebase to connect it w
 
 ![](.gitbook/assets/firebase-fig-5.png)
 
+## Using the Sign In Component in your App
+
+Click on the Sign In drawer of blocks to access the Sign In blocks.
+
+![](.gitbook/assets/sign-in%20%281%29.png)
+
 ## Sign up
 
-The first step for users is to Sign Up with their email address and a password. They will be sent an email to verify the address that they provided. A sample block that also saves login credentials locally with [stored variables](https://docs.thunkable.com/variables#app-stored-and-cloud-variables) is provided below:
+The first step for users is to Sign Up with their email address and a password. They will be sent an email to verify the address that they provided. 
 
-![](.gitbook/assets/docs_signup.png)
+![](.gitbook/assets/sign-in-blocks-signup.png)
 
 | Event | Description |
 | :--- | :--- |
 | Sign up \( `email`, `password)`\) | Signs up a user for a new account. Returns an `error` if sign up is not successful. A common `error` is "The email address is already in use by another account." |
 
+Here is an example of using this block:
+
+![](.gitbook/assets/sign-in-sign-up-example.png)
+
 ## Sign in
 
-Users who sign up will be sent an email to verify the email address they provided is valid. You can use the blocks below to check whether they have verified their email before they can proceed further
+This block will sign a user in and return their user ID.
 
-![](.gitbook/assets/signin.png)
+![](.gitbook/assets/sign-in-blocks-sign-in.png)
+
+You can use these blocks below to sign a user in:
+
+![](.gitbook/assets/sign-in-example.png)
 
 When the user's email and password have been stored locally, the following blocks can be used to sign the user in with these details automatically.
 
-![](.gitbook/assets/docs_signin_saved.png)
+![](.gitbook/assets/automatic-sign-in.png)
 
-| Event | Description |
-| :--- | :--- |
-| Sign in \( `email`, `password`\) | Signs in an existing user. Returns an `error` if sign in is not successful, either because the email is not registered or the password is incorrect. You can also use the `isEmailVerified`output to limit user to sign in only if they have verified their email |
-| Sign out \( `email`\) | Signs out a user from an account, usually to sign in with a different account |
-| Reset password \( `email`\) | Sends an email to a user to reset their password |
-|  |  |
+## Sign Out
+
+Signs the user out.
+
+![](.gitbook/assets/sign-in-blocks-sign-out.png)
+
+## Reset Password
+
+Send an email to the specified email address to reset their password
+
+![](.gitbook/assets/sign-in-blocks-reset-password.png)
 
 ## Manage User Access
 

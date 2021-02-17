@@ -47,19 +47,11 @@ Components are organized into 10 different categories. For a more detailed descr
 
 {% page-ref page="layout.md" %}
 
-{% page-ref page="voice.md" %}
-
 {% page-ref page="image.md" %}
 
 {% page-ref page="data.md" %}
 
 {% page-ref page="location.md" %}
-
-{% page-ref page="sensors.md" %}
-
-{% page-ref page="social.md" %}
-
-{% page-ref page="sign-in.md" %}
 
 {% page-ref page="monetization.md" %}
 

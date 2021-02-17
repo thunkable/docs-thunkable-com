@@ -4,7 +4,7 @@ description: The image component lets you display pictures in your app.
 
 # Image
 
-The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](photo-library.md), [Image Recognizer](image-recognizer.md) and [Media DB](media-db.md)
+The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](), [Image Recognizer]() and [Media DB](media-db.md)
 
 * [Set Image](image-1.md#set-image)
 * [Edit Image size](image-1.md#edit-image-size)

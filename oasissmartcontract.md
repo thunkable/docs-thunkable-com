@@ -8,6 +8,28 @@ description: Use this component to call your own smart contract on Oasis
 From sharing medical records, to analyzing personal financial information, to training machine learning models, the Oasis platform supports applications that use even the most sensitive data without compromising privacy or performance
 {% endhint %}
 
+## Add a Smart Contract component to Thunkable
+
+To add a Smart Contract component to your app:
+
+* Go to your Blocks tab
+* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
+* Click the ⊕ icon next to the `Smart Contracts` drawer
+
+![](.gitbook/assets/advanced-components%20%281%29.png)
+
+You will see a dialog with options to enter certain properties for your Smart Contract component. Click Submit to create the Smart Contract component, or Delete to dismiss the dialog without creating the component.
+
+![](.gitbook/assets/add-smart-contract.png)
+
+### Editing your Smart Contract's properties
+
+Once you have added at least one Smart Contract component to your app, you will be able to view all of your Assistant components under the `Smart Contracts` drawer on the Advanced section of the Blocks tab. 
+
+To edit the properties of a Smart Contract component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click Delete to delete the component.
+
+![](.gitbook/assets/smart-contracts-blocks.png)
+
 ## **Method Block**
 
 ![](.gitbook/assets/image%20%2873%29.png)

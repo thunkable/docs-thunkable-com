@@ -10,6 +10,28 @@ description: >-
 From sharing medical records, to analyzing personal financial information, to training machine learning models, the Oasis platform supports applications that use even the most sensitive data without compromising privacy or performance
 {% endhint %}
 
+## Add a Blockchain Wallet component to Thunkable
+
+To add a Blockchain Wallet component to your app:
+
+* Go to your Blocks tab
+* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
+* Click the ⊕ icon next to the `Blockchain Wallets` drawer
+
+![](.gitbook/assets/advanced-components%20%281%29.png)
+
+You will see a dialog to create your Blockchain Wallet component. Click Submit to create the component, or Delete to dismiss the dialog without creating the component.
+
+![](.gitbook/assets/add-blockchain-wallet.png)
+
+### Editing your Blockchain Wallet's properties
+
+Once you have added at least one Blockchain Wallet component to your app, you will be able to view all of your Assistant components under the `Blockchain Wallets` drawer in the Advanced section of the Blocks tab. 
+
+![](.gitbook/assets/blockchain-wallet-blocks.png)
+
+To delete a Blockchain Wallet component, click on the ⚙ icon next to the component's name to bring up the properties dialog and click Delete to delete the component.
+
 ## **Get Account Address**
 
 ![](.gitbook/assets/image%20%2867%29.png)
