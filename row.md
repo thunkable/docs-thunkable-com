@@ -53,11 +53,13 @@ description: >-
       </td>
     </tr>
   </tbody>
-</table>## Space the elements horizontally
+</table>
+
+## Space the elements horizontally
 
 The `Horizontal Alignment` property allows you to space elements in a Row horizontally
 
-![](.gitbook/assets/image%20%2858%29.png)
+![](.gitbook/assets/image%20%2862%29.png)
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-64.png)
 

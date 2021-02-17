@@ -22,7 +22,7 @@ To publish your app on Android, you'll need to add an `app icon`, a `name`, a `p
 
 ![](.gitbook/assets/ezgif.com-video-to-gif-31%20%281%29.gif)
 
-For recommendations on your `app icon` and `name`, [please see this guide](app-icon-+-name.md).
+For recommendations on your `app icon` and `name`, [please see this guide](projects/settings.md).
 
 Each Android app that is published to the Play Store has a unique `package name`. Currently, you can enter this in the App \(Bundle\) ID field.
 

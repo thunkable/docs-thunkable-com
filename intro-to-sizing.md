@@ -34,7 +34,7 @@ Image with fixed dimensions and resolutions can be especially difficult to size.
 2. Set the height and width in `relative size`
 3. Set the resize mode property to either `cover` or `contain` \(see below\). This will autosize your image even if the dimensions of the image change
 
-![](.gitbook/assets/image%20%28113%29.png)
+![](.gitbook/assets/image%20%28121%29.png)
 
 ### Use Fit Contents for the height of Labels and Text Inputs
 
@@ -50,5 +50,5 @@ Despite the beauty of relative size, there are a few cases where setting element
 
 Since a Scrollable Screen has a height that is greater than the size of the Screen, the height of the elements must be set in `Absolute size`.
 
-> You can see an [example of a Scrollable Screen](intro-to-sizing.md) in the Design Templates
+> You can see an [example of a Scrollable Screen](projects/sample-apps.md#beaver-bingo-1) in the Design Templates
 

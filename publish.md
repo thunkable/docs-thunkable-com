@@ -49,3 +49,8 @@ The App Store review is typically more rigorous and consequently more time-inten
     </tr>
   </tbody>
 </table>
+
+{% page-ref page="publish-to-app-store-ios.md" %}
+
+{% page-ref page="publish-to-play-store-android.md" %}
+
