@@ -12,37 +12,53 @@ Before you download, we recommend first [adding an App Icon and Name](projects/s
 
 Due to special circumstances from Apple, there is a limit of one downloaded app per phone on iOS. Download wait times will also be a bit longer.
 
-When there is a queue of iOS apps waiting to be built, [PRO](https://thunkable.com/#/pricing) creators will be given priority in the queue.
+iOS
 
-|  | Android | iOS |
+| Android | iOS |  |
 | :--- | :--- | :--- |
 | Download app limit | No limit | One app per phone |
 
-### Select Download Android app
+### Download Android app
 
-To download your Android app, select Download Android App and an .apk file will be generated on your desktop
+To download your Android app:
 
-![](.gitbook/assets/thunkable-documentation-exhibits-95%20%281%29.png)
+* select **Download** &gt; **Download Android** 
 
-### Keep your .apk file
+![](.gitbook/assets/screen-shot-2021-02-22-at-8.24.37-am.png)
 
-If you are using the latest version of Chrome you might see a notification that your app "_is not commonly downloaded and may be dangerous_". While some .apk files can potentially contain malicious software you are downloading an app that you have created yourself so there is no danger here. You can click on the "More Options" menu and choose the "Keep" option as highlighted below to complete your download.
+* Enter your email address in the pop-up window
 
-![](.gitbook/assets/screen-shot-2018-06-28-at-19.33.13.png)
+![](.gitbook/assets/screen-shot-2021-02-22-at-8.26.54-am.png)
 
-### To install, allow apps from Unknown sources
+You will be sent an email with a link to download your app.
 
+### Install Android App
+
+To install your Android app, you will need to go to **Settings** &gt; **Security** and allow apps to be installed from **Unknown Sources**. This will allow you to install apps from sources other than the Play Store.
+
+{% hint style="info" %}
 Anyone installing your app directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of apps from Unknown sources
+{% endhint %}
 
 ![](.gitbook/assets/download-fig-4.png)
 
 ## Download and install iOS app
 
-### Select Download iOS app and enter your email address
+### Download iOS app
 
-You will receive an email when your app is ready to download. This usually takes 15-20 minutes but can take up to an hour
 
-![](.gitbook/assets/downloadandroid.png)
+
+To download your Android app:
+
+* select **Download** &gt; **Download iOS** 
+
+![](.gitbook/assets/screen-shot-2021-02-22-at-8.29.13-am.png)
+
+* Enter your email address in the pop-up window
+
+![](.gitbook/assets/screen-shot-2021-02-22-at-8.29.23-am.png)
+
+You will be sent an email with a link to download your app.
 
 ### Click on the download link in your email
 
@@ -52,9 +68,15 @@ The link to download the app is only intended for your own use and will expire a
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-86.png)
 
-### To install, trust Thunkable on your device
+### Install iOS App
 
-On your first time downloading apps for iOS, you will need to open your `Settings` app, navigate to `General` and `Device Management` and then `Trust "Thunkable, Inc."` \(the business name of Thunkable\)
+You will need to trust Thunkable on your iOS device before installing your iOS apps that you have downloaded from Thunkable. You only need to do this once.
+
+To trust Thunkable on your device, you will need to open **Settings** &gt; **General** &gt; **Device Management** and click the button to **Trust "Thunkable, Inc."** 
+
+{% hint style="info" %}
+Anyone installing your app directly to iOS, instead of from the App Store or TestFlight, will need to trust Thunkable on their iOS device
+{% endhint %}
 
 ![](.gitbook/assets/assets_-lan5scxl2uqujuoqkjo_-lan5weceranwag7ig2g_-lan671msr8pjsfhbvj7_download-fig-3.png)
 
