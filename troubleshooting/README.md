@@ -65,7 +65,7 @@ Common issues
 **You see a blank / white screen when you live test \(even if there are items in your app\)**
 
 * If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
-* Your have unconnected blocks
+* You have unconnected blocks
 * You have an event triggered by a Screen.Start which may be causing the screen to crash
 * Your app and desktop may not be logged into the same account
 
