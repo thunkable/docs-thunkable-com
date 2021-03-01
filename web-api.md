@@ -32,7 +32,7 @@ You can find a working example of this in the sample app, [Weather](web-api.md).
 
 One of the most common output formats for APIs is JSON, short for Javascript Object Notation. The Open Weather Map API returns a JSON file like the one below.
 
-```text
+```json
 {
     "coord":{"lon":85.17,"lat":26.67},
     "weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],
