@@ -48,8 +48,6 @@
 * [Spreadsheet by Airtable](spreadsheet.md)
 * [Web API](web-api.md)
 * [Media DB by Cloudinary](media-db.md)
-* [Smart Contract by Oasis](oasissmartcontract.md)
-* [Blockchain Wallet by Oasis](oasisweb3.md)
 * [🌍 Location](location.md)
 * [Maps by Google and Apple](map.md)
 * [Location Sensor](location-sensor.md)

@@ -132,7 +132,7 @@ New Components
 
 New Components
 
-* [Blockchain Wallet](oasisweb3.md) and [Smart Contract](oasissmartcontract.md) by Oasis - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
+* [Blockchain Wallet]() and [Smart Contract]() by Oasis - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
 
 ## Apr 9, 2019
 
