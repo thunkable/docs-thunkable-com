@@ -95,8 +95,6 @@
 * [Web API](web-api.md)
 * [Bluetooth Low Energy](bluetooth-low-energy.md)
 * [Assistant by Dialogflow](assistant.md)
-* [Smart Contract by Oasis](oasissmartcontract.md)
-* [Blockchain Wallet by Oasis](oasisweb3.md)
 * [🖥️ App Services & Emulators](emulators.md)
 * [🔒 App Data Privacy](app-data-privacy.md)
 * [🔗 Blockchain & Data Privacy](blockchain.md)
