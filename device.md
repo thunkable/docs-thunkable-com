@@ -1,7 +1,5 @@
 # Device
 
-The Device blocks gather useful data from the device \(Android / iOS, online / offline, time and date\) as well as set the phone to vibrate.
-
 * [Vibrate device](device.md#vibrate-device)
 * [Get current time and date](device.md#get-current-time-and-date)
 * [Get Seconds since 1970](device.md#seconds-since-1970)
