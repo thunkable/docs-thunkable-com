@@ -81,6 +81,8 @@ When you know the name of the BLE device that you want to connect to you can use
 
 If you have a BLE device that is capable of sending data to another device then you will need to use the `Receive` function in your app in order to listen to, or receive, data coming from the BLE device.
 
+You need to be connected to another Bluetooth device in order to use this block.
+
 ![](.gitbook/assets/bluetooth_receive.png)
 
 | Parameter | Type | Description |
@@ -92,6 +94,8 @@ If you have a BLE device that is capable of sending data to another device then 
 ### Transmit
 
 Should you need to send data to a BLE device then you can use the `Transmit` function to send that information. 
+
+You need to be connected to another Bluetooth device in order to use this block.
 
 ![](.gitbook/assets/bluetooth_transmit.png)
 
