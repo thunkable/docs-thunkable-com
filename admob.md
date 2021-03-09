@@ -23,7 +23,7 @@ We highly recommend that you only add ads to your app after you have a large aud
 {% hint style="info" %}
 **AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
 
-All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://airtable.com/shr3qok3ARKXY7cBt). Once approved, apps can be downloaded and published without further review.
+All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ_Uon406Demqt_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform). Once approved, apps can be downloaded and published without further review.
 
 Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.
 
@@ -197,7 +197,7 @@ Only ![](.gitbook/assets/pro.png) ****members can download and publish apps with
 
 ### **Submit for Review**
 
-All apps with AdMob must be approved by the team at Thunkable \([**submit your app here**](https://airtable.com/shr3qok3ARKXY7cBt)\).  
+All apps with AdMob must be approved by the team at Thunkable \([**submit your app here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ_Uon406Demqt_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform)\).  
   
 Once approved, apps can be downloaded and published without further review.
 
