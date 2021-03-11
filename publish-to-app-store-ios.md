@@ -380,6 +380,65 @@ If your app is submitted successfully, it should appear under the Testflight tab
 
 ![If your app is sent successfully, you&apos;ll see a new build under the TestFlight tab in your App Store Connect dashboard. Testflight allows you to invite beta testers to your app before you release it in the App Store.](.gitbook/assets/thunkable-docs-exhibits-85.png)
 
+## App Privacy
+
+With the release of iOS 14 Apple has also brought out a significant number of privacy policy updates. You can read about the specific details of this policy on Apple's privacy website: [https://developer.apple.com/app-store/app-privacy-details/\#user-tracking](https://developer.apple.com/app-store/app-privacy-details/#user-tracking). 
+
+It is your responsibility, as an app publisher, to fully familiarise yourself with these policies and to ensure that your app is compliant with all relevant legislation in your region.
+
+### Bugsnag
+
+Thunkable uses [Bugsnag](https://docs.bugsnag.com/legal/privacy-policy/) to gather anonymous crash data in the event that an app built with Thunkable experiences a crash. While no personally identifiable information \(PII\) is gathered or shared with advertisers or advertising networks, you will still need to declare that your app uses Bugsnag at the time of publishing. 
+
+{% tabs %}
+{% tab title="1. App Privacy" %}
+In App Store Connect, click on “App Privacy” on the left hand side of the screen and click on the blue “Get Started” button.
+
+![](.gitbook/assets/image%20%28178%29.png)
+{% endtab %}
+
+{% tab title="2. Data Collection" %}
+Even if you don’t have any sign in, location, payment or advertising services in your app you will need to check **Yes** in the Data Collection modal.
+
+![](.gitbook/assets/image%20%28182%29.png)
+{% endtab %}
+
+{% tab title="3. Crash Data" %}
+Bugsnag is used to collect anonymous crash data so scroll down through all the options check the “Crash Data” option.
+
+If you are logging any other user data you will need to check the appropriate boxes there too, but is entirely your responsibility to make sure that you do this correctly for your own app.
+
+![](.gitbook/assets/image%20%28183%29.png)
+{% endtab %}
+
+{% tab title="4. Set Up Crash Data" %}
+Back in App Store Connect you will now need to add the reasons for collecting crash data. Click on the “Set Up Crash Data” link to begin this process.
+
+![](.gitbook/assets/image%20%28180%29.png)
+{% endtab %}
+
+{% tab title="5. Data Use" %}
+The data are used for App Functionality purposes - specifically to minimize crashes and improve performance.
+
+![](.gitbook/assets/image%20%28181%29.png)
+{% endtab %}
+
+{% tab title="6. User Identity" %}
+Since the data collected in anonymous, you can select “No” in this screen.
+{% endtab %}
+
+{% tab title="7. Tracking" %}
+Again, none of the data are personally identifiable or used for advertising purposes so you can select “No” again on this screen.
+{% endtab %}
+
+{% tab title="8. Preview" %}
+Back in App Store Connect you will see a preview of what this will look like in your app listing.  
+
+
+![](.gitbook/assets/image%20%28179%29.png)
+{% endtab %}
+{% endtabs %}
+
 ## Update Your App
 
 To update an existing App Store listing, follow the instructions on Apple's website [here](https://help.apple.com/app-store-connect/#/dev480217e79). For Step 6, _Upload your new build to App Store Connect,_ follow the instructions above to send your app to App Store Connect.
