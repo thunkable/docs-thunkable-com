@@ -8,6 +8,9 @@ Follow the** [**Community Thread**](https://community.thunkable.com/t/thunkable-
 Platform updates
 
 * Introduce a tool to convert snap-to-position projects to drag-and-drop projects
+* Update Component Tree and Properties Panel layout
+* Increase screen size on Design tab in Drag and Drop project UI
+* Introduce pan-to-scroll in Design tab of Drag and Drop UI 
 * Add the following to Drag and Drop UI
   * AdMob Banner
   * Switch
@@ -21,10 +24,32 @@ Component Updates
 * Fix behavior where blocks in '[when Screen Opens](screen.md#when-screen1-opens)' event block are triggered multiple times
 * Improve Video Player performance on web apps
 * Improve performance of 'when Screen Opens' block when Loading Icon present on the Screen
+* Improve performance of Text Input 'on Focus' block on web
+* Improve appearance of Labels in web apps published from Drag and Drop UI projects
+* Improve performance of Animations with 'on Click' event blocks
 
 New Components
 
 * In-app purchases
+
+## Mar 15, 2021
+
+Component Updates
+
+* Improve performance of Translator component on the web
+
+## Mar 1, 2021
+
+Platform Updates
+
+* Add security modal to prevent accidental deletion of projects. Modal includes warning that project keystore will be deleted.
+
+## Feb 22, 2021
+
+Platform updates
+
+* Improved performance of Thunkable Live app for iOS
+* Introduced [status page](https://status.thunkable.com/) for Thunkable
 
 ## February 3, 2021
 
