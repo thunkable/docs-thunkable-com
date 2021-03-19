@@ -52,6 +52,18 @@ Platform updates
 * Improved performance of Thunkable Live app for iOS
 * Introduced [status page](https://status.thunkable.com/) for Thunkable
 
+## Feb 15, 2021
+
+Platform Updates
+
+* Improve rendering of Screens in Design tab of Drag and Drop projects
+
+## Feb 8, 2021
+
+Component Updates
+
+* Added block [get device color scheme](device.md#get-device-color-scheme) to the [Device](device.md) drawer of blocks
+
 ## February 3, 2021
 
 Platform Updates
