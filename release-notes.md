@@ -27,6 +27,7 @@ Component Updates
 * Improve performance of Text Input 'on Focus' block on web
 * Improve appearance of Labels in web apps published from Drag and Drop UI projects
 * Improve performance of Animations with 'on Click' event blocks
+* Expand amount of data types supported by the Airtable Create Row block
 
 New Components
 
