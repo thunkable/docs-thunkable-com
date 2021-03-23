@@ -8,9 +8,8 @@ Follow the** [**Community Thread**](https://community.thunkable.com/t/thunkable-
 Platform updates
 
 * Introduce a tool to convert snap-to-position projects to drag-and-drop projects
-* Update Component Tree and Properties Panel layout
-* Increase screen size on Design tab in Drag and Drop project UI
 * Introduce pan-to-scroll in Design tab of Drag and Drop UI 
+* Add rounded bezels to Screens in Design tab of Drag and Drop UI
 * Add the following to Drag and Drop UI
   * AdMob Banner
   * Switch
@@ -28,10 +27,18 @@ Component Updates
 * Improve appearance of Labels in web apps published from Drag and Drop UI projects
 * Improve performance of Animations with 'on Click' event blocks
 * Expand amount of data types supported by the Airtable Create Row block
+* Add font size, font color and background color settings to List Viewer
 
 New Components
 
 * In-app purchases
+
+## Mar 18, 2021
+
+Platform Updates
+
+* Update Component Tree and Properties Panel layout in Drag and Drop UI
+* Increase screen size on Design tab in Drag and Drop project UI
 
 ## Mar 15, 2021
 
