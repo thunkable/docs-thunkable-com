@@ -11,12 +11,10 @@ Platform updates
 * Introduce pan-to-scroll in Design tab of Drag and Drop UI 
 * Add rounded bezels to Screens in Design tab of Drag and Drop UI
 * Add the following to Drag and Drop UI
+
   * AdMob Banner
   * Switch
-  * Time Input
-  * Date Input
   * 'Partial Results' output block for Speech Recognizer component
-  * Additional guidelines to guide positioning of components
 
 Component Updates
 
@@ -64,6 +62,10 @@ Platform updates
 Platform Updates
 
 * Improve rendering of Screens in Design tab of Drag and Drop projects
+* Added the following components to Drag and Drop UI:
+  * Time Input
+  * Date Input
+  * Additional guidelines to guide positioning of components
 
 ## Feb 8, 2021
 
