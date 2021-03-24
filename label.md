@@ -79,43 +79,37 @@ This event will fire when the user clicks on the label.
 
 ### Background Color 
 
-![](.gitbook/assets/la_bg_color.png)
+![](.gitbook/assets/bg_color%20%282%29.png)
 
-The get and set background color properties work with the color of the lable itself i.e. the region behind the label text. Best practice is to use one of the [color blocks](colour.md) to set this value.
+The get and set background color properties work with the color of the label itself i.e. the region behind the label text. Best practice is to use one of the [color blocks](colour.md) to set this value but HEX or RGB values may be used too.
 
 ### Color 
 
-![](.gitbook/assets/la_color.png)
+![](.gitbook/assets/color.png)
 
-The get and set color properties of the can be used to work with the color of the text that is displayed in the label. Best practice is to use one of the [color blocks](colour.md) to set this value.
-
-### Computed Dimensions 
-
-![](.gitbook/assets/la_dims.png)
-
-The `Computed Height` and `Computed Width` blocks return the on-screen dimensions of the label, after it has been rendered on-screen. The value returned is an integer, representing the size of the label in pixels.
+The get and set color properties can be used to work with the color of the text that is displayed in the label. Best practice is to use one of the [color blocks](colour.md) to set this value but HEX or RGB values may be used too. 
 
 ### Font Size 
 
-![](.gitbook/assets/la_font_size.png)
+![](.gitbook/assets/font_size%20%281%29.png)
 
 The get and set font size blocks are used to work with the size of the text that is displayed in the label. This value must be a number.
 
 ### Font Style 
 
-![](.gitbook/assets/la_font_style.png)
+![](.gitbook/assets/font_style.png)
 
 The font style property can be either "Normal" or "_Italic"._
 
 ### Font Weight 
 
-![](.gitbook/assets/la_font_weight.png)
+![](.gitbook/assets/font_weight.png)
 
 The font weight value can be either; "Normal", "**Bold**" or a a value from 100 to 900
 
 ### Height 
 
-![](.gitbook/assets/la_height.png)
+![](.gitbook/assets/height%20%281%29.png)
 
 The set and get height blocks work with the Height property of the label component. Acceptable input values are. 
 
@@ -124,21 +118,23 @@ The set and get height blocks work with the Height property of the label compone
 * "Fit Contents"
 * "Fill Container"
 
+The `Computed Height` block returns the on-screen dimensions of the label, after it has been rendered on-screen. The value returned is an integer, representing the size of the label in pixels.
+
 ### Number of Lines 
 
-![](.gitbook/assets/la_num_lines.png)
+![](.gitbook/assets/num_lines.png)
 
 The get and set number of lines property is used to work with the maximum number of lines of text that should be displayed in a label before that label starts to scroll.
 
 ### Text 
 
-![](.gitbook/assets/la_text.png)
+![](.gitbook/assets/text%20%281%29.png)
 
 This property corresponds to the text that is displayed in the label component.
 
 ### Text Align
 
-![](.gitbook/assets/la_text_align.png)
+![](.gitbook/assets/text_align.png)
 
 Text Align can be any of the following values:
 
@@ -150,7 +146,7 @@ Text Align can be any of the following values:
 
 ### Visible
 
-![](.gitbook/assets/la_visible.png)
+![](.gitbook/assets/visible%20%281%29.png)
 
 The set and get visible blocks are used to show or hide the entire image component. Acceptable values are:
 
@@ -159,7 +155,7 @@ The set and get visible blocks are used to show or hide the entire image compone
 
 ### Width 
 
-![](.gitbook/assets/la_widrth.png)
+![](.gitbook/assets/width%20%281%29.png)
 
 The set and get width blocks work with the Width property of the label component. Acceptable values are.‌
 
@@ -167,6 +163,8 @@ The set and get width blocks work with the Width property of the label component
 * Percentage Width
 * "Fit Contents"
 * "Fill Container"
+
+The `Computed Width` block returns the on-screen dimensions of the label, after it has been rendered on-screen. The value returned is an integer, representing the size of the label in pixels.
 
 ### 
 
