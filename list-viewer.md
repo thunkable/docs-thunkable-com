@@ -74,3 +74,29 @@ You change the spacing and positioning of the List Viewer with the Margin and Pa
 
 * You can specify how much space you want between the edges of the List Viewer and the screen using either pixel or percent values.
 
+## Events
+
+![](.gitbook/assets/click%20%281%29.png)
+
+### Properties
+
+### Height
+
+![](.gitbook/assets/height%20%283%29.png)
+
+### Show Arrow
+
+![](.gitbook/assets/show_arrow.png)
+
+### Text Items
+
+![](.gitbook/assets/text_items.png)
+
+### Visible
+
+![](.gitbook/assets/visible%20%285%29.png)
+
+### Width
+
+![](.gitbook/assets/width%20%284%29.png)
+

@@ -113,3 +113,55 @@ You can see examples of sending/receiving messages and get further setup instruc
 
 You may also find the [Web API](web-api.md) component useful for sending/receiving information between your app and a website.
 
+## Events
+
+### Receives Message
+
+![](.gitbook/assets/receives_message.png)
+
+## Functions
+
+### Back 
+
+![](.gitbook/assets/back.png)
+
+### Forward 
+
+![](.gitbook/assets/fwd.png)
+
+### Post Message 
+
+![](.gitbook/assets/post.png)
+
+### Reload 
+
+![](.gitbook/assets/reload.png)
+
+### Value from Post
+
+![](.gitbook/assets/value_from_post.png)
+
+## Properties
+
+### Height 
+
+![](.gitbook/assets/height%20%284%29.png)
+
+### Width 
+
+![](.gitbook/assets/width%20%285%29.png)
+
+### Visible
+
+###  
+
+![](.gitbook/assets/visible%20%283%29.png)
+
+### URL
+
+![](.gitbook/assets/url.png)
+
+
+
+
+
