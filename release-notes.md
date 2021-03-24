@@ -22,10 +22,10 @@ Component Updates
 * Improve Video Player performance on web apps
 * Improve performance of 'when Screen Opens' block when Loading Icon present on the Screen
 * Improve performance of Text Input 'on Focus' block on web
-* Improve appearance of Labels in web apps published from Drag and Drop UI projects
 * Improve performance of Animations with 'on Click' event blocks
 * Expand amount of data types supported by the Airtable Create Row block
 * Add font size, font color and background color settings to List Viewer
+* Introduce advanced [Objects](objects.md) block
 
 New Components
 
@@ -37,6 +37,7 @@ Platform Updates
 
 * Update Component Tree and Properties Panel layout in Drag and Drop UI
 * Increase screen size on Design tab in Drag and Drop project UI
+* Improve appearance of Labels in web apps published from Drag and Drop UI projects
 
 ## Mar 15, 2021
 
