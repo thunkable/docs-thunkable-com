@@ -116,21 +116,13 @@ This event fires every time a character is added or removed to the Text Input.
 
 ### Border Width
 
-![](.gitbook/assets/ti_border_width.png)
+![](.gitbook/assets/boder_width.png)
 
 The border width value corresponds to the size of the border around the Text Input. Changes to the color and style of the border must be done in the[ designer.](text-input.md#style-the-text-input) 
 
-### Computed Dimensions 
-
-![](.gitbook/assets/ti_ch.png)
-
-![](.gitbook/assets/ti_cw.png)
-
-The `Computed Height` and `Computed Width` blocks return the on-screen dimensions of the Text Input, after it has been rendered on the device screen. The value returned is an integer, representing the size of the component, in pixels.
-
 ### Height 
 
-![](.gitbook/assets/ti_height.png)
+![](.gitbook/assets/height%20%281%29.png)
 
 The set and get height blocks work with the Height property of the Text Input component. Acceptable input values are. 
 
@@ -139,15 +131,17 @@ The set and get height blocks work with the Height property of the Text Input co
 * "Fit Contents"
 * "Fill Container"
 
+The `Computed Height` block returns the on-screen dimensions of the Text Input, after it has been rendered on the device screen. The value returned is an integer, representing the size of the component, in pixels.
+
 ### Hint 
 
-![](.gitbook/assets/ti_hint.png)
+![](.gitbook/assets/hint.png)
 
 The set and get hint work with the prompt that is displayed in the Text Input, before the user starts typing. Any string of text or number can be used as the hint.
 
 ### Keyboard Type 
 
-![](.gitbook/assets/ti_keyboard_type.png)
+![](.gitbook/assets/keyboard.png)
 
 The set and get keyboard type property gives you control over what version of the keyboard is displayed on-screen when the user starts typing. Acceptable values are:  
 
@@ -159,13 +153,13 @@ The set and get keyboard type property gives you control over what version of th
 
 ### Text 
 
-![](.gitbook/assets/ti_text.png)
+![](.gitbook/assets/text%20%281%29.png)
 
 The set and get text property works with the string of text that displayed in the Text Input. 
 
 ### Visible 
 
-![](.gitbook/assets/ti_visible.png)
+![](.gitbook/assets/visible%20%282%29.png)
 
 The set and get visible blocks are used to show or hide the entire Text Input component. Acceptable values are:
 
@@ -174,7 +168,7 @@ The set and get visible blocks are used to show or hide the entire Text Input co
 
 ### Width
 
-![](.gitbook/assets/ti_width.png)
+![](.gitbook/assets/width%20%282%29.png)
 
 The set and get width blocks work with the Width property of the Text Input component. Acceptable values are.‌
 
@@ -182,6 +176,8 @@ The set and get width blocks work with the Width property of the Text Input comp
 * Percentage Width
 * "Fit Contents"
 * "Fill Container"
+
+The `Computed Width` block returns the on-screen dimensions of the Text Input, after it has been rendered on the device screen. The value returned is an integer, representing the size of the component, in pixels.
 
 
 

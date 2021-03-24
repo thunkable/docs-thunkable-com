@@ -109,7 +109,7 @@ The font weight value can be either; "Normal", "**Bold**" or a a value from 100 
 
 ### Height 
 
-![](.gitbook/assets/height%20%281%29.png)
+![](.gitbook/assets/height%20%282%29.png)
 
 The set and get height blocks work with the Height property of the label component. Acceptable input values are. 
 
@@ -128,7 +128,7 @@ The get and set number of lines property is used to work with the maximum number
 
 ### Text 
 
-![](.gitbook/assets/text%20%281%29.png)
+![](.gitbook/assets/text%20%282%29.png)
 
 This property corresponds to the text that is displayed in the label component.
 
