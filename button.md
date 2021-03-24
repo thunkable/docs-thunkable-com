@@ -14,15 +14,17 @@ description: >-
 
 ## Overview
 
-A button is just something you can click on to perform an action. This action can be anything from navigating to a different screen, saving information to a database, or playing a sound.
-
-![The blocks above say that when Button1 is clicked, go to Screen2.](https://lh4.googleusercontent.com/IvA0mRVV2yRI4N6HwzArmFURm20PWm_S6aYMjVKxtlBJjS1mN6KhSeLtCWlovQ7R7rye6Ymjbr-DXzWb36E8aUTyTbxGul38Ahjy90o9m4efAiPXKs0ZGU-exydjIKzowZsjg-bo)
-
 * [Style the Button](button.md#style-the-button)
 * [Edit the Button size](button.md#edit-the-button-size)
 * [Programming the Button](button.md#start-an-event-from-a-button-click)
 
 ![](.gitbook/assets/button-fig-1.png)
+
+A button is just something you can click on to perform an action. This action can be anything from navigating to a different screen, saving information to a database, or playing a sound.
+
+![Changing the text on the button](.gitbook/assets/btn_click_2.png)
+
+![Navigate to a different screen](.gitbook/assets/btn_click_1.png)
 
 ## Style the Button
 
@@ -79,14 +81,140 @@ You change the spacing and positioning of the button with the Margin and Padding
 
 * You can specify how much space you want between the border and contents of the button using either pixel or percent values.
 
-## Programming the Button
+## Events
 
-![The blocks above say that when Button1 is clicked, play a sound.](.gitbook/assets/button-fig-2.png)
+You can use the following blocks to listen for when a specific event occurs
 
-You can use the following properties to pick when an event will occur:
+### Click
 
-* **Click:** Performs an action when the user taps the button
-* **Long Click:** Performs an action when the user hold the button down
-* **Touch Up:** Performs an action after the user releases the button
-* **Touch Down:** Performs an action after the user gently touches the button
+![](.gitbook/assets/click.png)
+
+Performs an action when the user taps the button.
+
+### Long Click
+
+![](.gitbook/assets/long_click.png)
+
+Performs an action when the user holds down the button.
+
+### Touch Down
+
+![](.gitbook/assets/touch_down.png)
+
+Performs an action when a user pressed down on the button
+
+### Touch Up
+
+![](.gitbook/assets/touch_up.png)
+
+Performs an action after the user releases the button
+
+## Properties
+
+### Background Color
+
+![](.gitbook/assets/bg_color%20%281%29.png)
+
+The get and set background color properties work with the color of the button itself i.e. the region behind the button text. Best practice is to use one of the built [color blocks](colour.md) to set this value, but you can use HEX and RGB values too.
+
+### Background Picture
+
+![](.gitbook/assets/bg_picture.png)
+
+
+
+### Background Picture Resize Mode
+
+![](.gitbook/assets/resize_mode.png)
+
+The set and get resize mode blocks work with how the background picture is scaled within the button component. Acceptable values are:
+
+* Cover
+* Contain
+* Stretch
+* Repeat
+* Center
+
+### Disabled
+
+![](.gitbook/assets/disabled.png)
+
+The disabled property is used to set whether or not the button is "clickable". Expected values for this property are:
+
+* True
+* False
+
+
+
+### Font
+
+![](.gitbook/assets/bold%20%281%29.png)
+
+![](.gitbook/assets/italic.png)
+
+![](.gitbook/assets/raised.png)
+
+The font style properties of the button text can be "**Bold**",  "_Italic",_ or Raised. Expected values for each property are:
+
+* True
+* False
+
+### Font Size
+
+![](.gitbook/assets/font_size.png)
+
+The get and set font size blocks are used to work with the size of the text that is displayed in the button. This value must be a number.
+
+### Height
+
+![](.gitbook/assets/height.png)
+
+
+
+The set and get height blocks work with the Height property of the button component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Height
+* "Fit Contents"
+* "Fill Container"
+
+The `Computed Height`block returns the on-screen dimensions of the button, after it has been rendered on-screen. The value returned is an integer, representing the size of the button in pixels.
+
+### Text
+
+![](.gitbook/assets/text.png)
+
+This property corresponds to the text that is displayed in the button component.
+
+### Text Color
+
+![](.gitbook/assets/text_color.png)
+
+The get and set text color properties can be used to work with the color of the text displayed on the button. Best practice is to use one of the [color blocks](colour.md) to set this value but you can use HEX and RGB values too.
+
+### Visible
+
+![](.gitbook/assets/visible.png)
+
+
+
+The set and get visible blocks are used to show or hide the entire button component. Acceptable values are:
+
+* True
+* False
+
+### Width
+
+![](.gitbook/assets/width.png)
+
+The set and get width blocks work with the Width property of the button component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Width
+* "Fit Contents"
+* "Fill Container"
+
+The `Computed Widht`block returns the on-screen dimensions of the button, after it has been rendered on-screen. The value returned is an integer, representing the size of the button in pixels.
+
+
 
