@@ -29,3 +29,25 @@ One way to show and hide the icon is to use the `visible` property of the compon
 
 When the visibility is set to true, the loading icon will be seen on the app screen. If set to false, the loading icon will not be seen on the app screen.
 
+## Properties
+
+### Color 
+
+![](.gitbook/assets/color%20%281%29.png)
+
+### Height 
+
+![](.gitbook/assets/height%20%286%29.png)
+
+### Size 
+
+![](.gitbook/assets/size%20%281%29.png)
+
+### Visible 
+
+![](.gitbook/assets/visible%20%286%29.png)
+
+### Width
+
+![](.gitbook/assets/width%20%288%29.png)
+

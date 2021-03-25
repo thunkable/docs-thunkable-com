@@ -67,3 +67,61 @@ You change the spacing and positioning of the Slider with the Margin and Padding
 
 * You can specify how much space you want between the edges of the Slider and the screen using either pixel or percent values.
 
+## Events 
+
+### On Sliding Complete
+
+![](.gitbook/assets/on_sliding_complete.png)
+
+### On Value Change
+
+![](.gitbook/assets/on_value_change.png)
+
+## Properties
+
+### Disabled 
+
+![](.gitbook/assets/disabled%20%282%29.png)
+
+### Height 
+
+![](.gitbook/assets/height%20%287%29.png)
+
+### Maximum Track Tint Color
+
+###  
+
+![](.gitbook/assets/max_track_tint_color.png)
+
+### Maximum Value
+
+![](.gitbook/assets/max_value.png)
+
+### Minimum Track Tint Color 
+
+![](.gitbook/assets/min_track_tint_color.png)
+
+### Minimum Value
+
+![](.gitbook/assets/min_value.png)
+
+### Step 
+
+![](.gitbook/assets/step.png)
+
+### Thumb Tint Color 
+
+![](.gitbook/assets/thumb_tint_color%20%282%29.png)
+
+### Value 
+
+![](.gitbook/assets/value%20%281%29.png)
+
+### Visible 
+
+![](.gitbook/assets/visible%20%287%29.png)
+
+### Width
+
+![](.gitbook/assets/width%20%287%29.png)
+
