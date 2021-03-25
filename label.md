@@ -166,11 +166,5 @@ The set and get width blocks work with the Width property of the label component
 
 The `Computed Width` block returns the on-screen dimensions of the label, after it has been rendered on-screen. The value returned is an integer, representing the size of the label in pixels.
 
-### 
-
-
-
-
-
 
 

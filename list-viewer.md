@@ -78,7 +78,7 @@ You change the spacing and positioning of the List Viewer with the Margin and Pa
 
 ![](.gitbook/assets/click%20%281%29.png)
 
-### Properties
+## Properties
 
 ### Height
 
