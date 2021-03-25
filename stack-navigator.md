@@ -23,7 +23,7 @@ The Stack navigator creates a header bar across all screens. You can add a title
 
 To enable a Stack transition, you will have to add a Screen navigation block like the one below. You can find the Screen navigation block in the pre-built Control category:
 
-![](.gitbook/assets/blocks-control-fig-8%20%281%29.png)
+![](.gitbook/assets/btn_click_1.png)
 
 Screens can Stack from left to right or from top to bottom. You can set the transition style with the Stack property below:
 

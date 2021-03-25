@@ -35,5 +35,69 @@ The date that a user selects will show up automatically in the Date Input label 
 | Get Month | Numerical month from `1-12` |
 | Get Day | Day of the month from `1-31` \(depending on the month\) |
 
+## Events
 
+### Date Picked
+
+![](.gitbook/assets/dp1-8%20%281%29.png)
+
+## Functions
+
+### Get Date 
+
+![](.gitbook/assets/f_get_date.png)
+
+### Get Day 
+
+![](.gitbook/assets/f_get_day.png)
+
+### Get Month 
+
+![](.gitbook/assets/f_get_month.png)
+
+### Get Year 
+
+![](.gitbook/assets/f_get_year.png)
+
+### Launch Picker
+
+![](.gitbook/assets/f_launch_picker.png)
+
+##  Properties
+
+### Background Color 
+
+![](.gitbook/assets/bg_color%20%283%29.png)
+
+### Color 
+
+![](.gitbook/assets/color%20%281%29.png)
+
+### Computed Height and Width 
+
+![](.gitbook/assets/comp_height.png)
+
+### Font Size 
+
+![](.gitbook/assets/font_size%20%282%29.png)
+
+### Font Style 
+
+![](.gitbook/assets/font_style%20%281%29.png)
+
+### Font Weight 
+
+![](.gitbook/assets/font_weight%20%282%29.png)
+
+### Style 
+
+![](.gitbook/assets/dp1-2.png)
+
+### Text Align 
+
+![](.gitbook/assets/text_align%20%282%29.png)
+
+### Visible
+
+![](.gitbook/assets/visible%20%287%29.png)
 

@@ -119,7 +119,7 @@ You change the spacing and positioning of the Slider with the Margin and Padding
 
 ### Visible 
 
-![](.gitbook/assets/visible%20%287%29.png)
+![](.gitbook/assets/visible%20%2811%29.png)
 
 ### Width
 

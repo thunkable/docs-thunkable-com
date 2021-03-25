@@ -18,3 +18,19 @@ Once you upload the PDF, you will be able to view it in your app and pinch to zo
 
 
 
+## Properties
+
+### Computed Height and Width 
+
+![](.gitbook/assets/comp%20%281%29.png)
+
+### File 
+
+![](.gitbook/assets/file.png)
+
+### Visible
+
+![](.gitbook/assets/visible%20%2810%29.png)
+
+
+

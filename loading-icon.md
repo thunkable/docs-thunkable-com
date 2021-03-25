@@ -33,7 +33,7 @@ When the visibility is set to true, the loading icon will be seen on the app scr
 
 ### Color 
 
-![](.gitbook/assets/color%20%281%29.png)
+![](.gitbook/assets/color%20%282%29.png)
 
 ### Height 
 
@@ -45,7 +45,7 @@ When the visibility is set to true, the loading icon will be seen on the app scr
 
 ### Visible 
 
-![](.gitbook/assets/visible%20%286%29.png)
+![](.gitbook/assets/visible%20%288%29.png)
 
 ### Width
 
