@@ -8,8 +8,10 @@ description: >-
 
 A switch is a component that has two settings, true and false. You can get your app to do specific tasks only if the switch is set to true. 
 
-* [Set up](switch.md#set-up)
+* [Getting Started](switch.md#getting-started)
 * [Style the Switch](switch.md#style-the-switch)
+* [Events](switch.md#events)
+* [Properties](switch.md#properties)
 
 ![](.gitbook/assets/switch-fig-1.gif)
 
