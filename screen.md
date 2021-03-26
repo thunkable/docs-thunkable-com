@@ -14,11 +14,7 @@ description: >-
 
 {% embed url="https://youtu.be/pGhATTA1cIA" %}
 
-
-
-
-
-## Understanding Screen Blocks 
+## Screen Blocks 
 
 ### when Screen1 Starts
 
@@ -52,21 +48,25 @@ description: >-
 | :--- | :--- |
 | ToggleDrawerMenu | Opens or Closes the drawer menu, if available. Must be used in conjunction with the [Drawer Navigator](drawer-navigator.md) |
 
-## Space Elements Horizontally
+## Appearance and Layout
+
+### Space Elements Horizontally
 
 The `Horizontal Alignment` property allows you to space elements in a Screen horizontally
+
+
 
 ![](.gitbook/assets/image%20%2823%29.png)
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-64%20%281%29.png)
 
-## Space Elements Vertically
+### Space Elements Vertically
 
 The `Vertical Alignment` property allows you to space elements in a Screen vertically
 
 ![](.gitbook/assets/spacing-fig-2.png)
 
-## Add a Background Color or Picture
+### Add a Background Color or Picture
 
 ![](.gitbook/assets/image%20%2887%29.png)
 
@@ -75,7 +75,7 @@ The `Vertical Alignment` property allows you to space elements in a Screen verti
 | Background Color | Default \(`none`\). Select any color using the color picker, RGBA or HEX value |
 | Background Picture | You can upload a background image to your app or reference an image url e.g.`beaver-yellow.png` |
 
-## Background Picture Resize Mode
+#### Background Picture Resize Mode
 
 This determines how to resize the image when the frame doesn't match the raw image dimensions.
 
@@ -90,7 +90,7 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 * Center: Positions the image in the middle of the frame
 
-## Enable Scrolling
+### Enable Scrolling
 
 ![](.gitbook/assets/image%20%2877%29.png)
 
@@ -98,19 +98,27 @@ This determines how to resize the image when the frame doesn't match the raw ima
 | :--- | :--- |
 | Scrollable | Default \(`false`\). Indicates whether the screen is scrollable. For scrollable to work, you must also set your screen height to `fit contents`  and the components in your screen must have heights set in `absolute` pixels |
 
-## Hide \(or show\) Status Bar
+### Set Orientation
+
+| Property | Description |
+| :--- | :--- |
+| Screen Orientation | Default \(`all`\). You can fix the screen orientation to `portrait` and `landscape` |
+
+## Status Bar
+
+### Hide \(or show\) Status Bar
 
 | Property | Description |
 | :--- | :--- |
 | Show StatusBar | Default \(`true`\). If set to `false`, hides the top status bar |
 
-## Status Bar Theme
+### Status Bar Theme
 
 | Property | Description |
 | :--- | :--- |
 | StatusBar Style | Choose between `default` , `light-content` or `dark-content` to set the theme or style of the status bar |
 
-## Status Bar Opacity
+### Status Bar Opacity
 
 {% hint style="warning" %}
 Please Note: The `Translucent StatusBar` property will only work on Android devices at this time.
@@ -120,7 +128,7 @@ Please Note: The `Translucent StatusBar` property will only work on Android devi
 | :--- | :--- |
 | Translucent StatusBar  | Default \(`false`\). Set to `true` to make the Status Bar translucent.  Android-only. |
 
-## Status Bar Color
+### Status Bar Color
 
 {% hint style="warning" %}
 Please Note: The `StatusBar Color`property will only work on Android devices at this time.
@@ -129,12 +137,6 @@ Please Note: The `StatusBar Color`property will only work on Android devices at 
 | Property | Description |
 | :--- | :--- |
 | StatusBar Color | Default \(`0,0,0,0.53`\). Select any color using the color picker, RGBA or HEX value. Android-only. |
-
-## Set Orientation
-
-| Property | Description |
-| :--- | :--- |
-| Screen Orientation | Default \(`all`\). You can fix the screen orientation to `portrait` and `landscape` |
 
 ## Save Screen
 
