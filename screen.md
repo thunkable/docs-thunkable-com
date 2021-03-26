@@ -14,40 +14,6 @@ description: >-
 
 {% embed url="https://youtu.be/pGhATTA1cIA" %}
 
-## Screen Blocks 
-
-### when Screen1 Starts
-
-![](.gitbook/assets/screen-starts.png)
-
-| Event | Description |
-| :--- | :--- |
-| Starts | Fires when the Screen is **first** opened |
-
-### when Screen1 Opens
-
-![](.gitbook/assets/screen-opens.png)
-
-| Event | Description |
-| :--- | :--- |
-| Opens | Fires **anytime** the Screen is opened |
-
-### when Screen1 BackButtonPressed
-
-![](.gitbook/assets/screen-back-button-pressed.png)
-
-| Event | Description |
-| :--- | :--- |
-| BackButtonPressed | Fires when the physical or on-screen back button is pressed. \(Android only\) |
-
-### in Screen1 call ToggleDrawerMenu
-
-![](.gitbook/assets/screen-toggle-drawer-menu.png)
-
-| Function | Description |
-| :--- | :--- |
-| ToggleDrawerMenu | Opens or Closes the drawer menu, if available. Must be used in conjunction with the [Drawer Navigator](drawer-navigator.md) |
-
 ## Appearance and Layout
 
 ### Space Elements Horizontally
@@ -137,6 +103,40 @@ Please Note: The `StatusBar Color`property will only work on Android devices at 
 | Property | Description |
 | :--- | :--- |
 | StatusBar Color | Default \(`0,0,0,0.53`\). Select any color using the color picker, RGBA or HEX value. Android-only. |
+
+## Screen Blocks 
+
+### when Screen1 Starts
+
+![](.gitbook/assets/screen-starts.png)
+
+| Event | Description |
+| :--- | :--- |
+| Starts | Fires when the Screen is **first** opened |
+
+### when Screen1 Opens
+
+![](.gitbook/assets/screen-opens.png)
+
+| Event | Description |
+| :--- | :--- |
+| Opens | Fires **anytime** the Screen is opened |
+
+### when Screen1 BackButtonPressed
+
+![](.gitbook/assets/screen-back-button-pressed.png)
+
+| Event | Description |
+| :--- | :--- |
+| BackButtonPressed | Fires when the physical or on-screen back button is pressed. \(Android only\) |
+
+### in Screen1 call ToggleDrawerMenu
+
+![](.gitbook/assets/screen-toggle-drawer-menu.png)
+
+| Function | Description |
+| :--- | :--- |
+| ToggleDrawerMenu | Opens or Closes the drawer menu, if available. Must be used in conjunction with the [Drawer Navigator](drawer-navigator.md) |
 
 ## Save Screen
 
