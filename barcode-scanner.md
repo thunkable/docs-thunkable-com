@@ -4,6 +4,10 @@ description: Enable your apps to read barcodes and QR codes
 
 # Barcode Scanner
 
+## Barcode Scanner Overview
+
+* [Getting Started](barcode-scanner.md#getting-started)
+
 Barcodes and QR codes can be useful features in many types of apps from social apps like WeChat and Venmo to connect friends together or location-based games like scavenger hunts. The Barcode Scanner component uses the camera to read any barcode or QR code.
 
 ![](.gitbook/assets/thunkable-play-store-screenshots-1080-x-1920-17.png)

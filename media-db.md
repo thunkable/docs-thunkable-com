@@ -1,5 +1,7 @@
 # Media DB by Cloudinary
 
+## Media DB Overview
+
 {% hint style="info" %}
 No set up is required but creating your free Cloudinary account is highly recommended
 {% endhint %}

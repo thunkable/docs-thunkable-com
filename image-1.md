@@ -4,7 +4,7 @@ description: The image component lets you display pictures in your app.
 
 # Image
 
-The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](), [Image Recognizer]() and [Media DB](media-db.md)
+## Image Overview
 
 * [Set Image](image-1.md#set-image)
 * [Edit Image size](image-1.md#edit-image-size)
@@ -12,6 +12,8 @@ The Image component lets you display pictures in your app and pairs nicely with 
 * [Add spacing](image-1.md#add-spacing)
 * [Event Blocks](image-1.md#events)
 * [Property Blocks](image-1.md#properties)
+
+The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](), [Image Recognizer]() and [Media DB](media-db.md)
 
 ![](.gitbook/assets/image-fig-1.png)
 
@@ -24,7 +26,7 @@ There are a few ways you can display an image in your app:
 2. **Provide a link to the image**  ![](https://lh6.googleusercontent.com/Qgxd14OTm3vZowwQsZ6-2uE2UozbUonGywxOOkr3Pozhia7jNDIw9_o-1CxsfEtynzkusC87RG9sCIcfsvzQ_3YGDvN6nZcG1hOVGbFhdQRN2FHmPQbYEBYgNDfFgL2v3x2kAauW) 
 3. **Take a picture with the Camera component**
 
-![](https://lh6.googleusercontent.com/3NGhjTG3vkioCAOKtCmSRwiBuxf9VGtPdu6X60Nx6yZGMMMRtlDc7mZDQcr2fL1PpCFfd-WBcx4zAymckUVtzOJx3P_wLspnshq6UYMAJKVCLsMfusYXAjS9neKBrgGoGspaCPBw)
+![](.gitbook/assets/take_photo.png)
 
 The blocks above open up your phone’s camera and set the Image component to the picture that you took. 
 
@@ -114,13 +116,13 @@ The set and get height blocks work with the Height property of the image compone
 
 ### Picture 
 
-![](.gitbook/assets/image_picture.png)
+![](.gitbook/assets/picture.png)
 
 The set and get picture blocks work with picture property of the image component. Pictures can be uploaded as local assets or specified as URLs 
 
 ### Resize Mode 
 
-![](.gitbook/assets/image_resize_mode.png)
+![](.gitbook/assets/resize_mode%20%281%29.png)
 
 The set and get resize mode blocks work with how the picture is scaled within the image component. Acceptable values are:
 
@@ -132,7 +134,7 @@ The set and get resize mode blocks work with how the picture is scaled within th
 
 ### Visible 
 
-![](.gitbook/assets/img_visible.png)
+![](.gitbook/assets/visible%20%2812%29.png)
 
 The set and get visible blocks are used to show or hide the entire image component. Acceptable values are:
 

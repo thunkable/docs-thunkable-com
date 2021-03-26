@@ -4,11 +4,19 @@ description: Record videos to play in your app or save to the cloud.
 
 # Video Recorder
 
+## Video Recorder Overview
+
+* [Record a Video](video-recorder.md#record-a-video) 
+* [Functions](video-recorder.md#functions)
+* [Properties](video-recorder.md#properties)
+
 ## Record a Video
 
 You can record a timed video, where the app records for a set amount of time, or an untimed video, where the user can choose how long to film for.
 
 You can display the videos you record with the [Video](video.md) component. You can also save you recorded videos to the cloud with our [Media DB](media-db.md) component. Once you have saved a video to the cloud, you can store the URL as a [cloud variable](variables.md#cloud-variables) or in an [Airtable DB](spreadsheet.md) to make it accessible through the app on other devices.
+
+## Functions
 
 ### Timed Video Recording
 
@@ -74,15 +82,13 @@ You can display the videos you record with the [Video](video.md) component. You 
   </tbody>
 </table>
 
-## Select a Camera
-
-You can record with the front or back camera of your device.
+## Properties
 
 ### Set Camera
 
 ![](.gitbook/assets/videorecorderback.png)
 
-Select a camera to film with.
+Select a camera to film with. You can record with the front or back camera of your device.
 
 ### Show Current Camera
 

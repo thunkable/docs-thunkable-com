@@ -1,10 +1,10 @@
 # Ads by AdMob
 
-![](.gitbook/assets/webp.net-resizeimage.png)
+## AdMob Overview 
 
-AdMob is the most popular ad network for monetizing mobile apps today. Apps with large audiences can use AdMob to not only generate revenue for the creator but in some cases \(like with AdMob Rewarded Video\), create better user experiences than the alternative \(e.g. in-app purchases to play a new game level\). 
-
+{% hint style="info" %}
 We highly recommend that you only add ads to your app after you have a large audience of users \(otherwise, you won't generate much revenue anyway\).
+{% endhint %}
 
 * [Review guidelines](admob.md#review-guidelines)
 * [Sample apps](admob.md#sample-apps)
@@ -19,6 +19,12 @@ We highly recommend that you only add ads to your app after you have a large aud
   * [Link `Ad Unit ID`](admob.md#link-ad-unit-id)\`\`
   * [Set `test mode = false`](admob.md#set-test-mode-false)\`\`
 * [Troubleshooting](admob.md#troubleshooting)
+
+![](.gitbook/assets/webp.net-resizeimage.png)
+
+AdMob is the most popular ad network for monetizing mobile apps today. Apps with large audiences can use AdMob to not only generate revenue for the creator but in some cases \(like with AdMob Rewarded Video\), create better user experiences than the alternative \(e.g. in-app purchases to play a new game level\). 
+
+
 
 {% hint style="info" %}
 **AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.

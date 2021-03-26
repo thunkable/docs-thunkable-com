@@ -1,9 +1,9 @@
 # Realtime DB by Firebase
 
-This storage option is useful for anything from saving game high scores to tracking work credit, powered by Firebase.
+## Realtime DB Overview
 
-{% hint style="info" %}
-You can now use [cloud variables](variables.md#app-stored-and-cloud-variables) instead of adding a Realtime DB component. This will work the same way in the background but will save you a lot of blocks.
+{% hint style="warning" %}
+You should now use [cloud variables](variables.md#app-stored-and-cloud-variables) instead of adding a Realtime DB component. This will work the same way in the background but will save you a lot of blocks.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -15,6 +15,8 @@ We highly recommend you use your own Firebase account with your app. With the in
 * [Get data](realtime-db.md#get-data)
 * [Update data in real-time](realtime-db.md#update-data-in-real-time)
 * [Separating your data into project buckets](realtime-db.md#separating-your-data-into-project-buckets)
+
+This storage option is useful for anything from saving game high scores to tracking work credit, powered by Firebase.
 
 ## Set up Your Own Firebase account
 

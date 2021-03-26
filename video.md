@@ -4,17 +4,23 @@ description: The video component lets you play videos in your app.
 
 # Video
 
-The Video component lets you play videos in your app that are stored in the cloud or in your app. App users can easily pause, rewind or fast-forward the video with the built in player.
-
-Please note that video files can be quite large and might exceed the 50 MB [size limit](projects/assets.md#app-size-limits-50-mb-per-app) for apps. 
-
-![](.gitbook/assets/screen-shot-2019-10-17-at-2.52.02-pm.png)
+## Video Overview
 
 * [Set Video](video.md#set-video)
 * [Edit Video size](video.md#edit-video-size)
 * [Set to Auto-Play](video.md#set-to-auto-play)
 * [Change Video](video.md#change-video)
 * [Pause or Un-Pause](video.md#pause-or-un-pause)
+
+{% hint style="warning" %}
+Please note that video files can be quite large and might exceed the 50 MB [size limit](projects/assets.md#app-size-limits-50-mb-per-app) for your project. 
+{% endhint %}
+
+The Video component lets you play videos in your app that are stored in the cloud or in your app. App users can easily pause, rewind or fast-forward the video with the built in player.
+
+
+
+![](.gitbook/assets/screen-shot-2019-10-17-at-2.52.02-pm.png)
 
 ## Set Video
 

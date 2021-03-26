@@ -1,5 +1,7 @@
 # Maps by Google and Apple
 
+## Maps Overview
+
 * [Choose your provider](map.md#choose-your-provider)
 * [Zoom and center the Map](map.md#zoom-and-center-the-map)
 * [Style the Map](map.md#style-the-map) 
