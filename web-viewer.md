@@ -10,9 +10,23 @@ description: >-
 
 {% embed url="https://youtu.be/MDMM0cHvpUA" %}
 
+## Web Viewer Overview
+
 {% hint style="info" %}
-Some websites may not appear when testing your app on the web. You may need to [Live Test](get-started/live-test.md#live-test) the app on a device, or [download](download.md) and install the app, to see your web page.
+Some websites may not appear when previewing your app on the web. You may need to [Live Test](get-started/live-test.md#live-test) the app on a device, or [download](download.md) and install the app, to see your web page.
 {% endhint %}
+
+* [Properties](web-viewer.md#properties)
+* [Set URL](web-viewer.md#set-url)
+* [Go Back or Forward](web-viewer.md#go-back-forward)
+* [Edit Web Viewer Size](web-viewer.md#edit-web-viewer-size)
+* [Add Spacing](web-viewer.md#add-spacing)
+* [Post Message/Receive Message](web-viewer.md#post-message-receive-message)
+* [Events](web-viewer.md#events)
+* [Functions](web-viewer.md#functions)
+* [Properties](web-viewer.md#properties-1)
+
+![](.gitbook/assets/web-viewer-fig-1.png)
 
 ## Properties
 
@@ -28,19 +42,6 @@ In the Design panel, you can set many properties of the Web Viewer.
 **Padding \(top, bottom, left, right\):** Set a defined distance between the border of the Web Viewer and its contents  
 **Border:** Set the **width, radius, color** and **style** of a border around the perimeter of the Web Viewer 
 
-## Overview
-
-* [Set URL](web-viewer.md#set-url)
-* [Go Back or Forward](web-viewer.md#go-back-forward)
-* [Edit Web Viewer Size](web-viewer.md#edit-web-viewer-size)
-* [Add Spacing](web-viewer.md#add-spacing)
-* [Post Message/Receive Message](web-viewer.md#post-message-receive-message)
-* [Events](web-viewer.md#events)
-* [Functions](web-viewer.md#functions)
-* [Properties](web-viewer.md#properties-1)
-
-![](.gitbook/assets/web-viewer-fig-1.png)
-
 ## Set URL
 
 To open up a website in your app, you need to provide  the Web Viewer with a URL. 
@@ -49,7 +50,7 @@ A URL is kind of like a street address - it tells the web viewer the location of
 
 * **URL:** Enter in the link to the website or an image. The URL must include https:// 
 
-![](.gitbook/assets/webviewerseturl.png)
+![](.gitbook/assets/wv_url.png)
 
 Note: Can also accept .html files that have been uploaded to the app \(great for offline use\). 
 
@@ -57,7 +58,7 @@ Note: Can also accept .html files that have been uploaded to the app \(great for
 
 You can use blocks to navigate back through previously visited web pages. Once you have gone back, you can also use blocks to navigate forward through your visited pages again.
 
-![](.gitbook/assets/webviewerforwardback.png)
+![](.gitbook/assets/wv_back%20%281%29.png)
 
 {% hint style="info" %}
 The Back block may not work when you test your app on the web, but will work when [Live Testing](get-started/live-test.md#live-test) your app and in [downloaded](download.md) apps

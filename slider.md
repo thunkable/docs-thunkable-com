@@ -1,5 +1,7 @@
 # Slider
 
+## Slider Overview
+
 * [Getting Started](slider.md#getting-started)
 * [Style the Slider](slider.md#style-the-slider)
 * [Add Spacing](slider.md#add-spacing)

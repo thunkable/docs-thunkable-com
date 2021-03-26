@@ -6,6 +6,8 @@ description: >-
 
 # Text Input
 
+## Text Input Overview
+
 * [Set keyboard type](text-input.md#set-keyboard-type)
 * [Set up for passwords](text-input.md#set-up-for-passwords)
 * [Style the Text Input](text-input.md#style-the-text-input)
