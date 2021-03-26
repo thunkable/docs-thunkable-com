@@ -113,7 +113,7 @@ The set and get height blocks work with the Height property of the list viewer c
 * "Fit Contents"
 * "Fill Container"
 
-The `Computed Height`block returns the on-screen dimensions of the list viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the button in pixels.
+The `Computed Height`block returns the on-screen dimensions of the list viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the list viewer in pixels.
 
 ### Show Arrow
 
@@ -142,7 +142,7 @@ The set and get visible blocks are used to show or hide the entire list viewer c
 
 ![](.gitbook/assets/width%20%284%29.png)
 
-The `Computed Width`block returns the on-screen dimensions of the button, after it has been rendered on-screen. The value returned is an integer, representing the size of the button in pixels.
+The `Computed Width`block returns the on-screen dimensions of the list viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the list viewer in pixels.
 
 The list viewer doesn't currently support pixel or percentage values for the `width` property.
 

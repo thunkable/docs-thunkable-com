@@ -31,9 +31,13 @@ In the Design panel, you can set many properties of the Web Viewer.
 ## Overview
 
 * [Set URL](web-viewer.md#set-url)
-* [Edit Web Viewer size](web-viewer.md#edit-web-viewer-size)
-* [Add spacing](web-viewer.md#add-spacing)
+* [Go Back or Forward](web-viewer.md#go-back-forward)
+* [Edit Web Viewer Size](web-viewer.md#edit-web-viewer-size)
+* [Add Spacing](web-viewer.md#add-spacing)
 * [Post Message/Receive Message](web-viewer.md#post-message-receive-message)
+* [Events](web-viewer.md#events)
+* [Functions](web-viewer.md#functions)
+* [Properties](web-viewer.md#properties-1)
 
 ![](.gitbook/assets/web-viewer-fig-1.png)
 
@@ -103,9 +107,9 @@ Scroll down until you see a switch labeled **Geolocation Enabled**. Use this swi
 
 If you own the website being displayed in your Web Viewer, you can send and receive messages between your website and the Web Viewer using Javascript.
 
-![Example of Web Viewer &apos;Post Message&apos; block](.gitbook/assets/image%20%28124%29.png)
+![](.gitbook/assets/wv_post.png)
 
-![Example of Web Viewer &apos;Receives Message&apos; block](.gitbook/assets/image%20%28123%29.png)
+![](.gitbook/assets/wv_receives.png)
 
 You can see examples of sending/receiving messages and get further setup instructions [here](https://github.com/thunkable/webviewer-extension/).
 
@@ -125,21 +129,31 @@ You may also find the [Web API](web-api.md) component useful for sending/receivi
 
 ![](.gitbook/assets/back.png)
 
+Go back to the previous page visited.
+
 ### Forward 
 
 ![](.gitbook/assets/fwd.png)
+
+Move forward to the next page in your browser history.
 
 ### Post Message 
 
 ![](.gitbook/assets/post.png)
 
+Post a message.
+
 ### Reload 
 
 ![](.gitbook/assets/reload.png)
 
+Reload the web viewer.
+
 ### Value from Post
 
 ![](.gitbook/assets/value_from_post.png)
+
+Returns any message that was received after calling the Post Message function.
 
 ## Properties
 
@@ -147,9 +161,31 @@ You may also find the [Web API](web-api.md) component useful for sending/receivi
 
 ![](.gitbook/assets/height%20%284%29.png)
 
+The set and get height blocks work with the Height property of the web viewer component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Height
+* "Fit Contents"
+* "Fill Container"
+
+The `Computed Height`block returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the web viewer in pixels.
+
+### 
+
 ### Width 
 
 ![](.gitbook/assets/width%20%285%29.png)
+
+The set and get width blocks work with the Width property of the web viewer component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Width
+* "Fit Contents"
+* "Fill Container"
+
+The `Computed Width`block returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the web viewer in pixels.
+
+
 
 ### Visible
 
@@ -157,9 +193,20 @@ You may also find the [Web API](web-api.md) component useful for sending/receivi
 
 ![](.gitbook/assets/visible%20%283%29.png)
 
+
+
+The set and get visible blocks are used to show or hide the entire button component. Acceptable values are:
+
+* True
+* False
+
 ### URL
 
 ![](.gitbook/assets/url.png)
+
+The set URL block is used to change the web address that is displayed in the web viewer. Please note that this block need to be used in conjunction with the [reload](web-viewer.md#reload) function and the web viewer only supports connections via https. If you try to use http your website will not be displayed.
+
+The get URL block returns the "default" url in your project, i.e the value that you set in the designer. At this time it does not dynamically return the URL of the pages that is currently being displayed. 
 
 
 
