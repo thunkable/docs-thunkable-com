@@ -8,7 +8,72 @@ description: >-
 
 The Data Sources blocks allow you to perform a variety of CRUD \(**C**reate, **R**ead, **U**pdate, **D**elete\) operations on records that you have stored in Airtable, Google Sheets or Local Tables.
 
-To access the Data Sources blocks you need to add a [Data Viewer List](data-viewer-list.md) or a [Data Viewer Grid](data-viewer-grid.md) to your project.
+## Add a Data Source to your App
+
+To access the Data Sources blocks you need to add a Data Source to your app. There are two ways to do this:
+
+
+
+* Add a [Data Viewer List](data-viewer-list.md) or a [Data Viewer Grid](data-viewer-grid.md) to your project
+* Click on the ⊕ icon in the Data Sources section of your component tree:
+
+![](.gitbook/assets/screen-shot-2021-03-26-at-2.46.24-pm.png)
+
+In the modal that appears, you can choose a previously connected Data Source, or add a new Data Source. 
+
+### Adding a New Data Source
+
+When adding a new Data Source, you can choose between [Create your own table](data-viewer-list.md#create-your-own-table), [Airtable](data-viewer-list.md#airtable) or [Google Sheets](data-viewer-list.md#google-sheets) as the source of your data.
+
+![](.gitbook/assets/create_data_source2.png)
+
+### Create your Own Table
+
+Start by naming your data source.
+
+![](.gitbook/assets/name_local_data2.png)
+
+You can now see this Data Source from your Data Sources section. Click on the Data Source name to edit it.
+
+![](.gitbook/assets/screen-shot-2021-03-26-at-2.53.52-pm.png)
+
+The data editor allows you to edit, add, and delete columns of information. To change any of the individual values simply click on the cell and type whatever you like. 
+
+![](.gitbook/assets/edit_table2.png)
+
+### Airtable 
+
+In Airtable, a base in considered to be the data source. Adding an [Airtable DB](spreadsheet.md) is really simple. 
+
+To start, copy your API key from your Airtable [account page](https://airtable.com/account). An Airtable API key is a 14 character code that begins with the three letters "key". Paste this key into Thunkable and click the `Refresh` button to see a list of your Airtable bases. 
+
+Choose the base you want to use as your data source and click `Create`.
+
+![](.gitbook/assets/airtable_setup.png)
+
+### Google Sheets
+
+In Google Sheets, the entire document is considered to be the data source.
+
+In order to use a Google Sheet as a Data Source, the first row in your Sheet must be a **header** row. 
+
+To connect a Google Sheet, sign in and grant permission for your Thunkable project to access your Google Drive.
+
+![](.gitbook/assets/sign-in.png)
+
+Once you have allowed this, you will see a list of spreadsheets in your Google Drive. If you don't seen the sheet you are looking for you can switch to list view, sort alphabetically or search for the one you need. Click `Select` to return to your Thunkable project.
+
+![](.gitbook/assets/select-a-file.png)
+
+At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File &gt; Save as Google Sheets**.
+
+![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
+
+{% hint style="warning" %}
+Some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
+{% endhint %}
+
+## Data Source blocks
 
 ![](.gitbook/assets/data_sources_drawer.png)
 

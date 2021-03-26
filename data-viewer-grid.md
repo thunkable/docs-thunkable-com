@@ -40,15 +40,11 @@ You can use [Google Sheets](data-viewer-list.md#google-sheets) or [Airtable](dat
 
 In the Data\_Viewer\_List component properties, click the `Add` button. In the pop-up modal you can choose an existing data source. If this is your first time using the Data Viewer you can create a new one by clicking on the `Create New` button.
 
-![](.gitbook/assets/add_data.png)
+![](.gitbook/assets/add_data%20%281%29.png)
 
 In the next modal, choose between [Create your own table](data-viewer-list.md#create-your-own-table), [Airtable](data-viewer-list.md#airtable) or [Google Sheets](data-viewer-list.md#google-sheets) as the source of your data.
 
 ![](.gitbook/assets/create_data_source2.png)
-
-Please note that some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
-
-At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File &gt; Save as Google Sheets**.
 
 ![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
 
@@ -60,7 +56,7 @@ Start by naming your data source.
 
 Next, select the Data Viewer component and click on the link that says `Click here to edit the data`. This allows you to edit the placeholder data that was automatically generated
 
-![](.gitbook/assets/edit_data.png)
+![](.gitbook/assets/edit_data%20%281%29.png)
 
 The data editor allows you to edit, add, and delete columns of information. To change any of the individual values simply click on the cell and type whatever you like. 
 
@@ -94,9 +90,13 @@ Once you have allowed this, you will see a list of spreadsheets in your Google D
 
 ![](.gitbook/assets/select-a-file.png)
 
-Finally, give you data source a name and you're ready to go. 
+{% hint style="warning" %}
+Please note that some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
+{% endhint %}
 
-![](.gitbook/assets/give_name_to.png)
+At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File &gt; Save as Google Sheets**.
+
+![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
 
 ## Layouts
 
@@ -134,9 +134,11 @@ You can also design a[ Custom Data Viewer Layout](custom-data-viewer-layout.md) 
 
 ## Data Bindings
 
-Finally, you need to manually specify which columns in your data source correspond with which placeholders in your chosen layout. Each layout will have its own specific set of data bindings.
+Finally, you need to manually specify which columns in your data source correspond with which placeholders in your chosen layout. 
 
-For example, if you use the "[Title only](data-viewer-grid.md#title-only)" layout, you will only have one data binding, the Title property.
+Each layout will have its own specific set of data bindings. Here is what your Data Bindings section will look like if your chosen Data Viewer Grid layout has an Image, Title and Subtitle field:
+
+![](.gitbook/assets/screen-shot-2021-03-26-at-2.43.42-pm.png)
 
 ## Blocks
 

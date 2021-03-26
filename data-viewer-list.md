@@ -34,12 +34,6 @@ In the next modal, choose between [Create your own table](data-viewer-list.md#cr
 
 ![](.gitbook/assets/create_data_source2.png)
 
-Please note that some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
-
-At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File &gt; Save as Google Sheets**.
-
-![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
-
 ### Create your Own Table
 
 Start by naming your data source.
@@ -56,7 +50,7 @@ The data editor allows you to edit, add, and delete columns of information. To c
 
 ### Airtable 
 
-In Airtable, a base in considered to be the data source. Adding an [Airtable](spreadsheet.md) is really simple. 
+In Airtable, a base in considered to be the data source. Adding an [Airtable DB](spreadsheet.md) is really simple. 
 
 To start, copy your API key from your Airtable [account page](https://airtable.com/account). An Airtable API key is a 14 character code that begins with the three letters "key". Paste this key into Thunkable and click the `Refresh` button to see a list of your Airtable bases. 
 
@@ -64,15 +58,11 @@ Choose the base you want to use as your data source and click `Create`.
 
 ![](.gitbook/assets/airtable_setup.png)
 
-If you're new to Airtable you can read more about it in our [Airtable](spreadsheet.md) documentation. 
-
 ### Google Sheets
 
 In Google Sheets, the entire document is considered to be the data source.
 
-{% hint style="info" %}
-In order to use Google Sheets, the first row in your Sheet must be a header row. 
-{% endhint %}
+In order to use a Google Sheet as a Data Source, the first row in your Sheet must be a **header** row. 
 
 To connect a Google Sheet, sign in and grant permission for your Thunkable project to access your Google Drive.
 
@@ -82,9 +72,13 @@ Once you have allowed this, you will see a list of spreadsheets in your Google D
 
 ![](.gitbook/assets/select-a-file.png)
 
-Finally, give you data source a name and you're ready to go. 
+At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File &gt; Save as Google Sheets**.
 
-![](.gitbook/assets/give_name_to.png)
+![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
+
+{% hint style="warning" %}
+Some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings. 
+{% endhint %}
 
 ## List Item Layout
 

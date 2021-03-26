@@ -1,6 +1,6 @@
 # Change Project Settings
 
-## Here are three important settings you need to know:
+## Here are three important settings you need to know
 
 ### App Name
 

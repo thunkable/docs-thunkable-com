@@ -86,7 +86,7 @@ With Advanced Data Binding, Thunkable will allow you to bind the properties that
 
 ![](.gitbook/assets/advanced-binding.png)
 
-## Managing your Custom Data Layouts
+## Managing your Custom Data Viewer Layouts
 
 You can manage your custom data layouts by going to your Thunkable homepage at [x.thunkable.com/projects](https://x.thunkable.com/projects) and clicking on the **My Modules** tab at the top of the page. From here, you can edit and delete your custom data layouts.
 
