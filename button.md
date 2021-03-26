@@ -214,7 +214,7 @@ The set and get width blocks work with the Width property of the button componen
 * "Fit Contents"
 * "Fill Container"
 
-The `Computed Widht`block returns the on-screen dimensions of the button, after it has been rendered on-screen. The value returned is an integer, representing the size of the button in pixels.
+The `Computed Width`block returns the on-screen dimensions of the button, after it has been rendered on-screen. The value returned is an integer, representing the size of the button in pixels.
 
 
 
