@@ -2,9 +2,6 @@
 
 ## Coming soon to Thunkable ✕
 
-**Fix for Thunkable Live app for iOS submitted to Apple for review as of Feb 23 2020  
-Follow the** [**Community Thread**](https://community.thunkable.com/t/thunkable-live-on-ios-doesnt-work/1117885/2) **for most up to date information**
-
 Platform updates
 
 * Introduce a tool to convert snap-to-position projects to drag-and-drop projects
@@ -50,6 +47,7 @@ Component Updates
 Platform Updates
 
 * Add security modal to prevent accidental deletion of projects. Modal includes warning that project keystore will be deleted.
+* Critical update to Thunkable Live for iOS released
 
 ## Feb 22, 2021
 
