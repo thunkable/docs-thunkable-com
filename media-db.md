@@ -27,9 +27,9 @@ To connect your Cloudinary cloud to Thunkable, simply retrieve the following fie
 
 ## Upload Media
 
-You can upload any media file to your Cloudinary DB.
+You can upload any media file from your phone to your Cloudinary account with the mediaDB component. In this case we do some additional checking with the [if do else](control.md#if-this-do-that) block to make sure that the user has attached an image and that neither the photo library nor the mediaDB components encounter an error. 
 
-![Example of getting Cloudinary URL for a photo and saving it as a cloud variable](.gitbook/assets/uploadphoto.png)
+![](.gitbook/assets/mediadb_upload.png)
 
 <table>
   <thead>
