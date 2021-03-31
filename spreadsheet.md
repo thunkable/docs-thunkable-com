@@ -27,9 +27,9 @@ We like Airtable because set-up is relatively a breeze for a spreadsheet
 
 There are four properties that you need to retrieve from Airtable to connect it with Thunkable: `API key`, `Base ID`, `Table Name` and `View Name`
 
-![](.gitbook/assets/spreadsheet-airtable-fig-3.png)
+![](.gitbook/assets/airtable_props.png)
 
-`API key`
+### API Key
 
 To retrieve the API key, you'll have to navigate to the Account page and generate an API Key
 
@@ -37,9 +37,7 @@ To retrieve the API key, you'll have to navigate to the Account page and generat
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-5.png)
 
-![](.gitbook/assets/spreadsheet-airtable-fig-6%20%281%29.png)
-
-`Base ID`
+### Base ID
 
 To retrieve the Base ID, navigate to the [Airtable API documentation](https://airtable.com/api) page and select your spreadsheet. You will see the Base ID in the 'Introduction' section of this page.
 
@@ -47,7 +45,7 @@ To retrieve the Base ID, navigate to the [Airtable API documentation](https://ai
 
 ![](.gitbook/assets/airtablebaseid.jpg)
 
-`Table Name` and `View Name`
+### Table Name and View Name
 
 The Table Name and View Name can be retrieved by grabbing the fields from your spreadsheet as shown below. Your default Table Name should be "Table 1". Your default View Name should be "Grid View".
 
@@ -63,7 +61,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-11%20%281%29.png)
 
-![](.gitbook/assets/screen-shot-2018-04-23-at-9.35.12-pm.png)
+![](.gitbook/assets/airtable_get_col.png)
 
 | Event | Description |
 | :--- | :--- |
@@ -79,7 +77,7 @@ The Table Name and View Name can be retrieved by grabbing the fields from your s
 
 ![](.gitbook/assets/spreadsheet-airtable-fig-15%20%281%29.png)
 
-![](.gitbook/assets/screen-shot-2018-04-23-at-9.34.58-pm.png)
+![](.gitbook/assets/airtable_create_row.png)
 
 | Event | Description |
 | :--- | :--- |
