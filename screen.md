@@ -62,7 +62,7 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 | Property | Description |
 | :--- | :--- |
-| Scrollable | Default \(`false`\). Indicates whether the screen is scrollable. For scrollable to work, you must also set your screen height to `fit contents`  and the components in your screen must have heights set in `absolute` pixels |
+| Scrollable | Default \(`false`\). Indicates whether the screen is scrollable. For scrollable to work, the components in your screen must have heights either set in `absolute` pixels or set to `fit contents` |
 
 ### Set Orientation
 
