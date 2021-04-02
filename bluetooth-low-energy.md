@@ -4,6 +4,33 @@
 
 Bluetooth Low Energy, or BLE, is used to wirelessly connect two devices to one another. The BLE component allows you to find and connect to BLE devices and to communicate directly with them.
 
+{% hint style="info" %}
+BLE functionality can't be tested with the [Thunkable Live](https://docs.thunkable.com/get-started/live-test) app on iOS.   
+To test the BLE functionality in your app on iOS, please [download](https://docs.thunkable.com/download#download-and-install-ios-app) your app.
+{% endhint %}
+
+## Add a Bluetooth component to Thunkable
+
+To add a Bluetooth component to your app:
+
+* Go to your Blocks tab
+* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
+* Click the ⊕ icon next to the `Bluetooth` drawer
+
+![](.gitbook/assets/advanced-components%20%281%29.png)
+
+You will see a dialog to create your Bluetooth component. Click Submit to create the component, or Delete to dismiss the dialog without creating the component.
+
+![](.gitbook/assets/add-ble.png)
+
+### Deleting your Bluetooth Component
+
+Once you have added at least one Bluetooth component to your app, you will be able to view all of your Bluetooth components under the `Bluetooth` drawer in the Advanced section of the Blocks tab. 
+
+![](.gitbook/assets/bluetooth-blicks.png)
+
+To delete a Bluetooth component, click on the ⚙ icon next to the component's name to bring up the properties dialog and click Delete.
+
 ## Functions
 
 Version 1 of the BLE component in Thunkable ✕ contains 5 functions, each of which are documented in greater detail below.
@@ -54,6 +81,8 @@ When you know the name of the BLE device that you want to connect to you can use
 
 If you have a BLE device that is capable of sending data to another device then you will need to use the `Receive` function in your app in order to listen to, or receive, data coming from the BLE device.
 
+You need to be connected to another Bluetooth device in order to use this block.
+
 ![](.gitbook/assets/bluetooth_receive.png)
 
 | Parameter | Type | Description |
@@ -65,6 +94,8 @@ If you have a BLE device that is capable of sending data to another device then 
 ### Transmit
 
 Should you need to send data to a BLE device then you can use the `Transmit` function to send that information. 
+
+You need to be connected to another Bluetooth device in order to use this block.
 
 ![](.gitbook/assets/bluetooth_transmit.png)
 

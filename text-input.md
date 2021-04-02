@@ -11,10 +11,12 @@ description: >-
 * [Style the Text Input](text-input.md#style-the-text-input)
 * [Edit the Text Input size](text-input.md#edit-the-text-input-size)
 * [Add spacing](text-input.md#add-spacing)
+* [Event Blocks](text-input.md#events)
+* [Property Blocks](text-input.md#properties)
 
 ![](.gitbook/assets/text-input-fig-1.png)
 
-## Set keyboard type
+## Set Keyboard type
 
 ![](.gitbook/assets/text-input-fig-2.png)
 
@@ -25,7 +27,7 @@ You can choose from the following types of keyboards:
 * **Numeric:** Displays a keypad with only numbers; It is similar to the phone pad keyboard
 * **Phone Pad:** Displays a telephone keypad; It is similar to the numeric keyboard
 
-## Set up for passwords
+## Set up for Passwords
 
 
 
@@ -33,9 +35,9 @@ You can choose from the following types of keyboards:
 
 You can also set up Text Input for passwords as shown below using the Secure Text Entry Switch. This switch will replace text with \* as users type.
 
-To activate Secure Text Entry, click on the advanced properties tab for the text input component. Scroll down to the Secure Text Entry section and set the switch to true.
+To activate Secure Text Entry, look for the Text Input Style properties and make sure that the  Secure Text Entry switch is set to true.
 
-![](https://lh4.googleusercontent.com/omT1m9fLlApRjOmKpjDj2yoSKYQta1hfWi3lSw-Atz0cOt8WHQFzQMaW37b0OnXWJOcS4GyPnziQ-Yn_Bv_G499Uddz9dMMT3ZAhlfD-av2NTjwj2pVfHrMglp0qQ5wi4xbDzddQ)
+![](.gitbook/assets/secure_text_entry.png)
 
 
 
@@ -81,6 +83,103 @@ You change the spacing and positioning of the text input with the Margin and Pad
 **Padding**
 
 * You can specify how much space you want between the border and the contents of the text input using either pixel or percent values.
+
+## Events
+
+### Click
+
+![](.gitbook/assets/ti_click.png)
+
+This event fires when the user clicks on the Text Input component.
+
+### Unfocus 
+
+![](.gitbook/assets/ti_unfocus.png)
+
+This event fires when the component looses focus, i.e the user clicks on another component.
+
+### Submit 
+
+![](.gitbook/assets/ti_submit.png)
+
+This event fires when the enter or submit button is pressed on the device keyboard.
+
+### Changes
+
+![](.gitbook/assets/ti_changes.png)
+
+This event fires every time a character is added or removed to the Text Input.
+
+
+
+## Properties
+
+### Border Width
+
+![](.gitbook/assets/boder_width.png)
+
+The border width value corresponds to the size of the border around the Text Input. Changes to the color and style of the border must be done in the[ designer.](text-input.md#style-the-text-input) 
+
+### Height 
+
+![](.gitbook/assets/height%20%281%29.png)
+
+The set and get height blocks work with the Height property of the Text Input component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Height
+* "Fit Contents"
+* "Fill Container"
+
+The `Computed Height` block returns the on-screen dimensions of the Text Input, after it has been rendered on the device screen. The value returned is an integer, representing the size of the component, in pixels.
+
+### Hint 
+
+![](.gitbook/assets/hint.png)
+
+The set and get hint work with the prompt that is displayed in the Text Input, before the user starts typing. Any string of text or number can be used as the hint.
+
+### Keyboard Type 
+
+![](.gitbook/assets/keyboard.png)
+
+The set and get keyboard type property gives you control over what version of the keyboard is displayed on-screen when the user starts typing. Acceptable values are:  
+
+
+* default
+* email address
+* numeric
+* phone pad
+
+### Text 
+
+![](.gitbook/assets/text%20%281%29.png)
+
+The set and get text property works with the string of text that displayed in the Text Input. 
+
+### Visible 
+
+![](.gitbook/assets/visible%20%282%29.png)
+
+The set and get visible blocks are used to show or hide the entire Text Input component. Acceptable values are:
+
+* True
+* False
+
+### Width
+
+![](.gitbook/assets/width%20%282%29.png)
+
+The set and get width blocks work with the Width property of the Text Input component. Acceptable values are.‌
+
+* Number of Pixels
+* Percentage Width
+* "Fit Contents"
+* "Fill Container"
+
+The `Computed Width` block returns the on-screen dimensions of the Text Input, after it has been rendered on the device screen. The value returned is an integer, representing the size of the component, in pixels.
+
+
 
 
 

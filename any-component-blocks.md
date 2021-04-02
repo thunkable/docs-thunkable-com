@@ -2,7 +2,7 @@
 
 The components in the ‘Any Component’ drawer are great tools to use instead of repeatedly using the same combination of blocks. They will also help you use fewer blocks in your app.
 
-![](https://lh6.googleusercontent.com/wLWDsH4Wv6Fnst0qdUNfq79YbdZJ7RPo_F5K-v6CDiSFAHbW41pAlCtLTrHxShdP6bUHrLaWp0uRawVWHhOhRHnrjDb8YHN5-YLH_NofT2zr4R-W_HSvU1nzY400NcA_eUD-74ge)
+![](.gitbook/assets/anybuttondemo.png)
 
 For example, to change the colour of any button on the screen to blue \(the blocks on the left\) we have to use 6 blocks. Using the ‘Any Component’ Blocks \(on the right\), we only need to use 2 blocks. ****
 
@@ -194,7 +194,7 @@ The ‘All Components in Container’ block groups together all the visible comp
 
 ![](.gitbook/assets/all-components-in-container.png)
 
-In the block above, all of the buttons that are on Screen1 are stored in list.
+In the block above, all of the buttons that are on Screen1 are stored in list. This means that you can use [list](https://docs.thunkable.com/lists) blocks to select items from this list, eg. the first item in 'all Button in Screen1'.
 
 ## Using the ‘All Components in Container’ Block?
 

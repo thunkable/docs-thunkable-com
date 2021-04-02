@@ -1,4 +1,4 @@
-# Fonts
+# 🔤 Fonts
 
 ## Fonts
 
@@ -10,8 +10,11 @@ The available font choices differ depending on whether you are developing for [A
 
 ### Android Fonts
 
-| normal |
+You can view these fonts [here](https://fonts.google.com/).
+
+| Font Name |
 | :--- |
+| normal |
 | notoserif |
 | sans-serif |
 | sans-serif-light |
@@ -23,6 +26,8 @@ The available font choices differ depending on whether you are developing for [A
 | monospace |
 
 ### iOS Fonts
+
+You can view these fonts [here](http://iosfonts.com/).
 
 | Academy Engraved LET |
 | :--- |

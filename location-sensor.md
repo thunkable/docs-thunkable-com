@@ -4,9 +4,9 @@
 
 ![](.gitbook/assets/location-sensor-fig-1.png)
 
-## Get user's current location
+## Get User's Current Location
 
-![](.gitbook/assets/location-sensor-fig-2.png)
+![](.gitbook/assets/screen-shot-2021-01-05-at-2.47.51-pm.png)
 
 The Location Sensor returns a user's current location in `latitude` and `longitude` as well as a `location` object which includes additional properties like `accuracy`, `altitude`, `speed` and `heading` \(or direction\) which you have to retrieve with the object blocks above
 

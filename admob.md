@@ -23,14 +23,14 @@ We highly recommend that you only add ads to your app after you have a large aud
 {% hint style="info" %}
 **AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
 
-All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://airtable.com/shr3qok3ARKXY7cBt). Once approved, apps can be downloaded and published without further review.
+All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ_Uon406Demqt_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform). Once approved, apps can be downloaded and published without further review.
 
 Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.
 
 Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob in the future. 
 {% endhint %}
 
-## Review guidelines
+## Review Guidelines
 
 Thunkable has partnered with AdMob to ensure that apps created on our cross-platform use ads to monetize apps in a way that both provides high quality traffic to advertisers and a high quality user experience for end users of apps.
 
@@ -49,13 +49,13 @@ Once approved, apps can be downloaded and published without further review.
 
 **Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.**
 
-## **Sample apps** <a id="sample-apps"></a>
+## **Sample Apps** <a id="sample-apps"></a>
 
 | **Sample App** | Description |
 | :--- | :--- |
 | [Dad with Ad](https://x.thunkable.com/projects/5c85f9c0bd31e8c4e90f3539/Welcome/designer) | Dad app with AdMob Banner ad on home screen and AdMob Rewarded Video ad that appears after a user has receive an answer from my dad |
 
-## Ad formats
+## Ad Formats
 
 |  | Banner ad | Interstitial ad | Rewarded video ad |
 | :--- | :--- | :--- | :--- |
@@ -73,39 +73,131 @@ That's it.  There's no blocks needed.
 
 The first banner ad will load when ready and will reload a new ad every minute.
 
-## Interstitial ad
+## Interstitial Ad
 
 Interstitial ads are recommended after a user has completed a task in your app. We don't recommend showing an interstitial ad right after the app opens and the user has not spent any time in your app.
 
-To show an interstitial app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app
+To show an interstitial app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app.
+
+### Adding an Interstitial ad to your app
+
+To add an Interstitial ad to your app:
+
+1. Go to your Blocks tab 
+2. Click on the icon next to the Ads drawer of blocks
+3. Select **AdMob Interstitial**
+
+![](.gitbook/assets/add-ad.png)
+
+![](.gitbook/assets/ads-dialog.png)
+
+You will see a dialog where you can set:
+
+* The **Name** of the AdMob component
+* The **Ad Unit ID \(Android\)**
+* The **Ad Unit ID \(iOS\)**
+* Whether **Test Mode** is enabled for this ad component
+
+![](.gitbook/assets/admob-inter-dialog.png)
+
+### Interstitial Ad Blocks
+
+#### Events
+
+Use the **when Ad Open** and **when Ad Close** blocks to trigger events to happen when the interstitial ad opens or closes.
+
+![](.gitbook/assets/admob-inter-blocks-events.png)
+
+#### Actions
+
+Use the **Show Ad** block to show an interstitial ad in your app. If there is an error, the **error** block will catch and return it.
 
 ![](.gitbook/assets/screen-shot-2019-03-08-at-8.54.29-am.png)
 
+#### Properties
 
+Use these blocks to set and get the **Android Ad Unit ID** of your interstitial ad.
 
-## R**ewarded video** ad
+![](.gitbook/assets/admob-inter-blocks-android-id.png)
+
+Use these blocks to set and get the **iOS Ad Unit ID** of your interstitial ad.
+
+![](.gitbook/assets/admob-inter-blocks-ios-id.png)
+
+Use these blocks to set and get the **Test Mode** status of your interstitial ad.
+
+![](.gitbook/assets/admob-inter-blocks-testmode.png)
+
+## R**ewarded Video** Ad
 
 Rewarded video ads are recommended after a user has completed a heavy task in your app and would be willing to watch a long video to continue. 
 
-To show a rewarded video app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app. You'll then want to add a `Reward User` event to continue the app. 
+To show a rewarded video app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app. You'll then want to add a `Reward User` event to reward your user in the app. 
+
+### Adding a Rewarded Video ad to your app
+
+To add an Rewarded Video ad to your app:
+
+1. Go to your Blocks tab 
+2. Click on the icon next to the Ads drawer of blocks
+3. Select **AdMob Rewarded Video**
+
+![](.gitbook/assets/add-ad.png)
+
+![](.gitbook/assets/ads-dialog.png)
+
+You will see a dialog where you can set:
+
+* The **Name** of the AdMob component
+* The **Ad Unit ID \(Android\)**
+* The **Ad Unit ID \(iOS\)**
+* Whether **Test Mode** is enabled for this ad component
+
+![](.gitbook/assets/videoadsettings.png)
+
+### Rewarded Video Ad Blocks
+
+#### Events
+
+Use the **when Ad Open** and **when Ad Close** blocks to trigger events to happen when the interstitial ad opens or closes.
+
+![](.gitbook/assets/admob-video-blocks-events.png)
+
+#### Actions
+
+Use the **Show Ad** block to show the ad video, and the **Reward User** block to reward the user after displaying the video.
 
 ![](.gitbook/assets/screen-shot-2019-03-08-at-8.55.38-am.png)
 
-## Live test <a id="live-test"></a>
+#### Properties
+
+Use these blocks to set and get the **Android Ad Unit ID** of your Rewarded Video Ad.
+
+![](.gitbook/assets/admob-video-blocks-android.png)
+
+Use these blocks to set and get the **iOS Ad Unit ID** of your Rewarded Video Ad.
+
+![](.gitbook/assets/admob-video-blocks-ios.png)
+
+Use these blocks to set and get the **Test Mode** status of your Rewarded Video Ad.
+
+![](.gitbook/assets/admob-video-blocks-testmode.png)
+
+## Live Test <a id="live-test"></a>
 
 For your convenience, we have provided a test  `Ad Unit ID` for you to see how a particular ad format may appear in your app. 
 
 During live test, all AdMob ads will be set to `test mode = true`, which means clicks and impressions will not be counted. This is true even if you add your own `Ad Unit ID` and set `test mode = false`.
 
-## Download and publish ![](.gitbook/assets/pro.png) 
+## Download and Publish ![](.gitbook/assets/pro.png) 
 
 {% hint style="info" %}
 Only ![](.gitbook/assets/pro.png) ****members can download and publish apps with AdMob
 {% endhint %}
 
-### **Submit for review**
+### **Submit for Review**
 
-All apps with AdMob must be approved by the team at Thunkable \([**submit your app here**](https://airtable.com/shr3qok3ARKXY7cBt)\).  
+All apps with AdMob must be approved by the team at Thunkable \([**submit your app here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ_Uon406Demqt_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform)\).  
   
 Once approved, apps can be downloaded and published without further review.
 

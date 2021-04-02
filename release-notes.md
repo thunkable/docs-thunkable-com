@@ -1,20 +1,394 @@
-# Release Notes
+# 📰 Release Notes
 
 ## Coming soon to Thunkable ✕
 
-New components
-
-* Canvas and Sprites
-* Extended Listviewer
-* Google Sheets
-
-Component updates
-
-* Screen - the ability to fix orientation to `portrait` and `landscape`
+**Fix for Thunkable Live app for iOS submitted to Apple for review as of Feb 23 2020  
+Follow the** [**Community Thread**](https://community.thunkable.com/t/thunkable-live-on-ios-doesnt-work/1117885/2) **for most up to date information**
 
 Platform updates
 
-* Translation into Chinese 中文 \(more languages to come in the future\)
+* Introduce a tool to convert snap-to-position projects to drag-and-drop projects
+* Introduce pan-to-scroll in Design tab of Drag and Drop UI 
+* Add rounded bezels to Screens in Design tab of Drag and Drop UI
+* Add the following to Drag and Drop UI
+
+  * AdMob Banner
+  * Switch
+  * 'Partial Results' output block for Speech Recognizer component
+
+Component Updates
+
+* Fix behavior where blocks in '[when Screen Opens](screen.md#when-screen1-opens)' event block are triggered multiple times
+* Improve Video Player performance on web apps
+* Improve performance of 'when Screen Opens' block when Loading Icon present on the Screen
+* Improve performance of Text Input 'on Focus' block on web
+* Improve performance of Animations with 'on Click' event blocks
+* Expand amount of data types supported by the Airtable Create Row block
+* Add font size, font color and background color settings to List Viewer
+* Introduce advanced [Objects](objects.md) block
+
+New Components
+
+* In-app purchases
+
+## Mar 18, 2021
+
+Platform Updates
+
+* Update Component Tree and Properties Panel layout in Drag and Drop UI
+* Increase screen size on Design tab in Drag and Drop project UI
+* Improve appearance of Labels in web apps published from Drag and Drop UI projects
+
+## Mar 15, 2021
+
+Component Updates
+
+* Improve performance of Translator component on the web
+
+## Mar 1, 2021
+
+Platform Updates
+
+* Add security modal to prevent accidental deletion of projects. Modal includes warning that project keystore will be deleted.
+
+## Feb 22, 2021
+
+Platform updates
+
+* Improved performance of Thunkable Live app for iOS
+* Introduced [status page](https://status.thunkable.com/) for Thunkable
+
+## Feb 15, 2021
+
+Platform Updates
+
+* Improve rendering of Screens in Design tab of Drag and Drop projects
+* Added the following components to Drag and Drop UI:
+  * Time Input
+  * Date Input
+  * Additional guidelines to guide positioning of components
+
+## Feb 8, 2021
+
+Component Updates
+
+* Added block [get device color scheme](device.md#get-device-color-scheme) to the [Device](device.md) drawer of blocks
+
+## February 3, 2021
+
+Platform Updates
+
+* Improve iOS build process on Drag and Drop UI
+
+Component Updates
+
+* Improve performance of Text Input with 'Secure Text Entry' property enabled on web apps and apps being previewed on the web
+* Update text for set/get blocks
+
+## January 26, 2021
+
+Platform Updates
+
+* Improve positioning of imported Figma files in a Screen
+* Improve appearance of component tree
+
+## January 8, 2021
+
+Platform updates
+
+* Add a processing indicator when new project is created
+
+Component Updates
+
+* Improve performance of [Sensor]() components
+
+## December 15, 2020
+
+Platform Updates
+
+* Combined Drag and Drop UI and moving invisible components to blocks. These features can now be enabled by checking 'Be the first to try out new drag and drop interface' when creating a new project.
+
+## December 2, 2020
+
+Platform updates
+
+* Removing certain permissions from built Android apps to make publishing to the Play Store easier
+* Enable creators to access their project files from the Thunkable Design tab
+
+## November 20, 2020
+
+Platform Updates
+
+* Introduced Drag and Drop as [beta feature](https://x.thunkable.com/account/settings)
+* Introduced moving invisible components to Blocks tab as [beta feature](https://x.thunkable.com/account/settings)
+
+Component updates
+
+* Add [PATCH](web-api.md#upload-data) method to [Web API](web-api.md) component
+
+## October 28, 2020
+
+Component Updates
+
+* Fixed error caused by deleting [Sprites](sprites.md) from app project
+
+## October 15, 2020
+
+Component Updates
+
+* Allow creators to add their own [Google Maps API key](map.md#google-maps-add-api-key) to their project settings
+
+## September 22, 2020
+
+Component Updates
+
+* [Delete All Rows](data-sources.md#delete-all-rows) block for [Data Sources ](data-sources.md)
+* [Alert](alert.md) now works in [Web Apps](publish-as-a-web-app-pro.md)
+
+## September 18, 2020
+
+Component Updates
+
+* Refresh block for [Data Viewer List](data-viewer-list.md) and [Data Viewer Grid ](data-viewer-grid.md)components
+
+New components
+
+* [Custom Data Viewer Layout](custom-data-viewer-layout.md) for use with [Data Viewer List ](data-viewer-list.md)and [Data Viewer Grid](data-viewer-grid.md)
+
+## September 8, 2020
+
+New components
+
+* [Rating](rating.md) Component
+
+## August 28, 2020
+
+New components
+
+* [Canvas Label](canvas-label.md)
+
+Component Updates
+
+* Add multiple [Stages](canvas.md#the-stage) to a [Canvas](canvas.md)
+
+## August 26, 2020
+
+Platform Update
+
+* Update built Android apps to target API level 29
+
+## August 7, 2020
+
+Component Updates
+
+* Manage [location permissions](web-viewer.md#manage-permissions) for [Web Viewer](web-viewer.md)
+
+## July 17, 2020
+
+Component updates
+
+* New [function](functions.md) with return blocks
+* Add opacity property to [Sprites](sprites.md)
+* Fix 'set Zoom to' block in [Map](map.md)
+* Add ability to add circles, polygons to Canvas with [Looks](looks.md) blocks
+* Support landscape mode for [Screens](screen.md) on Android apps
+* In web apps, open links in new tab
+* [Video Recorder](video-recorder.md) component
+
+## July 9, 2020
+
+Component Updates
+
+* Add Click event to [Lottie Animation](lottie.md) component
+* Fixes to [Map](map.md) Region so map does not reset on any event
+
+## July 3, 2020
+
+Component Updates
+
+* Add Go Forward/Go Back blocks to [Web Viewer](web-viewer.md)
+* Add 'flip [Sprite](sprites.md)' block to [Canvas](canvas.md) blocks
+
+## June 29, 2020
+
+Platform Updates
+
+* Add creator of original project to [Project Details Page](get-started/your-thunkable-projects-page.md#your-project-detail-page) of remixed projects
+
+## June 18, 2020
+
+Component updates
+
+* Adding click events for [Text Input](text-input.md), [Label](label.md) and [Image](image-1.md) components
+* Improving the [Map](map.md) event
+* [Data Source](data-sources.md): Google Sheets can now be accessed by index in Data Source blocks 
+* [Time Input ](time-input.md)label updated
+
+New components
+
+* [Audio Recorder]()
+
+## June 15, 2020
+
+Platform updates
+
+* Redesign of [Thunkable Projects Page](https://docs.thunkable.com/get-started/your-thunkable-projects-page)
+
+## June 8, 2020
+
+Component updates
+
+* Make appearance of [Text Input](text-input.md) in Design tab more true to how it appears in built app/web app when Number Of Lines is greater than 1
+* Add blocks to set Image of [Sprite](sprites.md) to next/previous image in Picture List
+
+## June 5, 2020
+
+Platform updates
+
+* New tutorials panel
+
+## May 7, 2020
+
+New components
+
+* [Data Viewer List ](https://docs.thunkable.com/data-viewer-list)and [Data Viewer Grid](https://docs.thunkable.com/data-viewer-grid): list viewers with extended functionality that can be connected to external [Data Sources](https://docs.thunkable.com/data-sources) \(Google Sheets, Airtable, Local DB\)
+
+## Apr 27, 2020
+
+Component updates
+
+* Ability to fix [Screen Orientation](https://docs.thunkable.com/screen#set-orientation) to `Portrait`, `Landscape` or `auto`
+
+## Mar 26, 2020
+
+Blocks
+
+* Added `if-else` block
+
+Bugs
+
+* Fixed bug in `forever` block
+
+Platform
+
+* Removed deprecated UIWebView component \(ITMS-90809\)
+
+## Mar 13, 2020
+
+Platform updates
+
+* Ability to publish your Thunkable app as a [web app](https://docs.thunkable.com/publish-as-a-web-app-pro)
+
+## Feb 28, 2020
+
+Platform updates
+
+* [Save screens](https://community.thunkable.com/t/latest-thunkable-release-save-screens-is-here-2020-02-27/488296) and use them in different projects 
+* Added Z property on sprites
+* Save expand/collapse settings in the component tree
+
+## Jan 29, 2020
+
+Bug fixes
+
+* Fixes bugs related to recent blocks speed improvement as detailed in the [community](https://community.thunkable.com/t/thunkable-x-blocks-update-your-feedback/425809?u=jane)
+
+Platform
+
+* Preview your app without your device. Added a web preview to the Live Test modal so creators can preview their app without their device. Just click on the `Live Test` button in the designer to test this feature for yourself. This feature is in beta and [not all components are supported](https://docs.thunkable.com/web-preview)
+
+## Jan 23, 2020
+
+Platform
+
+* Speed improvements for projects with large number of blocks
+
+## Jan 3, 2020
+
+Platform updates
+
+* [Web Preview]() \(Beta\) - see a web preview of your apps on the details page of your project and any project on the Thunkable gallery; some [components are not supported yet]() and projects may appear differently than they do on your device
+
+## Dec 19, 2019
+
+Platform updates
+
+* Project Detail Page - updated styling \([see sample](https://x.thunkable.com/projectPage/5c183d7c7bd8616f60c5a39a)\)
+
+## Dec 10, 2019
+
+Platform updates
+
+* User Profile Page - updated profile pages for all creators, featuring all your projects \([see sample](https://x.thunkable.com/profiles/albert)\); Only `public` projects will be visible to other creators
+
+Component updates
+
+* [Timer](timer.md) - added the ability to set the timer in seconds or milliseconds and to count up
+
+## Nov 18, 2019
+
+Platform updates
+
+* Gallery - added the ability to star your favorite projects
+
+## Oct 29, 2019
+
+New components
+
+* [Barcode Scanner](barcode-scanner.md) - allow apps to read any barcode or QR code with the help of a device camera
+
+Component updates
+
+* [Video](video.md) - added the ability to auto-play videos and pause / play video from blocks
+
+## Oct 25, 2019
+
+Platform updates
+
+* Gallery - added the ability to search public gallery projects by creator username
+
+## Oct 18, 2019
+
+New components
+
+* [Video](video.md) - allow users to play videos in your app
+
+## Oct 4, 2019
+
+Component updates
+
+* [Canvas](canvas.md) - added option to change the color of the frame, or the area surrounding the Canvas
+* [Alert](alert.md) - adds default text for the Confirm and Cancel buttons
+
+## Oct 2, 2019
+
+Component updates
+
+* [Assistant](assistant.md) by Dialogflow - upgrades the API to V2 since V1 is retiring on Oct 23, 2019
+
+## Sep 12, 2019
+
+Bug fixes
+
+* Screen - fixes `Scrollable` property on Screen component; still a bug with `Scrollable` property for Row component
+
+## Sep 10, 2019
+
+New components
+
+* [Canvas](canvas.md) and [Sprites](sprites.md) - build simple games like Space Invaders and Pong with our newest version of Canvas which includes among other features, a physics engine to create more engaging games
+* [PDF Reader](pdf-reader.md) - allow users to view PDFs from the convenience of an app
+
+Platform updates
+
+* [Importing / exporting Android keystores](publish-to-play-store-android.md#export-keystore-from-thunkable-classic) - update apps published to the Google Play store that were made on Thunkable Classic or another compatible platform
+
+## Sep 4, 2019
+
+New components
+
+* [Date Input](date-input.md) - lets users easily select a specific date using the native Android or iOS date picker
+* [Time Input](time-input.md) - lets users easily select a specific time using the native Android or iOS date picker
 
 ## Aug 21, 2019
 
@@ -117,7 +491,7 @@ New Components
 
 Component Updates
 
-* [Payment](payment.md) by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction \(0% Thunkable fee\)
+* [Payment]() by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction \(0% Thunkable fee\)
 
 ## May 6, 2019
 
@@ -129,7 +503,7 @@ New Components
 
 New Components
 
-* [Blockchain Wallet](oasisweb3.md) and [Smart Contract](oasissmartcontract.md) by Oasis - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
+* [Blockchain Wallet]() and [Smart Contract]() by Oasis - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
 
 ## Apr 9, 2019
 
@@ -272,7 +646,7 @@ Platform updates
 Platform updates
 
 {% hint style="success" %}
-Thunkable has launched the [Public Gallery](untitled.md), a public collection apps for anyone to preview, download or remix.
+Thunkable has launched the [Public Gallery](public-gallery.md), a public collection apps for anyone to preview, download or remix.
 
 All new apps will be public by default and included in the Public Gallery.
 
@@ -363,7 +737,7 @@ Bug fixes
 Platform updates
 
 * Renaming components is now supported. Click on the top of the properties panel to edit the component name
-* Each new project can be set to [public or private](public-vs-private-projects.md).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](share-1.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
+* Each new project can be set to [public or private](projects/).  Public projects are eligible to be featured in the Thunkable Gallery and can be shared in both [read-only](share-1.md#share-a-read-only-version-of-your-app-project) and fully-editable mode
 * Sample apps now featured on the project list page
 * Supports iOS usage descriptions for describing to users why certain permissions are needed when they download your app; applies only when you Publish to the iOS App Store
 
@@ -376,7 +750,7 @@ Component updates
 Component updates
 
 * [Map](map.md) - adds new block events e.g. on Map Click, on Marker Click and supports the ability to add markers, polylines and polygons
-* [Text to Speech](https://docs.thunkable.com/x/components/artificial-intelligence/text-to-speech.html) - increase supported languages from 6 to 87
+* [Text to Speech](https://docs.thunkable.com/text-to-speech) - increase supported languages from 6 to 87
 * [Share](share.md#share-an-image) - now supports sharing locally stored assets \(does not work on Live Test for iOS\)
 
 New components
@@ -388,7 +762,7 @@ New components
 
 Platform updates
 
-* [Five new tutorials](tutorials.md) for Thunkable beginners now located in platform panel on the left
+* [Five new tutorials](get-started/tutorials.md) for Thunkable beginners now located in platform panel on the left
 * [Share a read-only version](share-1.md#share-a-read-only-version-of-your-app-project-by-link) of your project is now supported with a public option
 
 Bug fixes
@@ -400,12 +774,12 @@ Bug fixes
 
 ## May 7, 2018
 
-Platform updates
+Platform updates [broken link](https://play.google.com/brokenlink) [out-of-bounds link](https://app.gitbook.com/@thunkable/s/thunkable-docs/~/edit/drafts/-LnMymO8dgjVIc_YwQ4R/functions)
 
 * Significant user interface update including a new Design / Blocks switch, add Components shifted to the left panel and Properties shifted to the right panel
-* Live app now lets you [live preview](live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
+* Live app now lets you [live preview](get-started/live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
 * [Publish for Android](publish.md#publish-to-the-play-store-android) now supported
-* Adds [version support](https://docs.thunkable.com/x/5-publish.html#step-⑤--send-your-app-to-itunes-connect-on-thunkable) for download / publish for Android and iOS
+* Adds [version support](https://docs.thunkable.com/publish-to-app-store-ios#send-to-app-store-connect) for download / publish for Android and iOS
 * Updated [download](download.md#download-and-install-ios-app) and [publish](publish.md#publish-to-the-app-store-ios) emails for iOS
 
 ## April 12, 2018
@@ -416,7 +790,7 @@ Component updates
 
 New components
 
-* [Speech Recognizer](speech-recognizer.md) - uses artificial intelligence to recognize and translate spoken language into text in 14 different languages
+* [Speech Recognizer]() - uses artificial intelligence to recognize and translate spoken language into text in 14 different languages
 * [Share](share.md) - allows users to share text or post images using their favorite installed communication app from Slack and Facebook to iMessage and WhatsApp
 * [Switch](switch.md) - popular UI element to turn on and off a certain feature in an app, often used in settings pages
 
@@ -429,7 +803,7 @@ Platform updates
 New components
 
 * [Spreadsheet](spreadsheet.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
-* [Payment](payment.md) by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
+* [Payment]() by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
 
 Platform updates
 
@@ -447,7 +821,7 @@ Platform updates
 
 Component updates
 
-* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](translator.md), [Text to Speech](text-to-speech.md) and [Assistant](assistant.md)
+* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](), [Text to Speech]() and [Assistant](assistant.md)
 * Transparent color now available as a color property across all visible components
 * Easy select and upload via Picture property for [Image]() component
 
