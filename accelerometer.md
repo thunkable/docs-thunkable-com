@@ -38,11 +38,9 @@ You will see the sensors you have added to your app underneath the Sensors secti
   
 If you click on the ⚙ icon next to your Accelerometer, you will be able to edit its settings as seen in the panels above. You can click on your Accelerometer's name to access its drawer of blocks.‌
 
-## Blocks
+## Events
 
-### Events
-
-#### Shaking
+### Shaking
 
 There may be some instances where you want to start an event by shaking your mobile device or when the mobile device is shook. There is a `Shaking` event that you can add to your blocks that has sensitivity levels of `high`, `medium` and `low`
 
@@ -50,7 +48,7 @@ There may be some instances where you want to start an event by shaking your mob
 
 
 
-#### Accelerometer Changes
+### Changes
 
 When the accelerometer sensor detects a change in the force acting on the phone the `Changes` event will be fired. Each time the event fires the four associated parameters will be updated.
 
@@ -63,7 +61,7 @@ When the accelerometer sensor detects a change in the force acting on the phone 
 | `zAcceleration` | Number | Change in speed of the phone, along the z axis, in $$m/s^2 $$  |
 | `error` | String | Error message from sensor |
 
-## Properties
+## Functions
 
 #### Get Acceleration on X, Y, Z axes
 
@@ -71,18 +69,20 @@ You can get the values for xAcceleration, yAcceleration and zAcceleration at any
 
 ![](.gitbook/assets/image%20%28137%29.png)
 
-#### Enabled
+## Properties
+
+### Enabled
 
 By default the accelerometer sensor will be turned on, but you can use the `Enabled` property to read its current state and to change its state, i.e turn the sensor on and off.
 
-![](.gitbook/assets/screenshot-2019-05-18-at-14.14.11.png)
+![](.gitbook/assets/acc_enabled.png)
 
 | Property | Type | Default |
 | :--- | :--- | :--- |
 | `set Enabled` | Bool | True |
 | `get Enabled` | Bool |  |
 
-#### Sensitivity
+### Sensitivity
 
 You can use the Sensitivity blocks to set the sensitivity of the Accelerometer and get its current level of sensitivity.
 

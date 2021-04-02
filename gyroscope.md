@@ -35,21 +35,21 @@ You will see the sensors you have added to your app underneath the Sensors secti
 
 If you click on the ⚙ icon next to your Gyroscope, you will be able to edit its settings as seen in the panels above. You can click on your Gyroscope's name to access its drawer of blocks.
 
-## Blocks
 
-### Events
 
-#### when Gyroscope Changes
+## Events
+
+### when Gyroscope Changes
 
 Whenever the phone is turned, or rotated, the `Changes` event will fire. 
 
 ![](.gitbook/assets/gyro_changes.png)
 
-### Properties
+## Properties
 
 By default the gyroscope sensor is turned on, but the `enabled`property can be used to read and write new values to the gyroscope, thus allowing you to turn it on or off.
 
-![](.gitbook/assets/screenshot-2019-05-18-at-14.15.07.png)
+![](.gitbook/assets/gyros_enabled.png)
 
 | Property | Type | Default |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ By default the gyroscope sensor is turned on, but the `enabled`property can be u
 
 ![](.gitbook/assets/image%20%2825%29.png)
 
-![](.gitbook/assets/gyro_abc.png)
+![](.gitbook/assets/gyro1.png)
 
 | Property | Type | Description |
 | :--- | :--- | :--- |
@@ -66,7 +66,7 @@ By default the gyroscope sensor is turned on, but the `enabled`property can be u
 | `Beta` | Number | Rotation about the x-axis |
 | `Gamma` | Number | Rotation about the z-axis |
 
-![](.gitbook/assets/gyro_xyz.png)
+![](.gitbook/assets/gyro2.png)
 
 | Property | Type | Description |
 | :--- | :--- | :--- |
