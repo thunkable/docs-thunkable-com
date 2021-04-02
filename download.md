@@ -8,17 +8,15 @@ Before you download, we recommend first [adding an App Icon and Name](projects/s
 * [Download and install Android app](download.md#download-and-install-android-app)
 * [Download and install iOS app](download.md#download-and-install-ios-app)
 
-## Download limits
+## iOS Download limits
 
-Due to special circumstances from Apple, there is a limit of one downloaded app per phone on iOS. Download wait times will also be a bit longer.
+Due to special circumstances from Apple, there is a limit of one downloaded app per phone on iOS. Download wait times may also be a bit longer. You can download and install as many apps as you like to your Android device.
 
-iOS
-
-| Android | iOS |  |
+|  | Android | iOS |
 | :--- | :--- | :--- |
 | Download app limit | No limit | One app per phone |
 
-### Download Android app
+## Download Android app
 
 To download your Android app:
 
@@ -37,7 +35,7 @@ You will be sent an email with a link to download your app.
 To install your Android app, you will need to go to **Settings** &gt; **Security** and allow apps to be installed from **Unknown Sources**. This will allow you to install apps from sources other than the Play Store.
 
 {% hint style="info" %}
-Anyone installing your app directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of apps from Unknown sources
+Anyone installing your app directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of apps from Unknown Sources
 {% endhint %}
 
 ![](.gitbook/assets/download-fig-4.png)
