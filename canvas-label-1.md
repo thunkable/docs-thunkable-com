@@ -4,13 +4,13 @@
 
 ### Set Text
 
-![](.gitbook/assets/canvaslabeltext.png)
+![](.gitbook/assets/text.jpg)
 
 Set the text being displayed in the Canvas Label.
 
 ### Get Text
 
-![](.gitbook/assets/canvaslabelgettext.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%289%29.jpg)
 
 Get the text of the Canvas Label.
 
@@ -20,13 +20,13 @@ Get the text of the Canvas Label.
 
 #### Set X
 
-![](.gitbook/assets/canvaslabelsetx.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%281%29.jpg)
 
 Set the X Co-ordinate of the top-left pixel of the Canvas Label.
 
 #### Get X
 
-![](.gitbook/assets/canvaslabelgetx.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%2810%29.jpg)
 
 Get the X Co-ordinate of the top-left pixel of the Canvas Label.
 
@@ -34,13 +34,13 @@ Get the X Co-ordinate of the top-left pixel of the Canvas Label.
 
 #### Set Y
 
-![](.gitbook/assets/canvaslabelsety.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%285%29.jpg)
 
 Set the Y Co-ordinate of the top-left pixel of the Canvas Label.
 
 #### Get Y
 
-![](.gitbook/assets/canvaslabelgety.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%283%29.jpg)
 
 Get the Y Co-ordinate of the top-left pixel of the Canvas Label.
 
@@ -50,13 +50,13 @@ Get the Y Co-ordinate of the top-left pixel of the Canvas Label.
 
 #### Set Font size
 
-![](.gitbook/assets/canvaslabelsetfontsize.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%287%29.jpg)
 
 Set the font size of the text of the Canvas Label.
 
 #### Get Font Size
 
-![](.gitbook/assets/canvaslabelgetfontsize.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%282%29.jpg)
 
 Get the font size of the text of the Canvas Label.
 
@@ -64,13 +64,13 @@ Get the font size of the text of the Canvas Label.
 
 #### Set color
 
-![](.gitbook/assets/canvaslabelsetcolor.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%286%29.jpg)
 
 Set the color of the text of the Canvas Label.
 
 #### Get Color
 
-![](.gitbook/assets/canvaslabelgetcolor.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%284%29.jpg)
 
 Get the color of the text of the Canvas Label.
 
@@ -78,13 +78,13 @@ Get the color of the text of the Canvas Label.
 
 #### Set Background Color
 
-![](.gitbook/assets/canvaslabelbsetbg.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy%20%288%29.jpg)
 
 Set the color of the background of the Canvas Label.
 
 #### Get Background Color
 
-![](.gitbook/assets/canvaslabelgetbg.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-3.42.48-pm-copy.jpg)
 
 Get the color of the background of the Canvas Label.
 
