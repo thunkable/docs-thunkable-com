@@ -17,7 +17,7 @@ Thunkable PRO subscribers get 1GB of storage and can create unlimited public and
 | Screens | No fixed limit |
 | Download | One app per phone for iOS; no limit for Android |
 | Minimum Android version | 5.0 \(21\) Lollipop |
-| Minimum iOS version | 10.0 |
+| Minimum iOS version | 11.0 |
 
 You can view a project's app size on the project's details page:
 
@@ -27,13 +27,17 @@ The main contributor to an app's size are files \(also known as assets\). To add
 
 ![](../.gitbook/assets/manage_assets.gif)
 
-## Account storage limits \(200MB per account\)
+## Account storage limits
 
 You can view your total account storage size in your account settings.
 
+Free Thunkable accounts have 200MB of storage. PRO Thunkable accounts have 1GB of storage.
+
+Read more about Thunkable PRO [here](https://thunkable.com/#/pricing).
+
 ![](../.gitbook/assets/screen-shot-2019-04-04-at-2.13.03-pm.png)
 
-If you are near the limit, you may be able to create additional storage by removing projects that you no longer need like an old version or copy of a project. We may add the option for you to purchase additional storage in the future.
+If you are near the limit, you may be able to create additional storage by removing projects that you no longer need like an old version or copy of a project. 
 
 ![](../.gitbook/assets/ezgif.com-video-to-gif-1.gif)
 
