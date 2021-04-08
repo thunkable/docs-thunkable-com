@@ -55,23 +55,17 @@ To set a video to play automatically, just toggle the Play property to `true`
 
 ![](.gitbook/assets/screen-shot-2019-10-29-at-2.03.22-pm.png)
 
-## Change Video
+## Blocks
 
-If you want to build a video player [like this sample app](https://x.thunkable.com/copy/f915eb9a227c4214f5f6c4521d31a86c), you may want to change the video source when an event happens, eg. when the Next button is clicked. If you index your videos in something like a Local DB, you can change the video being displayed with the blocks below:
+### Set Video
 
-![Blocks from a Video player sample app](.gitbook/assets/screen-shot-2019-10-17-at-3.30.25-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.16.23-pm.png)
 
-## Pause and Resume Video 
+### Get Video
 
-The easiest way to permit the user to pause or resume a video is through the built-in video player. 
+See what video is currently set as the Video component's source
 
-There is the option to also pause a video in the blocks editor. To do so, you can use blocks like the ones shown below:
-
-{% hint style="warning" %}
-For Android creators, we recommend using the built in video player to pause and resume videos. Using the blocks below will reset the video to the beginning of the video \(and not where it was last played\)
-{% endhint %}
-
-![](.gitbook/assets/screen-shot-2019-10-29-at-2.16.45-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.17.34-pm.png)
 
 
 
