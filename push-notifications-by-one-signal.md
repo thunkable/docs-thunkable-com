@@ -23,10 +23,6 @@ However, annoying notifications---those that are irrelevant and too frequent---c
 **Push Notifications are a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps \(Android only\), only PRO Thunkers can download and publish apps with Push Notifications.
 {% endhint %}
 
-{% hint style="danger" %}
-Live Testing on Push Notifications is currently \(Sept. 2019\) not working as expected for all users. We're working to fix this, but for now please download your app to test and verify your OneSignal account.
-{% endhint %}
-
 {% hint style="info" %}
 **Availability**
 
@@ -35,6 +31,21 @@ Live Testing on Push Notifications is currently \(Sept. 2019\) not working as ex
 | Android | All Thunkers | All Thunkers | \*\*\*\*![](.gitbook/assets/pro.png) only | \*\*\*\*![](.gitbook/assets/pro.png) only |
 | iOS | All Thunkers | Not available | Not available | ![](.gitbook/assets/pro.png) only |
 {% endhint %}
+
+## Adding a Push Notifications component to your app
+
+To add a Push Notifications component to your app:
+
+* Go to your Blocks tab
+* Click the ⚙ icon next to the `Push Notifications` drawer
+
+![](.gitbook/assets/push-notifications.png)
+
+You will see a dialog with options to enter an [Android app ID](push-notifications-by-one-signal.md#android-setup) or an [iOS app ID](push-notifications-by-one-signal.md#ios-setup) for your Push Notifications component. You can learn how to get these IDs in the rest of this document.
+
+![](.gitbook/assets/push-dialog.png)
+
+To edit the properties of the Push Notifications component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click cancel to dismiss the dialog without saving your changes.
 
 ## Sign up with One Signal
 
@@ -118,11 +129,9 @@ Copy the alpha numeric code that OneSignal generates called **Your App ID** in t
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-11.34.39.png)
 
-On Thunkable, drag and drop the Push Notifications component into your app.
+On Thunkable, open the Push Notifications dialog and paste this ID into the Android App ID field.
 
-On the right hand side, paste the code from One Signal into the Android App ID section. 
-
-![](.gitbook/assets/android.png)
+![](.gitbook/assets/push-dialog.png)
 
 Click the Live Test button. Once the app is on your phone, go back to One Signal. Click the "Check Subscribed Users" button.
 
@@ -193,9 +202,11 @@ Copy the alpha-numeric code labeled **Your App ID** and head back to Thunkable.
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-13.19.03.png)
 
-Paste your ID in the **IOS\_AppID** field and you're almost done. In order to now publish your app your will have to create a .mobileprovision profile. You can find details of how to do this on the ["Publish to App Store" page](publish-to-app-store-ios.md#adding-push-notifications).
+On Thunkable, open the Push Notifications dialog and paste this ID into the iOS App ID field.
 
-![](.gitbook/assets/screenshot-2019-05-01-at-13.19.25.png)
+![](.gitbook/assets/push-dialog.png)
+
+You are now almost done. In order to now publish your app your will have to create a .mobileprovision profile. You can find details of how to do this on the ["Publish to App Store" page](publish-to-app-store-ios.md#adding-push-notifications).
 
 When you are ready to send your first push notification, select the "MESSAGES" option and then select "NEW PUSH". You will now be able to create push notifications and send them to your app users.
 

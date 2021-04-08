@@ -8,11 +8,11 @@ description: >-
 
 ## **Sign Up**
 
-If you've never used Thunkable before then you should visit our [sign up](https://x.thunkable.com/signup) page. The sign up page gives you two options. You can either sign up with your Google account or you can use any other email address you want. We recommend using your Google account, as it will make testing your app a little easier.
+If you've never used Thunkable before then you should visit our [sign up](https://x.thunkable.com/signup) page. The sign up page gives you two options. You can either sign up with a Google account or any other email address. We recommend using your Google account, as it will make testing your app a little easier.
 
 ![](../.gitbook/assets/sign_up%20%281%29.png)
 
-If you click **Sign up with Google** you will be signed in automagically. Clicking on **Sign in with email** will invite you to enter your email address and click a button saying **Email me the link**. Once you do this, we'll send you a magic link to your inbox.
+If you click **Sign up with Google**, you will be automagically signed in. Clicking on **Sign in with email** will prompt you to enter your email. Once you do this, we will send you a link to verify your account.
 
 ![](../.gitbook/assets/sign_up.png)
 
@@ -36,13 +36,13 @@ If you click **Sign in with email** you will be invited to type you email addres
 
 ![](../.gitbook/assets/sign_in_invitation.png)
 
-When you click **Email me the link** we will send you a magic link that will sign you back into your account.
+When you click **Email me the link** we will send you a link that will sign you back into your account.
 
 ![](../.gitbook/assets/invitation_email.png)
 
 ## **Next Steps**
 
-To learn more about using Thunkable take a look at some of our fantastic [tutorials](tutorials.md).
+To learn more about using Thunkable, take a look at some of our [tutorials](tutorials.md).
 
-Once you're ready to try out your app, we have a helpful guide for [live testing](live-test.md) your apps.
+Once you're ready to try out your app, we have a helpful guide for [live testing](live-test.md).
 

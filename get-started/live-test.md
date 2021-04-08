@@ -1,19 +1,19 @@
 ---
-description: Preview your Thunkable project on almost any Android or iOS device.
+description: 'Preview your Thunkable project with our Thunkable live app, or on the Web'
 ---
 
-# Thunkable Live App
+# Live Test your App
 
-## **What is Thunkable Live?**
+## **What is the Thunkable Live App?**
 
-Thunkable Live is an app that connects the projects in your web browser directly to your mobile device. It allows you to do two things:
+The Thunkable Live app connects the projects in your web browser directly to your mobile device. It allows you to do two things:
 
-1. You can [**Live Test**](live-test.md#live-test) your project. Any changes you make in your browser are displayed on your device, while you are working.
+1. You can [**Live Test**](live-test.md#live-test) your project. Any changes you make in your browser are displayed on your device immediately. 
 2. You can [**Live Preview**](live-test.md#live-preview) any of your projects, directly on your device, without the need to be logged in to your computer.
 
-## **Download Thunkable Live**
+## **Download the Thunkable Live App**
 
-The Thunkable app allows you to live test your app on your device, in real-time, while you are building it. Not even hard core developers have this super power. You can also preview all your app projects from the comfort of your mobile device.
+The Thunkable Live app allows you to live test your app on your device, in real-time, while you are building it. Not even hard core developers have this super power. You can also preview all your app projects from the comfort of your mobile device.
 
 | [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](http://appstore.com/thunkablelive) |
 | :--- | :--- |
@@ -33,7 +33,7 @@ While live testing, any changes that you make to your project should be reflecte
 
 From any of your Thunkable projects, click on the **Live Test** button at the top of the screen to begin live testing.
 
-![](../.gitbook/assets/live_test%20%281%29.png)
+![](../.gitbook/assets/live_test_icon.png)
 
 ‌The next pop-up you see depends on if you are [signed in with Google](live-test.md#if-you-are-signed-in-with-google) or if you have [signed in by email](live-test.md#if-you-are-signed-in-by-email).‌
 
@@ -65,7 +65,7 @@ For the first time, you can live preview all your app projects from the comfort 
 
 ## Troubleshooting
 
-Common issues
+Common issues with the Thunkable Live app
 
 ### **You see a blank / white screen when you live test \(even if there are items in your app\)**
 
@@ -82,4 +82,44 @@ Common issues
 ### **Image is not showing up on your phone**
 
 * The height or width of the image may be set to 'Fit contents'
+
+## Preview your App on the Web
+
+Preview on the Web allows you to live preview your own project directly from your browser. Simply click on "Live Test" to preview your own app in a pop-up window.  
+
+![](../.gitbook/assets/screen-shot-2021-04-08-at-4.39.02-pm.png)
+
+ 
+
+![](../.gitbook/assets/screen-shot-2021-04-08-at-4.41.10-pm.png)
+
+You can click the **Preview in a New Window** text to preview your app in a new browser tab:
+
+![](../.gitbook/assets/screen-shot-2021-04-08-at-4.41.51-pm.png)
+
+You can also preview any _public_ app, directly from the Project Detail Page. Here's [one example](https://x.thunkable.com/projectPage/5ea6ed029ce3d64d1d3a27dc) but you can find thousands of others in the public gallery.
+
+![](../.gitbook/assets/screen-shot-2021-04-08-at-4.43.12-pm.png)
+
+### Unsupported Components
+
+Not all components are supported on the web at this time so please see the list below of components that are **`not supported`**:
+
+| Component | Category | Status |
+| :--- | :--- | :--- |
+| **Map** | Location | **`Not supported yet`** |
+| **Share** | Social | **`Supported but may not work as expected`** |
+| **Push Notification** | Social | **`Not supported yet`** |
+| **AdMob** | Monetization | **`Can not be supported`** |
+| **Bluetooth Low Energy** | Sensors | **`Not supported yet`** |
+| **Accelerometer** | Sensors | **`Supported but may not work as expected`** |
+| **Gyroscope** | Sensors | **`Supported but may not work as expected`** |
+| **Magnetometer** | Sensors | **`Supported but may not work as expected`** |
+| **Speech Recognizer** | Voice | **`Not supported yet`** |
+| **Assistant** | Voice | **`Not supported yet`** |
+| **Photo Library** | Image | **`Not supported yet`** |
+| **Barcode Scanner** | Image | **`Not supported yet`** |
+| **Local Storage** | Data | **`Not supported yet, use`** [**`stored variables`**](../variables.md)**\`\`** |
+
+
 

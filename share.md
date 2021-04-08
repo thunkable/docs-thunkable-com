@@ -1,68 +1,54 @@
 # Share
 
-![Adding the sharing component to your app](.gitbook/assets/sharing-component-picture.png)
+You can use the Share blocks to share media and messages with people using external apps.
 
-Sharing is caring and the Share component enables users to use the default apps on their mobile device to make a phone call, send a text, send an email or send a text or image via a user's pre-installed apps.
+![](.gitbook/assets/share-blocks.png)
 
-|  | Android | iOS |
-| :--- | :--- | :--- |
-| Make a phone call | Phone | Phone |
-| Send a text | Messages | iMessage |
-| Send an email | Gmail | Mail |
-| Share a text or image | Any pre-installed communication app \(e.g. WhatsApp, Slack, etc\) | Any pre-installed communication app \(e.g. WhatsApp, Slack, etc\) |
+## Call Phone Number
 
-* [Make a phone call](share.md#make-a-phone-call)
-* [Send a text](share.md#send-a-text)
-* [Send an email](share.md#send-an-email)
-* [Share a text or image](share.md#share-a-message)
+Opens your phone app with the given number ready to call. This block will not place a phone call without the app user's knowledge.
 
-## Make a phone call
+![](.gitbook/assets/image%20%28126%29.png)
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits.png)
 
-![](.gitbook/assets/screen-shot-2018-12-13-at-12.05.03-pm.png)
+## Send Text Message
 
-| Event | Description |
-| :--- | :--- |
-| Call Phone \(`phone number`\) | Opens default Phone app to make a call to a specified `phone number` with one add'l click; does not make phone call automatically for security and safety reasons |
+Opens your default text messaging app with the given text ready to be sent to the given number. This block will not send a text message without the app user's knowledge.
 
-## Send a text
+![](.gitbook/assets/image%20%28150%29.png)
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits-90.png)
 
-![](.gitbook/assets/screen-shot-2018-12-13-at-12.05.22-pm.png)
-
-| Event | Description |
-| :--- | :--- |
-| Send Text Message \(`phone number`, `message`\) | Opens default messaging app to send a text `message` to a specified `phone number` with one add'l click; does not send text automatically for security and safety reasons |
-
 ## Send an email
+
+Opens your default email app with an email with the given subject and body ready to be sent to the given email address. This block will not send an email without the app user's knowledge.
+
+![](.gitbook/assets/image%20%28149%29.png)
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits-91.png)
 
-![](.gitbook/assets/screen-shot-2018-12-13-at-12.05.44-pm.png)
+You can send an email to multiple recipients by separating the different email addresses with a comma in the 'send email to' section of the block.
 
-| Event | Description |
-| :--- | :--- |
-| Send Email \(`to email`, `subject`,`message`\) | Opens default email app to send an email`message` to a specified `to email`  with one add'l click; does not send email automatically for security and safety reasons |
+![](.gitbook/assets/screen-shot-2021-03-04-at-1.33.00-pm.png)
 
-## Share a text or image
+{% hint style="info" %}
+You can use HTML formatting to customize the emails you send with the Share component \(iOS only\)
+{% endhint %}
+
+## Share a Text or Image
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits-92.png)
 
-### Share a text
+### Share a Text
 
-![](.gitbook/assets/share-component-fig-2%20%281%29.png)
+Opens a menu of apps that the app user can choose from to share the given message.
 
-| Event | Description |
-| :--- | :--- |
-| Share Message \(`message`\) | Shares text via a user's choice of pre-installed communications app |
+![](.gitbook/assets/image%20%28152%29.png)
 
-### Share an image
+### Share an Image
 
-![](.gitbook/assets/share-component-fig-3%20%281%29.png)
+Opens a menu of apps that the user can choose from to share the given image.
 
-| Event | Description |
-| :--- | :--- |
-| Share Image \(`image`\) | Shares an image via a user's choice of pre-installed communications app |
+![](.gitbook/assets/image%20%28128%29.png)
 

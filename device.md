@@ -1,7 +1,5 @@
 # Device
 
-
-
 * [Vibrate device](device.md#vibrate-device)
 * [Get current time and date](device.md#get-current-time-and-date)
 * [Get Seconds since 1970](device.md#seconds-since-1970)
@@ -24,11 +22,13 @@ This block will vibrate the device.
 
 ![](.gitbook/assets/screen-shot-2018-12-13-at-12.58.32-pm.png)
 
-At the moment, all the dates and times are in numerical format i.e. month = 1 rather than month = Jan. If you want to convert the numbers into names, we suggest you to add a [Local DB](local-db.md) component and a simple table like the ones shown below.
+At the moment, all the dates and times are in numerical format i.e. month = 1 rather than month = Jan. If you want to convert the numbers into names, we suggest you to add a Local [Data Source](data-sources.md#create-your-own-table) and a simple table like the ones shown below.
 
-![Add a Local DB component that maps the numerical month with the names ](.gitbook/assets/screen-shot-2018-12-13-at-2.08.44-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.31.33-am.png)
 
-![Because the minutes can be less than one digit and digital clocks always show two, there&apos;s an additional conditional block to account for the case when the minute is less than double digits](.gitbook/assets/screen-shot-2018-12-13-at-2.10.33-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.29.04-am.png)
+
+![Because the minutes can be less than one digit and digital clocks always show two, there&apos;s an additional conditional block to account for the case when the minute is less than double digits](.gitbook/assets/screen-shot-2021-04-08-at-11.32.04-am.png)
 
 ## Get Seconds since 1970
 
@@ -40,7 +40,7 @@ Measures seconds since 00:00:00 UTC on 1 January 1970. This timestamp is also kn
 
 There may be times you may want to design a different experience when a user is offline. To detect a user's connection, you can simply use the blocks below:
 
-![](.gitbook/assets/screen-shot-2018-12-13-at-2.16.48-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.33.31-am.png)
 
 This block will return `true` or `false`.
 

@@ -1,16 +1,26 @@
 # Slider
 
+## Slider Overview
+
+* [Getting Started](slider.md#getting-started)
+* [Style the Slider](slider.md#style-the-slider)
+* [Add Spacing](slider.md#add-spacing)
+* [Events](slider.md#events) 
+* [Properties](slider.md#properties)
+
 The Slider is a great UI element to enable users easily select a value from a fixed range of values.
 
 ![](.gitbook/assets/slider-fig-2.png)
 
-## Set up
+## 
+
+## Getting Started
 
 To set up a slider, you'll have to first define the `minimum` and `maximum` values, the initial `value` and the incremental `steps` of the slider
 
-We recommend using a Label with the Slider so that users can get immediate feedback on the value she or he is setting
+We recommend using a Label with the Slider so that users can get immediate feedback on the value being set.
 
-![](.gitbook/assets/slider-fig-1.png)
+![](.gitbook/assets/slider_change.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -66,4 +76,107 @@ You change the spacing and positioning of the Slider with the Margin and Padding
 **Padding**
 
 * You can specify how much space you want between the edges of the Slider and the screen using either pixel or percent values.
+
+## Events 
+
+### On Sliding Complete
+
+![](.gitbook/assets/on_sliding_complete.png)
+
+When the user takes their finger off the slider. The event returns the value that the slider has settled on.
+
+Please note that the `on Sliding Complete`  event does not work in web preview
+
+### On Value Change
+
+![](.gitbook/assets/on_value_change.png)
+
+This event fires each time the slider moves to a new position. Each time a new values is selected this event will return an updated value.
+
+## Properties
+
+### Disabled 
+
+![](.gitbook/assets/disabled%20%282%29.png)
+
+### Height 
+
+![](.gitbook/assets/height%20%287%29.png)
+
+The set and get height blocks work with the Height property of the slider component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Height
+* "Fit Contents"
+* "Fill Container"
+
+The `Computed Height`block returns the on-screen dimensions of the slider, after it has been rendered on-screen. The value returned is an integer, representing the size of the slider in pixels.
+
+### Maximum Track Tint Color
+
+###  
+
+![](.gitbook/assets/max_track_tint_color.png)
+
+Set or get the color of the right side of the slider.
+
+### Maximum Value
+
+![](.gitbook/assets/max_value.png)
+
+Set or get the biggest value of the slider
+
+### Minimum Track Tint Color 
+
+![](.gitbook/assets/min_track_tint_color.png)
+
+Set or get the color of the left side of the slider
+
+### Minimum Value
+
+![](.gitbook/assets/min_value.png)
+
+Set or get the smallest value of the slider
+
+### Step 
+
+![](.gitbook/assets/step.png)
+
+Set or get the step-size, also known as the increment, of the slider.
+
+### Thumb Tint Color 
+
+![](.gitbook/assets/thumb_tint_color%20%282%29.png)
+
+Change the color of the slider itself.
+
+### Value 
+
+![](.gitbook/assets/value%20%281%29.png)
+
+The set and get value blocks are user to work with the position of the slider.
+
+### Visible 
+
+![](.gitbook/assets/visible%20%2811%29.png)
+
+
+
+The set and get visible blocks are used to show or hide the entire Slider component. Acceptable values are:
+
+* True
+* False
+
+### Width
+
+![](.gitbook/assets/width%20%287%29.png)
+
+The set and get width blocks work with the Width property of the Slider component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Height
+* "Fit Contents"
+* "Fill Container"
+
+The `Computed Width`block returns the on-screen dimensions of the slider, after it has been rendered on-screen. The value returned is an integer, representing the size of the slider in pixels.
 

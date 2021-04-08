@@ -1,4 +1,4 @@
-# Troubleshooting
+# 🔎 Troubleshooting
 
 Here are some of the most common issues that our users are running into:
 

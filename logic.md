@@ -1,22 +1,32 @@
 # Logic
 
-## Statement blocks
+## Comparison Blocks
 
 [If `then`, do `that`](control.md#if-this-do-that) blocks are often paired with statement blocks that test whether a condition is met
 
-![](.gitbook/assets/blocks-logic-fig-2.png)
+The comparison blocks will compare two values and return **true** or **false** based on whether the condition is met.
 
-![There are additional statement options available when you select the dropdown](.gitbook/assets/docs-2.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-2.21.32-pm.png)
 
-## Value blocks
+## And/Or blocks
 
-Value blocks can go into the sockets of the statement blocks to define the conditions that are being tested.
+![](.gitbook/assets/screen-shot-2021-04-08-at-2.22.59-pm.png)
 
-![](.gitbook/assets/blocks-logic-fig-5.png)
+You can compare multiple conditions at once.
 
-![](.gitbook/assets/screen-shot-2018-05-22-at-8.15.37-am.png)
+The **and** block will return **true** if both statements are true, **false** otherwise.
 
-The null block is often used when retrieving data from a database or calling a service for the first time
+The **or** block will return **true** if either statement is true, and **false** if neither statement is true.
 
-![](.gitbook/assets/screen-shot-2018-05-22-at-8.19.40-am.png)
+## Not
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-2.24.40-pm.png)
+
+Inverts the value of a true/false statement. Not true = false, not false = true.
+
+## Value Blocks
+
+Value blocks can be used to set the value of a variable. They can be used in conjunction with any of the above blocks.
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-2.25.21-pm.png)
 

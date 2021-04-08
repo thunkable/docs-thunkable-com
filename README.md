@@ -4,21 +4,29 @@ description: The platform where anyone can build their own mobile apps.
 
 # 👋 Welcome to Thunkable
 
-## In the Beginning...
+Welcome to Thunkable! We're excited to help you begin your app building journey.
 
-If you've made it to this page, you probably want to build an app. Congrats!
+On Thunkable, anyone can easily design beautiful apps, program powerful functionality with drag & drop blocks, and upload apps to the [Google Play Store](publish-to-play-store-android.md) and [Apple's App Store](publish-to-app-store-ios.md).
 
-Thunkable makes it simple to create and customize mobile apps without coding. 
+You can also build [web apps](https://docs.thunkable.com/publish-as-a-web-app-pro), which are apps that you don't need to download and can be directly accessed online. 
 
-All apps built on Thunkable work for both Android and iOS \(see:[ minimum requirements](projects/assets.md)\), and you can get started by remixing existing projects from our Sample Apps or Public Gallery.
+All apps built on Thunkable work for both Android and iOS devices \(see:[ minimum requirements](projects/assets.md)\). 
 
-## Using these Docs
+You can get started by remixing existing projects from our [Sample Apps Page](https://docs.thunkable.com/sample-apps) or [Public Gallery](https://docs.thunkable.com/public-gallery).
 
-If you're completely new to Thunkable, start with the **Getting Started** section.
+## Tutorial videos
+
+You can check out our [YouTube channel](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw) for video tutorials.
+
+{% embed url="https://www.youtube.com/watch?v=dQQsvQr-f1U&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q\_Np" %}
+
+## Intro to Documentation
+
+If you're completely new to Thunkable, we recommend starting right here!
 
 {% page-ref page="get-started/" %}
 
-To find out how Thunkable projects work, read the **Create New Project** section.
+To find out how Thunkable projects work, please read the **Create New Project** section.
 
 {% page-ref page="projects/" %}
 
@@ -26,7 +34,7 @@ You can find an overview of all of our components in the **Components** section.
 
 {% page-ref page="components.md" %}
 
-Finally, make you components do amazing things by reading the **Blocks** section.
+To learn how to program your app with drag & drop blocks, please click on the **Blocks** section.
 
 {% page-ref page="blocks.md" %}
 
@@ -34,21 +42,11 @@ Finally, make you components do amazing things by reading the **Blocks** section
 
 | Community | Email us |
 | :--- | :--- |
-| Connect with our community of Thunkers around the world to get the latest developments and discuss everything app-related. | For all other requests, please email us [hello@thunkable.com](mailto:hello@thunkable.com) |
-
-With Thunkable, non-coders can easily design beautiful apps, program powerful functionality with drag & drop blocks and upload apps to the Google Play Store and Apple's App Store.
-
-All apps built on Thunkable work for both Android and iOS devices. 
+| Connect with our community of Thunkers around the world to get the latest developments and discuss everything app-related. | For all other requests, please email us [hello@thunkable.co](mailto:hello@thunkable.com)m |
 
 ## Pricing and Membership
 
-Thunkable is completely free for anyone to use - simply sign in and start creating straight away. In addition to our free memberships, we also offer [Thunkable PRO](https://thunkable.com/#/pricing) memberships for user who want access things like more storage or additional components. Take a look at our [pricing page](https://thunkable.com/#/pricing) to see a side-by-side comparison.
+Thunkable is completely free for anyone to use - simply sign in and start building! 
 
-## 
-
-{% hint style="warning" %}
-Thunkable Classic docs has moved to a new home. You can find them at: 
-
-[classic-docs.thunkable.com](https://classic-docs.thunkable.com)
-{% endhint %}
+In addition to our free memberships, we also offer [Thunkable PRO](https://thunkable.com/#/pricing) memberships for users who want access additional features, such as extra storage or advanced components. Please take a look at our [pricing page](https://thunkable.com/#/pricing) to see a side-by-side comparison.
 

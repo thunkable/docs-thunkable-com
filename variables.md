@@ -1,6 +1,6 @@
 # Variables
 
-## What is a variable?
+## What is a Variable?
 
 In app creation, variables work like containers to hold numbers, phrases, the results of a calculation, a database call, or other important values in the app, in the mobile device itself or in the cloud.
 
@@ -12,13 +12,41 @@ Instead of repeating these values in multiple places, a variable can be used whe
 
 When you create a variable, you'll have the choice between an app, stored and cloud variable. All variable types work across screens and the only difference is where they are stored.
 
-An **app** variable works across screens and is stored in the app itself
+### App Variables
+
+An **app** variable works across screens and is stored in the app itself.   
+You can save any data type as an app variable.
+
+### Stored Variables
 
 A **stored** variable also works across screens but is saved to the mobile device itself. This means that a stored variable can be retrieved from a previous session. A stored variable is similar to saving a value to [Local Storage](local-storage.md) and is especially useful for retrieving a user's previous setting. If you use stored variables, you no longer need to add Local Storage to your app.
 
-A **cloud** variable also works across screens but is saved to the cloud powered by Firebase. By default, the cloud variable is saved to the Thunkable default Firebase database but you can save them to your own private Firebase database by [following the instructions here](realtime-db.md#create-your-free-firebase-project-and-account). Cloud variables can be used similar to saving and retrieving values to a [Realtime DB](realtime-db.md) powered by Firebase and can be used in a number of applications that share data across users in the cloud. If you use cloud variables, you no longer need to add a Realtime DB to your app.
+You can save any data type as a stored variable.
 
-## Initialize a variable when the app starts
+### Cloud Variables
+
+A **cloud** variable also works across screens but is saved to the cloud powered by Firebase.   
+  
+By default, the cloud variable is saved to the Thunkable default Firebase database. We recommend saving them to your own private Firebase DB by [connecting a private Firebase DB to your app](realtime-db.md#set-up-your-own-firebase-account). 
+
+Cloud variables can be used similar to saving and retrieving values to a [Realtime DB](realtime-db.md) powered by Firebase and can be used in a number of applications that share data across users in the cloud. If you use cloud variables, you no longer need to add a Realtime DB to your app.
+
+#### Cloud Variables and Data
+
+You can only save a piece of [text](text.md) or an [object](objects.md) as a cloud variable.
+
+To save a list as a cloud variable, use the 'make text from list' block to convert the list to a piece of text.
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.21.05-am.png)
+
+  
+When you retrieve this text from your cloud variable, you can convert it to a list with the 'make list from text' block to work with it as a list in your app.
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.21.42-am.png)
+
+To save media as a cloud variable, use the [Cloudinary Media DB](media-db.md) component to upload your audio to the cloud and get a URL that points to it. You can save this URL as a cloud variable.
+
+## Initialize a Variable When the App Starts
 
 ![](.gitbook/assets/screen-shot-2018-10-11-at-1.29.35-pm.png)
 
@@ -26,31 +54,29 @@ To create a variable when the app starts, you can grab the block above, select y
 
 ## Set a variable during an app event
 
-![](.gitbook/assets/screen-shot-2018-10-11-at-1.30.53-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.14.34-am.png)
 
 You can also set a variable within a block event like the one above. Simply grab the set variable block and connect it to the value that you want it to be set to.
 
 ## Retrieving a variable
 
-![](.gitbook/assets/screen-shot-2018-10-11-at-1.34.36-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.15.40-am.png)
 
 Once you have stored a value to your variable, you can retrieve it any time using a block like the one above.
 
-## For `cloud` variables, updating when the cloud database changes
 
-![](.gitbook/assets/screen-shot-2018-10-12-at-6.10.44-am.png)
 
-Cloud variables are unique because they can be linked to values in a cloud database which can be shared across devices. Once you have created your cloud variable, you can set it to update when the variable updates in the cloud. This block replaces the Add.Listener and DataChanged blocks in the Realtime DB. You can see how this works in the [Gram](https://x.thunkable.com/projectPage/5bbff7e035aa10fd7702f479) app, which updates the pictures, captions and hearts when anyone else with the app uploads a new photo.
-
-## For `app` and `stored` variables, updating when the variable initializes or changes
+## Updating when the variable initializes or changes
 
 ![](.gitbook/assets/screen-shot-2018-12-18-at-11.17.52-pm.png)
 
-This is similar to how cloud variables work above but it applies to variables that are changed in the app itself and not on a shared cloud database
+Once you have created your variable, you can set it to update when the variable updates in your app. 
+
+With Cloud variables, this block will also be triggered when the value of the Cloud variable is changed in your Firebase DB. This block replaces the Add.Listener and DataChanged blocks in the Realtime DB.
 
 ## Changing a variable
 
-![](.gitbook/assets/screen-shot-2018-10-11-at-1.44.00-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.19.40-am.png)
 
 Variables do not have to be fixed values and there may be times when you want to change your variable automatically like incrementing it by 1 after an event. To do so, grab a block like the one above.
 

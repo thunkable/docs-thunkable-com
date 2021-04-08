@@ -4,12 +4,16 @@ description: The image component lets you display pictures in your app.
 
 # Image
 
-The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](photo-library.md), [Image Recognizer](image-recognizer.md) and [Media DB](media-db.md)
+## Image Overview
 
 * [Set Image](image-1.md#set-image)
 * [Edit Image size](image-1.md#edit-image-size)
 * [Style the Image](image-1.md#style-the-image)
 * [Add spacing](image-1.md#add-spacing)
+* [Event Blocks](image-1.md#events)
+* [Property Blocks](image-1.md#properties)
+
+The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](), [Image Recognizer]() and [Media DB](media-db.md)
 
 ![](.gitbook/assets/image-fig-1.png)
 
@@ -22,7 +26,7 @@ There are a few ways you can display an image in your app:
 2. **Provide a link to the image**  ![](https://lh6.googleusercontent.com/Qgxd14OTm3vZowwQsZ6-2uE2UozbUonGywxOOkr3Pozhia7jNDIw9_o-1CxsfEtynzkusC87RG9sCIcfsvzQ_3YGDvN6nZcG1hOVGbFhdQRN2FHmPQbYEBYgNDfFgL2v3x2kAauW) 
 3. **Take a picture with the Camera component**
 
-![](https://lh6.googleusercontent.com/3NGhjTG3vkioCAOKtCmSRwiBuxf9VGtPdu6X60Nx6yZGMMMRtlDc7mZDQcr2fL1PpCFfd-WBcx4zAymckUVtzOJx3P_wLspnshq6UYMAJKVCLsMfusYXAjS9neKBrgGoGspaCPBw)
+![](.gitbook/assets/take_photo.png)
 
 The blocks above open up your phone’s camera and set the Image component to the picture that you took. 
 
@@ -78,4 +82,74 @@ You can change the spacing and positioning of the Image with the Margin and Padd
 **Padding**
 
 * You can specify how much space you want between the border and the contents of the image using either pixel or percent value. 
+
+## Events
+
+### Click
+
+![](.gitbook/assets/image_click.png)
+
+This event handler is fired when the user clicks on the image.
+
+## Properties
+
+### Computed Dimensions
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%282%29.jpg)
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%281%29.jpg)
+
+The `Computed Height` and `Computed Width` blocks return the on screen dimensions of the image, after it has been rendered on-screen. The value returned is an integer, representing the size of the image in pixels.
+
+### Height 
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%283%29.jpg)
+
+The set and get height blocks work with the Height property of the image component. Acceptable input values are. 
+
+* Number of Pixels
+* Percentage Height
+* "Fit Contents"
+* "Fill Container"
+
+### Picture 
+
+![](.gitbook/assets/picture.png)
+
+The set and get picture blocks work with picture property of the image component. Pictures can be uploaded as local assets or specified as URLs 
+
+### Resize Mode 
+
+![](.gitbook/assets/resize_mode%20%281%29.png)
+
+The set and get resize mode blocks work with how the picture is scaled within the image component. Acceptable values are:
+
+* Cover
+* Contain
+* Stretch
+* Repeat
+* Center
+
+### Visible 
+
+![](.gitbook/assets/visible%20%2812%29.png)
+
+The set and get visible blocks are used to show or hide the entire image component. Acceptable values are:
+
+* True
+* False
+
+### Width
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy.jpg)
+
+  
+The set and get width blocks work with the Width property of the image component. Acceptable values are.‌
+
+* Number of Pixels
+* Percentage Width
+* "Fit Contents"
+* "Fill Container"
+
+
 

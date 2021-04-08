@@ -4,9 +4,15 @@ description: A column is a vertical container that allows you to stack component
 
 # Column
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/\_D-Y7iiW8qM" %}
+
+## Overview
+
 ![](.gitbook/assets/thunkable-documentation-exhibits-65.png)
 
-## Set size of the column
+## Set the Size of a Column
 
 For more information on sizing in your app, please see our [introduction here​](intro-to-sizing.md)
 

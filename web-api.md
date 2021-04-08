@@ -4,17 +4,54 @@ Great data is an essential part of many apps built today and the Web API compone
 
 To see what public APIs are available, we recommend [this list from Todd Motto](https://github.com/toddmotto/public-apis)
 
-## Set up
+## Adding a Web API to your app
+
+To add a Web API component to your app:
+
+* Go to your Blocks tab
+* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
+* Click the ⊕ icon next to the `Web APIs` drawer
+
+![](.gitbook/assets/advanced-components%20%281%29.png)
+
+You will see a dialog with options to enter certain properties for your Web API component. Click Submit to create the Web API component, or Delete to dismiss the dialog without creating the component.
+
+![](.gitbook/assets/web-api-contents.png)
 
 For most public APIs, you'll likely have to first create an account to get your own unique API key. This is usually to prevent individuals from making too many requests or to charge developers when they exceed certain free limits.
 
 Once you have the API key, you'll need to enter the unique URL into the property field of the Web API component
 
-| Property | Description |
-| :--- | :--- |
-| URL | The url for the web request which usually contains an API key |
+| Property | Description | Required? |
+| :--- | :--- | :--- |
+| URL | The url for the web request which usually contains an API key | Required |
+| Query Parameter | Specifies some parameters of the data | Optional |
+| Body | Body of your API call | Optional |
+| Headers | Specifies some meta-data, eg: usernames and passwords | Optional |
 
-## Get and format \(parse\) data
+### Change properties of your Web API
+
+Once you have added at least one Web API component to your app, you will be able to view all of your Web API components under the `Web APIs` drawer in the Advanced section of the Blocks tab. 
+
+To edit the properties of a Web API component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click Delete to delete the component.
+
+![](.gitbook/assets/web-apis-blicks.png)
+
+## Setting Query Parameters and Headers
+
+Query parameters and headers can be set in the designer or in the blocks editor. In the example below you can add any property:value pair you want. You can add as many params to your app as you need, but each parameter has to be added one at a time. 
+
+![](.gitbook/assets/wvd0.png)
+
+In the blocks editor, it is possible to use the `create object` block to add multiple property:value pairs simultaneously. 
+
+![](.gitbook/assets/wvd3.png)
+
+In addition to creating your own objects, it is also possible to use JSON to specify the property:value pairs for your query parameters or headers. 
+
+![](.gitbook/assets/wvd4.png)
+
+## Get and Format \(parse\) Data
 
 ![This block retrieves and formats data from the Open Weather Map API](.gitbook/assets/screen-shot-2018-08-01-at-2.12.03-pm.png)
 
@@ -28,7 +65,7 @@ Most APIs will return data in a less than usable format for your app so we'll ta
 
 ### Example 1: [Open Weather Map API](https://openweathermap.org/current)
 
-You can find a working example of this in the sample app, [Weather](web-api.md).
+You can find a working example of this in the sample app, [Office Weather & Traffic](https://docs.thunkable.com/sample-apps#office-weather).
 
 One of the most common output formats for APIs is JSON, short for Javascript Object Notation. The Open Weather Map API returns a JSON file like the one below.
 
@@ -79,7 +116,7 @@ Once you have converted the JSON into objects, you can then specify the `objects
 
 ### Example 2: [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
-You can find a working example of this in the sample app, [Ride](web-api.md).
+You can find a working example of this in the sample app, [Ride](https://community.thunkable.com/t/advanced-sample-app-ride-a-private-uber-like-app-made-on-thunkable/30646).
 
 The JSON output of the Google Maps Distance Matrix API seems similar to the Open Weather Map API with one notable exception: it includes objects, properties and _lists_. Lists are items bounded by `[` square brackets `]`.
 
@@ -129,11 +166,16 @@ Uploading and deleting data is usually reserved for a private API that you or yo
 | Event | Description |
 | :--- | :--- |
 | Put \(`response`, `status`,`error`\) | Performs an HTTP PUT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
-| Post \(`response`, `status`,`error`\) | Performs an HTTP POSTT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+| Post \(`response`, `status`,`error`\) | Performs an HTTP POST request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+| Patch \(`response, status, error`\) | Performs an HTTP PATCH request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
 ## Delete data
 
 | Event | Description |
 | :--- | :--- |
 | Delete \(`response`, `status`,`error`\) | Performs an HTTP DELETE request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+
+## See Also
+
+You can also post and receive messages between a web page and a [Web Viewer](web-viewer.md) using the Post Message function. Read more about that [here](web-viewer.md#post-message-receive-message).
 

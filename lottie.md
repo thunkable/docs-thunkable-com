@@ -1,15 +1,25 @@
 # Animation by Lottie
 
+## Video Tutorial
+
+{% embed url="https://youtu.be/IS0cLh9XVC8" %}
+
+
+
+## Animation Overview
+
+* [Set up](lottie.md#set-up)
+* [Edit Animation size](lottie.md#edit-animation-size)
+* [Events](lottie.md#events)
+* Properties
+
 The Animation component powered by [Lottie ](https://airbnb.design/lottie/)makes adding animations as easy as adding images. For designers, animations can be created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) or [Haiku](https://www.haiku.ai/) and imported as a `.json` file.
 
 For the rest of us, there is a large and growing community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) that you can easily add to your app.
 
-* [Set up](lottie.md#set-up)
-* [Edit Animation size](lottie.md#edit-animation-size)
-
 ![](.gitbook/assets/animation-lottie-fig-1.gif)
 
-## Set up
+## Getting Started
 
 | Property | Description |
 | :--- | :--- |
@@ -24,4 +34,10 @@ For more information on sizing in your app, please see our [introduction here​
 | :--- | :--- |
 | Height | `Fit contents` Container is just as large as the animation; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size in percent of the Screen; `Absolute size` Size in pixels |
 | Width | `Fit contents` Container is just as large as the animation; `Fill container` Container is as large as it can be on the Screen; `Relative size` Size in percent of the Screen; `Absolute size` Size in pixels |
+
+## Events
+
+You can trigger some action to happen when the animation is clicked using the 'when Animation Click' event.
+
+![](.gitbook/assets/lottieclick.png)
 
