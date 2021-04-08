@@ -19,7 +19,7 @@ Some features you can't see. Let's call these features invisible components. Exa
 
 ## Visible Components
 
-![](.gitbook/assets/image%20%2892%29.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.49.18-pm.png)
 
 To put it simply, visible components are features that you can see on your app screen - like the ones pictured above.  
 
@@ -29,15 +29,11 @@ When adding visible components into your app, please note that they can only exi
 
 ## Invisible Components
 
-![](.gitbook/assets/image%20%2813%29.png)
-
-Invisible components are features on your app that you can't see. 
+[Invisible components](invisible-components.md) are features on your app that you can't see. 
 
 They often relate to your app's functionality, and are quietly running in the background. When you add an invisible component to your app, that component can work on any screen. 
 
-For example, if you add a database component to your app, the database can be accessed from any screen. You do not need to add a database component to each screen. 
-
-Invisible components are displayed underneath the mobile device on the Thunkable app builder.
+For example, if you add a database component to your app, the database can be accessed from any screen. You do not need to add a database component to each screen.
 
 ## Finding Components
 
