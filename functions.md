@@ -12,13 +12,13 @@ To create a function, you will need to specify if it has any inputs and give it 
 
 ![](.gitbook/assets/blocks-function-fig-5.png)
 
-One example of a function is below, featured in our Social Credit sample app
+One example of a function is below. This function will create and shuffle a list of items.
 
-![](.gitbook/assets/blocks-function-fig-6.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.10.29-am.png)
 
 After you have created your function, you can simply use it at any time using the function block you have named
 
-![](.gitbook/assets/blocks-function-fig-7.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.11.45-am.png)
 
 ## Create a function with an output
 
