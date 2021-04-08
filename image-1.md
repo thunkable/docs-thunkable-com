@@ -13,7 +13,7 @@ description: The image component lets you display pictures in your app.
 * [Event Blocks](image-1.md#events)
 * [Property Blocks](image-1.md#properties)
 
-The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](), [Image Recognizer]() and [Media DB](media-db.md)
+The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](), [Image Recognizer]() and [Media DB]()
 
 ![](.gitbook/assets/image-fig-1.png)
 

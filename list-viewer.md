@@ -71,30 +71,16 @@ You can customize the List Viewer with the following properties:
   * **Radius:** Enter how round you want the edges of the border for the List Viewer to be
 * **Background Colour \(Advanced\):** Sets the background color of the List Viewer
 
-## Edit the ListViewer Height
+## Edit size and position
 
-A List Viewer automatically fill 100% of the Screen width
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-You can set how tall the List Viewer is using the height property.
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
 
-**Height**
-
-* **Fill container -** The List Viewer fills the entire screen vertically
-* **Fit contents -** The List Viewer’s height changes to fit the contents it contains
-* **Relative size -** The List Viewer fills the specified percentage of the screen
-* **Absolute size -** Sizes the List Viewer to a specified number of pixels
-
-## Add Spacing
-
-You change the spacing and positioning of the List Viewer with the Margin and Padding properties.
-
-**Margin**
-
-* You can specify how much space you want between the border and the contents of List Viewer using either pixel or percent values.
-
-**Padding**
-
-* You can specify how much space you want between the edges of the List Viewer and the screen using either pixel or percent values.
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
 ## Events
 

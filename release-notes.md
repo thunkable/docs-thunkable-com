@@ -151,7 +151,7 @@ Component Updates
 
 New components
 
-* [Custom Data Viewer Layout](custom-data-viewer-layout.md) for use with [Data Viewer List ](data-viewer-list.md)and [Data Viewer Grid](data-viewer-grid.md)
+* [Custom Data Viewer Layout]() for use with [Data Viewer List ](data-viewer-list.md)and [Data Viewer Grid](data-viewer-grid.md)
 
 ## September 8, 2020
 
@@ -191,7 +191,7 @@ Component updates
 * Add ability to add circles, polygons to Canvas with [Looks](looks.md) blocks
 * Support landscape mode for [Screens](screen.md) on Android apps
 * In web apps, open links in new tab
-* [Video Recorder](video-recorder.md) component
+* [Video Recorder]() component
 
 ## July 9, 2020
 
@@ -333,7 +333,7 @@ Platform updates
 
 New components
 
-* [Barcode Scanner](barcode-scanner.md) - allow apps to read any barcode or QR code with the help of a device camera
+* [Barcode Scanner]() - allow apps to read any barcode or QR code with the help of a device camera
 
 Component updates
 
@@ -411,7 +411,7 @@ Platform updates
 Component updates
 
 * [Webviewer](web-viewer.md) - supports full screen video, geolocation and data detector types
-* [Stack Navigator](stack-navigator.md#style-your-screen-color) - supports editing the background color of the header bar
+* [Stack Navigator]() - supports editing the background color of the header bar
 * [Gyroscope](gyroscope.md#properties) - added ability to get `alpha`, `beta` and `gamma` values
 
 Block updates
@@ -561,7 +561,7 @@ Platform updates
 
 Component updates
 
-* [Screen](screen.md), [Row](row.md) and [Column](column.md) - `Justification` and `Alignment` properties renamed to `Horizontal and Vertical Alignment`
+* [Screen](screen.md), [Row]() and [Column]() - `Justification` and `Alignment` properties renamed to `Horizontal and Vertical Alignment`
 * [Label](label.md) - default height set to `fit contents`
 
 Block updates
@@ -570,7 +570,7 @@ Block updates
 
 ## Dec 14, 2018
 
-* [Local DB](local-db.md) - create and retrieve data from a data table directly saved in your app
+* [Local DB]() - create and retrieve data from a data table directly saved in your app
 
 Component updates
 
@@ -686,7 +686,7 @@ Users will be prompted to give permission to allow the use of certain components
 * Some app layouts have been updated
   * Hide status bar bug - A blank status bar will still show up even if hide status bar is set to false; we are hoping to fix this soon
   * Heights of visible elements set to 'fit contents' may need to be updated to 'relative size' or another option
-  * [Scrollable columns](column.md#enable-scrolling) - height will need to be set to 'fit contents'
+  * [Scrollable columns]() - height will need to be set to 'fit contents'
 
 Bug fixes
 
@@ -800,7 +800,7 @@ Platform updates
 
 New components
 
-* [Spreadsheet](spreadsheet.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
+* [Spreadsheet]() by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
 * [Payment]() by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
 
 Platform updates
@@ -834,12 +834,12 @@ Bug fixes
 New component
 
 * [Sign In](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/ios/components/screen-layout/authentication/sign-in.md) powered by Firebase - support for email sign-in; set-up requires entering in an API key and database URL into app settings
-* [Media Database](media-db.md) powered by Cloudinary - support for image, audio and video upload
+* [Media Database]() powered by Cloudinary - support for image, audio and video upload
 
 Component updates
 
 * Most Visible components \(Screen, TextInput, Label, Column, Row, Image, ListViewer, WebViewer, Maps, Google Maps\) - advanced properties including padding, margin, border & user location \(Maps / Google Maps\) added 
-* [Realtime DB](realtime-db.md) powered by Firebase - changes set-up from adding a .plist file to entering in an API key and database URL into app settings
+* [Realtime DB]() powered by Firebase - changes set-up from adding a .plist file to entering in an API key and database URL into app settings
 
 Platform updates
 

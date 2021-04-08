@@ -12,9 +12,10 @@ The Top Tab Navigator is positioned at the top of your app, and allows users to 
 
 ## Adding Navigators
 
-To add a navigator to your app, you will need to drag the navigator component into your component tree, and then drag a screen on top of the navigator component. 
+To add a navigator to your app, click **Screens +** at the top of your component tree.   
+Select **Add Navigator** and select the Navigator you want to add.
 
-![](.gitbook/assets/ezgif.com-video-to-gif-6%20%281%29.gif)
+![](.gitbook/assets/screen-shot-2021-04-08-at-5.06.23-pm.png)
 
 ## Tab Navigator Properties
 

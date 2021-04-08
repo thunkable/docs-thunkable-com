@@ -1,9 +1,5 @@
 # Loading Icon
 
-## Video Tutorial
-
-{% embed url="https://youtu.be/y7WnblzAt2c" %}
-
 ## Loading Icon Overview
 
 * [Style the Icon](loading-icon.md#style-the-loading-icon)
@@ -19,7 +15,17 @@ For activities that take more than a few seconds, loading icons can be helpful t
 | Property | Description |
 | :--- | :--- |
 | Color | The color of the loading icon |
-| Size | `Small` or `large` |
+
+## Edit size and position
+
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
+
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
 ## Showing and Hiding the Loading Icon
 

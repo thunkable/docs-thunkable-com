@@ -37,37 +37,16 @@ You can customize your label using the following properties:
   * **Style:** Select if you want the border of the label to be a dotted, dashed or solid line
   * **Radius:** Enter how round you want the edges of the border for the label to be
 
-## Edit the Label size
+## Edit size and position
 
-You can set how tall the label is using the height property and set how wide the label is using the width property.
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-**Height**
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
 
-* **Fill container -** The label fills the entire screen vertically
-* **Fit contents -** The  label’s height changes to be the size of the contents it contains
-* **Relative size -** The label fills the specified percentage of the screen
-* **Absolute size -** Sizes the label to a specified number of pixels
-
-**Width**
-
-* **Fill container -** The label fills the entire screen horizontally
-* **Fit contents -** The  label’s width changes to be the size of the contents it contains
-* **Relative size -** The label fills the specified percentage of the screen
-* **Absolute -** Sizes the label to a specified number of pixels
-
-_Note: If the text in your label is more than a single line, we recommend that you set the Height to `Fit contents`_
-
-## Add spacing
-
-You change the spacing and positioning of the label with the Margin and Padding properties. 
-
-**Margin**
-
-* You can specify how much space you want between the edges of the label and the screen using either pixel or percent values.
-
-**Padding**
-
-* You can specify how much space you want between the border and contents of the label using either pixel or percent values.
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
 ## Events
 

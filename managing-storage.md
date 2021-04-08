@@ -14,7 +14,7 @@ You can find a table of project sizes here:
 
 ### Cloud Storage
 
-Depending on when you need an asset, it might make sense to store it in the cloud instead. Using cloud storage in your app will not have any impact on your local project size. Thunkable provides multiple third-party integrations, including [Airtable](spreadsheet.md), [Cloudinary](media-db.md), and [Firebase](realtime-db.md), as well as our own [cloud variables](variables.md#app-stored-and-cloud-variables) for smaller pieces of data.
+Depending on when you need an asset, it might make sense to store it in the cloud instead. Using cloud storage in your app will not have any impact on your local project size. Thunkable provides multiple third-party integrations, including [Airtable](), [Cloudinary](), and [Firebase](), as well as our own [cloud variables](variables.md#app-stored-and-cloud-variables) for smaller pieces of data.
 
 ### Refactoring your App
 

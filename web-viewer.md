@@ -64,35 +64,16 @@ You can use blocks to navigate back through previously visited web pages. Once y
 The Back block may not work when you test your app on the web, but will work when [Live Testing](get-started/live-test.md#live-test) your app and in [downloaded](download.md) apps
 {% endhint %}
 
-## Edit Web Viewer size
+## Edit size and position
 
-You can set how tall the Web Viewer is using the height property and set how wide it is using the width property.
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-**Height**
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
 
-* **Fill container -** The Web Viewer fills the entire screen vertically
-* **Fit contents -** The Web Viewer’s height changes to fit the contents it contains
-* **Relative size -** The Web Viewer fills the specified percentage of the screen
-* **Absolute size -** Sizes the Web Viewer to a specified number of pixels
-
-**Width**
-
-* **Fill container -** The Web Viewer fills the entire screen horizontally
-* **Fit contents -** The Web Viewer’s width changes to fit the contents it contains
-* **Relative size -** The Web Viewer fills the specified percentage of the screen
-* **Absolute -** Sizes the Web Viewer to a specified number of pixels
-
-## Add Spacing
-
-You change the spacing and positioning of the Web Viewer with the Margin and Padding properties. 
-
-**Margin**
-
-* You can specify how much space you want between the border and the contents of Web Viewer using either pixel or percent values.
-
-**Padding**
-
-* You can specify how much space you want between the edges of the Web Viewer and the screen using either pixel or percent values.
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
 ## Manage Permissions
 

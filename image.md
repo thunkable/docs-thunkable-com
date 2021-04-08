@@ -6,13 +6,11 @@ The image category contains components to upload pictures to your users device a
 
 {% page-ref page="image-1.md" %}
 
-{% page-ref page="camera.md" %}
-
-{% page-ref page="barcode-scanner.md" %}
-
 {% page-ref page="lottie.md" %}
 
 {% page-ref page="video.md" %}
 
-{% page-ref page="video-recorder.md" %}
+{% page-ref page="camera.md" %}
+
+
 

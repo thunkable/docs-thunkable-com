@@ -12,8 +12,6 @@ Add a Data Viewer List or a Data Viewer Grid to your app in order to connect to 
 
 You can design custom layouts for displaying your data:
 
-{% page-ref page="custom-data-viewer-layout.md" %}
-
 You can use blocks to let your user create, read, update and delete information in your data source by interacting with the Data Viewer, using Data Sources blocks:
 
 {% page-ref page="data-sources.md" %}

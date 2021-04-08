@@ -56,35 +56,16 @@ You can customize the Text Input component with the following properties:
   * **Style:** Select if you want the border to be a dotted, dashed or solid line
   * **Radius:** Enter how round you want the edges of the border for the text input to be
 
-## Edit the Text Input size
+## Edit size and position
 
-You can set how tall the text input is using the Height property and set how wide the text input is using the Width property.
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-**Height**
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
 
-* **Fill container -** The text input fills the entire screen vertically
-* **Fit contents \(Recommended\) -** The text input’s height changes to fit the contents it contains
-* **Relative size -** The text input fills the specified percentage of the screen
-* **Absolute size -** Sizes the text input to a specified number of pixels
-
-**Width**
-
-* **Fill container -** The text input fills the entire screen horizontally
-* **Fit contents -** The text input’s width changes to fit the contents it contains
-* **Relative size -** The text input fills the specified percentage of the screen
-* **Absolute -** Sizes the text input to a specified number of pixels
-
-## Add spacing
-
-You change the spacing and positioning of the text input with the Margin and Padding properties.   
-  
-**Margin**
-
-* You can specify how much space you want between the edges of the text input and the screen using either pixel or percent values.
-
-**Padding**
-
-* You can specify how much space you want between the border and the contents of the text input using either pixel or percent values.
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
 ## Events
 

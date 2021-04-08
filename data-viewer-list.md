@@ -50,7 +50,7 @@ The data editor allows you to edit, add, and delete columns of information. To c
 
 ### Airtable 
 
-In Airtable, a base in considered to be the data source. Adding an [Airtable DB](spreadsheet.md) is really simple. 
+In Airtable, a base in considered to be the data source. Adding an [Airtable DB]() is really simple. 
 
 To start, copy your API key from your Airtable [account page](https://airtable.com/account). An Airtable API key is a 14 character code that begins with the three letters "key". Paste this key into Thunkable and click the `Refresh` button to see a list of your Airtable bases. 
 
@@ -114,7 +114,7 @@ Once you have specified a [data source](data-viewer-list.md#data-source) you can
 
 ### Custom Layout
 
-You can also design a[ Custom Data Viewer Layout](custom-data-viewer-layout.md) and save it with the Layout Type 'List' to use it in your Data Viewer List.
+You can also design a[ Custom Data Viewer Layout]() and save it with the Layout Type 'List' to use it in your Data Viewer List.
 
 ## Data Bindings
 

@@ -17,7 +17,7 @@ Simply upload your PDFs into the File property and voila!
 There is a limit of 50 MB per app so be careful or size down your larger PDFs if it may exceed this limit
 {% endhint %}
 
-![](.gitbook/assets/screen-shot-2019-09-06-at-10.18.31-am.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-5.00.27-pm.png)
 
 Once you upload the PDF, you will be able to view it in your app and pinch to zoom in. 
 

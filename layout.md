@@ -38,13 +38,7 @@ Here are three examples of navigators that you can use on Thunkable.
 
 {% page-ref page="bottom-tab-navigator.md" %}
 
-{% page-ref page="stack-navigator.md" %}
-
 {% page-ref page="drawer-navigator.md" %}
 
 {% page-ref page="screen.md" %}
-
-{% page-ref page="row.md" %}
-
-{% page-ref page="column.md" %}
 

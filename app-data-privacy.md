@@ -8,7 +8,7 @@ Here are a few tips on how to keep your data private even and especially from us
 
 ## Store data locally
 
-For simple, personal pieces of data like user login info, you can use the [Local Storage](local-storage.md) component to save data to the phone itself.
+For simple, personal pieces of data like user login info, you can use the [Local Storage]() component to save data to the phone itself.
 
 {% hint style="info" %}
 Data stored locally on the phone is often uploaded to the cloud by a phone's back-up provider.
@@ -16,7 +16,7 @@ Data stored locally on the phone is often uploaded to the cloud by a phone's bac
 
 ## Create your own private repository of cloud data
 
-Most data today is stored and shared from the cloud so the first step in keeping your data private is to create your own repository that can be linked to your app. This includes [Realtime DB](realtime-db.md) powered by Firebase, [Media DB](media-db.md) powered by Cloudinary, and [Spreadsheet](spreadsheet.md) \(required by default\) powered by Air Table.
+Most data today is stored and shared from the cloud so the first step in keeping your data private is to create your own repository that can be linked to your app. This includes [Realtime DB]() powered by Firebase, [Media DB]() powered by Cloudinary, and [Spreadsheet]() \(required by default\) powered by Air Table.
 
 Creating your own repository takes a few more steps to set up but makes data you upload not visible to Thunkable \(We provide a default account for convenience purposes\).
 

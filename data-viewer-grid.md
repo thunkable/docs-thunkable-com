@@ -6,18 +6,6 @@ description: >-
 
 # Data Viewer Grid
 
-## Video Tutorial
-
-{% embed url="https://youtu.be/w63TJ5YM3Do" %}
-
-
-
-## Sample App
-
-![](.gitbook/assets/nhl.png)
-
-Check out our Hockey teams [sample app](https://bit.ly/35JQF7a) to see the Data Viewer grid in action. Click the "Copy Project" button is you'd like to reuse this open-source sample for yourself. 
-
 {% hint style="info" %}
 If you have any feedback for us about the Data Viewer components please let us know over in the [Thunkable Community](https://community.thunkable.com/t/latest-thunkable-release-new-components-data-viewer-list-and-data-viewer-grid-2020-05-05/564204?u=domhnallohanlon).
 {% endhint %}
@@ -64,7 +52,7 @@ The data editor allows you to edit, add, and delete columns of information. To c
 
 ### Airtable 
 
-In Airtable, a base in considered to be the data source. Adding an [Airtable](spreadsheet.md) is really simple. 
+In Airtable, a base in considered to be the data source. Adding an [Airtable]() is really simple. 
 
 To start, copy your API key from your Airtable [account page](https://airtable.com/account). An Airtable API key is a 14 character code that begins with the three letters "key". Paste this key into Thunkable and click the `Refresh` button to see a list of your Airtable bases. 
 
@@ -72,7 +60,7 @@ Choose the base you want to use as your data source and click `Create`.
 
 ![](.gitbook/assets/airtable_setup.png)
 
-If you're new to Airtable you can read more about it in our [Airtable](spreadsheet.md) documentation. 
+If you're new to Airtable you can read more about it in our [Airtable]() documentation. 
 
 ### Google Sheets
 
@@ -130,7 +118,7 @@ At this time, connecting to **.xlsx** files that are hosted on Google Sheets is 
 
 ### Custom Layout
 
-You can also design a[ Custom Data Viewer Layout](custom-data-viewer-layout.md) and save it with the Layout Type 'Grid' to use it in your Data Viewer Grid.
+You can also design a[ Custom Data Viewer Layout]() and save it with the Layout Type 'Grid' to use it in your Data Viewer Grid.
 
 ## Data Bindings
 

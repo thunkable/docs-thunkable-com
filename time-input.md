@@ -23,7 +23,7 @@ When a user of your app taps on the Date Input, it will automatically launch the
 
 You can set the format of the time by simply choosing your desired format from the `Style` property
 
-![](.gitbook/assets/screen-shot-2019-09-04-at-5.15.39-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.58.31-pm.png)
 
 ## Save the time
 

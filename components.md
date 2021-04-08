@@ -45,8 +45,6 @@ Components are organized into 10 different categories. For a more detailed descr
 
 {% page-ref page="image.md" %}
 
-{% page-ref page="data.md" %}
-
 {% page-ref page="location.md" %}
 
 {% page-ref page="monetization.md" %}

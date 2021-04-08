@@ -46,7 +46,7 @@ Dad is a digital version of Albert's dad, based on a recorded interview and powe
 
 #### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5d3b76ebc2dc714ed6788107) **\|** [**See Inside**](https://x.thunkable.com/projects/5d3b76ebc2dc714ed6788107/project/properties/designer/)\*\*\*\*
 
-For anyone who has a pet \(or child\) whose care is managed by multiple people, this app helps to coordinate regular meals, treats, walks and poops. This app is powered by a [free private Firebase Database](realtime-db.md#create-your-free-firebase-project-and-account) that syncs data quickly across devices. This app resets itself every day.
+For anyone who has a pet \(or child\) whose care is managed by multiple people, this app helps to coordinate regular meals, treats, walks and poops. This app is powered by a [free private Firebase Database]() that syncs data quickly across devices. This app resets itself every day.
 
 `#cloudvariables` `#firebase` `#share` 
 
@@ -60,7 +60,7 @@ Social media was originally invented for people to share things with people they
 
 #### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5cdf36d454cc871aaa0e4ca4) **\|** [**See Inside**](https://x.thunkable.com/projects/5cdf36d454cc871aaa0e4ca4/project/properties/designer/)\*\*\*\*
 
-This app is kind of like an Instagram and Snapchat hybrid and we've created a private version of this app that we are using daily at the Thunk Tank to help our global team feel more connected. To make your app private, simply create a [free Cloudinary image account](media-db.md#create-a-free-cloudinary-account) to keep your images within your sights and a [free private Firebase Database](realtime-db.md#create-your-free-firebase-project-and-account) to host the links to those images. You won't believe what people will share with a little bit of privacy!
+This app is kind of like an Instagram and Snapchat hybrid and we've created a private version of this app that we are using daily at the Thunk Tank to help our global team feel more connected. To make your app private, simply create a [free Cloudinary image account]() to keep your images within your sights and a [free private Firebase Database]() to host the links to those images. You won't believe what people will share with a little bit of privacy!
 
 `#cloudvariables` `#firebase` `#mediadb` `#cloudinary` `#camera` 
 
@@ -70,7 +70,7 @@ This app is kind of like an Instagram and Snapchat hybrid and we've created a pr
 
 #### \*\*\*\*[**Preview**](https://x.thunkable.com/projectPage/5d02ccd2c9b63a335d6d5864) **\|** [**See Inside**](https://x.thunkable.com/projects/5d02ccd2c9b63a335d6d5864/project/properties/designer/)\*\*\*\*
 
-This is a Slack-like chat app where users pick their own chat bubble colors. You can make the backend private by connecting it to your own [Firebase database](realtime-db.md#set-up-your-own-firebase-account). This app features the clone and device time blocks.
+This is a Slack-like chat app where users pick their own chat bubble colors. You can make the backend private by connecting it to your own [Firebase database](). This app features the clone and device time blocks.
 
 `#cloudvariables` `#firebase` `#cloneblocks` `#devicetime` `#drawernavigator`  `#slider`
 

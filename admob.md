@@ -9,7 +9,6 @@ We highly recommend that you only add ads to your app after you have a large aud
 * [Review guidelines](admob.md#review-guidelines)
 * [Sample apps](admob.md#sample-apps)
 * [Ad formats](admob.md#ad-formats)
-* [Banner ad](admob.md#banner-ad)
 * [Interstitial ad](admob.md#interstitial-ad)
 * [Rewarded video ad](admob.md#rewarded-video-ad)
 * [Live test](admob.md#live-test)
@@ -63,21 +62,11 @@ Once approved, apps can be downloaded and published without further review.
 
 ## Ad Formats
 
-|  | Banner ad | Interstitial ad | Rewarded video ad |
-| :--- | :--- | :--- | :--- |
-| Description | Banner ads are rectangular image or text ads that occupy a spot within an app's layout. They stay on screen while users are interacting with the app, and can refresh automatically after a certain period of time. If you're new to mobile advertising, they're a great place to start. | Interstitial ads are full-screen ads that cover the interface of their host app. They're typically displayed at natural transition points in the flow of an app, such as between activities or during the pause between levels in a game. When an app shows an interstitial ad, the user has the choice to either tap on the ad and continue to its destination or close it and return to the app. | Full-screen video ads that users have the option of watching in full [in exchange for in-app rewards](https://support.google.com/admob/answer/7313578).  |
-| Recommended for | Single-screen apps | Multi-screen apps | Multi-level games |
-| Limit | 1 per screen | 1 per app | 1 per app |
-
-## Banner ad
-
-AdMob banner ads are the simplest ad format to implement and are recommended for beginners.
-
-![Drag and drop the component onto any screen. You may need to re-position banner ad to the bottom or top of the screen using the Vertical Alignment property of the Screen.](.gitbook/assets/thunkable-docs-exhibits-10.png)
-
-That's it.  There's no blocks needed. 
-
-The first banner ad will load when ready and will reload a new ad every minute.
+|  | Interstitial ad | Rewarded video ad |
+| :--- | :--- | :--- |
+| Description | Interstitial ads are full-screen ads that cover the interface of their host app. They're typically displayed at natural transition points in the flow of an app, such as between activities or during the pause between levels in a game. When an app shows an interstitial ad, the user has the choice to either tap on the ad and continue to its destination or close it and return to the app. | Full-screen video ads that users have the option of watching in full [in exchange for in-app rewards](https://support.google.com/admob/answer/7313578).  |
+| Recommended for | Multi-screen apps | Multi-level games |
+| Limit | 1 per app \(can be used multiple times\) | 1 per app \(can be used multiple times\) |
 
 ## Interstitial Ad
 
