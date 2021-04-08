@@ -45,7 +45,7 @@ This block returns a list of property names. This list can be used with [list](l
 
 With the `set property` block, you can change the value of a single property of an object.
 
-![](.gitbook/assets/objectsetprop.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.35.20-am.png)
 
 ## Examples of using Object blocks in your app
 
@@ -59,15 +59,5 @@ Often, when retrieving data from an API like [Weather Underground](https://www.w
 
 You may just want to pull out one attribute \(like temp\_f or the temperature in Farenheit\). To do so, you'll need to use the object blocks below:
 
-![](.gitbook/assets/web-api-fig-2.png)
-
-### Getting values from the Location Sensor
-
-The [Location Sensor ](location-sensor.md)components returns a latitude, longitude and location object and it's not always clear which attributes are available. One way to troubleshoot is to print out the JSON from the object like below
-
-![](.gitbook/assets/blocks-object-fig-7.png)
-
-This will output the following on your app
-
-![](.gitbook/assets/blocks-object-fig-8.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-11.37.34-am.png)
 
