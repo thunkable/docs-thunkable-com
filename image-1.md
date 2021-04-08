@@ -93,19 +93,17 @@ This event handler is fired when the user clicks on the image.
 
 ## Properties
 
-
-
 ### Computed Dimensions
 
-![](.gitbook/assets/computed_height.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%282%29.jpg)
 
-![](.gitbook/assets/img_computed_width.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%281%29.jpg)
 
 The `Computed Height` and `Computed Width` blocks return the on screen dimensions of the image, after it has been rendered on-screen. The value returned is an integer, representing the size of the image in pixels.
 
 ### Height 
 
-![](.gitbook/assets/image_height.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%283%29.jpg)
 
 The set and get height blocks work with the Height property of the image component. Acceptable input values are. 
 
@@ -143,7 +141,7 @@ The set and get visible blocks are used to show or hide the entire image compone
 
 ### Width
 
-![](.gitbook/assets/image_width.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy.jpg)
 
   
 The set and get width blocks work with the Width property of the image component. Acceptable values are.‌
