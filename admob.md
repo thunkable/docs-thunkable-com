@@ -118,21 +118,21 @@ Use the **when Ad Open** and **when Ad Close** blocks to trigger events to happe
 
 Use the **Show Ad** block to show an interstitial ad in your app. If there is an error, the **error** block will catch and return it.
 
-![](.gitbook/assets/screen-shot-2019-03-08-at-8.54.29-am.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.00.50-pm.png)
 
 #### Properties
 
 Use these blocks to set and get the **Android Ad Unit ID** of your interstitial ad.
 
-![](.gitbook/assets/admob-inter-blocks-android-id.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.01.14-pm-copy%20%281%29.jpg)
 
 Use these blocks to set and get the **iOS Ad Unit ID** of your interstitial ad.
 
-![](.gitbook/assets/admob-inter-blocks-ios-id.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.01.14-pm-copy.jpg)
 
 Use these blocks to set and get the **Test Mode** status of your interstitial ad.
 
-![](.gitbook/assets/admob-inter-blocks-testmode.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.01.14-pm.png)
 
 ## R**ewarded Video** Ad
 
