@@ -14,7 +14,7 @@ When browsing the Gallery, here are three things that you can do with public pro
 
 1. **View a Project** Click to open any project on the Public Gallery to view an app's design or programming blocks.
 
-![](.gitbook/assets/thunkable-docs-exhibits-43.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.46.34-pm.png)
 
 **2. Preview a Project**  
 After downloading the [Thunkable Live mobile app](get-started/live-test.md), you can use the app to preview any public project directly on your mobile device. 
