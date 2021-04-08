@@ -6,17 +6,7 @@ description: >-
 
 # Button
 
-## Video Tutorial
-
-{% embed url="https://youtu.be/PisrJ5kxS50" %}
-
-
-
 ## Button Overview
-
-* [Style the Button](button.md#style-the-button)
-* [Edit the Button size](button.md#edit-the-button-size)
-* [Programming the Button](button.md#start-an-event-from-a-button-click)
 
 ![](.gitbook/assets/button-fig-1.png)
 
@@ -56,30 +46,9 @@ You have many options for styling your button, such as changing the background c
 
 You can set how tall the button is using the height property and set how wide the button is using the width property.
 
-**Height**
+**Height:** Height of Button in pixels
 
-* **Fill container -** The button fills the entire screen vertically
-* **Fit contents -** The  button’s height changes to be the size of the contents it contains
-* **Relative size -** The button fills the specified percentage of the screen
-* **Absolute size -** Sizes the button to a specified number of pixels
-
-**Width**
-
-* **Fill container -** The button fills the entire screen horizontally
-* **Fit contents -** The button’s width changes to be the size of the contents it contains
-* **Relative size -** The button fills the specified percentage of the screen
-* **Absolute -** Sizes the button to a specified number of pixels
-
-## Add Spacing
-
-You change the spacing and positioning of the button with the Margin and Padding properties.   
-**Margin**
-
-* You can specify how much space you want between the edges of the button and the screen using either pixel or percent values.
-
-**Padding**
-
-* You can specify how much space you want between the border and contents of the button using either pixel or percent values.
+**Width:** Width of Button in pixels
 
 ## Events
 
