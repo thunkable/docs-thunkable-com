@@ -42,7 +42,7 @@ You can get your own Google Maps API Key [here](https://developers.google.com/ma
 
 To auto-center your map, you can pair the Map component with a [Location Sensor](location-sensor.md)
 
-![](.gitbook/assets/map-fig-2.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.04.15-pm.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -100,7 +100,7 @@ There are limited styling options for markers at the moment. We are working to a
 
 You can add a standard default marker to your map with the blocks below. The Map component does not yet supply its own latitude and longitude so we currently recommend using the Location Sensor component
 
-![](.gitbook/assets/screen-shot-2018-04-24-at-1.18.26-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.05.29-pm.png)
 
 ### Add Polyline
 
@@ -108,7 +108,7 @@ You can add a standard default marker to your map with the blocks below. The Map
 
 To add a polyline, you can use the blocks below where `coordinates` need to be in a list of latitude and longitude objects, `stroke Width` is an integer and `stroke Color` is in hex format
 
-![](.gitbook/assets/screen-shot-2018-04-24-at-4.58.42-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.07.39-pm.png)
 
 ### Add Polygon
 
@@ -118,21 +118,21 @@ To add a polygon, you can use the blocks below where `coordinates` need to be in
 
 
 
-![](.gitbook/assets/screen-shot-2018-04-24-at-5.14.08-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.09.05-pm.png)
 
 ### Delete Markers, Polylines and Polygons
 
 You can use the **deleteAllMarkers** block to delete all [markers](map.md#add-marker) from your app.
 
-![](.gitbook/assets/deleteallmarkers.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.09.33-pm.png)
 
 You can use the **deleteAllPolylines** block to delete all [polylines](map.md#add-polyline) from your app.
 
-![](.gitbook/assets/deleteallpolylines.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.10.01-pm.png)
 
 You can use the **deleteAllPolygons** block to delete all [polygons](map.md#add-polygon) from your app.
 
-![](.gitbook/assets/deleteallpolygons.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.09.45-pm.png)
 
 ## Map Events
 
@@ -142,7 +142,7 @@ The map has several events. You can trigger actions to happen when these events 
 
 This event happens when the Map has loaded in your app. This is a good time to add any markers, polylines or polygons to your app that you want the user to see as soon as your app opens.
 
-![Example of using On Map Ready block](.gitbook/assets/onmapready.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.10.55-pm.png)
 
 ### On User Location Change
 
@@ -161,7 +161,7 @@ position:{
       **y:** x-position of selected point on the Map component  
 **}**
 
-![Example of using On user Location Change block](.gitbook/assets/userlocationchangedemo.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.12.54-pm.png)
 
 ### On Press
 
@@ -198,5 +198,5 @@ The **On Marker Press** block returns an **event** object. This is an object whi
 **latitude:** returns the latitude of the selected Marker  
 **longitude**: returns the longitude of the selected Marker
 
-![Example of using On Marker Press block](.gitbook/assets/maponmarkerpressdemo.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.13.46-pm.png)
 
