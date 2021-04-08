@@ -6,6 +6,12 @@ description: Navigate to different screens using a bottom tab navigator.
 
 ![Bottom tabs are a popular way to navigate an app today](.gitbook/assets/thunkable-docs-exhibits-81.png)
 
+## Video Tutorial
+
+You can watch a video tutorial for using Navigators in your Thunkable app here:
+
+{% embed url="https://www.youtube.com/watch?v=0NrkKiCGaxk&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q\_Np&index=2" %}
+
 ## Adding Navigators
 
 To add a navigator to your app, click **Screens +** at the top of your component tree.   

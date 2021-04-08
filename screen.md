@@ -6,31 +6,11 @@ description: >-
 
 # Screen
 
-## Video Tutorials
+## Adding a Screen to your Project
 
-{% embed url="https://youtu.be/h7Zqa1-Ajdg" %}
+Click the **Screens +** at the top of your component tree to add a screen to your app. You can create a new screen or add a [saved screen](screen.md#save-screen). 
 
-
-
-{% embed url="https://youtu.be/pGhATTA1cIA" %}
-
-## Appearance and Layout
-
-### Space Elements Horizontally
-
-The `Horizontal Alignment` property allows you to space elements in a Screen horizontally
-
-
-
-![](.gitbook/assets/image%20%2823%29.png)
-
-![](.gitbook/assets/thunkable-documentation-exhibits-64%20%281%29.png)
-
-### Space Elements Vertically
-
-The `Vertical Alignment` property allows you to space elements in a Screen vertically
-
-![](.gitbook/assets/spacing-fig-2.png)
+![](.gitbook/assets/screen-shot-2021-04-08-at-5.11.05-pm.png)
 
 ### Add a Background Color or Picture
 

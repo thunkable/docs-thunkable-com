@@ -6,6 +6,12 @@ description: >-
 
 # Drawer Navigator
 
+## Video Tutorial
+
+You can watch a video tutorial for using Navigators in your Thunkable app here:
+
+{% embed url="https://www.youtube.com/watch?v=0NrkKiCGaxk&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q\_Np&index=2" %}
+
 ## Adding Navigators
 
 To add a navigator to your app, click **Screens +** at the top of your component tree.   
