@@ -51,9 +51,11 @@ When you click the Live Test button you will be prompted to enter a code into yo
 
 ![](../.gitbook/assets/lt_email.png)
 
-To find this code, open Thunkable Live on your device and click **Need a code? Click Here.**
+To find this code, open Thunkable Live on your device and click **Email sign in - Generate Test Code.**
 
-![](../.gitbook/assets/live2%20%281%29.png)
+![](../.gitbook/assets/img_1315.png)
+
+![](../.gitbook/assets/img_1315.png)
 
 Enter this code into the first prompt and you will be able to live test your app.
 
