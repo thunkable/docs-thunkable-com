@@ -24,23 +24,24 @@ You have many options for styling your button, such as changing the background c
 * **Text Color:** Color of the text that appears on the button
 * **Background Color:** Sets the background color of the button
 * **Font Size:** Size of the text that appears on the button
+* **Font Bold:** To make the text on the button bold, set the switch to true
+* **Font Italic:**  To make the text on the button italic, set the switch to true
+* **Background Color:** Set the background Color of the Button
 * **Background Picture:** Upload a picture that appears on the button. ****
-* **Background Picture Resize Mode**
-  * **Cover:** Fills the entire button without changing the height and width ratio of the image
-  * **Contain:** The entire image will be scaled down to fit inside the button, without changing the height and width ratio of the image
-  * **Stretch:** The image's height will change to fill the button length-wise
-  * **Repeat:** Repeat the image to cover the button. The image's height and width ratio will not change
-  * **Center:** Positions the image in the middle of the button
+  * **Resize Mode**
+    * **Cover:** Fills the entire button without changing the height and width ratio of the image
+    * **Contain:** The entire image will be scaled down to fit inside the button, without changing the height and width ratio of the image
+    * **Stretch:** The image's height will change to fill the button length-wise
+    * **Repeat:** Repeat the image to cover the button. The image's height and width ratio will not change
+    * **Center:** Positions the image in the middle of the button
+* **Disabled:** To prevent the button from performing an option when it is clicked, set the switch to true
+* **Raised:** To cast a shadow around the button, set the switch to true
 * **Visible:** To see the button in your app, set the switch to true
 * **Border**
   * **Width:** Enter how wide you want the border outline of the button to be
   * **Color:** Pick a color for the border of the button
   * **Style:** Select if you want the border to be a dotted, dashed or solid line
   * **Radius:** Enter how round you want the edges of the border for the button to be
-* **Font Bold:** To make the text on the button bold, set the switch to true
-* **Font Italic:**  To make the text on the button italic, set the switch to true
-* **Raised:** To cast a shadow around the button, set the switch to true
-* **Disabled:** To prevent the button from performing an option when it is clicked, set the switch to true
 
 ## Edit size and position
 

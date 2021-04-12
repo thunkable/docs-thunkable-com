@@ -20,7 +20,7 @@ The data viewer components allow you to create beautiful user interfaces for you
 
 You can add additional functionality to the Data Viewer List by using the included [component blocks](data-viewer-list.md#blocks) or you can work directly with your raw data by using the [Data Sources blocks](data-sources.md).
 
-## Data Source
+## Pick your Data Source
 
 To begin using the Data Viewer you need to specify where your data are stored. Thunkable gives you three different storage options. 
 

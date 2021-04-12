@@ -19,8 +19,6 @@ When you first sign in to Thunkable you will be prompted to create a project. To
 
 {% page-ref page="assets.md" %}
 
-{% page-ref page="../sample-apps.md" %}
-
 {% page-ref page="../public-gallery.md" %}
 
 ## Public Projects
@@ -48,10 +46,6 @@ You can also click on your project name in the upper left hand corner, and click
 Private projects become Read-Only projects when a Thunker's PRO membership expires. Read-Only projects remain private and are not included in the Thunkable Gallery.
 
 You can only preview Read-Only. Once a project has been switched to Public, you cannot switch it back to Read-Only.
-
-## Legacy projects
-
-The term Legacy projects refers to apps that were built on Thunkable before Thunkable PRO existed. If you are a long-term Thunkable user and have legacy projects, they can be edited in private mode at any time.  
 
 
 

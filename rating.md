@@ -11,6 +11,17 @@ A Rating component is made up of 5-10 _icons_. An icon can be filled, partially 
 
 ![A Rating component displaying a rating of 3.5/5](.gitbook/assets/rating.png)
 
+## Edit size and position
+
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
+
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
+
 ## Event Blocks
 
 ### On Rate

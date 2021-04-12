@@ -23,11 +23,11 @@ Select **Add Navigator** and select the Navigator you want to add.
 
 ## Name Your Drawers
 
-To name your drawers, click on each screen and navigate to the Drawer label on the bottom right corner of the properties section. 
-
-![](.gitbook/assets/image%20%2859%29.png)
+The names displayed in the Drawer Navigator will be the names of the [Screens](screen.md) it contains. 
 
 ## Drawer Navigator Properties
+
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.01.13-am.png)
 
 You have many options for styling your Drawer Navigator, such as changing the background color or tint color. Here are the different options for customization:
 

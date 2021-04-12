@@ -19,6 +19,17 @@ The Date Input component needs no set-up \(Woohoo!\). Just drag and drop the com
 
 When a user of your app taps on the Date Input, it will automatically launch the native Android or iOS date pickers.
 
+## Edit size and position
+
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
+
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
+
 ## Set the Date Format
 
 You can set the format of the date by choosing an option from the `Style` property. Currently supported styles are:

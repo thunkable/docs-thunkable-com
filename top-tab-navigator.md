@@ -10,6 +10,12 @@ The Top Tab Navigator is positioned at the top of your app, and allows users to 
 
 ![](.gitbook/assets/image%20%28112%29.png)
 
+## Video Tutorial
+
+You can watch a video tutorial that explains all of the Navigators here:
+
+{% embed url="https://www.youtube.com/watch?v=TqIVHGYdi54" %}
+
 ## Adding Navigators
 
 To add a navigator to your app, click **Screens +** at the top of your component tree.   
@@ -49,29 +55,17 @@ When designing a tab, you can use words or images to guide users to different sc
 
 ![Using Images](.gitbook/assets/image%20%2854%29.png)
 
-## Step by Step Instructions
+## Properties
 
-Step 1. Add screens to a Navigator by dragging and dropping them on top of a Navigator.
+![](.gitbook/assets/screen-shot-2021-04-12-at-7.50.26-am.png)
 
-Step 2. Select the Top Tab Navigator. Decide if you would like to display icons or labels by clicking on these switches:
-
-![](.gitbook/assets/image%20%2844%29.png)
-
-Step 3. Depending on if you are adding icons or labels, select the screen you would like to style and upload an image or add content:
-
-![](.gitbook/assets/image%20%2872%29.png)
-
-Additional descriptions are below:
-
-**Tab Bar Label** -- The name of your tab label
-
-**Active Tab Icon** -- Icon that appears when tab is selected; You can upload an image for this icon.
-
-**Inactive Tab Icon** --  Icon that appears when tab is not selected; You can upload an image for this icon.
-
-## Enable Swiping
-
-Swiping is a popular way to move through screens and is enabled by the Tab Navigator. You can enable the swipe feature by clicking the "SwipeEnabled' switch. 
-
-![](.gitbook/assets/image%20%2864%29.png)
+**SwipeEnabled:** Let the user swipe between screens  
+**AnimationEnabled:** show a smooth transition animation between screens  
+**Lazy:** If true, only loads the screen the user has open at a time. If false, loads all screens when the Navigator is opened.   
+**BackgroundColor:** Set background Color  
+**tabIndicatorColor:** Set color of the line that displays beneath your active tab  
+**activeTintColor:** Set color of the tab you are currently viewing  
+**inactiveTintColor:** Set color of the tabs you are not currently viewing  
+**showIcon:** Show tab Icons in Navigator  
+**showLabel:** Show tab Labels in Navigator
 

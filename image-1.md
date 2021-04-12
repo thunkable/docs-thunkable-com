@@ -7,13 +7,13 @@ description: The image component lets you display pictures in your app.
 ## Image Overview
 
 * [Set Image](image-1.md#set-image)
-* [Edit Image size](image-1.md#edit-image-size)
-* [Style the Image](image-1.md#style-the-image)
-* [Add spacing](image-1.md#add-spacing)
+* [Edit Image size and position](image-1.md#edit-size-and-position)
+* [Resizing the Image](image-1.md#resizing-the-image)
+* [Add a Border](image-1.md#add-a-border)
 * [Event Blocks](image-1.md#events)
 * [Property Blocks](image-1.md#properties)
 
-The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](), [Image Recognizer]() and [Media DB]()
+The Image component lets you display pictures in your app and pairs nicely with image based components like the [Camera](camera.md), [Photo Library](camera.md#use-image-from-photo-library), [Image Recognizer](camera.md#image-recognition) and [Media DB](camera.md#upload-image-to-the-cloud)
 
 ![](.gitbook/assets/image-fig-1.png)
 
@@ -30,27 +30,18 @@ There are a few ways you can display an image in your app:
 
 The blocks above open up your phone’s camera and set the Image component to the picture that you took. 
 
-## Edit Image size
+## Edit size and position
 
-You can set how tall the Image is using the height property and set how wide it is using the width property.
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-**Height**
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
 
-* **Fill container -** The Image fills the entire screen vertically
-* **Fit contents -** The Image’s height changes to fit the contents it contains
-* **Relative size -** The Image fills the specified percentage of the screen
-* **Absolute size -** Sizes the Image to a specified number of pixels
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
-**Width**
-
-* **Fill container -** The Image fills the entire screen horizontally
-* **Fit contents -** The Image’s width changes to fit the contents it contains
-* **Relative size -** The Image fills the specified percentage of the screen
-* **Absolute -** Sizes the Image to a specified number of pixels
-
-
-
-### Resizing the Image
+## Resizing the Image
 
 ![](.gitbook/assets/image-fig-3.png)
 
@@ -62,7 +53,7 @@ With the Resize Mode property, you can do the following:
 * **Repeat:** Repeats the picture at its original quality within the image component area
 * **Center:** Positions the picture in the middle of the image component
 
-## Style the Image
+## Add a Border
 
 You can style the image with the following properties:
 
@@ -70,18 +61,6 @@ You can style the image with the following properties:
   * **Width:** Enter how wide you want the border outline of the image to be 
   * **Color:** Pick a color for the border of the image
   * **Radius:** Enter how round you want the edges of the border for the image to be ****
-
-## Add spacing
-
-You can change the spacing and positioning of the Image with the Margin and Padding properties.
-
-**Margin**
-
-* You can specify how much space you want between the edges of the image and the screen using either pixel or percent values.
-
-**Padding**
-
-* You can specify how much space you want between the border and the contents of the image using either pixel or percent value. 
 
 ## Events
 

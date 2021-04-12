@@ -25,6 +25,17 @@ You can set the format of the time by simply choosing your desired format from t
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.58.31-pm.png)
 
+## Edit size and position
+
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
+
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
+
 ## Save the time
 
 The time that a user selects will show up automatically in the Time Input label but if you want to save the date somewhere to be uploaded later, you'll need to add a block like the one below. 

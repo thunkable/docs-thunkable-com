@@ -33,37 +33,35 @@ When adding visible components into your app, please note that they can only exi
 
 They often relate to your app's functionality, and are quietly running in the background. When you add an invisible component to your app, that component can work on any screen. 
 
-For example, if you add a database component to your app, the database can be accessed from any screen. You do not need to add a database component to each screen.
+For example, if you add a [Camera](camera.md) to your app, the database can be accessed from any screen. You do not need to add a Camera component to each screen.
 
 ## Finding Components
 
-Components are organized into 10 different categories. For a more detailed description of each category and an outline of the components they contain, click on one of the pages below.
+Components are organized into 8 different categories. For a more detailed description of each category and an outline of the components they contain, click on one of the pages below.
 
 {% page-ref page="user-interface.md" %}
 
+{% page-ref page="data-viewers.md" %}
+
 {% page-ref page="layout.md" %}
-
-{% page-ref page="image.md" %}
-
-{% page-ref page="location.md" %}
 
 {% page-ref page="monetization.md" %}
 
-To find a component, you can manually scroll through the components section on the Thunkable app builder. You can also expand and collapse categories depending on your needs.
+{% page-ref page="gaming.md" %}
 
-![](.gitbook/assets/linear.gif)
+{% page-ref page="invisible-components.md" %}
 
-The quickest way to find a component is by searching for it in the search bar. Any matching components will also be displayed as you type.
+To find a component, you can look in the **Add Components** section on the Thunkable app builder. You can also expand and collapse categories depending on your needs.
 
-![](.gitbook/assets/search.gif)
+![](.gitbook/assets/screen-shot-2021-04-12-at-7.57.22-am.png)
+
+You can use the Search bar to search for components.
 
 ## The Component Tree
 
-The component tree can be found at the top left corner of your screen, just below your project name. The component tree contains a list of the visible and invisible components in your app. 
-
-You can move components around on the component tree to change the location of a component in your app.  
+The component tree can be found at the top left corner of your screen, just below your project name. The component tree contains a list of the visible components in your app. 
 
 Components that are nested can also be expanded and collapsed by clicking on the ▾ icon. 
 
-![](.gitbook/assets/component_tree.gif)
+![](.gitbook/assets/screen-shot-2021-04-12-at-7.31.03-am.png)
 

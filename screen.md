@@ -8,13 +8,20 @@ description: >-
 
 ## Adding a Screen to your Project
 
-Click the **Screens +** at the top of your component tree to add a screen to your app. You can create a new screen or add a [saved screen](screen.md#save-screen). 
+There are two ways to add a new screen to your app:
+
+Click the + icon next to your Screen names in the Screens bar.
+
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.06.10-am.png)
+
+Click **Screens +** at the top of your component tree.   
+Select **Create New Screen.**
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-5.11.05-pm.png)
 
 ### Add a Background Color or Picture
 
-![](.gitbook/assets/image%20%2887%29.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.03.54-am.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -37,8 +44,6 @@ This determines how to resize the image when the frame doesn't match the raw ima
 * Center: Positions the image in the middle of the frame
 
 ### Enable Scrolling
-
-![](.gitbook/assets/image%20%2877%29.png)
 
 | Property | Description |
 | :--- | :--- |
@@ -83,30 +88,6 @@ Please Note: The `StatusBar Color`property will only work on Android devices at 
 | Property | Description |
 | :--- | :--- |
 | StatusBar Color | Default \(`0,0,0,0.53`\). Select any color using the color picker, RGBA or HEX value. Android-only. |
-
-## Save Screen
-
-Thunkable allows you to reuse a screen, and its associated blocks, in multiple projects with the "Save to My Screens" feature. You can find the save screen button at the top of the properties for every screen component in your app.
-
-![](.gitbook/assets/02_save_screen.png)
-
-### Name Your Screen
-
-It's important that when you save your screen you use a descriptive and memorable name that describes what your screen does. The example below is for a sign in screen, which is something that often get reused across multiple projects.
-
-![](.gitbook/assets/03_name_screen.png)
-
-### Add a New Screen
-
-Once you've saved a screen, any time you click the **`+`** button to add a new screen you will be given the option to add a blank screen or to "Copy from My Screens".
-
-![](.gitbook/assets/04_new_project.png)
-
-### Choose a Saved Screen
-
-Simply choose the screen that you want to add in and click the "Copy" button to proceed.
-
-![](.gitbook/assets/05_choose_screen.png)
 
 ## Screen Blocks 
 

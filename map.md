@@ -4,9 +4,8 @@
 
 * [Choose your provider](map.md#choose-your-provider)
 * [Zoom and center the Map](map.md#zoom-and-center-the-map)
+* [Edit size and position](map.md#edit-size-and-position)
 * [Style the Map](map.md#style-the-map) 
-  * [Edit Map size](map.md#edit-map-size)
-  * [Add spacing](map.md#add-spacing)
   * [Add marker](map.md#add-marker)
   * [Add polyline](map.md#add-polyline)
   * [Add polygon](map.md#add-polygon)
@@ -52,6 +51,17 @@ To auto-center your map, you can pair the Map component with a [Location Sensor]
 | Shows User Location | Default \(`true`\); If `true`, shows user location as a blinking blue dot |
 | Shows My Location Button \(Google Maps only\) | Default \(`true`\); In `true`, shows my location button that auto-centers map on user's location |
 
+## Edit size and position
+
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
+
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
+
 ## Style the Map
 
 ![](.gitbook/assets/map-fig-3.png)
@@ -69,26 +79,6 @@ There are a number of `Advanced` properties available to help you add custom sty
 | Map Type `Advanced` | Default \(`standard`\); `standard` is the classic map style; `satellite` displays only satellite imagery; `hybrid` shows roads and features layered over satellite imagery; `terrain` shows physical terrain overlay on top of a classic map \(Google Maps only\) |
 | Custom Map Style String \(Google Maps Only\) `Advanced` | Accepts a JSON string imported from the [Google Maps API styling wizard](https://mapstyle.withgoogle.com/). Map Type must be set to `standard` and provider must be set to `google`. |
 | Shows Traffic `Advanced` | Default \(`false`\); if `true`, shows real-time traffic overlay on the map |
-
-### Edit Map size
-
-For more information on sizing in your app, please see our [introduction here​](https://docs.thunkable.com/~/edit/primary/thunkable-cross-platform/2-create/intro-to-sizing)
-
-| Property | Description |
-| :--- | :--- |
-| Height | Default \(`Fill container`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
-| Width | Default \(`Fit container`\); Four options: 1\) `Fit contents` which auto-sizes to the content size or 2\) `Fill container` which auto-sizes to the container 3\) `Relative size` in percent of Screen, 4\) `Absolute size` in pixels |
-
-### Add Spacing
-
-For more information on adding spacing in your app, please see our [introduction here](intro-to-spacing.md)
-
-To find the spacing properties, you'll have to select the `Advanced` tab
-
-| Property | Description |
-| :--- | :--- |
-| Margin `Advanced` | Default \(`none`\); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
-| Padding `Advanced` | Default \(`none`\); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
 
 ### Add Marker
 

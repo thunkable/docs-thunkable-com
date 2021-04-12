@@ -20,16 +20,16 @@ You can customize your label using the following properties:
 * **Font Size:** Size of the text that appears on the label
 * **Color:** Color of the text that appears on the label
 * **Background Color:** Sets the background color of the label
-* **Font Style**
-  * **Normal:** Default text display
-  * **Italic:** Display the text in italics
-* **Font Weight:** Select how bold the text on the label will be
 * **Text Align**
   * **Auto -** Aligns the text automatically
   * **Left -** Displays the text starting from the left of the label
   * **Right -** Displays the text starting from the right of the label
   * **Center -** Displays the text starting from the middle of the label
   * **Justify -** Aligns both the right and left side of the text equally
+* **Font Style**
+  * **Normal:** Default text display
+  * **Italic:** Display the text in italics
+* **Font Weight:** Select how bold the text on the label will be
 * **Visible:** To see the label in your app, set the switch to true
 * **Border**
   * **Width:** Enter how wide you want the border outline of the label to be

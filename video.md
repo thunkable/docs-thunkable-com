@@ -6,12 +6,6 @@ description: The video component lets you play videos in your app.
 
 ## Video Overview
 
-* [Set Video](video.md#set-video)
-* [Edit Video size](video.md#edit-video-size)
-* [Set to Auto-Play](video.md#set-to-auto-play)
-* [Change Video](video.md#change-video)
-* [Pause or Un-Pause](video.md#pause-or-un-pause)
-
 {% hint style="warning" %}
 Please note that video files can be quite large and might exceed the 50 MB [size limit](projects/assets.md#app-size-limits-50-mb-per-app) for your project. 
 {% endhint %}
@@ -31,23 +25,16 @@ There are a few ways you can set a video source in your app:
 
 Please note that the Video component is not recommended for streaming live video content. 
 
-## Edit Video size
+## Edit size and position
 
-You can set how tall the Video is using the `height` property and set how wide it is using the `width` property.
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-**`Height`**
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
 
-* **Fill container \(default\)-** The Video fills the entire screen vertically
-* **Fit contents -** The Video’s height changes to fit the contents it contains
-* **Relative size -** The Video fills the specified percentage of the screen
-* **Absolute size -** Sizes the Video to a specified number of pixels
-
-**`Width`**
-
-* **Fill container \(default\) -** The Video fills the entire screen horizontally
-* **Fit contents -** The Video’s width changes to fit the contents it contains
-* **Relative size -** The Video fills the specified percentage of the screen
-* **Absolute -** Sizes the Video to a specified number of pixels
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
 ## Set to Auto-Play
 

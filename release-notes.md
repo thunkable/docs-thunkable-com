@@ -741,7 +741,7 @@ Platform updates
 
 Component updates
 
-* [Switch](switch.md) component no longer needs blocks to set-up
+* [Switch]() component no longer needs blocks to set-up
 
 ## May 22, 2018
 
@@ -790,7 +790,7 @@ New components
 
 * [Speech Recognizer]() - uses artificial intelligence to recognize and translate spoken language into text in 14 different languages
 * [Share](share.md) - allows users to share text or post images using their favorite installed communication app from Slack and Facebook to iMessage and WhatsApp
-* [Switch](switch.md) - popular UI element to turn on and off a certain feature in an app, often used in settings pages
+* [Switch]() - popular UI element to turn on and off a certain feature in an app, often used in settings pages
 
 Platform updates
 

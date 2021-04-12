@@ -50,5 +50,5 @@ Despite the beauty of relative size, there are a few cases where setting element
 
 Since a Scrollable Screen has a height that is greater than the size of the Screen, the height of the elements must be set to `Absolute size` or `fit contents.` You cannot use relative sizing or 'fill container' for components in a scrollable Screen or Column.
 
-> You can see an [example of a Scrollable Screen](sample-apps.md#beaver-bingo-1) in the Design Templates
+> You can see an [example of a Scrollable Screen]() in the Design Templates
 

@@ -18,5 +18,5 @@ Follow step by step app building instructions in our [YouTube tutorial series](h
 
 ## [Community Tutorials](https://community.thunkable.com/c/thunkable-cross-tutorials)
 
-The Thunkable Community is where Thunkers share their ideas with the world. You can find a wide selection of staff and community written guides and tutorials in the [Thunkable Cross Tutorials](https://community.thunkable.com/c/thunkable-cross-tutorials) section.
+The Thunkable Community is where Thunkers share their ideas with the world. You can find a wide selection of staff and community written guides and tutorials in the [Thunkable Tutorials](https://community.thunkable.com/c/thunkable-tutorials/56) section.
 
