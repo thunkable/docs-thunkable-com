@@ -55,8 +55,6 @@ To find this code, open Thunkable Live on your device and click **Email sign in 
 
 ![](../.gitbook/assets/img_1315.png)
 
-![](../.gitbook/assets/img_1315.png)
-
 Enter this code into the first prompt and you will be able to live test your app.
 
 ## **Live Preview**
