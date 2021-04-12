@@ -1,40 +1,32 @@
 # 📰 Release Notes
 
-## Coming soon to Thunkable ✕
+Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
-Platform updates
+## Mar 24, 2021
 
-* Introduce a tool to convert snap-to-position projects to drag-and-drop projects
-* Introduce pan-to-scroll in Design tab of Drag and Drop UI 
-* Add rounded bezels to Screens in Design tab of Drag and Drop UI
-* Add the following to Drag and Drop UI
+Platform Updates
 
-  * AdMob Banner
-  * Switch
-  * 'Partial Results' output block for Speech Recognizer component
-
-Component Updates
-
-* Fix behavior where blocks in '[when Screen Opens](screen.md#when-screen1-opens)' event block are triggered multiple times
-* Improve Video Player performance on web apps
-* Improve performance of 'when Screen Opens' block when Loading Icon present on the Screen
-* Improve performance of Text Input 'on Focus' block on web
-* Improve performance of Animations with 'on Click' event blocks
-* Expand amount of data types supported by the Airtable Create Row block
-* Add font size, font color and background color settings to List Viewer
-* Introduce advanced [Objects](objects.md) block
-
-New Components
-
-* In-app purchases
+* Updated icons for Google Maps and Lottie components
+* Display default profile picture if one has not been set
+* Fix tooltip message for Web Viewer
+* Adjust scroll bar on Drag and Drop UI
+* Adjustments to Sort By filter on projects homepage
 
 ## Mar 18, 2021
 
 Platform Updates
 
-* Update Component Tree and Properties Panel layout in Drag and Drop UI
-* Increase screen size on Design tab in Drag and Drop project UI
-* Improve appearance of Labels in web apps published from Drag and Drop UI projects
+* Update Image icon
+* Add Delete Project confirmation modal
+* Increase size of border on web preview phone frame
+* Update fonts in left sidebar
+* Fix scroll glitch in Add Components section
+* DND: In Drag and Drop UI, when component is duplicated, add to top of component tree
+* DND: Increase screen size on Design tab
+* DND: Remove auto margin that interferes with centering active screen
+* DND: Improve appearance of Labels in web apps
+* DND: Update Component Tree
+* DND: Update Properties Panel layout
 
 ## Mar 15, 2021
 
@@ -42,12 +34,20 @@ Component Updates
 
 * Improve performance of Translator component on the web
 
+## March 8, 2021
+
+Component Updates
+
+* Launch Pickers only if visible
+* Improvements to Android build server
+
 ## Mar 1, 2021
 
 Platform Updates
 
 * Add security modal to prevent accidental deletion of projects. Modal includes warning that project keystore will be deleted.
 * Critical update to Thunkable Live for iOS released
+* Set delete buttons to be red
 
 ## Feb 22, 2021
 
