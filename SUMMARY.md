@@ -95,6 +95,5 @@
   * [Login Issues](troubleshooting/login-issues.md)
   * [FAQs](troubleshooting/faqs.md)
 * [💾 Managing Storage](managing-storage.md)
-* [📰 Release Notes](release-notes.md)
 * [📝 Bugs and Feature Requests](bugs-and-feature-requests.md)
 
