@@ -39,13 +39,13 @@ Set something to happen when the Timer fires.
 
 ### Start Timer
 
-![](.gitbook/assets/newtimerblocks-start.png)
+![](.gitbook/assets/timst.png)
 
 Starts the Timer.
 
 ### Stop Timer
 
-![](.gitbook/assets/newtimerblocks-stop.png)
+![](.gitbook/assets/timstop.png)
 
 Stops the Timer.
 
@@ -53,13 +53,13 @@ Stops the Timer.
 
 #### Get time in seconds
 
-![](.gitbook/assets/newtimerblocks-get-time-seconds.png)
+![](.gitbook/assets/gets.png)
 
-Returns time in seconds.
+Returns time in seconds or milliseconds
 
 #### Get time in milliseconds
 
-![](.gitbook/assets/newtimerblocks-get-time-milliseconds.png)
+![](.gitbook/assets/getms.png)
 
 Returns time in milliseconds.
 
@@ -67,13 +67,13 @@ Returns time in milliseconds.
 
 #### Set Interval
 
-![](.gitbook/assets/newtimerblocks-set-interval.png)
+![](.gitbook/assets/setint.png)
 
 Set interval of Timer in milliseconds.
 
 #### Get Interval of Timer
 
-![](.gitbook/assets/image%20%28170%29.png)
+![](.gitbook/assets/getint.png)
 
 Returns interval of Timer in milliseconds.
 
@@ -81,13 +81,13 @@ Returns interval of Timer in milliseconds.
 
 #### Set Count Up
 
-![](.gitbook/assets/newtimerblocks-set-countup.png)
+![](.gitbook/assets/setcount.png)
 
 Set whether Count Up ****is enabled for this Timer.
 
 #### Get Count Up
 
-![](.gitbook/assets/newtimerblocks-get-countup.png)
+![](.gitbook/assets/getcount.png)
 
 Returns `true` or `false` value for whether Count Up is enabled for this Timer.
 
@@ -95,13 +95,13 @@ Returns `true` or `false` value for whether Count Up is enabled for this Timer.
 
 #### Set Loops
 
-![](.gitbook/assets/newtimerblocks-setloops.png)
+![](.gitbook/assets/setloops.png)
 
 Set whether the Timer loops.
 
 #### Get Loops
 
-![](.gitbook/assets/newtimerblocks-get-loops.png)
+![](.gitbook/assets/getloops.png)
 
 Returns `true` or `false` value for whether Loops is enabled for this Timer.
 
@@ -109,13 +109,13 @@ Returns `true` or `false` value for whether Loops is enabled for this Timer.
 
 #### Set Enabled
 
-![](.gitbook/assets/newtimerblocks-set-enabled.png)
+![](.gitbook/assets/setenabled.png)
 
 Set whether the Timer is enabled.
 
 #### Get Enabled
 
-![](.gitbook/assets/newtimerblocks-get-enabled.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.52.24-am.png)
 
 Returns `true` or `false` value for whether this Timer is enabled.
 

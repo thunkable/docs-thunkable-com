@@ -18,11 +18,9 @@ Due to special circumstances from Apple, there is a limit of one downloaded app 
 
 ## Download Android app
 
-To download your Android app:
+To download your Android app, click the Download icon and select **Download Android** 
 
-* select **Download** &gt; **Download Android** 
-
-![](.gitbook/assets/screen-shot-2021-02-22-at-8.24.37-am.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.11.40-am.png)
 
 * Enter your email address in the pop-up window
 
@@ -44,13 +42,9 @@ Anyone installing your app directly, instead of from the Play Store, will need t
 
 ### Download iOS app
 
+To download your iOS app, click on the Download icon and select **Download iOS** 
 
-
-To download your Android app:
-
-* select **Download** &gt; **Download iOS** 
-
-![](.gitbook/assets/screen-shot-2021-02-22-at-8.29.13-am.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.12.23-am.png)
 
 * Enter your email address in the pop-up window
 

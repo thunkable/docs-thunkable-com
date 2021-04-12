@@ -30,7 +30,7 @@ Opens your default email app with an email with the given subject and body ready
 
 You can send an email to multiple recipients by separating the different email addresses with a comma in the 'send email to' section of the block.
 
-![](.gitbook/assets/screen-shot-2021-03-04-at-1.33.00-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.44.17-am.png)
 
 {% hint style="info" %}
 You can use HTML formatting to customize the emails you send with the Share component \(iOS only\)

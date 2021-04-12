@@ -1,12 +1,7 @@
 # Assistant by Dialogflow
 
-{% hint style="danger" %}
-**Warning:** V1 of Dialogflow's API will be shut down on October 23, 2019. Please follow these instructions to upgrade to V2.
-{% endhint %}
-
 * [Set up](assistant.md#set-up)
 * [Program the Assistant](assistant.md#program-the-assistant-in-dialogflow)
-* [Upgrade from V1 to V2](assistant.md#upgrade-from-v1-to-v2)
 
 The Assistant component by Google's Dialogflow gives you the power of a Google Home or Amazon Alexa all from the comfort of your mobile device's built-in microphone. 
 
@@ -133,20 +128,4 @@ The agent is currently available to understand the following languages with more
 To change the language, simply change it in the Assistant properties panel and in your Dialogflow dashboard
 
 ![](.gitbook/assets/screen-shot-2019-10-02-at-9.24.53-pm.png)
-
-## Upgrade from V1 to V2
-
-{% hint style="danger" %}
-**Warning:** V1 of Dialogflow's API will be shut down on October 23, 2019. Please follow these instructions to upgrade to V2.
-{% endhint %}
-
-Upgrading from V1 to V2 involves two steps. 
-
-First, navigate to the Dialogflow ⚙settings page and make sure the V2 API is selected 
-
-![](.gitbook/assets/screen-shot-2019-10-02-at-9.28.55-pm.png)
-
-Second, you'll need to follow these steps to [re-connect your Dialogflow agent with Thunkable](assistant.md#connect-your-dialogflow-agent-with-thunkable).
-
-You'll have to retrieve the `Project Id` from the Dialogflow page you visited and create a new security key on the Google Cloud Service Account to retrieve the `Client Email` and `Private Key`. It sounds like a lot but if you follow the instructions, it should be relatively painless.
 

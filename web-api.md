@@ -45,15 +45,15 @@ Query parameters and headers can be set in the designer or in the blocks editor.
 
 In the blocks editor, it is possible to use the `create object` block to add multiple property:value pairs simultaneously. 
 
-![](.gitbook/assets/wvd3.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.59.11-am.png)
 
 In addition to creating your own objects, it is also possible to use JSON to specify the property:value pairs for your query parameters or headers. 
 
-![](.gitbook/assets/wvd4.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.00.03-am.png)
 
 ## Get and Format \(parse\) Data
 
-![This block retrieves and formats data from the Open Weather Map API](.gitbook/assets/screen-shot-2018-08-01-at-2.12.03-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.01.33-am.png)
 
 To retrieve data from an API, you simply need to use the `Get` block.
 

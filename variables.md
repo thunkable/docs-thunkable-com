@@ -19,7 +19,7 @@ You can save any data type as an app variable.
 
 ### Stored Variables
 
-A **stored** variable also works across screens but is saved to the mobile device itself. This means that a stored variable can be retrieved from a previous session. A stored variable is similar to saving a value to [Local Storage]() and is especially useful for retrieving a user's previous setting. If you use stored variables, you no longer need to add Local Storage to your app.
+A **stored** variable also works across screens but is saved to the mobile device itself. This means that a stored variable can be retrieved from a previous session.
 
 You can save any data type as a stored variable.
 
@@ -27,9 +27,9 @@ You can save any data type as a stored variable.
 
 A **cloud** variable also works across screens but is saved to the cloud powered by Firebase.   
   
-By default, the cloud variable is saved to the Thunkable default Firebase database. We recommend saving them to your own private Firebase DB by [connecting a private Firebase DB to your app](). 
+By default, the cloud variable is saved to the Thunkable default Firebase database. We recommend saving them to your own private Firebase DB by [connecting a private Firebase DB to your app](variables.md#connecting-a-firebase-realtime-db-to-your-app). 
 
-Cloud variables can be used similar to saving and retrieving values to a [Realtime DB]() powered by Firebase and can be used in a number of applications that share data across users in the cloud. If you use cloud variables, you no longer need to add a Realtime DB to your app.
+Cloud variables can be used similar to saving and retrieving values to a Realtime DB powered by Firebase and can be used in a number of applications that share data across users in the cloud. If you use cloud variables, you no longer need to add a Realtime DB to your app.
 
 #### Cloud Variables and Data
 
@@ -44,7 +44,7 @@ When you retrieve this text from your cloud variable, you can convert it to a li
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.21.42-am.png)
 
-To save media as a cloud variable, use the [Cloudinary Media DB]() component to upload your audio to the cloud and get a URL that points to it. You can save this URL as a cloud variable.
+To save media as a cloud variable, use the [Cloudinary Media DB](camera.md#upload-image-to-the-cloud) component to upload your audio to the cloud and get a URL that points to it. You can save this URL as a cloud variable.
 
 ## Initialize a Variable When the App Starts
 
@@ -79,4 +79,42 @@ With Cloud variables, this block will also be triggered when the value of the Cl
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.19.40-am.png)
 
 Variables do not have to be fixed values and there may be times when you want to change your variable automatically like incrementing it by 1 after an event. To do so, grab a block like the one above.
+
+## Connecting a Firebase Realtime DB to your App
+
+### Create your free [Firebase](https://firebase.google.com/) project and account
+
+Thunkable provides a default Firebase account for testing purposes. When your app is ready to be distributed, we strongly advise connecting your app to your personal Firebase instance.
+
+Firebase Realtime Database also pairs well with [Sign in](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/ios/components/screen-layout/authentication/sign-in.md) and you can use a single Firebase project for both services.
+
+![](.gitbook/assets/firebase-fig-3%20%281%29.png)
+
+### Edit Database Rules
+
+If you are using [Sign In](sign-in-1.md) powered by Firebase in your app, you do not need to edit the default database rules which permit reading and writing to the database for authorized users.
+
+![](.gitbook/assets/firebase-fig-7.png)
+
+Otherwise, you will need to set your Read and Write rules to `true`
+
+![](.gitbook/assets/firebase-fig-8.png)
+
+### Connect Your Firebase Project with Thunkable
+
+To connect your Firebase project with Thunkable, you'll have to add an `API key` and `Database URL` to the Firebase Settings in the App Settings, which you can find by clicking on the gear icon on the left hand side of the Design tab.
+
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.29.28-am.png)
+
+One way to retrieve the `API key` and `Database URL` from Firebase is to click on the `Add Firebase to your web app option`
+
+![](.gitbook/assets/thunkable-documentation-exhibits-68.png)
+
+![](.gitbook/assets/thunkable-documentation-exhibits-69%20%281%29.png)
+
+### Test Save to your Database
+
+Once your project is connected to your Thunkable app, we recommend that you do a simple test and save a value into your database. It should appear in your data tab in your Firebase console.
+
+![](.gitbook/assets/firebase-fig-10.png)
 

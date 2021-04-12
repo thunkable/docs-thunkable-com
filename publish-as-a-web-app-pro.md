@@ -38,7 +38,7 @@ Here's a 3 minute overview of how "Publish as a Web App" works.
 
 Start by clicking on the Publish menu and choose the "Publish as Web App \(PRO\)" option at the bottom of the drop down menu
 
-![](.gitbook/assets/publish-as-web-app.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.23.07-am.png)
 
 The first time you publish a new project you will have to click on the blue `Get link and publish` button.
 
@@ -62,7 +62,7 @@ Each time you press publish it’s similar to creating a new release of your app
 
 When you’re ready to release a new version, choose “Publish as a Web App” then click the blue “Publish current version” to update your app. The URL will remain the same, but the project that it links to will be updated.
 
-![](.gitbook/assets/frame-2.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.25.00-am.png)
 
 ## Unsupported Components 
 
@@ -74,7 +74,6 @@ Not all components are supported on the web at this time so please see the list 
 | **AdMob** | Monetization | **`Can not be supported`** |
 | **Assistant** | Voice | **`Not supported yet`** |
 | **Barcode Scanner** | Image | **`Not supported yet`** |
-| **Blockchain Wallet** | Data | **`Will not be supported`** |
 | **Bluetooth Low Energy** | Sensors | **`Not supported yet`** |
 | **Gyroscope** | Sensors | **`Supported but may not work as expected`** |
 | **Local Storage** | Data | **`Not supported yet -`**[**`stored variables`**](variables.md#stored-variables) **`are supported`** |

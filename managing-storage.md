@@ -14,7 +14,7 @@ You can find a table of project sizes here:
 
 ### Cloud Storage
 
-Depending on when you need an asset, it might make sense to store it in the cloud instead. Using cloud storage in your app will not have any impact on your local project size. Thunkable provides multiple third-party integrations, including [Airtable](), [Cloudinary](), and [Firebase](), as well as our own [cloud variables](variables.md#app-stored-and-cloud-variables) for smaller pieces of data.
+Depending on when you need an asset, it might make sense to store it in the cloud instead. Using cloud storage in your app will not have any impact on your local project size. Thunkable provides multiple third-party integrations, including [Airtable](data-sources.md#airtable), [Cloudinary](camera.md#upload-image-to-the-cloud), and [Firebase](variables.md#cloud-variables).
 
 ### Refactoring your App
 
@@ -23,6 +23,4 @@ Sometimes there's simply no option left other than to go back through your app a
 * Reduce block count by creating [functions](functions.md)
 * Use [loops](control.md#repeat-an-event) to perform repetitive tasks
 * Use [generics](any-component-blocks.md) as much as possible
-
-
 

@@ -23,9 +23,9 @@ Success on Google Play starts with quality. The best apps and games have higher 
 
 ## App info
 
-To publish your app on Android, you'll need to add an `app icon`, a `name`, a `package name` and an app `version`. To find the App settings, click on the App Icon on the top left.
+To publish your app on Android, you'll need to add an `app icon`, a `name`, a `package name` and an app `version`. To find the App settings, click on the gear icon on the top left of the screen.
 
-![](.gitbook/assets/package_name.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.20.26-am.png)
 
 For recommendations on your `app icon` and `name`, [please see this guide](projects/settings.md).
 
@@ -47,11 +47,13 @@ If you are only publishing to the Play Store, you do not need to enter a Team ID
 
 Before you download your app, make sure you set the appropriate Build and Version Number. Google Play requires each new version of your app to have a unique and sequentially higher Build and Version Number. You can also let Thunkable auto-increment \(or automatically increase\) the build and version numbers for you.
 
-![](.gitbook/assets/build_name.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.21.54-am.png)
 
 ## Download your Android app
 
-![](.gitbook/assets/download_android.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.22.17-am.png)
+
+See further instructions for downloading your Android app [here](download.md#download-android-app).
 
 ## Submit your app for review
 

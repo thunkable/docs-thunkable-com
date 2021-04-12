@@ -10,7 +10,7 @@ The Canvas Label is a piece of text that can be placed onto your [Stage](canvas.
 
 To add a Canvas Label to your app, click on the Stage of your Canvas. This will automatically bring you to the Canvas tab. Underneath your component tree, where you would see a component menu in the Design tab, you will see your Sprite Type menu and a User Interface menu. You can find the Canvas Label in the Unser Interface menu.
 
-![](.gitbook/assets/canvas-label.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.35.19-am.png)
 
 You can drag and drop the Canvas Label onto your Stage.
 

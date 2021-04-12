@@ -34,7 +34,7 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 Apple requires that you explain to users why you may need access to sensitive services like a camera, photo library and microphone. You can add these explanations in the App Settings panel under **iOS Permissions**.
 
-![](.gitbook/assets/app_settings.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.18.35-am.png)
 
 ### Create an Apple Developer Account
 
@@ -202,9 +202,9 @@ You will need to use the same **App Name** and **Bundle ID** you registered earl
 
 ### Start the Publishing process in Thunkable
 
-Thunkable enables you to send your build directly to the App Store without the need for any specialized software or hardware. To begin the process, click on the **Publish** icon and choose **Publish iOS** from the drop-down menu.
+Thunkable enables you to send your build directly to the App Store without the need for any specialized software or hardware. To begin the process, click on the **Download/Publish** icon and choose **Publish iOS** from the drop-down menu.
 
-![](.gitbook/assets/publish_to_ios.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.19.00-am.png)
 
 A publishing dialog will pop up to guide you through the publication process. Please take a moment to read all the instructions. 
 

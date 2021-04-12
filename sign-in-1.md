@@ -22,11 +22,9 @@ In the Firebase console, navigate to Authentication and the tab "Sign-In Method"
 
 ### Connect your Firebase Account with Thunkable
 
-There are two properties that you need to retrieve from Firebase to connect it with Thunkable which are both retrievable from the Firebase console: `API key` and `database URL`
+There are two properties that you need to retrieve from Firebase to connect it with Thunkable which are both retrievable from the Firebase console: `API key` and `database URL.` You can add these values to your Project Settings, which you can access by clicking on the gear icon to the left of the Design tab of your project.
 
-![](.gitbook/assets/thunkable-documentation-exhibits-67.png)
-
-`API key` and `database URL`
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.31.31-am.png)
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-68%20%281%29.png)
 

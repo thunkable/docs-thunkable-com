@@ -57,25 +57,25 @@ When the magnetometer detects a change in the ambient magnetic field the `Change
 
 ### Call X
 
-![](.gitbook/assets/image%20%28145%29.png)
+![](.gitbook/assets/magx.png)
 
 Returns flux density, in the x direction, expressed in $$\mu T$$
 
 ### Call Y
 
-![](.gitbook/assets/image%20%28173%29.png)
+![](.gitbook/assets/magy.png)
 
 Returns flux density, in the y  direction, expressed in $$\mu T$$
 
 ### Call Z
 
-![](.gitbook/assets/image%20%28146%29.png)
+![](.gitbook/assets/magz.png)
 
 Returns flux density, in the x direction, expressed in $$\mu T$$
 
 ### Call Heading
 
-![](.gitbook/assets/image%20%28166%29.png)
+![](.gitbook/assets/maghead.png)
 
 Returns a value between 0 and 360 which denotes the user's direction relative to the Earth's geographic North Pole
 

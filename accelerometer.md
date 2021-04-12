@@ -67,7 +67,7 @@ When the accelerometer sensor detects a change in the force acting on the phone 
 
 You can get the values for xAcceleration, yAcceleration and zAcceleration at any time with the following blocks.
 
-![](.gitbook/assets/image%20%28137%29.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.41.52-am.png)
 
 ## Properties
 
@@ -86,7 +86,7 @@ By default the accelerometer sensor will be turned on, but you can use the `Enab
 
 You can use the Sensitivity blocks to set the sensitivity of the Accelerometer and get its current level of sensitivity.
 
-![](.gitbook/assets/image%20%28159%29.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.42.32-am.png)
 
 
 

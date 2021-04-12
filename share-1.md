@@ -14,7 +14,17 @@ Please note, that if you have account information in your blocks or your UI desi
 
 When you generate a share link, it will create a copy of your app project at the point in time you generate the link. If you update your app and want your collaborators / remixers to have the latest copy, you'll have to generate a new link
 
-![](.gitbook/assets/share_project.gif)
+Click the Share icon in the top right corner of your project:
+
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.13.27-am.png)
+
+You will see a dialog warning you that sensitive details may be shared with the recipient of your copy link, and that you may want to remove sensitive details before making your copy. If you are happy to generate the share link, click `Generate Link`:
+
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.14.17-am.png)
+
+You will be given a share link and an expiry date. The share link will no longer work after this date.
+
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.15.35-am.png)
 
 ### Share and track your links on your project page
 
@@ -26,7 +36,7 @@ When a user clicks on your share link, a copy of your app will automatically app
 
 If you want to share a read-only version of your app project, you simply set your project to `Public` in your App Settings page and share the link of your project url
 
-![](.gitbook/assets/public_project.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.16.35-am.png)
 
 Users who visit the project url link do not automatically get a copy of your app in their account but they can use the [Make Copy](make-copy.md) button to create a copy if they wish
 

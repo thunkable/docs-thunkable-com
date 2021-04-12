@@ -55,9 +55,11 @@ To set one up, simply add the following `simple` properties
 | Confirm Button Text | The text of the right confirm button; If the `danger` switch is turned on, the text will be in red \(iOS only\) |
 | Cancel Button Text | The text of the left cancel button |
 
+## Blocks
+
 If you want to start an event from a confirm button, you will want to add the blocks below:
 
-![](.gitbook/assets/screen-shot-2018-06-26-at-3.56.11-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.46.25-am.png)
 
 ## Button List: Alert with three or more buttons
 
@@ -85,7 +87,7 @@ The 'showButtonList' block will return an output called 'buttonPressed'.
 This will return the position of the Button in your Button List.  
 You can take some action based on which button was pressed.
 
-![](.gitbook/assets/buttonpressed.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-8.51.02-am.png)
 
 Note: the Buttons may appear in a different order when testing the app on a device.   
 The number that ‘buttonPressed’ returns is the order that the Buttons are added in the app project.
