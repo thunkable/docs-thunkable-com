@@ -7,7 +7,6 @@ We highly recommend that you only add ads to your app after you have a large aud
 {% endhint %}
 
 * [Review guidelines](admob.md#review-guidelines)
-* [Sample apps](admob.md#sample-apps)
 * [Ad formats](admob.md#ad-formats)
 * [Interstitial ad](admob.md#interstitial-ad)
 * [Rewarded video ad](admob.md#rewarded-video-ad)
@@ -53,12 +52,6 @@ Thunkable will review apps for compliance with AdMob policies but will specifica
 Once approved, apps can be downloaded and published without further review.
 
 **Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.**
-
-## **Sample Apps** <a id="sample-apps"></a>
-
-| **Sample App** | Description |
-| :--- | :--- |
-| [Dad with Ad](https://x.thunkable.com/projects/5c85f9c0bd31e8c4e90f3539/Welcome/designer) | Dad app with AdMob Banner ad on home screen and AdMob Rewarded Video ad that appears after a user has receive an answer from my dad |
 
 ## Ad Formats
 
