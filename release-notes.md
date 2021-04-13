@@ -2,15 +2,35 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## April 13, 2021
+
+Platform Updates
+
+* Add AdMob IDFA to iOS build server
+* Speed up dragging in large projects
+* Remove behavior on Android where if the device language is a language that is written right-to-left, the position of the components on the app screen are inverted
+* Prevent error when no data is found in Airtable base
+* Allow JSON blocks to handle lists
+* Drag and Drop: Adjust spacing between screens
+* Drag and Drop: improve performance of hidden components on Android
+* Drag and Drop: Reset screen position when switching from preview to editing
+
+Component Updates
+
+* Update style of Alert component
+
 ## Mar 24, 2021
 
 Platform Updates
 
-* Updated icons for Google Maps and Lottie components
 * Display default profile picture if one has not been set
-* Fix tooltip message for Web Viewer
 * Adjust scroll bar on Drag and Drop UI
 * Adjustments to Sort By filter on projects homepage
+
+Component Updates
+
+* Fix tooltip message for Web Viewer
+* Updated icons for Google Maps and Lottie components
 
 ## Mar 18, 2021
 
@@ -21,12 +41,12 @@ Platform Updates
 * Increase size of border on web preview phone frame
 * Update fonts in left sidebar
 * Fix scroll glitch in Add Components section
-* DND: In Drag and Drop UI, when component is duplicated, add to top of component tree
-* DND: Increase screen size on Design tab
-* DND: Remove auto margin that interferes with centering active screen
-* DND: Improve appearance of Labels in web apps
-* DND: Update Component Tree
-* DND: Update Properties Panel layout
+* Drag and Drop: When component is duplicated, add to top of component tree
+* Drag and Drop: Increase screen size on Design tab
+* Drag and Drop: Remove auto margin that interferes with centering active screen
+* Drag and Drop: Improve appearance of Labels in web apps
+* Drag and Drop: Update Component Tree
+* Drag and Drop: Update Properties Panel layout
 
 ## Mar 15, 2021
 
