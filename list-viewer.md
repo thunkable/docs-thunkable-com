@@ -62,9 +62,6 @@ Choosing Airtable or Google Sheets allows you to create dynamic list viewers. Th
 
 You can customize the List Viewer with the following properties:
 
-* **Text Items Color:** Set color of Text Items font
-* **Text Items Background Color:** Set background color for List Viewer
-* **Text Items Font Size:** Set font size of Text Items
 * **Show Arrow:** To see an arrow beside each item in the list, set the switch to true
 * **Visible:** To see the text input in your app, set the switch to true
 * **Border**
@@ -72,6 +69,7 @@ You can customize the List Viewer with the following properties:
   * **Color:** Pick a color for the border of the List Viewer
   * **Style:** Select if you want the border to be a dotted, dashed or solid line
   * **Radius:** Enter how round you want the edges of the border for the List Viewer to be
+* **Background Colour \(Advanced\):** Sets the background color of the List Viewer
 
 ## Edit the ListViewer Height
 
