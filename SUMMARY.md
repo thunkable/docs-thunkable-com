@@ -18,6 +18,7 @@
 * [Text Input](text-input.md)
 * [List Viewer](list-viewer.md)
 * [Web Viewer](web-viewer.md)
+* [Switch](switch.md)
 * [Slider](slider.md)
 * [Maps by Google and Apple](map.md)
 * [Animation by Lottie](lottie.md)
