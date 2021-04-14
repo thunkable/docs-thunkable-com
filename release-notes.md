@@ -9,7 +9,6 @@ Platform Updates
 * Add AdMob IDFA to iOS build server
 * Speed up dragging in large projects
 * Prevent error when no data is found in Airtable base
-* Allow HTTP traffic on Android
 * Snap to Place: Improvements behavior on Android where if the device language is a language that is written right-to-left, the position of the components on the app screen are inverted
 * Drag and Drop: Adjust spacing between screens
 * Drag and Drop: improve performance of hidden components on Android
@@ -20,7 +19,6 @@ Component Updates
 * Update style of [Alert](alert.md) component
 * Allow Objects [Get Property Of](objects.md#get-properties-of-an-object) blocks to handle [nested properties and arrays](objects.md#nested-values-and-values-from-arrays)
 * [Airtable](spreadsheet.md) component and [Data Sources](data-viewer-list.md#airtable): Allow rows to be created/updated with non-text values
-* Add Text Items Color, Text Items Background Color, and Font Size properties to the [List Viewer](list-viewer.md)
 * Drag and Drop: add background image to Groups
 
 New Components
