@@ -2,6 +2,30 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## April 13, 2021
+
+Platform Updates
+
+* Add AdMob IDFA to iOS build server
+* Speed up dragging in large projects
+* Prevent error when no data is found in Airtable base
+* Snap to Place: Improvements behavior on Android where if the device language is a language that is written right-to-left, the position of the components on the app screen are inverted
+* Drag and Drop: Adjust spacing between screens
+* Drag and Drop: improve performance of hidden components on Android
+* Drag and Drop: Reset screen position when switching from preview to editing
+
+Component Updates
+
+* Update style of [Alert](alert.md) component
+* Allow Objects [Get Property Of](objects.md#get-properties-of-an-object) blocks to handle [nested properties and arrays](objects.md#nested-values-and-values-from-arrays)
+* [Airtable](spreadsheet.md) component and [Data Sources](data-viewer-list.md#airtable): Allow rows to be created/updated with non-text values
+* Drag and Drop: add background image to Groups
+
+New Components
+
+* Drag and Drop: AdMob banner
+* Drag and Drop: Switch
+
 ## Mar 24, 2021
 
 Platform Updates
