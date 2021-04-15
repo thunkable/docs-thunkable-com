@@ -29,7 +29,7 @@ When adding visible components into your app, please note that they can only exi
 
 ## Invisible Components
 
-[Invisible components](invisible-components.md) are features on your app that you can't see. 
+[Invisible components](app-features.md) are features on your app that you can't see. 
 
 They often relate to your app's functionality, and are quietly running in the background. When you add an invisible component to your app, that component can work on any screen. 
 
@@ -39,7 +39,7 @@ For example, if you add a [Camera](camera.md) to your app, the database can be a
 
 Components are organized into 8 different categories. For a more detailed description of each category and an outline of the components they contain, click on one of the pages below.
 
-{% page-ref page="user-interface.md" %}
+{% page-ref page="ui-components.md" %}
 
 {% page-ref page="data-viewers.md" %}
 
@@ -49,7 +49,7 @@ Components are organized into 8 different categories. For a more detailed descri
 
 {% page-ref page="gaming.md" %}
 
-{% page-ref page="invisible-components.md" %}
+{% page-ref page="app-features.md" %}
 
 To find a component, you can look in the **Add Components** section on the Thunkable app builder. You can also expand and collapse categories depending on your needs.
 

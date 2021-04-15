@@ -1,6 +1,6 @@
 # Groups
 
-A group is a container component. You can place [User Interface](user-interface.md) components inside a Group to make changing the layout of your app easier.
+A group is a container component. You can place [User Interface](ui-components.md) components inside a Group to make changing the layout of your app easier.
 
 ## Add a Group to your Project
 

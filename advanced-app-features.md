@@ -1,6 +1,6 @@
 # 🚀 Advanced App Features
 
-These components require a little more set-up than the other [app features](invisible-components.md), but deliver awesome functionality to your app.
+These components require a little more set-up than the other [app features](app-features.md), but deliver awesome functionality to your app.
 
 {% page-ref page="web-api.md" %}
 
