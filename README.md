@@ -30,7 +30,7 @@ To find out how Thunkable projects work, please read the **Create New Project** 
 
 {% page-ref page="projects/" %}
 
-You can find an overview of all of our components in the **Components** section.
+You can find an overview of all of our components in the **Components and Features** section.
 
 {% page-ref page="components.md" %}
 
@@ -42,7 +42,7 @@ To learn how to program your app with drag & drop blocks, please click on the **
 
 | Community | Email us |
 | :--- | :--- |
-| Connect with our community of Thunkers around the world to get the latest developments and discuss everything app-related. | For all other requests, please email us [hello@thunkable.co](mailto:hello@thunkable.com)m |
+| Connect with our community of Thunkers around the world to get the latest developments and discuss everything app-related. | For all other requests, please email us [hello@thunkable.com](mailto:hello@thunkable.com) |
 
 ## Pricing and Membership
 

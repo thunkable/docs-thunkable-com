@@ -32,5 +32,3 @@ They can be connected to a commonly used set of blocks that range from opening s
 
 {% page-ref page="data-sources.md" %}
 
-{% page-ref page="any-component-blocks.md" %}
-

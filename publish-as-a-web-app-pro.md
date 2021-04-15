@@ -82,7 +82,6 @@ Not all components are supported on the web at this time so please see the list 
 | **Photo Library** | Image | **`Not supported yet`** |
 | **Push Notification** | Social | **`Not supported yet`** |
 | **Share** | Social | **`Email and Phone work, other blocks not supported yet`** |
-| **Smart Contract** | Data | **`Will not be supported`** |
 | **Speech Recognizer** | Voice | **`Not supported yet`** |
 | **Web Viewer** | User Interface | **`BACK block not supported yet, some Google sites not supported`** |
 

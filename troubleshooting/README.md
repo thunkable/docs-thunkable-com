@@ -38,7 +38,7 @@ Common issues
 
 **You cannot install your app and get the message "Cannot connect to storage.googleapis.com"**
 
-* You have a special character like "&" in your [App Name](../projects/settings.md#app-name)
+* You have a special character like "&" in your [App Name](../projects/project-settings.md#app-name)
 
 ## Publish \(iOS\)
 

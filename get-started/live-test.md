@@ -103,23 +103,5 @@ You can also preview any _public_ app, directly from the Project Detail Page. He
 
 ### Unsupported Components
 
-Not all components are supported on the web at this time so please see the list below of components that are **`not supported`**:
-
-| Component | Category | Status |
-| :--- | :--- | :--- |
-| **Map** | Location | **`Not supported yet`** |
-| **Share** | Social | **`Supported but may not work as expected`** |
-| **Push Notification** | Social | **`Not supported yet`** |
-| **AdMob** | Monetization | **`Can not be supported`** |
-| **Bluetooth Low Energy** | Sensors | **`Not supported yet`** |
-| **Accelerometer** | Sensors | **`Supported but may not work as expected`** |
-| **Gyroscope** | Sensors | **`Supported but may not work as expected`** |
-| **Magnetometer** | Sensors | **`Supported but may not work as expected`** |
-| **Speech Recognizer** | Voice | **`Not supported yet`** |
-| **Assistant** | Voice | **`Not supported yet`** |
-| **Photo Library** | Image | **`Not supported yet`** |
-| **Barcode Scanner** | Image | **`Not supported yet`** |
-| **Local Storage** | Data | **`Not supported yet, use`** [**`stored variables`**](../variables.md)**\`\`** |
-
-
+Not all components are supported on the web at this time so please see the list of unsupported components in the [Publish as a Web App](../publish-as-a-web-app-pro.md#unsupported-components) page of the docs.
 

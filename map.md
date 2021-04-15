@@ -31,7 +31,7 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 
 It is possible to add your own Google Maps API Key to your Thunkable app project.
 
-Simply click on your project name to open the [Project Settings](projects/settings.md) menu, and scroll down to the **Google Map Settings** section. You will see the option to enter a Google Maps API Key for Android and iOS.
+Simply click on your project name to open the [Project Settings](projects/project-settings.md) menu, and scroll down to the **Google Map Settings** section. You will see the option to enter a Google Maps API Key for Android and iOS.
 
 ![](.gitbook/assets/mapapikeys.png)
 

@@ -15,7 +15,7 @@ When you first sign in to Thunkable you will be prompted to create a project. To
 
 ### Other articles in this section
 
-{% page-ref page="settings.md" %}
+{% page-ref page="project-settings.md" %}
 
 {% page-ref page="assets.md" %}
 
@@ -35,17 +35,15 @@ Private projects are just that, private. They can only be seen by their app crea
 
 To make your projects public or private, click the "details" button on a project. You can then click the Public/Private switch to change who can view your project.
 
-![](../.gitbook/assets/public2.gif)
+![](../.gitbook/assets/screen-shot-2021-04-15-at-2.42.01-pm.png)
 
-You can also click on your project name in the upper left hand corner, and click the switch to set your project to public or private. 
+You can also click on the gear icon on the upper left of the screen to access your [Project Settings](project-settings.md), and set your project to private from there.
 
-![](../.gitbook/assets/public1.gif)
+![](../.gitbook/assets/screen-shot-2021-04-15-at-2.43.35-pm.png)
 
 ## Read-Only projects
 
-Private projects become Read-Only projects when a Thunker's PRO membership expires. Read-Only projects remain private and are not included in the Thunkable Gallery.
+Private projects become Read-Only projects when a Thunker's [PRO membership](https://thunkable.com/#/pricing) expires. Read-Only projects remain private and are not included in the Thunkable Gallery.
 
 You can only preview Read-Only. Once a project has been switched to Public, you cannot switch it back to Read-Only.
-
-
 

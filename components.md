@@ -2,7 +2,7 @@
 description: Features and functions for your app
 ---
 
-# 🛠️ Components
+# 🛠️ Components and Features
 
 ## What's a Component?
 
@@ -10,26 +10,26 @@ Apps contain many different features.
 
 On Thunkable, you get to drag & drop which features - which we call components - go into your app. 
 
-Some features you can see. Let's call these features visible components. Examples include buttons, loading icons, and images. 
+UI Components \(User Interface Components\) are components which you can see on the screen. Examples include buttons, loading icons, and images. 
 
-Some features you can't see. Let's call these features invisible components. Examples include sounds, timers, and databases. 
+There are also some App Features you can't see. Examples include sounds, timers, and recording tools. 
 
-* [Visible Components](components.md#visible-components)
-* [Invisible Components](components.md#invisible-or-api-components)
+* [UI Components](components.md#ui-components)
+* [App Features](components.md#app-features)
 
-## Visible Components
+## UI Components
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.49.18-pm.png)
 
-To put it simply, visible components are features that you can see on your app screen - like the ones pictured above.  
+To put it simply,[ UI Components](ui-components.md) are features that you can see on your app screen - like the ones pictured above.  
 
 Visible components can be styled by size, text, space, and location. 
 
 When adding visible components into your app, please note that they can only exist on one screen at a time. For example, if you want to add a button to three different screens, each screen will require its own button.
 
-## Invisible Components
+## App Features
 
-[Invisible components](app-features.md) are features on your app that you can't see. 
+[App Features](app-features.md) are features on your app that you can't see. 
 
 They often relate to your app's functionality, and are quietly running in the background. When you add an invisible component to your app, that component can work on any screen. 
 

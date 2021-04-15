@@ -48,3 +48,11 @@ While the [Data Viewers](data-viewers.md) have their own section in these docs, 
 
 {% page-ref page="data-viewer-grid.md" %}
 
+Once you have designed the UI you want, you can start adding functionality to your app with blocks and app features!
+
+{% page-ref page="blocks.md" %}
+
+{% page-ref page="app-features.md" %}
+
+{% page-ref page="advanced-app-features.md" %}
+

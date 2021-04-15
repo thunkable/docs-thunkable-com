@@ -12,9 +12,9 @@ To learn how to use Thunkable try our in-platform tutorials. Click the Tutorials
 
 ## [Video Tutorials](https://www.youtube.com/watch?v=YrONgW8udmM&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE)
 
-Follow step by step app building instructions in our [YouTube tutorial series](https://www.youtube.com/watch?v=rqpjqHXW-_E&list=PLB89L9PPGIrwpd62eYs6iOsHpjYboyuZE)!
+Follow step by step app building instructions in our [YouTube tutorial series](https://www.youtube.com/watch?v=dQQsvQr-f1U&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q_Np)!
 
-{% embed url="https://www.youtube.com/playlist?list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q\_Np" %}
+{% embed url="https://www.youtube.com/watch?v=dQQsvQr-f1U&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q\_Np" %}
 
 ## [Community Tutorials](https://community.thunkable.com/c/thunkable-cross-tutorials)
 

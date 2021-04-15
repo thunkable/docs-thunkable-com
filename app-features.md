@@ -1,6 +1,6 @@
 # 🌐 App Features
 
-App features are functions that cannot be viewed in your app, but perform important background tasks. This can include calling sensors, starting timers, recording audio/video, and more.
+App features are functions that cannot be viewed in your app, but perform important background tasks. This can include calling sensors, recording audio/video, starting timers and more.
 
 ## Sensors
 
@@ -12,7 +12,7 @@ App features are functions that cannot be viewed in your app, but perform import
 
 {% page-ref page="location-sensor.md" %}
 
-## Recording
+## Audio/Video
 
 {% page-ref page="speech.md" %}
 
@@ -35,4 +35,8 @@ App features are functions that cannot be viewed in your app, but perform import
 ## Timer
 
 {% page-ref page="timer.md" %}
+
+## Advanced App Features
+
+{% page-ref page="advanced-app-features.md" %}
 

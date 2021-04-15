@@ -36,7 +36,7 @@ Click on one of the links below to download the Thunkable mobile app.
 
 If you don't have an iOS or Android device, you can [set up an emulator](../emulators.md) on your computer that will display your apps.
 
-## Step 5. Components
+## Step 5. Components and Features
 
 We have custom components and third-party integrations that you can drop directly into your projects. These components will allow you to build more advanced features.  
 

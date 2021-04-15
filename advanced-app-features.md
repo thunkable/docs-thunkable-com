@@ -8,5 +8,7 @@ These components require a little more set-up than the other [app features](app-
 
 {% page-ref page="assistant.md" %}
 
+{% page-ref page="any-component-blocks.md" %}
+
 
 
