@@ -12,7 +12,7 @@ The Thunkable Gallery is an app building marketplace where users can find, share
 
 When browsing the Gallery, here are three things that you can do with public projects:
 
-1. **View a Project** Click to open any project on the Public Gallery to view an app's design or programming blocks.
+1. **View a Project** Click to open any project on the Public Gallery to view an app's design or programming poop
 
 ![](.gitbook/assets/thunkable-docs-exhibits-43.png)
 
