@@ -2,7 +2,7 @@
 description: Components to interact with
 ---
 
-# 🔘 User Interface \(UI\) Components
+# 🔘 User Interface
 
 The User Interface \(UI\) category is a collection of all the components you need to design the look and feel of your app. 
 

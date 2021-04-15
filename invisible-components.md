@@ -1,6 +1,6 @@
-# 🌐 Invisible Components
+# 🌐 App Features
 
-Invisible components are components that cannot be viewed in your app, but perform important background tasks. This can include sensors, timers, audio/video recording, and more.
+App features are functions that cannot be viewed in your app, but perform important background tasks. This can include calling sensors, starting timers, recording audio/video, and more.
 
 ## Sensors
 
