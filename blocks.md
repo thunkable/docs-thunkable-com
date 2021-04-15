@@ -1,4 +1,4 @@
-# 🤖 Blocks
+# 🤖 Core Blocks
 
 An app is simply a sequence of events.
 

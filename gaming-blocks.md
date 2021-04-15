@@ -2,7 +2,7 @@
 description: Learn how to program the canvas and sprite components.
 ---
 
-# 🤖Gaming Blocks🎮
+# 🤖 Gaming Blocks 🎮
 
 When you add a canvas to your project, you will get 7 additional categories of blocks. Each of these categories will allow you to programatically control what happens with your sprites and sprites types, on the canvas and the stage.
 

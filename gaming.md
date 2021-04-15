@@ -2,7 +2,7 @@
 description: Learn how to build awesome gaming apps on Thunkable.
 ---
 
-# 🎮Gaming
+# 🎮 Gaming
 
 With Thunkable's gaming components, you can build games and touch interface experiences.
 
