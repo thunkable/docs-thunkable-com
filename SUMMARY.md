@@ -11,7 +11,7 @@
   * [Project Assets and Sizes](projects/assets.md)
 * [Public Gallery of Projects](public-gallery.md)
 * [🛠️ Components](components.md)
-* [🔘 User Interface \(UI\) Components](user-interface.md)
+* [🔘 UI Components](user-interface.md)
 * [Button](button.md)
 * [Label](label.md)
 * [Image](image-1.md)
