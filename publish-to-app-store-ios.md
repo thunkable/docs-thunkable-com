@@ -30,6 +30,12 @@ Apple holds a high standard for apps that are approved for distribution in the A
 * [Register an App ID on App Store Connect](publish-to-app-store-ios.md#register-an-app-id-on-app-store-connect)
 * [Create an App Listing on App Store Connect](publish-to-app-store-ios.md#create-an-app-listing-on-app-store-connect)
 
+### Set a Version Number
+
+You will need to set a version number in your project. You can set your version number in the App Settings panel under **iOS &gt; Version Number**. 
+
+If this is your first time sending this app to App Store Connect, you can set the version number to 1. You will need to increment your version number, or increase it by 1, every time you submit a build to App Store Connect.
+
 ### Review your App Permissions
 
 Apple requires that you explain to users why you may need access to sensitive services like a camera, photo library and microphone. You can add these explanations in the App Settings panel under **iOS Permissions**.
