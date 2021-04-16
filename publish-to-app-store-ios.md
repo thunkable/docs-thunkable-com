@@ -24,11 +24,20 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 ## Prepare for Submission
 
+* [Set a Version Number](publish-to-app-store-ios.md#set-a-version-number)
 * [Review Your App Permissions](publish-to-app-store-ios.md#review-your-app-permissions)
 * [Create an Apple Developer Account](publish-to-app-store-ios.md#create-an-apple-developer-account)
 * [Create an App-Specific Password](publish-to-app-store-ios.md#create-an-app-specific-password)
 * [Register an App ID on App Store Connect](publish-to-app-store-ios.md#register-an-app-id-on-app-store-connect)
 * [Create an App Listing on App Store Connect](publish-to-app-store-ios.md#create-an-app-listing-on-app-store-connect)
+
+### Set a Version Number
+
+You will need to set a version number in your project. You can set your version number in the [Project Settings panel](projects/project-settings.md) under **iOS &gt; Version Number**. 
+
+![](.gitbook/assets/screen-shot-2021-04-16-at-8.19.42-am.png)
+
+If this is your first time sending this app to App Store Connect, you can set the version number to 1. You will need to increment your version number, or increase it by 1, every time you submit a build to App Store Connect.
 
 ### Review your App Permissions
 

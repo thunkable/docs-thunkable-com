@@ -99,3 +99,19 @@ This block will upload an image to Cloudinary and return a URL of the newly uplo
 | URL | text | returns a URL for the uploaded image |
 | error | text | if there was an error, returns the error |
 
+### Connecting Your Cloudinary DB to Your Thunkable project
+
+No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
+
+#### Create a [free Cloudinary](https://cloudinary.com/) account
+
+![](.gitbook/assets/image%20%28191%29.png)
+
+#### Connect your Cloudinary cloud to Thunkable
+
+To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret.` You can add these details to your app in the [Project Settings panel](projects/project-settings.md#api-keys).
+
+![](.gitbook/assets/image%20%28192%29.png)
+
+![](.gitbook/assets/screen-shot-2021-04-16-at-3.24.13-pm.png)
+
