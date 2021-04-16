@@ -24,6 +24,7 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 ## Prepare for Submission
 
+* [Set a Version Number](publish-to-app-store-ios.md#set-a-version-number)
 * [Review Your App Permissions](publish-to-app-store-ios.md#review-your-app-permissions)
 * [Create an Apple Developer Account](publish-to-app-store-ios.md#create-an-apple-developer-account)
 * [Create an App-Specific Password](publish-to-app-store-ios.md#create-an-app-specific-password)
