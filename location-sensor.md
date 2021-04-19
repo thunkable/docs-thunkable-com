@@ -30,11 +30,5 @@ The Location Sensor returns a user's current location in `latitude` and `longitu
 
 ![](.gitbook/assets/loc_maxage%20%281%29.png)
 
-### 
-
-
-
-### Timeout
-
 
 

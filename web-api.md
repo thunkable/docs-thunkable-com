@@ -4,21 +4,9 @@ Great data is an essential part of many apps built today and the Web API compone
 
 To see what public APIs are available, we recommend [this list from Todd Motto](https://github.com/toddmotto/public-apis)
 
-## Adding a Web API to your app
-
-To add a Web API component to your app:
-
-* Go to your Blocks tab
-* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
-* Click the ⊕ icon next to the `Web APIs` drawer
-
-![](.gitbook/assets/advanced-components%20%281%29.png)
-
-You will see a dialog with options to enter certain properties for your Web API component. Click Submit to create the Web API component, or Delete to dismiss the dialog without creating the component.
-
-![](.gitbook/assets/web-api-contents.png)
-
 For most public APIs, you'll likely have to first create an account to get your own unique API key. This is usually to prevent individuals from making too many requests or to charge developers when they exceed certain free limits.
+
+## Properties
 
 Once you have the API key, you'll need to enter the unique URL into the property field of the Web API component
 
@@ -29,14 +17,6 @@ Once you have the API key, you'll need to enter the unique URL into the property
 | Body | Body of your API call | Optional |
 | Headers | Specifies some meta-data, eg: usernames and passwords | Optional |
 
-### Change properties of your Web API
-
-Once you have added at least one Web API component to your app, you will be able to view all of your Web API components under the `Web APIs` drawer in the Advanced section of the Blocks tab. 
-
-To edit the properties of a Web API component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click Delete to delete the component.
-
-![](.gitbook/assets/web-apis-blicks.png)
-
 ## Setting Query Parameters and Headers
 
 Query parameters and headers can be set in the designer or in the blocks editor. In the example below you can add any property:value pair you want. You can add as many params to your app as you need, but each parameter has to be added one at a time. 
@@ -45,15 +25,13 @@ Query parameters and headers can be set in the designer or in the blocks editor.
 
 In the blocks editor, it is possible to use the `create object` block to add multiple property:value pairs simultaneously. 
 
-![](.gitbook/assets/wvd3.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-10.47.24-am.png)
 
-In addition to creating your own objects, it is also possible to use JSON to specify the property:value pairs for your query parameters or headers. 
-
-![](.gitbook/assets/wvd4.png)
+You can learn more about creating objects in the [Objects](objects.md) blocks.
 
 ## Get and Format \(parse\) Data
 
-![This block retrieves and formats data from the Open Weather Map API](.gitbook/assets/screen-shot-2018-08-01-at-2.12.03-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.01.33-am.png)
 
 To retrieve data from an API, you simply need to use the `Get` block.
 
