@@ -4,50 +4,56 @@ description: The sound component plays a designated sound.
 
 # Sound
 
-## Play
+## Set Source
 
-Play a selected sound. This can be an audio file that has been uploaded to your project, or a URL that streams audio.
+There are a few ways you can set a sound source in your app:
 
-![](.gitbook/assets/image%20%28133%29.png)
+1. **Upload a sound to your app.** Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
+2. **Provide a link to the sound.** The link has to end in `.mp3`, `.wav`, etc
 
-## Pause
+## Volume
 
-Pause a selected audio file that is currently playing.
+You can set a volume for the Sound component between 0 and 100.
 
-![](.gitbook/assets/image%20%28162%29.png)
+## Blocks
 
-## Resume
+### Events
 
-Resume a selected audio file that has been previously paused.
+#### On Source Loaded
 
-![](.gitbook/assets/image%20%28169%29.png)
+This block will be triggered when the source of a Sound component is loaded. It is recommended to use this block if changing a Sound component's source during app runtime.
 
-## Stop
+![](.gitbook/assets/sourceloaded.png)
 
-Stop a selected audio file that is currently playing. A sound that has been 'stopped' cannot be resumed using the [resume](sound.md#resume) block.
+#### On Error
 
-![](.gitbook/assets/image%20%28143%29.png)
+This block will be triggered if there is an error with the Sound component.
 
-## Is Sound Paused?
+![](.gitbook/assets/error.png)
 
-![](.gitbook/assets/image%20%28140%29.png)
+### Functions
 
-Returns **true** if named sound file has been partially played, then paused.   
-Returns **false** otherwise.
+Play, Pause, Resume or Stop a sound.
 
-## Sound File from Recording
+![](.gitbook/assets/functions.png)
 
-Records for the specified amount of seconds, then returns the recorded audio.
+A sound can only be resumed if it has been paused.
 
-![](.gitbook/assets/image%20%28175%29.png)
+### Set/Get Source
 
-## Untimed Recording
+Set the Sound's source using the drop-down menu or by using a [Text](text.md) block to specify a filename or URL.
 
-The **start recording** block begins a recording.
+Get the name of the Sound source.
 
-![](.gitbook/assets/image%20%28174%29.png)
+![](.gitbook/assets/source.png)
 
-The **sound file from stopped recording** block will stop the recording initiated by the **start recording** block, and return the recorded sound file.
+### Set/Get Volume
 
-![](.gitbook/assets/image%20%28142%29.png)
+Set Sound volume to value between 0 and 100.
+
+Get Sound volume.
+
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.08.59-am.png)
+
+
 

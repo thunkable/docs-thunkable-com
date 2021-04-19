@@ -1,36 +1,40 @@
 ---
-description: The text to speech simply takes in text and reads it out loud.
+description: Read some text aloud in your app.
 ---
 
 # Text to Speech
 
-## Video Tutorial
+## Properties
 
-{% embed url="https://youtu.be/\_n1NMgVU-y8" %}
+`Default Language`: Set component to recognize text and speak in this language. Can be changed in blocks.
 
+## Blocks
 
+### Functions
 
-## Overview
+#### Speak
 
-* [Select spoken language](text-to-speech.md#select-spoken-language)
-* [Speak](text-to-speech.md#speak)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.18.33-am.png)
 
-## Select Spoken Language
+Read text aloud in the specified language
 
-To set up the Text to Speech component, simply select the spoken language that will correspond with the text provided. There are currently over 85 languages you can choose from
+#### Stop
 
-| Property | Description |
-| :--- | :--- |
-| Language | The name of the language to speak aloud; currently available in over 85 languages |
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.19.06-am.png)
 
-## Speak
+Stop Speaking. Can be used with a [Button](button.md) to create a stop button.
 
-The blocks below speak aloud the text`Hello world`
+### Properties
 
-![](.gitbook/assets/text-to-speech-fig-1.png)
+#### Set Default Language
 
-| Event | Description |
-| :--- | :--- |
-| Speak \(`text`\) | Speaks a given `text` |
-| Stop | Stops speaking a given text |
+Set default language to item from drop-down menu. Can also use [Text](text.md) block or [variable](variables.md) to set language.
+
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.20.03-am.png)
+
+#### Get Default Language
+
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.21.01-am.png)
+
+Returns current language of Text to Speech component.
 
