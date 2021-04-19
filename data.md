@@ -4,7 +4,7 @@ description: >-
   several options for collecting, storing and, retrieving data in your app
 ---
 
-# 🗄️ Data Storage
+# 🗄️ Data
 
 ## Local Storage
 
