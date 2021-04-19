@@ -72,7 +72,7 @@ On iOS, the Alert can show more than 3 Buttons.
 On Android, the Alert can show up to 3 buttons. If more than 3 buttons are specified, the first 3 will be shown.   
 
 
-![Example of defining Button List with blocks ](.gitbook/assets/buttonlistblocks.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-10.23.10-am.png)
 
 ![A three button alert displayed on Android and iOS devices](.gitbook/assets/thunkable-docs-exhibits-16.png)
 
