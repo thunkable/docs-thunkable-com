@@ -46,7 +46,7 @@ Click on the Sign In drawer of blocks to access the Sign In blocks.
 
 The first step for users is to Sign Up with their email address and a password. They will be sent an email to verify the address that they provided. 
 
-![](.gitbook/assets/sign-in-blocks-signup.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.53.48-am.png)
 
 | Event | Description |
 | :--- | :--- |
@@ -54,33 +54,35 @@ The first step for users is to Sign Up with their email address and a password. 
 
 Here is an example of using this block:
 
-![](.gitbook/assets/sign-in-sign-up-example.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.55.16-am.png)
 
 ## Sign in
 
 This block will sign a user in and return their user ID.
 
-![](.gitbook/assets/sign-in-blocks-sign-in.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.57.04-am.png)
 
-You can use these blocks below to sign a user in:
-
-![](.gitbook/assets/sign-in-example.png)
+| Name | Data Type | Data |
+| :--- | :--- | :--- |
+| error | Text | If error, returns error; else, returns `null` |
+| userId | Text | Returns unique ID for each account |
+| isEmailVerified | True/False | If email has been verified, returns `true`; else, returns `false` |
 
 When the user's email and password have been stored locally, the following blocks can be used to sign the user in with these details automatically.
 
-![](.gitbook/assets/automatic-sign-in.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-12.01.03-pm.png)
 
 ## Sign Out
 
 Signs the user out.
 
-![](.gitbook/assets/sign-in-blocks-sign-out.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-12.01.33-pm.png)
 
 ## Reset Password
 
 Send an email to the specified email address to reset their password
 
-![](.gitbook/assets/sign-in-blocks-reset-password.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-12.02.37-pm.png)
 
 ## Manage User Access
 

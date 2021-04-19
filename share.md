@@ -1,14 +1,12 @@
 # Share
 
-You can use the Share blocks to share media and messages with people using external apps.
-
-![](.gitbook/assets/share-blocks.png)
-
 ## Call Phone Number
 
 Opens your phone app with the given number ready to call. This block will not place a phone call without the app user's knowledge.
 
-![](.gitbook/assets/image%20%28126%29.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.48.52-am.png)
+
+
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits.png)
 
@@ -16,7 +14,7 @@ Opens your phone app with the given number ready to call. This block will not pl
 
 Opens your default text messaging app with the given text ready to be sent to the given number. This block will not send a text message without the app user's knowledge.
 
-![](.gitbook/assets/image%20%28150%29.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.47.16-am.png)
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits-90.png)
 
@@ -24,13 +22,13 @@ Opens your default text messaging app with the given text ready to be sent to th
 
 Opens your default email app with an email with the given subject and body ready to be sent to the given email address. This block will not send an email without the app user's knowledge.
 
-![](.gitbook/assets/image%20%28149%29.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.48.25-am.png)
 
 ![The screenshots above are from a Pixel 3 and an iPhone 7](.gitbook/assets/thunkable-docs-exhibits-91.png)
 
 You can send an email to multiple recipients by separating the different email addresses with a comma in the 'send email to' section of the block.
 
-![](.gitbook/assets/screen-shot-2021-03-04-at-1.33.00-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.50.42-am.png)
 
 {% hint style="info" %}
 You can use HTML formatting to customize the emails you send with the Share component \(iOS only\)
@@ -44,11 +42,11 @@ You can use HTML formatting to customize the emails you send with the Share comp
 
 Opens a menu of apps that the app user can choose from to share the given message.
 
-![](.gitbook/assets/image%20%28152%29.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.51.11-am.png)
 
 ### Share an Image
 
 Opens a menu of apps that the user can choose from to share the given image.
 
-![](.gitbook/assets/image%20%28128%29.png)
+![](.gitbook/assets/screen-shot-2021-04-19-at-11.51.45-am.png)
 

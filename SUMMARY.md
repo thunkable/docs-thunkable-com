@@ -73,7 +73,6 @@
 * [Translator](translator.md)
 * [Assistant by Dialogflow](assistant.md)
 * [Audio Recorder](audio-recorder.md)
-* [Speech](speech.md)
 * [🤝 Social](social.md)
 * [Share](share.md)
 * [Email Sign In by Firebase](sign-in-1.md)
