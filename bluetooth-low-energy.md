@@ -99,6 +99,8 @@ Should you need to send data to a BLE device then you can use the `Transmit` fun
 
 You need to be connected to another Bluetooth device in order to use this block.
 
+You can transmit a **String** or a **Byte Array**.
+
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.04.31-am.png)
 
 | Parameter | Type | Description |
