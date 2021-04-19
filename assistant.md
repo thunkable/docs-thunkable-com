@@ -22,28 +22,6 @@ An agent is the voice-enabled chatbot that is programmed to listen and respond t
 
 ![You&apos;ll have the option of selecting a default listening language](.gitbook/assets/screen-shot-2019-10-02-at-4.23.32-pm.png)
 
-### Add an Assistant component to Thunkable
-
-To add an Assistant component to your app:
-
-* Go to your Blocks tab
-* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
-* Click the ⊕ icon next to the `Assistants` drawer
-
-![](.gitbook/assets/advanced-components%20%281%29.png)
-
-You will see a dialog with options to enter certain properties for your Assistant component. Click Submit to create the Assistant component, or Delete to dismiss the dialog without creating the component.
-
-![](.gitbook/assets/add-assistant.png)
-
-#### Editing your Assistant Component's properties
-
-Once you have added at least one Assistant component to your app, you will be able to view all of your Assistant components under the `Assistants` drawer in the Advanced section of the Blocks tab. 
-
-To edit the properties of an Assistant component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click Delete to delete the component.
-
-![](.gitbook/assets/assistant-blocks.png)
-
 ### Connect Your Dialogflow Agent with Thunkable
 
 There are 3 fields you'll need to fill out on the Thunkable properties panel to connect it to Dialogflow: `Client Email`, `Private Key` and `Project Id`. 

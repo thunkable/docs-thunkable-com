@@ -45,7 +45,7 @@ Set the Sound's source using the drop-down menu or by using a [Text](text.md) bl
 
 Get the name of the Sound source.
 
-![](.gitbook/assets/source.png)
+![](.gitbook/assets/source%20%281%29.png)
 
 ### Set/Get Volume
 
