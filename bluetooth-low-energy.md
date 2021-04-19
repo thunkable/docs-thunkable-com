@@ -9,31 +9,9 @@ BLE functionality can't be tested with the [Thunkable Live](https://docs.thunkab
 To test the BLE functionality in your app on iOS, please [download](https://docs.thunkable.com/download#download-and-install-ios-app) your app.
 {% endhint %}
 
-## Add a Bluetooth component to Thunkable
-
-To add a Bluetooth component to your app:
-
-* Go to your Blocks tab
-* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
-* Click the ⊕ icon next to the `Bluetooth` drawer
-
-![](.gitbook/assets/advanced-components%20%281%29.png)
-
-You will see a dialog to create your Bluetooth component. Click Submit to create the component, or Delete to dismiss the dialog without creating the component.
-
-![](.gitbook/assets/add-ble.png)
-
-### Deleting your Bluetooth Component
-
-Once you have added at least one Bluetooth component to your app, you will be able to view all of your Bluetooth components under the `Bluetooth` drawer in the Advanced section of the Blocks tab. 
-
-![](.gitbook/assets/bluetooth-blicks.png)
-
-To delete a Bluetooth component, click on the ⚙ icon next to the component's name to bring up the properties dialog and click Delete.
-
 ## Functions
 
-Version 1 of the BLE component in Thunkable ✕ contains 5 functions, each of which are documented in greater detail below.
+The BLE component in Thunkable ✕ contains 5 functions, each of which are documented in greater detail below.
 
 * [Scan](bluetooth-low-energy.md#scan)
 * [Connect to Device Id](bluetooth-low-energy.md#connect-to-device-id)
@@ -83,6 +61,8 @@ If you have a BLE device that is capable of sending data to another device then 
 
 You need to be connected to another Bluetooth device in order to use this block.
 
+You can receive a **String** or a **Byte Array**.
+
 ![](.gitbook/assets/bluetooth_receive.png)
 
 | Parameter | Type | Description |
@@ -96,6 +76,9 @@ You need to be connected to another Bluetooth device in order to use this block.
 Should you need to send data to a BLE device then you can use the `Transmit` function to send that information. 
 
 You need to be connected to another Bluetooth device in order to use this block.
+
+You can transmit a **String** or a **Byte Array**.  
+
 
 ![](.gitbook/assets/bluetooth_transmit.png)
 

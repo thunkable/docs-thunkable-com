@@ -1,33 +1,14 @@
 # Timer
 
-## Adding Timers to your app
+## Settings
 
-### Create a Timer
-
-You can add a Timer to your app from the Blocks tab of your Thunkable project.  
-Find the **Timers** drawer of blocks and click on the ⊕ icon to add a Timer to your app.
-
-![](.gitbook/assets/timers.png)
-
-### Settings
-
-You will see a settings panel that allows you to set:
+You can set:
 
 * The **Name** of the Timer
 * The **Interval** of the Timer, in seconds or milliseconds
 * Whether or not the Timer should **Count Up**
 * Whether the Timer should **Loop**, ie. if the Timer should reset itself once it fires
 * Whether the Timer is **Enabled** \(this can be changed with blocks\)
-
-You can also **Delete** the Timer.
-
-![](.gitbook/assets/timerdialouge.png)
-
-### Edit a Timer
-
-You will see the Timers you have added to your app underneath the Timers section of your blocks.
-
-![](.gitbook/assets/timers-menu.png)
 
 ## Blocks
 

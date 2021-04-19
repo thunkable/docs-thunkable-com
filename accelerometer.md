@@ -32,7 +32,7 @@ When the accelerometer sensor detects a change in the force acting on the phone 
 | `zAcceleration` | Number | Change in speed of the phone, along the z axis, in $$m/s^2 $$  |
 | `error` | String | Error message from sensor |
 
-### Values
+### Functions
 
 #### Get Acceleration on X, Y, Z axes
 
