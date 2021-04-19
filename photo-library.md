@@ -1,20 +1,22 @@
 ---
-description: >-
-  You can go into your phone's default photo library and pick images from it to
-  display in your app.
+description: Allows the user to select a photo to upload from their device to the app
 ---
 
 # Photo Library
 
-* [Select Photo](photo-library.md#select-photo)
+## Blocks
 
-![](.gitbook/assets/photo-library-fig-1.png)
+### Select Photo
 
-## Select Photo
+![](.gitbook/assets/screen-shot-2021-04-19-at-10.28.09-am.png)
 
-![The blocks above say that when Button1 is clicked, open the photo library and select a picture from it.](.gitbook/assets/photo-library-fig-2.png)
+Opens the photo library and allows the user to select and upload a photo.
 
-* **Select Photo:** Opens the camera and saves the `Photo` after the user takes a picture.
-  *  `DidUserCancel` is either 'true' or 'false' depending on whether or not the user cancelled selecting a photo.
-  *  `Error` is the error message if there was an error in selecting the photo
+#### Outputs
+
+| Name | Data Type | Data |
+| :--- | :--- | :--- |
+| Photo | Image | Image the user selected |
+| DidUserCancel | True/False | If user cancelled action, returns `true`; else returns `false` |
+| Error | Text | If error, returns error; else returns `null` |
 
