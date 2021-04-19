@@ -33,6 +33,18 @@ If the object does not have a property with this name, it will return `undefined
 
 ![](.gitbook/assets/getprop.png)
 
+#### Nested values and values from Arrays <a id="nested-values-and-values-from-arrays"></a>
+
+The Get Values Of block can be used to get nested values, ie. properties of properties of an object. If you are trying to get nested property **b** of property **a** of an object, you can simply get property **a.b** of an object, instead of using multiple **get property of** blocks.
+
+You can also get a value from an Array \(or list\) of values. If an object property **b** is a 3-items list, and you want to get the second item of that list, you can get property **b\[2\]** of that object. The first item of the list is at index 1.
+
+The blocks below demonstrate each of these methods, as well as a block that combines these methods by getting a value from an array that is a nested property of an object. The blocks are presented with the objects written in JSON format as well as created with Objects blocks, but both sets of blocks are doing exactly the same thing. In these blocks, `Get nested property` will return 5, `Get value from array` will return 6, and `Get value from nested array` will return 7.
+
+![](https://gblobscdn.gitbook.com/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MYE6vcGJ4__tLyTG3Nw%2F-MYE9upn-mxjQ-2Bl3-H%2FScreen%20Shot%202021-04-14%20at%207.56.44%20AM.png?alt=media&token=7a33b67c-34aa-4867-8afb-c8aa8b4f3012)
+
+![](.gitbook/assets/image%20%28195%29.png)
+
 ### Get Properties of an Object
 
 You can use the `get Object properties of` block to return the names of the properties of an object.
