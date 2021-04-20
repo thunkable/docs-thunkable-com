@@ -25,13 +25,9 @@ To add components to a Group, simply drag and drop the components inside the Gro
 
 You will see the components you added to the Group are now nestled inside the Group in the component tree.
 
-![](https://im6.ezgif.com/tmp/ezgif-6-a8ff23b9628d.gif)
-
 ## Moving Groups in Your Project
 
 Once you have added components to a Group, you can move them around as a group. This will make it easier to create complex layouts made of multiple components that you can still move around in your app as a single unit.
 
 
-
-![](https://im6.ezgif.com/tmp/ezgif-6-46cf063d6747.gif)
 

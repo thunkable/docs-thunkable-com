@@ -6,10 +6,6 @@ description: >-
 
 # Web Viewer
 
-## Video Tutorial
-
-{% embed url="https://youtu.be/MDMM0cHvpUA" %}
-
 ## Web Viewer Overview
 
 {% hint style="info" %}
@@ -85,7 +81,9 @@ To set whether or not the Web Viewer requests the user's location, go to the Des
 
 Scroll down until you see a switch labeled **Geolocation Enabled**. Use this switch to toggle whether your Web Viewer requests the user's location.
 
-## Post Message/Receive Message
+## Blocks
+
+### Post Message/Receive Message
 
 If you own the website being displayed in your Web Viewer, you can send and receive messages between your website and the Web Viewer using Javascript.
 
@@ -95,51 +93,51 @@ If you own the website being displayed in your Web Viewer, you can send and rece
 
 You can see examples of sending/receiving messages and get further setup instructions [here](https://github.com/thunkable/webviewer-extension/).
 
-### See Also
+#### See Also
 
 You may also find the [Web API](web-api.md) component useful for sending/receiving information between your app and a website.
 
-## Events
+### Events
 
-### Receives Message
+#### Receives Message
 
 ![](.gitbook/assets/receives_message.png)
 
-## Functions
+### Functions
 
-### Back 
+#### Back 
 
 ![](.gitbook/assets/back.png)
 
 Go back to the previous page visited.
 
-### Forward 
+#### Forward 
 
 ![](.gitbook/assets/fwd.png)
 
 Move forward to the next page in your browser history.
 
-### Post Message 
+#### Post Message 
 
 ![](.gitbook/assets/post.png)
 
 Post a message.
 
-### Reload 
+#### Reload 
 
 ![](.gitbook/assets/reload.png)
 
 Reload the web viewer.
 
-### Value from Post
+#### Value from Post
 
 ![](.gitbook/assets/value_from_post.png)
 
 Returns any message that was received after calling the Post Message function.
 
-## Properties
+### Properties
 
-### Height 
+#### Height 
 
 ![](.gitbook/assets/height%20%284%29.png)
 
@@ -154,7 +152,7 @@ The `Computed Height`block returns the on-screen dimensions of the web viewer, a
 
 ### 
 
-### Width 
+#### Width 
 
 ![](.gitbook/assets/width%20%285%29.png)
 
@@ -169,7 +167,7 @@ The `Computed Width`block returns the on-screen dimensions of the web viewer, af
 
 
 
-### Visible
+#### Visible
 
 ###  
 
@@ -182,7 +180,7 @@ The set and get visible blocks are used to show or hide the entire button compon
 * True
 * False
 
-### URL
+#### URL
 
 ![](.gitbook/assets/url.png)
 
