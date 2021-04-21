@@ -85,28 +85,16 @@ Interstitial ads are recommended after a user has completed a task in your app. 
 
 To show an interstitial app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app.
 
-### Adding an Interstitial ad to your app
+### Properties
 
-To add an Interstitial ad to your app:
-
-1. Go to your Blocks tab 
-2. Click on the icon next to the Ads drawer of blocks
-3. Select **AdMob Interstitial**
-
-![](.gitbook/assets/add-ad.png)
-
-![](.gitbook/assets/ads-dialog.png)
-
-You will see a dialog where you can set:
+You can set the following as properties of your Interstitial ad:
 
 * The **Name** of the AdMob component
 * The **Ad Unit ID \(Android\)**
 * The **Ad Unit ID \(iOS\)**
 * Whether **Test Mode** is enabled for this ad component
 
-![](.gitbook/assets/admob-inter-dialog.png)
-
-### Interstitial Ad Blocks
+### Blocks
 
 #### Events
 
@@ -140,28 +128,16 @@ Rewarded video ads are recommended after a user has completed a heavy task in yo
 
 To show a rewarded video app, you need to first add the component and then add the `Show Ad` block after the appropriate event in your app. You'll then want to add a `Reward User` event to reward your user in the app. 
 
-### Adding a Rewarded Video ad to your app
+### Properties
 
-To add an Rewarded Video ad to your app:
-
-1. Go to your Blocks tab 
-2. Click on the icon next to the Ads drawer of blocks
-3. Select **AdMob Rewarded Video**
-
-![](.gitbook/assets/add-ad.png)
-
-![](.gitbook/assets/ads-dialog.png)
-
-You will see a dialog where you can set:
+You can set the following as properties of your Rewarded Video ad:
 
 * The **Name** of the AdMob component
 * The **Ad Unit ID \(Android\)**
 * The **Ad Unit ID \(iOS\)**
 * Whether **Test Mode** is enabled for this ad component
 
-![](.gitbook/assets/videoadsettings.png)
-
-### Rewarded Video Ad Blocks
+### Blocks
 
 #### Events
 
