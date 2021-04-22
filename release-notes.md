@@ -6,7 +6,7 @@ Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](htt
 
 Platform Updates
 
-* Fix issue where [downloaded](download.md#download-ios-app) iOS apps showed blank space at top and bottom of screen
+* Fix issue where [downloaded](download.md#download-ios-app) iOS apps showed blank space at top and bottom of screen \([further information here](https://community.thunkable.com/t/status-bar-color-blending-issue/426070/118?u=jane)\)
 * Let App Name of web apps set page title instead of project name
 
 ## April 20, 2021
