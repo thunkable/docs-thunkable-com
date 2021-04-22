@@ -2,22 +2,40 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
-## April 13, 2021
+## April 22, 2021
+
+Platform Updates
+
+* Fix issue where [downloaded](download.md#download-ios-app) iOS apps showed blank space at top and bottom of screen
+* Let App Name of web apps set page title instead of project name
+
+## April 20, 2021
 
 Platform Updates
 
 * Add AdMob IDFA to iOS build server
+* New phone frame border
 * Speed up dragging in large projects
-* Prevent error when no data is found in Airtable base
-* Allow HTTP traffic on Android
 * Snap to Place: Improvements behavior on Android where if the device language is a language that is written right-to-left, the position of the components on the app screen are inverted
-* Drag and Drop: Adjust spacing between screens
-* Drag and Drop: improve performance of hidden components on Android
+* Drag and Drop: Adjustments to spacing between Screens in the Design tab
 * Drag and Drop: Reset screen position when switching from preview to editing
 
 Component Updates
 
 * Update style of [Alert](alert.md) component
+
+New Components
+
+## April 13, 2021
+
+Platform Updates
+
+* Prevent error when no data is found in Airtable base
+* Allow HTTP traffic on Android
+* Drag and Drop: improve performance of hidden components on Android
+
+Component Updates
+
 * Allow Objects [Get Property Of](objects.md#get-properties-of-an-object) blocks to handle [nested properties and arrays](objects.md#nested-values-and-values-from-arrays)
 * [Airtable](spreadsheet.md) component and [Data Sources](data-viewer-list.md#airtable): Allow rows to be created/updated with non-text values
 * Add Text Items Color, Text Items Background Color, and Font Size properties to the [List Viewer](list-viewer.md)
