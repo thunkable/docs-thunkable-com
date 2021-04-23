@@ -39,3 +39,9 @@ You have many options for styling your Drawer Navigator, such as changing the ba
   * **Inactive Tint Color:** Text color for unselected drawers. 
   * **Inactive Background Color:** Background color for unselected drawer. 
 
+## Screen-Specific Drawer Navigator Properties
+
+When you add a Screen to your Drawer Navigator, you will a new section called **Drawer Navigation Options** in your Screen's Properties panel with the following properties:
+
+**Drawer Label:** Set the Label of this Screen's drawer in the Drawer Navigator
+

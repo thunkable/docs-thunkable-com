@@ -69,3 +69,14 @@ When designing a tab, you can use words or images to guide users to different sc
 **showIcon:** Show tab Icons in Navigator  
 **showLabel:** Show tab Labels in Navigator
 
+## Screen-Specific Tab Navigator Properties
+
+There are some Tab Navigator properties that are specific to each Screen in your Navigator, such as Tab Label and Tab Icon.
+
+When you add a Screen to your Tab Navigator, you will a new section called **Tab Navigation Options** in your Screen's Properties panel with the following properties:
+
+**Tab Bar Label:** Set the Label of this Screen's tab in the Tab Navigator  
+**Active Tab Icon:** Set the Icon of this Screen's tab in the Tab Navigator for when the Screen is active  
+**Inactive Tab Icon:** Set the Icon of this Screen's tab in the Tab Navigator for when the Screen is inactive  
+**Tab Bar Visible:** Set whether the Tab Navigator is visible when this Screen is open
+
