@@ -100,7 +100,7 @@ This block will upload an image to Cloudinary and return a URL of the newly uplo
 | error | text | if there was an error, returns the error |
 
 {% hint style="warning" %}
-If you do not connect your own Cloudinary DB to your Thunkable project and use Thunkable's default Cloudinary DB, your media may be deleted after 90 days. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
+If you use Thunkable's default Cloudinary DB, your media may get deleted. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
 {% endhint %}
 
 ### Connecting Your Cloudinary DB to Your Thunkable project
