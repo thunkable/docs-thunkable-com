@@ -2,6 +2,12 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## April 23, 2021
+
+Component Updates
+
+* Drag and Drop: Added Screen-specific properties to [Top Tab Navigator](https://docs.thunkable.com/v/drag-and-drop/top-tab-navigator#screen-specific-tab-navigator-properties), [Bottom Tab Navigator](https://docs.thunkable.com/v/drag-and-drop/bottom-tab-navigator#screen-specific-tab-navigator-properties), and [Drawer Navigator](https://docs.thunkable.com/v/drag-and-drop/drawer-navigator#screen-specific-drawer-navigator-properties)
+
 ## April 22, 2021
 
 Platform Updates
