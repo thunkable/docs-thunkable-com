@@ -99,6 +99,10 @@ This block will upload an image to Cloudinary and return a URL of the newly uplo
 | URL | text | returns a URL for the uploaded image |
 | error | text | if there was an error, returns the error |
 
+{% hint style="warning" %}
+If you do not connect your own Cloudinary DB to your Thunkable project and use Thunkable's default Cloudinary DB, your media may be deleted after 90 days. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
+{% endhint %}
+
 ### Connecting Your Cloudinary DB to Your Thunkable project
 
 No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
