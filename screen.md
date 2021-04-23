@@ -19,7 +19,9 @@ Select **Create New Screen.**
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-5.11.05-pm.png)
 
-### Add a Background Color or Picture
+## Screen Properties
+
+#### Background Color/Background Picture
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-8.03.54-am.png)
 
@@ -43,41 +45,25 @@ This determines how to resize the image when the frame doesn't match the raw ima
 
 * Center: Positions the image in the middle of the frame
 
-### Enable Scrolling
+### Scrollable
 
 | Property | Description |
 | :--- | :--- |
 | Scrollable | Default \(`false`\). Indicates whether the screen is scrollable. For scrollable to work, the components in your screen must have heights either set in `absolute` pixels or set to `fit contents` |
 
-### Set Orientation
+### Orientation
 
 | Property | Description |
 | :--- | :--- |
 | Screen Orientation | Default \(`all`\). You can fix the screen orientation to `portrait` and `landscape` |
 
-## Status Bar
+## Status Bar Properties
 
-### Hide \(or show\) Status Bar
-
-| Property | Description |
-| :--- | :--- |
-| Show StatusBar | Default \(`true`\). If set to `false`, hides the top status bar |
-
-### Status Bar Theme
+### Status Bar Style
 
 | Property | Description |
 | :--- | :--- |
 | StatusBar Style | Choose between `default` , `light-content` or `dark-content` to set the theme or style of the status bar |
-
-### Status Bar Opacity
-
-{% hint style="warning" %}
-Please Note: The `Translucent StatusBar` property will only work on Android devices at this time.
-{% endhint %}
-
-| Property | Description |
-| :--- | :--- |
-| Translucent StatusBar  | Default \(`false`\). Set to `true` to make the Status Bar translucent.  Android-only. |
 
 ### Status Bar Color
 
@@ -88,6 +74,22 @@ Please Note: The `StatusBar Color`property will only work on Android devices at 
 | Property | Description |
 | :--- | :--- |
 | StatusBar Color | Default \(`0,0,0,0.53`\). Select any color using the color picker, RGBA or HEX value. Android-only. |
+
+### Show Status Bar
+
+| Property | Description |
+| :--- | :--- |
+| Show StatusBar | Default \(`true`\). If set to `false`, hides the top status bar |
+
+### Translucent Status Bar 
+
+{% hint style="warning" %}
+Please Note: The `Translucent StatusBar` property will only work on Android devices at this time.
+{% endhint %}
+
+| Property | Description |
+| :--- | :--- |
+| Translucent StatusBar  | Default \(`false`\). Set to `true` to make the Status Bar translucent.  Android-only. |
 
 ## Screen Blocks 
 
