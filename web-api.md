@@ -53,7 +53,7 @@ In addition to creating your own objects, it is also possible to use JSON to spe
 
 ## Get and Format \(parse\) Data
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.01.33-am.png)
+![](.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
 
 To retrieve data from an API, you simply need to use the `Get` block.
 
