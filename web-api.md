@@ -31,7 +31,7 @@ You can learn more about creating objects in the [Objects](objects.md) blocks.
 
 ## Get and Format \(parse\) Data
 
-![](.gitbook/assets/screen-shot-2021-04-26-at-12.39.17-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
 
 To retrieve data from an API, you simply need to use the `Get` block.
 
