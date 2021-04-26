@@ -4,6 +4,10 @@ description: The platform where anyone can build their own mobile apps.
 
 # 👋 Welcome to Thunkable
 
+{% hint style="info" %}
+Looking for docs for the Drag and Drop UI?[ Click here!](https://docs.thunkable.com/v/drag-and-drop/)
+{% endhint %}
+
 Welcome to Thunkable! We're excited to help you begin your app building journey.
 
 On Thunkable, anyone can easily design beautiful apps, program powerful functionality with drag & drop blocks, and upload apps to the [Google Play Store](publish-to-play-store-android.md) and [Apple's App Store](publish-to-app-store-ios.md).
