@@ -4,7 +4,7 @@
 
 You can manage much of your screen navigation through our [Top Tab](top-tab-navigator.md), [Bottom Tab](bottom-tab-navigator.md), [Drawer](drawer-navigator.md) and [Stack](stack-navigator.md) navigator components but for simple screen navigation, you can use the very popular block below
 
-![](.gitbook/assets/blocks-control-fig-8.png)
+![](.gitbook/assets/screen-shot-2021-04-26-at-8.04.10-am.png)
 
 ## If `this`, do `that`
 
