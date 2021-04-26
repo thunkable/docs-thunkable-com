@@ -31,7 +31,7 @@ You can learn more about creating objects in the [Objects](objects.md) blocks.
 
 ## Get and Format \(parse\) Data
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.01.33-am.png)
+![](.gitbook/assets/screen-shot-2021-04-26-at-12.39.17-pm.png)
 
 To retrieve data from an API, you simply need to use the `Get` block.
 
@@ -39,9 +39,11 @@ To retrieve data from an API, you simply need to use the `Get` block.
 | :--- | :--- |
 | Get \(`response`, `status`,`error`\) | Performs an HTTP GET request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
-Most APIs will return data in a less than usable format for your app so we'll take a few moments to walk through a few examples of how to format data \(also known as parsing\) using our [Object](objects.md) blocks
+Most APIs will return data in JSON format, so we'll take a few moments to walk through a few examples of how to parse this data using our [Object](objects.md) blocks
 
-### Example 1: [Open Weather Map API](https://openweathermap.org/current)
+### Get Simple Properties
+
+#### Example 1: [Open Weather Map API](https://openweathermap.org/current)
 
 You can find a working example of this in the sample app, [Office Weather & Traffic](https://docs.thunkable.com/sample-apps#office-weather).
 
@@ -78,21 +80,39 @@ One of the most common output formats for APIs is JSON, short for Javascript Obj
 
 ![](.gitbook/assets/image%20%28105%29.png)
 
-If you simply want to retrieve the temperature \(`"temp":` in line 6\), you will have to first convert the JSON response into objects, an _entity_ like a person that has _properties_ to describe them like smart. Objects can be embedded within another object.
+If you simply want to retrieve the temperature \(`"temp":` in line 6\), you will have to first convert the JSON response to an Object. Objects have properties \(like `temp`\) that we can retrieve and display in our app. Objects can be embedded within another object.
 
 In your JSON response, objects can be found within the `"` quotes `"` followed by a colon `:`. The properties of the object is follows the colon `:` but is within the `{` curly brackets`}`.
 
-In the example above, `"coord":` , `"weather":`, `"base":` and `"main":` are both objects and properties of the overall object since they are contained within the `{` curly brackets `}`.
+In the example above, `"base"`, `"dt"`, `"id"`, `"name"` and `"cod"` are simple properties of the JSON response. `"coord"` , `"weather"`,  and `"main"` are properties of the overall response, but each of these properties is also an object with properties of its own, or [nested properties, ](objects.md#nested-values-and-values-from-arrays)contained within the `{` curly brackets `}`.
 
 #### **Get Property of Object**
 
 ![](.gitbook/assets/image%20%2868%29.png)
 
-Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the temperature \(`"temp":` in line 6\), we'll want to find the `temp` property of the `main` object which is the property of the overall object
+Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the name of the city we are viewing weather data for \(`"name":` in line 22\), we'll want to get the property `name` of the response:
 
-![](.gitbook/assets/screen-shot-2018-08-01-at-2.52.33-pm.png)
+![](.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
 
-### Example 2: [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
+### Get Nested Properties
+
+If we wanted to get the temperature in Dhaka from the Open Weather API above, we would need to do the following:
+
+* Convert the JSON response to an object
+* Get the property `main` of the response object
+* Get the property `temp` of `main` 
+
+We can write this as getting the property `main.temp` of the response object:
+
+![](.gitbook/assets/image%20%28197%29.png)
+
+You can read about getting nested values from Objects [here](objects.md#nested-values-and-values-from-arrays). 
+
+### Get Properties from Lists
+
+You can read about getting nested values and values from lists in Objects [here](objects.md#nested-values-and-values-from-arrays). Let's work through an example.
+
+#### Example 2: [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
 You can find a working example of this in the sample app, [Ride](https://community.thunkable.com/t/advanced-sample-app-ride-a-private-uber-like-app-made-on-thunkable/30646).
 
@@ -136,6 +156,10 @@ If you want to retrieve the `"text"` property in line 13, you'll have to:
 You can see the example below for how this would look using the [Object](objects.md) and [List](lists.md) blocks
 
 ![](.gitbook/assets/screen-shot-2018-08-01-at-3.18.25-pm.png)
+
+This can also be written as the property `rows[1].elements[1].duration.text` of the response:
+
+![](.gitbook/assets/screen-shot-2021-04-26-at-12.50.17-pm.png)
 
 ## Upload data
 
