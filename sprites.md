@@ -70,7 +70,7 @@ In the GIF below, we see that when one Sprite \(the Thunkable Beaver\) collides 
 
 **Picture Selection:** Select an image from the Picture List defined in the Sprite Type to display on the Sprite.
 
-**X, Y:** Location of the Sprite on the X-axis and Y-axis of the Stage. You can also click and drag the Sprite to your desired initial position.
+**X, Y:** Location of the top left pixel of the Sprite on the X-axis and Y-axis of the Stage. You can also click and drag the Sprite to your desired initial position.
 
 **Z:** Where the Sprite is in the **Depth** of the Canvas. A Sprite with a higher Z-value will appear in front of a Sprite with a lower Z-value. This is demonstrated in the GIF above under the 'Picture List' section of Sprite Type Properties: the beaver has a higher Z-value than the tree, so it is in front when it passes the tree.
 
