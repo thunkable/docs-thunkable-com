@@ -2,6 +2,12 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## April 30, 2021
+
+Platform Updates
+
+* Remove `legacyExternalStorage` permission from built Android apps in line with Google's [Policy Updates](https://support.google.com/googleplay/android-developer/answer/9934569?visit_id=637554004669617100-3975859313&rd=1)
+
 ## April 23, 2021
 
 Component Updates
@@ -30,8 +36,6 @@ Platform Updates
 Component Updates
 
 * Update style of [Alert](alert.md) component
-
-New Components
 
 ## April 13, 2021
 
