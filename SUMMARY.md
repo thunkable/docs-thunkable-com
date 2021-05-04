@@ -73,7 +73,7 @@
 * [Sound](sound.md)
 * [Share](share.md)
 * [Camera](camera.md)
-* [Email Sign In by Firebase](sign-in-1.md)
+* [Email Sign In by Firebase](sign-in.md)
 * [Push Notifications by One Signal](push-notifications-by-one-signal.md)
 * [Alert](alert.md)
 * [Timer](timer.md)

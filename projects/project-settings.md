@@ -105,7 +105,7 @@ You will be able to add purpose strings for any component you have added which e
 
 ## API Keys
 
-If you use blocks for [Translating](../speech.md#translation), [Image Recognition](../camera.md#image-recognition) or [Uploading media to the cloud](../camera.md#upload-image-to-the-cloud), or use a Firebase database to support your [cloud variables](../variables.md#cloud-variables) or [Signing In](../sign-in-1.md), you can enter personal API keys for these components in the project settings. 
+If you use blocks for [Translating](../speech.md#translation), [Image Recognition](../camera.md#image-recognition) or [Uploading media to the cloud](../camera.md#upload-image-to-the-cloud), or use a Firebase database to support your [cloud variables](../variables.md#cloud-variables) or [Signing In](../sign-in.md), you can enter personal API keys for these components in the project settings. 
 
 ![](../.gitbook/assets/cloudinary-settings.png)
 

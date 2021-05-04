@@ -104,7 +104,7 @@ Firebase Realtime Database also pairs well with [Sign in](https://github.com/thu
 
 ### Edit Database Rules
 
-If you are using [Sign In](sign-in-1.md) powered by Firebase in your app, you do not need to edit the default database rules which permit reading and writing to the database for authorized users.
+If you are using [Sign In](sign-in.md) powered by Firebase in your app, you do not need to edit the default database rules which permit reading and writing to the database for authorized users.
 
 ![](.gitbook/assets/firebase-fig-7.png)
 

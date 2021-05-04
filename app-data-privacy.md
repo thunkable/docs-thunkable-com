@@ -30,7 +30,7 @@ You may want to limit access to your app on the initial screen by requiring a un
 
 ## Require sign in for your app
 
-If you don't want to require a password, you can use the [Sign In](sign-in-1.md) component to manage users who have access to the app. Users must first create a password with their email address. You can add an additional level of security by requiring users to verify their email address, which sends them an email at their address before they can sign in to your app.
+If you don't want to require a password, you can use the [Sign In](sign-in.md) component to manage users who have access to the app. Users must first create a password with their email address. You can add an additional level of security by requiring users to verify their email address, which sends them an email at their address before they can sign in to your app.
 
 {% hint style="info" %}
 There is currently a bug with email verification. We hope to fix this soon.

@@ -24,7 +24,7 @@ App features are functions that cannot be viewed in your app, but perform import
 
 {% page-ref page="share.md" %}
 
-{% page-ref page="sign-in-1.md" %}
+{% page-ref page="sign-in.md" %}
 
 ## Notifications
 
