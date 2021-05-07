@@ -2,21 +2,6 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
-## May 5, 2021
-
-Platform Updates
-
-* Allow [published web apps](publish-as-a-web-app-pro.md) to be embedded in a HTML iframe
-* Add alert when [previewing](get-started/live-test.md#live-preview) a project that contains a [Web Viewer](web-viewer.md) or a [Bluetooth Low Energy](bluetooth-low-energy.md) component on the web, advising that performance may not match performance on a device
-* Improve visibility of components on Drag and Drop canvas when very zoomed in
-
-Component Updates
-
-* Improve appearance of customized [Switch](switch.md) colors
-* Update error message shown when [Web API](web-api.md) fails to fetch data
-
-New Components
-
 ## April 30, 2021
 
 Platform Updates
