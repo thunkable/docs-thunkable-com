@@ -25,12 +25,6 @@ This block will be triggered when the source of a Sound component is loaded. It 
 
 ![](.gitbook/assets/sourceloaded.png)
 
-If a given audio is already the source of a Sound component, and you use a block to set the same audio as the source of the Sound component, this block will not be triggered. We recommend using an [if statement](control.md#if-this-do-that) to say that if the audio is already the source of the Sound component, execute the action you would take when the source is loaded. 
-
-In the following screenshot, we want this audio to play when the Button is pressed. If this audio is already the source for the Sound component, we play the sound. If not, we set the audio to be the Sound's source. Once the source is loaded, we play the audio.
-
-![](.gitbook/assets/screen-shot-2021-05-11-at-2.38.35-pm.png)
-
 #### On Error
 
 This block will be triggered if there is an error with the Sound component.
