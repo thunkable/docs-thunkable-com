@@ -1,5 +1,11 @@
 # Logic
 
+## Video Tutorial
+
+You can find a video that explains all of the Logic blocks below:
+
+{% embed url="https://www.youtube.com/watch?v=qotZVqzTUpg" %}
+
 ## Comparison Blocks
 
 [If `then`, do `that`](control.md#if-this-do-that) blocks are often paired with statement blocks that test whether a condition is met

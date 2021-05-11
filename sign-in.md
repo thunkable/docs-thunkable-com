@@ -8,6 +8,12 @@
 To use Sign In, you will need to first create your own Firebase account and project
 {% endhint %}
 
+## Video Tutorial
+
+You can watch a video to learn about all of the Sign In blocks here:
+
+{% embed url="https://www.youtube.com/watch?v=tdgVeck-sOI" %}
+
 ## Getting Started
 
 ### Create your free [Firebase](https://firebase.google.com/) account and create a new project
