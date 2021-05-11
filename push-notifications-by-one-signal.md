@@ -1,8 +1,7 @@
 # Push Notifications by One Signal
 
 {% hint style="warning" %}
-**Push Notifications cannot be tested with the Thunkable Live app.**  
-You can test Push Notifications on Android devices by downloading your app directly from Thunkable.  
+**Push Notifications cannot be tested with the Thunkable Live app on iOS**  
 You can test Push Notifications on iOS by publishing your app to TestFlight and downloading it from there.
 {% endhint %}
 
