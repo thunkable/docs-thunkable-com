@@ -2,7 +2,7 @@
 
 {% hint style="warning" %}
 **Push Notifications cannot be tested with the Thunkable Live app on iOS**  
-You can test Push Notifications on iOS by publishing your app to TestFlight and downloading it from there.
+You can test Push Notifications on iOS by publishing your app to TestFlight and downloading it from there. ****
 {% endhint %}
 
 ![One Signal is the world leader in push notifications and they offer their service for free. ](.gitbook/assets/onesignaldemo.png)
