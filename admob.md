@@ -2,29 +2,11 @@
 
 ## AdMob Overview 
 
-{% hint style="info" %}
-We highly recommend that you only add ads to your app after you have a large audience of users \(otherwise, you won't generate much revenue anyway\).
-{% endhint %}
-
-* [Review guidelines](admob.md#review-guidelines)
-* [Sample apps](admob.md#sample-apps)
-* [Ad formats](admob.md#ad-formats)
-* [Banner ad](admob.md#banner-ad)
-* [Interstitial ad](admob.md#interstitial-ad)
-* [Rewarded video ad](admob.md#rewarded-video-ad)
-* [Live test](admob.md#live-test)
-* [Download and publish](admob.md#download-and-publish) ![](.gitbook/assets/pro.png) ****
-  * [Submit for review](admob.md#submit-for-review)
-  * [Create `Ad Unit ID`](admob.md#create-an-ad-unit-id)\`\`
-  * [Link `Ad Unit ID`](admob.md#link-ad-unit-id)\`\`
-  * [Set `test mode = false`](admob.md#set-test-mode-false)\`\`
-* [Troubleshooting](admob.md#troubleshooting)
-
 ![](.gitbook/assets/webp.net-resizeimage.png)
 
 AdMob is the most popular ad network for monetizing mobile apps today. Apps with large audiences can use AdMob to not only generate revenue for the creator but in some cases \(like with AdMob Rewarded Video\), create better user experiences than the alternative \(e.g. in-app purchases to play a new game level\). 
 
-
+We highly recommend that you only add ads to your app after you have a large audience of users \(otherwise, you won't generate much revenue anyway\).
 
 {% hint style="info" %}
 **AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
@@ -32,9 +14,18 @@ AdMob is the most popular ad network for monetizing mobile apps today. Apps with
 All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ_Uon406Demqt_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform). Once approved, apps can be downloaded and published without further review.
 
 Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.
-
-Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob in the future. 
 {% endhint %}
+
+## Getting Started
+
+You need an [AdMob account](https://admob.google.com/home/get-started/) to show ads in your project.
+
+Once you have an AdMob account, you will need to paste the following into the [AdMob section of your Project Settings](projects/settings.md#admob-settings):
+
+* [iOS app ID](https://support.google.com/admob/answer/7356431?hl=en) \(if publishing to App Store\)
+* [Android app ID](https://support.google.com/admob/answer/7356431?hl=en) \(if publishing to Play Store\)
+* [Tracking Usage Description](https://developer.apple.com/app-store/user-privacy-and-data-use/) \(if publishing to App Store\)
+  * Default value: "This identifier will be used to deliver personalized ads to you."
 
 ## Review Guidelines
 
@@ -54,12 +45,6 @@ Thunkable will review apps for compliance with AdMob policies but will specifica
 Once approved, apps can be downloaded and published without further review.
 
 **Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.**
-
-## **Sample Apps** <a id="sample-apps"></a>
-
-| **Sample App** | Description |
-| :--- | :--- |
-| [Dad with Ad](https://x.thunkable.com/projects/5c85f9c0bd31e8c4e90f3539/Welcome/designer) | Dad app with AdMob Banner ad on home screen and AdMob Rewarded Video ad that appears after a user has receive an answer from my dad |
 
 ## Ad Formats
 
@@ -218,6 +203,16 @@ To protect the integrity of your account, we have by default set `test mode = tr
 When you are ready activate your ads when you download or publish, you'll simply need to set `test mode = false`.
 
 ![](.gitbook/assets/thunkable-docs-exhibits-14.png)
+
+## iOS and AdMob Permissions
+
+With iOS 14.5, your app users will be asked if they consent to an advertising identifier being used to show them personalized ads. This is what the dialog looks like:
+
+![](.gitbook/assets/tracking-dialog%20%281%29.png)
+
+If this permission is declined, your app will still show ads. These will be more generic ads and won't be targeted at the user.  
+  
+﻿If the user has turned off the `Allow Apps to Request to Track` property in their device settings, this permission will be declined by default and they will not see this dialog.
 
 ## **Troubleshooting**
 

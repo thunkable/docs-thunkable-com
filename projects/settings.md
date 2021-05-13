@@ -60,6 +60,22 @@ PRO Thunkable users have the option to set their app to Private. A private app w
 
 When you publish to the [App Store](https://docs.thunkable.com/v/drag-and-drop/publish-to-app-store-ios) or the [Play Store](https://docs.thunkable.com/v/drag-and-drop/publish-to-play-store-android), you will need to increment \(increase\) your version number each time. If this switch is set to `true,` Thunkable will automatically increment your project's version number each time you publish your app \(iOS\) or download your app \(Android\).
 
+## AdMob Settings
+
+### iOS App ID
+
+Enter the AdMob app ID for your iOS app. [More info from AdMob here.](https://support.google.com/admob/answer/7356431?hl=en)
+
+### Android App ID
+
+Enter the AdMob app ID for your Android app. [More info from AdMob here.](https://support.google.com/admob/answer/7356431?hl=en)
+
+### Tracking Usage Description \(iOS only\)
+
+Enter a string to explain to the user that a personal advertising identifier may be used to show them ads relevant to their online activity. Read more about [tracking permissions for AdMob on iOS](../admob.md#ios-and-admob-permissions).
+
+Default Value: "This identifier will be used to deliver personalized ads to you."
+
 ## Android <a id="android"></a>
 
 ### Version Name <a id="version-name"></a>
