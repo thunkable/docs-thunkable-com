@@ -2,38 +2,6 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
-## May 12, 2021
-
-Platform Updates
-
-* Update platform to Expo 41
-  * Built APKs now target Android 11
-  * Project Settings includes [AdMob Settings](projects/settings.md#admob-settings) section
-  * iOS apps with AdMob now [ask for permission](admob.md#ios-and-admob-permissions) to show personalized ads to users in line with [Apple's AppTrackingTransparency requirements](https://developer.apple.com/news/?id=ecvrtzt2)
-* Update style of sign in/sign up page
-* Fix top banner position in Snap to Place projects
-
-Component Updates
-
-* Expo 41 update also includes minor updates to the following: [Video Recorder](video-recorder.md), [Audio Recorder](audio-recorder.md), [Barcode Scanner](barcode-scanner.md), [Camera](camera.md), [Photo Library](photo-library.md), [Keep Screen Awake block](device.md#keep-screen-awake), [Location Sensor](location-sensor.md), [Date Input](date-input.md), [Time Input,](time-input.md) [Gyroscope](gyroscope.md), [Accelerometer](accelerometer.md), [Magnetometer](magnetometer.md), [Animation by Lottie](lottie.md)
-  * These updates are effective in the Snap to Place UI and the Drag and Drop UI
-  * These updates are related to permissions and will not affect the performance of these components in your project
-
-## May 5, 2021
-
-Platform Updates
-
-* Allow [published web apps](publish-as-a-web-app-pro.md) to be [embedded](publish-as-a-web-app-pro.md#embed-your-app-in-a-webpage) in a HTML iframe
-* Add alert when [previewing](get-started/live-test.md#live-preview) a project that contains a [Web Viewer](web-viewer.md) or a [Bluetooth Low Energy](bluetooth-low-energy.md) component on the web, advising that performance may not match performance on a device
-* Improve visibility of components on Drag and Drop canvas when very zoomed in
-
-Component Updates
-
-* Improve appearance of customized [Switch](switch.md) colors
-* Update error message shown when [Web API](web-api.md) fails to fetch data
-
-New Components
-
 ## April 30, 2021
 
 Platform Updates
