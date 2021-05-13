@@ -10,6 +10,14 @@ You can find the Camera blocks in the Camera drawer of blocks.
 
 ![](.gitbook/assets/camera-drawer.png)
 
+## Video tutorial
+
+You can view a video tutorial that demonstrates all of the Camera blocks here:
+
+{% embed url="https://www.youtube.com/watch?v=Zi17wTeUKXs" %}
+
+## Advanced Blocks
+
 For each block in this drawer, you can right-click the block and select **Show advanced block** to see an expanded block with additional outputs. Both the simple and advanced blocks will be explained in this document.
 
 ![](.gitbook/assets/image%20%28147%29.png)

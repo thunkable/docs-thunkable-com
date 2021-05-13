@@ -6,6 +6,14 @@ In app creation, variables work like containers to hold numbers, phrases, the re
 
 Instead of repeating these values in multiple places, a variable can be used wherever it is needed in your Blocks code.
 
+## Video tutorials
+
+You can find videos to demonstrate the use of [app variables ](variables.md#app-variables)and [stored variables](variables.md#stored-variables) below:
+
+{% embed url="https://www.youtube.com/watch?v=3M9F3X1bCnA" %}
+
+{% embed url="https://www.youtube.com/watch?v=tdgVeck-sOI" %}
+
 ## `App`, `stored` and `cloud` variables
 
 ![](.gitbook/assets/screen-shot-2018-10-11-at-12.26.33-pm.png)
