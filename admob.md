@@ -241,6 +241,9 @@ With iOS 14.5, your app users will be asked if they consent to an advertising id
 
 ![](.gitbook/assets/tracking-dialog%20%281%29.png)
 
+  
+You can set a personalized Tracking Usage Description in your [Project Settings](https://app.gitbook.com/@thunkable/s/thunkable-docs/~/drafts/-M_Zx-u6yI9rGYrOR5dc/projects/settings#tracking-usage-description-ios-only).‌  
+  
 If this permission is declined, your app will still show ads. These will be more generic ads and won't be targeted at the user.  
   
 ﻿If the user has turned off the `Allow Apps to Request to Track` property in their device settings, this permission will be declined by default and they will not see this dialog.
