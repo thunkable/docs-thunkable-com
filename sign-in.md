@@ -74,6 +74,8 @@ When the user's email and password have been stored locally, the following block
 
 ![](.gitbook/assets/automatic-sign-in.png)
 
+You can also use the User ID as a key for storing user data in the cloud. See the [Cloud Variables video tutorial](variables.md#video-tutorials) for an example of this.
+
 ## Sign Out
 
 Signs the user out.
@@ -91,4 +93,8 @@ Send an email to the specified email address to reset their password
 On the Firebase console, navigate to the Users tab under Authentication and you'll find a dashboard where you can reset a user's password, disable and delete their accounts.
 
 ![](.gitbook/assets/firebase-fig-1.png)
+
+## See Also
+
+Once you have signed a user in, you can use their user ID as a unique key to store unique user data to the cloud. See the [cloud variables video tutorial](variables.md#cloud-variables) for more information.  
 
