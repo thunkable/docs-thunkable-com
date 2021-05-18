@@ -12,9 +12,7 @@ To go from an idea to app, we strongly recommend that you sketch out your vision
 
 ## Navigator Tutorial
 
-{% embed url="https://youtu.be/Z9R\_kg4ew2M" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=TqIVHGYdi54" %}
 
 ## Arrange Screens with Navigators
 
@@ -30,8 +28,6 @@ Here are three examples of navigators that you can use on Thunkable.
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-83.png)
 
-**3.** [**Stack Navigators**](https://docs.thunkable.com/stack-navigator) - Navigators that allow you to stack screens on top of other screens.
-
 ## Layout Components
 
 {% page-ref page="top-tab-navigator.md" %}
@@ -41,4 +37,6 @@ Here are three examples of navigators that you can use on Thunkable.
 {% page-ref page="drawer-navigator.md" %}
 
 {% page-ref page="screen.md" %}
+
+{% page-ref page="groups.md" %}
 
