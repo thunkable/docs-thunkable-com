@@ -2,6 +2,19 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## May 19, 2021
+
+Platform Updates
+
+* Style updates to login page
+* [Publish as web app](publish-as-a-web-app-pro.md): Instead of automatically publish as a mobile web app, let creator choose mobile or responsive web app as project is first published
+* Drag and Drop: Restore guidelines in Design tab
+
+Component Updates
+
+* Duplicated [Screens](screen.md) will be added to the right of the existing Screen
+* Drag and Drop: Improve behavior of Navigator properties panel in Design tab
+
 ## May 13, 2021
 
 Component Updates
