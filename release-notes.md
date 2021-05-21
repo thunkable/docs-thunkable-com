@@ -2,6 +2,12 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## May 21, 2021
+
+Component Updates:
+
+* [Stack Navigator](stack-navigator.md) no longer compresses screens when [previewing on web](get-started/live-test.md#live-preview) or in a [published web app](publish-as-a-web-app-pro.md)
+
 ## May 19, 2021
 
 Platform Updates
