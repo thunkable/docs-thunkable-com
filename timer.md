@@ -1,6 +1,6 @@
 # Timer
 
-## Settings
+## Properties
 
 You can set:
 
@@ -10,13 +10,15 @@ You can set:
 * Whether the Timer should **Loop**, ie. if the Timer should reset itself once it fires
 * Whether the Timer is **Enabled** \(this can be changed with blocks\)
 
-## Blocks
+## Event Blocks
 
 ### When Timer Fires
 
 ![](.gitbook/assets/whentimerfires.png)
 
 Set something to happen when the Timer fires.
+
+## Function Blocks
 
 ### Start Timer
 
@@ -29,6 +31,8 @@ Starts the Timer.
 ![](.gitbook/assets/newtimerblocks-stop.png)
 
 Stops the Timer.
+
+## Properties Blocks
 
 ### Get Time
 
@@ -78,7 +82,9 @@ Returns `true` or `false` value for whether Count Up is enabled for this Timer.
 
 ![](.gitbook/assets/newtimerblocks-setloops.png)
 
-Set whether the Timer loops.
+If `Loops = true`, the timer will reset itself after it fires. If your interval is 10 seconds, the Timer will fire every 10 seconds.
+
+If `Loops = false`, the timer will finish its current interval if it is in the middle of one, and will no longer fire. If your interval is 10s, the timer will finish its current 10 second interval, fire, and then stop.
 
 #### Get Loops
 
