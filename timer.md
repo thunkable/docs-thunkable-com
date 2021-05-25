@@ -9,7 +9,7 @@ Find the **Timers** drawer of blocks and click on the ⊕ icon to add a Timer to
 
 ![](.gitbook/assets/timers.png)
 
-### Settings
+### Properties
 
 You will see a settings panel that allows you to set:
 
@@ -29,13 +29,15 @@ You will see the Timers you have added to your app underneath the Timers section
 
 ![](.gitbook/assets/timers-menu.png)
 
-## Blocks
+## Event Blocks
 
 ### When Timer Fires
 
 ![](.gitbook/assets/whentimerfires.png)
 
 Set something to happen when the Timer fires.
+
+## Function Blocks
 
 ### Start Timer
 
@@ -48,6 +50,8 @@ Starts the Timer.
 ![](.gitbook/assets/timstop.png)
 
 Stops the Timer.
+
+## Property Blocks
 
 ### Get Time
 
@@ -97,7 +101,10 @@ Returns `true` or `false` value for whether Count Up is enabled for this Timer.
 
 ![](.gitbook/assets/setloops.png)
 
-Set whether the Timer loops.
+  
+If `Loops = true`, the timer will reset itself after it fires. If your interval is 10 seconds, the Timer will fire every 10 seconds.‌
+
+If `Loops = false`, the timer will finish its current interval if it is in the middle of one, and will no longer fire. If your interval is 10s, the timer will finish its current 10 second interval, fire, and then stop.
 
 #### Get Loops
 
