@@ -2,6 +2,16 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## May 24, 2021
+
+Platform Updates:
+
+* Drag and Drop: Enable pan-to-scroll in Design tab
+
+Component Updates:
+
+* Improvements to performance of [Push Notifications](push-notifications-by-one-signal.md) on iOS
+
 ## May 21, 2021
 
 Component Updates:
