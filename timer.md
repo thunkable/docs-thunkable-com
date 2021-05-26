@@ -40,13 +40,13 @@ Stops the Timer.
 
 ![](.gitbook/assets/newtimerblocks-get-time-seconds.png)
 
-Returns time in seconds.
+Returns remaining time from the Timer's interval in seconds.
 
 #### Get time in milliseconds
 
 ![](.gitbook/assets/newtimerblocks-get-time-milliseconds.png)
 
-Returns time in milliseconds.
+Returns remaining time from the Timer's interval in milliseconds.
 
 ### Interval
 
