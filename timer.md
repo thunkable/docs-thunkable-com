@@ -40,13 +40,17 @@ Stops the Timer.
 
 ![](.gitbook/assets/newtimerblocks-get-time-seconds.png)
 
-Returns remaining time from the Timer's interval in seconds.
+If `Count Up` is `false`, returns remaining time from the Timer's interval in seconds.
+
+If `Count Up` is `true`, returns elapsed time from the Timer's interval in seconds.
 
 #### Get time in milliseconds
 
 ![](.gitbook/assets/newtimerblocks-get-time-milliseconds.png)
 
-Returns remaining time from the Timer's interval in milliseconds.
+If `Count Up` is `false`, returns remaining time from the Timer's interval in milliseconds.
+
+If `Count Up` is `true`, returns elapsed time from the Timer's interval in milliseconds.
 
 ### Interval
 
