@@ -4,6 +4,12 @@ description: 'Use text-to-speech, speech-to-text, and translation functions in y
 
 # Speech
 
+## Video Tutorial
+
+You can see the [Text to Speech](speech.md#text-to-speech) and [Translation](speech.md#translation) blocks in use in this video tutorial:
+
+{% embed url="https://www.youtube.com/watch?v=0NrkKiCGaxk" %}
+
 ## Text to Speech
 
 Read a piece of text aloud in a specified language.

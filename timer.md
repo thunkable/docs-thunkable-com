@@ -59,13 +59,17 @@ Stops the Timer.
 
 ![](.gitbook/assets/gets.png)
 
-Returns time in seconds or milliseconds
+If `Count Up` is `false`, returns remaining time from the Timer's interval in seconds.
+
+If `Count Up` is `true`, returns elapsed time from the Timer's interval in seconds.
 
 #### Get time in milliseconds
 
 ![](.gitbook/assets/getms.png)
 
-Returns time in milliseconds.
+If `Count Up` is `false`, returns remaining time from the Timer's interval in milliseconds.
+
+If `Count Up` is `true`, returns elapsed time from the Timer's interval in milliseconds.
 
 ### Interval
 
