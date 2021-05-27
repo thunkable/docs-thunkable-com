@@ -64,6 +64,14 @@ When you’re ready to release a new version, choose “Publish as a Web App” 
 
 ![](.gitbook/assets/frame-2.png)
 
+## Embed your app in a webpage
+
+If you host a webpage, you can embed your Thunkable web app in an iframe using the syntax
+
+`<iframe src="https://thunkable.site/w/K0XDxMqwl" title="Chop Down the Tree Thunkable App"></iframe>`
+
+You can read more about iframes [here](https://www.w3schools.com/tags/tag_iframe.ASP).
+
 ## Unsupported Components 
 
 Not all components are supported on the web at this time so please see the list below of components that are not supported. Please note that some are **`Supported but may not work as expected`**so may not work consistently on every device. Others, such as AdMob **`Can not be supported`**but may be replaced by an alternative in the future. While other are  **`Not supported yet`** but may be made available in future updates.
