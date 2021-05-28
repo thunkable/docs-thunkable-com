@@ -4,19 +4,12 @@ description: The label component allows you to display text in your app.
 
 # Label
 
-## Label Overview
-
-* [Style the Label](label.md#style-the-label)
-* [Edit the Label size](label.md#edit-the-label-size)
-* [Add spacing](label.md#add-spacing)
-* [Event Blocks](label.md#events)
-* [Property Blocks](label.md#properties)
-
 ## Style the Label
 
 You can customize your label using the following properties: 
 
 * **Text:** Text that appears on the label
+* **Font:** Choose between [Open Sans](https://fonts.google.com/specimen/Open+Sans), [Roboto](https://fonts.google.com/specimen/Roboto), [Oswald](https://fonts.google.com/specimen/Oswald), [Lato](https://fonts.google.com/specimen/Lato) and [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
 * **Font Size:** Size of the text that appears on the label
 * **Color:** Color of the text that appears on the label
 * **Background Color:** Sets the background color of the label

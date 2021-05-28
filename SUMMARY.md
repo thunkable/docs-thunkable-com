@@ -36,6 +36,7 @@
 * [Top Tab Navigator](top-tab-navigator.md)
 * [Bottom Tab Navigator](bottom-tab-navigator.md)
 * [Drawer Navigator](drawer-navigator.md)
+* [Stack Navigator](stack-navigator.md)
 * [Screen](screen.md)
 * [Groups](groups.md)
 * [💲 Monetization](monetization.md)
