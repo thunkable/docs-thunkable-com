@@ -16,7 +16,7 @@ New Components:
 Component Updates:
 
 * Drag and Drop UI: components that are not [Groups](https://docs.thunkable.com/v/drag-and-drop/groups) will no longer accept "children" in the Component Tree
-* Drag and Drop UI: Data Viewer List's Left Swipe Enabled and Right Swipe Enabled properties are restored in Design Tab
+* Drag and Drop UI: [Data Viewer List](https://docs.thunkable.com/v/drag-and-drop/data-viewer-list)'s Left Swipe Enabled and Right Swipe Enabled properties are restored in Design Tab
 * Drag and Drop UI: [Label](https://docs.thunkable.com/v/drag-and-drop/label) and [Button](https://docs.thunkable.com/v/drag-and-drop/button) now have a range of fonts to choose from
 * Online [Data Sources](data-sources.md) are no longer disconnected from a project when it is copied within the same account
 
