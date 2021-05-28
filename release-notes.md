@@ -2,6 +2,24 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## May 27, 2021
+
+Platform Updates:
+
+* No longer auto-select first item in media drop-down menu when selecting media source for components such as [Image](image-1.md) or [Sound](sound.md)
+* Drag and Drop platform: [New video tutorials](https://docs.thunkable.com/v/drag-and-drop/get-started/tutorials)
+
+New Components:
+
+* Drag and Drop UI: [Stack Navigator](https://docs.thunkable.com/v/drag-and-drop/stack-navigator)
+
+Component Updates:
+
+* Drag and Drop UI: components that are not [Groups](https://docs.thunkable.com/v/drag-and-drop/groups) will no longer accept "children" in the Component Tree
+* Drag and Drop UI: Data Viewer List's Left Swipe Enabled and Right Swipe Enabled properties are restored in Design Tab
+* Drag and Drop UI: [Label](https://docs.thunkable.com/v/drag-and-drop/label) and [Button](https://docs.thunkable.com/v/drag-and-drop/button) now have a range of fonts to choose from
+* Online [Data Sources](data-sources.md) are no longer disconnected from a project when it is copied within the same account
+
 ## May 24, 2021
 
 Platform Updates:
