@@ -4,15 +4,6 @@
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-84.png)
 
-## Name Your Screens
-
-The Stack navigator creates a header bar across all screens. You can add a title to this bar by navigating to the Screen properties
-
-| Property | Description |
-| :--- | :--- |
-| Header Title | Title of your header |
-| Header Back Title | Title of the back button on a stacked screen; if `blank`, will use the `Header Title` |
-
 ## Stack Navigator Properties
 
 ### Set Your Screen Transitions
