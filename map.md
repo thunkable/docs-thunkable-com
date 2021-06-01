@@ -1,23 +1,5 @@
 # Maps by Google and Apple
 
-## Maps Overview
-
-* [Choose your provider](map.md#choose-your-provider)
-* [Zoom and center the Map](map.md#zoom-and-center-the-map)
-* [Style the Map](map.md#style-the-map) 
-  * [Edit Map size](map.md#edit-map-size)
-  * [Add spacing](map.md#add-spacing)
-  * [Add marker](map.md#add-marker)
-  * [Add polyline](map.md#add-polyline)
-  * [Add polygon](map.md#add-polygon)
-  * [Clear map](https://docs.thunkable.com/map#clear-map)
-* [Map Events](map.md#map-events)
-  * [On Map Ready](map.md#on-map-ready)
-  * [On User Location Change](map.md#on-user-location-change)
-  * [On Press](map.md#on-press)
-  * [On Long Press](map.md#on-long-press)
-  * [On Marker Press](map.md#on-marker-press)
-
 ![](.gitbook/assets/map-fig-1.png)
 
 ## Choose Your Provider
