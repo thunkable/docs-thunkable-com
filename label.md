@@ -4,6 +4,11 @@ description: The label component allows you to display text in your app.
 
 # Label
 
+{% hint style="warning" %}
+The Label component currently has centering issues on larger screens, such as tablets or computer screens.   
+If this behavior is affecting your project, we recommend displaying your text on a [Button](button.md), which can be styled to look like a Label.
+{% endhint %}
+
 ## Style the Label
 
 You can customize your label using the following properties: 
