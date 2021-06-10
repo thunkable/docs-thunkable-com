@@ -4,12 +4,15 @@ description: Create interactive gaming apps with sprites.
 
 # Sprites
 
-{% hint style="info" %}
-Looking for some images to use as sprites in your project? Check out our new [Sprite Gallery](sprite-gallery.md)!
-{% endhint %}
-
 Sprites are images that can be placed on the Stage in the Canvas.   
 They can react to being touched or dragged across the screen, or colliding with other sprites or the edge of the screen.
+
+* [Sprites vs Sprite Types](sprites.md#sprites-vs-sprite-types)
+* [Adding Sprite Types to your app](sprites.md#adding-sprites-types-to-your-app)
+* [Adding Sprites to your app](sprites.md#adding-sprites-to-your-app)
+* [Sprite Type Properties](sprites.md#sprite-type-properties)
+* [Sprite Properties](sprites.md#sprite-properties)
+* [Example: Different Types of Sprites](sprites.md#example-different-types-of-sprites)
 
 ## Sprites vs Sprite Types
 
