@@ -2,6 +2,12 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## June 9, 2021
+
+Platform Updates:
+
+* Improvements to performance of Google Sheets [Data Sources](data-sources.md#google-sheets) picker
+
 ## May 27, 2021
 
 Platform Updates:
