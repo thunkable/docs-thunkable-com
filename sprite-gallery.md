@@ -4,17 +4,17 @@ This is a gallery of Sprites that have been awarded to the winner \(as voted by 
 
 ## Animals
 
-### Lion - @manyone
+### Lion
 
 ![](.gitbook/assets/img_0103.png)
 
-### Poodle - @catsarisky
+### Poodle
 
 ![](.gitbook/assets/img_0083.png)
 
 ## Objects
 
-### Computer - @tchind
+### Computer
 
 ![](.gitbook/assets/img_0099.png)
 
