@@ -2,24 +2,21 @@
 description: How to publish your Thunkable project in the Google Play Store
 ---
 
-# Publish to Play Store \(Android\)
-
-Publishing your app to the Play Store is a relatively straightforward process and will help your app reach 2 billion active Android devices.
+# Publish to Play Store \(Android\) with AAB
 
 {% hint style="info" %}
-Success on Google Play starts with quality. The best apps and games have higher ratings, more installs, and more engagement. We recommend visiting the [Play Store Developer Policy Center](https://play.google.com/about/developer-content-policy/#!?modal_active=none) before you submit your app to the Play Store
+Publishing to the Play Store with an AAB file is a [PRO](https://thunkable.com//#/pricing) feature. If you have a free Thunkable account, check out [Publish to Play Store \(Android\) with APK](publish-to-play-store-android-with-apk.md)
 {% endhint %}
 
-* [Minimum requirements](publish-to-play-store-android.md#minimum-requirements)
-* [App info](publish-to-play-store-android.md#app-info)
-* [Download your Android app](publish-to-play-store-android.md#download-your-android-app)
-* [Submit your app for review](publish-to-play-store-android.md#submit-your-app-for-review)
-* [Updating an existing app on the Play Store](publish-to-play-store-android.md#updating-an-existing-app-on-the-play-store)
-* [Remove your app from the Play Store](publish-to-play-store-android.md#remove-your-app-from-the-play-store)
+Publishing your app to the Play Store will help your app reach 2 billion active Android devices.
 
 ## Minimum requirements
 
 * Google Play Developer Account \($25 one-time fee\). Don't have an account? [**Sign up here**](https://play.google.com/apps/publish/signup/)
+
+{% hint style="info" %}
+Success on Google Play starts with quality. The best apps and games have higher ratings, more installs, and more engagement. We recommend visiting the [Play Store Developer Policy Center](https://play.google.com/about/developer-content-policy/#!?modal_active=none) before you submit your app to the Play Store
+{% endhint %}
 
 ## App info
 
@@ -49,47 +46,125 @@ Before you download your app, make sure you set the appropriate Build and Versio
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.21.54-am.png)
 
-## Download your Android app
+## Download your Android App Bundle \(AAB\) file
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.22.17-am.png)
+You can download your AAB file by clicking the download icon and selecting **Publish Android**: 
 
-See further instructions for downloading your Android app [here](download.md#download-android-app).
+![](.gitbook/assets/screen-shot-2021-06-03-at-12.05.02-pm.png)
+
+
+
+You will see a dialog asking you to enter your email address. An AAB file will be sent to you:
+
+![](.gitbook/assets/screen-shot-2021-06-03-at-11.58.07-am.png)
+
+{% hint style="warning" %}
+An AAB file cannot be installed on an Android device. If you want to download and install your project, please read the [Download](download.md#download-android-app) docs.
+{% endhint %}
 
 ## Submit your app for review
 
+Go to the [Google Play Console](https://play.google.com/console/) to complete these next steps.
+
 ### Create a new app on the Google Play Developer Console
 
-![](.gitbook/assets/thunkable-documentation-exhibits-98.png)
+Click **Create app** in your Google Play console to get started.
 
-![](.gitbook/assets/thunkable-documentation-exhibits-99.png)
+![](.gitbook/assets/screen-shot-2021-06-04-at-7.04.26-am.png)
 
-Next, create a new release. This is where you'll upload the latest version of your app \(.apk\)
+You will be asked to provide some details about your app:
 
-![](.gitbook/assets/thunkable-documentation-exhibits-96%20%281%29.png)
+* **App Name** \(Text\)
+* **Default Language** \(Select from a drop-down menu\)
+* If you're releasing an **App** or a **Game** \(select one\)
+* If your app is **Free** or **Paid** \(select one\)
 
-![](.gitbook/assets/thunkable-documentation-exhibits-97.png)
+![](.gitbook/assets/screen-shot-2021-06-04-at-7.05.14-am.png)
 
-{% hint style="info" %}
-Enable [Google Play App signing](https://support.google.com/googleplay/android-developer/answer/7384423?hl=en). This is an optional program but we recommend it for most use cases.
-{% endhint %}
+You will also be asked to confirm that your app meets the **Google Play Developer Program Policies** and to accept that your app may be subject to **US export laws**.
 
-![Drag and drop your app \(.apk\) to the console](.gitbook/assets/thunkable-documentation-exhibits-100%20%281%29.png)
+![](.gitbook/assets/screen-shot-2021-06-04-at-7.06.12-am.png)
 
-### Update your Play store listing
+Google offers optional steps to set up internal testing for your project. You can follow the steps to set this up. We will focus on the **Set Up Your app** and **Publish Your app on Google Play** steps.
 
-To complete your Play Store listing, you will have to fill out a content rating questionnaire and set pricing and availability. In addition you will need to add a minimum of 4 design assets - two screenshots, a higher resolution icon \(512 x 512 px\) and a feature graphic \(1024 x 500 px\) that shows up on the Play Store app.
+### Set Up Your App
 
-![](blob:https://docs.thunkable.com/fb130b9d-e9ee-4ef9-86d8-e265361e07b2)
+Provide some information about your app's content.
 
-![](.gitbook/assets/thunkable-documentation-exhibits-94%20%281%29.png)
+![](.gitbook/assets/screen-shot-2021-06-04-at-7.54.04-am.png)
 
-![](.gitbook/assets/thunkable-background-image-1080-x-1920-px-11.png)
+* **App access**:  is any of your app's content locked behind a paywall or login screen?
+* **Ads**: does your app serve ads?
+* **Content rating**: Does your app contain strong language, violence, or other sensitive material?
+* **Target audience**: Is this app designed for children?
+* **News apps**: Is the function of your app to provide news updates to your users?
 
-![App screenshots](.gitbook/assets/thunkable-background-image-1080-x-1920-px-12%20%281%29.png)
+You can also add some information for how your app should be categorized and presented in the Play Store:
 
-![High resolution app icon \(512 x 512 px\)](.gitbook/assets/d-icon-dark.png)
+* Set an **App Category**, and add **Tags** to make your app more easily searchable
+* Add **Contact Details**: you must provide an email address, and you can also provide a phone number or website
+* Choose whether or not your app may be marketed outside of the Google Play store
 
-![Feature Graphic \(1024 x 500 px\)](.gitbook/assets/webp.net-resizeimage-11.png)
+Setting up your Store Listing will require the following:
+
+* An **App Name** to be shown the Play Store
+* A **Short Description** of your app
+* A **Full Description** of your app
+* An **App Icon** 
+  * 512 \* 512 pixels
+  * Up to 1MB in size
+* A **Feature Graphic**
+  * 1024 \* 500 pixels
+  * Up to 1MB in size
+* An optional YouTube **Video** URL to demonstrate your app
+* At least one **Phone Screenshot**
+  * 16:9 or 9:16 aspect ratio
+  * Each side between 320 and 3,840 pixels
+  * Up to 8MB in size
+* At least one **Tablet Screenshot**
+  * 16:9 or 9:16 aspect ratio
+  * Each side between 320 and 3,840 pixels
+  * Up to 8MB in size
+
+All images can be in PNG or JPEG format.
+
+See [Sample Assets](publish-to-play-store-android.md#sample-assets) at the end of this document for examples.
+
+### Publish Your App on Google Play
+
+![](.gitbook/assets/publish%20%282%29.png)
+
+You will be asked which **countries and regions** you want your app to be available in.
+
+Then you will be asked to **create a new release**.
+
+#### Prepare
+
+![](.gitbook/assets/prepare-1.png)
+
+Google will offer to protect your app signing key. You can click **Continue** to allow this to proceed. You will only be asked this the first time you publish a release.
+
+See [Manage Your Own App Signing](publish-to-play-store-android.md#manage-your-own-app-signing) below if you do not want Google to manage your app signing. 
+
+### Upload your AAB file
+
+![](.gitbook/assets/preview-release-2.png)
+
+Upload your AAB file in the **App Bundles and APKs** section. This may take a few minutes.
+
+Add a **Release Name** and **Release Notes** in the **Release Details** section.
+
+**Review and Release**
+
+**Errors, Warnings, and Messages** will let you know if there are any issues with your release or any information you should be aware of. **Errors** will prevent you from publishing your release. **Warnings** and **Messages** will not prevent you from publishing a release.
+
+**New App Bundles and APKs** will show any new APK or AAB files you have added to this release.
+
+**Release Notes** will show the release notes for this release.
+
+Click **Start Rollout to Production** to publish your app!
+
+Once your app has been reviewed, it will go live on the Google Play Store.
 
 ### Add a privacy policy
 
@@ -101,13 +176,15 @@ Apps that request access to sensitive permissions or data \(as defined in the [u
 
 ## **Updating an existing app on the Play Store**
 
-You can view Google's instructions for updating your app [here](https://support.google.com/googleplay/android-developer/answer/9859350?hl=en).
+You can view Google's instructions for updating your app [here](https://support.google.com/googleplay/android-developer/answer/9859350?hl=en). Please refer to the content that references **app bundles**, not APK files.
 
-If you updating an existing app on the Google Play Store, your app will need to have:
+If you are updating an existing app on the Google Play Store, your Thunkable project will need to have:
 
 * the same [package name](publish-to-play-store-android.md#the-package-name) as the published app
 * an incremented [version number](publish-to-play-store-android.md#build-and-version-number) \(version number is higher than the version number of your published app\)
 * the same [keystore](publish-to-play-store-android.md#the-keystore-private-key) as the published app
+
+You will need need to change any app signing settings when updating a published app.
 
 ### The Keystore / Private Key
 
@@ -119,35 +196,43 @@ Thunkable does not store your keystore outside of your app. If your app has been
 
 ### Exporting / importing a keystore to your app
 
-#### Export keystore from Thunkable X
+#### Export keystore from a Thunkable Project
 
-If you make a copy of a Thunkable X app project, the copy will have a different keystore to the original project. 
+{% hint style="info" %}
+A Thunkable project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time
+{% endhint %}
 
-To export a keystore from a Thunkable X app project, Click the name and icon of your app in upper left corner to bring up App Settings on right side as seen in 'Import keystore to Thunkable X'. Scroll all the way to the bottom of the App Settings and click Export Keystore. 
+If you make a copy of a Thunkable project, the copy will have a different keystore to the original project. 
+
+To export a keystore from a Thunkable project:
+
+* Click the gear icon of on the left hand side of your Design tab your app in upper left corner to bring up App Settings
+* Scroll to Android Keystore and click **Export Keystore**
+
+![](.gitbook/assets/screen-shot-2021-06-04-at-2.45.27-pm.png)
 
 In the dialog that comes up, you will see the keystore's password and a button that says Export Keystore. You will need this password to import your keystore to other projects. You can change the password at this stage by editing the password in the text box.
 
-![The keystore password and export button](.gitbook/assets/exportkeystore2.png)
+![](.gitbook/assets/screen-shot-2021-06-04-at-2.47.12-pm.png)
 
 Click OK to save the .keystore file to your computer.
 
-Note: A Thunkable X app project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time
+#### Import keystore to Thunkable
 
-#### Import keystore to Thunkable X
+{% hint style="warning" %}
+Importing a keystore to a Thunkable project will override its existing keystore. Make sure you don't need this project's keystore to publish an update to your app before continuing!
+{% endhint %}
 
-On the Thunkable Cross Platform \([x.thunkable.com](http://x.thunkable.com/)\), select the the app that you are trying to publish as an update to the Google Play Store.
+To import a keystore to a Thunkable project:
 
-Click the name and icon of your app in upper left corner to bring up App Settings on right side.
+* Click the gear icon of on the left hand side of your Design tab your app in upper left corner to bring up App Settings
+* Scroll to Android Keystore and click **Import Keystore**
 
-![](.gitbook/assets/screen-shot-2019-09-10-at-11.11.22-am.png)
+![](.gitbook/assets/screen-shot-2021-06-04-at-2.48.55-pm.png)
 
-Scroll all the way to the bottom of App Settings and click Import Keystore. **Note this will replace the existing keystore for this app so be sure you haven’t used it to publish to Google Play store before proceeding.** You can always Export it first and save it to your computer just in case.
+Enter the password and select the .keystore file you previously saved to your computer into the Import Keystore dialog.
 
-![Enter &#x201C;android&#x201D; as the password](.gitbook/assets/screen-shot-2019-09-10-at-11.11.34-am.png)
-
-Enter the password and select the .keystore file you previously saved to your computer.
-
-Congrats! You should be able to successfully publish updates now. Note that you’ll need to repeat the steps every time you want to update an app that was originally built as a different project as every app has their own keystore.
+![](.gitbook/assets/screen-shot-2021-06-04-at-2.51.09-pm.png)
 
 ## Remove your app from the Play Store
 
@@ -163,4 +248,58 @@ You can see the relevant areas below:
 ![](.gitbook/assets/play_store.png)
 
 Removing your app from the Play Store will not delete it from devices which have previously downloaded the app.
+
+## Sample Assets
+
+### App Icon
+
+![High resolution app icon \(512 x 512 px\)](.gitbook/assets/d-icon-dark.png)
+
+### Feature Graphic
+
+![Feature Graphic \(1024 x 500 px\)](.gitbook/assets/webp.net-resizeimage-11.png)
+
+### Phone/Tablet Screenshots
+
+
+
+![](.gitbook/assets/thunkable-background-image-1080-x-1920-px-11.png)
+
+![App screenshots](.gitbook/assets/thunkable-background-image-1080-x-1920-px-12%20%281%29.png)
+
+## Manage Your Own App Signing
+
+If you don't want Google to manage your App Signing, you can do so yourself. This is not necessary.
+
+### In Thunkable:
+
+#### Download your Keystore Zip
+
+You will need to download your Keystore Zip. This is a compressed version of your app's Android Keystore. 
+
+You can download this from your project settings under **Keystore Zip**:
+
+![](.gitbook/assets/top_keystore.png)
+
+
+
+{% hint style="info" %}
+We recommend creating a new folder on your computer. Download your AAB file and your Keystore Zip to this new folder. That way the correct AAB file and Keystore Zip will be together!
+{% endhint %}
+
+### In the Play Store:
+
+Click **Manage App Signing:**
+
+![](.gitbook/assets/manage-app-signing.png)
+
+Click **Export and upload a key from Java keystore:**
+
+![](.gitbook/assets/export.png)
+
+You can skip straight to **Step 3: Upload generated ZIP** and ****Upload the [Keystore ZIP you downloaded from your project settings.](publish-to-play-store-android.md#download-your-bundle-key-zip)
+
+Click **Continue.**
+
+Continue following the instructions in this document from [Upload your AAB file](publish-to-play-store-android.md#upload-your-aab-file).
 
