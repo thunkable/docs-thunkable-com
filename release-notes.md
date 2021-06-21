@@ -2,6 +2,13 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## June 15, 2021
+
+Platform Updates:
+
+* Introduced ability to generate [AAB file for publishing to Google Play Store](publish-to-play-store-android.md)
+* Improvements to behavior of downloaded APKs from projects that contain renamed assets
+
 ## June 9, 2021
 
 Platform Updates:
