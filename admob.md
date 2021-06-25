@@ -26,7 +26,7 @@ Thunkable also reserves the right to charge up to a 10% maintenance fee for reve
 
 You need an [AdMob account](https://admob.google.com/home/get-started/) to show ads in your project.
 
-Once you have an AdMob account, you will need to paste the following into the [AdMob section of your Project Settings](projects/project-settings.md#admob-settings):
+Once you have an AdMob account, you will need to paste the following into the [AdMob section of your Project Settings](project-settings.md#admob-settings):
 
 * [iOS app ID](https://support.google.com/admob/answer/7356431?hl=en) \(if publishing to App Store\)
 * [Android app ID](https://support.google.com/admob/answer/7356431?hl=en) \(if publishing to Play Store\)

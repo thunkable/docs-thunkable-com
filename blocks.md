@@ -2,7 +2,7 @@
 
 An app is simply a sequence of events.
 
-The best apps define an elegant sequence of events that happen without the user even noticing. A great sign in flow for example can happen in seconds but the logic and sequence behind them is a work of art that has been iterated on many times \(often using Thunkable's [Live Testing](get-started/live-test.md) app\).
+The best apps define an elegant sequence of events that happen without the user even noticing. A great sign in flow for example can happen in seconds but the logic and sequence behind them is a work of art that has been iterated on many times \(often using Thunkable's [Live Testing](live-test.md) app\).
 
 This is where Thunkable Blocks come in.
 

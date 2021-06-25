@@ -10,7 +10,7 @@ description: Tips to get the most from your Thunkable Account
 
 You can find a table of project sizes here:
 
-{% page-ref page="projects/assets.md" %}
+{% page-ref page="assets.md" %}
 
 ### Cloud Storage
 

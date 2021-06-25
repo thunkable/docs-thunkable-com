@@ -33,7 +33,7 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 ### Set a Version Number
 
-You will need to set a version number in your project. You can set your version number in the [Project Settings panel](projects/project-settings.md) under **iOS &gt; Version Number**. 
+You will need to set a version number in your project. You can set your version number in the [Project Settings panel](project-settings.md) under **iOS &gt; Version Number**. 
 
 ![](.gitbook/assets/screen-shot-2021-04-16-at-8.19.42-am.png)
 

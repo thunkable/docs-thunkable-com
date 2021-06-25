@@ -1,7 +1,7 @@
 # 📥 Download
 
 {% hint style="info" %}
-Before you download, we recommend first [adding an App Icon and Name](projects/project-settings.md) to your app
+Before you download, we recommend first [adding an App Icon and Name](project-settings.md) to your app
 {% endhint %}
 
 * [Download limits](download.md#download-limits)
@@ -90,7 +90,7 @@ Common issues
 
 **You cannot install your app and get the message "Cannot connect to storage.googleapis.com"**
 
-* You have a special character like "&" in your [App Name](projects/project-settings.md#app-name)
+* You have a special character like "&" in your [App Name](project-settings.md#app-name)
 
 **When you install your app on Android, you see the message "There was a problem parsing the Package"**
 

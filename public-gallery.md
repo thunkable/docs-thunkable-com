@@ -17,7 +17,7 @@ When browsing the Gallery, here are three things that you can do with public pro
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.46.34-pm.png)
 
 **2. Preview a Project**  
-After downloading the [Thunkable Live mobile app](get-started/live-test.md), you can use the app to preview any public project directly on your mobile device. 
+After downloading the [Thunkable Live mobile app](live-test.md), you can use the app to preview any public project directly on your mobile device. 
 
 ![](.gitbook/assets/thunkable-docs-exhibits-42%20%281%29.png)
 

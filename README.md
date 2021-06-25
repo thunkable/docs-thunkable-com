@@ -10,7 +10,7 @@ On Thunkable, anyone can easily design beautiful apps, program powerful function
 
 You can also build [web apps](https://docs.thunkable.com/publish-as-a-web-app-pro), which are apps that you don't need to download and can be directly accessed online. 
 
-All apps built on Thunkable work for both Android and iOS devices \(see:[ minimum requirements](projects/assets.md)\). 
+All apps built on Thunkable work for both Android and iOS devices \(see:[ minimum requirements](assets.md)\). 
 
 You can get started by remixing existing projects from our [Sample Apps Page](https://docs.thunkable.com/sample-apps) or [Public Gallery](https://docs.thunkable.com/public-gallery).
 
@@ -24,11 +24,11 @@ You can check out our [YouTube channel](https://www.youtube.com/channel/UCTVZRyy
 
 If you're completely new to Thunkable, we recommend starting right here!
 
-{% page-ref page="get-started/" %}
+{% page-ref page="get-started.md" %}
 
 To find out how Thunkable projects work, please read the **Create New Project** section.
 
-{% page-ref page="projects/" %}
+{% page-ref page="projects.md" %}
 
 You can find an overview of all of our components in the **Components and Features** section.
 

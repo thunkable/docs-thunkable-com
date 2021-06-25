@@ -13,7 +13,7 @@ Allow your users to view your favorite PDFs -- legal contracts, art posters or m
 
 ### Upload PDF
 
-You can upload a PDF as an [Asset](projects/assets.md) to your app and display it in the PDF Viewer.
+You can upload a PDF as an [Asset](assets.md) to your app and display it in the PDF Viewer.
 
 ### Use URL
 

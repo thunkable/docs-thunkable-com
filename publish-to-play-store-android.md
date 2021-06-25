@@ -24,7 +24,7 @@ To publish your app on Android, you'll need to add an `app icon`, a `name`, a `p
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.20.26-am.png)
 
-For recommendations on your `app icon` and `name`, [please see this guide](projects/project-settings.md).
+For recommendations on your `app icon` and `name`, [please see this guide](project-settings.md).
 
 ### The Package Name
 

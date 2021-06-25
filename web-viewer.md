@@ -9,7 +9,7 @@ description: >-
 ## Web Viewer Overview
 
 {% hint style="info" %}
-Some websites may not appear when previewing your app on the web. You may need to [Live Test](get-started/live-test.md#live-test) the app on a device, or [download](download.md) and install the app, to see your web page.
+Some websites may not appear when previewing your app on the web. You may need to [Live Test](live-test.md#live-test) the app on a device, or [download](download.md) and install the app, to see your web page.
 {% endhint %}
 
 * [Properties](web-viewer.md#properties)
@@ -57,7 +57,7 @@ You can use blocks to navigate back through previously visited web pages. Once y
 ![](.gitbook/assets/wv_back%20%281%29.png)
 
 {% hint style="info" %}
-The Back block may not work when you test your app on the web, but will work when [Live Testing](get-started/live-test.md#live-test) your app and in [downloaded](download.md) apps
+The Back block may not work when you test your app on the web, but will work when [Live Testing](live-test.md#live-test) your app and in [downloaded](download.md) apps
 {% endhint %}
 
 ## Edit size and position
