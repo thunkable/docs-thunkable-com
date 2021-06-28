@@ -17,9 +17,11 @@ When you first sign in to Thunkable you will be prompted to create a project. To
 
 {% page-ref page="project-settings.md" %}
 
+{% page-ref page="public-gallery.md" %}
+
 {% page-ref page="assets.md" %}
 
-{% page-ref page="public-gallery.md" %}
+{% page-ref page="figma.md" %}
 
 ## Public Projects
 
