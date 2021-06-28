@@ -2,6 +2,12 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## June 25, 2021
+
+Component Updates:
+
+* Improvements to appearance of colors in [Top Tab Navigator](https://docs.thunkable.com/v/drag-and-drop/top-tab-navigator) and [Bottom Tab Navigator](https://docs.thunkable.com/v/drag-and-drop/bottom-tab-navigator) in [Drag and Drop UI](https://docs.thunkable.com/v/drag-and-drop/)
+
 ## June 15, 2021
 
 Platform Updates:
