@@ -8,12 +8,6 @@ description: >-
 
 ## List Viewer Overview
 
-* [Add items to a List Viewer](list-viewer.md#add-items-to-a-list-viewer)
-* [Select item from a List Viewer](list-viewer.md#select-item-from-a-list-viewer)
-* [Style the List Viewer](list-viewer.md#style-the-list-viewer)
-* [Edit the List Viewer height](list-viewer.md#edit-the-listviewer-height)
-* [Add spacing](list-viewer.md#add-spacing)
-
 ![](.gitbook/assets/list-viewer-fig-1.png)
 
 ## Add Items to a List Viewer

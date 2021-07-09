@@ -2,9 +2,6 @@
 
 ## PDF Reader Overview
 
-* [Upload PDF](pdf-reader.md#upload-pdf)
-* [Properties](pdf-reader.md#properties)
-
 Allow your users to view your favorite PDFs -- legal contracts, art posters or maybe even a PhD dissertation -- all from the convenience of your app
 
 ![Bring your favorite PDFs with you in an app!](.gitbook/assets/thunkable-docs-exhibits-40.png)

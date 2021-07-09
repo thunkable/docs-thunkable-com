@@ -24,12 +24,12 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 ## Prepare for Submission
 
-* [Set a Version Number](publish-to-app-store-ios.md#set-a-version-number)
-* [Review Your App Permissions](publish-to-app-store-ios.md#review-your-app-permissions)
-* [Create an Apple Developer Account](publish-to-app-store-ios.md#create-an-apple-developer-account)
-* [Create an App-Specific Password](publish-to-app-store-ios.md#create-an-app-specific-password)
-* [Register an App ID on App Store Connect](publish-to-app-store-ios.md#register-an-app-id-on-app-store-connect)
-* [Create an App Listing on App Store Connect](publish-to-app-store-ios.md#create-an-app-listing-on-app-store-connect)
+1. [Set a Version Number](publish-to-app-store-ios.md#set-a-version-number)
+2. [Review Your App Permissions](publish-to-app-store-ios.md#review-your-app-permissions)
+3. [Create an Apple Developer Account](publish-to-app-store-ios.md#create-an-apple-developer-account)
+4. [Create an App-Specific Password](publish-to-app-store-ios.md#create-an-app-specific-password)
+5. [Register an App ID on App Store Connect](publish-to-app-store-ios.md#register-an-app-id-on-app-store-connect)
+6. [Create an App Listing on App Store Connect](publish-to-app-store-ios.md#create-an-app-listing-on-app-store-connect)
 
 ### Set a Version Number
 
@@ -199,15 +199,15 @@ You will need to use the same **App Name** and **Bundle ID** you registered earl
 
 ## Send a Build to App Store Connect
 
-* [Start the Publishing Process in Thunkable](publish-to-app-store-ios.md#start-the-publishing-process-in-thunkable)
-* [Enter your Apple Developer Account Details](publish-to-app-store-ios.md#enter-your-apple-developer-account-details)
-* [Register Your App ID](publish-to-app-store-ios.md#register-your-app-id)
-* [Enter your App Name, Team ID and Bundle ID](publish-to-app-store-ios.md#enter-your-app-name-team-id-and-bundle-id)
-* [Create a Distribution Certificate](publish-to-app-store-ios.md#create-a-distribution-certificate)
-* [Provision your App](publish-to-app-store-ios.md#provision-your-app)
-* [Enter your App-Specific Password](publish-to-app-store-ios.md#enter-your-app-specific-password)
-* [Create an App Listing on App Store Connect](publish-to-app-store-ios.md#create-an-app-listing-on-app-store-connect-1)
-* [Upload an Icon and enter your Build Number and Version Number](publish-to-app-store-ios.md#upload-an-icon-and-enter-your-build-number-and-version-number)
+1. [Start the Publishing Process in Thunkable](publish-to-app-store-ios.md#start-the-publishing-process-in-thunkable)
+2. [Enter your Apple Developer Account Details](publish-to-app-store-ios.md#enter-your-apple-developer-account-details)
+3. [Register Your App ID](publish-to-app-store-ios.md#register-your-app-id)
+4. [Enter your App Name, Team ID and Bundle ID](publish-to-app-store-ios.md#enter-your-app-name-team-id-and-bundle-id)
+5. [Create a Distribution Certificate](publish-to-app-store-ios.md#create-a-distribution-certificate)
+6. [Provision your App](publish-to-app-store-ios.md#provision-your-app)
+7. [Enter your App-Specific Password](publish-to-app-store-ios.md#enter-your-app-specific-password)
+8. [Create an App Listing on App Store Connect](publish-to-app-store-ios.md#create-an-app-listing-on-app-store-connect-1)
+9. [Upload an Icon and enter your Build Number and Version Number](publish-to-app-store-ios.md#upload-an-icon-and-enter-your-build-number-and-version-number)
 
 ### Start the Publishing process in Thunkable
 
@@ -381,13 +381,13 @@ You should shortly receive an email from Thunkable to let you know that your bui
 
 You will need to provide some information to Apple about your app before it can be reviewed and published. 
 
-* [Connect Your Build to your App Listing](publish-to-app-store-ios.md#connect-your-build-to-your-app-listing)
-* [App Information](publish-to-app-store-ios.md#app-information)
-* [Pricing and Availability](publish-to-app-store-ios.md#pricing-and-availability)
-* [Design assets](publish-to-app-store-ios.md#design-assets)
-* [Export Compliance](publish-to-app-store-ios.md#export-compliance)
-* [Advertising Identifier](publish-to-app-store-ios.md#advertising-identifier)
-* [Click Submit!](publish-to-app-store-ios.md#click-submit)
+1. [Connect Your Build to your App Listing](publish-to-app-store-ios.md#connect-your-build-to-your-app-listing)
+2. [App Information](publish-to-app-store-ios.md#app-information)
+3. [Pricing and Availability](publish-to-app-store-ios.md#pricing-and-availability)
+4. [Design assets](publish-to-app-store-ios.md#design-assets)
+5. [Export Compliance](publish-to-app-store-ios.md#export-compliance)
+6. [Advertising Identifier](publish-to-app-store-ios.md#advertising-identifier)
+7. [Click Submit!](publish-to-app-store-ios.md#click-submit)
 
 ### Connect Your Build to Your App Listing
 

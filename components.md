@@ -14,9 +14,6 @@ UI Components \(User Interface Components\) are components which you can see on 
 
 There are also some App Features you can't see. Examples include sounds, timers, and recording tools. 
 
-* [UI Components](components.md#ui-components)
-* [App Features](components.md#app-features)
-
 ## UI Components
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.49.18-pm.png)

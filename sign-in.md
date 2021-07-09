@@ -1,9 +1,5 @@
 # Email Sign In by Firebase
 
-* [Set up](sign-in.md#set-up)
-* [Basic sign in](sign-in.md#basic-sign-in-)
-* [Manage user access](sign-in.md#managing-user-access)
-
 {% hint style="info" %}
 To use Sign In, you will need to first create your own Firebase account and project
 {% endhint %}

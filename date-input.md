@@ -2,13 +2,6 @@
 
 ## Date Input Overview
 
-* [Getting Started](date-input.md#getting-started)
-* [Set the Date Format](date-input.md#set-the-date-format)
-* [Save the Date](date-input.md#save-the-date)
-* [Events](date-input.md#events)
-* [Functions](date-input.md#functions)
-* [Properties](date-input.md#properties)
-
 A Date Input component is helpful when you want the user of your app to easily select a specific date using the native Android or iOS date picker
 
 ![Native Android Date Picker on the left and iOS on the right](.gitbook/assets/thunkable-docs-exhibits-37.png)

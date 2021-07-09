@@ -1,10 +1,5 @@
 # Math
 
-* [Numeric value](math.md#numeric-value)
-* [Perform calculations](math.md#perform-calculations)
-* [Introduce randomness](math.md#introduce-randomness)
-* [Other](math.md#other)
-
 ## Numeric Value
 
 ### Specify Number

@@ -1,8 +1,5 @@
 # Assistant by Dialogflow
 
-* [Set up](assistant.md#set-up)
-* [Program the Assistant](assistant.md#program-the-assistant-in-dialogflow)
-
 The Assistant component by Google's Dialogflow gives you the power of a Google Home or Amazon Alexa all from the comfort of your mobile device's built-in microphone. 
 
 ## Getting Started

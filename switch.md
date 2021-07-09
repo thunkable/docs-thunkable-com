@@ -2,12 +2,7 @@
 
 Think of a Light Switch. It has two settings, On and Off. That is exactly what the switch component is like.
 
-## Switch Overview <a id="switch-overview"></a>
-
-* ​[Getting Started](https://docs.thunkable.com/switch#getting-started)​
-* ​[Style the Switch](https://docs.thunkable.com/switch#style-the-switch)​
-* ​[Events](https://docs.thunkable.com/switch#events)​
-* ​[Properties](https://docs.thunkable.com/switch#properties)​
+## Switch Overview​ <a id="switch-overview"></a>
 
 A switch is a component that has two settings, true and false. You can get your app to do specific tasks only if the switch is set to true.![](https://gblobscdn.gitbook.com/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LAn5wecEraNWaG7Ig2g%2F-LAn68KdTsbXiRGsjXH9%2Fswitch-%E2%9C%95-fig-1.gif?alt=media)
 

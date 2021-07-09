@@ -2,9 +2,6 @@
 
 ## Rating Overview
 
-* [Events](rating.md#event-blocks)
-* [Properties](rating.md#properties)
-
 The Rating component is a visible component which can be used to display the rating of a product or content in your app, and allow the user to leave their own rating.
 
 A Rating component is made up of 5-10 _icons_. An icon can be filled, partially filled, or empty, as seen below:

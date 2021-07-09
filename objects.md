@@ -1,12 +1,12 @@
 # Objects
 
-The Object blocks pair well with the [Web API](web-api.md), [Map](map.md) and [Location Sensor](location-sensor.md) components which often send data in object format. The [Spreadsheet]() component also requires data to be in object format for it to upload successfully as a row
+The Object blocks pair well with the [Web API](web-api.md), [Map](map.md) and [Location Sensor](location-sensor.md) components which often send data in object format. 
 
 ## Creating an Object
 
 ### Create a New Object
 
-You can use the following block to create a new object. Objects can be uploaded to your [Firebase DB]() as the value of a [cloud variable](variables.md#cloud-variables), or they can be uploaded to an [Airtable DB]() as a row object.
+You can use the following block to create a new object. Objects can be uploaded to your [Firebase DB](variables.md#connecting-a-firebase-realtime-db-to-your-app) as the value of a [cloud variable](variables.md#cloud-variables).
 
 ![](.gitbook/assets/blocks-object-fig-5.png)
 
