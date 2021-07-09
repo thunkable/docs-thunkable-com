@@ -2,13 +2,6 @@
 
 Here are some of the most common issues that our users are running into:
 
-* [Live Test \(iOS\)](./#live-test-ios)
-* [Download \(iOS\)](./#download-ios)
-* [Publish \(iOS\)](./#publish-ios)
-* [Live Test \(Android\)](./#live-test-android)
-* [Download \(Android\)](./#download-android)
-* [Publish \(Android\)](./#publish-android)
-
 ## Live Test \(iOS\)
 
 Common issue

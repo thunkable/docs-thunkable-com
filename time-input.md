@@ -2,13 +2,6 @@
 
 ## Time Input Overview
 
-* [Getting Started](time-input.md#getting-started)
-* [Set the Time Format](time-input.md#set-the-time-format)
-* [Save the Time](time-input.md#save-the-time)
-* [Events](time-input.md#events)
-* [Functions](time-input.md#functions)
-* [Properties](time-input.md#properties)
-
 A Time Input component is helpful when you want the user of your app to easily select a specific time using the native Android or iOS date picker
 
 ![Native Android Time Picker on the left and iOS on the right](.gitbook/assets/thunkable-docs-exhibits-38%20%281%29.png)

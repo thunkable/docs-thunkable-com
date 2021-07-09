@@ -14,9 +14,6 @@ Some features you can see. Let's call these features visible components. Example
 
 Some features you can't see. Let's call these features invisible components. Examples include sounds, timers, and databases. 
 
-* [Visible Components](components.md#visible-components)
-* [Invisible Components](components.md#invisible-or-api-components)
-
 ## Visible Components
 
 ![](.gitbook/assets/image%20%2892%29.png)

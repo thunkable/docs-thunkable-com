@@ -9,15 +9,7 @@ BLE functionality can't be tested with the [Thunkable Live](https://docs.thunkab
 To test the BLE functionality in your app on iOS, please [download](https://docs.thunkable.com/download#download-and-install-ios-app) your app.
 {% endhint %}
 
-## Functions
-
-The BLE component in Thunkable ✕ contains 5 functions, each of which are documented in greater detail below.
-
-* [Scan](bluetooth-low-energy.md#scan)
-* [Connect to Device Id](bluetooth-low-energy.md#connect-to-device-id)
-* [Connect to Device Name](bluetooth-low-energy.md#connect-to-device-name)
-* [Receive](bluetooth-low-energy.md#receive)
-* [Transmit](bluetooth-low-energy.md#transmit)
+## Blocks
 
 ### Scan
 
