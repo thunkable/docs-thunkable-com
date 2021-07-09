@@ -1,5 +1,9 @@
 # Color
 
+* [Set RGBA color](colour.md#set-rgba-color) 
+* [Set RGB color](colour.md#set-rgb-color)
+* [Set HSV color](colour.md#set-hsv-color)
+
 There is a predefined set of colors in the blocks palette
 
 ![](.gitbook/assets/blocks-color-fig-1.png)

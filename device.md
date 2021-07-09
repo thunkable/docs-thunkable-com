@@ -1,5 +1,15 @@
 # Device
 
+* [Vibrate device](device.md#vibrate-device)
+* [Get current time and date](device.md#get-current-time-and-date)
+* [Get Seconds since 1970](device.md#seconds-since-1970)
+* [Get online/offline status](device.md#get-online-offline-status)
+* [Get Screen Height/Width](device.md#screen-height-width)
+* [Get mobile operating system](device.md#get-mobile-operating-system)
+* [Dismiss Keyboard](device.md#dismiss-keyboard)
+* [Keep Screen Awake](device.md#keep-screen-awake)
+* [Get Device Color Scheme](device.md#get-device-color-scheme)
+
 ## Vibrate Device
 
 ![](.gitbook/assets/vibrate.png)

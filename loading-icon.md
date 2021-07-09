@@ -6,6 +6,10 @@
 
 ## Loading Icon Overview
 
+* [Style the Icon](loading-icon.md#style-the-loading-icon)
+* [Show or Hide the Icon](loading-icon.md#showing-and-hiding-the-loading-icon)
+* [Properties](loading-icon.md#properties)
+
 For activities that take more than a few seconds, loading icons can be helpful to tell your app users that an activity is happening in the background, such as retrieving or uploading data.
 
 ![The large loading icon is on the top; the small is on the bottom on a Pixel 3](.gitbook/assets/ezgif.com-crop.gif)
@@ -50,8 +54,4 @@ When the visibility is set to true, the loading icon will be seen on the app scr
 ### Width
 
 ![](.gitbook/assets/width%20%288%29.png)
-
-## See Also
-
-You can use the [Animation](lottie.md) component to display a JSON animation from Lottie in your project. Lottie offer a wide range of animations that can be displayed as content in your project loads.
 

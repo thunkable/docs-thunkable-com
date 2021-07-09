@@ -1,5 +1,7 @@
 # Location Sensor
 
+* [Get user's current location](location-sensor.md#get-users-current-location-and-other-related-information)
+
 ![](.gitbook/assets/location-sensor-fig-1.png)
 
 ## Get User's Current Location

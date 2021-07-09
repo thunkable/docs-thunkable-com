@@ -1,5 +1,13 @@
 # Assistant by Dialogflow
 
+{% hint style="danger" %}
+**Warning:** V1 of Dialogflow's API will be shut down on October 23, 2019. Please follow these instructions to upgrade to V2.
+{% endhint %}
+
+* [Set up](assistant.md#set-up)
+* [Program the Assistant](assistant.md#program-the-assistant-in-dialogflow)
+* [Upgrade from V1 to V2](assistant.md#upgrade-from-v1-to-v2)
+
 The Assistant component by Google's Dialogflow gives you the power of a Google Home or Amazon Alexa all from the comfort of your mobile device's built-in microphone. 
 
 ## Getting Started

@@ -1,5 +1,9 @@
 # Text
 
+* [Text value](text.md#text-value)
+* [Reformat text](text.md#reformat-text)
+* [Analyze text](text.md#analyze-text)
+
 ## Text Value
 
 ### String

@@ -6,6 +6,12 @@ description: The video component lets you play videos in your app.
 
 ## Video Overview
 
+* [Set Video](video.md#set-video)
+* [Edit Video size](video.md#edit-video-size)
+* [Set to Auto-Play](video.md#set-to-auto-play)
+* [Change Video](video.md#change-video)
+* [Pause or Un-Pause](video.md#pause-or-un-pause)
+
 {% hint style="warning" %}
 Please note that video files can be quite large and might exceed the 50 MB [size limit](projects/assets.md#app-size-limits-50-mb-per-app) for your project. 
 {% endhint %}

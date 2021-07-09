@@ -8,6 +8,8 @@ description: A column is a vertical container that allows you to stack component
 
 {% embed url="https://youtu.be/\_D-Y7iiW8qM" %}
 
+## Overview
+
 ![](.gitbook/assets/thunkable-documentation-exhibits-65.png)
 
 ## Set the Size of a Column

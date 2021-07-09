@@ -1,5 +1,12 @@
 # Lists
 
+* [Create a list](lists.md#create-a-list)
+* [Sort list](lists.md#sort-list)
+* [Select from a list](lists.md#select-from-a-list)
+* [Analyze list](lists.md#analyze-list)
+* [Modify list](lists.md#modify-list)
+* [Shuffle list](lists.md#shuffle-list)
+
 ## Create a List
 
 You can create a list of variable lengths with the blocks below

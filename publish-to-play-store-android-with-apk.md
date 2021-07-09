@@ -10,6 +10,13 @@ We recommend publishing your Android app as an Android App Bundle \(AAB\). These
 
 Publishing your app to the Play Store is a relatively straightforward process and will help your app reach 2 billion active Android devices.
 
+* [Minimum requirements](publish-to-play-store-android.md#minimum-requirements)
+* [App info](publish-to-play-store-android.md#app-info)
+* [Download your Android app](publish-to-play-store-android.md#download-your-android-app)
+* [Submit your app for review](publish-to-play-store-android.md#submit-your-app-for-review)
+* [Updating an existing app on the Play Store](publish-to-play-store-android.md#updating-an-existing-app-on-the-play-store)
+* [Remove your app from the Play Store](publish-to-play-store-android.md#remove-your-app-from-the-play-store)
+
 ## Minimum requirements
 
 * Google Play Developer Account \($25 one-time fee\). Don't have an account? [**Sign up here**](https://play.google.com/apps/publish/signup/)

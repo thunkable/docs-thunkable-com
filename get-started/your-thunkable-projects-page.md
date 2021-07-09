@@ -4,6 +4,14 @@ description: Navigate and filter your projects
 
 # Your Thunkable Projects Page
 
+* [Your Projects Page](your-thunkable-projects-page.md#your-projects-page)
+* [Viewing Your Projects](your-thunkable-projects-page.md#viewing-your-projects)
+* [Filtering Your Projects](your-thunkable-projects-page.md#filtering-your-projects)
+  * [Search Bar](your-thunkable-projects-page.md#search-bar)
+  * [Filter public/private projects](your-thunkable-projects-page.md#filter-public-private-projects)
+* [Your Project Menu - Delete, Duplicate, and more](your-thunkable-projects-page.md#your-project-menu-delete-duplicate-and-more)
+  * [Your Project Detail Page](your-thunkable-projects-page.md#your-project-detail-page)
+
 ## Your projects Page
 
 You can find your projects page at [x.thunkable.com/projects](https://x.thunkable.com/projects).   

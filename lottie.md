@@ -8,6 +8,11 @@
 
 ## Animation Overview
 
+* [Set up](lottie.md#set-up)
+* [Edit Animation size](lottie.md#edit-animation-size)
+* [Events](lottie.md#events)
+* Properties
+
 The Animation component powered by [Lottie ](https://airbnb.design/lottie/)makes adding animations as easy as adding images. For designers, animations can be created in [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) or [Haiku](https://www.haiku.ai/) and imported as a `.json` file.
 
 For the rest of us, there is a large and growing community of designers who have [created free and editable animations](https://www.lottiefiles.com/community) that you can easily add to your app.
