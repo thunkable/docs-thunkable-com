@@ -2,6 +2,22 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## July 13, 2021
+
+Platform Updates:
+
+* Upgrades to some backend packages
+
+Component Updates:
+
+* [Speech Recognizer](speech-recognizer.md): Update method used to return output
+
+## July 7, 2021
+
+Platform Updates:
+
+* Minor updates to the project Designer
+
 ## June 25, 2021
 
 Component Updates:
