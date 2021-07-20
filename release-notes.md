@@ -2,6 +2,32 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## July 20, 2020
+
+Platform Updates:
+
+* Restore App Store publishing to PRO Thunkers on all plans
+
+## July 19, 2020
+
+Platform Updates:
+
+* [New Pricing Plan](https://blog.thunkable.com/summer-release-announcements-product-updates-and-packaging-pricing-changes-f5421f0b4945)
+
+Component Updates:
+
+* Web Viewer: Only call Reload function if the URL field is not blank
+
+## July 15, 2021
+
+Platform Updates:
+
+* Changes to how documents uploaded to the Thunkable project are stored
+
+Component Updates:
+
+* Data Source: fixed bug where create row and delete all rows blocks behaved as a break condition
+
 ## July 13, 2021
 
 Platform Updates:

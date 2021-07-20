@@ -194,11 +194,11 @@ Thunkable does not store your keystore outside of your app. If your app has been
 
 ### Exporting / importing a keystore to your app
 
-#### Export keystore from Thunkable
+#### Export keystore from Thunkable X
 
-If you make a copy of a Thunkable app project, the copy will have a different keystore to the original project. 
+If you make a copy of a Thunkable X app project, the copy will have a different keystore to the original project. 
 
-To export a keystore from a Thunkable app project, Click the name and icon of your app in upper left corner to bring up App Settings on right side as seen in 'Import keystore to Thunkable X'. Scroll all the way to the bottom of the App Settings and click Export Keystore. 
+To export a keystore from a Thunkable X app project, Click the name and icon of your app in upper left corner to bring up App Settings on right side as seen in 'Import keystore to Thunkable X'. Scroll all the way to the bottom of the App Settings and click Export Keystore. 
 
 In the dialog that comes up, you will see the keystore's password and a button that says Export Keystore. You will need this password to import your keystore to other projects. You can change the password at this stage by editing the password in the text box.
 
@@ -206,11 +206,11 @@ In the dialog that comes up, you will see the keystore's password and a button t
 
 Click OK to save the .keystore file to your computer.
 
-Note: A Thunkable app project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time
+Note: A Thunkable X app project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time
 
-#### Import keystore to Thunkable
+#### Import keystore to Thunkable X
 
-Select the the app that you are trying to publish as an update to the Google Play Store.
+On the Thunkable Cross Platform \([x.thunkable.com](http://x.thunkable.com/)\), select the the app that you are trying to publish as an update to the Google Play Store.
 
 Click the name and icon of your app in upper left corner to bring up App Settings on right side.
 
