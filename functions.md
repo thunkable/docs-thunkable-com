@@ -1,9 +1,5 @@
 # Functions
 
-* [Create a function](functions.md#create-a-function)
-* [Create a function with an output](functions.md#create-a-function-with-an-output)
-* [Create a conditional function](functions.md#create-a-conditional-function)
-
 ## Create a function
 
 ![](.gitbook/assets/blocks-function-fig-1.png)

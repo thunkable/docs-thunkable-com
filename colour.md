@@ -1,9 +1,5 @@
 # Color
 
-* [Set RGBA color](colour.md#set-rgba-color) 
-* [Set RGB color](colour.md#set-rgb-color)
-* [Set HSV color](colour.md#set-hsv-color)
-
 There is a predefined set of colors in the blocks palette
 
 ![](.gitbook/assets/blocks-color-fig-1.png)
@@ -35,4 +31,10 @@ or you can choose one at random
 A popular alternative to setting RGB color is to set Hue, Saturation and Value colors with the block below
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.42.44-am.png)
+
+## Set Hex Color
+
+You can use a [Text](text.md) block to include a hex value for your preferred color:
+
+![](.gitbook/assets/screen-shot-2021-07-22-at-9.05.35-am.png)
 

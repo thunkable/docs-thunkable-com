@@ -10,15 +10,6 @@ description: >-
 
 {% embed url="https://youtu.be/\_D-Y7iiW8qM" %}
 
-
-
-## Overview
-
-* [Set the size of the row](row.md#set-size-of-the-row)
-* [Space the elements horizontally](row.md#space-the-elements-horizontally)
-* [Space the elements vertically](row.md#space-the-elements-vertically)
-* [Add a background color or picture](row.md#add-a-background-color-or-picture)
-
 ![](.gitbook/assets/row-fig-1.png)
 
 ## **Set the Size of a Row**

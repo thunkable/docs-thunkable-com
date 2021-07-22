@@ -12,12 +12,6 @@ description: >-
 
 
 
-## Button Overview
-
-* [Style the Button](button.md#style-the-button)
-* [Edit the Button size](button.md#edit-the-button-size)
-* [Programming the Button](button.md#start-an-event-from-a-button-click)
-
 ![](.gitbook/assets/button-fig-1.png)
 
 A button is just something you can click on to perform an action. This action can be anything from navigating to a different screen, saving information to a database, or playing a sound.

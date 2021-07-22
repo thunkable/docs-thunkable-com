@@ -4,12 +4,6 @@ description: Record videos to play in your app or save to the cloud.
 
 # Video Recorder
 
-## Video Recorder Overview
-
-* [Record a Video](video-recorder.md#record-a-video) 
-* [Functions](video-recorder.md#functions)
-* [Properties](video-recorder.md#properties)
-
 ## Record a Video
 
 You can record a timed video, where the app records for a set amount of time, or an untimed video, where the user can choose how long to film for.

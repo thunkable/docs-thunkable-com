@@ -4,10 +4,6 @@
 Before you download, we recommend first [adding an App Icon and Name](projects/settings.md) to your app
 {% endhint %}
 
-* [Download limits](download.md#download-limits)
-* [Download and install Android app](download.md#download-and-install-android-app)
-* [Download and install iOS app](download.md#download-and-install-ios-app)
-
 ## iOS Download limits
 
 Due to special circumstances from Apple, there is a limit of one downloaded app per phone on iOS. Download wait times may also be a bit longer. You can download and install as many apps as you like to your Android device.
