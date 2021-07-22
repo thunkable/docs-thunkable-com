@@ -75,13 +75,13 @@ This event will fire when the user clicks on the label.
 
 ![](.gitbook/assets/bg_color%20%282%29.png)
 
-The get and set background color properties work with the color of the label itself i.e. the region behind the label text. Best practice is to use one of the [color blocks](colour.md) to set this value but HEX or RGB values may be used too.
+The get and set background color properties work with the color of the label itself i.e. the region behind the label text. Best practice is to use one of the [color blocks](color.md) to set this value but HEX or RGB values may be used too.
 
 ### Color 
 
 ![](.gitbook/assets/color.png)
 
-The get and set color properties can be used to work with the color of the text that is displayed in the label. Best practice is to use one of the [color blocks](colour.md) to set this value but HEX or RGB values may be used too. 
+The get and set color properties can be used to work with the color of the text that is displayed in the label. Best practice is to use one of the [color blocks](color.md) to set this value but HEX or RGB values may be used too. 
 
 ### Font Size 
 

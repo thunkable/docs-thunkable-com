@@ -774,7 +774,7 @@ Component updates
 
 Block updates
 
-* [Color](colour.md) - added the ability to [set color by Hue, Saturation and Value](colour.md#set-hsv-color)
+* [Color](color.md) - added the ability to [set color by Hue, Saturation and Value](color.md#set-hsv-color)
 
 ## Dec 14, 2018
 

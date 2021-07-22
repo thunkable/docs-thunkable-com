@@ -20,7 +20,7 @@ They can be connected to a commonly used set of blocks that range from opening s
 
 {% page-ref page="lists.md" %}
 
-{% page-ref page="colour.md" %}
+{% page-ref page="color.md" %}
 
 {% page-ref page="objects.md" %}
 

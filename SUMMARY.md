@@ -97,7 +97,7 @@
 * [Math](math.md)
 * [Text](text.md)
 * [Lists](lists.md)
-* [Color](colour.md)
+* [Color](color.md)
 * [Objects](objects.md)
 * [Device](device.md)
 * [Variables](variables.md)
