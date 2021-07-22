@@ -89,7 +89,7 @@ Performs an action after the user releases the button
 
 ![](.gitbook/assets/bg_color%20%281%29.png)
 
-The get and set background color properties work with the color of the button itself i.e. the region behind the button text. Best practice is to use one of the built [color blocks](colour.md) to set this value, but you can use HEX and RGB values too.
+The get and set background color properties work with the color of the button itself i.e. the region behind the button text. Best practice is to use one of the built [color blocks](color.md) to set this value, but you can use HEX and RGB values too.
 
 ### Background Picture
 
@@ -164,7 +164,7 @@ This property corresponds to the text that is displayed in the button component.
 
 ![](.gitbook/assets/text_color.png)
 
-The get and set text color properties can be used to work with the color of the text displayed on the button. Best practice is to use one of the [color blocks](colour.md) to set this value but you can use HEX and RGB values too.
+The get and set text color properties can be used to work with the color of the text displayed on the button. Best practice is to use one of the [color blocks](color.md) to set this value but you can use HEX and RGB values too.
 
 ### Visible
 
