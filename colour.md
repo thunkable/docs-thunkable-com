@@ -32,3 +32,9 @@ A popular alternative to setting RGB color is to set Hue, Saturation and Value c
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.42.44-am.png)
 
+## Set Hex Color
+
+You can use a [Text](text.md) block to include a hex value for your preferred color:
+
+![](.gitbook/assets/screen-shot-2021-07-22-at-9.05.35-am.png)
+
