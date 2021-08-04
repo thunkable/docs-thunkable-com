@@ -82,7 +82,19 @@ These blocks will return a value assuming the input is given in **degrees**.
 
 For games and other apps, it may be important to introduce randomness into your app
 
-![](.gitbook/assets/blocks-math-fig-11.png)![](.gitbook/assets/blocks-math-fig-12.png)
+### Random Integer from X to Y
+
+Returns a random integer between two given integers. Is inclusive of the given integers.
+
+![](.gitbook/assets/blocks-math-fig-11.png)
+
+### Random Fraction
+
+Returns a random fraction between 0 and 1.0.
+
+![](.gitbook/assets/blocks-math-fig-12.png)
+
+#### Other Ways to add randomness to your app
 
 The [Lists](lists.md) blocks also have blocks for selecting [random items from a list of values](lists.md#sum-min-max-averages-standard-deviation-random-item).
 
