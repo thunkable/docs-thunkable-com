@@ -80,9 +80,13 @@ These blocks will return a value assuming the input is given in **degrees**.
 
 ## Introduce Randomness
 
-For games and other apps, it may be important to introduce randomness into your app
+For games and other apps, it may be important to introduce randomness into your app.
+
+
 
 ### Random Integer from X to Y
+
+Returns integer between two given integers. Is inclusive of the given integers.
 
 Returns a random integer between two given integers. Is inclusive of the given integers.
 
@@ -90,7 +94,7 @@ Returns a random integer between two given integers. Is inclusive of the given i
 
 ### Random Fraction
 
-Returns a random fraction between 0 and 1.0.
+Returns a random fraction $$x $$ where $$0 ≤ x < 1$$
 
 ![](.gitbook/assets/blocks-math-fig-12.png)
 
