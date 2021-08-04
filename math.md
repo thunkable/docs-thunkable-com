@@ -90,7 +90,7 @@ Returns integer between two given integers. Is inclusive of the given integers.
 
 ### Random Fraction
 
-Returns random fraction between 0 and 1.0.
+Returns a random fraction $$x $$ where $$0 ≤ x < 1$$
 
 ![](.gitbook/assets/blocks-math-fig-12.png)
 
