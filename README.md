@@ -26,15 +26,15 @@ If you're completely new to Thunkable, we recommend starting right here!
 
 {% page-ref page="get-started.md" %}
 
-To find out how Thunkable projects work, please read the **Create New Project** section.
+If you're ready to start building, head to our **Create New Project** section:
 
 {% page-ref page="projects.md" %}
 
-You can find an overview of all of our components in the **Components and Features** section.
+Learn about the components and functionality you can add to your project in the **Components and Features** section:
 
 {% page-ref page="components.md" %}
 
-To learn how to program your app with drag & drop blocks, please click on the **Blocks** section.
+To learn how to program your app with drag & drop blocks, please click on the **Blocks** section:
 
 {% page-ref page="blocks.md" %}
 
@@ -46,7 +46,21 @@ To learn how to program your app with drag & drop blocks, please click on the **
 
 ## Pricing and Membership
 
-Thunkable is completely free for anyone to use - simply sign in and start building! 
+You can get started building with Thunkable today for free!
 
-In addition to our free memberships, we also offer [Thunkable PRO](https://thunkable.com/#/pricing) memberships for users who want access additional features, such as extra storage or advanced components. Please take a look at our [pricing page](https://thunkable.com/#/pricing) to see a side-by-side comparison.
+As you progress as a developer with Thunkable, we offer different membership tiers that allow you to build more and do more.
+
+This includes:
+
+🖥️ Publishing web apps  
+💰 Showing AdMob ads in your app  
+🙈 Making Private Apps  
+⚡ Expedited Publishing  
+📢 Adding Push Notifications to your app  
+📱 Creating a Personalized Splash Screen  
+and more!
+
+Thunkable offers plans to suit individual and business needs.
+
+[Read more about the memberships Thunkable offers.](https://thunkable.com/#/pricing)
 
