@@ -13,6 +13,8 @@ If this behavior is affecting your project, we recommend displaying your text on
 
 You can customize your label using the following properties: 
 
+### Properties
+
 * **Text:** Text that appears on the label
 * **Font:** Choose between [Open Sans](https://fonts.google.com/specimen/Open+Sans), [Roboto](https://fonts.google.com/specimen/Roboto), [Oswald](https://fonts.google.com/specimen/Oswald), [Lato](https://fonts.google.com/specimen/Lato) and [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
 * **Font Size:** Size of the text that appears on the label
@@ -28,12 +30,31 @@ You can customize your label using the following properties:
   * **Normal:** Default text display
   * **Italic:** Display the text in italics
 * **Font Weight:** Select how bold the text on the label will be
+* **Number of Lines:** set a maximum amount of lines of text that your Label will display
+
+### Advanced Properties
+
+* **Letter Spacing \(iOS and web only\):** increase spacing between letters of your Label
+* **Text Decoration Line:** add a line through, underline, or both with underline line-through
+* **Text Decoration Style \(iOS and web only\):** set your Text Decoration line to be solid, dotted, dashed, or double
+* **Text Decoration Color \(iOS and web only\):** set the color of your Text Decoration Line
+* **Writing Direction \(iOS and web only\):** set the writing direction of your Label's text
+
+### **Layout**
+
+* **X:** set the location of your Label on the X-axis in pixels
+* **Y:** set the location of your Label on the Y-axis in pixels
+* **Height:** set the Height of your Label in pixels
+* **Width:** set the Width of your Label in pixels
 * **Visible:** To see the label in your app, set the switch to true
-* **Border**
-  * **Width:** Enter how wide you want the border outline of the label to be
-  * **Color:** Pick a color for the border of the label
-  * **Style:** Select if you want the border of the label to be a dotted, dashed or solid line
-  * **Radius:** Enter how round you want the edges of the border for the label to be
+
+### Style
+
+* **Background Color:** set the color of your Label's background
+* **Border Width:** Enter how wide you want the border outline of the label to be
+* **Border** **Radius:** Enter how round you want the edges of the border for the label to be
+* **Border Color:** Pick a color for the border of the label
+* **Border Style:** Select if you want the border of the label to be a dotted, dashed or solid line
 
 ## Edit size and position
 
