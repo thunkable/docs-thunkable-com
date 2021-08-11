@@ -2,6 +2,12 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## August 3, 2020
+
+Component Updates:
+
+* Drag and Drop UI: New properties added to [Label](https://docs.thunkable.com/v/drag-and-drop/label) and [List Viewer](https://docs.thunkable.com/v/drag-and-drop/list-viewer)
+
 ## July 20, 2020
 
 Platform Updates:
