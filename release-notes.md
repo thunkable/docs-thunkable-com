@@ -2,19 +2,19 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
-## August 3, 2020
+## August 3, 2021
 
 Component Updates:
 
 * Drag and Drop UI: New properties added to [Label](https://docs.thunkable.com/v/drag-and-drop/label) and [List Viewer](https://docs.thunkable.com/v/drag-and-drop/list-viewer)
 
-## July 20, 2020
+## July 20, 2021
 
 Platform Updates:
 
 * Restore App Store publishing to PRO Thunkers on all plans
 
-## July 19, 2020
+## July 19, 2021
 
 Platform Updates:
 
