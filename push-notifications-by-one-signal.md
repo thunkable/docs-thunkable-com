@@ -48,7 +48,7 @@ To edit the properties of the Push Notifications component, click on the ⚙ ico
 
 ## Sign up with One Signal
 
-One Signal is a free service that supports unlimited devices and notifications. They make money by selling your users' data to 3rd parties.
+One Signal is a free service that supports unlimited devices and notifications. You can learn more about their features on the OneSignal [pricing page](https://onesignal.com/pricing)
 
 * Go to [One Signal](https://onesignal.com/) and sign up for an account
 
