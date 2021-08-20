@@ -18,58 +18,28 @@ Some websites may not appear when previewing your app on the web. You may need t
 
 In the Design panel, you can set many properties of the Web Viewer.
 
-### Simple
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| URL | Set initial URL to be displayed in the Web Viewer. Should begin with HTTPS:// | URL |
 
-**URL:** Set initial URL to be displayed in the Web Viewer  
-**Height:** Set Height of Web Viewer  
-**Width:** Set Width of Web Viewer  
-**Visible:** Toggle whether or not the Web Viewer is visible in the app  
-**Margin \(top, bottom, left, right\):** Set a defined distance between the Web Viewer and its neighboring components on the Screen  
-**Padding \(top, bottom, left, right\):** Set a defined distance between the border of the Web Viewer and its contents  
-**Border:** Set the **width, radius, color** and **style** of a border around the perimeter of the Web Viewer 
+### Layout
 
-## Set URL
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| X | Location of top left corner of Web viewer on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Web Viewer in pixels | Number |
+| Width | Width of Web Viewer in pixels | Number |
+| Visible | Set whether the Web Viewer is visible | True/False |
 
-To open up a website in your app, you need to provide  the Web Viewer with a URL. 
+### **Style**
 
-A URL is kind of like a street address - it tells the web viewer the location of the website on the internet.
-
-* **URL:** Enter in the link to the website or an image. The URL must include https:// 
-
-![](.gitbook/assets/wv_url.png)
-
-Note: Can also accept .html files that have been uploaded to the app \(great for offline use\). 
-
-## Go Back/Forward
-
-You can use blocks to navigate back through previously visited web pages. Once you have gone back, you can also use blocks to navigate forward through your visited pages again.
-
-![](.gitbook/assets/wv_back%20%281%29.png)
-
-{% hint style="info" %}
-The Back block may not work when you test your app on the web, but will work when [Live Testing](live-test.md#live-test) your app and in [downloaded](download.md) apps
-{% endhint %}
-
-## Edit size and position
-
-You can drag and drop your component into position, and set its size.   
-You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
-
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
-
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
-
-## Manage Permissions
-
-You can toggle whether the Web Viewer automatically requests the user's location. Some websites require access to the user's location to work. However, if you do not plan on displaying a website that needs this permission in your app, then you may not want your app to request an unnecessary permission.
-
-To set whether or not the Web Viewer requests the user's location, go to the Design tab and click on your Web Viewer. In the panel on the right hand side of the screen, click on the **Advanced** tab.
-
-![Advanced tab of Web Viewer component](.gitbook/assets/webviewer.png)
-
-Scroll down until you see a switch labeled **Geolocation Enabled**. Use this switch to toggle whether your Web Viewer requests the user's location.
+| **Property** | Description | Data Type |
+| :--- | :--- | :--- |
+| Border Width | Width of border around Web Viewer in pixels | Number |
+| Border Radius | Radius of corners of border on Web Viewer in degrees | Number |
+| Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
+| Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
 
 ## Blocks
 
@@ -127,58 +97,29 @@ Returns any message that was received after calling the Post Message function.
 
 ### Properties
 
-#### Height 
+#### Computed Height 
 
-![](.gitbook/assets/height%20%284%29.png)
+![](.gitbook/assets/height.jpg)
 
-The set and get height blocks work with the Height property of the web viewer component. Acceptable input values are. 
+Returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the web viewer in pixels.
 
-* Number of Pixels
-* Percentage Height
-* "Fit Contents"
-* "Fill Container"
+#### Computed Width 
 
-The `Computed Height`block returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the web viewer in pixels.
+![](.gitbook/assets/width%20%2810%29.png)
 
-### 
-
-#### Width 
-
-![](.gitbook/assets/width%20%285%29.png)
-
-The set and get width blocks work with the Width property of the web viewer component. Acceptable input values are. 
-
-* Number of Pixels
-* Percentage Width
-* "Fit Contents"
-* "Fill Container"
-
-The `Computed Width`block returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the web viewer in pixels.
-
-
+Returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the web viewer in pixels.
 
 #### Visible
-
-###  
 
 ![](.gitbook/assets/visible%20%283%29.png)
 
 
 
-The set and get visible blocks are used to show or hide the entire button component. Acceptable values are:
-
-* True
-* False
+The set and get visible blocks are used to show or hide the entire component. 
 
 #### URL
 
 ![](.gitbook/assets/url.png)
 
-The set URL block is used to change the web address that is displayed in the web viewer. Please note that this block need to be used in conjunction with the [reload](web-viewer.md#reload) function and the web viewer only supports connections via https. If you try to use http your website will not be displayed.
-
-The get URL block returns the "default" url in your project, i.e the value that you set in the designer. At this time it does not dynamically return the URL of the pages that is currently being displayed. 
-
-
-
-
+The set URL block is used to change the web address that is displayed in the web viewer. Using HTTPS URLs is recommended.
 
