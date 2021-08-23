@@ -2,6 +2,24 @@
 
 Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
 
+## August 18, 2021
+
+Platform Updates:
+
+* Make [Web Apps](publish-as-a-web-app-pro.md) more compatible with tablets, changing device orientation
+* Improve handling of uploaded files
+
+Component Updates:
+
+* [Share](share.md): enable sharing base 64 images on Android
+* [AdMob](admob.md): Improve behavior of Reward User block for Rewarded Video ads
+
+## August 12, 2021
+
+Platform Updates:
+
+* Improvements to appearance of project designer
+
 ## August 3, 2021
 
 Component Updates:
