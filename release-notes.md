@@ -1,7 +1,5 @@
 # 📰 Release Notes
 
-Looking for what's coming soon to Thunkable's Drag and Drop UI? [Click here](https://docs.thunkable.com/v/drag-and-drop/coming-soon)!
-
 ## August 18, 2021
 
 Platform Updates:
