@@ -102,5 +102,4 @@
   * [FAQs](troubleshooting/faqs.md)
 * [💾 Managing Storage](managing-storage.md)
 * [📝 Bugs and Feature Requests](bugs-and-feature-requests.md)
-* [🗞️ Coming Soon](coming-soon.md)
 
