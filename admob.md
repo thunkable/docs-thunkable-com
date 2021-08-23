@@ -157,9 +157,9 @@ You will see a dialog where you can set:
 
 #### Events
 
-Use the **when Ad Open** and **when Ad Close** blocks to trigger events to happen when the interstitial ad opens or closes.
+Use the **when Ad Close** block to trigger events to happen when the interstitial closes.
 
-![](.gitbook/assets/admob-video-blocks-events.png)
+![](.gitbook/assets/admob-video-blocks-events%20%281%29.png)
 
 #### Actions
 
