@@ -6,152 +6,107 @@ The Slider is a great UI element to enable users easily select a value from a fi
 
 ![](.gitbook/assets/slider-fig-2.png)
 
-## 
+## Properties
 
-## Getting Started
+### Slider
 
-To set up a slider, you'll have to first define the `minimum` and `maximum` values, the initial `value` and the incremental `steps` of the slider
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| Minimum Value | Minimum value the user can select. Must be less than Maximum Value. | Number |
+| Maximum Value | Maximum value the user can select. Must be greater than Minimum Value. | Number |
+| Value | Initial value of the Slider | Number |
+| Step | Step between values on the Slider | Number |
+| Minimum Track Tint Color | Color of Slider track between minimum value and current value | Color |
+| Maximum Track Tint Color | Color of Slider track between current value and maximum value | Color |
+| Thumb Tint Color | Color of the Slider thumb widget | Color |
+| Disabled | Toggle whether value Switch can be changed by user | True/False |
 
-We recommend using a Label with the Slider so that users can get immediate feedback on the value being set.
+### Layout
+
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| X | Location of top left corner of Slider on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Slider on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Slider in pixels | Number |
+| Width | Width of Slider in pixels | Number |
+| Visible | Set whether the Slider is visible | True/False |
+
+### **Style**
+
+| **Property** | Description | Data Type |
+| :--- | :--- | :--- |
+| Border Width | Width of border around Slider in pixels | Number |
+| Border Radius | Radius of corners of border on Slider in degrees | Number |
+| Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
+| Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
+
+## Blocks
+
+### Events 
+
+#### On Value Change
 
 ![](.gitbook/assets/slider_change.png)
 
-| Property | Description |
-| :--- | :--- |
-| Minimum Value | Default \(`0`\); Minimum and leftmost value of the Slider |
-| Maximum Value | Default \(`100`\); Maximum and rightmost value of the Slide |
-| Value | Default \(`0`\); Initial value of the Slider |
-| Step | Default \(`0`\); Increments of the Slider |
+Fires as the value of the slider changes. Returns the current value of the Slider.
 
-## Style the Slider
+#### On Sliding Complete
 
-* **Minimum Track Tint Color:** Color of the slider track to the left of the thumb
-* **Maximum Track Tint Color:** Color of the slider track to the right of the thumb
-* **Thumb Tint Color \(Android only\):** Color of the thumb
-* **Border:** 
-  * **Width:** Enter how wide you want the border outline of the Slider to be
-  * **Color:** Pick a color for the border of the Slider
-  * **Style:** Select if you want the border to be a dotted, dashed or solid line
-  * **Radius:** Enter how round you want the edges of the border for the Slider to be
+![](.gitbook/assets/screen-shot-2021-08-24-at-3.15.58-pm.png)
 
-| Property | Description |
-| :--- | :--- |
-| Minimum Track Tint Color | Default \(`none`\); Color of the slider track to the left of the thumb |
-| Maximum Track Tint Color | Default \(`none`\); Color of the slider track to the right of the thumb |
-| Thumb Tint Color \(Android only\) | Default \(`none`\); Color of the thumb |
-| Border | Default \(`none`\); You can add a border with customized `width`, `color`, `style (solid, dotted, dashed)`and `borderRadius` |
+Fires when the user takes their thumb off the Slider. Returns the current value of the Slider.
 
-## Edit size and position
+### Properties
 
-You can drag and drop your component into position, and set its size.   
-You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+Set and get the [properties](slider.md#properties) of the Slider.
 
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
-
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
-
-## Events 
-
-### On Sliding Complete
-
-![](.gitbook/assets/on_sliding_complete.png)
-
-When the user takes their finger off the slider. The event returns the value that the slider has settled on.
-
-Please note that the `on Sliding Complete`  event does not work in web preview
-
-### On Value Change
-
-![](.gitbook/assets/on_value_change.png)
-
-This event fires each time the slider moves to a new position. Each time a new values is selected this event will return an updated value.
-
-## Properties
-
-### Disabled 
-
-![](.gitbook/assets/disabled%20%282%29.png)
-
-### Height 
-
-![](.gitbook/assets/height%20%287%29.png)
-
-The set and get height blocks work with the Height property of the slider component. Acceptable input values are. 
-
-* Number of Pixels
-* Percentage Height
-* "Fit Contents"
-* "Fill Container"
-
-The `Computed Height`block returns the on-screen dimensions of the slider, after it has been rendered on-screen. The value returned is an integer, representing the size of the slider in pixels.
-
-### Maximum Track Tint Color
-
-###  
-
-![](.gitbook/assets/max_track_tint_color.png)
-
-Set or get the color of the right side of the slider.
-
-### Maximum Value
-
-![](.gitbook/assets/max_value.png)
-
-Set or get the biggest value of the slider
-
-### Minimum Track Tint Color 
-
-![](.gitbook/assets/min_track_tint_color.png)
-
-Set or get the color of the left side of the slider
-
-### Minimum Value
+#### Minimum Value
 
 ![](.gitbook/assets/min_value.png)
 
-Set or get the smallest value of the slider
+#### Maximum Value
 
-### Step 
+![](.gitbook/assets/max_value.png)
 
-![](.gitbook/assets/step.png)
-
-Set or get the step-size, also known as the increment, of the slider.
-
-### Thumb Tint Color 
-
-![](.gitbook/assets/thumb_tint_color%20%282%29.png)
-
-Change the color of the slider itself.
-
-### Value 
+#### Value 
 
 ![](.gitbook/assets/value%20%281%29.png)
 
-The set and get value blocks are user to work with the position of the slider.
+#### Step 
 
-### Visible 
+![](.gitbook/assets/step.png)
+
+#### Get Computed Height 
+
+![](.gitbook/assets/height%20%289%29.png)
+
+Returns Height of the Slider in pixels as it appears on the screen.
+
+#### Get Computed Width
+
+![](.gitbook/assets/width%20%2811%29.png)
+
+Returns Width of the Slider in pixels as it appears on the screen.
+
+#### Visible 
 
 ![](.gitbook/assets/visible%20%2811%29.png)
 
+#### Maximum Track Tint Color
 
+![](.gitbook/assets/max_track_tint_color.png)
 
-The set and get visible blocks are used to show or hide the entire Slider component. Acceptable values are:
+### 
 
-* True
-* False
+#### Minimum Track Tint Color 
 
-### Width
+![](.gitbook/assets/min_track_tint_color.png)
 
-![](.gitbook/assets/width%20%287%29.png)
+#### Disabled
 
-The set and get width blocks work with the Width property of the Slider component. Acceptable input values are. 
+![](.gitbook/assets/disabled%20%282%29.png)
 
-* Number of Pixels
-* Percentage Height
-* "Fit Contents"
-* "Fill Container"
+#### Thumb Tint Color 
 
-The `Computed Width`block returns the on-screen dimensions of the slider, after it has been rendered on-screen. The value returned is an integer, representing the size of the slider in pixels.
+![](.gitbook/assets/thumb_tint_color%20%282%29.png)
 

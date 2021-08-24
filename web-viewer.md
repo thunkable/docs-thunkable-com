@@ -16,13 +16,13 @@ Some websites may not appear when previewing your app on the web. You may need t
 
 | Property | Description | Data Type |
 | :--- | :--- | :--- |
-| URL | Set initial URL to be displayed in the Web Viewer. Should begin with HTTPS:// | URL |
+| URL | Set initial URL to be displayed in the Web Viewer. URL should begin with HTTPS://. Can also type in the name of a HTML file that has been uploaded to the project to display in the Web Viewer. | URL |
 
 ### Layout
 
 | Property | Description | Data Type |
 | :--- | :--- | :--- |
-| X | Location of top left corner of Web viewer on X-axis, where the left hand side is X=0 | Number |
+| X | Location of top left corner of Web Viewer on X-axis, where the left hand side is X=0 | Number |
 | Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
 | Height | Height of Web Viewer in pixels | Number |
 | Width | Width of Web Viewer in pixels | Number |
