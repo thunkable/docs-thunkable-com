@@ -1,7 +1,5 @@
 ---
-description: >-
-  With the Web Viewer component, you can open up any website within your app to
-  display.
+description: Display websites in your app
 ---
 
 # Web Viewer
@@ -15,8 +13,6 @@ Some websites may not appear when previewing your app on the web. You may need t
 ![](.gitbook/assets/web-viewer-fig-1.png)
 
 ## Properties
-
-In the Design panel, you can set many properties of the Web Viewer.
 
 | Property | Description | Data Type |
 | :--- | :--- | :--- |
@@ -61,9 +57,17 @@ You may also find the [Web API](web-api.md) component useful for sending/receivi
 
 #### Receives Message
 
-![](.gitbook/assets/receives_message.png)
+![](.gitbook/assets/image%20%28202%29.png)
+
+Fires when the Web Viewer receives a message from the web page it's displaying. Returns `message` output. This is a piece of text that contains the message that was returned.
 
 ### Functions
+
+#### Reload 
+
+![](.gitbook/assets/reload.png)
+
+Reload the Web Viewer.
 
 #### Back 
 
@@ -79,19 +83,13 @@ Move forward to the next page in your browser history.
 
 #### Post Message 
 
-![](.gitbook/assets/post.png)
+![](.gitbook/assets/screen-shot-2021-08-23-at-12.59.10-pm.png)
 
 Post a message.
 
-#### Reload 
-
-![](.gitbook/assets/reload.png)
-
-Reload the web viewer.
-
 #### Value from Post
 
-![](.gitbook/assets/value_from_post.png)
+![](.gitbook/assets/screen-shot-2021-08-23-at-1.02.00-pm.png)
 
 Returns any message that was received after calling the Post Message function.
 
@@ -101,13 +99,17 @@ Returns any message that was received after calling the Post Message function.
 
 ![](.gitbook/assets/height.jpg)
 
-Returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the web viewer in pixels.
+Returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. 
+
+The value returned is an integer, representing the size of the Web Viewer in pixels.
 
 #### Computed Width 
 
 ![](.gitbook/assets/width%20%2810%29.png)
 
-Returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the web viewer in pixels.
+Returns the on-screen dimensions of the web viewer, after it has been rendered on-screen. 
+
+The value returned is an integer, representing the size of the Web Viewer in pixels.
 
 #### Visible
 
@@ -115,11 +117,11 @@ Returns the on-screen dimensions of the web viewer, after it has been rendered o
 
 
 
-The set and get visible blocks are used to show or hide the entire component. 
+Show or hide the Web Viewer.
 
 #### URL
 
 ![](.gitbook/assets/url.png)
 
-The set URL block is used to change the web address that is displayed in the web viewer. Using HTTPS URLs is recommended.
+Change the web address that is displayed in the web viewer. Use **HTTPS://** URLs with this block.
 
