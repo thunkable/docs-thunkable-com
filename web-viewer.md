@@ -14,6 +14,8 @@ Some websites may not appear when previewing your app on the web. You may need t
 
 ## Properties
 
+### Web Viewer
+
 | Property | Description | Data Type |
 | :--- | :--- | :--- |
 | URL | Set initial URL to be displayed in the Web Viewer. URL should begin with HTTPS://. Can also type in the name of a HTML file that has been uploaded to the project to display in the Web Viewer. | URL |

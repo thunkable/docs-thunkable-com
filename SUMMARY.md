@@ -21,7 +21,7 @@
 * [Web Viewer](web-viewer.md)
 * [Switch](switch.md)
 * [Slider](slider.md)
-* [Maps by Google and Apple](map.md)
+* [Map](map.md)
 * [Animation by Lottie](lottie.md)
 * [Video](video.md)
 * [Loading Icon](loading-icon.md)
