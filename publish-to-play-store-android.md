@@ -48,9 +48,9 @@ Before you download your app, make sure you set the appropriate Build and Versio
 
 ## Download your AAB file
 
-You can download your AAB file by clicking **Download &gt; Download Android**: 
+You can download your AAB file by clicking **Publish &gt; Publish Android** 
 
-![](.gitbook/assets/download_android.png)
+![](.gitbook/assets/stp_publish_to_android.png)
 
 You will see a dialog asking you to enter your email address. An AAB file will be sent to you:
 
