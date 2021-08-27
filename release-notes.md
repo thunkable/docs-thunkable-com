@@ -1,5 +1,11 @@
 # 📰 Release Notes
 
+## August 24, 2021
+
+Platform Updates:
+
+* Improvements to [Thunkable plan](https://thunkable.com/#/pricing) upgrades - plan upgrades are now effective immediately
+
 ## August 18, 2021
 
 Platform Updates:
