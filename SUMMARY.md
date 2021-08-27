@@ -105,7 +105,6 @@
 * ["Any Component" Blocks](any-component-blocks.md)
 * [🖥️ App Services & Emulators](emulators.md)
 * [🔒 App Data Privacy](app-data-privacy.md)
-* [🔗 Blockchain & Data Privacy](blockchain.md)
 * [➕ Make Copy](make-copy.md)
 * [📥 Download](download.md)
 * [📤 Share](share-1.md)

@@ -113,8 +113,6 @@ Not all components are supported on the web at this time so please see the list 
 | **Photo Library** | Image | **`Not supported yet`** |
 | **Barcode Scanner** | Image | **`Not supported yet`** |
 | **Local Storage** | Data | **`Not supported yet`** |
-| **Smart Contract** | Data | **`Will not be supported`** |
-| **Blockchain Wallet** | Data | **`Will not be supported`** |
 
 
 

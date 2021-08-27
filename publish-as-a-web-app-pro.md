@@ -82,7 +82,6 @@ Not all components are supported on the web at this time so please see the list 
 | **AdMob** | Monetization | **`Can not be supported`** |
 | **Assistant** | Voice | **`Not supported yet`** |
 | **Barcode Scanner** | Image | **`Not supported yet`** |
-| **Blockchain Wallet** | Data | **`Will not be supported`** |
 | **Bluetooth Low Energy** | Sensors | **`Not supported yet`** |
 | **Gyroscope** | Sensors | **`Supported but may not work as expected`** |
 | **Local Storage** | Data | **`Not supported yet -`**[**`stored variables`**](variables.md#stored-variables) **`are supported`** |
@@ -91,7 +90,6 @@ Not all components are supported on the web at this time so please see the list 
 | **Photo Library** | Image | **`Not supported yet`** |
 | **Push Notification** | Social | **`Not supported yet`** |
 | **Share** | Social | **`Email and Phone work, other blocks not supported yet`** |
-| **Smart Contract** | Data | **`Will not be supported`** |
 | **Speech Recognizer** | Voice | **`Not supported yet`** |
 | **Web Viewer** | User Interface | **`BACK block not supported yet, some Google sites not supported`** |
 
