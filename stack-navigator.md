@@ -18,6 +18,10 @@ Screens can Stack from left to right or from top to bottom. You can set the tran
 | :--- | :--- |
 | Mode | Default \(`card`\); `Card` mode stacks screens from left to right while `modal` stacks screens from top to bottom |
 
+{% hint style="warning" %}
+It is not possible to use blocks to navigate from a screen **outside** of your Stack Navigator to a screen **inside** your Stack Navigator
+{% endhint %}
+
 ### Hide Your Header
 
 It is possible to hide the Header bar and maintain the Stacking transition by using the Stack property below. Hiding the Header bar will also hide the back button that makes it easier to transition to your original screen
