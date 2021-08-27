@@ -8,27 +8,62 @@ For the rest of us, there is a large and growing community of designers who have
 
 ![](.gitbook/assets/animation-lottie-fig-1.gif)
 
-## Getting Started
+## Video Tutorial
 
-| Property | Description |
-| :--- | :--- |
-| Animation | Please upload and reference your After Effects `.json` animations to your app project.  You can create your own or find a library of open sourced ones from [sites like this](https://www.lottiefiles.com/community) |
-| Loop | If `true`, animation will run as a loop |
+See a video tutorial for using Animations in your Thunkable project here:
 
-## Edit size and position
+{% embed url="https://www.youtube.com/watch?v=\_rmW2kx1fV4" %}
 
-You can drag and drop your component into position, and set its size.   
-You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+## Properties
 
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
+### Animation
 
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| Animation | The name of a JSON animation you wish to display | Text |
+| Loop | Toggle whether Animation loops or not | True/False |
 
-## Events
+### Layout
+
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| X | Location of top left corner of Animation on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Animation on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Animation in pixels | Number |
+| Width | Width of Animation in pixels | Number |
+| Visible | Set whether the Animation is visible | True/False |
+
+## Blocks
+
+### Events
 
 You can trigger some action to happen when the animation is clicked using the 'when Animation Click' event.
 
 ![](.gitbook/assets/lottieclick.png)
+
+### Properties
+
+Change the [properties](lottie.md#properties) of your Animation component
+
+#### Animation
+
+![](.gitbook/assets/animation-file.png)
+
+#### Loop
+
+![](.gitbook/assets/animation-loop.png)
+
+#### Computed Height
+
+![](.gitbook/assets/animation-height.png)
+
+Returns the height of the Animation on the device screen in pixels.
+
+#### Computed Width
+
+![](.gitbook/assets/animation-width.png)
+
+#### Visible
+
+![](.gitbook/assets/animation-visible.png)
 
