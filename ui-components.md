@@ -4,9 +4,15 @@ description: Components to interact with
 
 # 🔘 UI Components
 
-The User Interface \(UI\) Components category is a collection of all the components you need to design the look and feel of your app. 
+​UI Components make up the visual aspect of your **User Interface**. Combine, style and customize Thunkable UI components to give your app personality and style that best suits your brand.​
 
-UI Components are visible components that users can move, click on, and type in. Each UI component is described in greater detail on its own page.
+![](.gitbook/assets/image%20%28211%29.png)
+
+Every UI component has unique properties that you can use to customize it. You can find this at the top of the **Properties panel**. All UI components have a section called **Layout** and **Style**.‌
+
+In the example above, a **Label** has been selected. Note its unique properties such as its text, font, alignment etc.
+
+Learn more about individual components below.
 
 ## User Interface Components
 
@@ -21,6 +27,8 @@ UI Components are visible components that users can move, click on, and type in.
 {% page-ref page="list-viewer.md" %}
 
 {% page-ref page="web-viewer.md" %}
+
+{% page-ref page="switch.md" %}
 
 {% page-ref page="slider.md" %}
 
@@ -40,13 +48,15 @@ UI Components are visible components that users can move, click on, and type in.
 
 {% page-ref page="rating.md" %}
 
-## See also
+## Data Viewers
 
 While the [Data Viewers](data-viewers.md) have their own section in these docs, they are visible components as you can view them on the screen. You can access the Data Viewer docs below:
 
 {% page-ref page="data-viewer-list.md" %}
 
 {% page-ref page="data-viewer-grid.md" %}
+
+## Next Steps
 
 Once you have designed the UI you want, you can start adding functionality to your app with blocks and app features!
 

@@ -1,16 +1,18 @@
 ---
-description: A new app marketplace.
+description: 'You can make any template yours with a click. Remix, edit and customize.'
 ---
 
-# Public Gallery of Projects
+# Template Gallery
 
-## Thunkable Public Gallery
+The Thunkable Template Gallery is your best way to get started. Find an app that you similar to one you want to build and remix it to start building.
 
-The Thunkable Gallery is an app building marketplace where users can find, share and remix existing projects. By default, all public projects built on Thunkable are sent to the Public Gallery.
+{% hint style="warning" %}
+Note that all **Template Gallery** only contains projects using the older _Snap to Place_ interface. We are actively working on updating the templates with Drag and Drop projects.
+{% endhint %}
 
-## How to use the Thunkable Gallery
+## How to use the Template Gallery
 
-When browsing the Gallery, here are three things that you can do with public projects:
+When browsing the Gallery, here are three things that you can do with a template:
 
 1. **View a Project** Click to open any project on the Public Gallery to view an app's design or programming blocks.
 
@@ -22,11 +24,9 @@ After downloading the [Thunkable Live mobile app](live-test.md), you can use the
 ![](.gitbook/assets/thunkable-docs-exhibits-42%20%281%29.png)
 
 **3. Remix a Project**  
-All projects on the Public Gallery can be remixed. This means that you can customize any app project that you see. 
+All projects on the Public Gallery can be copied and remixed. This means that you can customize any app project that you see. 
 
-![](.gitbook/assets/thunkable-docs-exhibits-44%20%282%29.png)
-
-
+![](.gitbook/assets/cursor_and_untitled.png)
 
 
 

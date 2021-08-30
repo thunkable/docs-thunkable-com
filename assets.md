@@ -1,49 +1,40 @@
+---
+description: Upload and manage your files from the Assets pane
+---
+
 # Assets
 
-It's best to keep app sizes as small as possible to preserve space on people's devices. All app projects have a 50MB limit, and free Thunkable accounts have a 200 MB total storage limit. If you need more storage fo your account then you can [upgrade to PRO](https://x.thunkable.com/account/membership) to get 1 GB of space for your projects. 
+Use the **Assets Panel** to upload, rename and manage all of the assets you've uploaded to your project. You can also mage Figma files within this panel. To learn more about how to use the Figma upload feature, check it out [here](figma.md). 
 
-{% hint style="info" %}
-Thunkable PRO subscribers get 1GB of storage and can create unlimited public and [private](projects.md#private-projects) projects.
+## Account Storage Limits
 
-[Learn more about PRO.](https://thunkable.com/#/pricing)
-{% endhint %}
+Each plan has a limited storage capacity. 
 
-## Minimum Requirements
-
-| Element | Limit |
-| :--- | :--- |
-| App size | 50 MB for Free and [PRO](https://thunkable.com/#/pricing) accounts. |
-| Account size limit | 200 MB for Free, 1 GB for [PRO](https://thunkable.com/#/pricing). |
-| Screens | No fixed limit |
-| Download | One app per phone for iOS; no limit for Android |
-| Minimum Android version | 5.0 \(21\) Lollipop |
-| Minimum iOS version | 11.0 |
-
-You can view a project's app size on the project's details page:
-
-![](.gitbook/assets/ezgif.com-video-to-gif-3.gif)
-
-## Uploading Assets to your project
-
-The main contributor to an app's size are files \(also known as assets\). 
-
-To add or delete files, click on the Assets button in the side bar. Then click the "+" icon to manage all the files in your project. 
-
-You will see a link icon to preview your file in a new tab, an edit icon to rename your file, and a delete icon to delete the file.
-
-![](.gitbook/assets/manage_assets.gif)
-
-## Account storage limits
+| Free | Starter | Pro | Business |
+| :--- | :--- | :--- | :--- |
+| 200MB | 500MB | 1GB | Unlimited |
 
 You can view your total account storage size in your account settings.
 
-Free Thunkable accounts have 200MB of storage. PRO Thunkable accounts have 1GB of storage.
+![](.gitbook/assets/thunkable%20%281%29.png)
 
-Read more about Thunkable PRO [here](https://thunkable.com/#/pricing).
+## Uploading & Managing Assets
 
-![](.gitbook/assets/screen-shot-2019-04-04-at-2.13.03-pm.png)
+Assets can be uploaded from multiple parts of Thunkable, however with limited storage capacity, it's best to delete assets that aren't being used. To access your assets, click the Assets button on the left panel.
 
-If you are near the limit, you may be able to create additional storage by removing projects that you no longer need like an old version or copy of a project. 
+![](.gitbook/assets/image%20%28205%29.png)
 
-![](.gitbook/assets/ezgif.com-video-to-gif-1.gif)
+You can manage your files directly in the lefthand panel. Else if can do this in the media files modal by clicking the **+** beside the **Media Files** title.
+
+![](.gitbook/assets/image%20%28210%29.png)
+
+## How much space am I using?
+
+Check the size of an individual project by visiting the project details page .
+
+![](.gitbook/assets/thunkable%20%282%29.png)
+
+![](.gitbook/assets/thunkable.png)
+
+To check how much space you're using for all of your projects and assets, go to your **Settings** page.
 

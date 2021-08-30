@@ -8,7 +8,7 @@
 * [Your Thunkable Projects Page](your-thunkable-projects-page.md)
 * [🆕 Create New Project](projects.md)
 * [Project Settings](project-settings.md)
-* [Public Gallery of Projects](public-gallery.md)
+* [Template Gallery](public-gallery.md)
 * [Assets](assets.md)
 * [Figma Integration](figma.md)
 * [🛠️ Components and Features](components.md)

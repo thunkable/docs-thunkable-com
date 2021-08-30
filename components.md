@@ -6,31 +6,31 @@ description: Features and functions for your app
 
 ## What's a Component?
 
-Apps contain many different features. 
-
-On Thunkable, you get to drag & drop which features - which we call components - go into your app. 
+Components are the building blocks of your Thunkable app. They can help your app look a certain way or have a certain functionality. 
 
 UI Components \(User Interface Components\) are components which you can see on the screen. Examples include buttons, loading icons, and images. 
 
-There are also some App Features you can't see. Examples include sounds, timers, and recording tools. 
+Thunkable also offer interactivity for App Features. These App Features offer control of mobile specific functions as well as non-UI components. Examples include sounds, timers, camera, and sensors to name a few.
 
 ## UI Components
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.49.18-pm.png)
+![](.gitbook/assets/image%20%28209%29.png)
 
-To put it simply,[ UI Components](ui-components.md) are features that you can see on your app screen - like the ones pictured above.  
+[UI Components](ui-components.md) make up the visual aspect of your user interface. Combine, style and customize Thunkable UI components to give your app personality and style that best suits your brand.
 
-Visible components can be styled by size, text, space, and location. 
+![](.gitbook/assets/image%20%28211%29.png)
 
-When adding visible components into your app, please note that they can only exist on one screen at a time. For example, if you want to add a button to three different screens, each screen will require its own button.
+Every UI component has unique properties that you can use to customize it. You can find this at the top of the **Properties panel**. All UI components have a section called **Layout** and **Style**. 
+
+In the example above, a **Label** has been selected. Note its unique properties such as its text, font, alignment etc. 
 
 ## App Features
 
-[App Features](app-features.md) are features on your app that you can't see. 
+[App Features](app-features.md) are features offer non-UI functionality. 
 
-They often relate to your app's functionality, and are quietly running in the background. When you add an invisible component to your app, that component can work on any screen. 
+They often relate to your app's functionality, and are quietly running in the background. Add App Features in the Blocks tab of your project.
 
-For example, if you add a [Camera](camera.md) to your app, the database can be accessed from any screen. You do not need to add a Camera component to each screen.
+![](.gitbook/assets/thunkable%20%284%29.png)
 
 ## Finding Components
 
