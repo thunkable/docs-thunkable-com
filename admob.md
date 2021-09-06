@@ -1,18 +1,26 @@
 # Ads by AdMob
 
-{% hint style="info" %}
-**AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
-{% endhint %}
-
 ## AdMob Overview 
+
+{% hint style="info" %}
+We highly recommend that you only add ads to your app after you have a large audience of users \(otherwise, you won't generate much revenue anyway\).
+{% endhint %}
 
 ![](.gitbook/assets/webp.net-resizeimage.png)
 
-AdMob is the most popular ad network for monetizing mobile apps today. 
+AdMob is the most popular ad network for monetizing mobile apps today. Apps with large audiences can use AdMob to not only generate revenue for the creator but in some cases \(like with AdMob Rewarded Video\), create better user experiences than the alternative \(e.g. in-app purchases to play a new game level\). 
 
-Apps with large audiences can use AdMob to not only generate revenue for the creator, but in some cases, create better user experiences. For example, users may prefer to watch a [Rewarded Video Ad](admob.md#rewarded-video-ad) to unlock extra content than pay money to unlock extra content.
 
-We **highly recommend** that you only add ads to your app after you have a large audience of users \(otherwise, you won't generate much revenue anyway\).
+
+{% hint style="info" %}
+**AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
+
+All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ_Uon406Demqt_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform). Once approved, apps can be downloaded and published without further review.
+
+Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.
+
+Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob in the future. 
+{% endhint %}
 
 ## Getting Started
 
@@ -26,14 +34,6 @@ Once you have an AdMob account, you will need to paste the following into the [A
   * Default value: "This identifier will be used to deliver personalized ads to you."
 
 ## Review Guidelines
-
-{% hint style="info" %}
-All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ_Uon406Demqt_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform). Once approved, apps can be downloaded and published without further review.
-
-Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.
-
-Thunkable also reserves the right to charge up to a 10% maintenance fee for revenue earned via AdMob in the future. 
-{% endhint %}
 
 Thunkable has partnered with AdMob to ensure that apps created on our cross-platform use ads to monetize apps in a way that both provides high quality traffic to advertisers and a high quality user experience for end users of apps.
 

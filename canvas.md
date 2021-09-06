@@ -4,6 +4,8 @@ description: Create interactive gaming apps with the canvas component.
 
 # Canvas
 
+## Canvas Overview
+
 The canvas component is a touch-sensitive panel that enables the movement of items. 
 
 You can use this component to create a variety of games and experiences that involve different methods of touching a screen.
