@@ -1,5 +1,24 @@
 # 📰 Release Notes
 
+## September 7, 2021
+
+Component Updates
+
+* Changes to how Location Sensor requests user's location
+
+## September 3, 2021
+
+Component Updates
+
+* iOS: Apps that use Camera but not Photo Library will no longer request Photo Library access
+* iOS: Apps that use Photo Library but not Camera will no longer request Camera access
+
+## August 26, 2021
+
+Component Updates
+
+* Drag and Drop: New properties for [Map](https://docs.thunkable.com/v/drag-and-drop/map) and [Text Input](https://docs.thunkable.com/v/drag-and-drop/text-input) components
+
 ## August 24, 2021
 
 Platform Updates:
