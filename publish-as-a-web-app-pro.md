@@ -68,7 +68,7 @@ When you’re ready to release a new version, choose “Publish as a Web App” 
 
 If you host a webpage, you can embed your Thunkable web app in an iframe using the syntax
 
-`<iframe src="https://thunkable.site/w/K0XDxMqwl" title="Chop Down the Tree Thunkable App" height = 500 width = 500></iframe>`
+`<iframe src="https://thunkable.site/w/K0XDxMqwl" title="Chop Down the Tree Thunkable App" height = 1000 width = 500></iframe>`
 
 You can read more about iframes [here](https://www.w3schools.com/tags/tag_iframe.ASP).
 
