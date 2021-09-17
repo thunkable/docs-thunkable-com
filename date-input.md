@@ -6,26 +6,19 @@ A Date Input component is helpful when you want the user of your app to easily s
 
 ![Native Android Date Picker on the left and iOS on the right](.gitbook/assets/thunkable-docs-exhibits-37.png)
 
-## Getting Started 
+## Properties
 
-The Date Input component needs no set-up \(Woohoo!\). Just drag and drop the component into your project. As a bonus, the current date will automatically show up as a label.
+### Date Input
 
-When a user of your app taps on the Date Input, it will automatically launch the native Android or iOS date pickers.
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| Style | Format to use when displaying selected date | Select from menu |
+| Font Size | Size of font when displaying date | Number |
+| Font Style | Select whether font is normal or italic | Select from menu |
+| Font Weight | Set boldness of font | Select from menu |
+| Color | Color of font when displaying date | Color |
 
-## Edit size and position
-
-You can drag and drop your component into position, and set its size.   
-You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
-
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
-
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
-
-## Set the Date Format
-
-You can set the format of the date by choosing an option from the `Style` property. Currently supported styles are:
+The following formats are currently available to use as `Style:`
 
 * YYYY-MM-DD
 * MM/DD/YYYY
@@ -33,84 +26,116 @@ You can set the format of the date by choosing an option from the `Style` proper
 * Month Day, Year
 * Mth. Day, Year
 
-![](.gitbook/assets/date_input_style.png)
+### Layout
 
-## Save the Date
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| X | Location of top left corner of Web Viewer on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Web Viewer in pixels | Number |
+| Width | Width of Web Viewer in pixels | Number |
+| Visible | Set whether the Web Viewer is visible | True/False |
 
-The date that a user selects will show up automatically in the Date Input label but if you want to save the date somewhere to be uploaded later, you'll need to add a block like the one below. 
+### **Style**
 
-![](.gitbook/assets/get_date.png)
+| **Property** | Description | Data Type |
+| :--- | :--- | :--- |
+| Border Width | Width of border around Web Viewer in pixels | Number |
+| Border Radius | Radius of corners of border on Web Viewer in degrees | Number |
+| Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
+| Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
 
-| Event | Output |
-| :--- | :--- |
-| Get Date | Date in whichever format you specify e.g. `YYYY-MM-DD` |
-| Get Year | Year in 4 digit format e.g. `2019` |
-| Get Month | Numerical month from `1-12` |
-| Get Day | Day of the month from `1-31` \(depending on the month\) |
+## Blocks
 
-## Events
+### Events
 
-### Date Picked
+You can trigger actions to happen when an event occurs.
+
+#### Date Picked
+
+This event fires when the user has selected a date using the Date Picker.
 
 ![](.gitbook/assets/dp1-8%20%281%29.png)
 
-## Functions
+### Functions
 
-### Get Date 
+#### Get Date 
+
+Returns full date from Date Picker in format Mon., DD, YYYY.
 
 ![](.gitbook/assets/f_get_date.png)
 
-### Get Day 
+#### Get Day 
+
+Returns date from Date Picker in numeric form.
+
+Eg. If February 17, 2021 has been selected in Date Picker, this block will return 17.   
+If 5 March 2021 is selected in Date Picker, this block will return 5.
 
 ![](.gitbook/assets/f_get_day.png)
 
-### Get Month 
+#### Get Month 
+
+Returns date from Date Picker in numeric form.
+
+Eg. If February 17, 2021 has been selected in Date Picker, this block will return 2.   
+If 7 November 2021 is selected in Date Picker, this block will return 11.
 
 ![](.gitbook/assets/f_get_month.png)
 
-### Get Year 
+#### Get Year 
+
+Returns date from Date Picker in YYYY form.
 
 ![](.gitbook/assets/f_get_year.png)
 
-### Launch Picker
+#### Launch Picker
+
+Opens Picker of the Date Input to prompt the user to enter a date.
 
 ![](.gitbook/assets/f_launch_picker.png)
 
-##  Properties
+###  Properties
 
-### Background Color 
+Set and get [properties](date-input.md#properties) of the Date Picker.
+
+#### Background Color 
 
 ![](.gitbook/assets/bg_color%20%283%29.png)
 
-### Color 
+#### Color 
 
 ![](.gitbook/assets/color%20%281%29.png)
 
-### Computed Height and Width 
+#### Computed Height and Width 
 
 ![](.gitbook/assets/comp_height.png)
 
-### Font Size 
+Returns the height/width of the Date Input on the device screen in pixels.
+
+#### Font Size 
 
 ![](.gitbook/assets/font_size%20%282%29.png)
 
-### Font Style 
+#### Font Style 
 
 ![](.gitbook/assets/font_style%20%281%29.png)
 
-### Font Weight 
+#### Font Weight 
 
 ![](.gitbook/assets/font_weight%20%282%29.png)
 
-### Style 
+#### Style 
 
 ![](.gitbook/assets/dp1-2.png)
 
-### Text Align 
+#### Text Align 
 
 ![](.gitbook/assets/text_align%20%282%29.png)
 
-### Visible
+Set the Text Alignment of the Date Input to `Auto`, `Left`, `Right`, `Center` or `Justify`.
+
+#### Visible
 
 ![](.gitbook/assets/visible%20%287%29.png)
 
