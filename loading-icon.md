@@ -6,24 +6,66 @@ For activities that take more than a few seconds, loading icons can be helpful t
 
 ![The large loading icon is on the top; the small is on the bottom on a Pixel 3](.gitbook/assets/ezgif.com-crop.gif)
 
-## Style the Loading Icon 
+## Properties 
+
+### Loading Icon
 
 | Property | Description |
 | :--- | :--- |
 | Color | The color of the loading icon |
 
-## Edit size and position
+### Layout
 
-You can drag and drop your component into position, and set its size.   
-You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| X | Location of top left corner of Web Viewer on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Web Viewer in pixels | Number |
+| Width | Width of Web Viewer in pixels | Number |
+| Visible | Set whether the Web Viewer is visible | True/False |
 
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
+### **Style**
 
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
+| **Property** | Description | Data Type |
+| :--- | :--- | :--- |
+| Border Width | Width of border around Web Viewer in pixels | Number |
+| Border Radius | Radius of corners of border on Web Viewer in degrees | Number |
+| Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
+| Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
 
-## Showing and Hiding the Loading Icon
+## Blocks
+
+### Properties
+
+Set and get [properties](loading-icon.md#properties) of the Loading Icon component.
+
+#### Color 
+
+![](.gitbook/assets/loading-icon-color.png)
+
+#### Size 
+
+![](.gitbook/assets/loading-icon-size.png)
+
+Select a size for the Loading Icon. Can choose between `extra small, small, middle, large,` or `extra large`.
+
+#### Computed Height 
+
+![](.gitbook/assets/loading-icon-height.png)
+
+Returns the height of the Loading Icon on the device screen in pixels.
+
+#### Computed Width
+
+![](.gitbook/assets/loading-icon-width.png)
+
+Returns the width of the Loading Icon on the device screen in pixels.
+
+#### Visible 
+
+![](.gitbook/assets/loading-icon.png)
+
+## Demo: Showing and Hiding the Loading Icon
 
 The loading icon should be displayed when the app is performing an activity in the background and hidden when it is not. 
 
@@ -35,25 +77,7 @@ In the following example the loading icon shows up when the app opens but disapp
 
 When the visibility is set to true, the loading icon will be seen on the app screen. If set to false, the loading icon will not be seen on the app screen.
 
-## Properties
+## See Also
 
-### Color 
-
-![](.gitbook/assets/color%20%282%29.png)
-
-### Height 
-
-![](.gitbook/assets/height%20%286%29.png)
-
-### Size 
-
-![](.gitbook/assets/size%20%281%29.png)
-
-### Visible 
-
-![](.gitbook/assets/visible%20%288%29.png)
-
-### Width
-
-![](.gitbook/assets/width%20%288%29.png)
+If you want to show different styles of animations in your app as content loads, check out the [Animation](lottie.md) component.
 
