@@ -6,11 +6,7 @@ description: The video component lets you play videos in your app.
 
 ## Video Overview
 
-{% hint style="warning" %}
-Please note that video files can be quite large and might exceed the 50 MB [size limit](assets.md#app-size-limits-50-mb-per-app) for your project. 
-{% endhint %}
-
-The Video component lets you play videos in your app that are stored in the cloud or in your app. App users can easily pause, rewind or fast-forward the video with the built in player.
+The Video component lets you play videos in your project that are stored in the cloud or in your project. Users can easily pause, rewind or fast-forward the video with this player.
 
 
 
@@ -20,39 +16,64 @@ The Video component lets you play videos in your app that are stored in the clou
 
 There are a few ways you can set a video source in your app:
 
-1. **Upload a video to your app.** Be careful of the Thunkable 50 MB [app size limit](assets.md#app-size-limits-50-mb-per-app)
-2. **Provide a link to the video.** The link has to end in `.mp4`, `.mov`, …so videos uploaded to YouTube and other video sharing sites may not work.
+### Upload Video File to your app
+
+You can upload a video file as an [asset](assets.md#uploading-and-managing-assets) in your project. Be careful of the Thunkable 50 MB [app size limit](assets.md#app-size-limits-50-mb-per-app) if you choose to upload a file to your project.
+
+### Enter URL to choose video to display
+
+Enter the URL of the video you want to show in your project.
+
+The link has to end in `.mp4`, `.mov`, …so videos uploaded to YouTube and other video sharing sites may not work.
 
 Please note that the Video component is not recommended for streaming live video content. 
 
-## Edit size and position
+## Properties
 
-You can drag and drop your component into position, and set its size.   
-You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+### Video
 
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
+| Name | Description | Data Type |
+| :--- | :--- | :--- |
+| Video | Name or URL of video as described in [Set Video](video.md#set-video) section | Text |
+| Play | Toggle whether or not video file auto-plays when Screen opens | True/False |
 
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
+### Layout
 
-## Set to Auto-Play
-
-To set a video to play automatically, just toggle the Play property to `true` 
-
-![](.gitbook/assets/screen-shot-2019-10-29-at-2.03.22-pm.png)
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| X | Location of top left corner of Web Viewer on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Web Viewer in pixels | Number |
+| Width | Width of Web Viewer in pixels | Number |
+| Visible | Set whether the Web Viewer is visible | True/False |
 
 ## Blocks
 
-### Set Video
+### Properties
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.16.23-pm.png)
+Set and get [Properties](video.md#properties) of the Video component
 
-### Get Video
+#### Video
 
-See what video is currently set as the Video component's source
+![](.gitbook/assets/video_blocks-video.png)
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.17.34-pm.png)
+#### Play
 
+![](.gitbook/assets/video_blocks-play.png)
 
+#### Computed Height
+
+![](.gitbook/assets/video_blocks-height.png)
+
+Returns the height of the Video on the device screen in pixels.
+
+#### Computed Width
+
+![](.gitbook/assets/video_blocks-width.png)
+
+Returns the width of the Video on the device screen in pixels.
+
+#### Visible
+
+![](.gitbook/assets/video_blocks-visible.png)
 
