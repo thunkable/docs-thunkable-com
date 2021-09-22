@@ -27,18 +27,18 @@ The following formats are currently available to use as `Style:`
 
 | Property | Description | Data Type |
 | :--- | :--- | :--- |
-| X | Location of top left corner of Web Viewer on X-axis, where the left hand side is X=0 | Number |
-| Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
-| Height | Height of Web Viewer in pixels | Number |
-| Width | Width of Web Viewer in pixels | Number |
-| Visible | Set whether the Web Viewer is visible | True/False |
+| X | Location of top left corner of Time Input on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Time Input on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Time Input in pixels | Number |
+| Width | Width of Time Input in pixels | Number |
+| Visible | Set whether the Time Input is visible | True/False |
 
 ### **Style**
 
 | **Property** | Description | Data Type |
 | :--- | :--- | :--- |
-| Border Width | Width of border around Web Viewer in pixels | Number |
-| Border Radius | Radius of corners of border on Web Viewer in degrees | Number |
+| Border Width | Width of border around Time Input  in pixels | Number |
+| Border Radius | Radius of corners of border on Time Input in degrees | Number |
 | Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
 | Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
 
@@ -110,7 +110,7 @@ Set and get [properties](time-input.md#properties) of the Time Input
 
 #### Computed Height and Width 
 
-Returns the height/width of the Date Input on the device screen in pixels.
+Returns the height/width of the Time Input on the device screen in pixels.
 
 ![](.gitbook/assets/comp.png)
 
