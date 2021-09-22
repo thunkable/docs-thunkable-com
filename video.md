@@ -41,11 +41,11 @@ Please note that the Video component is not recommended for streaming live video
 
 | Property | Description | Data Type |
 | :--- | :--- | :--- |
-| X | Location of top left corner of Video component on X-axis, where the left hand side is X=0 | Number |
-| Y | Location of top left corner of Video component on Y-axis, where the top side is Y=0 | Number |
-| Height | Height of Video component in pixels | Number |
-| Width | Width of Video component in pixels | Number |
-| Visible | Set whether the Video component is visible | True/False |
+| X | Location of top left corner of Web Viewer on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Web Viewer in pixels | Number |
+| Width | Width of Web Viewer in pixels | Number |
+| Visible | Set whether the Web Viewer is visible | True/False |
 
 ## Blocks
 

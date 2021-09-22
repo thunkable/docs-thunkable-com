@@ -8,40 +8,75 @@ A Rating component is made up of 5-10 _icons_. An icon can be filled, partially 
 
 ![A Rating component displaying a rating of 3.5/5](.gitbook/assets/rating.png)
 
-## Edit size and position
+## Properties
 
-You can drag and drop your component into position, and set its size.   
-You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+### Rating
 
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| Value | Initial value of your rating | Number |
+| Count | Max value of your rating | Number between 5 and 10 |
+| Image | Shape of the icons in your Rating component | Select from menu |
+| Read Only | Toggle whether or not the user can edit the rating | True/False |
+| Rating Color | Color of filled-in icons to reflect the current rating | Color |
+| Background Color | Color of unfilled icons | Color |
 
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
+There are two ways to set an Image for your Rating component:
 
-## Event Blocks
+#### Select from Menu
 
-### On Rate
+Thunkable provides a menu of pre-set icons from Expo that you can choose from. [Preview these icons here.](https://icons.expo.fyi/)
+
+#### Custom Image
+
+If you set the Image property to Custom Image, you will be able use your own images as icons for the Rating component. 
+
+Selecting Custom Image will show two new properties:
+
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| Filled Image | Images to reflect 'filled-in' icons to reflect the current rating | Image file name |
+| Empty Image | Images to reflect 'unfilled' icons | Image file name |
+
+You can upload your images as [assets](assets.md) to your project, or provide URLs that point to your chosen images.
+
+These URLs must end in a file extension, such as .jpg or .png.
+
+### Layout
+
+| Property | Description | Data Type |
+| :--- | :--- | :--- |
+| X | Location of top left corner of Rating component on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Rating component on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Rating component in pixels | Number |
+| Width | Width of Rating component in pixels | Number |
+| Visible | Set whether the Rating component is visible | True/False |
+
+## Blocks
+
+### Events
+
+#### On Rate
 
 This block fires when a user enters a rating in the Rating component.
 
 ![](.gitbook/assets/rating-on-rate.png)
 
-## Properties
+### Properties
 
-### Count
+Set and get [properties](rating.md#properties) of the Rating component
 
-Maximum rating that can be given. Can be an integer between 5 and 10, selected from a drop-down menu.
+#### Count
 
 ![](.gitbook/assets/count.png)
 
-### Direction
+#### Direction
 
 Select how the Rating component is displayed: as a **row** \(left-right\), **row-reverse** \(right-left\), **column** \(top-bottom\), or **column-reverse** \(bottom-top\).
 
 ![](.gitbook/assets/direction.png)
 
-### Font Size
+#### Font Size
 
 Change the size of the icons that make up the Rating component.
 
@@ -49,19 +84,17 @@ Change the size of the icons that make up the Rating component.
 
 ### 
 
-### Height 
-
-Set or get the `height` of the rating component in pixels.
+#### Height 
 
 ![](.gitbook/assets/height%20%288%29.png)
 
-### Icon Margin 
+#### Icon Margin 
 
 Get or change the size of the margin between the icons of the Rating component.
 
 ![](.gitbook/assets/icon_margin.png)
 
-### Icon
+#### Icon
 
 You can select an image from the list available. All of the image options are suitable for any platform. You can preview the image options [here](https://icons.expo.fyi/).
 
@@ -69,55 +102,35 @@ You can upload your own images to be displayed for filled and empty icons.
 
 ![](.gitbook/assets/icon.png)
 
-### Read Only
-
-Toggle whether the user can edit the value displayed on the Rating component. If read-only is true, the value cannot be edited. If read-only is false, the value can be edited.
+#### Read Only
 
 ![](.gitbook/assets/read_only.png)
 
-### Rating Background Color
-
-Select the color of an unfilled icon.
+#### Rating Background Color
 
 ![](.gitbook/assets/rating_bg_color.png)
 
-### Rating Color
-
-Select the color of a filled icon.
+#### Rating Color
 
 ![](.gitbook/assets/rating_color.png)
 
-### Value
-
-Initial value displayed on the Rating component. Can be any number between 0 and the maximum value, including decimals.
+#### Value
 
 ![](.gitbook/assets/value%20%282%29.png)
 
-### Visible
-
-Toggle whether your Rating component is visible.
+#### Visible
 
 ![](.gitbook/assets/visible%20%289%29.png)
 
-### Width 
-
-Set or get the `width` of the rating component. Given in Pixels.
+#### Width 
 
 ![](.gitbook/assets/width%20%289%29.png)
 
-### X 
-
-Set or get the horizontal position of the rating component on the screen. 
+#### X 
 
 ![](.gitbook/assets/x%20%281%29.png)
 
-### Y
-
-Set or get the vertical position of the rating component on the screen.
+#### Y
 
 ![](.gitbook/assets/y%20%281%29.png)
-
-### 
-
-
 

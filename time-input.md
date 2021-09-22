@@ -6,43 +6,28 @@ A Time Input component is helpful when you want the user of your app to easily s
 
 ![Native Android Time Picker on the left and iOS on the right](.gitbook/assets/thunkable-docs-exhibits-38%20%281%29.png)
 
-## Properties
+## Getting Started 
 
-### Time Input
+The Time Input component needs no set-up \(Woohoo!\). Just drag and drop the component into your project. As a bonus, the current time will automatically show up as a label.
 
-| Property | Description | Data Type |
-| :--- | :--- | :--- |
-| Style | Format to use when displaying selected date | Select from menu |
-| Font Size | Size of font when displaying date | Number |
-| Font Style | Select whether font is normal or italic | Select from menu |
-| Font Weight | Set boldness of font | Select from menu |
-| Color | Color of font when displaying date | Color |
+When a user of your app taps on the Date Input, it will automatically launch the native Android or iOS date pickers.
 
-The following formats are currently available to use as `Style:`
+## Set the time format
 
-* Hour:Minute AM/PM, eg. `3:30 PM`
-* Hour:Minute 24h, eg. `15:30`
+You can set the format of the time by simply choosing your desired format from the `Style` property
 
-### Layout
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.58.31-pm.png)
 
-| Property | Description | Data Type |
-| :--- | :--- | :--- |
-| X | Location of top left corner of Time Input on X-axis, where the left hand side is X=0 | Number |
-| Y | Location of top left corner of Time Input on Y-axis, where the top side is Y=0 | Number |
-| Height | Height of Time Input in pixels | Number |
-| Width | Width of Time Input in pixels | Number |
-| Visible | Set whether the Time Input is visible | True/False |
+## Edit size and position
 
-### **Style**
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-| **Property** | Description | Data Type |
-| :--- | :--- | :--- |
-| Border Width | Width of border around Time Input  in pixels | Number |
-| Border Radius | Radius of corners of border on Time Input in degrees | Number |
-| Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
-| Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
 
-## 
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
 ## Save the time
 
@@ -56,95 +41,71 @@ The time that a user selects will show up automatically in the Time Input label 
 | Get Hours | Hour of the Day from `1-24` |
 | Get Minutes | Minutes from `1-60` |
 
-## Blocks
+## Events
 
-### Events
-
-#### Time Picked
-
-Fires when the user has selected a time with the Time Input
+### Time Picked
 
 ![](.gitbook/assets/e_time_picked.png)
 
-### Functions
+## Functions
 
-#### Launch Picker
-
-Launches the Time Input picker for the user to select a time.
-
-![](.gitbook/assets/f_launch.png)
-
-#### Get Hour 
-
-Returns the hour of the currently selected time in 24 hour format.
-
-Example: if the user selects 2:30 PM, this block will return 14.
+### Get Hour 
 
 ![](.gitbook/assets/f_get_hour.png)
 
-#### Get Minute 
-
-Returns the minute of the currently selected time.
-
-Example: if the user selects 2:30 PM, this block will return 30.
+### Get Minute 
 
 ![](.gitbook/assets/f_get_min.png)
 
-#### Get Time 
-
-Returns the selected time in the same format as the Style [property](time-input.md#time-input) of the Time Input.
-
-Example: if the user selects 2:30 PM, and the Style is set to Hour:Minute AM/PM, this block will return 2:30 PM.
-
-If the user selects 2:30 PM, and the Style is set to Hour:Minute 24h, this block will return 14:30.
+### Get Time 
 
 ![](.gitbook/assets/f_get_time.png)
 
-### Properties
+### Launch Picker
 
-Set and get [properties](time-input.md#properties) of the Time Input
+![](.gitbook/assets/f_launch.png)
 
-#### Style
+## Properties
 
-![](.gitbook/assets/style.png)
-
-#### Computed Height and Width 
-
-Returns the height/width of the Time Input on the device screen in pixels.
-
-![](.gitbook/assets/comp.png)
-
-#### Visible
-
-![](.gitbook/assets/visible%20%286%29.png)
-
-#### Font Size 
-
-![](.gitbook/assets/font_size%20%284%29.png)
-
-#### Color 
-
-![](.gitbook/assets/color%20%283%29.png)
-
-#### Background Color 
-
-Set the background color of the Time Input as it is displayed in the project.
+### Background Color 
 
 ![](.gitbook/assets/bg_color%20%284%29.png)
 
-#### Font Style 
+### Color 
+
+![](.gitbook/assets/color%20%283%29.png)
+
+### Computed Height and Width 
+
+![](.gitbook/assets/comp.png)
+
+### Font Size 
+
+![](.gitbook/assets/font_size%20%284%29.png)
+
+### Font Style 
 
 ![](.gitbook/assets/font_style%20%282%29.png)
 
-#### Font Weight 
+### Font Weight 
 
 ![](.gitbook/assets/font_weight%20%281%29.png)
 
-#### Text Align 
+### Style
 
-Set the Text Alignment of the Time Input to `Auto`, `Left`, `Right`, `Center` or `Justify`.
+###  
+
+![](.gitbook/assets/style.png)
+
+### Text Align 
 
 ![](.gitbook/assets/text_align%20%281%29.png)
+
+### Visible
+
+![](.gitbook/assets/visible%20%286%29.png)
+
+
 
 
 
