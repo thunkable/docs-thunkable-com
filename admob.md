@@ -215,9 +215,7 @@ When you are ready activate your ads when you publish, you'll simply need to set
 
 ![](.gitbook/assets/thunkable-docs-exhibits-14.png)
 
-{% hint style="warning" %}
-Downloading your app with `test mode = false`to generate more impressions/clicks for your ads is considered [invalid traffic](https://support.google.com/admob/answer/3342054?hl=en&ref_topic=9756841) and may lead to your AdMob account being suspended or disabled.
-{% endhint %}
+Downloading your app with `test mode = false` to generate more impressions/clicks for your ads is considered [invalid traffic](https://support.google.com/admob/answer/3342054?hl=en&ref_topic=9756841) and may lead to your AdMob account being suspended or disabled.
 
 ### Join Thunkable's MCM Network
 
