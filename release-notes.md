@@ -1,5 +1,11 @@
 # 📰 Release Notes
 
+## September 17, 2021
+
+Component Updates
+
+* Added new font options to Label and Button
+
 ## September 7, 2021
 
 Component Updates
