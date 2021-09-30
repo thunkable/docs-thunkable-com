@@ -16,7 +16,7 @@ You can customize your label using the following properties:
 ### Properties
 
 * **Text:** Text that appears on the label
-* **Font:** Choose between [Open Sans](https://fonts.google.com/specimen/Open+Sans), [Roboto](https://fonts.google.com/specimen/Roboto), [Oswald](https://fonts.google.com/specimen/Oswald), [Lato](https://fonts.google.com/specimen/Lato) and [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
+* **Font:** Font used to display Label's text
 * **Font Size:** Size of the text that appears on the label
 * **Color:** Color of the text that appears on the label
 * **Background Color:** Sets the background color of the label

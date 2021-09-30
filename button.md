@@ -21,7 +21,7 @@ A button is just something you can click on to perform an action. This action ca
 You have many options for styling your button, such as changing the background color or text color. Here are the different options for customization:
 
 * **Text:** Text that appears on the button
-* **Font:** Choose between [Open Sans](https://fonts.google.com/specimen/Open+Sans), [Roboto](https://fonts.google.com/specimen/Roboto), [Oswald](https://fonts.google.com/specimen/Oswald), [Lato](https://fonts.google.com/specimen/Lato) and [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
+* **Font:** Font used to display Button's text
 * **Text Color:** Color of the text that appears on the button
 * **Background Color:** Sets the background color of the button
 * **Font Size:** Size of the text that appears on the button
