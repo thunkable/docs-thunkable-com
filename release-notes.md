@@ -5,6 +5,7 @@
 Platform Updates
 
 * Drag and Drop UI: Improvements to UX when dragging components around in the component tree
+* Updates to sign-in email
 
 ## October 5, 2021
 
@@ -23,6 +24,17 @@ Component Updates
 Platform Updates
 
 * Improvements to app layouts on tablets
+* STP: Updates to Designer
+
+Component Updates
+
+* Improved handling of deliberately null component properties
+
+## September 22, 2021
+
+Platform Updates
+
+* Changes in how project assets are retrieved from the cloud
 
 ## September 17, 2021
 
