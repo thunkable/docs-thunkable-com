@@ -6,55 +6,46 @@ Allow your users to view your favorite PDFs -- legal contracts, art posters or m
 
 ![Bring your favorite PDFs with you in an app!](.gitbook/assets/thunkable-docs-exhibits-40.png)
 
-## Properties
+## Display PDF
 
-### PDF Reader
+### Upload PDF
 
-| Property | Description | Data Type |
-| :--- | :--- | :--- |
-| File | PDF to be displayed in the PDF Reader | Text |
+You can upload a PDF as an [Asset](assets.md) to your app and display it in the PDF Viewer.
 
-There are two ways to set a file to display in the PDF Reader.
-
-#### Upload PDF
-
-You can upload a PDF as an [Asset](assets.md) to your app and display it in the PDF Viewer. Be careful of the Thunkable 50 MB [app size limit](assets.md#app-size-limits-50-mb-per-app) if you choose to upload a file to your project.
-
-#### Use URL
+### Use URL
 
 You can enter a URL that points to a PDF on the web to display in your PDF. Make sure this URL ends in `.pdf`
+
+{% hint style="info" %}
+There is a size limit of 50MB per app. For larger PDFs, either reduce the size of the file before uploading to your Thunkable project, or host your PDF online and use a URL that points to it in your app
+{% endhint %}
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-5.00.27-pm.png)
 
 Once you upload the PDF, you will be able to view it in your app and pinch to zoom in. 
 
-### Layout
+## Edit size and position
 
-| Property | Description | Data Type |
-| :--- | :--- | :--- |
-| X | Location of top left corner of PDF Reader on X-axis, where the left hand side is X=0 | Number |
-| Y | Location of top left corner of PDF Reader on Y-axis, where the top side is Y=0 | Number |
-| Height | Height of PDF Reader in pixels | Number |
-| Width | Width of PDF Reader in pixels | Number |
-| Visible | Set whether the PDF Reader is visible | True/False |
+You can drag and drop your component into position, and set its size.   
+You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-## Blocks
+**Height:** Height of Button in pixels  
+**Width:** Width of Button in pixels
 
-### Properties
+**X:** position of top left corner of Button on X-axis  
+**Y:** position of top right corner of component on Y-axis
 
-Set and get [properties](pdf-reader.md#properties) of the PDF Reader.
+## Properties
 
-#### File 
-
-![](.gitbook/assets/file.png)
-
-#### Computed Height and Width 
-
-Returns the height/width of the PDF Reader on the device screen in pixels.
+### Computed Height and Width 
 
 ![](.gitbook/assets/comp%20%281%29.png)
 
-#### Visible
+### File 
+
+![](.gitbook/assets/file.png)
+
+### Visible
 
 ![](.gitbook/assets/visible%20%2810%29.png)
 

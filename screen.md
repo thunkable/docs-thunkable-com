@@ -57,32 +57,6 @@ This determines how to resize the image when the frame doesn't match the raw ima
 | :--- | :--- |
 | Screen Orientation | Default \(`all`\). You can fix the screen orientation to `portrait` and `landscape` |
 
-## Save Screen
-
-Thunkable allows you to reuse a screen, and its associated blocks, in multiple projects with the "Save to My Screens" feature. You can find the save screen button at the top of the properties for every screen component in your app.
-
-![](.gitbook/assets/screen-shot-2021-10-01-at-9.59.01-am.png)
-
-### Name Your Screen
-
-It's important that when you save your screen you use a descriptive and memorable name that describes what your screen does. The example below is for a sign in screen, which is something that often get reused across multiple projects.
-
-![](.gitbook/assets/03_name_screen.png)
-
-### Add a New Screen
-
-Once you've saved a screen, any time you click the **`+`** button at the top of your component tree to add a new screen to your project, you will be given the option to add a blank screen or to "Add From Saved Screens".
-
-![](.gitbook/assets/screen-shot-2021-10-01-at-10.00.23-am.png)
-
-### Choose a Saved Screen
-
-Simply choose the screen that you want to add in and click the "Copy" button to proceed.
-
-![](.gitbook/assets/05_choose_screen.png)
-
-## 
-
 ## Status Bar Properties
 
 ### Status Bar Style
@@ -150,6 +124,8 @@ Please Note: The `Translucent StatusBar` property will only work on Android devi
 | Function | Description |
 | :--- | :--- |
 | ToggleDrawerMenu | Opens or Closes the drawer menu, if available. Must be used in conjunction with the [Drawer Navigator](drawer-navigator.md) |
+
+## Screen-Specific Tab Navigator Properties
 
 ## Screen-Specific Navigator Properties
 

@@ -12,24 +12,24 @@ For activities that take more than a few seconds, loading icons can be helpful t
 
 | Property | Description |
 | :--- | :--- |
-| Color | The color of the Loading Icon |
+| Color | The color of the loading icon |
 
 ### Layout
 
 | Property | Description | Data Type |
 | :--- | :--- | :--- |
-| X | Location of top left corner of Loading Icon on X-axis, where the left hand side is X=0 | Number |
-| Y | Location of top left corner of Loading Iconon Y-axis, where the top side is Y=0 | Number |
-| Height | Height of Loading Icon in pixels | Number |
-| Width | Width of Loading Icon in pixels | Number |
-| Visible | Set whether the Loading Icon is visible | True/False |
+| X | Location of top left corner of Web Viewer on X-axis, where the left hand side is X=0 | Number |
+| Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
+| Height | Height of Web Viewer in pixels | Number |
+| Width | Width of Web Viewer in pixels | Number |
+| Visible | Set whether the Web Viewer is visible | True/False |
 
 ### **Style**
 
 | **Property** | Description | Data Type |
 | :--- | :--- | :--- |
-| Border Width | Width of border around Loading Icon in pixels | Number |
-| Border Radius | Radius of corners of border on Loading Icon in degrees | Number |
+| Border Width | Width of border around Web Viewer in pixels | Number |
+| Border Radius | Radius of corners of border on Web Viewer in degrees | Number |
 | Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
 | Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
 
