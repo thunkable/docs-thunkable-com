@@ -1,5 +1,29 @@
 # 📰 Release Notes
 
+## October 8, 2021
+
+Platform Updates
+
+* Drag and Drop UI: Improvements to UX when dragging components around in the component tree
+
+## October 5, 2021
+
+Platform Updates
+
+* Update text on platform sign-in page
+
+## September 29, 2021
+
+Component Updates
+
+* Improve appearance of clickable Image components
+
+## September 23, 2021
+
+Platform Updates
+
+* Improvements to app layouts on tablets
+
 ## September 17, 2021
 
 Component Updates
