@@ -6,18 +6,18 @@ description: Create interactive gaming apps with sprites.
 
 ## Sprite Overview
 
-Sprites are images that can be placed on the Stage in the Canvas.   
+Sprites are images that can be placed on the Stage in the Canvas. \
 They can react to being touched or dragged across the screen, or colliding with other sprites or the edge of the screen.
 
 ## Sprites vs Sprite Types
 
-A **Sprite Type** is a **category** of Sprites that you can add to your app. For example, in a video game you might have a Main Character Sprite Type and Obstacle Sprite Types. 
+A **Sprite Type **is a **category **of Sprites that you can add to your app. For example, in a video game you might have a Main Character Sprite Type and Obstacle Sprite Types.&#x20;
 
-A **Sprite** is a **single instance** of a Sprite Type. In the video game example, you could have a single Obstacle Sprite Type, but multiple Obstacle Sprites in your app. They would be multiple Sprites of the same Sprite Type.
+A **Sprite **is a **single instance **of a Sprite Type. In the video game example, you could have a single Obstacle Sprite Type, but multiple Obstacle Sprites in your app. They would be multiple Sprites of the same Sprite Type.
 
 ### Example: Different Types of Sprites
 
-Groups of sprites that have the same behavior should belong to the same sprite type. In the example below, WallType is a Sprite Type, and there are multiple Sprites of this type in the app \(ie. the walls\). 
+Groups of sprites that have the same behavior should belong to the same sprite type. In the example below, WallType is a Sprite Type, and there are multiple Sprites of this type in the app (ie. the walls).&#x20;
 
 Whenever the ball touches any of the WallType Sprites, the ball goes back to its starting location.
 
@@ -27,32 +27,32 @@ Whenever the ball touches any of the WallType Sprites, the ball goes back to its
 
 ### Adding Sprites Types to your app
 
-To add a Sprite Type to your app, click on the Stage of your Canvas. 
+To add a Sprite Type to your app, click on the Stage of your Canvas.&#x20;
 
-This will automatically bring you to the Canvas tab. 
+This will automatically bring you to the Canvas tab.&#x20;
 
 Underneath your component tree, where you would see a component menu in the Design tab, you will see your Sprite Type menu.
 
-![Screenshot of &apos;Add Sprite Type&apos; section of your app](.gitbook/assets/spritetypescreenshot.png)
+![Screenshot of 'Add Sprite Type' section of your app](.gitbook/assets/spritetypescreenshot.png)
 
 You can click on 'Add Sprite Type' to add a new Sprite Type to your app.
 
 ### Sprite Type Properties
 
-| Name | Description | Data Type |
-| :--- | :--- | :--- |
-| Picture List | Images that can be shown with the given Sprite Type | Image files |
-| Angle | Change the angle of the sprite. The angle is measured in a clockwise direction and is measured in degrees, eg. setting angle to 30 will rotate your sprite 30 degrees clockwise | Number |
-| Opacity | Change the opacity of the Sprite, where 100% is max opacity and 0 is max transparency | Number |
-| Bounce | When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed. | Number |
-| Is Draggable | Toggle whether the player can drag the Sprite Type | True/False |
-| Passes Through | Toggle whether Sprite Type passes through other Sprites | True/False |
-| Is Static | Toggle whether Sprite Type's location is fixed | True/False |
-| Ignore Gravity | Toggle whether of not the sprite is affected by the Stage's gravity | True/False |
-| Fixed Rotation | Toggle whether Sprite Type's Angle can be changed | True/False |
-| Drawing | Toggle whether Sprite Type draws a line as it moves | True/False |
-| Drawing Color | Toggle color of line drawn when Drawing is true | Color |
-| Drawing Width | Width of line drawn when Drawing is true | Width |
+| Name           | Description                                                                                                                                                                                                                                                                                        | Data Type   |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| Picture List   | Images that can be shown with the given Sprite Type                                                                                                                                                                                                                                                | Image files |
+| Angle          | Change the angle of the sprite. The angle is measured in a clockwise direction and is measured in degrees, eg. setting angle to 30 will rotate your sprite 30 degrees clockwise                                                                                                                    | Number      |
+| Opacity        | Change the opacity of the Sprite, where 100% is max opacity and 0 is max transparency                                                                                                                                                                                                              | Number      |
+| Bounce         | When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed. | Number      |
+| Is Draggable   | Toggle whether the player can drag the Sprite Type                                                                                                                                                                                                                                                 | True/False  |
+| Passes Through | Toggle whether Sprite Type passes through other Sprites                                                                                                                                                                                                                                            | True/False  |
+| Is Static      | Toggle whether Sprite Type's location is fixed                                                                                                                                                                                                                                                     | True/False  |
+| Ignore Gravity | Toggle whether of not the sprite is affected by the Stage's gravity                                                                                                                                                                                                                                | True/False  |
+| Fixed Rotation | Toggle whether Sprite Type's Angle can be changed                                                                                                                                                                                                                                                  | True/False  |
+| Drawing        | Toggle whether Sprite Type draws a line as it moves                                                                                                                                                                                                                                                | True/False  |
+| Drawing Color  | Toggle color of line drawn when Drawing is true                                                                                                                                                                                                                                                    | Color       |
+| Drawing Width  | Width of line drawn when Drawing is true                                                                                                                                                                                                                                                           | Width       |
 
 ### See Also
 
@@ -74,29 +74,29 @@ In the below GIF, there is a canvas with a Sprite, called Sprite1. There is also
 
 ### Sprite Properties
 
-| Name | Description | Data Type |
-| :--- | :--- | :--- |
-| Picture Selection | Select an image from the Picture List defined in the Sprite Type to display on the SpriteImage files | Select from menu |
-| Angle | Change the angle of the sprite. The angle is measured in a clockwise direction and is measured in degrees, eg. setting angle to 30 will rotate your sprite 30 degrees clockwise | Number |
-| Opacity | Change the opacity of the Sprite, where 100% is max opacity and 0 is max transparency | Number |
-| Bounce | When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed. | Number |
-| Is Draggable | Toggle whether the player can drag the Sprite Type | True/False |
-| Passes Through | Toggle whether Sprite Type passes through other Sprites | True/False |
-| Is Static | Toggle whether Sprite Type's location is fixed | True/False |
-| Ignore Gravity | Toggle whether of not the sprite is affected by the Stage's gravity | True/False |
-| Fixed Rotation | Toggle whether Sprite Type's Angle can be changed | True/False |
-| Drawing | Toggle whether Sprite Type draws a line as it moves | True/False |
-| Drawing Color | Toggle color of line drawn when Drawing is true | Color |
-| Drawing Width | Width of line drawn when Drawing is true | Width |
-| X | Location of the top-left pixel of the Sprite on the X-axis of the stage, where the left-hand side is 0 | Number |
-| Y | Location of the top-left pixel of the Sprite on the Y-axis of the stage, where the top is 0 | Number |
-| Z | Where the Sprite is in the Depth of the Canvas. A Sprite with a higher Z-value will appear in front of a Sprite with a lower Z-value. | Number |
+| Name              | Description                                                                                                                                                                                                                                                                                        | Data Type        |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Picture Selection | Select an image from the Picture List defined in the Sprite Type to display on the SpriteImage files                                                                                                                                                                                               | Select from menu |
+| Angle             | Change the angle of the sprite. The angle is measured in a clockwise direction and is measured in degrees, eg. setting angle to 30 will rotate your sprite 30 degrees clockwise                                                                                                                    | Number           |
+| Opacity           | Change the opacity of the Sprite, where 100% is max opacity and 0 is max transparency                                                                                                                                                                                                              | Number           |
+| Bounce            | When a sprite hits a surface or another sprite, this is the percentage of the speed that sprite with bounce back with. A bounce of 100 means that the sprite will bounce back at the same speed it had in its collision. A bounce of 200 will cause the sprite to bounce off with twice its speed. | Number           |
+| Is Draggable      | Toggle whether the player can drag the Sprite Type                                                                                                                                                                                                                                                 | True/False       |
+| Passes Through    | Toggle whether Sprite Type passes through other Sprites                                                                                                                                                                                                                                            | True/False       |
+| Is Static         | Toggle whether Sprite Type's location is fixed                                                                                                                                                                                                                                                     | True/False       |
+| Ignore Gravity    | Toggle whether of not the sprite is affected by the Stage's gravity                                                                                                                                                                                                                                | True/False       |
+| Fixed Rotation    | Toggle whether Sprite Type's Angle can be changed                                                                                                                                                                                                                                                  | True/False       |
+| Drawing           | Toggle whether Sprite Type draws a line as it moves                                                                                                                                                                                                                                                | True/False       |
+| Drawing Color     | Toggle color of line drawn when Drawing is true                                                                                                                                                                                                                                                    | Color            |
+| Drawing Width     | Width of line drawn when Drawing is true                                                                                                                                                                                                                                                           | Width            |
+| X                 | Location of the top-left pixel of the Sprite on the X-axis of the stage, where the left-hand side is 0                                                                                                                                                                                             | Number           |
+| Y                 | Location of the top-left pixel of the Sprite on the Y-axis of the stage, where the top is 0                                                                                                                                                                                                        | Number           |
+| Z                 | Where the Sprite is in the Depth of the Canvas. A Sprite with a higher Z-value will appear in front of a Sprite with a lower Z-value.                                                                                                                                                              | Number           |
 
 ## Demo
 
 ### Demo
 
-In the GIF below, we see that when one Sprite \(the Thunkable Beaver\) collides with another Sprite \(the tree trunk\), the appearance of the Tree Sprite changes.
+In the GIF below, we see that when one Sprite (the Thunkable Beaver) collides with another Sprite (the tree trunk), the appearance of the Tree Sprite changes.
 
 This demonstrates the following:
 
@@ -117,4 +117,3 @@ Z: The Beaver sprite has a higher Z-value than the Tree sprite, so the beaver pa
 ## Blocks
 
 Check out the [Gaming Blocks](gaming-blocks.md) to see the blocks available to use with Sprites in your project.
-

@@ -30,7 +30,7 @@ When you create a variable, you'll have the choice between an app, stored and cl
 
 ### App Variables
 
-An **app** variable works across screens and is stored in the app itself.   
+An **app** variable works across screens and is stored in the app itself. \
 You can save any data type as an app variable.
 
 ### Stored Variables
@@ -41,9 +41,9 @@ You can save any data type as a stored variable.
 
 ### Cloud Variables
 
-A **cloud** variable also works across screens but is saved to the cloud powered by Firebase.   
-  
-By default, the cloud variable is saved to the Thunkable default Firebase database. We recommend saving them to your own private Firebase DB by [connecting a private Firebase DB to your app](variables.md#connecting-a-firebase-realtime-db-to-your-app). 
+A **cloud** variable also works across screens but is saved to the cloud powered by Firebase. \
+\
+By default, the cloud variable is saved to the Thunkable default Firebase database. We recommend saving them to your own private Firebase DB by [connecting a private Firebase DB to your app](variables.md#connecting-a-firebase-realtime-db-to-your-app).&#x20;
 
 Cloud variables can be used similar to saving and retrieving values to a Realtime DB powered by Firebase and can be used in a number of applications that share data across users in the cloud. If you use cloud variables, you no longer need to add a Realtime DB to your app.
 
@@ -55,7 +55,7 @@ To save a list as a cloud variable, use the 'make text from list' block to conve
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.21.05-am.png)
 
-  
+\
 When you retrieve this text from your cloud variable, you can convert it to a list with the 'make list from text' block to work with it as a list in your app.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.21.42-am.png)
@@ -66,7 +66,7 @@ To save media as a cloud variable, use the [Cloudinary Media DB](camera.md#uploa
 
 ![](.gitbook/assets/screen-shot-2018-10-11-at-1.29.35-pm.png)
 
-To create a variable when the app starts, you can grab the block above, select your variable `scope` \(app, stored, cloud\) and give the variable a `name` like hello. You'll have to connect a block to give app variables an initial value \(in the picture above\). We recommend placing these blocks in the initial app screen.
+To create a variable when the app starts, you can grab the block above, select your variable `scope` (app, stored, cloud) and give the variable a `name` like hello. You'll have to connect a block to give app variables an initial value (in the picture above). We recommend placing these blocks in the initial app screen.
 
 ## Set a variable during an app event
 
@@ -86,7 +86,7 @@ Once you have stored a value to your variable, you can retrieve it any time usin
 
 ![](.gitbook/assets/screen-shot-2018-12-18-at-11.17.52-pm.png)
 
-Once you have created your variable, you can set it to update when the variable updates in your app. 
+Once you have created your variable, you can set it to update when the variable updates in your app.&#x20;
 
 With Cloud variables, this block will also be triggered when the value of the Cloud variable is changed in your Firebase DB. This block replaces the Add.Listener and DataChanged blocks in the Realtime DB.
 
@@ -100,7 +100,7 @@ Variables do not have to be fixed values and there may be times when you want to
 
 The above blocks use hard coded variable names, where you must select a variable from a list of variables that you have initialized.
 
-You can also create **dynamically named** variables. There are variables that you create and name during app runtime, which do not have an initialize block.
+You can also create **dynamically named **variables. There are variables that you create and name during app runtime, which do not have an initialize block.
 
 You can name these by typing in a name, or by using other variables to name the dynamically created variables.
 
@@ -110,13 +110,13 @@ You can create dynamically named app, stored or cloud variables.
 
 ## Connecting a Firebase Realtime DB to your App
 
-### Create your free [Firebase](https://firebase.google.com/) project and account
+### Create your free [Firebase](https://firebase.google.com) project and account
 
 Thunkable provides a default Firebase account for testing purposes. When your app is ready to be distributed, we strongly advise connecting your app to your personal Firebase instance.
 
 Firebase Realtime Database also pairs well with [Sign in](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/ios/components/screen-layout/authentication/sign-in.md) and you can use a single Firebase project for both services.
 
-![](.gitbook/assets/firebase-fig-3%20%281%29.png)
+![](<.gitbook/assets/firebase-fig-3 (1).png>)
 
 ### Edit Database Rules
 
@@ -138,11 +138,10 @@ One way to retrieve the `API key` and `Database URL` from Firebase is to click o
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-68.png)
 
-![](.gitbook/assets/thunkable-documentation-exhibits-69%20%281%29.png)
+![](<.gitbook/assets/thunkable-documentation-exhibits-69 (1).png>)
 
 ### Test Save to your Database
 
 Once your project is connected to your Thunkable app, we recommend that you do a simple test and save a value into your database. It should appear in your data tab in your Firebase console.
 
 ![](.gitbook/assets/firebase-fig-10.png)
-

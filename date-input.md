@@ -10,13 +10,13 @@ A Date Input component is helpful when you want the user of your app to easily s
 
 ### Date Input
 
-| Property | Description | Data Type |
-| :--- | :--- | :--- |
-| Style | Format to use when displaying selected date | Select from menu |
-| Font Size | Size of font when displaying date | Number |
-| Font Style | Select whether font is normal or italic | Select from menu |
-| Font Weight | Set boldness of font | Select from menu |
-| Color | Color of font when displaying date | Color |
+| Property    | Description                                 | Data Type        |
+| ----------- | ------------------------------------------- | ---------------- |
+| Style       | Format to use when displaying selected date | Select from menu |
+| Font Size   | Size of font when displaying date           | Number           |
+| Font Style  | Select whether font is normal or italic     | Select from menu |
+| Font Weight | Set boldness of font                        | Select from menu |
+| Color       | Color of font when displaying date          | Color            |
 
 The following formats are currently available to use as `Style:`
 
@@ -28,22 +28,22 @@ The following formats are currently available to use as `Style:`
 
 ### Layout
 
-| Property | Description | Data Type |
-| :--- | :--- | :--- |
-| X | Location of top left corner of Web Viewer on X-axis, where the left hand side is X=0 | Number |
-| Y | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0 | Number |
-| Height | Height of Web Viewer in pixels | Number |
-| Width | Width of Web Viewer in pixels | Number |
-| Visible | Set whether the Web Viewer is visible | True/False |
+| Property | Description                                                                          | Data Type  |
+| -------- | ------------------------------------------------------------------------------------ | ---------- |
+| X        | Location of top left corner of Date Input on X-axis, where the left hand side is X=0 | Number     |
+| Y        | Location of top left corner of Date Input on Y-axis, where the top side is Y=0       | Number     |
+| Height   | Height of Date Input in pixels                                                       | Number     |
+| Width    | Width of Date Input in pixels                                                        | Number     |
+| Visible  | Set whether the Date Input is visible                                                | True/False |
 
 ### **Style**
 
-| **Property** | Description | Data Type |
-| :--- | :--- | :--- |
-| Border Width | Width of border around Web Viewer in pixels | Number |
-| Border Radius | Radius of corners of border on Web Viewer in degrees | Number |
-| Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
-| Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
+| **Property**  | Description                                                                             | Data Type        |
+| ------------- | --------------------------------------------------------------------------------------- | ---------------- |
+| Border Width  | Width of border around Date Input in pixels                                             | Number           |
+| Border Radius | Radius of corners of border on Date Input in degrees                                    | Number           |
+| Border Color  | Color of border (only visible if border width > 0)                                      | Color            |
+| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from menu |
 
 ## Blocks
 
@@ -55,87 +55,86 @@ You can trigger actions to happen when an event occurs.
 
 This event fires when the user has selected a date using the Date Picker.
 
-![](.gitbook/assets/dp1-8%20%281%29.png)
+![](<.gitbook/assets/dp1-8 (1).png>)
 
 ### Functions
 
-#### Get Date 
+#### Get Date&#x20;
 
 Returns full date from Date Picker in format Mon., DD, YYYY.
 
-![](.gitbook/assets/f_get_date.png)
+![](.gitbook/assets/f\_get\_date.png)
 
-#### Get Day 
+#### Get Day&#x20;
 
 Returns date from Date Picker in numeric form.
 
-Eg. If February 17, 2021 has been selected in Date Picker, this block will return 17.   
+Eg. If February 17, 2021 has been selected in Date Picker, this block will return 17. \
 If 5 March 2021 is selected in Date Picker, this block will return 5.
 
-![](.gitbook/assets/f_get_day.png)
+![](.gitbook/assets/f\_get\_day.png)
 
-#### Get Month 
+#### Get Month&#x20;
 
 Returns date from Date Picker in numeric form.
 
-Eg. If February 17, 2021 has been selected in Date Picker, this block will return 2.   
+Eg. If February 17, 2021 has been selected in Date Picker, this block will return 2. \
 If 7 November 2021 is selected in Date Picker, this block will return 11.
 
-![](.gitbook/assets/f_get_month.png)
+![](.gitbook/assets/f\_get\_month.png)
 
-#### Get Year 
+#### Get Year&#x20;
 
 Returns date from Date Picker in YYYY form.
 
-![](.gitbook/assets/f_get_year.png)
+![](.gitbook/assets/f\_get\_year.png)
 
 #### Launch Picker
 
 Opens Picker of the Date Input to prompt the user to enter a date.
 
-![](.gitbook/assets/f_launch_picker.png)
+![](.gitbook/assets/f\_launch\_picker.png)
 
-###  Properties
+### &#x20;Properties
 
 Set and get [properties](date-input.md#properties) of the Date Picker.
 
-#### Background Color 
+#### Background Color&#x20;
 
-![](.gitbook/assets/bg_color%20%283%29.png)
+![](<.gitbook/assets/bg\_color (3).png>)
 
-#### Color 
+#### Color&#x20;
 
-![](.gitbook/assets/color%20%281%29.png)
+![](<.gitbook/assets/color (1).png>)
 
-#### Computed Height and Width 
+#### Computed Height and Width&#x20;
 
-![](.gitbook/assets/comp_height.png)
+![](.gitbook/assets/comp\_height.png)
 
 Returns the height/width of the Date Input on the device screen in pixels.
 
-#### Font Size 
+#### Font Size&#x20;
 
-![](.gitbook/assets/font_size%20%282%29.png)
+![](<.gitbook/assets/font\_size (2).png>)
 
-#### Font Style 
+#### Font Style&#x20;
 
-![](.gitbook/assets/font_style%20%281%29.png)
+![](<.gitbook/assets/font\_style (1).png>)
 
-#### Font Weight 
+#### Font Weight&#x20;
 
-![](.gitbook/assets/font_weight%20%282%29.png)
+![](<.gitbook/assets/font\_weight (2).png>)
 
-#### Style 
+#### Style&#x20;
 
 ![](.gitbook/assets/dp1-2.png)
 
-#### Text Align 
+#### Text Align&#x20;
 
-![](.gitbook/assets/text_align%20%282%29.png)
+![](<.gitbook/assets/text\_align (2).png>)
 
 Set the Text Alignment of the Date Input to `Auto`, `Left`, `Right`, `Center` or `Justify`.
 
 #### Visible
 
-![](.gitbook/assets/visible%20%287%29.png)
-
+![](<.gitbook/assets/visible (7).png>)

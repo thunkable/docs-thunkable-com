@@ -6,7 +6,7 @@ The magnetometer is used to measure magnetic flux density. This is the total mag
 
 ![](.gitbook/assets/screenshot-2019-05-18-at-15.27.06.png)
 
-## 
+##
 
 ## Adding a Magnetometer to your app
 
@@ -22,36 +22,38 @@ To add a Magnetometer to your app:
 
 You will see a settings panel where you can set:
 
-* The **Name** of the Magnetometer
+* The **Name **of the Magnetometer
 * Whether the Magnetometer is **Enabled**
 
 You can either confirm your choices and create the Magnetometer, or delete the Magnetometer.
 
-![](.gitbook/assets/image%20%28177%29.png)
+![](<.gitbook/assets/image (177).png>)
 
-##  Change Settings of Magnetometer <a id="change-settings-of-magnetometer"></a>
+\
+Change Settings of Magnetometer <a href="change-settings-of-magnetometer" id="change-settings-of-magnetometer"></a>
+-------------------------------------------------------------------------------------------------------------------
 
 ‌You will see the sensors you have added to your app underneath the Sensors section of your blocks.
 
 ![](.gitbook/assets/showallsensors.png)
 
-  
+\
 If you click on the ⚙ icon next to your Magnetometer, you will be able to edit its settings as seen in the panels above. You can click on your Magnetometer's name to access its drawer of blocks.‌
 
 ## Events
 
 #### When Magnetometer Changes
 
-When the magnetometer detects a change in the ambient magnetic field the `Changes` event will fire. The event returns 4 parameters that we can work with. 
+When the magnetometer detects a change in the ambient magnetic field the `Changes` event will fire. The event returns 4 parameters that we can work with.&#x20;
 
 ![](.gitbook/assets/screenshot-2019-05-18-at-14.15.20.png)
 
-| Parameter | Type | Returns |
-| :--- | :--- | :--- |
+| Parameter      | Type   | Returns                                                   |
+| -------------- | ------ | --------------------------------------------------------- |
 | `xFluxDensity` | Number | Flux density, in the x direction, expressed in $$\mu T$$  |
 | `yFluxDensity` | Number | Flux density, in the y direction, expressed in $$\mu T$$  |
 | `zFluxDensity` | Number | Flux density, in the z direction, expressed in $$\mu T$$  |
-| `error` | String | Error message from the Sensor |
+| `error`        | String | Error message from the Sensor                             |
 
 ## Functions
 
@@ -85,10 +87,9 @@ Returns a value between 0 and 360 which denotes the user's direction relative to
 
 The magnetometer is, by default, turned on, but the `enabled` property can be used to turn in on and off by setting it to `true` or `false` respectively.
 
-![](.gitbook/assets/mag_enabled.png)
+![](.gitbook/assets/mag\_enabled.png)
 
-| Property | Type | Default |
-| :--- | :--- | :--- |
-| `set Enabled` | Bool | true |
-| `get Enabled` | Bool | true |
-
+| Property      | Type | Default |
+| ------------- | ---- | ------- |
+| `set Enabled` | Bool | true    |
+| `get Enabled` | Bool | true    |

@@ -12,27 +12,33 @@ The Image component lets you display pictures in your app and pairs nicely with 
 
 ## Set Image
 
-There are a few ways you can display an image in your app:  
+There are a few ways you can display an image in your app:\
 ****
 
-1. **Upload a picture to your app**  ![](https://lh3.googleusercontent.com/q4lZ_0EQDXPqxKesgd0G61kHJBrFWxqGkZWJpBw6Bz3qy39OdFVIN-JtL1f-fiJsBnGYD0Y8QFGlEbMnC9PewzAe0jHO7LhXh60vkt3-x0za-r-VIKyvPJfMfu7EACxpHKyYkX4T) 
-2. **Provide a link to the image**  ![](https://lh6.googleusercontent.com/Qgxd14OTm3vZowwQsZ6-2uE2UozbUonGywxOOkr3Pozhia7jNDIw9_o-1CxsfEtynzkusC87RG9sCIcfsvzQ_3YGDvN6nZcG1hOVGbFhdQRN2FHmPQbYEBYgNDfFgL2v3x2kAauW) 
+1. **Upload a picture to your app**\
+   ****\
+   ****![](https://lh3.googleusercontent.com/q4lZ\_0EQDXPqxKesgd0G61kHJBrFWxqGkZWJpBw6Bz3qy39OdFVIN-JtL1f-fiJsBnGYD0Y8QFGlEbMnC9PewzAe0jHO7LhXh60vkt3-x0za-r-VIKyvPJfMfu7EACxpHKyYkX4T)\
+
+2. **Provide a link to the image**\
+   ****\
+   ****![](https://lh6.googleusercontent.com/Qgxd14OTm3vZowwQsZ6-2uE2UozbUonGywxOOkr3Pozhia7jNDIw9\_o-1CxsfEtynzkusC87RG9sCIcfsvzQ\_3YGDvN6nZcG1hOVGbFhdQRN2FHmPQbYEBYgNDfFgL2v3x2kAauW)\
+
 3. **Take a picture with the Camera component**
 
-![](.gitbook/assets/take_photo.png)
+![](.gitbook/assets/take\_photo.png)
 
-The blocks above open up your phone’s camera and set the Image component to the picture that you took. 
+The blocks above open up your phone’s camera and set the Image component to the picture that you took.&#x20;
 
 ## Edit size and position
 
-You can drag and drop your component into position, and set its size.   
+You can drag and drop your component into position, and set its size. \
 You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
+**Height:** Height of Button in pixels\
+**Width: **Width of Button in pixels
 
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
+**X:** position of top left corner of Button on X-axis\
+**Y: **position of top right corner of component on Y-axis
 
 ## Resizing the Image
 
@@ -40,26 +46,26 @@ You can set exact values for the component's Height and Width, and X and Y coord
 
 With the Resize Mode property, you can do the following:
 
-* **Cover:** Resizes the picture to its max height or width regardless without changing the image quality.
-* **Contain:** Resizes the picture to fit the area without changing its quality
-* **Stretch:** The picture’s height will change to fill the image component length-wise
-* **Repeat:** Repeats the picture at its original quality within the image component area
-* **Center:** Positions the picture in the middle of the image component
+* **Cover: **Resizes the picture to its max height or width regardless without changing the image quality.
+* **Contain: **Resizes the picture to fit the area without changing its quality
+* **Stretch: **The picture’s height will change to fill the image component length-wise
+* **Repeat: **Repeats the picture at its original quality within the image component area
+* **Center: **Positions the picture in the middle of the image component
 
 ## Add a Border
 
 You can style the image with the following properties:
 
 * **Border**
-  * **Width:** Enter how wide you want the border outline of the image to be 
-  * **Color:** Pick a color for the border of the image
-  * **Radius:** Enter how round you want the edges of the border for the image to be ****
+  * **Width: **Enter how wide you want the border outline of the image to be&#x20;
+  * **Color: **Pick a color for the border of the image
+  * **Radius: **Enter how round you want the edges of the border for the image to be** **
 
 ## Events
 
 ### Click
 
-![](.gitbook/assets/image_click.png)
+![](.gitbook/assets/image\_click.png)
 
 This event handler is fired when the user clicks on the image.
 
@@ -67,32 +73,32 @@ This event handler is fired when the user clicks on the image.
 
 ### Computed Dimensions
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%282%29.jpg)
+![](<.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy (2).jpg>)
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%281%29.jpg)
+![](<.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy (1).jpg>)
 
 The `Computed Height` and `Computed Width` blocks return the on screen dimensions of the image, after it has been rendered on-screen. The value returned is an integer, representing the size of the image in pixels.
 
-### Height 
+### Height&#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy%20%283%29.jpg)
+![](<.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy (3).jpg>)
 
-The set and get height blocks work with the Height property of the image component. Acceptable input values are. 
+The set and get height blocks work with the Height property of the image component. Acceptable input values are.&#x20;
 
 * Number of Pixels
 * Percentage Height
 * "Fit Contents"
 * "Fill Container"
 
-### Picture 
+### Picture&#x20;
 
 ![](.gitbook/assets/picture.png)
 
-The set and get picture blocks work with picture property of the image component. Pictures can be uploaded as local assets or specified as URLs 
+The set and get picture blocks work with picture property of the image component. Pictures can be uploaded as local assets or specified as URLs&#x20;
 
-### Resize Mode 
+### Resize Mode&#x20;
 
-![](.gitbook/assets/resize_mode%20%281%29.png)
+![](<.gitbook/assets/resize\_mode (1).png>)
 
 The set and get resize mode blocks work with how the picture is scaled within the image component. Acceptable values are:
 
@@ -102,9 +108,9 @@ The set and get resize mode blocks work with how the picture is scaled within th
 * Repeat
 * Center
 
-### Visible 
+### Visible&#x20;
 
-![](.gitbook/assets/visible%20%2812%29.png)
+![](<.gitbook/assets/visible (12).png>)
 
 The set and get visible blocks are used to show or hide the entire image component. Acceptable values are:
 
@@ -115,13 +121,11 @@ The set and get visible blocks are used to show or hide the entire image compone
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.19.37-pm-copy.jpg)
 
-  
+\
 The set and get width blocks work with the Width property of the image component. Acceptable values are.‌
 
 * Number of Pixels
 * Percentage Width
 * "Fit Contents"
 * "Fill Container"
-
-
 

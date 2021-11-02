@@ -10,14 +10,14 @@ Select the Group component from your [Components](components.md) menu and add it
 
 ## Set Group Size
 
-You can drag and drop your component into position, and set its size.   
+You can drag and drop your component into position, and set its size. \
 You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
-**Height:** Height of Button in pixels  
-**Width:** Width of Button in pixels
+**Height:** Height of Button in pixels\
+**Width: **Width of Button in pixels
 
-**X:** position of top left corner of Button on X-axis  
-**Y:** position of top right corner of component on Y-axis
+**X:** position of top left corner of Button on X-axis\
+**Y: **position of top right corner of component on Y-axis
 
 ## Add Components to Group
 
@@ -28,6 +28,4 @@ You will see the components you added to the Group are now nestled inside the Gr
 ## Moving Groups in Your Project
 
 Once you have added components to a Group, you can move them around as a group. This will make it easier to create complex layouts made of multiple components that you can still move around in your app as a single unit.
-
-
 

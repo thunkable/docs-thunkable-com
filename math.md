@@ -12,7 +12,7 @@ Use this block to specify a number you want to use in your app.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-12.18.39-pm.png)
 
-You can also round up or down a decimal figure into an integer using the **round** block
+You can also round up or down a decimal figure into an integer using the **round **block
 
 ### Round to X Decimal Places
 
@@ -34,13 +34,13 @@ There is also a block for irrational numbers like `π`
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-12.24.55-pm.png)
 
-Returns **true** or **false** based on whether the chosen condition applies to the number
+Returns **true** or **false **based on whether the chosen condition applies to the number
 
 ## Perform Operations
 
 ### Constrain Number
 
-![](.gitbook/assets/image%20%28189%29.png)
+![](<.gitbook/assets/image (189).png>)
 
 If the given number is of a lower value than the lower bound, this block will set the given number to have the value of the lower bound.
 
@@ -76,7 +76,7 @@ These blocks will return a value assuming the input is given in **degrees**.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-12.21.56-pm.png)
 
-### 
+###
 
 ## Introduce Randomness
 
@@ -94,7 +94,7 @@ Returns a random integer between two given integers. Is inclusive of the given i
 
 ### Random Fraction
 
-Returns a random fraction $$x $$ where $$0 ≤ x < 1$$
+Returns a random fraction $$x$$ where $$0 ≤ x < 1$$
 
 ![](.gitbook/assets/blocks-math-fig-12.png)
 
@@ -105,4 +105,3 @@ The [Lists](lists.md) blocks also have blocks for selecting [random items from a
 ## See Also
 
 The [Lists](lists.md) blocks have a block for getting certain mathematical values from a List, including [sum min, max, averages, and standard deviation.](lists.md#sum-min-max-averages-standard-deviation-random-item)
-

@@ -10,11 +10,11 @@ description: >-
 
 You can watch a video tutorial for using Navigators in your Thunkable app here:
 
-{% embed url="https://www.youtube.com/watch?v=0NrkKiCGaxk&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q\_Np&index=2" %}
+{% embed url="https://www.youtube.com/watch?v=0NrkKiCGaxk&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q_Np&index=2" %}
 
 ## Adding Navigators
 
-To add a navigator to your app, click **Screens +** at the top of your component tree.   
+To add a navigator to your app, click **Screens +** at the top of your component tree. \
 Select **Add Navigator** and select the Navigator you want to add.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-5.06.23-pm.png)
@@ -23,7 +23,7 @@ Select **Add Navigator** and select the Navigator you want to add.
 
 ## Name Your Drawers
 
-The names displayed in the Drawer Navigator will be the names of the [Screens](screen.md) it contains. 
+The names displayed in the Drawer Navigator will be the names of the [Screens](screen.md) it contains.&#x20;
 
 ## Drawer Navigator Properties
 
@@ -32,16 +32,15 @@ The names displayed in the Drawer Navigator will be the names of the [Screens](s
 You have many options for styling your Drawer Navigator, such as changing the background color or tint color. Here are the different options for customization:
 
 * **Drawer Width:** Width of the Drawer in pixels
-* **Drawer Position:** Position Drawer swipes out from: left or right
+* **Drawer Position: **Position Drawer swipes out from: left or right
 * **DrawerOptions**
-  * **Active Tint Color:** Tint color for selected drawer. 
-  * **Active Background Color:** Background color for selected drawer.
-  * **Inactive Tint Color:** Text color for unselected drawers. 
-  * **Inactive Background Color:** Background color for unselected drawer. 
+  * **Active Tint Color: **Tint color for selected drawer.&#x20;
+  * **Active Background Color: **Background color for selected drawer.
+  * **Inactive Tint Color:** Text color for unselected drawers.&#x20;
+  * **Inactive Background Color: **Background color for unselected drawer.&#x20;
 
 ## Screen-Specific Drawer Navigator Properties
 
-When you add a Screen to your Drawer Navigator, you will a new section called **Drawer Navigation Options** in your Screen's Properties panel with the following properties:
+When you add a Screen to your Drawer Navigator, you will a new section called **Drawer Navigation Options **in your Screen's Properties panel with the following properties:
 
-**Drawer Label:** Set the Label of this Screen's drawer in the Drawer Navigator
-
+**Drawer Label: **Set the Label of this Screen's drawer in the Drawer Navigator

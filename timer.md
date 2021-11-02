@@ -4,8 +4,8 @@
 
 ### Create a Timer
 
-You can add a Timer to your app from the Blocks tab of your Thunkable project.  
-Find the **Timers** drawer of blocks and click on the ⊕ icon to add a Timer to your app.
+You can add a Timer to your app from the Blocks tab of your Thunkable project.\
+Find the **Timers **drawer of blocks and click on the ⊕ icon to add a Timer to your app.
 
 ![](.gitbook/assets/timers.png)
 
@@ -13,13 +13,13 @@ Find the **Timers** drawer of blocks and click on the ⊕ icon to add a Timer to
 
 You will see a settings panel that allows you to set:
 
-* The **Name** of the Timer
-* The **Interval** of the Timer, in seconds or milliseconds
+* The **Name **of the Timer
+* The **Interval **of the Timer, in seconds or milliseconds
 * Whether or not the Timer should **Count Up**
 * Whether the Timer should **Loop**, ie. if the Timer should reset itself once it fires
-* Whether the Timer is **Enabled** \(this can be changed with blocks\)
+* Whether the Timer is **Enabled **(this can be changed with blocks)
 
-You can also **Delete** the Timer.
+You can also **Delete **the Timer.
 
 ![](.gitbook/assets/timerdialouge.png)
 
@@ -91,7 +91,7 @@ Returns interval of Timer in milliseconds.
 
 ![](.gitbook/assets/setcount.png)
 
-Set whether Count Up ****is enabled for this Timer.
+Set whether Count Up** **is enabled for this Timer.
 
 #### Get Count Up
 
@@ -105,7 +105,7 @@ Returns `true` or `false` value for whether Count Up is enabled for this Timer.
 
 ![](.gitbook/assets/setloops.png)
 
-  
+\
 If `Loops = true`, the timer will reset itself after it fires. If your interval is 10 seconds, the Timer will fire every 10 seconds.‌
 
 If `Loops = false`, the timer will finish its current interval if it is in the middle of one, and will no longer fire. If your interval is 10s, the timer will finish its current 10 second interval, fire, and then stop.
@@ -129,4 +129,3 @@ Set whether the Timer is enabled.
 ![](.gitbook/assets/screen-shot-2021-04-12-at-8.52.24-am.png)
 
 Returns `true` or `false` value for whether this Timer is enabled.
-
