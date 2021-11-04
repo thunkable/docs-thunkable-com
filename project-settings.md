@@ -2,7 +2,7 @@
 
 To view or change your project settings, click on the Settings button in the side bar.&#x20;
 
-![](.gitbook/assets/app\_name.gif)
+![](.gitbook/assets/settings.gif)
 
 ## App Description
 
@@ -20,9 +20,21 @@ Since space is limited, we recommend a **short one or two word** app name
 Avoid using the character "&" in your app name: at the moment, it prevents your app from being installed on your device
 {% endhint %}
 
+### Default App Layout <a href="default-app-layout" id="default-app-layout"></a>
+
+This is where you can change the default designer layout for your app. If you are planning on creating a project that is landscape or tablet sized, use this dropdown to set the default size of your project.&#x20;
+
+{% hint style="warning" %}
+Please note that your layout will not automatically respond when you change your Default App Layout. Your existing components will not change size, and the distance between components will not change. We recommend setting your Default App Layout before you start adding components to your app.
+{% endhint %}
+
+![](.gitbook/assets/defaultlayoutsettings-2.png)
+
 ### **Project Name **
 
 This is not your app name! This is just the name of your project on Thunkable. When you create a new project, you will be prompted to write in a project name. You can change this name at anytime by clicking on your project name in the top bar.
+
+![](.gitbook/assets/editprojname.png)
 
 ![](<.gitbook/assets/image (196).png>)
 
