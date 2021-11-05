@@ -73,6 +73,30 @@ At this time, connecting to **.xlsx **files that are hosted on Google Sheets is 
 Some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings.&#x20;
 {% endhint %}
 
+## Webflow
+
+Content in Webflow is built around:
+
+* Sites: Webflow websites&#x20;
+* Collections: groupings of items&#x20;
+* Items: individual pieces of content within a Collection
+
+The Webflow CMS API allows items in collections of your Webflow sites to “talk” to your Thunkable app. This includes reading data and programmatically creating, updating and deleting content items.
+
+To get started, navigate to Project Settings from your Webflow Dashboard or Designer,  click the Integrations tab and [generate an API key](https://university.webflow.com/lesson/intro-to-the-webflow-api).
+
+Paste this token into Thunkable and click the `Refresh` button to see your Webflow site listed.&#x20;
+
+Choose the site you'd like to use as your data source and click `Create`.
+
+![](.gitbook/assets/Webflow-Data-Source.png)
+
+You now have access to the collections and its items of your selected Webflow site.
+
+{% hint style="info" %}
+To protect the quality of its service, the Webflow CMS API default rate limit is 60 requests/minute.  Exceeding this limit will result in an error on the Thunkable platform, so please keep this in mind as you build your app.
+{% endhint %}
+
 ## Data Source blocks
 
 ![](.gitbook/assets/data\_sources\_drawer.png)
