@@ -1,5 +1,26 @@
 # 📰 Release Notes
 
+## November 4, 2021
+
+Platform Updates
+
+* Drag and Drop: Rename 'Camera' drawer to '[Camera & Media](https://docs.thunkable.com/v/drag-and-drop/camera)'
+* Drag and Drop: [Add ability to design in tablet view](https://docs.thunkable.com/v/drag-and-drop/project-settings#default-app-layout)
+* UI Updates
+
+New Components/blocks
+
+* Drag and Drop: ability to connect to Webflow Data Source
+
+Component Updates
+
+* Map: Fix 'onCalloutPress' on iOS
+* Map: show my Location on Android
+* Drag and Drop, Map: Add 'showsCompass' property
+* Drag and Drop: Add Shadow property to visible components
+
+
+
 ## October 29, 2021
 
 Platform Updates
