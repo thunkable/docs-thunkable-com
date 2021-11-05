@@ -12,8 +12,6 @@ The Data Sources blocks allow you to perform a variety of CRUD (**C**reate, **R*
 
 To access the Data Sources blocks you need to add a Data Source to your app. There are two ways to do this:
 
-
-
 * Add a [Data Viewer List](data-viewer-list.md) or a [Data Viewer Grid](data-viewer-grid.md) to your project
 * Click on the ⊕ icon in the Data Sources section of your component tree:
 
@@ -23,9 +21,16 @@ In the modal that appears, you can choose a previously connected Data Source, or
 
 ### Adding a New Data Source
 
-When adding a new Data Source, you can choose between [Create your own table](data-viewer-list.md#create-your-own-table), [Airtable](data-viewer-list.md#airtable) or [Google Sheets](data-viewer-list.md#google-sheets) as the source of your data.
+When adding a new Data Source, you can choose a source of your data:
 
-![](.gitbook/assets/create\_data\_source2.png)
+* [Create your own table](data-viewer-list.md#create-your-own-table)
+* [Airtable](data-viewer-list.md#airtable)
+* [Google Sheets](data-viewer-list.md#google-sheets)
+* [Webflow](data-sources.md#webflow)
+
+![](<.gitbook/assets/Screen Shot 2021-11-05 at 9.30.56 AM.png>)
+
+
 
 ### Create your Own Table
 
@@ -73,15 +78,11 @@ At this time, connecting to **.xlsx **files that are hosted on Google Sheets is 
 Some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings.&#x20;
 {% endhint %}
 
-## Webflow
+### Webflow
 
-Content in Webflow is built around:
+You can connect your Thunkable project to a **Webflow site**. A site is based on a series of **collections**. Each collection is a group of **items**.
 
-* Sites: Webflow websites&#x20;
-* Collections: groupings of items&#x20;
-* Items: individual pieces of content within a Collection
-
-The Webflow CMS API allows items in collections of your Webflow sites to “talk” to your Thunkable app. This includes reading data and programmatically creating, updating and deleting content items.
+When you connect your Webflow site to your Thunkable project, you can choose a collection from this site in the same way you can choose a Table from a Local Data Source.
 
 To get started, navigate to Project Settings from your Webflow Dashboard or Designer,  click the Integrations tab and [generate an API key](https://university.webflow.com/lesson/intro-to-the-webflow-api).
 
