@@ -20,17 +20,28 @@ Since space is limited, we recommend a **short one or two word** app name
 Avoid using the character "&" in your app name: at the moment, it prevents your app from being installed on your device
 {% endhint %}
 
-### Default App Layout <a href="default-app-layout" id="default-app-layout"></a>
+## Default App Layout <a href="default-app-layout" id="default-app-layout"></a>
 
-This is where you can change the default designer layout for your app. If you are planning on creating a project that is landscape or tablet sized, use this dropdown to set the default size of your project.&#x20;
+{% hint style="info" %}
+Building an app in **Tablet View** is a PRO feature. [Learn more about PRO.](https://thunkable.com/#/pricing)
+{% endhint %}
+
+This is where you can change the default designer layout for your app. Use this dropdown to set the default size of your project, choosing from the following options:&#x20;
+
+* Phone + Portrait
+* Phone + Landscape
+* Tablet + Portrait
+* Tablet + Landscape
 
 {% hint style="warning" %}
-Please note that your layout will not automatically respond when you change your Default App Layout. Your existing components will not change size, and the distance between components will not change. We recommend setting your Default App Layout before you start adding components to your app.
+We recommend setting your Default App Layout before you start adding components to your app. Your layout will not automatically respond when you change your Default App Layout. Your existing components will not change size, and the distance between components will not change.&#x20;
+
+We recommend choosing a Default App Layout before you start adding components to your screen(s).
 {% endhint %}
 
 ![](.gitbook/assets/defaultlayoutsettings-2.png)
 
-### **Project Name **
+## **Project Name **
 
 This is not your app name! This is just the name of your project on Thunkable. When you create a new project, you will be prompted to write in a project name. You can change this name at anytime by clicking on your project name in the top bar.
 

@@ -4,7 +4,7 @@ description: Navigate and filter your projects
 
 # Your Thunkable Projects Page
 
-## Your projects Page
+## Your Projects Page
 
 You can find your projects page at [x.thunkable.com/projects](https://x.thunkable.com/projects). \
 This is the first page you see when you sign in.
@@ -47,10 +47,12 @@ You can **delete **your project, **duplicate **your project, or see your **Proje
 
 On the Project Detail page, you can test out your app, similar to when it has been published as a [mobile web app](publish-as-a-web-app-pro.md#mobile-web-app).&#x20;
 
+Your project will be shown in your chosen [Default App Layout](project-settings.md#default-app-layout).
+
 You can also view information about the project, such as its name, creator, project size, and how many times it has been remixed or favorited.
 
-If the project is a remix of another project, the name and creator of the original project will be displayed.
+If the project is a remix of another project, the name and creator of the original project will be displayed on the left.
 
-![](.gitbook/assets/project\_detail\_page.png)
+![](<.gitbook/assets/Screen Shot 2021-11-11 at 9.49.29 AM.png>)
 
 ****
