@@ -1,5 +1,11 @@
 # 📰 Release Notes
 
+## November 8, 2021
+
+Platform Updates
+
+* Improve Visibility of Tab Navigator components in blocks
+
 ## November 4, 2021
 
 Platform Updates
