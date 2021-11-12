@@ -1,12 +1,6 @@
 # Figma Integration
 
-## Figma Integration
-
-{% hint style="info" %}
-Figma integration is a beta feature. We would love any [feedback](https://community.thunkable.com/t/report-bugs-and-submit-feature-requests-in-our-public-github-repository/31760?page=2) you have to give!
-{% endhint %}
-
-## Importing a file
+## Importing a Figma File
 
 You can import a Figma file into your Thunkable project.&#x20;
 
