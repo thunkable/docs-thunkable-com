@@ -12,7 +12,7 @@ The "Publish as a Web App" component is a feature just for Thunkable creators wi
 
 ## Mobile Web App
 
-![](.gitbook/assets/mobile\_web\_app.png)
+![](<.gitbook/assets/mobile\_web\_app (1).png>)
 
 Mobile web apps are best experienced by opening the link directly on your phone. To make your mobile app feel more like a native app you can add it to the [home screen](https://intercom.help/thunkable/en/articles/3828958-add-to-home-screen) directly from your mobile web browser.
 
@@ -76,19 +76,17 @@ You can read more about iframes [here](https://www.w3schools.com/tags/tag\_ifram
 
 Not all components are supported on the web at this time so please see the list below of components that are not supported. Please note that some are **`Supported but may not work as expected`**so may not work consistently on every device. Others, such as AdMob **`Can not be supported`**but may be replaced by an alternative in the future. While other are  **`Not supported yet`** but may be made available in future updates.
 
-| Component                | Category       | Status                                                                                               |
-| ------------------------ | -------------- | ---------------------------------------------------------------------------------------------------- |
-| **Accelerometer**        | Sensors        | **`Supported but may not work as expected`**                                                         |
-| **AdMob**                | Monetization   | **`Can not be supported`**                                                                           |
-| **Assistant**            | Voice          | **`Not supported yet`**                                                                              |
-| **Barcode Scanner**      | Image          | **`Not supported yet`**                                                                              |
-| **Bluetooth Low Energy** | Sensors        | **`Not supported yet`**                                                                              |
-| **Gyroscope**            | Sensors        | **`Supported but may not work as expected`**                                                         |
-| **Local Storage**        | Data           | **`Not supported yet -`**[**`stored variables`**](variables.md#stored-variables)**` are supported`** |
-| **Magnetometer**         | Sensors        | **`Supported but may not work as expected`**                                                         |
-| **Map**                  | Location       | **`Not supported yet`**                                                                              |
-| **Photo Library**        | Image          | **`Not supported yet`**                                                                              |
-| **Push Notification**    | Social         | **`Not supported yet`**                                                                              |
-| **Share**                | Social         | **`Email and Phone work, other blocks not supported yet`**                                           |
-| **Speech Recognizer**    | Voice          | **`Not supported yet`**                                                                              |
-| **Web Viewer**           | User Interface | **`BACK block not supported yet, some Google sites not supported`**                                  |
+| Component                | Category       | Status                                                     |
+| ------------------------ | -------------- | ---------------------------------------------------------- |
+| **Accelerometer**        | Sensors        | **`Supported but may not work as expected`**               |
+| **AdMob**                | Monetization   | **`Interstitial and Video ads not supported`**             |
+| **Assistant**            | Voice          | **`Not supported yet`**                                    |
+| **Barcode Scanner**      | Image          | **`Not supported yet`**                                    |
+| **Bluetooth Low Energy** | Sensors        | **`Not supported yet`**                                    |
+| **Gyroscope**            | Sensors        | **`Supported but may not work as expected`**               |
+| **Magnetometer**         | Sensors        | **`Supported but may not work as expected`**               |
+| **Map**                  | Location       | **`Not supported yet`**                                    |
+| **Push Notification**    | Social         | **`Not supported yet`**                                    |
+| **Share**                | Social         | **`Email and Phone work, other blocks not supported yet`** |
+| **Speech Recognizer**    | Voice          | **`Not supported yet`**                                    |
+| **Web Viewer**           | User Interface | **`Some Google sites not supported`**                      |
