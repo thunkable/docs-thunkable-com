@@ -1,5 +1,16 @@
 # 📰 Release Notes
 
+## November 12, 2021
+
+Platform Updates
+
+* New lane added for bulding IPA files, improving build times for iOS apps
+* Dropped support for iOS 11
+
+Component Updates
+
+* Screen: fixes to Open and Start blocks
+
 ## November 8, 2021
 
 Platform Updates
