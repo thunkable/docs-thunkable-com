@@ -112,10 +112,6 @@ Once you have specified a [data source](data-viewer-list.md#data-source) you can
 
 ![](.gitbook/assets/dlv7.png)
 
-### Custom Layout
-
-You can also design a[ Custom Data Viewer Layout](broken-reference) and save it with the Layout Type 'List' to use it in your Data Viewer List.
-
 ## Data Bindings
 
 You can now manually specify which columns in your data source correspond with the placeholders in your chosen layout. Each layout will have its own specific set of data bindings. Two examples are included below for reference.

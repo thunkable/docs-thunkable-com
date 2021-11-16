@@ -116,9 +116,7 @@ At this time, connecting to **.xlsx **files that are hosted on Google Sheets is 
 
 ![](.gitbook/assets/gv7.png)
 
-### Custom Layout
 
-You can also design a[ Custom Data Viewer Layout](broken-reference) and save it with the Layout Type 'Grid' to use it in your Data Viewer Grid.
 
 ## Data Bindings
 
