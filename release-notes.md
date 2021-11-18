@@ -11,6 +11,12 @@ Component Updates
 
 * Screen: fixes to Open and Start blocks
 
+## November 9, 2021
+
+New Components
+
+* [Figma Integration](https://docs.thunkable.com/v/drag-and-drop/figma) officially released
+
 ## November 8, 2021
 
 Platform Updates
@@ -477,7 +483,7 @@ Component Updates
 
 Platform Updates
 
-* Improve positioning of imported Figma files in a Screen
+* Improve positioning of imported files in a Screen
 * Improve appearance of component tree
 
 ## January 8, 2021
