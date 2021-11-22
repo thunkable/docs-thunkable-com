@@ -14,9 +14,9 @@ description: >-
 
 You can choose from the following types of keyboards:
 
-* **Default keyboard:** Displays your device’s default keyboard
-* **Email Address:** Displays an alphanumeric keyboard to accept email addresses
-* **Numeric:** Displays a keypad with only numbers; It is similar to the phone pad keyboard
+* **Default keyboard: **Displays your device’s default keyboard
+* **Email Address: **Displays an alphanumeric keyboard to accept email addresses
+* **Numeric: **Displays a keypad with only numbers; It is similar to the phone pad keyboard
 * **Phone Pad:** Displays a telephone keypad; It is similar to the numeric keyboard
 
 ## Set up for Passwords
@@ -29,22 +29,22 @@ You can also set up Text Input for passwords as shown below using the Secure Tex
 
 To activate Secure Text Entry, look for the Text Input Style properties and make sure that the  Secure Text Entry switch is set to true.
 
-![](.gitbook/assets/secure_text_entry.png)
+![](.gitbook/assets/secure\_text\_entry.png)
 
 
 
 ## Style the Text Input
 
-You can customize the Text Input component with the following properties: 
+You can customize the Text Input component with the following properties:&#x20;
 
-* **Hint:** Hint text that disappears when the user starts typing into the Text Input
-* **Text:** Text that appears on the text input 
-* **Visible:** To see the text input in your app, set the switch to true
+* **Hint: **Hint text that disappears when the user starts typing into the Text Input
+* **Text: **Text that appears on the text input&#x20;
+* **Visible: **To see the text input in your app, set the switch to true
 * **Border**
-  * **Width:** Enter how wide you want the border outline of the text input to be
-  * **Color:** Pick a color for the border of the text input
-  * **Style:** Select if you want the border to be a dotted, dashed or solid line
-  * **Radius:** Enter how round you want the edges of the border for the text input to be
+  * **Width: **Enter how wide you want the border outline of the text input to be
+  * **Color: **Pick a color for the border of the text input
+  * **Style: **Select if you want the border to be a dotted, dashed or solid line
+  * **Radius: **Enter how round you want the edges of the border for the text input to be
 
 ## Edit the Text Input size
 
@@ -52,22 +52,22 @@ You can set how tall the text input is using the Height property and set how wid
 
 **Height**
 
-* **Fill container -** The text input fills the entire screen vertically
-* **Fit contents \(Recommended\) -** The text input’s height changes to fit the contents it contains
-* **Relative size -** The text input fills the specified percentage of the screen
-* **Absolute size -** Sizes the text input to a specified number of pixels
+* **Fill container - **The text input fills the entire screen vertically
+* **Fit contents (Recommended) - **The text input’s height changes to fit the contents it contains
+* **Relative size - **The text input fills the specified percentage of the screen
+* **Absolute size - **Sizes the text input to a specified number of pixels
 
 **Width**
 
-* **Fill container -** The text input fills the entire screen horizontally
-* **Fit contents -** The text input’s width changes to fit the contents it contains
-* **Relative size -** The text input fills the specified percentage of the screen
-* **Absolute -** Sizes the text input to a specified number of pixels
+* **Fill container - **The text input fills the entire screen horizontally
+* **Fit contents - **The text input’s width changes to fit the contents it contains
+* **Relative size - **The text input fills the specified percentage of the screen
+* **Absolute - **Sizes the text input to a specified number of pixels
 
 ## Add spacing
 
-You change the spacing and positioning of the text input with the Margin and Padding properties.   
-  
+You change the spacing and positioning of the text input with the Margin and Padding properties. \
+****\
 **Margin**
 
 * You can specify how much space you want between the edges of the text input and the screen using either pixel or percent values.
@@ -80,25 +80,25 @@ You change the spacing and positioning of the text input with the Margin and Pad
 
 ### Click
 
-![](.gitbook/assets/ti_click.png)
+![](.gitbook/assets/ti\_click.png)
 
 This event fires when the user clicks on the Text Input component.
 
-### Unfocus 
+### Unfocus&#x20;
 
-![](.gitbook/assets/ti_unfocus.png)
+![](.gitbook/assets/ti\_unfocus.png)
 
 This event fires when the component looses focus, i.e the user clicks on another component.
 
-### Submit 
+### Submit&#x20;
 
-![](.gitbook/assets/ti_submit.png)
+![](.gitbook/assets/ti\_submit.png)
 
 This event fires when the enter or submit button is pressed on the device keyboard.
 
 ### Changes
 
-![](.gitbook/assets/ti_changes.png)
+![](.gitbook/assets/ti\_changes.png)
 
 This event fires every time a character is added or removed to the Text Input.
 
@@ -108,15 +108,15 @@ This event fires every time a character is added or removed to the Text Input.
 
 ### Border Width
 
-![](.gitbook/assets/boder_width.png)
+![](.gitbook/assets/boder\_width.png)
 
-The border width value corresponds to the size of the border around the Text Input. Changes to the color and style of the border must be done in the[ designer.](text-input.md#style-the-text-input) 
+The border width value corresponds to the size of the border around the Text Input. Changes to the color and style of the border must be done in the[ designer.](text-input.md#style-the-text-input)&#x20;
 
-### Height 
+### Height&#x20;
 
-![](.gitbook/assets/height%20%281%29.png)
+![](<.gitbook/assets/height (1).png>)
 
-The set and get height blocks work with the Height property of the Text Input component. Acceptable input values are. 
+The set and get height blocks work with the Height property of the Text Input component. Acceptable input values are.&#x20;
 
 * Number of Pixels
 * Percentage Height
@@ -125,17 +125,17 @@ The set and get height blocks work with the Height property of the Text Input co
 
 The `Computed Height` block returns the on-screen dimensions of the Text Input, after it has been rendered on the device screen. The value returned is an integer, representing the size of the component, in pixels.
 
-### Hint 
+### Hint&#x20;
 
 ![](.gitbook/assets/hint.png)
 
 The set and get hint work with the prompt that is displayed in the Text Input, before the user starts typing. Any string of text or number can be used as the hint.
 
-### Keyboard Type 
+### Keyboard Type&#x20;
 
 ![](.gitbook/assets/keyboard.png)
 
-The set and get keyboard type property gives you control over what version of the keyboard is displayed on-screen when the user starts typing. Acceptable values are:  
+The set and get keyboard type property gives you control over what version of the keyboard is displayed on-screen when the user starts typing. Acceptable values are:\
 
 
 * default
@@ -143,15 +143,15 @@ The set and get keyboard type property gives you control over what version of th
 * numeric
 * phone pad
 
-### Text 
+### Text&#x20;
 
-![](.gitbook/assets/text%20%281%29.png)
+![](<.gitbook/assets/text (1).png>)
 
-The set and get text property works with the string of text that displayed in the Text Input. 
+The set and get text property works with the string of text that displayed in the Text Input.&#x20;
 
-### Visible 
+### Visible&#x20;
 
-![](.gitbook/assets/visible%20%282%29.png)
+![](<.gitbook/assets/visible (2).png>)
 
 The set and get visible blocks are used to show or hide the entire Text Input component. Acceptable values are:
 
@@ -160,7 +160,7 @@ The set and get visible blocks are used to show or hide the entire Text Input co
 
 ### Width
 
-![](.gitbook/assets/width%20%282%29.png)
+![](<.gitbook/assets/width (2).png>)
 
 The set and get width blocks work with the Width property of the Text Input component. Acceptable values are.‌
 
@@ -170,8 +170,6 @@ The set and get width blocks work with the Width property of the Text Input comp
 * "Fill Container"
 
 The `Computed Width` block returns the on-screen dimensions of the Text Input, after it has been rendered on the device screen. The value returned is an integer, representing the size of the component, in pixels.
-
-
 
 
 

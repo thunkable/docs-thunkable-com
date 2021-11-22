@@ -4,11 +4,11 @@
 
 You can set:
 
-* The **Name** of the Timer
-* The **Interval** of the Timer, in seconds or milliseconds
+* The **Name **of the Timer
+* The **Interval **of the Timer, in seconds or milliseconds
 * Whether or not the Timer should **Count Up**
 * Whether the Timer should **Loop**, ie. if the Timer should reset itself once it fires
-* Whether the Timer is **Enabled** \(this can be changed with blocks\)
+* Whether the Timer is **Enabled **(this can be changed with blocks)
 
 ## Event Blocks
 
@@ -62,7 +62,7 @@ Set interval of Timer in milliseconds.
 
 #### Get Interval of Timer
 
-![](.gitbook/assets/image%20%28170%29.png)
+![](<.gitbook/assets/image (170).png>)
 
 Returns interval of Timer in milliseconds.
 
@@ -72,7 +72,7 @@ Returns interval of Timer in milliseconds.
 
 ![](.gitbook/assets/newtimerblocks-set-countup.png)
 
-Set whether Count Up ****is enabled for this Timer.
+Set whether Count Up** **is enabled for this Timer.
 
 #### Get Count Up
 
@@ -109,4 +109,3 @@ Set whether the Timer is enabled.
 ![](.gitbook/assets/newtimerblocks-get-enabled.png)
 
 Returns `true` or `false` value for whether this Timer is enabled.
-

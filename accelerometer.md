@@ -1,8 +1,8 @@
 # Accelerometer
 
-## Getting Started 
+## Getting Started&#x20;
 
-The accelerometer sensor is used to measure the force of acceleration acting on the phone. The sensor reports this force for each of the three principal axes, the x axis, y axis and, the z axis. The values obtained from the sensor are in metres per second squared, $$m/s^2$$.  
+The accelerometer sensor is used to measure the force of acceleration acting on the phone. The sensor reports this force for each of the three principal axes, the x axis, y axis and, the z axis. The values obtained from the sensor are in metres per second squared, $$m/s^2$$.\
 
 
 ![The x, y and z axes of a standard smartphone](.gitbook/assets/screenshot-2019-05-18-at-15.27.06.png)
@@ -25,12 +25,12 @@ When the accelerometer sensor detects a change in the force acting on the phone 
 
 ![](.gitbook/assets/screenshot-2019-05-18-at-14.13.50.png)
 
-| **Parameter** | Type | Returns |
-| :--- | :--- | :--- |
-| `xAcceleration` | Number | Change in speed of the phone, along the x axis, in $$m/s^2 $$  |
-| `yAcceleration` | Number | Change in speed of the phone, along the y axis, in $$m/s^2 $$  |
-| `zAcceleration` | Number | Change in speed of the phone, along the z axis, in $$m/s^2 $$  |
-| `error` | String | Error message from sensor |
+| **Parameter**   | Type   | Returns                                                       |
+| --------------- | ------ | ------------------------------------------------------------- |
+| `xAcceleration` | Number | Change in speed of the phone, along the x axis, in $$m/s^2$$  |
+| `yAcceleration` | Number | Change in speed of the phone, along the y axis, in $$m/s^2$$  |
+| `zAcceleration` | Number | Change in speed of the phone, along the z axis, in $$m/s^2$$  |
+| `error`         | String | Error message from sensor                                     |
 
 ### Functions
 
@@ -38,7 +38,7 @@ When the accelerometer sensor detects a change in the force acting on the phone 
 
 You can get the values for xAcceleration, yAcceleration and zAcceleration at any time with the following blocks.
 
-![](.gitbook/assets/image%20%28137%29.png)
+![](<.gitbook/assets/image (137).png>)
 
 ### Properties
 
@@ -46,23 +46,22 @@ You can get the values for xAcceleration, yAcceleration and zAcceleration at any
 
 By default the accelerometer sensor will be turned on, but you can use the `Enabled` property to read its current state and to change its state, i.e turn the sensor on and off.
 
-![](.gitbook/assets/acc_enabled.png)
+![](.gitbook/assets/acc\_enabled.png)
 
-| Property | Type | Default |
-| :--- | :--- | :--- |
-| `set Enabled` | Bool | True |
-| `get Enabled` | Bool |  |
+| Property      | Type | Default |
+| ------------- | ---- | ------- |
+| `set Enabled` | Bool | True    |
+| `get Enabled` | Bool |         |
 
 #### Sensitivity
 
 You can use the Sensitivity blocks to set the sensitivity of the Accelerometer and get its current level of sensitivity.
 
-![](.gitbook/assets/image%20%28159%29.png)
+![](<.gitbook/assets/image (159).png>)
 
 
 
-| Property | Type | Default |
-| :--- | :--- | :--- |
-| `set Sensitivity` | one of \[low, medium, high\] | low |
-| `get Sensitivity` | one of \[low, medium, high\] |  |
-
+| Property          | Type                        | Default |
+| ----------------- | --------------------------- | ------- |
+| `set Sensitivity` | one of \[low, medium, high] | low     |
+| `get Sensitivity` | one of \[low, medium, high] |         |

@@ -14,9 +14,9 @@ The comparison blocks will compare two values and return **true** or **false** b
 
 You can compare multiple conditions at once.
 
-The **and** block will return **true** if both statements are true, **false** otherwise.
+The **and **block will return **true **if both statements are true, **false** otherwise.
 
-The **or** block will return **true** if either statement is true, and **false** if neither statement is true.
+The **or **block will return **true **if either statement is true, and **false **if neither statement is true.
 
 ## Not
 
@@ -29,4 +29,3 @@ Inverts the value of a true/false statement. Not true = false, not false = true.
 Value blocks can be used to set the value of a variable. They can be used in conjunction with any of the above blocks.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-2.25.21-pm.png)
-

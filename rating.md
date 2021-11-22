@@ -26,7 +26,7 @@ Maximum rating that can be given. Can be an integer between 5 and 10, selected f
 
 ### Direction
 
-Select how the Rating component is displayed: as a **row** \(left-right\), **row-reverse** \(right-left\), **column** \(top-bottom\), or **column-reverse** \(bottom-top\).
+Select how the Rating component is displayed: as a **row** (left-right), **row-reverse **(right-left), **column **(top-bottom), or **column-reverse **(bottom-top).
 
 ![](.gitbook/assets/direction.png)
 
@@ -34,25 +34,25 @@ Select how the Rating component is displayed: as a **row** \(left-right\), **row
 
 Change the size of the icons that make up the Rating component.
 
-![](.gitbook/assets/font_size%20%283%29.png)
+![](<.gitbook/assets/font\_size (3).png>)
 
-### 
+###
 
-### Height 
+### Height&#x20;
 
 Set or get the `height` of the rating component in pixels.
 
-![](.gitbook/assets/height%20%288%29.png)
+![](<.gitbook/assets/height (8).png>)
 
-### Icon Margin 
+### Icon Margin&#x20;
 
 Get or change the size of the margin between the icons of the Rating component.
 
-![](.gitbook/assets/icon_margin.png)
+![](.gitbook/assets/icon\_margin.png)
 
 ### Icon
 
-You can select an image from the list available. All of the image options are suitable for any platform. You can preview the image options [here](https://icons.expo.fyi/).
+You can select an image from the list available. All of the image options are suitable for any platform. You can preview the image options [here](https://icons.expo.fyi).
 
 You can upload your own images to be displayed for filled and empty icons.
 
@@ -62,51 +62,49 @@ You can upload your own images to be displayed for filled and empty icons.
 
 Toggle whether the user can edit the value displayed on the Rating component. If read-only is true, the value cannot be edited. If read-only is false, the value can be edited.
 
-![](.gitbook/assets/read_only.png)
+![](.gitbook/assets/read\_only.png)
 
 ### Rating Background Color
 
 Select the color of an unfilled icon.
 
-![](.gitbook/assets/rating_bg_color.png)
+![](.gitbook/assets/rating\_bg\_color.png)
 
 ### Rating Color
 
 Select the color of a filled icon.
 
-![](.gitbook/assets/rating_color.png)
+![](.gitbook/assets/rating\_color.png)
 
 ### Value
 
 Initial value displayed on the Rating component. Can be any number between 0 and the maximum value, including decimals.
 
-![](.gitbook/assets/value%20%282%29.png)
+![](<.gitbook/assets/value (2).png>)
 
 ### Visible
 
 Toggle whether your Rating component is visible.
 
-![](.gitbook/assets/visible%20%289%29.png)
+![](<.gitbook/assets/visible (9).png>)
 
-### Width 
+### Width&#x20;
 
 Set or get the `width` of the rating component. Given in Pixels.
 
-![](.gitbook/assets/width%20%289%29.png)
+![](<.gitbook/assets/width (9).png>)
 
-### X 
+### X&#x20;
 
-Set or get the horizontal position of the rating component on the screen. 
+Set or get the horizontal position of the rating component on the screen.&#x20;
 
-![](.gitbook/assets/x%20%281%29.png)
+![](<.gitbook/assets/x (1).png>)
 
 ### Y
 
 Set or get the vertical position of the rating component on the screen.
 
-![](.gitbook/assets/y%20%281%29.png)
+![](<.gitbook/assets/y (1).png>)
 
-### 
-
-
+###
 

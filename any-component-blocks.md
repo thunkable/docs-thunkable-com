@@ -4,14 +4,14 @@ The components in the ‘Any Component’ drawer are great tools to use instead 
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.46.27-am.png)
 
-For example, to change the colour of any button on the screen to blue \(the blocks on the left\) we have to use 6 blocks. Using the ‘Any Component’ Blocks \(on the right\), we only need to use 2 blocks. ****
+For example, to change the colour of any button on the screen to blue (the blocks on the left) we have to use 6 blocks. Using the ‘Any Component’ Blocks (on the right), we only need to use 2 blocks.** **
 
 ## **What is the Generic Event Block?**
 
-With the Generic Event block, you can set when an event will take place.   
+With the Generic Event block, you can set when an event will take place. \
 ****
 
-For example, in the picture below, any button you click on the screen will change the text of Label1 to be “Thunking Is Fun!”. 
+For example, in the picture below, any button you click on the screen will change the text of Label1 to be “Thunking Is Fun!”.&#x20;
 
 For example, in the picture below, any button you click on the screen will change the text of Label1 to be “Thunking Is Fun!”.
 
@@ -23,7 +23,7 @@ With the first dropdown menu, you can select what type of component you want to 
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.04.47-am.png)
 
-With the second dropdown menu, you can choose when an event will take place. 
+With the second dropdown menu, you can choose when an event will take place.&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.05.10-am.png)
 
@@ -37,14 +37,14 @@ With these blocks, anytime a button is clicked, the text of that button will be 
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.47.40-am.png)
 
-![Anytime a button is clicked, the text of that button will be set to &#x201C;I Love Thunkable!&#x201D;.](.gitbook/assets/generic-method-block%20%281%29.gif)
+![Anytime a button is clicked, the text of that button will be set to “I Love Thunkable!”.](<.gitbook/assets/generic-method-block (1).gif>)
 
 ## **What is the Create Block?**
 
-With the Create Block, you can program your app to create visible components \(things you can see--like button or images\) while it is running.  
+With the Create Block, you can program your app to create visible components (things you can see--like button or images) while it is running.\
 
 
-When you use the create block, your app will automatically create something. For example:  
+When you use the create block, your app will automatically create something. For example:\
 ****
 
 This picture shows that when Screen1 Opens, your app will create a button and put it on Screen1.
@@ -53,7 +53,7 @@ This picture shows that when Screen1 Opens, your app will create a button and pu
 
 ## **Using the Create Block**
 
-With the first dropdown menu, you can select what type of visible component you want to create. 
+With the first dropdown menu, you can select what type of visible component you want to create.&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.03.09-am.png)
 
@@ -61,20 +61,20 @@ With the second dropdown menu, you can select where you want to position the com
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.03.38-am.png)
 
-_**Note: The options in the second and third drop down will vary depending on which component you select from the first dropdown.**_  
-  
-****The following block creates a new button and places it as the first item on Screen1.
+_**Note: The options in the second and third drop down will vary depending on which component you select from the first dropdown.**_\
+__\
+__****The following block creates a new button and places it as the first item on Screen1.
 
-![](.gitbook/assets/create-example-1%20%287%29.png)
+![](<.gitbook/assets/create-example-1 (7).png>)
 
 The table below explains the different block options:
 
-| **Property** | **Description** |
-| :--- | :--- |
+| **Property**    | **Description**                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------ |
 | **As first in** | **This creates and positions the component as the first item in the specified row, column or screen.** |
-| **As last in** | **This creates and positions the component as the last item in the specified row, column or screen.** |
-| **Before** | **This creates and positions the component before the component selected in the third dropdown menu.** |
-| **After** | **This creates and positions the component after the component selected in the second dropdown menu.** |
+| **As last in**  | **This creates and positions the component as the last item in the specified row, column or screen.**  |
+| **Before**      | **This creates and positions the component before the component selected in the third dropdown menu.** |
+| **After**       | **This creates and positions the component after the component selected in the second dropdown menu.** |
 
 _**Note: You can replace the third dropdown with any block that represents a visible component using the component block. It can also be a variable function parameter, or any block whose value is a component.**_
 
@@ -86,8 +86,8 @@ If you want to customize the component you just created, you can use this block.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.48.24-am.png)
 
-These blocks say, when any button on the screen1 is clicked, create a new label. Next, set the new label’s text to “I was just created!”.   
- 
+These blocks say, when any button on the screen1 is clicked, create a new label. Next, set the new label’s text to “I was just created!”. \
+&#x20;
 
 ![When any button on the screen is clicked, a new button is created at the top of the screen.](.gitbook/assets/create-block.gif)
 
@@ -111,30 +111,30 @@ With the second dropdown menu, you can select where you want to position the clo
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.00.38-am.png)
 
-| **Property** | **Description** |
-| :--- | :--- |
+| **Property**    | **Description**                                                                                       |
+| --------------- | ----------------------------------------------------------------------------------------------------- |
 | **As first in** | **This clones and positions the component as the first item in the specified row, column or screen.** |
-| **As last in** | **This clones and positions the component as the last item in the specified row, column or screen.** |
-| **Before** | **This positions the cloned component before the component selected in the third dropdown menu.** |
-| **After** | **This positions the cloned component after the component selected in the third dropdown menu.** |
+| **As last in**  | **This clones and positions the component as the last item in the specified row, column or screen.**  |
+| **Before**      | **This positions the cloned component before the component selected in the third dropdown menu.**     |
+| **After**       | **This positions the cloned component after the component selected in the third dropdown menu.**      |
 
 _**Note: The options in the third drop down will vary depending on which component you select from the first dropdown**_**.**
 
 ## **The Clone Item Block**
 
-If you want to customize a cloned component, you can use this block. 
+If you want to customize a cloned component, you can use this block.&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.59.46-am.png)
 
-When Screen1 opens, these blocks will tell your app to clone Button2, and then set the clone’s text to be “I was just cloned!” \(Try this out for yourself [here](https://x.thunkable.com/copy/1b3d78230c9ce0d91ea6c47e22703800)\).
+When Screen1 opens, these blocks will tell your app to clone Button2, and then set the clone’s text to be “I was just cloned!” (Try this out for yourself [here](https://x.thunkable.com/copy/1b3d78230c9ce0d91ea6c47e22703800)).
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.49.02-am.png)
 
-![When any button is clicked, button1 is cloned and the text of the clone is changed to &#x201C;I was just cloned!&#x201D;](.gitbook/assets/clone-gif.gif)
+![When any button is clicked, button1 is cloned and the text of the clone is changed to “I was just cloned!”](.gitbook/assets/clone-gif.gif)
 
-## **What is the Generic Method Block** 
+## **What is the Generic Method Block **
 
-The Generic Method Block can be used to call functions for components that were made with the clone or create blocks. 
+The Generic Method Block can be used to call functions for components that were made with the clone or create blocks.&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.49.35-am.png)
 
@@ -142,7 +142,7 @@ The blocks above say that when Button1 is clicked, create a Web Viewer component
 
 ## **Using the Generic Method Block**
 
-With the first dropdown menu, you can select the component you want to call a function for. 
+With the first dropdown menu, you can select the component you want to call a function for.&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.50.26-am.png)
 
@@ -160,17 +160,17 @@ Using the Generic Set Block
 
 There are two ways to change the text of a component using the Generic Set Block.
 
-1. Use the dropdown menu to select the component whose text you want to set 
+1. Use the dropdown menu to select the component whose text you want to set&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.52.54-am.png)
 
-2. You can use the Component Item Block with the Generic Set Block     to change the text of the component that was clicked.
+2\. You can use the Component Item Block with the Generic Set Block     to change the text of the component that was clicked.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.53.42-am.png)
 
 ## **What is the Generic Get Block?**
 
-The Generic Get Block allows you to get properties \(such as text and color\) of any component that is on the app’s screen. ****
+The Generic Get Block allows you to get properties (such as text and color) of any component that is on the app’s screen.** **
 
 You can use the dropdown menu to select the component whose text you want to get.
 
@@ -178,7 +178,7 @@ You can use the dropdown menu to select the component whose text you want to get
 
 ## **Using the Generic Get Block**
 
-There are two ways to get the text of a component using the Generic Get Block. 
+There are two ways to get the text of a component using the Generic Get Block.&#x20;
 
 1. Use the dropdown menu to select the component you want to get the text for.
 
@@ -190,7 +190,7 @@ There are two ways to get the text of a component using the Generic Get Block.
 
 ## **What is the ‘All Components in Container’ Block?**
 
-The ‘All Components in Container’ block groups together all the visible components in a container \(ie. Row, Column or Screen\) that are of the same type, in a list.
+The ‘All Components in Container’ block groups together all the visible components in a container (ie. Row, Column or Screen) that are of the same type, in a list.
 
 ![](.gitbook/assets/all-components-in-container.png)
 
@@ -208,7 +208,7 @@ The combination of blocks above goes through all the buttons on screen1 and sets
 
 The Remove Block allows you to delete a component from your app. You can delete a component that you dragged out from the designer, cloned, or made with the create block.
 
-##  **Using the Remove Block?**
+## ** Using the Remove Block?**
 
 There are two ways to delete a component using the Remove Block.
 
@@ -216,9 +216,9 @@ There are two ways to delete a component using the Remove Block.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.59.09-am.png)
 
-   2. You can use the Component Item Block with the Remove Block to remove    the component that was clicked. You can also use a variable, function parameter or any block whose value is a component.
+&#x20;  2\. You can use the Component Item Block with the Remove Block to remove    the component that was clicked. You can also use a variable, function parameter or any block whose value is a component.
 
-![](.gitbook/assets/create-example-1%20%286%29.png)
+![](<.gitbook/assets/create-example-1 (6).png>)
 
 ## **The Component Block**
 
@@ -226,13 +226,11 @@ The Component Block has a dropdown menu which lists all the components that are 
 
 ![](.gitbook/assets/component-block.png)
 
- You can select one of the components from the menu and use it within any of the blocks that have an input for a component. Some examples include: the clone, create or generic event block.  
+&#x20;You can select one of the components from the menu and use it within any of the blocks that have an input for a component. Some examples include: the clone, create or generic event block.\
 
 
 ![](.gitbook/assets/dropdown.png)
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.58.08-am.png)
 
-With these blocks, when Screen1 is opened, the Component Block sets the text of Button3 to be “I Love Thunkable!”.  
-
-
+With these blocks, when Screen1 is opened, the Component Block sets the text of Button3 to be “I Love Thunkable!”.\

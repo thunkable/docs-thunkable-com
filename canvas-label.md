@@ -4,7 +4,7 @@ description: Display text on your Canvas.
 
 # Canvas Label
 
-The Canvas Label is a piece of text that can be placed onto your [Stage](canvas.md#the-stage). 
+The Canvas Label is a piece of text that can be placed onto your [Stage](canvas.md#the-stage).&#x20;
 
 ## Adding a Canvas Label to your app
 
@@ -16,11 +16,10 @@ You can drag and drop the Canvas Label onto your Stage.
 
 ## Canvas Label Properties
 
-**Text:** The Text being displayed on your Canvas Label  
-**X:** The X-co-ordinate of the top-left pixel of the Canvas Label  
-**Y:** The Y-co-ordinate of the top-left pixel of the Canvas Label  
-**Font Size:** The size of the font of the Canvas Label  
-**Color:** The Color of the text of the Canvas Label  
-**Background Color:** The color of the background of the Canvas Label  
-**Stage Selection:** Select a Stage to display the current Canvas Label on
-
+**Text: **The Text being displayed on your Canvas Label\
+**X: **The X-co-ordinate of the top-left pixel of the Canvas Label\
+**Y: **The Y-co-ordinate of the top-left pixel of the Canvas Label\
+**Font Size: **The size of the font of the Canvas Label\
+**Color: **The Color of the text of the Canvas Label\
+**Background Color: **The color of the background of the Canvas Label\
+**Stage Selection: **Select a Stage to display the current Canvas Label on

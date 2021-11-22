@@ -8,7 +8,7 @@ description: >-
 
 ## Switch Overview
 
-A switch is a component that has two settings, true and false. You can get your app to do specific tasks only if the switch is set to true. 
+A switch is a component that has two settings, true and false. You can get your app to do specific tasks only if the switch is set to true.&#x20;
 
 ![](.gitbook/assets/switch-fig-1.gif)
 
@@ -16,92 +16,91 @@ A switch is a component that has two settings, true and false. You can get your 
 
 Each time the switch is clicked the value will change. The value returned will only ever be `true` or `false`. To test this for yourself you can use the following blocks.
 
-![](.gitbook/assets/sw_basic.png)
+![](.gitbook/assets/sw\_basic.png)
 
 In the following example, the user can only advance to `Screen2` if the acknowledge they have accepted the terms and conditions by clicking on the switch.
 
-![](.gitbook/assets/sw_adv.png)
+![](.gitbook/assets/sw\_adv.png)
 
-| Event | Description |
-| :--- | :--- |
+| Event           | Description                                                                                                  |
+| --------------- | ------------------------------------------------------------------------------------------------------------ |
 | On Value Change | By default, the switch `newValue` will be set to `false`. If turned on, the `newValue` will be set to `true` |
-| Value | If on, value is set to `true`; if off, `false` |
-| Disabled | If set to `true`, switch will be disabled |
+| Value           | If on, value is set to `true`; if off, `false`                                                               |
+| Disabled        | If set to `true`, switch will be disabled                                                                    |
 
 ## Style the Switch
 
 You can customize the switch with the following properties:
 
-* **Tint Color:** Color of the switch track when switch is set to off
-* **On Tint Color:** Color of the switch track when switch set to on 
-* **Thumb Tint Color:** Color of the switch thumb
+* **Tint Color: **Color of the switch track when switch is set to off
+* **On Tint Color: **Color of the switch track when switch set to on&#x20;
+* **Thumb Tint Color: **Color of the switch thumb
 
-## Events 
+## Events&#x20;
 
 ### On Value Change
 
-![](.gitbook/assets/on_value_changed%20%281%29.png)
+![](<.gitbook/assets/on\_value\_changed (1).png>)
 
 This event fires every time the switch is clicked.
 
 ## Properties
 
-### Disabled 
+### Disabled&#x20;
 
-![](.gitbook/assets/disabled%20%281%29.png)
+![](<.gitbook/assets/disabled (1).png>)
 
 The disabled property is used to set whether or not the button is "clickable". Expected values for this property are:
 
 * True
 * False
 
-### Height 
+### Height&#x20;
 
-![](.gitbook/assets/height%20%285%29.png)
+![](<.gitbook/assets/height (5).png>)
 
 The set and get height blocks work with the Height property of the switch component.
 
-### On Tint Color 
+### On Tint Color&#x20;
 
-![](.gitbook/assets/on_tint_color.png)
+![](.gitbook/assets/on\_tint\_color.png)
 
 Change the "active" color of the switch.
 
-### Thumb Tint Color 
+### Thumb Tint Color&#x20;
 
-![](.gitbook/assets/thumb_tint_color%20%281%29.png)
+![](<.gitbook/assets/thumb\_tint\_color (1).png>)
 
 Change the color of the switch
 
-### Tint Color 
+### Tint Color&#x20;
 
-![](.gitbook/assets/tint_color.png)
+![](.gitbook/assets/tint\_color.png)
 
 Change the "inactive" color of the switch
 
-### Value 
+### Value&#x20;
 
 ![](.gitbook/assets/value.png)
 
-Change the state \(on or off\) of the switch
+Change the state (on or off) of the switch
 
-### Visible 
+### Visible&#x20;
 
-![](.gitbook/assets/visible%20%284%29.png)
+![](<.gitbook/assets/visible (4).png>)
 
 Show or hide the switch on the screen.
 
-### Width 
+### Width&#x20;
 
-![](.gitbook/assets/width%20%286%29.png)
+![](<.gitbook/assets/width (6).png>)
 
 The set and get height blocks work with the Width property of the switch component.
 
-### X 
+### X&#x20;
 
 ![](.gitbook/assets/x.png)
 
 ### Y
 
 ![](.gitbook/assets/y.png)
-

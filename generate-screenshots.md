@@ -9,16 +9,16 @@ You can now create all screenshots necessary with Thunkable X!
 
 ## **Preview your app on different sized device screens:**
 
-First, publish your app as [responsive web app.](https://docs.thunkable.com/publish-as-a-web-app-pro#responsive-web-app)  
-Or, click **Live Test**  in the Design screen of your app, and click the text **Preview as a responsive web app**
+First, publish your app as [responsive web app.](https://docs.thunkable.com/publish-as-a-web-app-pro#responsive-web-app)\
+Or, click **Live Test ** in the Design screen of your app, and click the text **Preview as a responsive web app**
 
-![](.gitbook/assets/screenshot%20%281%29.png)
+![](<.gitbook/assets/screenshot (1).png>)
 
 Open the link in Google Chrome.
 
 ![](.gitbook/assets/1.png)
 
-Click Settings &gt; More Tools &gt; Developer Tools to view app in **Developer mode.**
+Click Settings > More Tools > Developer Tools to view app in **Developer mode.**
 
 ![](.gitbook/assets/2.jpeg)
 
@@ -36,8 +36,8 @@ You can use the drop-down menus at the top of the screen to select different dev
 
 ## **Create screenshots for your chosen device**
 
-Go back to the top left-hand corner of your console dock.  
-****You will now see three dots to the left of the dock.   
+Go back to the top left-hand corner of your console dock.\
+****You will now see three dots to the left of the dock. \
 Click on these three dots to open a menu, and click on “Capture Screenshot” in the menu.
 
 ## **Required screenshot sizes for App Store**
@@ -46,11 +46,11 @@ Click on these three dots to open a menu, and click on “Capture Screenshot” 
 
 To get all of the screenshot sizes you need, create screenshots using the following device settings. Each device name will be followed by its corresponding screen size in the screenshot doc linked above.
 
-iPhone X \(5.8 inch screenshots\)
+iPhone X (5.8 inch screenshots)
 
-iPhone 6/7/8 Plus \(5.5 inch screenshots\)
+iPhone 6/7/8 Plus (5.5 inch screenshots)
 
-iPad Pro \(12.9 inch screenshots - suitable for iPad Pro 3rd gen and iPad Pro 2nd gen screenshots described in doc\)
+iPad Pro (12.9 inch screenshots - suitable for iPad Pro 3rd gen and iPad Pro 2nd gen screenshots described in doc)
 
 {% hint style="info" %}
 5.8 inch screenshots are used as an alternative to 6.5 inch screenshots. There are two ways to upload these iPhone X screenshots to your App Store listing:
@@ -62,5 +62,4 @@ When you look at your screenshot upload window, you will see the text ‘View Al
 
 #### Resize 5.8 inch screenshots to 6.5 inch screenshots
 
-Use an image editor of your choice to resize your iPhone X screenshots from 1125 x 2436 pixels \(5.8-inch Display\) to 1242 x 2688 pixels \(6.5-inch Display\). Upload your new 6.5-inch screenshots to the App Store.
-
+Use an image editor of your choice to resize your iPhone X screenshots from 1125 x 2436 pixels (5.8-inch Display) to 1242 x 2688 pixels (6.5-inch Display). Upload your new 6.5-inch screenshots to the App Store.

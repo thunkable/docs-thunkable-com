@@ -216,11 +216,11 @@ New Components
 
 Platform Updates
 
-* Remove `legacyExternalStorage` permission from built Android apps in line with Google's [Policy Updates](https://support.google.com/googleplay/android-developer/answer/9934569?visit_id=637554004669617100-3975859313&rd=1)
+* Remove `legacyExternalStorage` permission from built Android apps in line with Google's [Policy Updates](https://support.google.com/googleplay/android-developer/answer/9934569?visit\_id=637554004669617100-3975859313\&rd=1)
 
 Component Updates
 
-* Improved performance of [Sound](sound.md) component on iOS 
+* Improved performance of [Sound](sound.md) component on iOS&#x20;
 
 ## April 23, 2021
 
@@ -326,7 +326,7 @@ Platform Updates
 Platform updates
 
 * Improved performance of Thunkable Live app for iOS
-* Introduced [status page](https://status.thunkable.com/) for Thunkable
+* Introduced [status page](https://status.thunkable.com) for Thunkable
 
 ## Feb 15, 2021
 
@@ -336,7 +336,9 @@ Platform Updates
 * Added the following components to Drag and Drop UI:
   * Time Input
   * Date Input
-  * Additional guidelines to guide positioning of components
+  *   Additional guidelines to guide positioning of components
+
+
 
 ## Feb 8, 2021
 
@@ -370,7 +372,7 @@ Platform updates
 
 Component Updates
 
-* Improve performance of [Sensor]() components
+* Improve performance of [Sensor](broken-reference) components
 
 ## December 15, 2020
 
@@ -491,12 +493,12 @@ Component updates
 
 * Adding click events for [Text Input](text-input.md), [Label](label.md) and [Image](image-1.md) components
 * Improving the [Map](map.md) event
-* [Data Source](data-sources.md): Google Sheets can now be accessed by index in Data Source blocks 
+* [Data Source](data-sources.md): Google Sheets can now be accessed by index in Data Source blocks&#x20;
 * [Time Input ](time-input.md)label updated
 
 New components
 
-* [Audio Recorder]()
+* [Audio Recorder](broken-reference)
 
 ## June 15, 2020
 
@@ -521,7 +523,7 @@ Platform updates
 
 New components
 
-* [Data Viewer List ](https://docs.thunkable.com/data-viewer-list)and [Data Viewer Grid](https://docs.thunkable.com/data-viewer-grid): list viewers with extended functionality that can be connected to external [Data Sources](https://docs.thunkable.com/data-sources) \(Google Sheets, Airtable, Local DB\)
+* [Data Viewer List ](https://docs.thunkable.com/data-viewer-list)and [Data Viewer Grid](https://docs.thunkable.com/data-viewer-grid): list viewers with extended functionality that can be connected to external [Data Sources](https://docs.thunkable.com/data-sources) (Google Sheets, Airtable, Local DB)
 
 ## Apr 27, 2020
 
@@ -541,7 +543,7 @@ Bugs
 
 Platform
 
-* Removed deprecated UIWebView component \(ITMS-90809\)
+* Removed deprecated UIWebView component (ITMS-90809)
 
 ## Mar 13, 2020
 
@@ -553,7 +555,7 @@ Platform updates
 
 Platform updates
 
-* [Save screens](https://community.thunkable.com/t/latest-thunkable-release-save-screens-is-here-2020-02-27/488296) and use them in different projects 
+* [Save screens](https://community.thunkable.com/t/latest-thunkable-release-save-screens-is-here-2020-02-27/488296) and use them in different projects&#x20;
 * Added Z property on sprites
 * Save expand/collapse settings in the component tree
 
@@ -577,19 +579,19 @@ Platform
 
 Platform updates
 
-* [Web Preview]() \(Beta\) - see a web preview of your apps on the details page of your project and any project on the Thunkable gallery; some [components are not supported yet]() and projects may appear differently than they do on your device
+* [Web Preview](broken-reference) (Beta) - see a web preview of your apps on the details page of your project and any project on the Thunkable gallery; some [components are not supported yet](broken-reference) and projects may appear differently than they do on your device
 
 ## Dec 19, 2019
 
 Platform updates
 
-* Project Detail Page - updated styling \([see sample](https://x.thunkable.com/projectPage/5c183d7c7bd8616f60c5a39a)\)
+* Project Detail Page - updated styling ([see sample](https://x.thunkable.com/projectPage/5c183d7c7bd8616f60c5a39a))
 
 ## Dec 10, 2019
 
 Platform updates
 
-* User Profile Page - updated profile pages for all creators, featuring all your projects \([see sample](https://x.thunkable.com/profiles/albert)\); Only `public` projects will be visible to other creators
+* User Profile Page - updated profile pages for all creators, featuring all your projects ([see sample](https://x.thunkable.com/profiles/albert)); Only `public` projects will be visible to other creators
 
 Component updates
 
@@ -705,7 +707,7 @@ New components
 Component updates
 
 * Maps - Add [delete markers](map.md#delete-markers) event to Maps component
-* [Label](label.md) - More styling options! Adds more options to set the font weight and to align the text in the label 
+* [Label](label.md) - More styling options! Adds more options to set the font weight and to align the text in the label&#x20;
 
 ## Jun 24, 2019
 
@@ -753,15 +755,15 @@ Bug Fixes
 
 New Components
 
-* [Accelerometer](accelerometer.md) - accesses the mobile device's sensor that measures even tiny forces of acceleration acting on the phone from natural \(in a moving vehicle\) and man-made \(shaking the device\)
+* [Accelerometer](accelerometer.md) - accesses the mobile device's sensor that measures even tiny forces of acceleration acting on the phone from natural (in a moving vehicle) and man-made (shaking the device)
 * [Gyroscope](gyroscope.md) - accesses the mobile device's sensor that measures even tiny tilts of the phone, often used in gaming apps
-* [Magnetometer](magnetometer.md) - accesses the mobile device's sensor that measures magnetic fields from the Earth and other nearby objects 
+* [Magnetometer](magnetometer.md) - accesses the mobile device's sensor that measures magnetic fields from the Earth and other nearby objects&#x20;
 
 ## May 14, 2019
 
 Component Updates
 
-* [Payment]() by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction \(0% Thunkable fee\)
+* [Payment](broken-reference) by Stripe - New lower fees for ![](.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction (0% Thunkable fee)
 
 ## May 6, 2019
 
@@ -773,7 +775,7 @@ New Components
 
 New Components
 
-* [Blockchain Wallet]() and [Smart Contract]() by Oasis - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
+* [Blockchain Wallet](broken-reference) and [Smart Contract](broken-reference) by Oasis - our first two components that secure your app's data in the blockchain, powered by Oasis, a privacy-focused cloud backed by blockchain technology
 
 ## Apr 9, 2019
 
@@ -791,7 +793,7 @@ Platform Updates
 
 Component Updates
 
-* AdMob ![](.gitbook/assets/pro.png) 
+* AdMob ![](.gitbook/assets/pro.png)&#x20;
   * Thunkable Live iOS app now supports live testing apps with AdMob
 
 ## Mar 12, 2019
@@ -799,7 +801,7 @@ Component Updates
 New Components
 
 * Ads by AdMob ![](.gitbook/assets/pro.png) - all Thunkers can add to their project and live test but only PRO members can download and publish apps with AdMob
-  * [Banner](https://docs.thunkable.com/admob#banner-ad)  **-** displays a rectangular ad at the top of bottom of any screen
+  * [Banner](https://docs.thunkable.com/admob#banner-ad) ** - **displays a rectangular ad at the top of bottom of any screen
   * [Interstitial](https://docs.thunkable.com/admob#interstitial-ad) - full screen ads that display over the current screen
   * [Rewarded Video](https://docs.thunkable.com/admob#rewarded-video-ad) - show a full screen video ad over the current screen and adds event handler to reward user after watching
 
@@ -829,7 +831,7 @@ Platform updates
 
 Platform updates
 
-* Downloaded and published apps are now ~8MB smaller than before
+* Downloaded and published apps are now \~8MB smaller than before
 
 Component updates
 
@@ -852,7 +854,7 @@ New block category
 
 * [Device](device.md)
   * [Date and time](device.md#get-current-time-and-date) - Get the current time from the device's clock
-  * [Vibrate](device.md#set-device-to-vibrate) - sets a device to vibrate 
+  * [Vibrate](device.md#set-device-to-vibrate) - sets a device to vibrate&#x20;
   * [iOS or Android](device.md#get-mobile-operating-system) - detects which platform the device is on
   * [Online or offline](device.md#get-online-offline-status) - detects if device is connected to Wi-Fi or data network
 
@@ -861,7 +863,7 @@ New block category
 Bug fixes
 
 * Fixes variety of bugs that led to Thunkable Live Android crashes
-* Users no longer have to set margins and padding to 0 for columns and rows on Android 
+* Users no longer have to set margins and padding to 0 for columns and rows on Android&#x20;
 * Improved error messaging and validation for new Publish to IOS workflow
 
 ## Nov 20, 2018
@@ -883,7 +885,7 @@ Bug fixes
 
 Component updates
 
-* Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a [Top Tab Navigator](top-tab-navigator.md) and a [Bottom Tab Navigator](bottom-tab-navigator.md). The original [Tab Navigator]() will continue to be supported in existing projects but we highly encourage creators to adopt the new tab components which will have more features
+* Tab Navigator - Supports adding icons to the tab navigator with the introduction of two new components, a [Top Tab Navigator](top-tab-navigator.md) and a [Bottom Tab Navigator](bottom-tab-navigator.md). The original [Tab Navigator](broken-reference) will continue to be supported in existing projects but we highly encourage creators to adopt the new tab components which will have more features
 
 Bug fixes
 
@@ -903,7 +905,7 @@ Bug fixes
 
 Bug fixes
 
-* Fixes the compatibility issue with the new [variable](), [list](lists.md) and [object](objects.md) blocks
+* Fixes the compatibility issue with the new [variable](broken-reference), [list](lists.md) and [object](objects.md) blocks
 
 ## Oct 22, 2018
 
@@ -950,9 +952,9 @@ Bug fixes
 Platform updates
 
 {% hint style="success" %}
-All apps built on Thunkable are now [compatible with Android 8.0](https://developer.android.com/about/versions/oreo/android-8.0-migration) \(aka API 26\)!
+All apps built on Thunkable are now [compatible with Android 8.0](https://developer.android.com/about/versions/oreo/android-8.0-migration) (aka API 26)!
 
-Users will be prompted to give permission to allow the use of certain components within an app \(Speech Recognizer, Assistant, Camera, Photo Library, Location Sensor\)
+Users will be prompted to give permission to allow the use of certain components within an app (Speech Recognizer, Assistant, Camera, Photo Library, Location Sensor)
 {% endhint %}
 
 * Some app layouts have been updated
@@ -1021,7 +1023,7 @@ Component updates
 
 * [Map](map.md) - adds new block events e.g. on Map Click, on Marker Click and supports the ability to add markers, polylines and polygons
 * [Text to Speech](https://docs.thunkable.com/text-to-speech) - increase supported languages from 6 to 87
-* [Share](share.md#share-an-image) - now supports sharing locally stored assets \(does not work on Live Test for iOS\)
+* [Share](share.md#share-an-image) - now supports sharing locally stored assets (does not work on Live Test for iOS)
 
 New components
 
@@ -1037,17 +1039,17 @@ Platform updates
 
 Bug fixes
 
-* \(Background\) Image for Screens, Rows, Column and Image components now appear in Live Testing when using a Screen.start block
+* (Background) Image for Screens, Rows, Column and Image components now appear in Live Testing when using a Screen.start block
 * Image height or width set to 'fit contents' now appear in Live Testing
 * Improvements to Download / Publish for iOS including transparency support for app icons and better error messaging
 * Improved messaging for Download for Android
 
 ## May 7, 2018
 
-Platform updates [broken link](https://play.google.com/brokenlink) [out-of-bounds link](https://app.gitbook.com/@thunkable/s/thunkable-docs/~/edit/drafts/-LnMymO8dgjVIc_YwQ4R/functions)
+Platform updates [broken link](https://play.google.com/brokenlink) [out-of-bounds link](https://app.gitbook.com/@thunkable/s/thunkable-docs/\~/edit/drafts/-LnMymO8dgjVIc\_YwQ4R/functions)
 
 * Significant user interface update including a new Design / Blocks switch, add Components shifted to the left panel and Properties shifted to the right panel
-* Live app now lets you [live preview](get-started/live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device \(Android only\)
+* Live app now lets you [live preview](get-started/live-test.md#live-preview-android-only) all your app projects from the comfort of your mobile device (Android only)
 * [Publish for Android](publish.md#publish-to-the-play-store-android) now supported
 * Adds [version support](https://docs.thunkable.com/publish-to-app-store-ios#send-to-app-store-connect) for download / publish for Android and iOS
 * Updated [download](download.md#download-and-install-ios-app) and [publish](publish.md#publish-to-the-app-store-ios) emails for iOS
@@ -1056,11 +1058,11 @@ Platform updates [broken link](https://play.google.com/brokenlink) [out-of-bound
 
 Component updates
 
-* [Button](button.md) - supports a number of new properties including sizing \(height, width\) and adding a background picture
+* [Button](button.md) - supports a number of new properties including sizing (height, width) and adding a background picture
 
 New components
 
-* [Speech Recognizer]() - uses artificial intelligence to recognize and translate spoken language into text in 14 different languages
+* [Speech Recognizer](broken-reference) - uses artificial intelligence to recognize and translate spoken language into text in 14 different languages
 * [Share](share.md) - allows users to share text or post images using their favorite installed communication app from Slack and Facebook to iMessage and WhatsApp
 * [Switch](switch.md) - popular UI element to turn on and off a certain feature in an app, often used in settings pages
 
@@ -1073,11 +1075,11 @@ Platform updates
 New components
 
 * [Spreadsheet](spreadsheet.md) by Airtable - gets, uploads, updates and deletes data from the popular spreadsheet service
-* [Payment]() by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
+* [Payment](broken-reference) by Stripe - enable accepting credit card payments in app powered through Stripe; Each payment is subject to a 4.9% + $0.30 per transaction fee
 
 Platform updates
 
-* Supports opening installed app by deep link on Android \(aka Activity Starter\) via a Control block
+* Supports opening installed app by deep link on Android (aka Activity Starter) via a Control block
 * Blocks now includes zoom control and a better location for the trash can
 * Properties have been re-organized into hopefully easier to use categories
 
@@ -1091,9 +1093,9 @@ Platform updates
 
 Component updates
 
-* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](), [Text to Speech]() and [Assistant](assistant.md)
+* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](broken-reference), [Text to Speech](broken-reference) and [Assistant](assistant.md)
 * Transparent color now available as a color property across all visible components
-* Easy select and upload via Picture property for [Image]() component
+* Easy select and upload via Picture property for [Image](broken-reference) component
 
 Bug fixes
 
@@ -1110,17 +1112,16 @@ New component
 
 Component updates
 
-* Most Visible components \(Screen, TextInput, Label, Column, Row, Image, ListViewer, WebViewer, Maps, Google Maps\) - advanced properties including padding, margin, border & user location \(Maps / Google Maps\) added 
+* Most Visible components (Screen, TextInput, Label, Column, Row, Image, ListViewer, WebViewer, Maps, Google Maps) - advanced properties including padding, margin, border & user location (Maps / Google Maps) added&#x20;
 * [Realtime DB](realtime-db.md) powered by Firebase - changes set-up from adding a .plist file to entering in an API key and database URL into app settings
 
 Platform updates
 
 * Installing an Android .apk no longer requires uninstalling the Thunkable companion app
-* Easier discoverability of uploading files \(now in the bottom left under the component tree
+* Easier discoverability of uploading files (now in the bottom left under the component tree
 * Error message when dropping a Navigator or Screen to the Phone previewer; they can only be added to the Visible components section of the tree
 * Small updates to sharing by link and notifications during download and publish
 
 ## Feb 23, 2018
 
 Start of Thunkable Cross-Platform **✕** public beta
-

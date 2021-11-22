@@ -8,8 +8,8 @@ description: The sound component plays a designated sound.
 
 There are a few ways you can set a sound source in your app:
 
-1. **Upload a sound to your app.** Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
-2. **Provide a link to the sound.** The link has to end in `.mp3`, `.wav`, etc
+1. **Upload a sound to your app. **Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
+2. **Provide a link to the sound. **The link has to end in `.mp3`, `.wav`, etc
 
 ## Volume
 
@@ -25,7 +25,7 @@ This block will be triggered when the source of a Sound component is loaded. It 
 
 ![](.gitbook/assets/sourceloaded.png)
 
-If a given audio is already the source of a Sound component, and you use a block to set the same audio as the source of the Sound component, this block will not be triggered. We recommend using an [if statement](control.md#if-this-do-that) to say that if the audio is already the source of the Sound component, execute the action you would take when the source is loaded. 
+If a given audio is already the source of a Sound component, and you use a block to set the same audio as the source of the Sound component, this block will not be triggered. We recommend using an [if statement](control.md#if-this-do-that) to say that if the audio is already the source of the Sound component, execute the action you would take when the source is loaded.&#x20;
 
 In the following screenshot, we want this audio to play when the Button is pressed. If this audio is already the source for the Sound component, we play the sound. If not, we set the audio to be the Sound's source. Once the source is loaded, we play the audio.
 
@@ -51,7 +51,7 @@ Set the Sound's source using the drop-down menu or by using a [Text](text.md) bl
 
 Get the name of the Sound source.
 
-![](.gitbook/assets/source%20%281%29.png)
+![](<.gitbook/assets/source (1).png>)
 
 ### Set/Get Volume
 
@@ -60,6 +60,4 @@ Set Sound volume to value between 0 and 100.
 Get Sound volume.
 
 ![](.gitbook/assets/screen-shot-2021-04-19-at-11.08.59-am.png)
-
-
 
