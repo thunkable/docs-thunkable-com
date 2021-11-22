@@ -1,4 +1,4 @@
-# In-App Purchases
+# In-App Purchase
 
 
 

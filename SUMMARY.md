@@ -60,7 +60,7 @@
 * [Location Sensor](location-sensor.md)
 * [💲 Monetization](monetization.md)
 * [Ads by AdMob](admob.md)
-* [In-App Purchases](in-app-purchases.md)
+* [In-App Purchase](in-app-purchase.md)
 * [🌐 Sensors](sensors.md)
 * [Gyroscope](gyroscope.md)
 * [Magnetometer](magnetometer.md)
