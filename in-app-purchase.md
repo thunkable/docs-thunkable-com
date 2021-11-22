@@ -50,7 +50,7 @@ After this is complete, you will now be able to add your In-App Purchases.
 
 To add IAP to your project, navigate to Add Components and enter “IAP” into the search bar. Drag the In-App Purchase component to the Invisible Components section above.
 
-![](<.gitbook/assets/image (221).png>)
+![](<.gitbook/assets/image (225).png>)
 
 Next, you will need to add the product IDs on the Properties panel on the right. These strings must match what you have in the App Store or Play Store. Make sure you double-check that you add Items as Items, and Subscriptions as Subscriptions.
 
@@ -62,15 +62,15 @@ Next, you will need to add the product IDs on the Properties panel on the right.
 
 If you need to pull the product/subscription info from the Play Store or App Store, you can use the following block. For the fields in the return object, you can reference them here.
 
-![](broken-reference)
+![](<.gitbook/assets/image (220).png>)
 
 ### Purchasing
 
 You can use the following blocks to start the one-time purchase or subscription. For the fields in the return object, you can reference them here.
 
-![](broken-reference)
+![](<.gitbook/assets/image (221).png>)
 
-![](broken-reference)
+![](<.gitbook/assets/image (217).png>)
 
 ###
 
