@@ -1,11 +1,35 @@
 # 📰 Release Notes
 
+## November 23, 2021
+
+Component Updates&#x20;
+
+* Data Sources: Minor Updates to projects with Webflow Data Sources
+
+## November 22, 2021
+
+Platform Updates
+
+* Ability to connect to [Webflow Data Source](https://docs.thunkable.com/v/drag-and-drop/data-sources#webflow)
+
+Component Updates
+
+* Firebase: Upgraded to Firebase 9
+* Canvas: Added Stage height/width blocks to toolbox
+
+## November 18, 2021
+
+New Components
+
+* [In-App Purchase](release-notes.md#november-18-2021)
+
 ## November 12, 2021
 
 Platform Updates
 
 * New lane added for bulding IPA files, improving build times for iOS apps
 * Dropped support for iOS 11
+* Improved behavior of variables when testing project on project details page
 
 Component Updates
 
