@@ -1,5 +1,24 @@
 # 📰 Release Notes
 
+## December 4, 2021
+
+Platform Updates
+
+* Changes to how local assets are iOS
+
+## December 1, 2021
+
+Platform Updates
+
+* Fix image sharing on Android with HTTP URI
+* Rearrange interactive section in properties panel
+* Thunkable Live for iOS: set the iOS app version and build numbers when running the script
+
+Component Updates
+
+* AdMob: prevent keys from being overridden
+* Maps: prevent keys from being overridden
+
 ## November 23, 2021
 
 Component Updates&#x20;
@@ -947,7 +966,7 @@ Component Updates
 New Components
 
 * Ads by AdMob ![](.gitbook/assets/pro.png) - all Thunkers can add to their project and live test but only PRO members can download and publish apps with AdMob
-  * [Banner](https://docs.thunkable.com/admob#banner-ad) ** - **displays a rectangular ad at the top of bottom of any screen
+  * [Banner](https://docs.thunkable.com/admob#banner-ad) **-** displays a rectangular ad at the top of bottom of any screen
   * [Interstitial](https://docs.thunkable.com/admob#interstitial-ad) - full screen ads that display over the current screen
   * [Rewarded Video](https://docs.thunkable.com/admob#rewarded-video-ad) - show a full screen video ad over the current screen and adds event handler to reward user after watching
 
