@@ -4,7 +4,7 @@
 
 Platform Updates
 
-* Changes to how local assets are iOS
+* Changes to how local assets are handed on iOS
 
 ## December 1, 2021
 
