@@ -24,27 +24,34 @@ A button is just something you can click on to perform an action. This action ca
 
 You have many options for styling your button, such as changing the background color or text color. Here are the different options for customization:
 
-* **Text: **Text that appears on the button
-* **Text Color: **Color of the text that appears on the button
-* **Background Color: **Sets the background color of the button
-* **Font Size: **Size of the text that appears on the button
-* **Background Picture: **Upload a picture that appears on the button.** **
+* **Text:** Text that appears on the button
+* **Text Color:** Color of the text that appears on the button
+* **Background Color:** Sets the background color of the button
+* **Font Size:** Size of the text that appears on the button
+* **Custom Font (mobile only)**: Upload a TTF or OTF font file to use as your Button's font
+
+{% hint style="info" %}
+Uploading a custom font file is available to accounts with Business and Enterprise plans.\
+Check out our [pricing page](https://thunkable.com/#/pricing) for more information about these plans
+{% endhint %}
+
+* **Background Picture:** Upload a picture that appears on the button. ****&#x20;
 * **Background Picture Resize Mode**
-  * **Cover: **Fills the entire button without changing the height and width ratio of the image
-  * **Contain: **The entire image will be scaled down to fit inside the button, without changing the height and width ratio of the image
-  * **Stretch: **The image's height will change to fill the button length-wise
-  * **Repeat: **Repeat the image to cover the button. The image's height and width ratio will not change
+  * **Cover:** Fills the entire button without changing the height and width ratio of the image
+  * **Contain:** The entire image will be scaled down to fit inside the button, without changing the height and width ratio of the image
+  * **Stretch:** The image's height will change to fill the button length-wise
+  * **Repeat:** Repeat the image to cover the button. The image's height and width ratio will not change
   * **Center:** Positions the image in the middle of the button
-* **Visible: **To see the button in your app, set the switch to true
+* **Visible:** To see the button in your app, set the switch to true
 * **Border**
-  * **Width: **Enter how wide you want the border outline of the button to be
-  * **Color: **Pick a color for the border of the button
-  * **Style: **Select if you want the border to be a dotted, dashed or solid line
-  * **Radius: **Enter how round you want the edges of the border for the button to be
-* **Font Bold: **To make the text on the button bold, set the switch to true
-* **Font Italic:  **To make the text on the button italic, set the switch to true
-* **Raised: **To cast a shadow around the button, set the switch to true
-* **Disabled: **To prevent the button from performing an option when it is clicked, set the switch to true
+  * **Width:** Enter how wide you want the border outline of the button to be
+  * **Color:** Pick a color for the border of the button
+  * **Style:** Select if you want the border to be a dotted, dashed or solid line
+  * **Radius:** Enter how round you want the edges of the border for the button to be
+* **Font Bold:** To make the text on the button bold, set the switch to true
+* **Font Italic:**  To make the text on the button italic, set the switch to true
+* **Raised:** To cast a shadow around the button, set the switch to true
+* **Disabled:** To prevent the button from performing an option when it is clicked, set the switch to true
 
 ## Edit the Button size
 
@@ -52,17 +59,17 @@ You can set how tall the button is using the height property and set how wide th
 
 **Height**
 
-* **Fill container - **The button fills the entire screen vertically
-* **Fit contents - **The  button’s height changes to be the size of the contents it contains
-* **Relative size - **The button fills the specified percentage of the screen
-* **Absolute size - **Sizes the button to a specified number of pixels
+* **Fill container -** The button fills the entire screen vertically
+* **Fit contents -** The  button’s height changes to be the size of the contents it contains
+* **Relative size -** The button fills the specified percentage of the screen
+* **Absolute size -** Sizes the button to a specified number of pixels
 
 **Width**
 
-* **Fill container - **The button fills the entire screen horizontally
-* **Fit contents - **The button’s width changes to be the size of the contents it contains
-* **Relative size - **The button fills the specified percentage of the screen
-* **Absolute - **Sizes the button to a specified number of pixels
+* **Fill container -** The button fills the entire screen horizontally
+* **Fit contents -** The button’s width changes to be the size of the contents it contains
+* **Relative size -** The button fills the specified percentage of the screen
+* **Absolute -** Sizes the button to a specified number of pixels
 
 ## Add Spacing
 
@@ -148,7 +155,7 @@ The disabled property is used to set whether or not the button is "clickable". E
 
 ![](.gitbook/assets/raised.png)
 
-The font style properties of the button text can be "**Bold**",  "_Italic", _or Raised. Expected values for each property are:
+The font style properties of the button text can be "**Bold**",  "_Italic",_ or Raised. Expected values for each property are:
 
 * True
 * False
