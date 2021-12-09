@@ -68,7 +68,14 @@ Common issues
 
 ## Download (Android)
 
-No issues reported
+**Trouble downloading AAB and APK files from Google Chrome:**
+
+* The Google Chrome browser blocks downloads for your safety. If you open the email with a download link for your APK or AAB file in Google Chrome, you may not be able to download your file. \
+  You can try one of these options:
+  1. Open the email in another browser, like Firefox or Safari, and download the file.
+  2. Change your Google Chrome settings to allow you to download files. \
+     [You can find instructions to do this here. ](https://www.businessinsider.com/how-to-stop-chrome-from-blocking-downloads)\
+     Please note that changing your browser security settings can make you more vulnerable as you use the web, and Google Chrome recommends against disabling this setting.
 
 ## Publish (Android)
 
