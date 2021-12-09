@@ -1,5 +1,11 @@
 # 📰 Release Notes
 
+## December 8, 2021
+
+Platform updates:
+
+* Fix related to iOS build - removed default NSUserTrackingUsageDescriptior
+
 ## December 4, 2021
 
 Platform Updates
