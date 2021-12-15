@@ -57,6 +57,12 @@ In Google Sheets, the entire document is considered to be the data source.
 
 In order to use a Google Sheet as a Data Source, the first row in your Sheet must be a **header** row.&#x20;
 
+{% hint style="warning" %}
+You must make your sheet shareable from within Google sheets for others to be able to access the sheet. \
+\
+[Click here](https://support.google.com/docs/answer/2494822?hl=en\&co=GENIE.Platform%3DDesktop) to see more instructions on how to do this
+{% endhint %}
+
 To connect a Google Sheet, sign in and grant permission for your Thunkable project to access your Google Drive.
 
 ![](.gitbook/assets/sign-in.png)
@@ -65,7 +71,7 @@ Once you have allowed this, you will see a list of spreadsheets in your Google D
 
 ![](.gitbook/assets/select-a-file.png)
 
-At this time, connecting to **.xlsx **files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File > Save as Google Sheets**.
+At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File > Save as Google Sheets**.
 
 ![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
 
@@ -97,7 +103,7 @@ If your data source is a **Google Sheet**, you can refer to the row by its integ
 
 ![](.gitbook/assets/get\_value.png)
 
-`Get row object `will return the row object of the specified row ID. The row object can be used with [Objects blocks.](objects.md)
+`Get row object` will return the row object of the specified row ID. The row object can be used with [Objects blocks.](objects.md)
 
 ![](.gitbook/assets/darasourcesgetrowobject.png)
 
@@ -129,7 +135,7 @@ If there is an `error`, the error message is passed as an output.&#x20;
 
 #### Delete All Rows
 
-You can use the `delete all rows`** **block to delete all rows in your data source.\
+You can use the `delete all rows` **** block to delete all rows in your data source.\
 If there is an `error`, the error message is passed as an output.
 
 ![](.gitbook/assets/datasourcedeleteallrows.png)
