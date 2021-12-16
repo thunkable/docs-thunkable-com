@@ -22,7 +22,7 @@ Thunkable also offer interactivity for App Features. These App Features offer co
 
 Every UI component has unique properties that you can use to customize it. You can find this at the top of the **Properties panel**. All UI components have a section called **Layout** and **Style**.&#x20;
 
-In the example above, a **Label **has been selected. Note its unique properties such as its text, font, alignment etc.&#x20;
+In the example above, a **Label** has been selected. Note its unique properties such as its text, font, alignment etc.&#x20;
 
 ## App Features
 

@@ -11,6 +11,7 @@
 * [Template Gallery](public-gallery.md)
 * [Assets](assets.md)
 * [Figma Integration](figma.md)
+* [🖼 Thunkable Sample Projects](thunkable-sample-projects.md)
 * [🛠️ Components and Features](components.md)
 * [🔘 UI Components](ui-components.md)
 * [Button](button.md)

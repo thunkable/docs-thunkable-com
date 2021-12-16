@@ -32,8 +32,8 @@ Stop a selected audio file that is currently playing. A sound that has been 'sto
 
 ![](<.gitbook/assets/image (140).png>)
 
-Returns **true **if named sound file has been partially played, then paused. \
-Returns **false **otherwise.
+Returns **true** if named sound file has been partially played, then paused. \
+Returns **false** otherwise.
 
 ## Sound File from Recording
 
@@ -43,10 +43,10 @@ Records for the specified amount of seconds, then returns the recorded audio.
 
 ## Untimed Recording
 
-The **start recording **block begins a recording.
+The **start recording** block begins a recording.
 
 ![](<.gitbook/assets/image (174).png>)
 
-The **sound file from stopped recording **block will stop the recording initiated by the **start recording **block, and return the recorded sound file.
+The **sound file from stopped recording** block will stop the recording initiated by the **start recording** block, and return the recorded sound file.
 
 ![](<.gitbook/assets/image (142).png>)

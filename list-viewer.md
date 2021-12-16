@@ -16,31 +16,31 @@ You can customize the List Viewer with the following properties:
 
 ### Properties
 
-* **Text Items: **set text items of List Viewer&#x20;
-* **Text Items Color: **Set color of Text Items font
-* **Text Items Background Color: **Set background color for List Viewer
-* **Text Items Font Size: **Set font size of Text Items
-* **Show Arrow: **To see an arrow beside each item in the list, set the switch to true
+* **Text Items:** set text items of List Viewer&#x20;
+* **Text Items Color:** Set color of Text Items font
+* **Text Items Background Color:** Set background color for List Viewer
+* **Text Items Font Size:** Set font size of Text Items
+* **Show Arrow:** To see an arrow beside each item in the list, set the switch to true
 
 ### Advanced Properties
 
 * **Writing Direction (iOS and web only):** set writing direction of text items
-* **Background Color: **set background color of List Viewer&#x20;
+* **Background Color:** set background color of List Viewer&#x20;
 
 ### Layout
 
-* **X: **set the location of your List Viewer on the X-axis in pixels
-* **Y: **set the location of your List Viewer on the Y-axis in pixels
-* **Height: **set the Height of your List Viewer in pixels
-* **Width: **set the Width of your List Viewer in pixels
-* **Visible: **To see the text input in your app, set the switch to true
+* **X:** set the location of your List Viewer on the X-axis in pixels
+* **Y:** set the location of your List Viewer on the Y-axis in pixels
+* **Height:** set the Height of your List Viewer in pixels
+* **Width:** set the Width of your List Viewer in pixels
+* **Visible:** To see the text input in your app, set the switch to true
 
 ### Style
 
-* **Border Width: **Enter how wide you want the border outline of the List Viewer to be
-* **Border Color: **Pick a color for the border of the List Viewer
-* **Border Style: **Select if you want the border to be a dotted, dashed or solid line
-* **Border Radius: **Enter how round you want the edges of the border for the List Viewer to be
+* **Border Width:** Enter how wide you want the border outline of the List Viewer to be
+* **Border Color:** Pick a color for the border of the List Viewer
+* **Border Style:** Select if you want the border to be a dotted, dashed or solid line
+* **Border Radius:** Enter how round you want the edges of the border for the List Viewer to be
 
 ## Blocks
 

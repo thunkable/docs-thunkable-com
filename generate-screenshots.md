@@ -10,7 +10,7 @@ You can now create all screenshots necessary with Thunkable X!
 ## **Preview your app on different sized device screens:**
 
 First, publish your app as [responsive web app.](https://docs.thunkable.com/publish-as-a-web-app-pro#responsive-web-app)\
-Or, click **Live Test ** in the Design screen of your app, and click the text **Preview as a responsive web app**
+Or, click **Live Test** in the Design screen of your app, and click the text **Preview as a responsive web app**
 
 ![](<.gitbook/assets/screenshot (1).png>)
 

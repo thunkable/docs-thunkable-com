@@ -66,7 +66,7 @@ If you need to pull the product/subscription info from the Play Store or App Sto
 
 You can use the following blocks to start the one-time purchase or subscription. For the fields in the return object, you can reference them here.
 
-![](<.gitbook/assets/image (215).png>)
+![](<.gitbook/assets/image (215) (1).png>)
 
 ### Purchase History&#x20;
 
