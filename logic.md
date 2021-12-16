@@ -14,9 +14,9 @@ The comparison blocks will compare two values and return **true** or **false** b
 
 You can compare multiple conditions at once.
 
-The **and **block will return **true **if both statements are true, **false** otherwise.
+The **and** block will return **true** if both statements are true, **false** otherwise.
 
-The **or **block will return **true **if either statement is true, and **false **if neither statement is true.
+The **or** block will return **true** if either statement is true, and **false** if neither statement is true.
 
 ## Not
 

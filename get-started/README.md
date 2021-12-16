@@ -38,8 +38,8 @@ With the Thunkable Live mobile app, you can preview your apps directly on your p
 
 Click on one of the links below to download the Thunkable mobile app.
 
-| [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](http://appstore.com/thunkablelive)**      ** |
-| :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](http://appstore.com/thunkablelive)      ****       |
+| :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 
 If you don't have an iOS or Android device, you can [set up an emulator](../emulators.md) on your computer that will display your apps.
 

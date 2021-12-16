@@ -88,7 +88,7 @@ Preview on the Web allows you to live preview your own project directly from you
 
 ![](../.gitbook/assets/live\_preview.gif)
 
-&#x20;You can also preview any _public _app, directly from the Project Detail Page. Here's [one example](https://x.thunkable.com/projectPage/5ea6ed029ce3d64d1d3a27dc) but you can find thousands of others in the public gallery.
+&#x20;You can also preview any _public_ app, directly from the Project Detail Page. Here's [one example](https://x.thunkable.com/projectPage/5ea6ed029ce3d64d1d3a27dc) but you can find thousands of others in the public gallery.
 
 ![](../.gitbook/assets/project\_preview.gif)
 

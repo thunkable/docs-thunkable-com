@@ -15,13 +15,13 @@ The Image component lets you display pictures in your app and pairs nicely with 
 There are a few ways you can display an image in your app:\
 ****
 
-1. **Upload a picture to your app**\
+1. **Upload a picture to your project Files:**\
    ****\
-   ****![](https://lh3.googleusercontent.com/q4lZ\_0EQDXPqxKesgd0G61kHJBrFWxqGkZWJpBw6Bz3qy39OdFVIN-JtL1f-fiJsBnGYD0Y8QFGlEbMnC9PewzAe0jHO7LhXh60vkt3-x0za-r-VIKyvPJfMfu7EACxpHKyYkX4T)\
+   ****![](.gitbook/assets/files\_upload\_file.png)\
 
-2. **Provide a link to the image**\
+2. **Provide a link in the Image properties**\
    ****\
-   ****![](https://lh6.googleusercontent.com/Qgxd14OTm3vZowwQsZ6-2uE2UozbUonGywxOOkr3Pozhia7jNDIw9\_o-1CxsfEtynzkusC87RG9sCIcfsvzQ\_3YGDvN6nZcG1hOVGbFhdQRN2FHmPQbYEBYgNDfFgL2v3x2kAauW)\
+   ****![](.gitbook/assets/img\_type\_URL.png)\
 
 3. **Take a picture with the Camera component**
 
@@ -35,17 +35,17 @@ You can set how tall the Image is using the height property and set how wide it 
 
 **Height**
 
-* **Fill container - **The Image fills the entire screen vertically
-* **Fit contents - **The Image’s height changes to fit the contents it contains
-* **Relative size - **The Image fills the specified percentage of the screen
-* **Absolute size - **Sizes the Image to a specified number of pixels
+* **Fill container -** The Image fills the entire screen vertically
+* **Fit contents -** The Image’s height changes to fit the contents it contains
+* **Relative size -** The Image fills the specified percentage of the screen
+* **Absolute size -** Sizes the Image to a specified number of pixels
 
 **Width**
 
-* **Fill container - **The Image fills the entire screen horizontally
-* **Fit contents - **The Image’s width changes to fit the contents it contains
-* **Relative size - **The Image fills the specified percentage of the screen
-* **Absolute - **Sizes the Image to a specified number of pixels
+* **Fill container -** The Image fills the entire screen horizontally
+* **Fit contents -** The Image’s width changes to fit the contents it contains
+* **Relative size -** The Image fills the specified percentage of the screen
+* **Absolute -** Sizes the Image to a specified number of pixels
 
 
 
@@ -55,20 +55,20 @@ You can set how tall the Image is using the height property and set how wide it 
 
 With the Resize Mode property, you can do the following:
 
-* **Cover: **Resizes the picture to its max height or width regardless without changing the image quality.
-* **Contain: **Resizes the picture to fit the area without changing its quality
-* **Stretch: **The picture’s height will change to fill the image component length-wise
-* **Repeat: **Repeats the picture at its original quality within the image component area
-* **Center: **Positions the picture in the middle of the image component
+* **Cover:** Resizes the picture to its max height or width regardless without changing the image quality.
+* **Contain:** Resizes the picture to fit the area without changing its quality
+* **Stretch:** The picture’s height will change to fill the image component length-wise
+* **Repeat:** Repeats the picture at its original quality within the image component area
+* **Center:** Positions the picture in the middle of the image component
 
 ## Style the Image
 
 You can style the image with the following properties:
 
 * **Border**
-  * **Width: **Enter how wide you want the border outline of the image to be&#x20;
-  * **Color: **Pick a color for the border of the image
-  * **Radius: **Enter how round you want the edges of the border for the image to be** **
+  * **Width:** Enter how wide you want the border outline of the image to be&#x20;
+  * **Color:** Pick a color for the border of the image
+  * **Radius:** Enter how round you want the edges of the border for the image to be ****&#x20;
 
 ## Add spacing
 

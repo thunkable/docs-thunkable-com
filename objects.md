@@ -35,11 +35,11 @@ If the object does not have a property with this name, it will return `undefined
 
 #### Nested values and values from Arrays
 
-The Get Values Of block can be used to get nested values, ie. properties of properties of an object. If you are trying to get nested property **b** of property **a** of an object, you can simply get property **a.b **of an object, instead of using multiple **get property of** blocks.
+The Get Values Of block can be used to get nested values, ie. properties of properties of an object. If you are trying to get nested property **b** of property **a** of an object, you can simply get property **a.b** of an object, instead of using multiple **get property of** blocks.
 
-You can also get a value from an Array (or list) of values. If an object property **b** is a 3-items list, and you want to get the second item of that list, you can get property **b\[2] **of that object. The first item of the list is at index 1.
+You can also get a value from an Array (or list) of values. If an object property **b** is a 3-items list, and you want to get the second item of that list, you can get property **b\[2]** of that object. The first item of the list is at index 1.
 
-The blocks below demonstrate each of these methods, as well as a block that combines these methods by getting a value from an array that is a nested property of an object. The blocks are presented with the objects written in JSON format as well as created with Objects blocks, but both sets of blocks are doing exactly the same thing. In these blocks,** **`Get nested property` will return 5, `Get value from array` will return 6, and `Get value from nested array` will return 7.
+The blocks below demonstrate each of these methods, as well as a block that combines these methods by getting a value from an array that is a nested property of an object. The blocks are presented with the objects written in JSON format as well as created with Objects blocks, but both sets of blocks are doing exactly the same thing. In these blocks, **** `Get nested property` will return 5, `Get value from array` will return 6, and `Get value from nested array` will return 7.
 
 ![](.gitbook/assets/screen-shot-2021-04-14-at-7.56.44-am.png)
 
@@ -55,7 +55,7 @@ This block returns a list of property names. This list can be used with [list](l
 
 ## Set Property Values of an Object
 
-With the `set property `block, you can change the value of a single property of an object.
+With the `set property` block, you can change the value of a single property of an object.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.35.20-am.png)
 
