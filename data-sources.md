@@ -70,7 +70,7 @@ Once you have allowed this, you will see a list of spreadsheets in your Google D
 
 ![](.gitbook/assets/select-a-file.png)
 
-At this time, connecting to **.xlsx **files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File > Save as Google Sheets**.
+At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File > Save as Google Sheets**.
 
 ![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
 
@@ -122,7 +122,7 @@ If your data source is a **Google Sheet**, you can refer to the row by its integ
 
 ![](.gitbook/assets/get\_value.png)
 
-`Get row object `will return the row object of the specified row ID. The row object can be used with [Objects blocks.](objects.md)
+`Get row object` will return the row object of the specified row ID. The row object can be used with [Objects blocks.](objects.md)
 
 ![](.gitbook/assets/darasourcesgetrowobject.png)
 
@@ -154,7 +154,7 @@ If there is an `error`, the error message is passed as an output.&#x20;
 
 #### Delete All Rows
 
-You can use the `delete all rows`** **block to delete all rows in your data source.\
+You can use the `delete all rows` **** block to delete all rows in your data source.\
 If there is an `error`, the error message is passed as an output.
 
 ![](.gitbook/assets/datasourcedeleteallrows.png)

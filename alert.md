@@ -66,7 +66,7 @@ If you want to start an event from a confirm button, you will want to add the bl
 It is possible to add buttons to an alert for more sophisticated use cases.\
 This can be done using the `set Button List to` block by creating a [list](lists.md) of [objects](objects.md).
 
-You can set the **Text **of the Alert. You can set the **Style **of the Alert to **ok, destructive **or** cancel.**
+You can set the **Text** of the Alert. You can set the **Style** of the Alert to **ok, destructive** or **cancel.**
 
 On iOS, the Alert can show more than 3 Buttons.\
 On Android, the Alert can show up to 3 buttons. If more than 3 buttons are specified, the first 3 will be shown. \

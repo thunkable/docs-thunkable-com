@@ -1,7 +1,7 @@
 # Ads by AdMob
 
 {% hint style="info" %}
-**AdMob is a  **![](.gitbook/assets/pro.png) **component. **All Thunkers can add AdMob to their projects and live test the ads in their apps. PRO Thunkers who [join our MCM network](admob.md#join-thunkables-mcm-network) can download and publish apps that contain ads.
+**AdMob is a**  ![](.gitbook/assets/pro.png) **component.** All Thunkers can add AdMob to their projects and live test the ads in their apps. PRO Thunkers who [join our MCM network](admob.md#join-thunkables-mcm-network) can download and publish apps that contain ads.
 {% endhint %}
 
 * [Create an AdMob account](admob.md#create-an-admob-account)
@@ -103,13 +103,13 @@ You will see a dialog where you can set the following properties:
 
 #### Events
 
-Use the **when Ad Open **and **when Ad Close **blocks to trigger events to happen when the interstitial ad opens or closes.
+Use the **when Ad Open** and **when Ad Close** blocks to trigger events to happen when the interstitial ad opens or closes.
 
 ![](.gitbook/assets/admob-inter-blocks-events.png)
 
 #### Functions
 
-Use the **Show Ad **block to show an interstitial ad in your app. If there is an error, the **error **block will catch and return it.
+Use the **Show Ad** block to show an interstitial ad in your app. If there is an error, the **error** block will catch and return it.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.00.50-pm.png)
 
@@ -177,7 +177,7 @@ Use the **when Ad Close** block to trigger events to happen when the interstitia
 
 #### Functions
 
-Use the **Show Ad **block to show the ad video, and the **Reward User **block to reward the user after displaying the video.
+Use the **Show Ad** block to show the ad video, and the **Reward User** block to reward the user after displaying the video.
 
 ![](.gitbook/assets/screen-shot-2019-03-08-at-8.55.38-am.png)
 
@@ -197,7 +197,7 @@ Test Mode:
 
 ![](.gitbook/assets/admob-video-blocks-testmode.png)
 
-## Live Test <a href="live-test" id="live-test"></a>
+## Live Test <a href="#live-test" id="live-test"></a>
 
 For your convenience, we have provided a test  `Ad Unit ID` for you to see how a particular ad format may appear in your app.&#x20;
 

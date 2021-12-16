@@ -26,7 +26,7 @@ You will be sent an email with a link to download your app.
 
 ### Install Android App
 
-To install your Android app, you will need to go to **Settings** > **Security **and allow apps to be installed from **Unknown Sources**. This will allow you to install apps from sources other than the Play Store.
+To install your Android app, you will need to go to **Settings** > **Security** and allow apps to be installed from **Unknown Sources**. This will allow you to install apps from sources other than the Play Store.
 
 {% hint style="info" %}
 Anyone installing your app directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of apps from Unknown Sources
@@ -80,7 +80,7 @@ Common issues
 * We are having trouble with our build servers. Please try again in 30 minutes or chat with us if you are still having problems
 * App (Bundle) ID. Your App (Bundle) ID is a series of short strings of text that are separated by periods, such as **com.thunkable.creator.app**. These string of text must i) be lowercase, ii) begin with a letter.
   * Examples of App (Bundle) IDs that can cause errors: com.thunkable.creator.1app, Com.Thunkable.Creator.APP
-* Asset names. We recommend that asset names **only **contain Roman alphabet characters with no accents, and numbers.
+* Asset names. We recommend that asset names **only** contain Roman alphabet characters with no accents, and numbers.
   * Examples of asset names that could cause errors: image(1).jpg, imãge.jpg
   * Examples of asset names that won't cause errors: image1.jpg, image.jpg
 
