@@ -104,5 +104,45 @@ There are two ways you can test how a pre-release app functions on the Google Pl
 
 &#x20;In a few cases, you can test Google Play functionality with an unpublished app. For example, you can test an unpublished app's in-app billing support by using static responses, special reserved product IDs that always return a specific result (like "purchased" or "refunded").
 
+## Managing Subscriptions
 
+At this time, there are no blocks to support in-app subscription management by the user.&#x20;
 
+Users can manage their own subscriptions in the Google Play Store or Apple App Store.
+
+We recommend including instructions in your app or app’s website that outline the processes below.
+
+### Android Subscription Management
+
+#### Cancel, pause, or change a subscription on Google Play&#x20;
+
+{% hint style="warning" %}
+Subscriptions on Google Play renew automatically **unless** you unsubscribe through the Google Play app. Uninstalling an app won't automatically cancel your subscription.&#x20;
+{% endhint %}
+
+1. Open the Google Play app ![Google Play](https://lh3.googleusercontent.com/7R1uFoIRzvb36XFP28r43j53tmk94Y0IfBNNOeIqlvtAvVlzxobBCxFku2aHloYYoR4=h36).
+2. At the top right, tap the profile icon.
+3. Tap **Payments & subscriptions** ![and then](https://lh3.googleusercontent.com/3\_l97rr0GvhSP2XV5OoCkV2ZDTIisAOczrSdzNCBxhIKWrjXjHucxNwocghoUa39gw=w36-h36) **Subscriptions**.
+4. Select the subscription you want to cancel.
+5. Tap **Cancel subscription**.
+6. Follow the instructions.
+
+{% hint style="info" %}
+If you have a subscription with an app and the app gets removed from Google Play, your future subscription will be canceled. Your past subscriptions will not be refunded.
+{% endhint %}
+
+Read more about managing your Android subscriptions [here](https://support.google.com/googleplay/answer/7018481?hl=en\&co=GENIE.Platform%3DAndroid#zippy=%2Ccancel-a-subscription-on-the-google-play-app).
+
+### iOS Subscription Management
+
+#### Change or cancel your App Store subscriptions&#x20;
+
+1. Open the App Store app on your iOS device or on a computer
+   * Sign in to the App Store if necessary
+2. Tap  ![the My Account button](https://lh6.googleusercontent.com/I6R62VCS\_F11SgaTmivEk-xcoDKPmOkM8PdTfs-4EXqb5mVeBLD2k67hmV\_6j3NBLYva4IR5-sCT1rfvIAoYoyE7\_5CbDRNXGzjLsBK2CP4JuNwQenVV8lWgAVWVDUxQDbzvZWvH)or your profile picture at the top right, then tap Subscriptions.
+3. Choose a subscription, then do any of the following:
+   * Change or cancel an existing subscription.
+   * Resubscribe to an expired subscription.
+   * [Share an eligible App Store subscription](https://support.apple.com/guide/iphone/share-subscriptions-iph6e7917d3f/15.0/ios/15.0#iph6f8d8ed1c) with other family members in your Family Sharing group.
+
+Read more about managing your iOS subscriptions [here](https://support.apple.com/guide/iphone/manage-purchases-subscriptions-settings-iph3dfd91de/ios).

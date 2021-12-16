@@ -16,9 +16,9 @@ description: >-
 
 You can choose from the following types of keyboards:
 
-* **Default keyboard:** Displays your device’s default keyboard
-* **Email Address:** Displays an alphanumeric keyboard to accept email addresses
-* **Numeric:** Displays a keypad with only numbers; It is similar to the phone pad keyboard
+* **Default keyboard: **Displays your device’s default keyboard
+* **Email Address: **Displays an alphanumeric keyboard to accept email addresses
+* **Numeric: **Displays a keypad with only numbers; It is similar to the phone pad keyboard
 * **Phone Pad:** Displays a telephone keypad; It is similar to the numeric keyboard
 
 ## Set up for Passwords
@@ -39,14 +39,14 @@ To activate Secure Text Entry, look for the Text Input Style properties and make
 
 You can customize the Text Input component with the following properties:&#x20;
 
-* **Hint:** Hint text that disappears when the user starts typing into the Text Input
-* **Text:** Text that appears on the text input&#x20;
-* **Visible:** To see the text input in your app, set the switch to true
+* **Hint: **Hint text that disappears when the user starts typing into the Text Input
+* **Text: **Text that appears on the text input&#x20;
+* **Visible: **To see the text input in your app, set the switch to true
 * **Border**
-  * **Width:** Enter how wide you want the border outline of the text input to be
-  * **Color:** Pick a color for the border of the text input
-  * **Style:** Select if you want the border to be a dotted, dashed or solid line
-  * **Radius:** Enter how round you want the edges of the border for the text input to be
+  * **Width: **Enter how wide you want the border outline of the text input to be
+  * **Color: **Pick a color for the border of the text input
+  * **Style: **Select if you want the border to be a dotted, dashed or solid line
+  * **Radius: **Enter how round you want the edges of the border for the text input to be
 
 ## Edit size and position
 
@@ -54,10 +54,10 @@ You can drag and drop your component into position, and set its size. \
 You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
 **Height:** Height of Button in pixels\
-**Width:** Width of Button in pixels
+**Width: **Width of Button in pixels
 
 **X:** position of top left corner of Button on X-axis\
-**Y:** position of top right corner of component on Y-axis
+**Y: **position of top right corner of component on Y-axis
 
 ## Events
 

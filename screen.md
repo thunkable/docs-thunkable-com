@@ -92,7 +92,7 @@ Simply choose the screen that you want to add in and click the "Copy" button to 
 
 | Property        | Description                                                                                              |
 | --------------- | -------------------------------------------------------------------------------------------------------- |
-| StatusBar Style | Choose between `default` , `light-content` or `dark-content` to set the theme or style of the status bar |
+| StatusBar Style | Choose between `default `, `light-content` or `dark-content` to set the theme or style of the status bar |
 
 ### Status Bar Color
 
@@ -156,4 +156,4 @@ Please Note: The `Translucent StatusBar` property will only work on Android devi
 
 ## Screen-Specific Navigator Properties
 
-When you add a Screen to a Navigator, you will a new section for **Navigation Options** in your Screen's Properties panel. You can read about these properties in the [Top Tab Navigator](top-tab-navigator.md#screen-specific-tab-navigator-properties), [Bottom Tab Navigator](bottom-tab-navigator.md#screen-specific-tab-navigator-properties), and [Drawer Navigator](drawer-navigator.md#screen-specific-drawer-navigator-properties) docs.
+When you add a Screen to a Navigator, you will a new section for** Navigation Options **in your Screen's Properties panel. You can read about these properties in the [Top Tab Navigator](top-tab-navigator.md#screen-specific-tab-navigator-properties), [Bottom Tab Navigator](bottom-tab-navigator.md#screen-specific-tab-navigator-properties), and [Drawer Navigator](drawer-navigator.md#screen-specific-drawer-navigator-properties) docs.

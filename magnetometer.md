@@ -22,7 +22,7 @@ To add a Magnetometer to your app:
 
 You will see a settings panel where you can set:
 
-* The **Name** of the Magnetometer
+* The **Name **of the Magnetometer
 * Whether the Magnetometer is **Enabled**
 
 You can either confirm your choices and create the Magnetometer, or delete the Magnetometer.
@@ -30,8 +30,8 @@ You can either confirm your choices and create the Magnetometer, or delete the M
 ![](<.gitbook/assets/image (177).png>)
 
 \
-Change Settings of Magnetometer <a href="#change-settings-of-magnetometer" id="change-settings-of-magnetometer"></a>
---------------------------------------------------------------------------------------------------------------------
+Change Settings of Magnetometer <a href="change-settings-of-magnetometer" id="change-settings-of-magnetometer"></a>
+-------------------------------------------------------------------------------------------------------------------
 
 ‌You will see the sensors you have added to your app underneath the Sensors section of your blocks.
 

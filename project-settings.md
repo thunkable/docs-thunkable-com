@@ -20,7 +20,7 @@ Since space is limited, we recommend a **short one or two word** app name
 Avoid using the character "&" in your app name: at the moment, it prevents your app from being installed on your device
 {% endhint %}
 
-## Default App Layout <a href="#default-app-layout" id="default-app-layout"></a>
+## Default App Layout <a href="default-app-layout" id="default-app-layout"></a>
 
 {% hint style="info" %}
 Building an app in **Tablet View** is a PRO feature. [Learn more about PRO.](https://thunkable.com/#/pricing)
@@ -41,7 +41,7 @@ We recommend choosing a Default App Layout before you start adding components to
 
 ![](.gitbook/assets/defaultlayoutsettings-2.png)
 
-## **Project Name**&#x20;
+## **Project Name **
 
 This is not your app name! This is just the name of your project on Thunkable. When you create a new project, you will be prompted to write in a project name. You can change this name at anytime by clicking on your project name in the top bar.
 
