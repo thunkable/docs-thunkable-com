@@ -8,7 +8,7 @@ You can manage much of your screen navigation through our [Top Tab](top-tab-navi
 
 ## If `this`, do `that`
 
-![Simplest if this, do that condition](.gitbook/assets/screen-shot-2018-05-22-at-6.47.02-am.png)
+![Simple if this, do that block](<.gitbook/assets/Screen Shot 2018-05-22 at 6.47.02 AM (1).png>)
 
 In most apps, one event leads to another event if a **condition** is met. To specify these scenarios, the `this`, do `that` block is commonly used with [Logic](logic.md) blocks that define the conditions that lead one event to the next.
 
