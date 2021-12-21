@@ -1,6 +1,12 @@
 # 📰 Release Notes
 
+##
+
 ## December 10, 2021
+
+Platform Updates
+
+* Update icons used when [Figma](https://docs.thunkable.com/v/drag-and-drop/figma) art board is imported to Thunkable project
 
 New Components
 
