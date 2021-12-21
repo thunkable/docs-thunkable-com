@@ -1,6 +1,10 @@
 # 📰 Release Notes
 
-##
+## December 15, 2021
+
+Component Updates
+
+* Data Viewer: Show data from Data Source as soon as Data Source is connected&#x20;
 
 ## December 10, 2021
 
