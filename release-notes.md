@@ -1,5 +1,11 @@
 # 📰 Release Notes
 
+## December 10, 2021
+
+New Components
+
+* [In-App Purchases](in-app-purchase.md)
+
 ## December 8, 2021
 
 Platform updates:
