@@ -1,5 +1,27 @@
 # 📰 Release Notes
 
+## December 17, 2021
+
+Platform Updates
+
+* Fix checking if AdMob banners exist in project info
+* Fix copy paste in blocks editor
+
+Component Updates
+
+* Add Location Permissions toggle to Push Notifications
+
+## December 16, 2021
+
+Platform Updates
+
+* Updates to imported Figma artboards
+* Updates to using&#x20;
+
+Component Updates
+
+* Updates to Web Viewer using non-URL sources (eg. local HTML files)
+
 ## December 15, 2021
 
 Component Updates
