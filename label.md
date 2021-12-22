@@ -4,11 +4,11 @@ description: The label component allows you to display text in your app.
 
 # Label
 
-## Style the Label
+## Properties
 
 You can customize your label using the following properties:&#x20;
 
-### Properties
+### Label
 
 | Property                    | Description                                                  | Data Type        |
 | --------------------------- | ------------------------------------------------------------ | ---------------- |
