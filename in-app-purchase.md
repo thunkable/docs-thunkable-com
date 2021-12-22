@@ -62,7 +62,7 @@ Next, you will need to add the product IDs on the Properties panel on the right.
 
 If you need to pull the product/subscription info from the Play Store or App Store, you can use the following block. For the fields in the return object, you can reference them here.
 
-![](<.gitbook/assets/image (222).png>)
+![](<.gitbook/assets/image (222) (1).png>)
 
 ### Purchasing
 

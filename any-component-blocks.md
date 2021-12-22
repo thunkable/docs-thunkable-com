@@ -4,7 +4,7 @@ The components in the ‘Any Component’ drawer are great tools to use instead 
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.46.27-am.png)
 
-For example, to change the colour of any button on the screen to blue (the blocks on the left) we have to use 6 blocks. Using the ‘Any Component’ Blocks (on the right), we only need to use 2 blocks.** **
+For example, to change the colour of any button on the screen to blue (the blocks on the left) we have to use 6 blocks. Using the ‘Any Component’ Blocks (on the right), we only need to use 2 blocks. ****&#x20;
 
 ## **What is the Generic Event Block?**
 
@@ -132,7 +132,7 @@ When Screen1 opens, these blocks will tell your app to clone Button2, and then s
 
 ![When any button is clicked, button1 is cloned and the text of the clone is changed to “I was just cloned!”](.gitbook/assets/clone-gif.gif)
 
-## **What is the Generic Method Block **
+## **What is the Generic Method Block**&#x20;
 
 The Generic Method Block can be used to call functions for components that were made with the clone or create blocks.&#x20;
 
@@ -170,7 +170,7 @@ There are two ways to change the text of a component using the Generic Set Block
 
 ## **What is the Generic Get Block?**
 
-The Generic Get Block allows you to get properties (such as text and color) of any component that is on the app’s screen.** **
+The Generic Get Block allows you to get properties (such as text and color) of any component that is on the app’s screen. ****&#x20;
 
 You can use the dropdown menu to select the component whose text you want to get.
 
@@ -208,7 +208,7 @@ The combination of blocks above goes through all the buttons on screen1 and sets
 
 The Remove Block allows you to delete a component from your app. You can delete a component that you dragged out from the designer, cloned, or made with the create block.
 
-## ** Using the Remove Block?**
+## &#x20;**Using the Remove Block?**
 
 There are two ways to delete a component using the Remove Block.
 

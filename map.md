@@ -6,43 +6,42 @@
 
 For iOS, you have the option to choose between Apple Maps or Google Maps. On Android, only Google Maps is available. Google Maps provides more custom style options from different map types to coloring and exposing or hiding map features.
 
-| Property            | Description                                                                  |
-| ------------------- | ---------------------------------------------------------------------------- |
-| Provider `Advanced` | Default (`google`); To select Apple Maps for iOS, leave the property `blank` |
+## Properties
 
-### Google Maps: Add API Key
+### Add Google Maps API Key
 
-It is possible to add your own Google Maps API Key to your Thunkable app project.
+You can add your own Google Maps API Key to your Thunkable project. This is not necessary to show a map in your app.
 
-Simply click on your project name to open the [Project Settings](projects/settings.md) menu, and scroll down to the **Google Map Settings **section. You will see the option to enter a Google Maps API Key for Android and iOS.
+Simply click on your project name to open the [Project Settings](projects/settings.md) menu, and scroll down to the **Google Map Settings** section. You will see the option to enter a Google Maps API Key for Android and iOS.
 
 ![](.gitbook/assets/mapapikeys.png)
 
 You can get your own Google Maps API Key [here](https://developers.google.com/maps/documentation/javascript/get-api-key).
 
-## Zoom and Center the Map
+### Map
 
-To auto-center your map, you can pair the Map component with a [Location Sensor](location-sensor.md)
+| Property  | Description                                                      | Data Type |
+| --------- | ---------------------------------------------------------------- | --------- |
+| Latitude  | Co-ordinate of the map's center on the north-south axis          | Number    |
+| Longitude | Co-ordinate of the map's center on the east-west axis            | Number    |
+| Zoom      | Zoom level between -15 (most zoomed out) and 15 (most zoomed in) | Number    |
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.04.15-pm.png)
+### Layout
 
-| Property                                    | Description                                                                                                                                                                                                        |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Latitude                                    | Default (`37.78`); Degrees north or south of the equator, from `-90` to `90.`Locations north of the equator are positive and those to the south are negative. Latitude at the equator is 0°.                       |
-| Longitude                                   | Default (`-122.4`); Degrees east or west of the prime meridian, from `-180` to `180`. Locations west of the prime meridian are negative and those to the east are positive. Longitude at the prime meridian is 0°. |
-| Zoom                                        | Default (`0`); Range is `-15` to `10` where -15 is most zoomed out                                                                                                                                                 |
-| Shows User Location                         | Default (`true`); If `true`, shows user location as a blinking blue dot                                                                                                                                            |
-| Shows My Location Button (Google Maps only) | Default (`true`); In `true`, shows my location button that auto-centers map on user's location                                                                                                                     |
+| Property | Description                    | Data Type  |
+| -------- | ------------------------------ | ---------- |
+| Height   | Height of Map in pixels        | Number     |
+| Width    | Width of Map in pixels         | Number     |
+| Visible  | Set whether the Map is visible | True/False |
 
-## Style the Map
+### **Style**
 
-![](.gitbook/assets/map-fig-3.png)
-
-To style the Map like the picture above, set Provider to `Google`, Shows Traffic to `true`, Map Type to `standard` and Custom Map Style String to:
-
-```javascript
-[ { "elementType": "geometry", "stylers": [ { "color": "#f5f5f5" } ] }, { "elementType": "geometry.fill", "stylers": [ { "color": "#ffffff" } ] }, { "elementType": "labels.icon", "stylers": [ { "visibility": "off" } ] }, { "elementType": "labels.text.fill", "stylers": [ { "color": "#000000" } ] }, { "featureType": "administrative.land_parcel", "elementType": "labels.text.fill", "stylers": [ { "color": "#bdbdbd" } ] }, { "featureType": "poi", "elementType": "geometry", "stylers": [ { "color": "#eeeeee" } ] }, { "featureType": "poi", "elementType": "labels.text.fill", "stylers": [ { "color": "#757575" } ] }, { "featureType": "poi.park", "elementType": "geometry", "stylers": [ { "color": "#e5e5e5" } ] }, { "featureType": "poi.park", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] }, { "featureType": "road", "elementType": "geometry", "stylers": [ { "color": "#ffffff" } ] }, { "featureType": "road", "elementType": "geometry.fill", "stylers": [ { "color": "#d8d8d8" } ] }, { "featureType": "road.arterial", "elementType": "labels.text.fill", "stylers": [ { "color": "#757575" } ] }, { "featureType": "road.highway", "elementType": "geometry", "stylers": [ { "color": "#dadada" } ] }, { "featureType": "road.highway", "elementType": "labels.text.fill", "stylers": [ { "color": "#616161" } ] }, { "featureType": "road.local", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] }, { "featureType": "transit.line", "elementType": "geometry", "stylers": [ { "color": "#e5e5e5" } ] }, { "featureType": "transit.station", "elementType": "geometry", "stylers": [ { "color": "#eeeeee" } ] }, { "featureType": "water", "elementType": "geometry", "stylers": [ { "color": "#e4e4e4" } ] }, { "featureType": "water", "elementType": "geometry.fill", "stylers": [ { "color": "#f3f3f3" } ] }, { "featureType": "water", "elementType": "labels.text.fill", "stylers": [ { "color": "#9e9e9e" } ] } ]
-```
+| **Property**  | Description                                                                             | Data Type        |
+| ------------- | --------------------------------------------------------------------------------------- | ---------------- |
+| Border Width  | Width of border around Map in pixels                                                    | Number           |
+| Border Radius | Radius of corners of border on Mapr in degrees                                          | Number           |
+| Border Color  | Color of border (only visible if border width > 0)                                      | Color            |
+| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from menu |
 
 There are a number of `Advanced` properties available to help you add custom styling to your map. Below are the most popular.
 
@@ -72,37 +71,166 @@ To find the spacing properties, you'll have to select the `Advanced` tab
 | Margin `Advanced`  | Default (`none`); Margin is the space outside of the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen                |
 | Padding `Advanced` | Default (`none`); Padding is the space between the contents and the border of a component; You can set space on the `top`, `bottom`, `right` or `left` of the component in both pixels or percent of Screen |
 
-### Add Marker
-
-{% hint style="info" %}
-There are limited styling options for markers at the moment. We are working to add the ability to change colors as well as add custom icons
-{% endhint %}
-
-![The default map marker is red on both Google and Apple Maps](<.gitbook/assets/thunkable-documentation-exhibits-75 (1).png>)
-
-You can add a standard default marker to your map with the blocks below. The Map component does not yet supply its own latitude and longitude so we currently recommend using the Location Sensor component
-
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.05.29-pm.png)
-
-### Add Polyline
-
-![This is the satellite map available on Google Maps on Android and iOS](.gitbook/assets/thunkable-documentation-exhibits-77.png)
-
-To add a polyline, you can use the blocks below where `coordinates` need to be in a list of latitude and longitude objects, `stroke Width` is an integer and `stroke Color` is in hex format
-
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.07.39-pm.png)
-
-### Add Polygon
-
-![This is the satellite map available on Apple Maps, available for iOS](<.gitbook/assets/thunkable-documentation-exhibits-76 (1).png>)
-
-To add a polygon, you can use the blocks below where `coordinates` need to be in a list of latitude and longitude objects, `stroke Width` is an integer, `stroke Color` is in hex format, and `fill Color` is in hex format
 
 
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.09.05-pm.png)
 
-### Delete Markers, Polylines and Polygons
+## Blocks
+
+### Events
+
+The map has several events. You can trigger actions to happen when these events occur.
+
+#### On Map Ready
+
+This event happens when the Map has loaded in your app.&#x20;
+
+This is a good time to add any markers, polylines or polygons to your app that you want the user to see as soon as your app opens.
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.10.55-pm.png)
+
+#### On User Location Change
+
+This event happens when the location of the user changes. It returns the **coordinate** object.\
+You can use [object blocks](objects.md) to get the properties of the coordinate object.
+
+The **coordinate** object has the following properties:
+
+**{**\
+&#x20;   **target:** Numeric ID for your app\
+&#x20;   **coordinate:{**\
+&#x20;         **latitude:** latitude of point selected\
+&#x20;         **longitude:** longitude of point selected \
+&#x20;   **}**\
+&#x20;   **position:{**\
+&#x20;         **x:** x-position of selected point on the Map component\
+&#x20;         **y:** x-position of selected point on the Map component\
+&#x20;   **}**\
+**}**
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.12.54-pm.png)
+
+#### On Press
+
+This event happens when the user taps on the Map.
+
+![](<.gitbook/assets/maponpressnew (1).png>)
+
+| Output name | Output value                                        | Data Type |
+| ----------- | --------------------------------------------------- | --------- |
+| Latitude    | Latitude of selected position                       | Number    |
+| Longitude   | Longitude of selected position                      | Number    |
+| position X  | X Co-ordinate of selected position on map component | Number    |
+| position Y  | Y Co-ordinate of selected position on map component | Number    |
+
+#### On Long Press
+
+This event happens when the user presses on the map for a longer period of time.
+
+![](.gitbook/assets/maponlongpressnew.png)
+
+| Output name | Output value                                        | Data Type |
+| ----------- | --------------------------------------------------- | --------- |
+| Latitude    | Latitude of selected position                       | Number    |
+| Longitude   | Longitude of selected position                      | Number    |
+| position X  | X Co-ordinate of selected position on map component | Number    |
+| position Y  | Y Co-ordinate of selected position on map component | Number    |
+
+#### On Marker Press
+
+This event happens when the user clicks on a Marker that is on the Map.
+
+The **On Marker Press** block returns an **event** object. This is an object which can be used with [object blocks.](objects.md)&#x20;
+
+The **event** object has the following properties:
+
+{\
+&#x20;   **latitude:** latitude of the selected Marker\
+&#x20;   **longitude**: longitude of the selected Marker\
+}
+
+![](.gitbook/assets/screen-shot-2021-04-08-at-4.13.46-pm.png)
+
+### Functions
+
+#### Add Marker
+
+Adds a generic map marker to your map at the specified latitude/longitude.
+
+![](.gitbook/assets/mapaddmarker.png)
+
+This block takes the following inputs:
+
+| Input       | Description                                              | Data Type                 |
+| ----------- | -------------------------------------------------------- | ------------------------- |
+| Latitude    | Latitude of marker's position                            | Number between -90 and 90 |
+| Longitude   | Longitude of marker's position                           | Number between -90 and 90 |
+| Title       | Title of marker (displayed when marker is clicked)       | Text                      |
+| Description | Description of marker (displayed when marker is clicked) | Text                      |
+| Pin Color   | Color of marker                                          | Color                     |
+
+#### Add Icon Marker
+
+Adds a marker of a selected image to your map at the specified latitude/longitude
+
+![](broken-reference)
+
+This block takes the following inputs:
+
+| Input       | Description                                              | Data Type                                                                        |
+| ----------- | -------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Latitude    | Latitude of marker's position                            | Number between -90 and 90                                                        |
+| Longitude   | Longitude of marker's position                           | Number between -90 and 90                                                        |
+| Title       | Title of marker (displayed when marker is clicked)       | Text                                                                             |
+| Description | Description of marker (displayed when marker is clicked) | Text                                                                             |
+| Icon        | Image to use as marker                                   | Dropdown menu (select [asset](projects/assets.md#uploading-and-managing-assets)) |
+
+#### Add Polyline
+
+Add a polyline to your map. This is an outline that connects several points on your map.
+
+This block takes the following inputs:
+
+| Input        | Description                                                    | Data Type                                                                                                                                          |
+| ------------ | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Coordinate   | List of points to draw a line between. List can be any length. | List of [objects](objects.md). Each object must have the properties `latitude` and `longitude.` Latitude and Longitude must be [numbers](math.md). |
+| Stroke Width | Width of polyline                                              | Number                                                                                                                                             |
+| Stroke Color | Color of polyline                                              | Color                                                                                                                                              |
+
+&#x20;These blocks:
+
+![](.gitbook/assets/polyline.png)
+
+Will produce this polyline:
+
+![](.gitbook/assets/polyline.jpeg)
+
+Note that polylines won't automatically create a closed shape. You would need to add a forth object with the properties `latitude: 37` and `longitude: -122` to the `coordinate` input of the `addPolyline` block above to close this triangular polyline.
+
+#### Add Polygon
+
+Add a polygon to your map. This is a solid shape that connects several points on your map.
+
+This block takes the following inputs:
+
+| Input        | Description                                                    | Data Type                                                                                                                                          |
+| ------------ | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Coordinate   | List of points to draw a line between. List can be any length. | List of [objects](objects.md). Each object must have the properties `latitude` and `longitude.` Latitude and Longitude must be [numbers](math.md). |
+| Stroke Width | Width of outline                                               | Number                                                                                                                                             |
+| Stroke Color | Color of outline (Only visible if Stroke Width > 0)            | Color                                                                                                                                              |
+| Fill Color   | Color of polygon shape                                         | Color                                                                                                                                              |
+
+These blocks:
+
+![](.gitbook/assets/screen-shot-2021-08-25-at-5.33.46-pm.png)
+
+Will produce this polygon:
+
+![](<.gitbook/assets/polygon (1).jpeg>)
+
+Note that the polygon outline will automatically connect the first and last points in the list of coordinates.
+
+#### Delete Markers, Polylines and Polygons
 
 You can use the **deleteAllMarkers** block to delete all [markers](map.md#add-marker) from your app.
 
@@ -116,68 +244,44 @@ You can use the **deleteAllPolygons** block to delete all [polygons](map.md#add-
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.09.45-pm.png)
 
-## Map Events
+### Properties
 
-The map has several events. You can trigger actions to happen when these events occur.
+Set and get [properties](map.md#properties) of the Map component.
 
-### On Map Ready
+#### Latitude
 
-This event happens when the Map has loaded in your app. This is a good time to add any markers, polylines or polygons to your app that you want the user to see as soon as your app opens.
+![](.gitbook/assets/lat.jpg)
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.10.55-pm.png)
+#### Longitude
 
-### On User Location Change
+![](.gitbook/assets/long.jpg)
 
-This event happens when the location of the user changes. It returns the **coordinate **object.\
-You can use [object blocks](objects.md) to get the properties of the coordinate object.
+#### Zoom
 
-The **coordinate** object has the following properties:
+![](.gitbook/assets/zoom.png)
 
-**target: **Numeric ID for your app\
-**coordinate:{**\
-**      latitude: **latitude of point selected\
-&#x20;     **longitude: **longitude of point selected \
-**}**\
-**position:{**\
-**      x: **x-position of selected point on the Map component\
-**      y: **x-position of selected point on the Map component\
-**}**
+#### Computed Height
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.12.54-pm.png)
+![](.gitbook/assets/mapheight.png)
 
-### On Press
+Returns the height of the Map on the device screen in pixels.
 
-This event happens when the user taps on the Map.
+#### Computed Width
 
-![](<.gitbook/assets/maponpressnew (1).png>)
+![](.gitbook/assets/mapwidth.png)
 
-| Output name | Output value                                        |
-| ----------- | --------------------------------------------------- |
-| Latitude    | Latitude of selected position                       |
-| Longitude   | Longitude of selected position                      |
-| position X  | X Co-ordinate of selected position on map component |
-| position Y  | Y Co-ordinate of selected position on map component |
+Returns the width of the Map on the device screen in pixels.
 
-### On Long Press
+#### Visible
 
-This event happens when the user presses on the map for a longer period of time.
+![](.gitbook/assets/mapvisible.png)
 
-![](.gitbook/assets/maponlongpressnew.png)
 
-| Output name | Output value                                        |
-| ----------- | --------------------------------------------------- |
-| Latitude    | Latitude of selected position                       |
-| Longitude   | Longitude of selected position                      |
-| position X  | X Co-ordinate of selected position on map component |
-| position Y  | Y Co-ordinate of selected position on map component |
 
-### On Marker Press
+## See Also
 
-This event happens when the user clicks on a Marker that is on the Map.
+You can pair the Map component with a [Location Sensor](location-sensor.md). This helps you show content relevant to the user's location.
 
-The **On Marker Press **block returns an **event **object. This is an object which can be used with [object blocks.](objects.md) The **event **block has the following properties:
+These blocks will set the map's latitude and longitude to show the user's location once the map is ready:
 
-**latitude: **returns the latitude of the selected Marker\
-**longitude**: returns the longitude of the selected Marker
-
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.13.46-pm.png)
+![](<.gitbook/assets/maponready (2).png>)

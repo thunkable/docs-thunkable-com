@@ -54,16 +54,16 @@ Choosing Airtable or Google Sheets allows you to create dynamic list viewers. Th
 
 You can customize the List Viewer with the following properties:
 
-* **Text Items Color: **Set color of Text Items font
-* **Text Items Background Color: **Set background color for List Viewer
-* **Text Items Font Size: **Set font size of Text Items
-* **Show Arrow: **To see an arrow beside each item in the list, set the switch to true
-* **Visible: **To see the text input in your app, set the switch to true
+* **Text Items Color:** Set color of Text Items font
+* **Text Items Background Color:** Set background color for List Viewer
+* **Text Items Font Size:** Set font size of Text Items
+* **Show Arrow:** To see an arrow beside each item in the list, set the switch to true
+* **Visible:** To see the text input in your app, set the switch to true
 * **Border**
-  * **Width: **Enter how wide you want the border outline of the List Viewer to be
-  * **Color: **Pick a color for the border of the List Viewer
-  * **Style: **Select if you want the border to be a dotted, dashed or solid line
-  * **Radius: **Enter how round you want the edges of the border for the List Viewer to be
+  * **Width:** Enter how wide you want the border outline of the List Viewer to be
+  * **Color:** Pick a color for the border of the List Viewer
+  * **Style:** Select if you want the border to be a dotted, dashed or solid line
+  * **Radius:** Enter how round you want the edges of the border for the List Viewer to be
 
 ## Edit the ListViewer Height
 
@@ -73,10 +73,10 @@ You can set how tall the List Viewer is using the height property.
 
 **Height**
 
-* **Fill container - **The List Viewer fills the entire screen vertically
-* **Fit contents - **The List Viewer’s height changes to fit the contents it contains
-* **Relative size - **The List Viewer fills the specified percentage of the screen
-* **Absolute size - **Sizes the List Viewer to a specified number of pixels
+* **Fill container -** The List Viewer fills the entire screen vertically
+* **Fit contents -** The List Viewer’s height changes to fit the contents it contains
+* **Relative size -** The List Viewer fills the specified percentage of the screen
+* **Absolute size -** Sizes the List Viewer to a specified number of pixels
 
 ## Add Spacing
 

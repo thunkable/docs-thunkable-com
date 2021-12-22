@@ -44,7 +44,7 @@ The `Vertical Alignment` property allows you to space elements in a Row vertical
 | Background Picture | You can upload a background image to your app or reference an image url e.g.`beaver-yellow.png` |
 |                    |                                                                                                 |
 
-**Background Picture Resize Mode **
+**Background Picture Resize Mode**&#x20;
 
 * Cover: Fills the entire screen without changing the height and width ratio of the image\
 

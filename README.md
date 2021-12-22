@@ -28,19 +28,19 @@ If you're completely new to Thunkable, we recommend starting right here!
 [get-started](get-started/)
 {% endcontent-ref %}
 
-To find out how Thunkable projects work, please read the **Create New Project **section.
+To find out how Thunkable projects work, please read the **Create New Project** section.
 
 {% content-ref url="projects/" %}
 [projects](projects/)
 {% endcontent-ref %}
 
-You can find an overview of all of our components in the **Components **section.
+You can find an overview of all of our components in the **Components** section.
 
 {% content-ref url="components.md" %}
 [components.md](components.md)
 {% endcontent-ref %}
 
-To learn how to program your app with drag & drop blocks, please click on the **Blocks **section.
+To learn how to program your app with drag & drop blocks, please click on the **Blocks** section.
 
 {% content-ref url="blocks.md" %}
 [blocks.md](blocks.md)
