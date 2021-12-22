@@ -1,5 +1,15 @@
 # 📰 Release Notes
 
+## December 21, 2021
+
+Component Updates
+
+* Map: Add blocks to add markers of different colors, use assets as markers
+* Map: General Improvements
+* Data Viewer: Add ability to set text for empty values in Data Source
+* Data Sources: Add support for deleting all rows from Google Sheet&#x20;
+* Drag and Drop UI, Data Viewer: Selecting a layout is now done in a separate modal&#x20;
+
 ## December 20, 2021
 
 Platform Updates
