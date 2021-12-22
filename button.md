@@ -16,88 +16,98 @@ A button is just something you can click on to perform an action. This action ca
 
 ![Navigate to a different screen](.gitbook/assets/btn\_click\_1.png)
 
-## Style the Button
+## Properties
 
-You have many options for styling your button, such as changing the background color or text color. Here are the different options for customization:
+### Button
 
-* **Text: **Text that appears on the button
-* **Font:** Font used to display Button's text
-* **Text Color: **Color of the text that appears on the button
-* **Background Color: **Sets the background color of the button
-* **Font Size: **Size of the text that appears on the button
-* **Font Bold: **To make the text on the button bold, set the switch to true
-* **Font Italic:  **To make the text on the button italic, set the switch to true
-* **Background Color:** Set the background Color of the Button
-* **Background Picture: **Upload a picture that appears on the button.** **
-  * **Resize Mode**
-    * **Cover: **Fills the entire button without changing the height and width ratio of the image
-    * **Contain: **The entire image will be scaled down to fit inside the button, without changing the height and width ratio of the image
-    * **Stretch: **The image's height will change to fill the button length-wise
-    * **Repeat: **Repeat the image to cover the button. The image's height and width ratio will not change
-    * **Center:** Positions the image in the middle of the button
-* **Disabled: **To prevent the button from performing an option when it is clicked, set the switch to true
-* **Raised: **To cast a shadow around the button, set the switch to true
-* **Visible: **To see the button in your app, set the switch to true
-* **Border**
-  * **Width: **Enter how wide you want the border outline of the button to be
-  * **Color: **Pick a color for the border of the button
-  * **Style: **Select if you want the border to be a dotted, dashed or solid line
-  * **Radius: **Enter how round you want the edges of the border for the button to be
+| Property                    | Description                                    | Data Type                                                  |
+| --------------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
+| Text                        | Text of the Button                             | Text                                                       |
+| Font                        | Font used to display Button's text             | Select from menu                                           |
+| Custom Font (mobile only)\* | Font used to display Button's text             | Upload TTF or OTF file                                     |
+| Text Color                  | Color of Button's text                         | Color                                                      |
+| Font Size                   | Size of Button's text                          | Number                                                     |
+| Font Bold                   | Toggle whether Button's text is **bold**       | True/False                                                 |
+| Font Italic                 | Toggle whether Button's text is _italic_       | True/False                                                 |
+| Background Color            | Color of Button's background                   | Color                                                      |
+| Background Picture          | Picture to show on Button                      | Upload image file                                          |
+| Resize Mode                 | How Background Picture should be resized       | Select from menu (cover, contain, stretch, repeat, center) |
+| Disabled                    | Toggle whether Button is disabled for end user | True/False                                                 |
+| Raised                      | Toggle whether Button has shadow               | True/False                                                 |
 
-## Edit size and position
+{% hint style="info" %}
+Uploading a custom font is available on Thunkable's Business and Enterprise plans.\
+[Read more about our pricing plans here.](https://thunkable.com/#/pricing)
+{% endhint %}
 
-You can drag and drop your component into position, and set its size. \
-You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
+### Layout
 
-**Height:** Height of Button in pixels\
-**Width: **Width of Button in pixels
+| Property | Description                                                                      | Data Type  |
+| -------- | -------------------------------------------------------------------------------- | ---------- |
+| X        | Position of top left corner of Button on X-axis, where the left hand side is X=0 | Number     |
+| Y        | Position of top left corner of Button on Y-axis, where the top hand side is X=0  | Number     |
+| Height   | Height of Button in pixels                                                       | Number     |
+| Width    | Width of Button in pixels                                                        | Number     |
+| Visible  | Toggle whether end users can see this Button in your app                         | True/False |
 
-**X:** position of top left corner of Button on X-axis\
-**Y: **position of top right corner of component on Y-axis
+### Style
 
-## Events
+| Property       | Description                                                              | Data Type                                |
+| -------------- | ------------------------------------------------------------------------ | ---------------------------------------- |
+| Border Width   | Width of Button's border in pixels                                       | Number                                   |
+| Border Radius  | Radius of corners of Button's border in pixels                           | Number                                   |
+| Border Color   | Color of Button's border                                                 | Color                                    |
+| Border Style   | Style of Button's border                                                 | Select from menu (solid, dotted, dashed) |
+| Shadow Color   | Color of Button's shadow                                                 | Color                                    |
+| Shadow Opacity | Opacity of Button's shadow                                               | Number between 0 and 100                 |
+| Shadow Radius  | Radius of corners of Button's shadow in pixels                           | Number                                   |
+| Shadow Offset  | How far Button's shadow should be offset, in Height and Width, in pixels | Number                                   |
+
+## Blocks
+
+### Events
 
 You can use the following blocks to listen for when a specific event occurs
 
-### Click
+#### Click
 
 ![](.gitbook/assets/click.png)
 
 Performs an action when the user taps the button.
 
-### Long Click
+#### Long Click
 
 ![](.gitbook/assets/long\_click.png)
 
 Performs an action when the user holds down the button.
 
-### Touch Down
+#### Touch Down
 
 ![](.gitbook/assets/touch\_down.png)
 
 Performs an action when a user pressed down on the button
 
-### Touch Up
+#### Touch Up
 
 ![](.gitbook/assets/touch\_up.png)
 
 Performs an action after the user releases the button
 
-## Properties
+### Properties
 
-### Background Color
+#### Background Color
 
 ![](<.gitbook/assets/bg\_color (1).png>)
 
 The get and set background color properties work with the color of the button itself i.e. the region behind the button text. Best practice is to use one of the built [color blocks](color.md) to set this value, but you can use HEX and RGB values too.
 
-### Background Picture
+#### Background Picture
 
 ![](.gitbook/assets/bg\_picture.png)
 
 
 
-### Background Picture Resize Mode
+#### Background Picture Resize Mode
 
 ![](.gitbook/assets/resize\_mode.png)
 
@@ -109,7 +119,7 @@ The set and get resize mode blocks work with how the background picture is scale
 * Repeat
 * Center
 
-### Disabled
+#### Disabled
 
 ![](.gitbook/assets/disabled.png)
 
@@ -120,7 +130,7 @@ The disabled property is used to set whether or not the button is "clickable". E
 
 
 
-### Font
+#### Font
 
 ![](<.gitbook/assets/bold (1).png>)
 
@@ -128,18 +138,18 @@ The disabled property is used to set whether or not the button is "clickable". E
 
 ![](.gitbook/assets/raised.png)
 
-The font style properties of the button text can be "**Bold**",  "_Italic", _or Raised. Expected values for each property are:
+The font style properties of the button text can be "**Bold**",  "_Italic",_ or Raised. Expected values for each property are:
 
 * True
 * False
 
-### Font Size
+#### Font Size
 
 ![](.gitbook/assets/font\_size.png)
 
 The get and set font size blocks are used to work with the size of the text that is displayed in the button. This value must be a number.
 
-### Height
+#### Height
 
 ![](.gitbook/assets/height.png)
 
@@ -154,19 +164,19 @@ The set and get height blocks work with the Height property of the button compon
 
 The `Computed Height`block returns the on-screen dimensions of the button, after it has been rendered on-screen. The value returned is an integer, representing the size of the button in pixels.
 
-### Text
+#### Text
 
 ![](.gitbook/assets/text.png)
 
 This property corresponds to the text that is displayed in the button component.
 
-### Text Color
+#### Text Color
 
 ![](.gitbook/assets/text\_color.png)
 
 The get and set text color properties can be used to work with the color of the text displayed on the button. Best practice is to use one of the [color blocks](color.md) to set this value but you can use HEX and RGB values too.
 
-### Visible
+#### Visible
 
 ![](.gitbook/assets/visible.png)
 
@@ -177,7 +187,7 @@ The set and get visible blocks are used to show or hide the entire button compon
 * True
 * False
 
-### Width
+#### Width
 
 ![](.gitbook/assets/width.png)
 

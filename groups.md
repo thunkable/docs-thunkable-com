@@ -14,10 +14,10 @@ You can drag and drop your component into position, and set its size. \
 You can set exact values for the component's Height and Width, and X and Y coordinates, in its properties.
 
 **Height:** Height of Button in pixels\
-**Width: **Width of Button in pixels
+**Width:** Width of Button in pixels
 
 **X:** position of top left corner of Button on X-axis\
-**Y: **position of top right corner of component on Y-axis
+**Y:** position of top right corner of component on Y-axis
 
 ## Add Components to Group
 

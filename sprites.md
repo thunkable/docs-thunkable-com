@@ -11,9 +11,9 @@ They can react to being touched or dragged across the screen, or colliding with 
 
 ## Sprites vs Sprite Types
 
-A **Sprite Type **is a **category **of Sprites that you can add to your app. For example, in a video game you might have a Main Character Sprite Type and Obstacle Sprite Types.&#x20;
+A **Sprite Type** is a **category** of Sprites that you can add to your app. For example, in a video game you might have a Main Character Sprite Type and Obstacle Sprite Types.&#x20;
 
-A **Sprite **is a **single instance **of a Sprite Type. In the video game example, you could have a single Obstacle Sprite Type, but multiple Obstacle Sprites in your app. They would be multiple Sprites of the same Sprite Type.
+A **Sprite** is a **single instance** of a Sprite Type. In the video game example, you could have a single Obstacle Sprite Type, but multiple Obstacle Sprites in your app. They would be multiple Sprites of the same Sprite Type.
 
 ### Example: Different Types of Sprites
 
