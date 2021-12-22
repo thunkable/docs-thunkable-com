@@ -1,5 +1,18 @@
 # 📰 Release Notes
 
+## December 20, 2021
+
+Platform Updates
+
+* Fix for blocks in Snap to Place editor
+
+Component Updates
+
+* Button: Added ability to upload custom font files ([Business and Enterprise feature](https://thunkable.com/#/pricing))
+* Label: Added ability to upload custom font files ([Business and Enterprise feature](https://thunkable.com/#/pricing))
+* Drag and Drop UI, Text Input: Changes to default style
+* Drag and Drop UI, Top Tab Navigator: New properties
+
 ## December 17, 2021
 
 Platform Updates
