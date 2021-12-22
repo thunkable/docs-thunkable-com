@@ -1,5 +1,11 @@
 # 📰 Release Notes
 
+## December 22, 2021
+
+Component Updates
+
+* Drag and Drop UI, Label: Improve appearance of Label on wider screens
+
 ## December 21, 2021
 
 Component Updates
