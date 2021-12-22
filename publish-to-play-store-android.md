@@ -48,7 +48,7 @@ Before you download your app, make sure you set the appropriate Build and Versio
 
 ## Download your Android App Bundle (AAB) file
 
-You can download your AAB file by clicking the download icon and selecting **Publish Android**:&#x20;
+You can download your AAB file by clicking the download icon and selecting** Publish Android**:&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-06-03-at-12.05.02-pm.png)
 
@@ -85,7 +85,7 @@ You will also be asked to confirm that your app meets the **Google Play Develope
 
 ![](.gitbook/assets/screen-shot-2021-06-04-at-7.06.12-am.png)
 
-Google offers optional steps to set up internal testing for your project. You can follow the steps to set this up. We will focus on the **Set Up Your app** and **Publish Your app on Google Play** steps.
+Google offers optional steps to set up internal testing for your project. You can follow the steps to set this up. We will focus on the **Set Up Your app **and** Publish Your app on Google Play **steps.
 
 ### Set Up Your App
 
@@ -142,7 +142,7 @@ Then you will be asked to **create a new release**.
 
 ![](.gitbook/assets/prepare-1.png)
 
-Google will offer to protect your app signing key. You can click **Continue** to allow this to proceed. You will only be asked this the first time you publish a release.
+Google will offer to protect your app signing key. You can click **Continue **to allow this to proceed. You will only be asked this the first time you publish a release.
 
 See [Manage Your Own App Signing](publish-to-play-store-android.md#manage-your-own-app-signing) below if you do not want Google to manage your app signing.&#x20;
 
@@ -156,13 +156,13 @@ Add a **Release Name** and **Release Notes** in the **Release Details** section.
 
 **Review and Release**
 
-**Errors, Warnings, and Messages** will let you know if there are any issues with your release or any information you should be aware of. **Errors** will prevent you from publishing your release. **Warnings** and **Messages** will not prevent you from publishing a release.
+**Errors, Warnings, and Messages **will let you know if there are any issues with your release or any information you should be aware of. **Errors** will prevent you from publishing your release. **Warnings** and **Messages** will not prevent you from publishing a release.
 
 **New App Bundles and APKs** will show any new APK or AAB files you have added to this release.
 
 **Release Notes** will show the release notes for this release.
 
-Click **Start Rollout to Production** to publish your app!
+Click **Start Rollout to Production **to publish your app!
 
 Once your app has been reviewed, it will go live on the Google Play Store.
 
@@ -199,7 +199,7 @@ Thunkable does not store your keystore outside of your app. If your app has been
 #### Export keystore from a Thunkable Project
 
 {% hint style="info" %}
-A Thunkable project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time
+A Thunkable project will not have a keystore until either a keystore is imported **or **the project is downloaded as an Android app for the first time
 {% endhint %}
 
 If you make a copy of a Thunkable project, the copy will have a different keystore to the original project.&#x20;
@@ -297,7 +297,7 @@ Click **Export and upload a key from Java keystore:**
 
 ![](.gitbook/assets/export.png)
 
-You can skip straight to **Step 3: Upload generated ZIP** and **** Upload the [Keystore ZIP you downloaded from your project settings.](publish-to-play-store-android.md#download-your-bundle-key-zip)
+You can skip straight to** Step 3: Upload generated ZIP **and** **Upload the [Keystore ZIP you downloaded from your project settings.](publish-to-play-store-android.md#download-your-bundle-key-zip)
 
 Click **Continue.**
 

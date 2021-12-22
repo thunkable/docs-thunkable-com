@@ -90,7 +90,7 @@ You can receive a **String** or a **Byte Array**.
 | Parameter           | Type   | Description                                                                               |
 | ------------------- | ------ | ----------------------------------------------------------------------------------------- |
 | characteristic UUID | String | **Expects** a text block with a 32-bit UUID for the BLE type, service or profile required |
-| data                | String | **Returns** a string containing the information received from the BLE device              |
+| data                | String | **Returns **a string containing the information received from the BLE device              |
 | error               | String | **Returns** an error message from the function                                            |
 
 ### Transmit

@@ -125,4 +125,4 @@ Show or hide the Web Viewer.
 
 ![](.gitbook/assets/url.png)
 
-Change the web address that is displayed in the web viewer. Use **HTTPS://** URLs with this block.
+Change the web address that is displayed in the web viewer. Use **HTTPS:// **URLs with this block.

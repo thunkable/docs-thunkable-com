@@ -12,7 +12,7 @@ The Map component lets you show an area of a Google map to the user. You can add
 
 You can add your own Google Maps API Key to your Thunkable project. This is not necessary to show a map in your app.
 
-Simply click on your project name to open the [Project Settings](project-settings.md) menu, and scroll down to the **Google Map Settings** section. You will see the option to enter a Google Maps API Key for Android and iOS.
+Simply click on your project name to open the [Project Settings](project-settings.md) menu, and scroll down to the **Google Map Settings **section. You will see the option to enter a Google Maps API Key for Android and iOS.
 
 ![](.gitbook/assets/mapapikeys.png)
 
@@ -61,21 +61,21 @@ This is a good time to add any markers, polylines or polygons to your app that y
 
 #### On User Location Change
 
-This event happens when the location of the user changes. It returns the **coordinate** object.\
+This event happens when the location of the user changes. It returns the **coordinate **object.\
 You can use [object blocks](objects.md) to get the properties of the coordinate object.
 
 The **coordinate** object has the following properties:
 
 **{**\
-&#x20;   **target:** Numeric ID for your app\
+**    target: **Numeric ID for your app\
 &#x20;   **coordinate:{**\
-&#x20;         **latitude:** latitude of point selected\
-&#x20;         **longitude:** longitude of point selected \
-&#x20;   **}**\
-&#x20;   **position:{**\
-&#x20;         **x:** x-position of selected point on the Map component\
-&#x20;         **y:** x-position of selected point on the Map component\
-&#x20;   **}**\
+**          latitude: **latitude of point selected\
+&#x20;         **longitude: **longitude of point selected \
+**    }**\
+**    position:{**\
+**          x: **x-position of selected point on the Map component\
+**          y: **x-position of selected point on the Map component\
+**    }**\
 **}**
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.12.54-pm.png)
@@ -110,12 +110,12 @@ This event happens when the user presses on the map for a longer period of time.
 
 This event happens when the user clicks on a Marker that is on the Map.
 
-The **On Marker Press** block returns an **event** object. This is an object which can be used with [object blocks.](objects.md)&#x20;
+The **On Marker Press **block returns an **event **object. This is an object which can be used with [object blocks.](objects.md)&#x20;
 
-The **event** object has the following properties:
+The **event **object has the following properties:
 
 {\
-&#x20;   **latitude:** latitude of the selected Marker\
+**    latitude: **latitude of the selected Marker\
 &#x20;   **longitude**: longitude of the selected Marker\
 }
 

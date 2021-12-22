@@ -72,7 +72,7 @@ Set and get [properties](rating.md#properties) of the Rating component
 
 #### Direction
 
-Select how the Rating component is displayed: as a **row** (left-right), **row-reverse** (right-left), **column** (top-bottom), or **column-reverse** (bottom-top).
+Select how the Rating component is displayed: as a **row** (left-right), **row-reverse **(right-left), **column **(top-bottom), or **column-reverse **(bottom-top).
 
 ![](.gitbook/assets/direction.png)
 

@@ -92,11 +92,11 @@ Preview on the Web allows you to live preview your own project directly from you
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.41.10-pm.png)
 
-You can click the **Preview in a New Window** text to preview your app in a new browser tab:
+You can click the **Preview in a New Window **text to preview your app in a new browser tab:
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.41.51-pm.png)
 
-You can also preview any _public_ app, directly from the Project Detail Page. Here's [one example](https://x.thunkable.com/projectPage/5ea6ed029ce3d64d1d3a27dc) but you can find thousands of others in the public gallery.
+You can also preview any _public _app, directly from the Project Detail Page. Here's [one example](https://x.thunkable.com/projectPage/5ea6ed029ce3d64d1d3a27dc) but you can find thousands of others in the public gallery.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.43.12-pm.png)
 

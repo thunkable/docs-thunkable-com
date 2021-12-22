@@ -94,7 +94,7 @@ To program an intent, you simply create new intents in the Dialogflow interface.
 
 ![](.gitbook/assets/screen-shot-2019-10-02-at-9.15.39-pm.png)
 
-The text response above can **** then be programmed with Thunkable blocks to complete a certain action e.g. play a specific sound file as in the [**sample app, Dad**](https://x.thunkable.com/projects/5aac3404264501000175f715/Welcome/designer).
+The text response above can** **then be programmed with Thunkable blocks to complete a certain action e.g. play a specific sound file as in the [**sample app, Dad**](https://x.thunkable.com/projects/5aac3404264501000175f715/Welcome/designer).
 
 The `text response` you program in Dialogflow is the same as the `value` output of the Start listening block on Thunkable as shown below.
 

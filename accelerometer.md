@@ -21,7 +21,7 @@ To add an Accelerometer to your app:
 
 You will see a settings panel where you can set:
 
-* The **Name** of the Accelerometer
+* The **Name **of the Accelerometer
 * Whether the Accelerometer is **Enabled**
 * Whether the **Sensitivity** of the Accelerometer is low, medium or high
 

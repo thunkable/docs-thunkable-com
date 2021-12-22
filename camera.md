@@ -4,7 +4,7 @@ description: >-
   picture.
 ---
 
-# Camera & Media
+# Camera
 
 You can find the Camera blocks in the Camera drawer of blocks.
 
@@ -18,7 +18,7 @@ You can view a video tutorial that demonstrates all of the Camera blocks here:
 
 ## Advanced Blocks
 
-For each block in this drawer, you can right-click the block and select **Show advanced block** to see an expanded block with additional outputs. Both the simple and advanced blocks will be explained in this document.
+For each block in this drawer, you can right-click the block and select **Show advanced block **to see an expanded block with additional outputs. Both the simple and advanced blocks will be explained in this document.
 
 ![](<.gitbook/assets/image (147).png>)
 
@@ -181,7 +181,7 @@ No set up is required but creating your free Cloudinary account is highly recomm
 
 #### Connect your Cloudinary cloud to Thunkable
 
-To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret.` You can add these details to your app in the [Project Settings panel](project-settings.md#api-keys).
+To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret. `You can add these details to your app in the [Project Settings panel](project-settings.md#api-keys).
 
 ![](<.gitbook/assets/image (192).png>)
 
