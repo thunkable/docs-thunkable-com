@@ -26,7 +26,7 @@ Maximum rating that can be given. Can be an integer between 5 and 10, selected f
 
 ### Direction
 
-Select how the Rating component is displayed: as a **row** (left-right), **row-reverse** (right-left), **column** (top-bottom), or **column-reverse** (bottom-top).
+Select how the Rating component is displayed: as a **row** (left-right), **row-reverse **(right-left), **column **(top-bottom), or **column-reverse **(bottom-top).
 
 ![](.gitbook/assets/direction.png)
 

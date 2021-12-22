@@ -72,7 +72,7 @@ Once you have allowed this, you will see a list of spreadsheets in your Google D
 
 ![](.gitbook/assets/select-a-file.png)
 
-At this time, connecting to **.xlsx** files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File > Save as Google Sheets**.
+At this time, connecting to **.xlsx **files that are hosted on Google Sheets is not supported. You can convert your .xlsx file to a Google Sheet before connecting it to your Thunkable app project. Simply open your .xlsx file on Google Sheets, then click **File > Save as Google Sheets**.
 
 ![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
 

@@ -8,8 +8,8 @@ description: The sound component plays a designated sound.
 
 There are a few ways you can set a sound source in your app:
 
-1. **Upload a sound to your app.** Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
-2. **Provide a link to the sound.** The link has to end in `.mp3`, `.wav`, etc
+1. **Upload a sound to your app. **Be careful of the Thunkable 50 MB [app size limit](projects/assets.md#app-size-limits-50-mb-per-app)
+2. **Provide a link to the sound. **The link has to end in `.mp3`, `.wav`, etc
 
 ## Volume
 

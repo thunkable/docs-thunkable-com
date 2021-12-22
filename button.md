@@ -28,6 +28,13 @@ You have many options for styling your button, such as changing the background c
 * **Text Color:** Color of the text that appears on the button
 * **Background Color:** Sets the background color of the button
 * **Font Size:** Size of the text that appears on the button
+* **Custom Font (mobile only)**: Upload a TTF or OTF font file to use as your Button's font
+
+{% hint style="info" %}
+Uploading a custom font file is available to accounts with Business and Enterprise plans.\
+Check out our [pricing page](https://thunkable.com/#/pricing) for more information about these plans
+{% endhint %}
+
 * **Background Picture:** Upload a picture that appears on the button. ****&#x20;
 * **Background Picture Resize Mode**
   * **Cover:** Fills the entire button without changing the height and width ratio of the image

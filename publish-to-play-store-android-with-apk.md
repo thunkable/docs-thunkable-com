@@ -126,7 +126,7 @@ In the dialog that comes up, you will see the keystore's password and a button t
 
 Click OK to save the .keystore file to your computer.
 
-Note: A Thunkable project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time
+Note: A Thunkable project will not have a keystore until either a keystore is imported **or **the project is downloaded as an Android app for the first time
 
 #### Import keystore to Thunkable
 
@@ -136,7 +136,7 @@ Click the name and icon of your app in upper left corner to bring up App Setting
 
 ![](.gitbook/assets/screen-shot-2019-09-10-at-11.11.22-am.png)
 
-Scroll all the way to the bottom of App Settings and click Import Keystore. **Note this will replace the existing keystore for this app so be sure you haven’t used it to publish to Google Play store before proceeding.** You can always Export it first and save it to your computer just in case.
+Scroll all the way to the bottom of App Settings and click Import Keystore. **Note this will replace the existing keystore for this app so be sure you haven’t used it to publish to Google Play store before proceeding. **You can always Export it first and save it to your computer just in case.
 
 ![Enter “android” as the password](.gitbook/assets/screen-shot-2019-09-10-at-11.11.34-am.png)
 

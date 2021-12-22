@@ -12,6 +12,12 @@ You can customize your label using the following properties:
 
 * **Text:** Text that appears on the label
 * **Font Size:** Size of the text that appears on the label
+*   **Custom Font (mobile only)**: Upload a TTF or OTF font file to use as your Button's font
+
+    {% hint style="info" %}
+    Uploading a custom font file is available to accounts with Business and Enterprise plans.\
+    Check out our [pricing page](https://thunkable.com/#/pricing) for more information about these plans
+    {% endhint %}
 * **Color:** Color of the text that appears on the label
 * **Background Color:** Sets the background color of the label
 * **Text Align**

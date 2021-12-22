@@ -19,7 +19,7 @@ However, annoying notifications---those that are irrelevant and too frequent---c
 | Game       | App updates | Try this new level |
 
 {% hint style="info" %}
-**Push Notifications are a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps (Android only), only PRO Thunkers can download and publish apps with Push Notifications.
+**Push Notifications are a  **![](.gitbook/assets/pro.png) **component. **While all Thunkers can add Push Notifications to their app projects and live test them in their apps (Android only), only PRO Thunkers can download and publish apps with Push Notifications.
 {% endhint %}
 
 {% hint style="info" %}
@@ -68,7 +68,7 @@ After adding your app, OneSignal will ask you to select a platform. Below, we ha
 
 **At this time Push Notifications can only be tested on Android Devices.**
 
-**You can add Push Notifications to iOS apps but testing can only be done after an app is published to the App Store.**&#x20;
+**You can add Push Notifications to iOS apps but testing can only be done after an app is published to the App Store. **
 
 ![](.gitbook/assets/screen-shot-2019-04-30-at-9.47.44-am.png)
 
@@ -112,7 +112,7 @@ There are two things that you will need to copy and paste back into One Signal:
 
 ![](<.gitbook/assets/image (95).png>)
 
-Go back to the **One Signal** platform.
+Go back to the** One Signal **platform.
 
 Earlier you should have selected the Android option on One Signal, and your screen should look like this:
 
@@ -122,13 +122,13 @@ Copy and paste the Firebase Server Key and the Firebase Sender ID sections into 
 
 ### 3. Select Your SDK
 
-The last thing you need to do in OneSignal is choose your target SDK. Select **Native Android** and click next to continue.&#x20;
+The last thing you need to do in OneSignal is choose your target SDK. Select **Native Android **and click next to continue.&#x20;
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-11.32.34.png)
 
 ### 4. Install Your SDK
 
-Copy the alpha numeric code that OneSignal generates called **Your App ID** in the image below.
+Copy the alpha numeric code that OneSignal generates called **Your App ID **in the image below.
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-11.34.39.png)
 
@@ -167,7 +167,7 @@ After that, choose **Apple iOS** as your platform.
 
 ### 2. Configure Platform
 
-OneSignal have provided [extensive documentation](https://documentation.onesignal.com/docs/generate-an-ios-push-certificate) on how to find your **Production Certificate .p12 file** as well as your **Production Private Key Password**. The most important steps are outlined below.
+OneSignal have provided [extensive documentation](https://documentation.onesignal.com/docs/generate-an-ios-push-certificate) on how to find your **Production Certificate .p12 file **as well as your **Production Private Key Password**. The most important steps are outlined below.
 
 To begin, open the [OneSignal Provisionator](https://onesignal.com/provisionator) webpage. This tool will generate a .p12 file and the accompanying password for you.
 
@@ -185,23 +185,23 @@ You can now download the .p12, .cer and .pem files that are generated for you.
 Don't forget to save your password somewhere safe.
 {% endhint %}
 
-Click on **Apple iOS**&#x20;
+Click on **Apple iOS **
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-13.31.08.png)
 
-With that completed you can upload your .p12 file and enter the password in OneSignal. Click **Save** to proceed to the next step.
+With that completed you can upload your .p12 file and enter the password in OneSignal. Click **Save **to proceed to the next step.
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-13.17.37.png)
 
 ### 3. Select SDK
 
-Click on **Native iOS** to choose the SDK you wish to target. Then click **Next** to generate your App ID.
+Click on **Native iOS ** to choose the SDK you wish to target. Then click **Next **to generate your App ID.
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-13.17.49.png)
 
 ### 4. Install SDK
 
-Copy the alpha-numeric code labeled **Your App ID** and head back to Thunkable.
+Copy the alpha-numeric code labeled **Your App ID **and head back to Thunkable.
 
 ![](.gitbook/assets/screenshot-2019-05-01-at-13.19.03.png)
 

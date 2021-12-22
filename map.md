@@ -14,7 +14,7 @@ For iOS, you have the option to choose between Apple Maps or Google Maps. On And
 
 It is possible to add your own Google Maps API Key to your Thunkable app project.
 
-Simply click on your project name to open the [Project Settings](projects/settings.md) menu, and scroll down to the **Google Map Settings** section. You will see the option to enter a Google Maps API Key for Android and iOS.
+Simply click on your project name to open the [Project Settings](projects/settings.md) menu, and scroll down to the **Google Map Settings **section. You will see the option to enter a Google Maps API Key for Android and iOS.
 
 ![](.gitbook/assets/mapapikeys.png)
 
@@ -128,19 +128,19 @@ This event happens when the Map has loaded in your app. This is a good time to a
 
 ### On User Location Change
 
-This event happens when the location of the user changes. It returns the **coordinate** object.\
+This event happens when the location of the user changes. It returns the **coordinate **object.\
 You can use [object blocks](objects.md) to get the properties of the coordinate object.
 
 The **coordinate** object has the following properties:
 
-**target:** Numeric ID for your app\
+**target: **Numeric ID for your app\
 **coordinate:{**\
-&#x20;     **latitude:** latitude of point selected\
-&#x20;     **longitude:** longitude of point selected \
+**      latitude: **latitude of point selected\
+&#x20;     **longitude: **longitude of point selected \
 **}**\
 **position:{**\
-&#x20;     **x:** x-position of selected point on the Map component\
-&#x20;     **y:** x-position of selected point on the Map component\
+**      x: **x-position of selected point on the Map component\
+**      y: **x-position of selected point on the Map component\
 **}**
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.12.54-pm.png)
@@ -175,9 +175,9 @@ This event happens when the user presses on the map for a longer period of time.
 
 This event happens when the user clicks on a Marker that is on the Map.
 
-The **On Marker Press** block returns an **event** object. This is an object which can be used with [object blocks.](objects.md) The **event** block has the following properties:
+The **On Marker Press **block returns an **event **object. This is an object which can be used with [object blocks.](objects.md) The **event **block has the following properties:
 
-**latitude:** returns the latitude of the selected Marker\
+**latitude: **returns the latitude of the selected Marker\
 **longitude**: returns the longitude of the selected Marker
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.13.46-pm.png)
