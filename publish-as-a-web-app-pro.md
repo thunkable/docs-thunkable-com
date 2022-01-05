@@ -83,8 +83,9 @@ Not all components are supported on the web at this time so please see the list 
 | **Assistant**            | Voice          | **`Not supported yet`**                                                                              |
 | **Barcode Scanner**      | Image          | **`Not supported yet`**                                                                              |
 | **Bluetooth Low Energy** | Sensors        | **`Not supported yet`**                                                                              |
+| **Camera**               | Image          | `Not supported on browser on iOS`                                                                    |
 | **Gyroscope**            | Sensors        | **`Supported but may not work as expected`**                                                         |
-| **Local Storage**        | Data           | **`Not supported yet -`**[**`stored variables`**](variables.md#stored-variables)**` are supported`** |
+| **Local Storage**        | Data           | **`Not supported yet -`**[**`stored variables`**](variables.md#stored-variables) **`are supported`** |
 | **Magnetometer**         | Sensors        | **`Supported but may not work as expected`**                                                         |
 | **Map**                  | Location       | **`Not supported yet`**                                                                              |
 | **Photo Library**        | Image          | **`Not supported yet`**                                                                              |
