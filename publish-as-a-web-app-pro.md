@@ -83,7 +83,7 @@ Not all components are supported on the web at this time so please see the list 
 | **Assistant**            | Voice          | **`Not supported yet`**                                    |
 | **Barcode Scanner**      | Image          | **`Not supported yet`**                                    |
 | **Bluetooth Low Energy** | Sensors        | **`Not supported yet`**                                    |
-| Camera                   | App Features   | `Not supported on browsers on iOS`                         |
+| **Camera**               | App Features   | `Not supported on browsers on iOS`                         |
 | **Gyroscope**            | Sensors        | **`Supported but may not work as expected`**               |
 | **Magnetometer**         | Sensors        | **`Supported but may not work as expected`**               |
 | **Map**                  | Location       | **`Not supported yet`**                                    |
