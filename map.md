@@ -173,7 +173,7 @@ This block takes the following inputs:
 
 Adds a marker of a selected image to your map at the specified latitude/longitude
 
-![](broken-reference)
+![](<.gitbook/assets/image (221).png>)
 
 This block takes the following inputs:
 
