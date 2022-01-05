@@ -216,3 +216,15 @@ When you are ready to send your first push notification, select the "MESSAGES" o
 
 
 ![](<.gitbook/assets/image (113).png>)
+
+## Push Notification Properties
+
+|         Property Name         | iOS | Android   |
+| :---------------------------: | --- | --------- |
+| Toggle Geolocation Permission | n/a | available |
+
+### Toggle Geolocation Permissions
+
+With the power of OneSignal comes the ability to push messages to users in certain geographical locations. This is optional, however. This also means you need to choose between tracking or not tracking users geographical locations. These data can be accessed via the OneSignal dashboard.&#x20;
+
+![](<.gitbook/assets/Screen Shot 2021-12-22 at 12.28.50 PM (3).png>)
