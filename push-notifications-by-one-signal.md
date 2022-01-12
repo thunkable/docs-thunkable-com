@@ -9,46 +9,24 @@ You can test Push Notifications on iOS by publishing your app to TestFlight and 
 
 Push notifications are one of the biggest advantages that mobile apps have over  mobile websites, since they can send messages to users without the app being open.&#x20;
 
-However, annoying notifications---those that are irrelevant and too frequent---can be dismissed or blocked easily.  We highly recommend sending notifications only when the content is relevant to the user.&#x20;
-
-**Good examples**:
-
-| App type   | Frequency   | Content            |
-| ---------- | ----------- | ------------------ |
-| E-commerce | Sales       | Coupon code        |
-| Game       | App updates | Try this new level |
+However, annoying notifications---those that are irrelevant and too frequent---can be dismissed or blocked easily.  We highly recommend sending notifications only when the content is relevant to the user. Examples of this include an e-commerce app notifying users of a sale, or a game notifying users of new levels and features.
 
 {% hint style="info" %}
 **Push Notifications are a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps (Android only), only PRO Thunkers can download and publish apps with Push Notifications.
 {% endhint %}
 
-{% hint style="info" %}
-**Availability**
-{% endhint %}
+## Properties
 
-|         | Add to Project | Live Test     | Download                              | Publish                               |
-| ------- | -------------- | ------------- | ------------------------------------- | ------------------------------------- |
-| Android | All Thunkers   | All Thunkers  | ****![](.gitbook/assets/pro.png) only | ****![](.gitbook/assets/pro.png) only |
-| iOS     | All Thunkers   | Not available | Not available                         | ![](.gitbook/assets/pro.png) only     |
+| Property                          | Description                                                                  | Data Type  |
+| --------------------------------- | ---------------------------------------------------------------------------- | ---------- |
+| Android App ID                    | App ID for Android from OneSignal                                            | Text       |
+| iOS App ID                        | App ID for iOS from OneSignal                                                | Text       |
+| Geolocation Enable (Android Only) | Toggle whether your end user is asked for permission to share their location | True/False |
 
-{% hint style="info" %}
+### Geolocation Permissions
 
-{% endhint %}
-
-## Adding a Push Notifications component to your app
-
-To add a Push Notifications component to your app:
-
-* Go to your Blocks tab
-* Click the ⚙ icon next to the `Push Notifications` drawer
-
-![](.gitbook/assets/push-notifications.png)
-
-You will see a dialog with options to enter an [Android app ID](push-notifications-by-one-signal.md#android-setup) or an [iOS app ID](push-notifications-by-one-signal.md#ios-setup) for your Push Notifications component. You can learn how to get these IDs in the rest of this document.
-
-![](.gitbook/assets/push-dialog.png)
-
-To edit the properties of the Push Notifications component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click cancel to dismiss the dialog without saving your changes.
+OneSignal allows you to push messages to users in certain locations. You will need permission from your end users to register their location to use this feature. \
+You can toggle whether you request geolocation permissions from your end users in the Push Notifications settings panel.
 
 ## Sign up with One Signal
 
@@ -80,6 +58,7 @@ Setting up push notifications for Android is relatively straightforward. Here's 
 2. [Configure Your Platform](push-notifications-by-one-signal.md#2-set-up-a-firebase-project)
 3. [Select Your SDK](push-notifications-by-one-signal.md#3-select-your-sdk)
 4. [Install Your SDK](push-notifications-by-one-signal.md#5-install-your-sdk)
+5. Toggle Location Permisson
 
 ### 1. Select Your Platform
 
@@ -145,6 +124,15 @@ If you are live testing or have downloaded your Android app, you should see a co
 Select the "MESSAGES" option and then select "NEW PUSH". You will now be able to create push notifications and send them to your app users.
 
 ![](<.gitbook/assets/image (113).png>)
+
+### Toggle Location Permission (Android Only)
+
+OneSignal is a powerful choice of push provider. With their platform, you can setup for your users to be pushed notifications [based on their locations](https://documentation.onesignal.com/docs/location-triggered-event). This is optional, however. This also means you need to make a conscious decision as to whether or not to track your Android users geographical locations. These tracking data can be accessed via the OneSignal dashboard. \
+\
+This feature can be toggled on and off in the Push Notifications settings by clicking on the icon at the bottom of your design screen. \
+
+
+![](<.gitbook/assets/Screen Shot 2021-12-20 at 3.54.28 PM.png>)
 
 ## &#x20;iOS Setup
 
@@ -216,6 +204,16 @@ When you are ready to send your first push notification, select the "MESSAGES" o
 
 
 ![](<.gitbook/assets/image (113).png>)
+
+## Blocks
+
+### Functions
+
+#### User ID
+
+
+
+This block returns the unique user ID of the device
 
 ## Push Notification Properties
 

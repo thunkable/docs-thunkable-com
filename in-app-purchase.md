@@ -68,7 +68,7 @@ If you need to pull the product/subscription info from the Play Store or App Sto
 
 You can use the following blocks to start the one-time purchase or subscription. For the fields in the return object, you can reference them here.
 
-![](<.gitbook/assets/image (223).png>)
+![](<.gitbook/assets/image (223) (1).png>)
 
 ![](<.gitbook/assets/image (218).png>)
 
@@ -78,7 +78,7 @@ You can use the following blocks to start the one-time purchase or subscription.
 
 You can use the following block to get the purchase history and you can verify the purchase from the return list. This block is helpful when you need to restore an existing purchase either on a new device or a new app installation. For the fields in the return object, you can reference them here.
 
-![](<.gitbook/assets/image (217).png>)
+![](<.gitbook/assets/image (217) (1).png>)
 
 ![](<.gitbook/assets/image (219).png>)
 

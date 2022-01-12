@@ -57,15 +57,15 @@ In Google Sheets, the entire document is considered to be the data source.
 
 In order to use a Google Sheet as a Data Source, the first row in your Sheet must be a **header** row.&#x20;
 
-{% hint style="warning" %}
-You must make your sheet shareable from within Google sheets for others to be able to access the sheet. \
-\
-[Click here](https://support.google.com/docs/answer/2494822?hl=en\&co=GENIE.Platform%3DDesktop) to see more instructions on how to do this
-{% endhint %}
+Your Google Sheet must be [shareable](https://support.google.com/docs/answer/2494822?hl=en\&co=GENIE.Platform%3DDesktop) for Thunkable to access its data.
 
 To connect a Google Sheet, sign in and grant permission for your Thunkable project to access your Google Drive.
 
 ![](.gitbook/assets/sign-in.png)
+
+{% hint style="warning" %}
+Some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. You may need to contact your G Suite administrator to review your security settings.&#x20;
+{% endhint %}
 
 Once you have allowed this, you will see a list of spreadsheets in your Google Drive. If you don't seen the sheet you are looking for you can switch to list view, sort alphabetically or search for the one you need. Click `Select` to return to your Thunkable project.
 
@@ -75,8 +75,8 @@ At this time, connecting to **.xlsx** files that are hosted on Google Sheets is 
 
 ![](.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
 
-{% hint style="warning" %}
-Some users have reported issues connecting to Google Sheets if they are using G Suite for Education accounts. The quickest way around this, for now, is to user a personal Gmail account. If you need a large group or class to use this feature then you may need to contact your G Suite administrator to review your security settings.&#x20;
+{% hint style="info" %}
+Looking to reset your Google Sheets connection? [Click here](troubleshooting/#how-can-i-reset-my-google-sheets-connection-in-thunkable) for instructions
 {% endhint %}
 
 ## Data Source blocks
