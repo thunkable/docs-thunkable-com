@@ -28,7 +28,7 @@ This block will open the camera and allow the user to take a photo. The photo ca
 
 ![](<.gitbook/assets/image (130).png>)
 
-### Advanced Block
+#### Advanced Block
 
 ![](<.gitbook/assets/image (172).png>)
 
@@ -44,7 +44,7 @@ This block will open the user's photo library and allow the user to select a pho
 
 ![](<.gitbook/assets/image (141).png>)
 
-### Advanced Block
+#### Advanced Block
 
 ![](<.gitbook/assets/image (132).png>)
 
@@ -60,7 +60,7 @@ Opens user camera, films from selected camera for chosen amount of time, returns
 
 ![](.gitbook/assets/video.png)
 
-### Advanced Block
+#### Advanced Block
 
 ![](<.gitbook/assets/advanced timed.png>)
 
@@ -74,7 +74,7 @@ Opens user camera, films from selected camera for chosen amount of time, returns
 | videoFile | Video file | The recorded video footage                                 |
 | Error     | Text       | If there is an error, returns the error. Else returns NULL |
 
-## Record Untimed Video
+#### Record Untimed Video
 
 ![](<.gitbook/assets/untimed video.png>)
 
@@ -99,7 +99,7 @@ This component is powered by [Microsoft Azure](https://blogs.microsoft.com/ai/az
 
 ![](<.gitbook/assets/image (176).png>)
 
-### Advanced Block
+#### Advanced Block
 
 ![](<.gitbook/assets/image (158).png>)
 
@@ -118,7 +118,7 @@ This block will scan a barcode or a QR code and return its value.
 
 ![](<.gitbook/assets/image (168).png>)
 
-### Advanced Block
+#### Advanced Block
 
 ![](<.gitbook/assets/image (134).png>)
 
@@ -135,7 +135,7 @@ This block will take an image file and return it in the given dimensions, qualit
 
 ![](<.gitbook/assets/Screen Shot 2021-11-02 at 3.33.23 PM.png>)
 
-### Advanced Block
+#### Advanced Block
 
 ![](.gitbook/assets/advanced.png)
 
@@ -158,7 +158,7 @@ This block will upload an image to Cloudinary and return a URL of the newly uplo
 
 ![](<.gitbook/assets/image (160).png>)
 
-### Advanced block
+#### Advanced block
 
 ![](<.gitbook/assets/image (156).png>)
 
@@ -171,7 +171,7 @@ This block will upload an image to Cloudinary and return a URL of the newly uplo
 If you use Thunkable's default Cloudinary DB, your media may get deleted. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
 {% endhint %}
 
-### Connecting Your Cloudinary DB to Your Thunkable project
+#### Connecting Your Cloudinary DB to Your Thunkable project
 
 No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
 
