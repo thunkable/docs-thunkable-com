@@ -10,43 +10,43 @@ The Slider is a great UI element to enable users easily select a value from a fi
 
 ### Slider
 
-| Property | Description | Data Type |
-| :--- | :--- | :--- |
-| Minimum Value | Minimum value the user can select. Must be less than Maximum Value. | Number |
-| Maximum Value | Maximum value the user can select. Must be greater than Minimum Value. | Number |
-| Value | Initial value of the Slider | Number |
-| Step | Step between values on the Slider | Number |
-| Minimum Track Tint Color | Color of Slider track between minimum value and current value | Color |
-| Maximum Track Tint Color | Color of Slider track between current value and maximum value | Color |
-| Thumb Tint Color | Color of the Slider thumb widget | Color |
-| Disabled | Toggle whether value Switch can be changed by user | True/False |
+| Property                 | Description                                                            | Data Type  |
+| ------------------------ | ---------------------------------------------------------------------- | ---------- |
+| Minimum Value            | Minimum value the user can select. Must be less than Maximum Value.    | Number     |
+| Maximum Value            | Maximum value the user can select. Must be greater than Minimum Value. | Number     |
+| Value                    | Initial value of the Slider                                            | Number     |
+| Step                     | Step between values on the Slider                                      | Number     |
+| Minimum Track Tint Color | Color of Slider track between minimum value and current value          | Color      |
+| Maximum Track Tint Color | Color of Slider track between current value and maximum value          | Color      |
+| Thumb Tint Color         | Color of the Slider thumb widget                                       | Color      |
+| Disabled                 | Toggle whether value Switch can be changed by user                     | True/False |
 
 ### Layout
 
-| Property | Description | Data Type |
-| :--- | :--- | :--- |
-| X | Location of top left corner of Slider on X-axis, where the left hand side is X=0 | Number |
-| Y | Location of top left corner of Slider on Y-axis, where the top side is Y=0 | Number |
-| Height | Height of Slider in pixels | Number |
-| Width | Width of Slider in pixels | Number |
-| Visible | Set whether the Slider is visible | True/False |
+| Property | Description                                                                      | Data Type  |
+| -------- | -------------------------------------------------------------------------------- | ---------- |
+| X        | Location of top left corner of Slider on X-axis, where the left hand side is X=0 | Number     |
+| Y        | Location of top left corner of Slider on Y-axis, where the top side is Y=0       | Number     |
+| Height   | Height of Slider in pixels                                                       | Number     |
+| Width    | Width of Slider in pixels                                                        | Number     |
+| Visible  | Toggle whether your end users can see the Slider                                 | True/False |
 
 ### **Style**
 
-| **Property** | Description | Data Type |
-| :--- | :--- | :--- |
-| Border Width | Width of border around Slider in pixels | Number |
-| Border Radius | Radius of corners of border on Slider in degrees | Number |
-| Border Color | Color of border \(only visible if border width &gt; 0\) | Color |
-| Border Style | Set whether border style is solid, dotted or dashed  \(only visible if border width &gt; 0\) | Select from menu |
+| **Property**  | Description                                                                             | Data Type                                  |
+| ------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Border Width  | Width of border around Slider in pixels                                                 | Number                                     |
+| Border Radius | Radius of corners of border on Slider in degrees                                        | Number                                     |
+| Border Color  | Color of border (only visible if border width > 0)                                      | Color                                      |
+| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
 
 ## Blocks
 
-### Events 
+### Events&#x20;
 
 #### On Value Change
 
-![](.gitbook/assets/slider_change.png)
+![](.gitbook/assets/slider\_change.png)
 
 Fires as the value of the slider changes. Returns the current value of the Slider.
 
@@ -62,51 +62,50 @@ Set and get the [properties](slider.md#properties) of the Slider.
 
 #### Minimum Value
 
-![](.gitbook/assets/min_value.png)
+![](.gitbook/assets/min\_value.png)
 
 #### Maximum Value
 
-![](.gitbook/assets/max_value.png)
+![](.gitbook/assets/max\_value.png)
 
-#### Value 
+#### Value&#x20;
 
-![](.gitbook/assets/value%20%281%29.png)
+![](<.gitbook/assets/value (1).png>)
 
-#### Step 
+#### Step&#x20;
 
 ![](.gitbook/assets/step.png)
 
-#### Get Computed Height 
+#### Get Computed Height&#x20;
 
-![](.gitbook/assets/height%20%289%29.png)
+![](<.gitbook/assets/height (9).png>)
 
 Returns Height of the Slider in pixels as it appears on the screen.
 
 #### Get Computed Width
 
-![](.gitbook/assets/width%20%2811%29.png)
+![](<.gitbook/assets/width (11).png>)
 
 Returns Width of the Slider in pixels as it appears on the screen.
 
-#### Visible 
+#### Visible&#x20;
 
-![](.gitbook/assets/visible%20%2811%29.png)
+![](<.gitbook/assets/visible (11).png>)
 
 #### Maximum Track Tint Color
 
-![](.gitbook/assets/max_track_tint_color.png)
+![](.gitbook/assets/max\_track\_tint\_color.png)
 
-### 
+###
 
-#### Minimum Track Tint Color 
+#### Minimum Track Tint Color&#x20;
 
-![](.gitbook/assets/min_track_tint_color.png)
+![](.gitbook/assets/min\_track\_tint\_color.png)
 
 #### Disabled
 
-![](.gitbook/assets/disabled%20%282%29.png)
+![](<.gitbook/assets/disabled (2).png>)
 
-#### Thumb Tint Color 
+#### Thumb Tint Color&#x20;
 
-![](.gitbook/assets/thumb_tint_color%20%282%29.png)
-
+![](<.gitbook/assets/thumb\_tint\_color (2).png>)

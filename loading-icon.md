@@ -10,9 +10,9 @@ For activities that take more than a few seconds, loading icons can be helpful t
 
 ### Loading Icon
 
-| Property | Description                   |
-| -------- | ----------------------------- |
-| Color    | The color of the Loading Icon |
+| Property | Description                   | Data Type |
+| -------- | ----------------------------- | --------- |
+| Color    | The color of the Loading Icon | Color     |
 
 ### Layout
 
@@ -22,16 +22,16 @@ For activities that take more than a few seconds, loading icons can be helpful t
 | Y        | Location of top left corner of Loading Iconon Y-axis, where the top side is Y=0        | Number     |
 | Height   | Height of Loading Icon in pixels                                                       | Number     |
 | Width    | Width of Loading Icon in pixels                                                        | Number     |
-| Visible  | Set whether the Loading Icon is visible                                                | True/False |
+| Visible  | Toggle whether your end users can see the Loading Icon                                 | True/False |
 
 ### **Style**
 
-| **Property**  | Description                                                                             | Data Type        |
-| ------------- | --------------------------------------------------------------------------------------- | ---------------- |
-| Border Width  | Width of border around Loading Icon in pixels                                           | Number           |
-| Border Radius | Radius of corners of border on Loading Icon in degrees                                  | Number           |
-| Border Color  | Color of border (only visible if border width > 0)                                      | Color            |
-| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from menu |
+| **Property**  | Description                                                                             | Data Type                                  |
+| ------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Border Width  | Width of border around Loading Icon in pixels                                           | Number                                     |
+| Border Radius | Radius of corners of border on Loading Icon in degrees                                  | Number                                     |
+| Border Color  | Color of border (only visible if border width > 0)                                      | Color                                      |
+| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
 
 ## Blocks
 
@@ -47,7 +47,7 @@ Set and get [properties](loading-icon.md#properties) of the Loading Icon compone
 
 ![](.gitbook/assets/loading-icon-size.png)
 
-Select a size for the Loading Icon. Can choose between `extra small, small, middle, large, `or` extra large`.
+Select a size for the Loading Icon. Can choose between `extra small, small, middle, large,` or `extra large`.
 
 #### Computed Height&#x20;
 

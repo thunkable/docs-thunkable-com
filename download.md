@@ -4,13 +4,21 @@
 Before you download, we recommend first [adding an App Icon and Name](project-settings.md) to your app
 {% endhint %}
 
+## How many apps can I directly download and preview on my phone at once?&#x20;
+
+This refers to being able to download an app directly to your phone as opposed to downloading and installing the app from an app store.&#x20;
+
+| Android  | iOS               |
+| -------- | ----------------- |
+| No Limit | One app per phone |
+
 ## iOS Download limits
 
 Due to special circumstances from Apple, there is a limit of one downloaded app per phone on iOS. Download wait times may also be a bit longer. You can download and install as many apps as you like to your Android device.
 
-|                    | Android  | iOS               |
-| ------------------ | -------- | ----------------- |
-| Download app limit | No limit | One app per phone |
+## General Download Limits
+
+Users should be aware of the total number of downloads they are allowed per month. If you reach you total allowed downloads, you will not be allowed to download again until your next billing cycle begins.&#x20;
 
 ## Download Android app
 

@@ -10,21 +10,13 @@ A Date Input component is helpful when you want the user of your app to easily s
 
 ### Date Input
 
-| Property    | Description                                 | Data Type        |
-| ----------- | ------------------------------------------- | ---------------- |
-| Style       | Format to use when displaying selected date | Select from menu |
-| Font Size   | Size of font when displaying date           | Number           |
-| Font Style  | Select whether font is normal or italic     | Select from menu |
-| Font Weight | Set boldness of font                        | Select from menu |
-| Color       | Color of font when displaying date          | Color            |
-
-The following formats are currently available to use as `Style:`
-
-* YYYY-MM-DD
-* MM/DD/YYYY
-* M/D/YY
-* Month Day, Year
-* Mth. Day, Year
+| Property    | Description                                 | Data Type                                                                            |
+| ----------- | ------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Style       | Format to use when displaying selected date | Select from menu `[YYYY-MM-DD, MM/DD/YYYY, M/D/YY, Month Day, Year, Mth. Day, Year]` |
+| Font Size   | Size of font when displaying date           | Number                                                                               |
+| Font Style  | Select whether font is normal or italic     | Select from list `[normal, italic]`                                                  |
+| Font Weight | Set thickness of font                       | Select from list `[normal, bold, 100, 200, 300, 400, 500, 600, 700, 800, 900]`       |
+| Color       | Color of font when displaying date          | Color                                                                                |
 
 ### Layout
 
@@ -34,16 +26,16 @@ The following formats are currently available to use as `Style:`
 | Y        | Location of top left corner of Date Input on Y-axis, where the top side is Y=0       | Number     |
 | Height   | Height of Date Input in pixels                                                       | Number     |
 | Width    | Width of Date Input in pixels                                                        | Number     |
-| Visible  | Set whether the Date Input is visible                                                | True/False |
+| Visible  | Toggle whether your end users can see the Date Input                                 | True/False |
 
 ### **Style**
 
-| **Property**  | Description                                                                             | Data Type        |
-| ------------- | --------------------------------------------------------------------------------------- | ---------------- |
-| Border Width  | Width of border around Date Input in pixels                                             | Number           |
-| Border Radius | Radius of corners of border on Date Input in degrees                                    | Number           |
-| Border Color  | Color of border (only visible if border width > 0)                                      | Color            |
-| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from menu |
+| **Property**  | Description                                                                             | Data Type                                  |
+| ------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Border Width  | Width of border around Date Input in pixels                                             | Number                                     |
+| Border Radius | Radius of corners of border on Date Input in degrees                                    | Number                                     |
+| Border Color  | Color of border (only visible if border width > 0)                                      | Color                                      |
+| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
 
 ## Blocks
 

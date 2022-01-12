@@ -1,43 +1,20 @@
 # Push Notifications by One Signal
 
-{% hint style="warning" %}
-**Push Notifications cannot be tested with the Thunkable Live app on iOS**\
-You can test Push Notifications on iOS by publishing your app to TestFlight and downloading it from there. ****&#x20;
-{% endhint %}
+## Push Notifications Overview
 
-![One Signal is the world leader in push notifications and they offer their service for free. ](.gitbook/assets/onesignaldemo.png)
+![One Signal is the world leader n push notifications and they offer their service for free. ](.gitbook/assets/onesignaldemo.png)
 
 Push notifications are one of the biggest advantages that mobile apps have over  mobile websites, since they can send messages to users without the app being open.&#x20;
 
-However, annoying notifications---those that are irrelevant and too frequent---can be dismissed or blocked easily.  We highly recommend sending notifications only when the content is relevant to the user.&#x20;
-
-**Good examples**:
-
-| App type   | Frequency   | Content            |
-| ---------- | ----------- | ------------------ |
-| E-commerce | Sales       | Coupon code        |
-| Game       | App updates | Try this new level |
+However, annoying notifications---those that are irrelevant and too frequent---can be dismissed or blocked easily.  We highly recommend sending notifications only when the content is relevant to the user. Examples include an e-commerce app letting the end user know about a sale, or a game app letting the user know about a new level or feature.
 
 {% hint style="info" %}
-**Push Notifications are a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps (Android only), only PRO Thunkers can download and publish apps with Push Notifications.
-{% endhint %}
-
-{% hint style="info" %}
-**Availability**
-{% endhint %}
-
-|         | Add to Project | Live Test     | Download                              | Publish                               |
-| ------- | -------------- | ------------- | ------------------------------------- | ------------------------------------- |
-| Android | All Thunkers   | All Thunkers  | ****![](.gitbook/assets/pro.png) only | ****![](.gitbook/assets/pro.png) only |
-| iOS     | All Thunkers   | Not available | Not available                         | ![](.gitbook/assets/pro.png) only     |
-
-{% hint style="info" %}
-
+**Push Notifications are a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps (Android only), only Thunkers with PRO, Business or Enterprise accounts can download and publish apps with Push Notifications. See our [pricing page](https://thunkable.com/#/pricing) for more details.
 {% endhint %}
 
 ## Adding a Push Notifications component to your app
 
-To add a Push Notifications component to your app:
+To add or edit a Push Notifications component to your app :
 
 * Go to your Blocks tab
 * Click the ⚙ icon next to the `Push Notifications` drawer
@@ -46,9 +23,20 @@ To add a Push Notifications component to your app:
 
 You will see a dialog with options to enter an [Android app ID](push-notifications-by-one-signal.md#android-setup) or an [iOS app ID](push-notifications-by-one-signal.md#ios-setup) for your Push Notifications component. You can learn how to get these IDs in the rest of this document.
 
-![](.gitbook/assets/push-dialog.png)
+![](.gitbook/assets/push.png)
 
-To edit the properties of the Push Notifications component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click cancel to dismiss the dialog without saving your changes.
+## Properties
+
+|                  Property Name                 | Description                                                                            | Data Type  |
+| :--------------------------------------------: | -------------------------------------------------------------------------------------- | ---------- |
+|                 Android App ID                 | App ID from One Signal for Android devices                                             | Text       |
+|                   iOS App ID                   | App ID from One Signal for iOS devices                                                 | Text       |
+|   Toggle Geolocation Permission (Android Only) | Toggle whether to show your end users a request to share their location with OneSignal | True/False |
+
+### Geolocation Permissions
+
+OneSignal allows you to push messages to users in certain locations. You will need permission from your end users to register their location to use this feature. \
+You can toggle whether you request geolocation permissions from your end users in the Push Notifications settings panel.
 
 ## Sign up with One Signal
 
@@ -173,16 +161,12 @@ To begin, open the [OneSignal Provisionator](https://onesignal.com/provisionator
 
 ![](.gitbook/assets/onesignalportal.png)
 
-Follow the on screen instructions. Enter your Apple Developer ID and password. This portal works with 2FA enabled as well. If prompted, enter your 2FA code. Choose your team and the relevant Bundle ID and click generate.&#x20;
-
-{% hint style="warning" %}
-You must be a Team Administrator to generate the files
-{% endhint %}
+Follow the on screen instructions. Enter your Apple Developer ID and password. This portal works with 2FA enabled as well. If prompted, enter your 2FA code. Choose your team and the relevant Bundle ID and click generate. **You must be a Team Administrator to generate the files.**
 
 You can now download the .p12, .cer and .pem files that are generated for you.
 
-{% hint style="warning" %}
-Don't forget to save your password somewhere safe.
+{% hint style="success" %}
+Don't forget to save your password somewhere safe!
 {% endhint %}
 
 Click on **Apple iOS**&#x20;
@@ -216,3 +200,13 @@ When you are ready to send your first push notification, select the "MESSAGES" o
 
 
 ![](<.gitbook/assets/image (113).png>)
+
+## Blocks
+
+### Functions
+
+#### User ID
+
+![](<.gitbook/assets/Screen Shot 2022-01-10 at 1.08.59 PM.png>)
+
+This block returns the unique user ID of the device

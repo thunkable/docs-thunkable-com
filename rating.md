@@ -50,7 +50,7 @@ These URLs must end in a file extension, such as .jpg or .png.
 | Y        | Location of top left corner of Rating component on Y-axis, where the top side is Y=0       | Number     |
 | Height   | Height of Rating component in pixels                                                       | Number     |
 | Width    | Width of Rating component in pixels                                                        | Number     |
-| Visible  | Set whether the Rating component is visible                                                | True/False |
+| Visible  | Toggle whether your end users can see the Rating component                                 | True/False |
 
 ## Blocks
 

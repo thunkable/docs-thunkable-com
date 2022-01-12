@@ -31,7 +31,7 @@ See a video tutorial for using Animations in your Thunkable project here:
 | Y        | Location of top left corner of Animation on Y-axis, where the top side is Y=0       | Number     |
 | Height   | Height of Animation in pixels                                                       | Number     |
 | Width    | Width of Animation in pixels                                                        | Number     |
-| Visible  | Set whether the Animation is visible                                                | True/False |
+| Visible  | Toggle whether your end users can see the Animation                                 | True/False |
 
 ## Blocks
 

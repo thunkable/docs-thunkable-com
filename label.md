@@ -30,33 +30,33 @@ Uploading a custom font is available on Thunkable's Business and Enterprise plan
 
 ### Advanced Properties
 
-| Property                                 | Description                                            | Data Type                                                          |
-| ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------ |
-| Letter Spacing (iOS and web only)        | Spacing between letters of your Label                  | Number                                                             |
-| Text Decoration Line                     | Set whether your text contains line-through, underline | Select from menu (line-through, underline, underline line-through) |
-| Text Decoration Style (iOS and web only) | Style of Text Decoration line                          | Select from menu (solid, dotted, dashed, double)                   |
-| Text Decoration Color (iOS and web only) | Color of your Text Decoration Line                     | Color                                                              |
-| Writing Direction (iOS and web only)     | Writing direction of your Label's text                 | Select from menu (left-to-right, right-to-left)                    |
+| Property                                 | Description                                            | Data Type                                                            |
+| ---------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------- |
+| Letter Spacing (iOS and web only)        | Spacing between letters of your Label                  | Number                                                               |
+| Text Decoration Line                     | Set whether your text contains line-through, underline | Select from list `[line-through, underline, underline line-through]` |
+| Text Decoration Style (iOS and web only) | Style of Text Decoration line                          | Select from list `[solid, dotted, dashed, double]`                   |
+| Text Decoration Color (iOS and web only) | Color of your Text Decoration Line                     | Color                                                                |
+| Writing Direction (iOS and web only)     | Writing direction of your Label's text                 | Select from list `[left-to-right, right-to-left]`                    |
 
 ### **Layout**
 
-| Property | Description                                    | Data Type  |
-| -------- | ---------------------------------------------- | ---------- |
-| X        | Location of your Label on the X-axis in pixels | Number     |
-| Y        | Location of your Label on the Y-axis in pixels | Number     |
-| Height   | Height of your Label in pixels                 | Number     |
-| Width    | Width of your Label in pixels                  | Number     |
-| Visible  | Toggle visibility of your Label                | True/False |
+| Property | Description                                     | Data Type  |
+| -------- | ----------------------------------------------- | ---------- |
+| X        | Location of your Label on the X-axis in pixels  | Number     |
+| Y        | Location of your Label on the Y-axis in pixels  | Number     |
+| Height   | Height of your Label in pixels                  | Number     |
+| Width    | Width of your Label in pixels                   | Number     |
+| Visible  | Toggle whether your end users can see the Label | True/False |
 
 ### Style
 
-| Property         | Description                       | Data Type                                |
-| ---------------- | --------------------------------- | ---------------------------------------- |
-| Background Color | Color of your Label's background  | Color                                    |
-| Border Width     | Width of border outline in pixels | Number                                   |
-| Border Radius    | Radius of corners of Label        | Number                                   |
-| Border Color     | Color of the Label's Border       | Color                                    |
-| Border Style     | Style of Label's Border           | Select from menu (solid, dotted, dashed) |
+| Property         | Description                       | Data Type                                  |
+| ---------------- | --------------------------------- | ------------------------------------------ |
+| Background Color | Color of your Label's background  | Color                                      |
+| Border Width     | Width of border outline in pixels | Number                                     |
+| Border Radius    | Radius of corners of Label        | Number                                     |
+| Border Color     | Color of the Label's Border       | Color                                      |
+| Border Style     | Style of Label's Border           | Select from list `[solid, dotted, dashed]` |
 
 ## Blocks
 

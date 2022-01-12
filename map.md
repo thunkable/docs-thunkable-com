@@ -34,16 +34,16 @@ You can get your own Google Maps API Key [here](https://developers.google.com/ma
 | Y        | Location of top left corner of Map on Y-axis, where the top side is Y=0       | Number     |
 | Height   | Height of Map in pixels                                                       | Number     |
 | Width    | Width of Map in pixels                                                        | Number     |
-| Visible  | Set whether the Map is visible                                                | True/False |
+| Visible  | Toggle whether your end users can see the Map                                 | True/False |
 
 ### **Style**
 
-| **Property**  | Description                                                                             | Data Type        |
-| ------------- | --------------------------------------------------------------------------------------- | ---------------- |
-| Border Width  | Width of border around Map in pixels                                                    | Number           |
-| Border Radius | Radius of corners of border on Mapr in degrees                                          | Number           |
-| Border Color  | Color of border (only visible if border width > 0)                                      | Color            |
-| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from menu |
+| **Property**  | Description                                                                             | Data Type                                  |
+| ------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Border Width  | Width of border around Map in pixels                                                    | Number                                     |
+| Border Radius | Radius of corners of border on Mapr in degrees                                          | Number                                     |
+| Border Color  | Color of border (only visible if border width > 0)                                      | Color                                      |
+| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
 
 ## Blocks
 

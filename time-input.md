@@ -10,18 +10,13 @@ A Time Input component is helpful when you want the user of your app to easily s
 
 ### Time Input
 
-| Property    | Description                                 | Data Type        |
-| ----------- | ------------------------------------------- | ---------------- |
-| Style       | Format to use when displaying selected date | Select from menu |
-| Font Size   | Size of font when displaying date           | Number           |
-| Font Style  | Select whether font is normal or italic     | Select from menu |
-| Font Weight | Set boldness of font                        | Select from menu |
-| Color       | Color of font when displaying date          | Color            |
-
-The following formats are currently available to use as `Style:`
-
-* Hour:Minute AM/PM, eg. `3:30 PM`
-* Hour:Minute 24h, eg. `15:30`
+| Property    | Description                                 | Data Type                                                                      |
+| ----------- | ------------------------------------------- | ------------------------------------------------------------------------------ |
+| Style       | Format to use when displaying selected date | Select from menu `[Hour:Minute AM/PM, Hour:Minute 24h]`                        |
+| Font Size   | Size of font when displaying date           | Number                                                                         |
+| Font Style  | Select whether font is normal or italic     | Select from list `[normal, italic]`                                            |
+| Font Weight | Set thickness of font                       | Select from list `[normal, bold, 100, 200, 300, 400, 500, 600, 700, 800, 900]` |
+| Color       | Color of font when displaying date          | Color                                                                          |
 
 ### Layout
 
@@ -31,16 +26,16 @@ The following formats are currently available to use as `Style:`
 | Y        | Location of top left corner of Time Input on Y-axis, where the top side is Y=0       | Number     |
 | Height   | Height of Time Input in pixels                                                       | Number     |
 | Width    | Width of Time Input in pixels                                                        | Number     |
-| Visible  | Set whether the Time Input is visible                                                | True/False |
+| Visible  | Toggle whether your end users can see the Time Input                                 | True/False |
 
 ### **Style**
 
-| **Property**  | Description                                                                             | Data Type        |
-| ------------- | --------------------------------------------------------------------------------------- | ---------------- |
-| Border Width  | Width of border around Time Input  in pixels                                            | Number           |
-| Border Radius | Radius of corners of border on Time Input in degrees                                    | Number           |
-| Border Color  | Color of border (only visible if border width > 0)                                      | Color            |
-| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from menu |
+| **Property**  | Description                                                                             | Data Type                                  |
+| ------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Border Width  | Width of border around Time Input  in pixels                                            | Number                                     |
+| Border Radius | Radius of corners of border on Time Input in degrees                                    | Number                                     |
+| Border Color  | Color of border (only visible if border width > 0)                                      | Color                                      |
+| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
 
 ##
 

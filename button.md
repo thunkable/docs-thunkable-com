@@ -48,20 +48,20 @@ Uploading a custom font is available on Thunkable's Business and Enterprise plan
 | Y        | Position of top left corner of Button on Y-axis, where the top hand side is X=0  | Number     |
 | Height   | Height of Button in pixels                                                       | Number     |
 | Width    | Width of Button in pixels                                                        | Number     |
-| Visible  | Toggle whether end users can see this Button in your app                         | True/False |
+| Visible  | Toggle whether your end users can see the Button                                 | True/False |
 
 ### Style
 
-| Property       | Description                                                              | Data Type                                |
-| -------------- | ------------------------------------------------------------------------ | ---------------------------------------- |
-| Border Width   | Width of Button's border in pixels                                       | Number                                   |
-| Border Radius  | Radius of corners of Button's border in pixels                           | Number                                   |
-| Border Color   | Color of Button's border                                                 | Color                                    |
-| Border Style   | Style of Button's border                                                 | Select from menu (solid, dotted, dashed) |
-| Shadow Color   | Color of Button's shadow                                                 | Color                                    |
-| Shadow Opacity | Opacity of Button's shadow                                               | Number between 0 and 100                 |
-| Shadow Radius  | Radius of corners of Button's shadow in pixels                           | Number                                   |
-| Shadow Offset  | How far Button's shadow should be offset, in Height and Width, in pixels | Number                                   |
+| Property       | Description                                                              | Data Type                                  |
+| -------------- | ------------------------------------------------------------------------ | ------------------------------------------ |
+| Border Width   | Width of Button's border in pixels                                       | Number                                     |
+| Border Radius  | Radius of corners of Button's border in pixels                           | Number                                     |
+| Border Color   | Color of Button's border                                                 | Color                                      |
+| Border Style   | Style of Button's border                                                 | Select from list `[solid, dotted, dashed]` |
+| Shadow Color   | Color of Button's shadow                                                 | Color                                      |
+| Shadow Opacity | Opacity of Button's shadow                                               | Number between 0 and 100                   |
+| Shadow Radius  | Radius of corners of Button's shadow in pixels                           | Number                                     |
+| Shadow Offset  | How far Button's shadow should be offset, in Height and Width, in pixels | Number                                     |
 
 ## Blocks
 

@@ -10,9 +10,9 @@ Allow your users to view your favorite PDFs -- legal contracts, art posters or m
 
 ### PDF Reader
 
-| Property | Description                           | Data Type |
-| -------- | ------------------------------------- | --------- |
-| File     | PDF to be displayed in the PDF Reader | Text      |
+| Property | Description                           | Data Type                        |
+| -------- | ------------------------------------- | -------------------------------- |
+| File     | PDF to be displayed in the PDF Reader | PDF file or URL ending in `.pdf` |
 
 There are two ways to set a file to display in the PDF Reader.
 
@@ -36,7 +36,7 @@ Once you upload the PDF, you will be able to view it in your app and pinch to zo
 | Y        | Location of top left corner of PDF Reader on Y-axis, where the top side is Y=0       | Number     |
 | Height   | Height of PDF Reader in pixels                                                       | Number     |
 | Width    | Width of PDF Reader in pixels                                                        | Number     |
-| Visible  | Set whether the PDF Reader is visible                                                | True/False |
+| Visible  | Toggle whether your end users can see the PDF Reader                                 | True/False |
 
 ## Blocks
 

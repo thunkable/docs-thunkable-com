@@ -28,16 +28,16 @@ Some websites may not appear when previewing your app on the web. You may need t
 | Y        | Location of top left corner of Web Viewer on Y-axis, where the top side is Y=0       | Number     |
 | Height   | Height of Web Viewer in pixels                                                       | Number     |
 | Width    | Width of Web Viewer in pixels                                                        | Number     |
-| Visible  | Set whether the Web Viewer is visible                                                | True/False |
+| Visible  | Toggle whether your end users can see the Web Viewer                                 | True/False |
 
 ### **Style**
 
-| **Property**  | Description                                                                             | Data Type        |
-| ------------- | --------------------------------------------------------------------------------------- | ---------------- |
-| Border Width  | Width of border around Web Viewer in pixels                                             | Number           |
-| Border Radius | Radius of corners of border on Web Viewer in degrees                                    | Number           |
-| Border Color  | Color of border (only visible if border width > 0)                                      | Color            |
-| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from menu |
+| **Property**  | Description                                                                             | Data Type                                  |
+| ------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Border Width  | Width of border around Web Viewer in pixels                                             | Number                                     |
+| Border Radius | Radius of corners of border on Web Viewer in degrees                                    | Number                                     |
+| Border Color  | Color of border (only visible if border width > 0)                                      | Color                                      |
+| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
 
 ## Blocks
 

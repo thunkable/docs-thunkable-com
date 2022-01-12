@@ -14,57 +14,71 @@ description: >-
 
 You can customize the List Viewer with the following properties:
 
-### Properties
+### List Viewer
 
-* **Text Items:** set text items of List Viewer&#x20;
-* **Text Items Color:** Set color of Text Items font
-* **Text Items Background Color:** Set background color for List Viewer
-* **Text Items Font Size:** Set font size of Text Items
-* **Show Arrow:** To see an arrow beside each item in the list, set the switch to true
+| Property                    | Description                                     | Data Type          |
+| --------------------------- | ----------------------------------------------- | ------------------ |
+| Text Items                  | Set text items of List Viewer                   | List of text items |
+| Text Items Color:           | Set font color of Text Items                    | Color              |
+| Text Items Background Color | Set background color for List Viewer            | Color              |
+| Text Items Font Size        | Set font size of Text Items                     | Number             |
+| Show Arrow                  | Toggle whether arrow is shown beside text items | True/False         |
 
 ### Advanced Properties
 
-* **Writing Direction (iOS and web only):** set writing direction of text items
-* **Background Color:** set background color of List Viewer&#x20;
+| Property                             | Description                          | Data Type                           |
+| ------------------------------------ | ------------------------------------ | ----------------------------------- |
+| Writing Direction (iOS and web only) | Set writing direction of text items  | Select from list `[auto, ltr, rtl]` |
+| Background Color                     | Set background color of List Viewer  | Color                               |
 
 ### Layout
 
-* **X:** set the location of your List Viewer on the X-axis in pixels
-* **Y:** set the location of your List Viewer on the Y-axis in pixels
-* **Height:** set the Height of your List Viewer in pixels
-* **Width:** set the Width of your List Viewer in pixels
-* **Visible:** To see the text input in your app, set the switch to true
+| Property | Description                                                  | Data Type  |
+| -------- | ------------------------------------------------------------ | ---------- |
+| X        | Set the location of your List Viewer on the X-axis in pixels | Number     |
+| Y        | Set the location of your List Viewer on the Y-axis in pixels | Number     |
+| Height   | Set the Height of your List Viewer in pixels                 | Number     |
+| Width    | Set the Width of your List Viewer in pixels                  | Number     |
+| Visible  | Toggle whether your end users can see the List Viewer        | True/False |
 
 ### Style
 
-* **Border Width:** Enter how wide you want the border outline of the List Viewer to be
-* **Border Color:** Pick a color for the border of the List Viewer
-* **Border Style:** Select if you want the border to be a dotted, dashed or solid line
-* **Border Radius:** Enter how round you want the edges of the border for the List Viewer to be
+| Property      | Description                                              | Data Type                                  |
+| ------------- | -------------------------------------------------------- | ------------------------------------------ |
+| Border Width  | Set width of List Viewer's border in pixels              | Number                                     |
+| Border Color  | Set color of List Viewer's border                        | Color                                      |
+| Border Style  | Set style of List Viewer's border                        | Select from list `[solid, dotted, dashed]` |
+| Border Radius | Set radius of corners for List Viewer's border in pixels | Number                                     |
 
 ## Blocks
 
-### Set Items of a List Viewer
+### Functions
 
-#### Short Lists
+#### When Item Click
 
-We recommend adding a short [list](lists.md) of items within the app itself as the Screen starts. Although the list block itself can handle a large number of items, practically speaking you probably only want to use this approach if your project has tens of items.
+![](.gitbook/assets/select\_from\_lv.png)
 
-![](.gitbook/assets/short\_list.png)
+Performs an action when the user clicks on an item of the List Viewer.
 
-#### Medium Lists
+Outputs
 
-If you need longer lists of information in your app you can use delimited data. This is very similar to using something like a .csv file. You can have hundreds of items in your list viewer using this method.&#x20;
+| Item  | Text of selected item                             | String |
+| ----- | ------------------------------------------------- | ------ |
+| Index | Position of item in List Viewer (starting with 1) | Number |
 
-![](.gitbook/assets/medium\_list.png)
+### Properties
 
-#### Long Lists
+Set and get [properties](list-viewer.md#properties) of the List Viewer.
 
-For longer lists where you need hundreds or thousands of items in your list, we recommend using the [Data Sources](data-sources.md) component. This gives you three different options for storing your data.&#x20;
+#### Text Items
 
-1. Local Table
-2. Airtable
-3. Google Sheets
+Set the text items displayed in your List Viewer. Works with [list](lists.md) blocks:
+
+!['set List Viewer's text items' block used with create list block](.gitbook/assets/short\_list.png)
+
+!['set List Viewer's text items' block used with make list from text block](.gitbook/assets/medium\_list.png)
+
+This block also works with blocks to retrieve columns from [Data Sources](data-sources.md):
 
 ![Fetching data from a Local Table](.gitbook/assets/local-table.png)
 
@@ -74,65 +88,48 @@ For longer lists where you need hundreds or thousands of items in your list, we 
 
 Choosing Airtable or Google Sheets allows you to create dynamic list viewers. This is where the information displayed to the user changes whenever you change your cloud-based data in Airtable or Google Sheets. Either of these options are ideal for when you need to store thousands of items, or you need to work with items that change frequently.&#x20;
 
-| Property   | Description                                    |
-| ---------- | ---------------------------------------------- |
-| Text Items | Default (`none`); items must be in list format |
-
-### When Item Click
-
-![](.gitbook/assets/select\_from\_lv.png)
-
 Performs an action when the user clicks on any one of the list items.
 
-#### Outputs
+#### Text Items Color
 
-| Name  | Data Type | Description                                       |
-| ----- | --------- | ------------------------------------------------- |
-| Item  | String    | Text of selected item                             |
-| Index | Number    | Position of item in List Viewer (starting with 1) |
+![](<.gitbook/assets/text items color.png>)
 
-### Properties
+Set and get font color of the List Viewer's text items.
 
-#### Height
+#### Text Items Background Color
 
-![](<.gitbook/assets/height (3).png>)
+![](.gitbook/assets/lvbg.png)
 
-The set and get height blocks work with the Height property of the list viewer component. Acceptable input values are.&#x20;
+Set and get background color of the List Viewer's text items.
 
-* Number of Pixels
-* Percentage Height
-* "Fit Contents"
-* "Fill Container"
+#### Text Items Font Size
 
-The `Computed Height`block returns the on-screen dimensions of the list viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the list viewer in pixels.
+![](.gitbook/assets/lvfs.png)
+
+Set and get font size of the List Viewer's text items.
 
 #### Show Arrow
 
-![](.gitbook/assets/show\_arrow.png)
+![](.gitbook/assets/lvsa.png)
 
 Choose whether or not the arrow is displayed next to every item in the list viewer.
 
-#### Text Items
+#### Height
 
-![](.gitbook/assets/text\_items.png)
+![](.gitbook/assets/lvh.png)
 
-Set or get the list of text items that are displayed in the List Viewer. You must use a [list](lists.md) of data here - either locally stored or stored in the cloud.
-
-#### Visible
-
-![](<.gitbook/assets/visible (5).png>)
-
-
-
-The set and get visible blocks are used to show or hide the entire list viewer component. Acceptable values are:
-
-* True
-* False
+The `Computed Height`block returns the height of the List Viewer in pixels after it has been rendered on-screen.
 
 #### Width
 
-![](<.gitbook/assets/width (4).png>)
+![](.gitbook/assets/lvw.png)
 
-The `Computed Width`block returns the on-screen dimensions of the list viewer, after it has been rendered on-screen. The value returned is an integer, representing the size of the list viewer in pixels.
 
-The list viewer doesn't currently support pixel or percentage values for the `width` property.
+
+The `Computed Width`block returns the width of the List Viewer in pixels after it has been rendered on-screen.
+
+#### Visible
+
+![](.gitbook/assets/lvv.png)
+
+Set and get the visibility of the List Viewer.
