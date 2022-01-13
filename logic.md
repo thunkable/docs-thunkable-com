@@ -12,11 +12,11 @@ You can find a video that explains all of the Logic blocks below:
 
 The comparison blocks will compare two values and return **true** or **false** based on whether the condition is met.
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-2.21.32-pm.png)
+![](.gitbook/assets/comparison.png)
 
 ## And/Or blocks
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-2.22.59-pm.png)
+![](<.gitbook/assets/Screen Shot 2021-04-08 at 2.22.59 PM.png>)
 
 You can compare multiple conditions at once.
 
@@ -26,12 +26,14 @@ The **or** block will return **true** if either statement is true, and **false**
 
 ## Not
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-2.24.40-pm.png)
+![](<.gitbook/assets/Screen Shot 2021-04-08 at 2.24.40 PM.png>)
 
-Inverts the value of a true/false statement. Not true = false, not false = true.
+Inverts the value of a true/false statement.
 
-## Value Blocks
+Can also be used to check if a value is not `null`.
+
+## True/False/Null
 
 Value blocks can be used to set the value of a variable. They can be used in conjunction with any of the above blocks.
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-2.25.21-pm.png)
+![](<.gitbook/assets/Screen Shot 2021-04-08 at 2.25.21 PM.png>)
