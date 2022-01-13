@@ -8,7 +8,7 @@ The Object blocks pair well with the [Web API](web-api.md), [Map](map.md) and [L
 
 You can use the following block to create a new object. Objects can be uploaded to your [Firebase DB](variables.md#connecting-a-firebase-realtime-db-to-your-app) as the value of a [cloud variable](variables.md#cloud-variables).
 
-![](.gitbook/assets/blocks-object-fig-5.png)
+![](.gitbook/assets/obj-create.png)
 
 You can click on the gear icon to add properties to your object:
 
@@ -18,11 +18,11 @@ You can click on the gear icon to add properties to your object:
 
 Sometimes, you want to convert between JSON (JavaScript Object Notation) and Objects. If an [API](web-api.md) returns a JSON value, you can convert it to an Object to use with Object blocks. Use the `get object from JSON` block:
 
-![](.gitbook/assets/blocks-object-fig-2.png)
+![](.gitbook/assets/obj-fromjson.png)
 
 Similarly, you may want to convert an Object to JSON to make an API POST, or set headers or query parameters for your API call. You can do this with the `generate JSON from Object` block:&#x20;
 
-![](.gitbook/assets/blocks-object-fig-3.png)
+![](.gitbook/assets/obj-tojson.png)
 
 ## Reading Property Values of an Object
 
@@ -33,7 +33,7 @@ If the object does not have a property with this name, it will return `undefined
 
 ![](.gitbook/assets/getprop.png)
 
-#### Nested values and values from Arrays <a href="nested-values-and-values-from-arrays" id="nested-values-and-values-from-arrays"></a>
+#### Nested values and values from Arrays <a href="#nested-values-and-values-from-arrays" id="nested-values-and-values-from-arrays"></a>
 
 The Get Values Of block can be used to get nested values, ie. properties of properties of an object. If you are trying to get nested property **b** of property **a** of an object, you can simply get property **a.b** of an object, instead of using multiple **get property of** blocks.
 
@@ -55,9 +55,9 @@ This block returns a list of property names. This list can be used with [list](l
 
 ## Set Property Values of an Object
 
-With the `set property `block, you can change the value of a single property of an object.
+With the `set property` block, you can change the value of a single property of an object.
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.35.20-am.png)
+![](.gitbook/assets/obj-updateval.png)
 
 ## Examples of using Object blocks in your app
 
@@ -71,4 +71,4 @@ Often, when retrieving data from an API like [Weather Underground](https://www.w
 
 You may just want to pull out one attribute (like temp\_f or the temperature in Farenheit). To do so, you'll need to use the object blocks below:
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.37.34-am.png)
+![](.gitbook/assets/obj-demo.png)
