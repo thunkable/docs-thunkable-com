@@ -1,40 +1,49 @@
 # Color
 
+## Select Color
+
 There is a predefined set of colors in the blocks palette
 
-![](.gitbook/assets/blocks-color-fig-1.png)
+![](<.gitbook/assets/color (4).png>)
 
-## Set RGBA Color
+Clicking on this color will bring up a menu:
 
-As pictured below, the easiest way to set a specific color is using a text block with the syntax `rgba(r,g,b,a)`
-
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.41.24-am.png)
+![](.gitbook/assets/color-rgb.png)
 
 ## Set RGB Color
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.42.00-am.png)
+You can use this block to select a color with [RGB values](https://www.w3schools.com/colors/colors\_rgb.asp):
 
-If you want to select specific colors, use the RGB block below
+![](.gitbook/assets/color-rgb-mini.png)
 
-![](.gitbook/assets/blocks-color-fig-3.png)
+## Set RGBA Color
 
-Strangely, you can also create a color by blending two together
+You can use a [Text](text.md#text-value) block to set a color with [RGBA syntax](https://www.w3schools.com/css/css\_colors\_rgb.asp): `rgba(r,g,b,a)`
 
-![](.gitbook/assets/blocks-color-fig-4.png)
-
-or you can choose one at random
-
-![](.gitbook/assets/blocks-color-fig-2.png)
+![](.gitbook/assets/color-rgba.png)
 
 ## Set HSV Color
 
-A popular alternative to setting RGB color is to set Hue, Saturation and Value colors with the block below
+You can use this block to set a color with [HSV (Hue saturation, value)](https://en.wikipedia.org/wiki/HSL\_and\_HSV):
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.42.44-am.png)
+![](.gitbook/assets/color-hsv.png)
 
 ## Set Hex Color
 
-You can use a [Text](text.md) block to include a hex value for your preferred color:
+You can use a [Text](text.md) block to include a [hex value](https://htmlcolorcodes.com) for your preferred color:
 
 ![](.gitbook/assets/screen-shot-2021-07-22-at-9.05.35-am.png)
 
+
+
+## Blend Colors
+
+You can create a color by blending two together with a selected ratio of color 1 to color 2:
+
+![](.gitbook/assets/color-blend.png)
+
+## Random Color
+
+This block will return a random color (with an Alpha value of 100%):
+
+![](<.gitbook/assets/color-ran (1).png>)
