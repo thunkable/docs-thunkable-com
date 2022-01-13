@@ -24,7 +24,7 @@ You can find videos to demonstrate the use of [app variables](variables.md#app-v
 
 ## `App`, `stored` and `cloud` variables
 
-![](.gitbook/assets/screen-shot-2018-10-11-at-12.26.33-pm.png)
+![](.gitbook/assets/varset.png)
 
 When you create a variable, you'll have the choice between an app, stored and cloud variable. All variable types work across screens and the only difference is where they are stored.
 
@@ -53,48 +53,47 @@ You can only save a piece of [text](text.md) or an [object](objects.md) as a clo
 
 To save a list as a cloud variable, use the 'make text from list' block to convert the list to a piece of text.
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.21.05-am.png)
+![](.gitbook/assets/varlist.png)
 
-\
 When you retrieve this text from your cloud variable, you can convert it to a list with the 'make list from text' block to work with it as a list in your app.
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.21.42-am.png)
+![](.gitbook/assets/vartextlist.png)
 
 To save media as a cloud variable, use the [Cloudinary Media DB](camera.md#upload-image-to-the-cloud) component to upload your audio to the cloud and get a URL that points to it. You can save this URL as a cloud variable.
 
-## Initialize a Variable When the App Starts
+## Set Variable Value
 
-![](.gitbook/assets/screen-shot-2018-10-11-at-1.29.35-pm.png)
+### Initialize a Variable When the App Starts
+
+![](.gitbook/assets/varval.png)
 
 To create a variable when the app starts, you can grab the block above, select your variable `scope` (app, stored, cloud) and give the variable a `name` like hello. You'll have to connect a block to give app variables an initial value (in the picture above). We recommend placing these blocks in the initial app screen.
 
-## Set a variable during an app event
+### Set a variable during an app event
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.14.34-am.png)
+![](.gitbook/assets/varsetevent.png)
 
 You can also set a variable within a block event like the one above. Simply grab the set variable block and connect it to the value that you want it to be set to.
 
-## Retrieving a variable
+### Changing a variable
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.15.40-am.png)
+![](.gitbook/assets/varchange.png)
+
+Variables do not have to be fixed values and there may be times when you want to change your variable automatically like incrementing it by 1 after an event. To do so, grab a block like the one above.
+
+## Get Variable Value
+
+![](.gitbook/assets/varget.png)
 
 Once you have stored a value to your variable, you can retrieve it any time using a block like the one above.
 
+## When variable initializes or changes
 
-
-## Updating when the variable initializes or changes
-
-![](.gitbook/assets/screen-shot-2018-12-18-at-11.17.52-pm.png)
+![](.gitbook/assets/varinit.png)
 
 Once you have created your variable, you can set it to update when the variable updates in your app.&#x20;
 
 With Cloud variables, this block will also be triggered when the value of the Cloud variable is changed in your Firebase DB. This block replaces the Add.Listener and DataChanged blocks in the Realtime DB.
-
-## Changing a variable
-
-![](.gitbook/assets/screen-shot-2021-04-08-at-11.19.40-am.png)
-
-Variables do not have to be fixed values and there may be times when you want to change your variable automatically like incrementing it by 1 after an event. To do so, grab a block like the one above.
 
 ## Dynamically named variables
 
