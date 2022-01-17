@@ -112,7 +112,6 @@
 * [📱 Publish](publish.md)
 * [Publish to App Store (iOS)](publish-to-app-store-ios.md)
 * [Publish to Play Store (Android) with AAB](publish-to-play-store-android.md)
-* [Publish to Play Store (Android) with APK](publish-to-play-store-android-with-apk.md)
 * [Publish as a Web App (PRO)](publish-as-a-web-app-pro.md)
 * [Generate Screenshots](generate-screenshots.md)
 * [🔎 Troubleshooting](troubleshooting/README.md)

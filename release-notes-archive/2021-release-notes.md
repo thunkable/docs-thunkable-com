@@ -285,7 +285,7 @@ Platform Updates:
 Platform Updates:
 
 * Make [Web Apps](../publish-as-a-web-app-pro.md) more compatible with tablets, changing device orientation
-* Improve handling of uploaded [keystores](../publish-to-play-store-android-with-apk.md#import-keystore-to-thunkable)
+* Improve handling of uploaded [keystores](broken-reference)
 
 Component Updates:
 
