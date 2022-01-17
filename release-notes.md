@@ -1,6 +1,15 @@
 # 📰 Release Notes
 
-##
+## January 14, 2022
+
+Platform Updates
+
+* Update scrollbar width for consistency across platforms
+* Update how long component names are handled
+
+Component Updates
+
+* Text input: Added support for changing hint text color on web
 
 ## January 13, 2022
 
