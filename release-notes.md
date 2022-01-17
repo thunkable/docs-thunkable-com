@@ -1,5 +1,30 @@
 # 📰 Release Notes
 
+##
+
+## January 13, 2022
+
+Platform Updates
+
+* Improve appearance of imported Figma files when project is in read-only mode
+
+Component Updates
+
+* Web Viewer: Add tracking permissions
+* Web Viewer: Performance Improvements
+
+## January 12, 2022
+
+Platform Updates
+
+* Fixed behavior where some data sources could not be deleted
+
+## January 7, 2022
+
+Platform Updates
+
+* Fixed date and time on 'Copy from My Screens' modal
+
 ## December 22, 2021
 
 Component Updates
