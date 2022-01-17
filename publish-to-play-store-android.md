@@ -5,7 +5,7 @@ description: How to publish your Thunkable project in the Google Play Store
 # Publish to Play Store (Android) with AAB
 
 {% hint style="info" %}
-Publishing to the Play Store with an AAB file is a [PRO](https://thunkable.com/#/pricing) feature. If you have a free Thunkable account, check out [Publish to Play Store (Android) with APK](publish-to-play-store-android-with-apk.md)
+Publishing your app is available to PRO, Business and Enterprise Thunkable creators. Learn more at [our pricing page](https://thunkable.com/#/pricing).
 {% endhint %}
 
 Publishing your app to the Play Store will help your app reach 2 billion active Android devices.
@@ -35,10 +35,6 @@ Your app's package name is unique to your app. We recommend reversing your domai
 You can find your package name in your Project Settings under `App (Bundle) ID.`
 
 Your package name should be all lower case. None of the segments should begin with a number. None of the segments should have an accent on the characters.
-
-{% hint style="info" %}
-If you are only publishing to the Play Store, you do not need to enter a Team ID to publish to the Play Store (this is for iOS only)
-{% endhint %}
 
 ### Build and Version Number
 
