@@ -122,7 +122,7 @@ Copy the alpha numeric code that OneSignal generates called **Your App ID** in t
 
 On Thunkable, open the Push Notifications dialog and paste this ID into the Android App ID field.
 
-![](<.gitbook/assets/image (216).png>)
+![](<.gitbook/assets/image (216) (1).png>)
 
 Click the Live Test button. Once the app is on your phone, go back to One Signal. Click the "Check Subscribed Users" button.
 
@@ -191,7 +191,7 @@ Copy the alpha-numeric code labeled **Your App ID** and head back to Thunkable.
 
 On Thunkable, open the Push Notifications dialog and paste this ID into the iOS App ID field.
 
-![](<.gitbook/assets/image (216).png>)
+![](<.gitbook/assets/image (216) (1).png>)
 
 You are now almost done. In order to now publish your app your will have to create a .mobileprovision profile. You can find details of how to do this on the ["Publish to App Store" page](publish-to-app-store-ios.md#adding-push-notifications).
 

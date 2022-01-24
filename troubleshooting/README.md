@@ -77,6 +77,16 @@ Common issues
 
 ### How can I reset my Google Sheets connection in Thunkable?
 
+#### 1. Reset from Thunkable
+
+* Go to x.thunkable.com
+* Navigate to the My Data Sources tab
+* Delete your Google Sheets data sources by clicking the trashcan icon
+
+![](<../.gitbook/assets/image (216).png>)
+
+#### 2. Reset from Google
+
 If you are having difficulties connecting to your Google Sheets from Thunkable, you may need to reset your Google Sheets connection.
 
 * Go to [https://myaccount.google.com/security](https://myaccount.google.com/security)
