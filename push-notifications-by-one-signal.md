@@ -23,15 +23,15 @@ To add or edit a Push Notifications component to your app :
 
 You will see a dialog with options to enter an [Android app ID](push-notifications-by-one-signal.md#android-setup) or an [iOS app ID](push-notifications-by-one-signal.md#ios-setup) for your Push Notifications component. You can learn how to get these IDs in the rest of this document.
 
-![](.gitbook/assets/push.png)
+![](<.gitbook/assets/Screen Shot 2022-01-24 at 10.03.50 AM.png>)
 
 ## Properties
 
-|                  Property Name                 | Description                                                                            | Data Type  |
-| :--------------------------------------------: | -------------------------------------------------------------------------------------- | ---------- |
-|                 Android App ID                 | App ID from One Signal for Android devices                                             | Text       |
-|                   iOS App ID                   | App ID from One Signal for iOS devices                                                 | Text       |
-|   Toggle Geolocation Permission (Android Only) | Toggle whether to show your end users a request to share their location with OneSignal | True/False |
+|      Property Name      | Description                                                                            | Data Type  |
+| :---------------------: | -------------------------------------------------------------------------------------- | ---------- |
+|      Android App ID     | App ID from One Signal for Android devices                                             | Text       |
+|        iOS App ID       | App ID from One Signal for iOS devices                                                 | Text       |
+| Geolocation Permissions | Toggle whether to show your end users a request to share their location with OneSignal | True/False |
 
 ### Geolocation Permissions
 
@@ -122,7 +122,7 @@ Copy the alpha numeric code that OneSignal generates called **Your App ID** in t
 
 On Thunkable, open the Push Notifications dialog and paste this ID into the Android App ID field.
 
-![](.gitbook/assets/push-dialog.png)
+![](<.gitbook/assets/image (216).png>)
 
 Click the Live Test button. Once the app is on your phone, go back to One Signal. Click the "Check Subscribed Users" button.
 
@@ -191,7 +191,7 @@ Copy the alpha-numeric code labeled **Your App ID** and head back to Thunkable.
 
 On Thunkable, open the Push Notifications dialog and paste this ID into the iOS App ID field.
 
-![](.gitbook/assets/push-dialog.png)
+![](<.gitbook/assets/image (216).png>)
 
 You are now almost done. In order to now publish your app your will have to create a .mobileprovision profile. You can find details of how to do this on the ["Publish to App Store" page](publish-to-app-store-ios.md#adding-push-notifications).
 
