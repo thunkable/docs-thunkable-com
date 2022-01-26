@@ -175,25 +175,27 @@ Go to the [App Store Connect website](https://appstoreconnect.apple.com/login) a
 
 {% tabs %}
 {% tab title="Step 1" %}
-![](.gitbook/assets/store\_01.png)
+![](.gitbook/assets/asc01.png)
+
+Click on the **My Apps** button to begin.
 {% endtab %}
 
 {% tab title="Step 2" %}
-![](.gitbook/assets/store\_02.png)
+![](.gitbook/assets/asc02.png)
+
+Use the blue **+** button to begin creating a **New App**
 {% endtab %}
 
 {% tab title="Step 3" %}
-![](.gitbook/assets/store\_03.png)
-{% endtab %}
-
-{% tab title="Step 4" %}
-![](.gitbook/assets/store\_04.png)
+![](.gitbook/assets/asc03.png)
 
 You will need to use the same **App Name** and **Bundle ID** you registered earlier. If you registered an 'Explicit App ID', you will enter it into the Bundle ID field above.
 {% endtab %}
 
-{% tab title="Step 5" %}
-![](.gitbook/assets/store\_05.png)
+{% tab title="Step 4" %}
+![](.gitbook/assets/asc04.png)
+
+Now click on your app name to prepare your store listing
 {% endtab %}
 {% endtabs %}
 
