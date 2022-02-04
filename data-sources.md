@@ -38,9 +38,11 @@ Start by naming your data source.
 
 ![](.gitbook/assets/name\_local\_data2.png)
 
-You can now see this Data Source from your Data Sources section. Click on the Data Source name to edit it.
+You can now see this Data Source from your Data Sources section.\
+Click on the pen to rename the Data Source. \
+Click on the Data Source name to edit the data.
 
-![](.gitbook/assets/screen-shot-2021-03-26-at-2.53.52-pm.png)
+![](<.gitbook/assets/Screen Shot 2022-02-04 at 12.14.36 PM.png>)
 
 The data editor allows you to edit, add, and delete columns of information. To change any of the individual values simply click on the cell and type whatever you like.&#x20;
 
