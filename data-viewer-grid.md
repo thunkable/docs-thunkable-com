@@ -6,19 +6,11 @@ description: >-
 
 # Data Viewer Grid
 
-{% hint style="info" %}
-If you have any feedback for us about the Data Viewer components please let us know over in the [Thunkable Community](https://community.thunkable.com/t/latest-thunkable-release-new-components-data-viewer-list-and-data-viewer-grid-2020-05-05/564204?u=domhnallohanlon).
-{% endhint %}
-
 ## Overview
 
-The data viewer components allow you to create beautiful user interfaces for your data. All of this is done in just 3 steps, no blocks required!
+The Data Viewer Grid lets you connect to a Data Source and view your data as a grid. This layout works well with data that includes images.
 
-1. [Pick your Data Source](data-viewer-grid.md#data-source)
-2. [Choose your Item Layout](data-viewer-grid.md#layout)
-3. [Set your Data Bindings](data-viewer-grid.md#data-bindings)
-
-You can add additional functionality to the Data Viewer Grid by using the included [component blocks](data-viewer-grid.md#blocks) or you can work directly with your raw data by using the [Data Sources blocks](data-sources.md).
+![Example of a Data viewer Grid. Data is dummy data from Webflow.](<.gitbook/assets/Screen Shot 2022-02-04 at 12.44.53 PM.png>)
 
 ## Properties
 
@@ -73,11 +65,15 @@ Get the computed Height and Width of the Data Viewer Grid as it appears on-scree
 
 #### Visible
 
-The entire Data Viewer can be completely hidden or shown by setting the `Visible`property to false or true, respectively.&#x20;
+Set and get the Visible property of the Data Viewer Grid
 
-![](<.gitbook/assets/grid\_visible (1).png>)
+#### Horizontal Scroll
 
+Set and get the Horizontal Scroll property of the Data Viewer Grid
 
+#### Empty Text
+
+Set and get the Empty Text property of the Data Viewer Grid
 
 ### Data Sources
 
@@ -88,6 +84,3 @@ Click on the link below to learn how to use the Data Sources blocks in your proj
 {% content-ref url="data-sources.md" %}
 [data-sources.md](data-sources.md)
 {% endcontent-ref %}
-
-
-
