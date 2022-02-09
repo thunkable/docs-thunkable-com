@@ -1,6 +1,26 @@
 # 📰 Release Notes
 
-## February 2, 2022
+## February 7, 2022
+
+Platform Updates
+
+* DND UI: improvements to relative positioning
+* Updates to rendering fonts on the web
+* Blocks: Blocks that have been copied and pasted will always be pasted within view
+* Android Build Server: Escape Maps and AdMob API keys to improve Android build process
+
+Component Updates
+
+* Canvas: Improvements to Canvas as rendered in the Design tab
+* Web Viewer: Improvements to showing offline HTML files
+
+## February 4, 2022
+
+Component Updates
+
+* Web Viewer: Updates to requesting end user permission
+
+## February 3, 2022
 
 Platform Updates
 
