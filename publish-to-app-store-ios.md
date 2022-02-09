@@ -69,33 +69,45 @@ Go to the [Apple ID account website](https://appleid.apple.com/#!\&page=signin) 
 
 {% tabs %}
 {% tab title="Step 1" %}
-![](.gitbook/assets/appid\_01.png)
+![](.gitbook/assets/asp00.png)
 
-**Step 1:** Enter your Apple ID and Password
+**Step 1:** Go to the [Apple ID account website](https://appleid.apple.com/#!\&page=signin)&#x20;
 {% endtab %}
 
 {% tab title="Step 2" %}
-![](.gitbook/assets/appid\_02.png)
+![](.gitbook/assets/asp01.png)
 
-**Step 2:** If prompted, enter your 6 digit authentication code.
+**Step 2:** Enter the email address associated with your Apple ID
 {% endtab %}
 
 {% tab title="Step 3" %}
-![](.gitbook/assets/appid\_03.png)
+![](.gitbook/assets/asp02.png)
 
-**Step 3:** Once signed in, click on the **Generate password...** link highlighted above.
+**Step 3:** If prompted, enter your 6 digit authentication code
 {% endtab %}
 
 {% tab title="Step 4" %}
-![](.gitbook/assets/docspublishasp.png)
+![](.gitbook/assets/asp03.png)
 
-**Step 4:** Give your password a meaningful name so you will be able to recognise it later.
+**Step 4:** Once signed in, click on the **App-specific passwords** link, highlighted above.
 {% endtab %}
 
 {% tab title="Step 5" %}
-![](.gitbook/assets/appid\_05.png)
+![](.gitbook/assets/asp04.png)
 
-**Step 5:** You will not be able to retrieve this password once you click **Done** so make sure you save it some place safe.
+**Step 5:** If this is your first time to create an app-specific password click on the button that says "Generate an app-specific password"
+{% endtab %}
+
+{% tab title="Step 6" %}
+![](.gitbook/assets/asp05.png)
+
+**Step 6:** Give your password a meaningful name so you will be able to recognise it later. Please note that you can use the same app-specific password for all your Thunkable projects. It's not necessary to create a new one every time your want to publish a new project. &#x20;
+{% endtab %}
+
+{% tab title="Step 7" %}
+![](.gitbook/assets/asp06.png)
+
+**Step 7:** Your app-specific password consists of four 4-letter phrases. **** You will not be able to retrieve this password once you click **Done** so make sure you save it some place safe.
 {% endtab %}
 {% endtabs %}
 
