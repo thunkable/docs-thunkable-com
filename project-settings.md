@@ -104,9 +104,8 @@ Enter the AdMob app ID for your Android app. [More info from AdMob here.](https:
 
 ### Tracking Usage Description (iOS only)
 
-Enter a string to explain to the user that a personal advertising identifier may be used to show them ads relevant to their online activity. Read more about [tracking permissions for AdMob on iOS](admob.md#ios-and-admob-permissions).
-
-Default value: "This identifier will be used to deliver personalized ads to you."
+\
+If your app or any external service your app interacts with are gathering any kind of identifiable information, this must be explicitly disclosed to the end user of your app using an in-app prompt. If you do not include this and your app engages in tracking, Apple will reject your submission and ask you to resubmit while including an appropriate tracking string. To learn more about when to include a tracking string,[ click here.](https://intercom.help/thunkable/en/articles/5945318-nsusertrackingusagedescription-messages)
 
 ## Android
 
