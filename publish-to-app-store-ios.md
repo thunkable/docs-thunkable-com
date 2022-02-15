@@ -43,6 +43,13 @@ If this is your first time sending this app to App Store Connect, you can set th
 
 Apple requires that you explain to users why you may need access to sensitive services like a camera, photo library and microphone. You can add these explanations in the App Settings panel under **iOS Permissions**.
 
+{% hint style="danger" %}
+**User Tracking** \
+If your app or any external service your app interacts with are gathering any kind of identifiable information, this must be explicitly disclosed to the end user of your app using an in-app prompt. If you do not include this and your app engages in tracking, Apple will reject your submission and ask you to resubmit while including an appropriate tracking string. To learn more about when to include a tracking string,[ click here.](https://intercom.help/thunkable/en/articles/5945318-nsusertrackingusagedescription-messages)
+{% endhint %}
+
+
+
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.18.35-am.png)
 
 ### Create an Apple Developer Account
