@@ -4,6 +4,14 @@ description: The sound component plays a designated sound.
 
 # Sound
 
+## Advanced Blocks
+
+You can right-click any block to show an advanced version of the block.
+
+These blocks will return an `error` output block. If there is en error with executing the block, the error block will return an error message. If not, the error block will return a null value.
+
+![](.gitbook/assets/playadv.png)
+
 ## Play
 
 Play a selected sound. This can be an audio file that has been uploaded to your project, or a URL that streams audio.

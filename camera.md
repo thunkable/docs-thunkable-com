@@ -171,18 +171,18 @@ This block will upload an image to Cloudinary and return a URL of the newly uplo
 If you use Thunkable's default Cloudinary DB, your media may get deleted. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
 {% endhint %}
 
-#### Connecting Your Cloudinary DB to Your Thunkable project
+### Connecting Your Cloudinary DB to Your Thunkable project
 
 No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
 
 #### Create a [free Cloudinary](https://cloudinary.com) account
 
-![](<.gitbook/assets/image (191).png>)
+![](<.gitbook/assets/image (222).png>)
 
 #### Connect your Cloudinary cloud to Thunkable
 
 To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret.` You can add these details to your app in the [Project Settings panel](project-settings.md#api-keys).
 
-![](<.gitbook/assets/image (192).png>)
+![](<.gitbook/assets/image (220).png>)
 
-![](.gitbook/assets/screen-shot-2021-04-16-at-3.24.13-pm.png)
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LAn5scXl2uqUJUOqkJo-84897653%2Fuploads%2F7dZE50mYtYJaQjI0sdeZ%2FScreen%20Shot%202022-02-16%20at%2010.04.27%20AM.png?alt=media\&token=65c825f8-3aad-4b5e-b6be-8cc9bb552b1f)

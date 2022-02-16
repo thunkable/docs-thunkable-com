@@ -2,37 +2,59 @@
 
 ![](.gitbook/assets/location-sensor-fig-1.png)
 
-## Get User's Current Location
+## Adding a Location Sensor to your app
 
-![](.gitbook/assets/location.png)
+To add a Location Sensor to your app:
 
-The Location Sensor returns a user's current location in `latitude` and `longitude` as well as a `location` object which includes additional properties like `accuracy`, `altitude`, `speed` and `heading` \(or direction\) which you have to retrieve with the object blocks above
+1. Go to the Blocks tab of your project
+2. Find the Sensors drawer of blocks and click on the ⊕ symbol to add a Sensor to your app
+3. Select Location Sensor from the menu that pops up
 
-| Event / Property | Description |
-| :--- | :--- |
-| Get Current Location | Returns a user's location in  `latitude` and `longitude` degrees; also includes additional information in a location object including i\) estimated location `accuracy` in meters,  ii\) `altitude` in meters, iii\)  `speed` in meters/second and iv\) `heading` in degrees |
+![](.gitbook/assets/sensors.png)
 
-## Functions
+![](.gitbook/assets/sensor-options.png)
 
-### Get Current Location
+You will see a settings panel where you can set properties of the Location Sensor before clicking Submit.
 
-![](.gitbook/assets/f_loc_sensor.png)
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 10.55.52 PM.png>)
+
+
 
 ## Properties
 
-### Enable High Accuracy 
+| Property           | Description                                                                                                      | Data Type  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------- |
+| EnableHighAccuracy | Enables network provider that uses Google Play services to improve location accuracy and location-based services | True/False |
+| Timeout            | How long the Lotion Sensor will look for the user's location before quitting, in milliseconds                    | Number     |
+| MaximumAge         | How long a previously fetched location will remain valid, in milliseconds                                        | Number     |
 
-![](.gitbook/assets/loc_eha.png)
+## Blocks
 
-### Maximum Age 
+### Functions
 
-![](.gitbook/assets/loc_maxage%20%281%29.png)
+#### Get Current Location
 
-### 
+![](.gitbook/assets/f\_loc\_sensor.png)
 
+#### Properties
 
+| Event / Property     | Description                                                                                                                                                                                                                                                              |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Get Current Location | Returns a user's location in  `latitude` and `longitude` degrees; also includes additional information in a location object including i) estimated location `accuracy` in meters,  ii) `altitude` in meters, iii)  `speed` in meters/second and iv) `heading` in degrees |
 
-### Timeout
+#### Example
 
+![](.gitbook/assets/location.png)
 
+The Location Sensor returns a user's current location in `latitude` and `longitude` as well as a `location` object which includes additional properties like `accuracy`, `altitude`, `speed` and `heading` (or direction) which you have to retrieve with the object blocks above
+
+### Properties
+
+#### Enable High Accuracy&#x20;
+
+![](.gitbook/assets/loc\_eha.png)
+
+#### Maximum Age&#x20;
+
+![](<.gitbook/assets/loc\_maxage (1).png>)
 
