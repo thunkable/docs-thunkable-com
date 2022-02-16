@@ -12,15 +12,17 @@ No set up is required but creating your free Cloudinary account is highly recomm
 
 ### Create a [free Cloudinary](https://cloudinary.com) account
 
-![](.gitbook/assets/media-db-cloudinary-fig-1.png)
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 9.44.19 AM.png>)
 
 ### Connect your Cloudinary cloud to Thunkable
 
-To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret. `You can add these details to your app in the [Project Settings panel](projects/settings.md#api-keys), which you can access by clicking on your app icon.
+To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret.`&#x20;
 
-![](.gitbook/assets/media-db-cloudinary-fig-4.png)
+![](.gitbook/assets/cloudinary.png)
 
-![](.gitbook/assets/media-db-cloudinary-fig-2.png)
+You can add these details to your app in the properties panel of the Media DB component.&#x20;
+
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 9.53.49 AM.png>)
 
 ## Upload Media
 
