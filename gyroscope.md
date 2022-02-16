@@ -27,7 +27,7 @@ You can either confirm your choices and create the Gyroscope, or delete the Gyro
 
 ![](<.gitbook/assets/image (163).png>)
 
-## Change Settings of Gyroscope
+### Change Settings of Gyroscope
 
 You will see the sensors you have added to your app underneath the Sensors section of your blocks.
 
@@ -35,26 +35,25 @@ You will see the sensors you have added to your app underneath the Sensors secti
 
 If you click on the ⚙ icon next to your Gyroscope, you will be able to edit its settings as seen in the panels above. You can click on your Gyroscope's name to access its drawer of blocks.
 
+## Properties
 
+| Property | Description                                             | Data Type  |
+| -------- | ------------------------------------------------------- | ---------- |
+| Enabled  | Toggle whether the component is functioning in your app | True/False |
 
-## Events
+## Blocks
 
-### when Gyroscope Changes
+### Events
+
+#### when Gyroscope Changes
 
 Whenever the phone is turned, or rotated, the `Changes` event will fire.&#x20;
 
 ![](.gitbook/assets/gyro\_changes.png)
 
-## Properties
+### Functions
 
-By default the gyroscope sensor is turned on, but the `enabled`property can be used to read and write new values to the gyroscope, thus allowing you to turn it on or off.
-
-![](.gitbook/assets/gyros\_enabled.png)
-
-| Property      | Type | Default |
-| ------------- | ---- | ------- |
-| `set Enabled` | Bool | true    |
-| `get Enabled` | Bool |         |
+Call Alpha/Beta/Gamma, call X/Y/Z
 
 ![](<.gitbook/assets/image (25).png>)
 
@@ -73,3 +72,11 @@ By default the gyroscope sensor is turned on, but the `enabled`property can be u
 | `X`      | Number | Angular velocity about the X axis |
 | `Y`      | Number | Angular velocity about the Y axis |
 | `Z`      | Number | Angular velocity about the Z axis |
+
+### Set/Get Properties
+
+By default the gyroscope sensor is turned on, but the `enabled`property can be used to read and write new values to the gyroscope, thus allowing you to turn it on or off.
+
+![](.gitbook/assets/gyros\_enabled.png)
+
+###
