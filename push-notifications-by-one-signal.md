@@ -44,21 +44,17 @@ One Signal is a free service that supports unlimited devices and notifications. 
 
 * Go to [One Signal](https://onesignal.com) and sign up for an account
 
-![](<.gitbook/assets/image (80).png>)
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.54.53 PM.png>)
 
-After you have signed up, click Add App and enter in your app name:
+After you have signed up, click Add App:
 
-![](<.gitbook/assets/image (101).png>)
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.56.19 PM.png>)
 
-![](<.gitbook/assets/image (39).png>)
+Enter your app name, then proceed with [setting up for Android](push-notifications-by-one-signal.md#android-setup) or [setting up for iOS](push-notifications-by-one-signal.md#ios-setup):
+
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.58.03 PM.png>)
 
 After adding your app, OneSignal will ask you to select a platform. Below, we have created guides for both Android and iOS.
-
-**At this time Push Notifications can only be tested on Android Devices.**
-
-**You can add Push Notifications to iOS apps but testing can only be done after an app is published to the App Store.**&#x20;
-
-![](.gitbook/assets/screen-shot-2019-04-30-at-9.47.44-am.png)
 
 ## Android Setup
 
@@ -73,7 +69,9 @@ Setting up push notifications for Android is relatively straightforward. Here's 
 
 After you have added an app and given it a name, select the Google Android option.
 
-![Click on "Google Android" to set up an Android app.](.gitbook/assets/screen-shot-2019-04-30-at-9.47.44-am.png)
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.58.03 PM.png>)
+
+Click `Next: Configure Your Platform`
 
 ### 2. Configure Your Platform
 
@@ -81,58 +79,49 @@ For this next step, you will need a [Firebase](https://firebase.google.com) acco
 
 For instructions on how to set up a Firebase account, please click [here](https://docs.thunkable.com/realtime-db#set-up-your-own-firebase-account).
 
-Once you are signed in with Firebase, create a new project.
+Open a Firebase project to tie your Push Notifications to.
 
-![](<.gitbook/assets/image (21).png>)
+Click on the gear icon beside Project Overview and select **Project settings**.
 
-Once you have created a new project, click on the gear icon beside Project Overview and select **Project settings**.
+![](<.gitbook/assets/image (218).png>)
 
-![](.gitbook/assets/screenshot-2019-05-01-at-11.23.28.png)
+Go to the `Cloud Messaging` tab and get your Server Key and Sender ID:
 
-Select the Cloud Messaging option:
-
-![](<.gitbook/assets/image (60).png>)
-
-There are two things that you will need to copy and paste back into One Signal:
-
-1. Server Key
-2. Sender ID
-
-![](<.gitbook/assets/image (95).png>)
+![](.gitbook/assets/fbclm.png)
 
 Go back to the **One Signal** platform.
 
-Earlier you should have selected the Android option on One Signal, and your screen should look like this:
-
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.10.21 AM.png>)
 
 Copy and paste the Firebase Server Key and the Firebase Sender ID sections into One Signal.
 
+Click `Save & Continue`
+
 ### 3. Select Your SDK
 
-The last thing you need to do in OneSignal is choose your target SDK. Select **Native Android** and click next to continue.&#x20;
+The last thing you need to do in OneSignal is choose your target SDK. Select **Native Android** and click `Save & Continue.`
 
-![](.gitbook/assets/screenshot-2019-05-01-at-11.32.34.png)
+![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.13.24 AM.png>)
 
 ### 4. Install Your SDK
 
 Copy the alpha numeric code that OneSignal generates called **Your App ID** in the image below.
 
-![](.gitbook/assets/screenshot-2019-05-01-at-11.34.39.png)
+![](.gitbook/assets/app-id.png)
 
 On Thunkable, open the Push Notifications dialog and paste this ID into the Android App ID field.
 
-![](<.gitbook/assets/image (216) (1).png>)
+![](<.gitbook/assets/image (216) (1) (1).png>)
 
-Click the Live Test button. Once the app is on your phone, go back to One Signal. Click the "Check Subscribed Users" button.
+Click the Live Test button. Once the app is on your phone, go back to One Signal.&#x20;
 
-![](<.gitbook/assets/image (104).png>)
+Click the "Check Subscribed Users" button.
 
 If you are live testing or have downloaded your Android app, you should see a congratulations message. Click "DONE".
 
-Select the "MESSAGES" option and then select "NEW PUSH". You will now be able to create push notifications and send them to your app users.
+Select the "Messages" option and then select "New Push". You will now be able to create push notifications and send them to your app users.
 
-![](<.gitbook/assets/image (113).png>)
+![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.19.57 AM.png>)
 
 ## &#x20;iOS Setup
 
@@ -147,11 +136,11 @@ Setting up push notifications involves a few more steps on iOS than on Android, 
 
 Get started by creating a new app. You need to do this even if your Thunkable project is intended for both iOS and Android.&#x20;
 
-![](.gitbook/assets/newapp.png)
+Enter a name and choose **Apple iOS** as your platform.
 
-After that, choose **Apple iOS** as your platform.
+![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.21.31 AM.png>)
 
-![](.gitbook/assets/screenshot-2019-05-01-at-13.13.07.png)
+Click `Next: Configure Your Platform`
 
 ### 2. Configure Platform
 
@@ -175,23 +164,21 @@ Click on **Apple iOS**&#x20;
 
 With that completed you can upload your .p12 file and enter the password in OneSignal. Click **Save** to proceed to the next step.
 
-![](.gitbook/assets/screenshot-2019-05-01-at-13.17.37.png)
+![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.24.08 AM.png>)
+
+Click `Save & Continue`
 
 ### 3. Select SDK
 
 Click on **Native iOS** to choose the SDK you wish to target. Then click **Next** to generate your App ID.
 
-![](.gitbook/assets/screenshot-2019-05-01-at-13.17.49.png)
-
 ### 4. Install SDK
 
 Copy the alpha-numeric code labeled **Your App ID** and head back to Thunkable.
 
-![](.gitbook/assets/screenshot-2019-05-01-at-13.19.03.png)
-
 On Thunkable, open the Push Notifications dialog and paste this ID into the iOS App ID field.
 
-![](<.gitbook/assets/image (216) (1).png>)
+![](<.gitbook/assets/image (216) (1) (1).png>)
 
 You are now almost done. In order to now publish your app your will have to create a .mobileprovision profile. You can find details of how to do this on the ["Publish to App Store" page](publish-to-app-store-ios.md#adding-push-notifications).
 
@@ -199,7 +186,7 @@ When you are ready to send your first push notification, select the "MESSAGES" o
 
 
 
-![](<.gitbook/assets/image (113).png>)
+![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.24.08 AM.png>)
 
 ## Blocks
 
