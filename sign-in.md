@@ -12,49 +12,66 @@ You can watch a video to learn about all of the Sign In blocks here:
 
 ## Getting Started
 
-### Create your free [Firebase](https://firebase.google.com/) account and create a new project
+### Create your free [Firebase](https://firebase.google.com) account and create a new project
 
-![](.gitbook/assets/thunkable-documentation-exhibits-70%20%281%29.png)
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.19.36 PM.png>)
 
 ### Enable Email / Password Sign in
 
-In the Firebase console, navigate to Authentication and the tab "Sign-In Method". Enable Email/Password as shown below.
+In the Firebase console, navigate to Authentication go to the `Sign-in Method` tab.
 
-![](.gitbook/assets/firebase-fig-4%20%281%29.png)
+Find the `Email/Password` item under `Sign-in providers`.&#x20;
+
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.23.21 PM.png>)
+
+Click the pen icon to edit configuration. Set the `Email/Password` property to true and save.
+
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.26.38 PM.png>)
+
+
 
 ### Connect your Firebase Account with Thunkable
 
-There are two properties that you need to retrieve from Firebase to connect it with Thunkable which are both retrievable from the Firebase console: `API key` and `database URL.` You can add these values to your Project Settings, which you can access by clicking on the gear icon to the left of the Design tab of your project.
+There are two properties that you need to retrieve from Firebase to connect it with Thunkable which are both retrievable from the Firebase console: `API key` and `database URL.`&#x20;
+
+You can add these values to your Project Settings, which you can access by clicking on the gear icon to the left of the Design tab of your project.
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.31.31-am.png)
 
-![](.gitbook/assets/thunkable-documentation-exhibits-68%20%281%29.png)
+To get these values from your Firebase project, click on the gear icon next to Project Overview and click `Project Settings`.
 
-![](.gitbook/assets/thunkable-documentation-exhibits-69.png)
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.29.17 PM.png>)
 
-### \(Optional\) Modify the email template you send to verify your users' emails
+In the General tab, scroll down to the section called Your Apps.\
+You will find your API Key and Database URL in the code snippet provided.
 
-![](.gitbook/assets/firebase-fig-5.png)
+![](.gitbook/assets/fbcon.png)
+
+### (Optional) Modify the email template you send to verify your users' emails
+
+You can modify the default email that is sent to new users in the Templates tab of the Authentication segment of your console.
+
+![](.gitbook/assets/auth.png)
 
 ## Using the Sign In Component in your App
 
 Click on the Sign In drawer of blocks to access the Sign In blocks.
 
-![](.gitbook/assets/sign-in%20%281%29.png)
+![](<.gitbook/assets/sign-in (1).png>)
 
 ## Sign up
 
-The first step for users is to Sign Up with their email address and a password. They will be sent an email to verify the address that they provided. 
+The first step for users is to Sign Up with their email address and a password. They will be sent an email to verify the address that they provided.&#x20;
 
 ![](.gitbook/assets/sign-in-blocks-signup.png)
 
-| Event | Description |
-| :--- | :--- |
-| Sign up \( `email`, `password)`\) | Signs up a user for a new account. Returns an `error` if sign up is not successful. A common `error` is "The email address is already in use by another account." |
+| Event                           | Description                                                                                                                                                       |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sign up ( `email`, `password)`) | Signs up a user for a new account. Returns an `error` if sign up is not successful. A common `error` is "The email address is already in use by another account." |
 
 Here is an example of using this block:
 
-![](.gitbook/assets/sign-in-sign-up-example.png)
+![](.gitbook/assets/signup.png)
 
 ## Sign in
 
@@ -88,9 +105,8 @@ Send an email to the specified email address to reset their password
 
 On the Firebase console, navigate to the Users tab under Authentication and you'll find a dashboard where you can reset a user's password, disable and delete their accounts.
 
-![](.gitbook/assets/firebase-fig-1.png)
+![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.43.44 PM.png>)
 
 ## See Also
 
-Once you have signed a user in, you can use their user ID as a unique key to store unique user data to the cloud. See the [cloud variables video tutorial](variables.md#cloud-variables) for more information.  
-
+Once you have signed a user in, you can use their user ID as a unique key to store unique user data to the cloud. See the [cloud variables video tutorial](variables.md#cloud-variables) for more information. &#x20;
