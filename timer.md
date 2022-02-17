@@ -11,13 +11,12 @@ Find the **Timers** drawer of blocks and click on the ⊕ icon to add a Timer to
 
 ### Properties
 
-You will see a settings panel that allows you to set:
-
-* The **Name** of the Timer
-* The **Interval** of the Timer, in seconds or milliseconds
-* Whether or not the Timer should **Count Up**
-* Whether the Timer should **Loop**, ie. if the Timer should reset itself once it fires
-* Whether the Timer is **Enabled** (this can be changed with blocks)
+| Property | Description                                                                                                                                                   | Data Type  |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Interval | How regularly the Timer fires, in seconds or milliseconds                                                                                                     | Number     |
+| Count Up | Toggle whether the timer [time blocks](timer.md#get-time-in-seconds) return the current time as counted up from 0, or counted down from the interval duration | True/False |
+| Loop     | Toggle whether the Timer will start again once it has fired                                                                                                   | True/False |
+| Enabled  | Toggle whether the Timer is active in your app                                                                                                                | True/False |
 
 You can also **Delete** the Timer.
 
@@ -29,31 +28,31 @@ You will see the Timers you have added to your app underneath the Timers section
 
 ![](.gitbook/assets/timers-menu.png)
 
-## Event Blocks
+## Blocks
 
-### When Timer Fires
+### Events
+
+#### When Timer Fires
 
 ![](.gitbook/assets/whentimerfires.png)
 
 Set something to happen when the Timer fires.
 
-## Function Blocks
+### Functions
 
-### Start Timer
+#### Start Timer
 
 ![](.gitbook/assets/timst.png)
 
 Starts the Timer.
 
-### Stop Timer
+#### Stop Timer
 
 ![](.gitbook/assets/timstop.png)
 
 Stops the Timer.
 
-## Property Blocks
-
-### Get Time
+### Property Blocks
 
 #### Get time in seconds
 
@@ -71,8 +70,6 @@ If `Count Up` is `false`, returns remaining time from the Timer's interval in mi
 
 If `Count Up` is `true`, returns elapsed time from the Timer's interval in milliseconds.
 
-### Interval
-
 #### Set Interval
 
 ![](.gitbook/assets/setint.png)
@@ -83,9 +80,7 @@ Set interval of Timer in milliseconds.
 
 ![](.gitbook/assets/getint.png)
 
-Returns interval of Timer in milliseconds.
-
-### Count Up
+Returns interval of Timer in milliseconds
 
 #### Set Count Up
 
@@ -98,8 +93,6 @@ Set whether Count Up **** is enabled for this Timer.
 ![](.gitbook/assets/getcount.png)
 
 Returns `true` or `false` value for whether Count Up is enabled for this Timer.
-
-### Loops
 
 #### Set Loops
 
@@ -115,8 +108,6 @@ If `Loops = false`, the timer will finish its current interval if it is in the m
 ![](.gitbook/assets/getloops.png)
 
 Returns `true` or `false` value for whether Loops is enabled for this Timer.
-
-### Enabled
 
 #### Set Enabled
 
