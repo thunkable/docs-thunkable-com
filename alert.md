@@ -59,7 +59,7 @@ To set one up, simply add the following `simple` properties
 
 If you want to start an event from a confirm button, you will want to add the blocks below:
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-8.46.25-am.png)
+![](.gitbook/assets/alertshow.png)
 
 ## Button List: Alert with three or more buttons
 
@@ -69,10 +69,9 @@ This can be done using the `set Button List to` block by creating a [list](lists
 You can set the **Text** of the Alert. You can set the **Style** of the Alert to **ok, destructive** or **cancel.**
 
 On iOS, the Alert can show more than 3 Buttons.\
-On Android, the Alert can show up to 3 buttons. If more than 3 buttons are specified, the first 3 will be shown. \
+On Android, the Alert can show up to 3 buttons. If more than 3 buttons are specified, the first 3 will be shown.
 
-
-![](.gitbook/assets/screen-shot-2021-04-19-at-10.23.10-am.png)
+![](.gitbook/assets/btnlist.png)
 
 ![A three button alert displayed on Android and iOS devices](.gitbook/assets/thunkable-docs-exhibits-16.png)
 
@@ -87,7 +86,7 @@ The 'showButtonList' block will return an output called 'buttonPressed'.\
 This will return the position of the Button in your Button List.\
 You can take some action based on which button was pressed.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-8.51.02-am.png)
+![](.gitbook/assets/showbl.png)
 
 Note: the Buttons may appear in a different order when testing the app on a device. \
 The number that ‘buttonPressed’ returns is the order that the Buttons are added in the app project.
