@@ -83,7 +83,7 @@ Common issues
 * Navigate to the My Data Sources tab
 * Delete your Google Sheets data sources by clicking the trashcan icon
 
-![](<../.gitbook/assets/image (216) (1).png>)
+![](<../.gitbook/assets/image (216).png>)
 
 #### 2. Reset from Google
 
