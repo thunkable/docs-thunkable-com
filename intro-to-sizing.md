@@ -6,7 +6,7 @@ By sizing your components optimally, you can support as many screen sizes and re
 
 ## Understanding the four sizing options
 
-The following properties are available to all visible components in the `Height` and `Width` properties. In these definitions, a **parent component** is a Screen, Row or Column that contains the component.&#x20;
+The following properties are available to all visible components in the `Height` and `Width` properties. In these definitions, a **parent component **is a Screen, Row or Column that contains the component.&#x20;
 
 | Property         | Description                                                                                                                                                           |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

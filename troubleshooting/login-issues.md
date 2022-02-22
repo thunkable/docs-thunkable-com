@@ -49,7 +49,7 @@ More info about cookies in Chrome [here](https://support.google.com/accounts/ans
 
 Open Safari > Preferences ... > Privacy
 
-Prevent cross-site tracking should be **checked.**&#x20;
+Prevent cross-site tracking should be **checked. **
 
 Block all cookies should be **unchecked**.
 

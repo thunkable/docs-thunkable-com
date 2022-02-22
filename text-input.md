@@ -14,9 +14,9 @@ description: >-
 
 You can choose from the following types of keyboards:
 
-* **Default keyboard:** Displays your device’s default keyboard
-* **Email Address:** Displays an alphanumeric keyboard to accept email addresses
-* **Numeric:** Displays a keypad with only numbers; It is similar to the phone pad keyboard
+* **Default keyboard: **Displays your device’s default keyboard
+* **Email Address: **Displays an alphanumeric keyboard to accept email addresses
+* **Numeric: **Displays a keypad with only numbers; It is similar to the phone pad keyboard
 * **Phone Pad:** Displays a telephone keypad; It is similar to the numeric keyboard
 
 ## Set up for Passwords
@@ -37,14 +37,14 @@ To activate Secure Text Entry, look for the Text Input Style properties and make
 
 You can customize the Text Input component with the following properties:&#x20;
 
-* **Hint:** Hint text that disappears when the user starts typing into the Text Input
-* **Text:** Text that appears on the text input&#x20;
-* **Visible:** To see the text input in your app, set the switch to true
+* **Hint: **Hint text that disappears when the user starts typing into the Text Input
+* **Text: **Text that appears on the text input&#x20;
+* **Visible: **To see the text input in your app, set the switch to true
 * **Border**
-  * **Width:** Enter how wide you want the border outline of the text input to be
-  * **Color:** Pick a color for the border of the text input
-  * **Style:** Select if you want the border to be a dotted, dashed or solid line
-  * **Radius:** Enter how round you want the edges of the border for the text input to be
+  * **Width: **Enter how wide you want the border outline of the text input to be
+  * **Color: **Pick a color for the border of the text input
+  * **Style: **Select if you want the border to be a dotted, dashed or solid line
+  * **Radius: **Enter how round you want the edges of the border for the text input to be
 
 ## Edit the Text Input size
 
@@ -52,17 +52,17 @@ You can set how tall the text input is using the Height property and set how wid
 
 **Height**
 
-* **Fill container -** The text input fills the entire screen vertically
-* **Fit contents (Recommended) -** The text input’s height changes to fit the contents it contains
-* **Relative size -** The text input fills the specified percentage of the screen
-* **Absolute size -** Sizes the text input to a specified number of pixels
+* **Fill container - **The text input fills the entire screen vertically
+* **Fit contents (Recommended) - **The text input’s height changes to fit the contents it contains
+* **Relative size - **The text input fills the specified percentage of the screen
+* **Absolute size - **Sizes the text input to a specified number of pixels
 
 **Width**
 
-* **Fill container -** The text input fills the entire screen horizontally
-* **Fit contents -** The text input’s width changes to fit the contents it contains
-* **Relative size -** The text input fills the specified percentage of the screen
-* **Absolute -** Sizes the text input to a specified number of pixels
+* **Fill container - **The text input fills the entire screen horizontally
+* **Fit contents - **The text input’s width changes to fit the contents it contains
+* **Relative size - **The text input fills the specified percentage of the screen
+* **Absolute - **Sizes the text input to a specified number of pixels
 
 ## Add spacing
 

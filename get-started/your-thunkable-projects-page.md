@@ -11,7 +11,7 @@ This is the first page you see when you sign in.
 
 ## Viewing your projects
 
-Thunkable lets you choose between viewing your projects in **List View** or **Grid View**.
+Thunkable lets you choose between viewing your projects in **List View **or **Grid View**.
 
 ![List View of Thunkable Projects page](../.gitbook/assets/listview.jpg)
 
@@ -41,7 +41,7 @@ When you click on the 3 dots on a project card (Grid View) or list item (List Vi
 
 ![Project options menu](../.gitbook/assets/screen-shot-2020-06-12-at-2.08.57-pm.png)
 
-You can **delete** your project, **duplicate** your project, or see your **Project detail page.**
+You can **delete **your project, **duplicate **your project, or see your **Project detail page.**
 
 ### **Your Project Detail Page**
 

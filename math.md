@@ -12,7 +12,7 @@ Use this block to specify a number you want to use in your app.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-12.18.39-pm.png)
 
-You can also round up or down a decimal figure into an integer using the **round** block
+You can also round up or down a decimal figure into an integer using the **round **block
 
 ### Round to X Decimal Places
 
@@ -34,7 +34,7 @@ There is also a block for irrational numbers like `π`
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-12.24.55-pm.png)
 
-Returns **true** or **false** based on whether the chosen condition applies to the number
+Returns **true** or **false **based on whether the chosen condition applies to the number
 
 ## Perform Operations
 

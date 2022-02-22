@@ -80,7 +80,7 @@ Checks if a given list contains a given item. Returns **true** or **false**.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-12.03.09-pm.png)
 
-Returns the result of the chosen operation on a list of numbers. Returns **NaN** if the operation cannot be performed on the given list of values.
+Returns the result of the chosen operation on a list of numbers. Returns **NaN **if the operation cannot be performed on the given list of values.
 
 ## Select from a List
 
@@ -102,7 +102,7 @@ You can change an item in your list with the blocks below
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.58.31-am.png)
 
-This block will either **insert** an item at the specified location, or **set** the item at the specified location to the new value.
+This block will either **insert **an item at the specified location, or **set **the item at the specified location to the new value.
 
 ### Remove Item from List
 

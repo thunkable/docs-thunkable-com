@@ -18,11 +18,11 @@ You have many options for styling your Bottom Tab Navigator, such as changing th
 
 #### **Simple Properties**
 
-* **Active Tint Color:** Select a font color for the tab currently in use.
-* **Active Background Color:** Select a color for the tab currently in use.
+* **Active Tint Color: **Select a font color for the tab currently in use.
+* **Active Background Color: **Select a color for the tab currently in use.
 * **Inactive Tint Color:** Select a color for the text of the tabs that are not in use.&#x20;
-* **Inactive Background Color:** Select a color for the tab not currently in use.
-* **ShowLabel:** Toggle whether to show tab labels in the Tab Navigator.
+* **Inactive Background Color: **Select a color for the tab not currently in use.
+* **ShowLabel: **Toggle whether to show tab labels in the Tab Navigator.
 * **ShowIcon:** Toggle whether to show icons in the Tab Navigator.
 
 ## **Adding Labels and Icons to Your Tab**
@@ -48,7 +48,7 @@ Step 3. Depending on if you are adding icons or labels, select the screen you wo
 
 **Additional descriptions are below:**
 
-* **Tab Bar Label** -- The name of your tab label\
+* **Tab Bar Label **-- The name of your tab label\
   ****
 * **Active Tab Icon** -- Icon that appears when tab is selected; You can upload an image for this icon.Inactive Tab Icon -- Icon that appears when tab is not selected; You can upload an image for this icon.
 

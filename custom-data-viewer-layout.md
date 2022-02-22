@@ -21,7 +21,7 @@ Use a [Row](row.md) or [Column](column.md) to create the custom layout you want.
 This layout is a Row that contains two Columns. The first Column contains 3 [Labels](label.md): **TitleLabel**, **DescriptionLabel**, and **PriceLabel**. The second Column contains an [Image](image-1.md), **ProductImage**, and a Rating, called **ProductRating**. These components will be referenced in subsequent screenshots in this document.
 
 {% hint style="info" %}
-If you want to set the height or width of your parent row/column to fill the container, we recommend setting it to **Relative Size - 100%** for best results.
+If you want to set the height or width of your parent row/column to fill the container, we recommend setting it to **Relative Size - 100% **for best results.
 {% endhint %}
 
 ![](<.gitbook/assets/initial-layout (2).png>)
@@ -40,7 +40,7 @@ When you click **Save as Data Viewer Layout**, you will see the following dialog
 
 To save a basic Data Viewer Layout:
 
-* Enter a **Layout Name**
+* Enter a** Layout Name**
 * Select if your **Layout Type** is **List** or **Grid**
 
 ![](.gitbook/assets/screen-shot-2020-09-14-at-10.20.14-am.png)
@@ -52,15 +52,15 @@ To save a basic Data Viewer Layout:
 
 To save an advanced Data Viewer Layout:
 
-* Enter a **Layout Name**
+* Enter a** Layout Name**
 * Select if your **Layout Type** is **List** or **Grid**
-* Set **Advanced Binding** to **true**
+* Set **Advanced Binding **to **true**
 
 You can now select which properties of the components in your Parents Row/Column you want to bind to the values in your Data Source.
 
 ![](.gitbook/assets/selectprops.png)
 
-Once you have selected all of the properties that you want bound to the values in your Data Source, click **OK** to save your custom Data Viewer layout.
+Once you have selected all of the properties that you want bound to the values in your Data Source, click **OK **to save your custom Data Viewer layout.
 
 ![](.gitbook/assets/boundprops.png)
 
@@ -88,6 +88,6 @@ With Advanced Data Binding, Thunkable will allow you to bind the properties that
 
 ## Managing your Custom Data Viewer Layouts
 
-You can manage your custom data layouts by going to your Thunkable homepage at [x.thunkable.com/projects](https://x.thunkable.com/projects) and clicking on the **My Modules** tab at the top of the page. From here, you can edit and delete your custom data layouts.
+You can manage your custom data layouts by going to your Thunkable homepage at [x.thunkable.com/projects](https://x.thunkable.com/projects) and clicking on the **My Modules **tab at the top of the page. From here, you can edit and delete your custom data layouts.
 
 ![](.gitbook/assets/screen-shot-2020-09-14-at-5.15.24-pm.png)

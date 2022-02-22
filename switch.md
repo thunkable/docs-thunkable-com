@@ -32,9 +32,9 @@ In the following example, the user can only advance to `Screen2` if the acknowle
 
 You can customize the switch with the following properties:
 
-* **Tint Color:** Color of the switch track when switch is set to off
-* **On Tint Color:** Color of the switch track when switch set to on&#x20;
-* **Thumb Tint Color:** Color of the switch thumb
+* **Tint Color: **Color of the switch track when switch is set to off
+* **On Tint Color: **Color of the switch track when switch set to on&#x20;
+* **Thumb Tint Color: **Color of the switch thumb
 
 ## Events&#x20;
 

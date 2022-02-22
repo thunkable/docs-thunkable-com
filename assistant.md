@@ -72,7 +72,7 @@ To program an intent, you simply create new intents in the Dialogflow interface.
 
 ![](.gitbook/assets/screen-shot-2019-10-02-at-9.15.39-pm.png)
 
-The text response above can **** then be programmed with Thunkable blocks to complete a certain action e.g. play a specific sound file as in the [**sample app, Dad**](https://x.thunkable.com/projects/5aac3404264501000175f715/Welcome/designer).
+The text response above can** **then be programmed with Thunkable blocks to complete a certain action e.g. play a specific sound file as in the [**sample app, Dad**](https://x.thunkable.com/projects/5aac3404264501000175f715/Welcome/designer).
 
 The `text response` you program in Dialogflow is the same as the `value` output of the Start listening block on Thunkable as shown below.
 
@@ -118,4 +118,4 @@ First, navigate to the Dialogflow ⚙settings page and make sure the V2 API is s
 
 Second, you'll need to follow these steps to [re-connect your Dialogflow agent with Thunkable](assistant.md#connect-your-dialogflow-agent-with-thunkable).
 
-You'll have to retrieve the `Project Id` from the Dialogflow page you visited and create a new security key on the Google Cloud Service Account to retrieve the `Client Email` and `Private Key`. It sounds like a lot but if you follow the instructions, it should be relatively painless.
+You'll have to retrieve the `Project Id `from the Dialogflow page you visited and create a new security key on the Google Cloud Service Account to retrieve the `Client Email` and `Private Key`. It sounds like a lot but if you follow the instructions, it should be relatively painless.
