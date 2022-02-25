@@ -1,5 +1,23 @@
 # 📰 Release Notes
 
+## February 24, 2022
+
+Platform Updates
+
+* Improvements to location of pasted blocks in Firefox browser
+
+## February 17, 2022
+
+Platform Updates
+
+* Improvements to appearance of projects on larger screens
+
+## February 15, 2022
+
+Platform Updates
+
+* Reduce build times for iOS apps from 40 minutes to 20 minutes
+
 ## February 7, 2022
 
 Platform Updates
