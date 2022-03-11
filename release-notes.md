@@ -1,10 +1,35 @@
 # 📰 Release Notes
 
+## March 11, 2022
+
+New Components
+
+* [File Picker blocks](https://docs.thunkable.com/v/drag-and-drop/files#file-from-device)
+
+## March 3, 2022
+
+Platform Updates
+
+* Add 'Published as Web App' as filter on project home screen
+
+Component Updates
+
+* Fix z-index for Video player on web
+* Improve scrolling for non-editable Text Input
+* Improve Text Input autofocus on web
+
 ## February 24, 2022
 
 Platform Updates
 
 * Improvements to location of pasted blocks in Firefox browser
+* Reduce iOS build time from 40 minutes to 20 minutes
+
+Component Updates
+
+* Upgrade Airtable version to 0.7.2
+* Fix Airtable handling of zero values
+* Improve behavior of 'when Screen Opens' block on screens with Loading Icon
 
 ## February 17, 2022
 
