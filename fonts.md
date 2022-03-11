@@ -2,7 +2,7 @@
 
 ## Fonts
 
-You can currently change the font on the [Label](label.md)** **and [TextInput](text-input.md) components by setting their `FontFamily` property in the Advanced tab.
+You can currently change the font on the [Label](label.md) **** and [TextInput](text-input.md) components by setting their `FontFamily` property in the Advanced tab.
 
 ![](.gitbook/assets/fontfamily.png)
 

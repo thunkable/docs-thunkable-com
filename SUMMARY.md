@@ -54,6 +54,7 @@
 * [Realtime DB by Firebase](realtime-db.md)
 * [Airtable](spreadsheet.md)
 * [Media DB by Cloudinary](media-db.md)
+* [File Picker](file-picker.md)
 * [Web API](web-api.md)
 * [🌍 Location](location.md)
 * [Maps by Google and Apple](map.md)

@@ -24,7 +24,7 @@ The Stage is the background of your Canvas. You can set a background color or ba
 
 ### Gravity
 
-You can set **Gravity **of the Stage along the X and Y axis. The Sprites on the stage can be toggled to **ignore **gravity or not. If a Sprite is affected by gravity, it will be pulled in the direction of the gravity.&#x20;
+You can set **Gravity** of the Stage along the X and Y axis. The Sprites on the stage can be toggled to **ignore** gravity or not. If a Sprite is affected by gravity, it will be pulled in the direction of the gravity.&#x20;
 
 {% tabs %}
 {% tab title="Y Gravity" %}
@@ -44,23 +44,23 @@ You can set **Gravity **of the Stage along the X and Y axis. The Sprites on the 
 
 ### Stage Scaling Mode
 
-Your Canvas Stage will automatically scale up in order to match the size of the device screen. If the aspect ratio of the Stage does not match the aspect ratio of the device, you can use **Stage Scaling Mode **to resize the background to fill the device screen.
+Your Canvas Stage will automatically scale up in order to match the size of the device screen. If the aspect ratio of the Stage does not match the aspect ratio of the device, you can use **Stage Scaling Mode** to resize the background to fill the device screen.
 
-**Scale: **The aspect ratio of the background will be maintained, and the background will be scaled up. May result in some of the background being cropped.
+**Scale:** The aspect ratio of the background will be maintained, and the background will be scaled up. May result in some of the background being cropped.
 
-**Stretch: **The background image will be stretch in order to fill the screen. May result in the background image being distorted.
+**Stretch:** The background image will be stretch in order to fill the screen. May result in the background image being distorted.
 
 #### Stage Alignment
 
 Select how you want your background image to be centered when it is scaled to match the device screen.
 
-Can be set to **center, center horizontally only, center vertically only, **or **none.**
+Can be set to **center, center horizontally only, center vertically only,** or **none.**
 
 ### Touch Drawing
 
-You can enable **Touch Drawing **on your Screen. \
-You can set the **Drawing Color **to choose the color you draw in. \
-You can set the **Drawing Width **to choose the thickness of the line you draw on the stage.
+You can enable **Touch Drawing** on your Screen. \
+You can set the **Drawing Color** to choose the color you draw in. \
+You can set the **Drawing Width** to choose the thickness of the line you draw on the stage.
 
 ### Multiple Stages
 

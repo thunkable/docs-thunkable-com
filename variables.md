@@ -84,7 +84,7 @@ Variables do not have to be fixed values and there may be times when you want to
 
 The above blocks use hard coded variable names, where you must select a variable from a list of variables that you have initialized.
 
-You can also create **dynamically named **variables. There are variables that you create and name during app runtime, which do not have an initialize block.
+You can also create **dynamically named** variables. There are variables that you create and name during app runtime, which do not have an initialize block.
 
 You can name these by typing in a name, or by using other variables to name the dynamically created variables.
 

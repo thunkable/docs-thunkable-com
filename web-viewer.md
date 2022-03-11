@@ -22,13 +22,13 @@ In the Design panel, you can set many properties of the Web Viewer.
 
 ### Simple
 
-**URL: **Set initial URL to be displayed in the Web Viewer\
-**Height: **Set Height of Web Viewer\
-**Width: **Set Width of Web Viewer\
-**Visible: **Toggle whether or not the Web Viewer is visible in the app\
-**Margin (top, bottom, left, right): **Set a defined distance between the Web Viewer and its neighboring components on the Screen\
-**Padding (top, bottom, left, right): **Set a defined distance between the border of the Web Viewer and its contents\
-**Border: **Set the **width, radius, color **and **style **of a border around the perimeter of the Web Viewer&#x20;
+**URL:** Set initial URL to be displayed in the Web Viewer\
+**Height:** Set Height of Web Viewer\
+**Width:** Set Width of Web Viewer\
+**Visible:** Toggle whether or not the Web Viewer is visible in the app\
+**Margin (top, bottom, left, right):** Set a defined distance between the Web Viewer and its neighboring components on the Screen\
+**Padding (top, bottom, left, right):** Set a defined distance between the border of the Web Viewer and its contents\
+**Border:** Set the **width, radius, color** and **style** of a border around the perimeter of the Web Viewer&#x20;
 
 ## Set URL
 
@@ -36,7 +36,7 @@ To open up a website in your app, you need to provide  the Web Viewer with a URL
 
 A URL is kind of like a street address - it tells the web viewer the location of the website on the internet.
 
-* **URL: **Enter in the link to the website or an image. The URL must include https://&#x20;
+* **URL:** Enter in the link to the website or an image. The URL must include https://&#x20;
 
 ![](.gitbook/assets/wv\_url.png)
 
@@ -58,16 +58,16 @@ You can set how tall the Web Viewer is using the height property and set how wid
 
 **Height**
 
-* **Fill container - **The Web Viewer fills the entire screen vertically
-* **Fit contents - **The Web Viewer’s height changes to fit the contents it contains
-* **Relative size - **The Web Viewer fills the specified percentage of the screen
-* **Absolute size - **Sizes the Web Viewer to a specified number of pixels
+* **Fill container -** The Web Viewer fills the entire screen vertically
+* **Fit contents -** The Web Viewer’s height changes to fit the contents it contains
+* **Relative size -** The Web Viewer fills the specified percentage of the screen
+* **Absolute size -** Sizes the Web Viewer to a specified number of pixels
 
 **Width**
 
-* **Fill container - **The Web Viewer fills the entire screen horizontally
-* **Fit contents - **The Web Viewer’s width changes to fit the contents it contains
-* **Relative size - **The Web Viewer fills the specified percentage of the screen
+* **Fill container -** The Web Viewer fills the entire screen horizontally
+* **Fit contents -** The Web Viewer’s width changes to fit the contents it contains
+* **Relative size -** The Web Viewer fills the specified percentage of the screen
 * **Absolute -** Sizes the Web Viewer to a specified number of pixels
 
 ## Add Spacing
@@ -86,7 +86,7 @@ You change the spacing and positioning of the Web Viewer with the Margin and Pad
 
 You can toggle whether the Web Viewer automatically requests the user's location. Some websites require access to the user's location to work. However, if you do not plan on displaying a website that needs this permission in your app, then you may not want your app to request an unnecessary permission.
 
-To set whether or not the Web Viewer requests the user's location, go to the Design tab and click on your Web Viewer. In the panel on the right hand side of the screen, click on the **Advanced **tab.
+To set whether or not the Web Viewer requests the user's location, go to the Design tab and click on your Web Viewer. In the panel on the right hand side of the screen, click on the **Advanced** tab.
 
 ![Advanced tab of Web Viewer component](.gitbook/assets/webviewer.png)
 

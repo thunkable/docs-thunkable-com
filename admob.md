@@ -9,7 +9,7 @@ AdMob is the most popular ad network for monetizing mobile apps today. Apps with
 We highly recommend that you only add ads to your app after you have a large audience of users (otherwise, you won't generate much revenue anyway).
 
 {% hint style="info" %}
-**AdMob is a  **![](.gitbook/assets/pro.png) **component. **While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
+**AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
 
 All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ\_Uon406Demqt\_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform). Once approved, apps can be downloaded and published without further review.
 
@@ -74,22 +74,22 @@ To show an interstitial app, you need to first add the component and then add th
 
 You can set the following as properties of your Interstitial ad:
 
-* The **Name **of the AdMob component
+* The **Name** of the AdMob component
 * The **Ad Unit ID (Android)**
 * The **Ad Unit ID (iOS)**
-* Whether **Test Mode **is enabled for this ad component
+* Whether **Test Mode** is enabled for this ad component
 
 ### Blocks
 
 #### Events
 
-Use the **when Ad Open **and **when Ad Close **blocks to trigger events to happen when the interstitial ad opens or closes.
+Use the **when Ad Open** and **when Ad Close** blocks to trigger events to happen when the interstitial ad opens or closes.
 
 ![](.gitbook/assets/admob-inter-blocks-events.png)
 
 #### Actions
 
-Use the **Show Ad **block to show an interstitial ad in your app. If there is an error, the **error **block will catch and return it.
+Use the **Show Ad** block to show an interstitial ad in your app. If there is an error, the **error** block will catch and return it.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.00.50-pm.png)
 
@@ -117,10 +117,10 @@ To show a rewarded video app, you need to first add the component and then add t
 
 You can set the following as properties of your Rewarded Video ad:
 
-* The **Name **of the AdMob component
+* The **Name** of the AdMob component
 * The **Ad Unit ID (Android)**
 * The **Ad Unit ID (iOS)**
-* Whether **Test Mode **is enabled for this ad component
+* Whether **Test Mode** is enabled for this ad component
 
 ### Blocks
 
@@ -132,7 +132,7 @@ Use the **when Ad Close** block to trigger events to happen when the interstitia
 
 #### Actions
 
-Use the **Show Ad **block to show the ad video, and the **Reward User **block to reward the user after displaying the video.
+Use the **Show Ad** block to show the ad video, and the **Reward User** block to reward the user after displaying the video.
 
 ![](.gitbook/assets/screen-shot-2019-03-08-at-8.55.38-am.png)
 
@@ -150,7 +150,7 @@ Use these blocks to set and get the **Test Mode** status of your Rewarded Video 
 
 ![](.gitbook/assets/admob-video-blocks-testmode.png)
 
-## Live Test <a href="live-test" id="live-test"></a>
+## Live Test <a href="#live-test" id="live-test"></a>
 
 For your convenience, we have provided a test  `Ad Unit ID` for you to see how a particular ad format may appear in your app.&#x20;
 
@@ -159,7 +159,7 @@ During live test, all AdMob ads will be set to `test mode = true`, which means c
 ## Download and Publish ![](.gitbook/assets/pro.png)&#x20;
 
 {% hint style="info" %}
-Only ![](.gitbook/assets/pro.png)** **members can download and publish apps with AdMob
+Only ![](.gitbook/assets/pro.png) **** members can download and publish apps with AdMob
 {% endhint %}
 
 ### **Submit for Review**

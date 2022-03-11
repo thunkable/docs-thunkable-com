@@ -25,14 +25,14 @@ We recommend using a Label with the Slider so that users can get immediate feedb
 
 ## Style the Slider
 
-* **Minimum Track Tint Color: **Color of the slider track to the left of the thumb
-* **Maximum Track Tint Color: **Color of the slider track to the right of the thumb
-* **Thumb Tint Color (Android only): **Color of the thumb
-* **Border: **
-  * **Width: **Enter how wide you want the border outline of the Slider to be
-  * **Color: **Pick a color for the border of the Slider
-  * **Style: **Select if you want the border to be a dotted, dashed or solid line
-  * **Radius: **Enter how round you want the edges of the border for the Slider to be
+* **Minimum Track Tint Color:** Color of the slider track to the left of the thumb
+* **Maximum Track Tint Color:** Color of the slider track to the right of the thumb
+* **Thumb Tint Color (Android only):** Color of the thumb
+* **Border:**&#x20;
+  * **Width:** Enter how wide you want the border outline of the Slider to be
+  * **Color:** Pick a color for the border of the Slider
+  * **Style:** Select if you want the border to be a dotted, dashed or solid line
+  * **Radius:** Enter how round you want the edges of the border for the Slider to be
 
 | Property                        | Description                                                                                                                |
 | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -47,17 +47,17 @@ You can set how tall the Slider is using the height property and set how wide it
 
 **Height**
 
-* **Fill container - **The Slider fills the entire screen vertically
-* **Fit contents - **The Slider’s height changes to fit the contents it contains
-* **Relative size - **The Slider fills the specified percentage of the screen
-* **Absolute size - **Sizes the Slider to a specified number of pixels
+* **Fill container -** The Slider fills the entire screen vertically
+* **Fit contents -** The Slider’s height changes to fit the contents it contains
+* **Relative size -** The Slider fills the specified percentage of the screen
+* **Absolute size -** Sizes the Slider to a specified number of pixels
 
 **Width**
 
-* **Fill container - **The Slider fills the entire screen horizontally
-* **Fit contents - **The Slider’s width changes to fit the contents it contains
-* **Relative size - **The Slider fills the specified percentage of the screen
-* **Absolute - **Sizes the Slider to a specified number of pixels
+* **Fill container -** The Slider fills the entire screen horizontally
+* **Fit contents -** The Slider’s width changes to fit the contents it contains
+* **Relative size -** The Slider fills the specified percentage of the screen
+* **Absolute -** Sizes the Slider to a specified number of pixels
 
 ## Add spacing
 
@@ -79,7 +79,7 @@ You change the spacing and positioning of the Slider with the Margin and Padding
 
 When the user takes their finger off the slider. The event returns the value that the slider has settled on.
 
-Please note that the `on Sliding Complete ` event does not work in web preview
+Please note that the `on Sliding Complete` event does not work in web preview
 
 ### On Value Change
 
