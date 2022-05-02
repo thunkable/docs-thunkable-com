@@ -32,11 +32,13 @@ Make sure none of the segments of this package name begins with a number. ﻿Mak
 
 ## Icon <a href="#icon" id="icon"></a>
 
-Your app icon is the picture that represents your app on your mobile device. This icon will also appear on your listing in the Google Play Store or App Store, and as your project icon on Thunkable.
+Your app icon is the picture that represents your app on your mobile device. This icon will also appear on your listing in the Google Play Store or App Store, and as your project icon on Thunkable. Users on our personal plans will see the default "Made with Thunkable" icon appear when their apps load.&#x20;
 
-Thunkable PRO users can remove the Thunkable branding from their app splash screen by changing the app icon.
+{% hint style="info" %}
+If your company needs to remove the Thunkable branding from an app, this option is available as a project setting to both Business and Team customers.
 
-​[Learn more about PRO.](https://thunkable.com/#/pricing)​
+[Learn more about our plans here.](https://thunkable.com/#/pricing)​
+{% endhint %}
 
 Please make sure that the file you upload does not have the same name as another asset that you are using for your app. This will cause an error.
 
