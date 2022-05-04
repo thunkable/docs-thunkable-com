@@ -14,7 +14,7 @@ Platform Updates
 
 New Components
 
-* Checkbox
+* [Checkbox](https://docs.thunkable.com/v/drag-and-drop/checkbox) (Drag and Drop UI)
 
 Component Updates
 
