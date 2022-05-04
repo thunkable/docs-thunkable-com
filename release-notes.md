@@ -1,5 +1,30 @@
 # 📰 Release Notes
 
+## May 2, 2022
+
+New Components
+
+* [File Picker for Snap to Place UI](https://docs.thunkable.com/file-picker)
+
+## April 27, 2022
+
+Platform Updates
+
+* Fixes to UI inconsistencies
+
+New Components
+
+* Layout (Drag and Drop UI)
+* Checkbox
+
+Component Updates
+
+* Switch: Improve positioning on Thunkable Live companion app
+* Screen: Add Computed Height and Computed Width blocks
+* Groups: Add relative positioning for child components
+* Firebase Sign In: Added Delete User block
+* Visible Components: Fix unintended shadows/borders
+
 ## March 11, 2022
 
 New Components
