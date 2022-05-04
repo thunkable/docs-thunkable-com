@@ -139,7 +139,7 @@ Read more about managing your Android subscriptions [here](https://support.googl
 
 1. Open the App Store app on your iOS device or on a computer
    * Sign in to the App Store if necessary
-2. Tap  ![the My Account button](https://lh6.googleusercontent.com/I6R62VCS\_F11SgaTmivEk-xcoDKPmOkM8PdTfs-4EXqb5mVeBLD2k67hmV\_6j3NBLYva4IR5-sCT1rfvIAoYoyE7\_5CbDRNXGzjLsBK2CP4JuNwQenVV8lWgAVWVDUxQDbzvZWvH)or your profile picture at the top right, then tap Subscriptions.
+2. Tap  <img src="https://lh6.googleusercontent.com/I6R62VCS_F11SgaTmivEk-xcoDKPmOkM8PdTfs-4EXqb5mVeBLD2k67hmV_6j3NBLYva4IR5-sCT1rfvIAoYoyE7_5CbDRNXGzjLsBK2CP4JuNwQenVV8lWgAVWVDUxQDbzvZWvH" alt="the My Account button" data-size="line">or your profile picture at the top right, then tap Subscriptions.
 3. Choose a subscription, then do any of the following:
    * Change or cancel an existing subscription.
    * Resubscribe to an expired subscription.

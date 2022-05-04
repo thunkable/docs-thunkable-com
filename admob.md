@@ -1,7 +1,7 @@
 # Ads by AdMob
 
 {% hint style="info" %}
-**AdMob is a**  ![](.gitbook/assets/pro.png) **component.** All Thunkers can add AdMob to their projects and live test the ads in their apps. PRO Thunkers who [join our MCM network](admob.md#join-thunkables-mcm-network) can download and publish apps that contain ads.
+**AdMob is a**  <img src=".gitbook/assets/pro.png" alt="" data-size="line"> **component.** All Thunkers can add AdMob to their projects and live test the ads in their apps. PRO Thunkers who [join our MCM network](admob.md#join-thunkables-mcm-network) can download and publish apps that contain ads.
 {% endhint %}
 
 * [Create an AdMob account](admob.md#create-an-admob-account)
@@ -205,7 +205,7 @@ During live test, all AdMob ads will be set to `test mode = true`, which means c
 
 This is true even if you add your own `Ad Unit ID` and set `test mode = false`.
 
-## Download and Publish ![](.gitbook/assets/pro.png)&#x20;
+## Download and Publish <img src=".gitbook/assets/pro.png" alt="" data-size="line">&#x20;
 
 ### Set `test mode = false`&#x20;
 

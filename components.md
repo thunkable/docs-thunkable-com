@@ -44,8 +44,8 @@ Components are organized into 8 different categories. For a more detailed descri
 [data-viewers.md](data-viewers.md)
 {% endcontent-ref %}
 
-{% content-ref url="layout.md" %}
-[layout.md](layout.md)
+{% content-ref url="screens-and-navigators.md" %}
+[screens-and-navigators.md](screens-and-navigators.md)
 {% endcontent-ref %}
 
 {% content-ref url="monetization.md" %}

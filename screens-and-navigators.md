@@ -2,7 +2,7 @@
 description: How to set up and organize your app.
 ---
 
-# 📐 Layout
+# 📐 Screens and Navigators
 
 ## From Idea to App&#x20;
 
@@ -46,6 +46,6 @@ Here are three examples of navigators that you can use on Thunkable.
 [screen.md](screen.md)
 {% endcontent-ref %}
 
-{% content-ref url="groups.md" %}
-[groups.md](groups.md)
+{% content-ref url="group.md" %}
+[group.md](group.md)
 {% endcontent-ref %}

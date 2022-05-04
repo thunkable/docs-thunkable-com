@@ -9,7 +9,7 @@ Push notifications are one of the biggest advantages that mobile apps have over 
 However, annoying notifications---those that are irrelevant and too frequent---can be dismissed or blocked easily.  We highly recommend sending notifications only when the content is relevant to the user. Examples include an e-commerce app letting the end user know about a sale, or a game app letting the user know about a new level or feature.
 
 {% hint style="info" %}
-**Push Notifications are a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps (Android only), only Thunkers with PRO, Business or Enterprise accounts can download and publish apps with Push Notifications. See our [pricing page](https://thunkable.com/#/pricing) for more details.
+**Push Notifications are a**  <img src=".gitbook/assets/pro.png" alt="" data-size="line"> **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps (Android only), only Thunkers with PRO, Business or Enterprise accounts can download and publish apps with Push Notifications. See our [pricing page](https://thunkable.com/#/pricing) for more details.
 {% endhint %}
 
 ## Adding a Push Notifications component to your app
