@@ -14,7 +14,6 @@ Platform Updates
 
 New Components
 
-* Layout (Drag and Drop UI)
 * Checkbox
 
 Component Updates
