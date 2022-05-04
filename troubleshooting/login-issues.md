@@ -1,7 +1,7 @@
 # Login Issues
 
-{% hint style="info" %}
-We currently allow creators to log in with either a Gmail account or with any other email address the choose.
+{% hint style="warning" %}
+We allow creators to log in with a Google account, an Apple account, or an email address.
 {% endhint %}
 
 ![](../.gitbook/assets/webp.net-resizeimage-22.png)
