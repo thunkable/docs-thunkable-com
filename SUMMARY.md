@@ -23,6 +23,7 @@
 * [Web Viewer](web-viewer.md)
 * [Switch](switch.md)
 * [Slider](slider.md)
+* [Checkbox](checkbox.md)
 * [Map](map.md)
 * [Animation by Lottie](lottie.md)
 * [Video](video.md)
