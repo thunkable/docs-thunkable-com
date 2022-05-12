@@ -12,9 +12,9 @@ Due to special circumstances from Apple, there is a limit of one downloaded app 
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | No limit | <p>Due to Apple recently updating its enterprise certificate guidelines we are unable to facilitate direct downloads at this time. <br><br>Historically we've had an agreement with Apple that allowed Thunkable to give our users this capability, however the updated  eligibility requirements preclude Thunkable from accessing this feature and making it available to our users.</p> |
 
-## How can I test my iOS downloads.&#x20;
+## How can I download iOS apps for testing?&#x20;
 
-In order to facilitate iOS testing, you will need to follow the instructions on the [Publish](publish-to-app-store-ios.md) page to use TestFlight.&#x20;
+In order to facilitate iOS testing, you will need to follow the instructions on the [Publish](publish-to-app-store-ios/) page to use TestFlight.&#x20;
 
 ## Download Android app
 

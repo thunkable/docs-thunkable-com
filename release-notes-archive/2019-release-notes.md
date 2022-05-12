@@ -182,13 +182,13 @@ New Components
 
 Component Updates
 
-* [Payment](broken-reference) by Stripe - New lower fees for ![](../.gitbook/assets/pro.png)- 2.9% + $0.30 per transaction (0% Thunkable fee)
+* [Payment](broken-reference) by Stripe - New lower fees for <img src="../.gitbook/assets/pro.png" alt="" data-size="line">- 2.9% + $0.30 per transaction (0% Thunkable fee)
 
 ## May 6, 2019
 
 New Components
 
-* [Push Notification](../push-notifications-by-one-signal.md) by One Signal ![](../.gitbook/assets/pro.png) - PRO only component for sending push notification to users who have downloaded your app; all Thunkers can add the component to their project and live test on Android
+* [Push Notification](../push-notifications-by-one-signal.md) by One Signal <img src="../.gitbook/assets/pro.png" alt="" data-size="line"> - PRO only component for sending push notification to users who have downloaded your app; all Thunkers can add the component to their project and live test on Android
 
 ## May 2, 2019
 
@@ -212,14 +212,14 @@ Platform Updates
 
 Component Updates
 
-* AdMob ![](../.gitbook/assets/pro.png)&#x20;
+* AdMob <img src="../.gitbook/assets/pro.png" alt="" data-size="line">&#x20;
   * Thunkable Live iOS app now supports live testing apps with AdMob
 
 ## Mar 12, 2019
 
 New Components
 
-* Ads by AdMob ![](../.gitbook/assets/pro.png) - all Thunkers can add to their project and live test but only PRO members can download and publish apps with AdMob
+* Ads by AdMob <img src="../.gitbook/assets/pro.png" alt="" data-size="line"> - all Thunkers can add to their project and live test but only PRO members can download and publish apps with AdMob
   * [Banner](https://docs.thunkable.com/admob#banner-ad) **-** displays a rectangular ad at the top of bottom of any screen
   * [Interstitial](https://docs.thunkable.com/admob#interstitial-ad) - full screen ads that display over the current screen
   * [Rewarded Video](https://docs.thunkable.com/admob#rewarded-video-ad) - show a full screen video ad over the current screen and adds event handler to reward user after watching

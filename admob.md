@@ -9,7 +9,7 @@ AdMob is the most popular ad network for monetizing mobile apps today. Apps with
 We highly recommend that you only add ads to your app after you have a large audience of users (otherwise, you won't generate much revenue anyway).
 
 {% hint style="info" %}
-**AdMob is a**  ![](.gitbook/assets/pro.png) **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
+**AdMob is a**  <img src=".gitbook/assets/pro.png" alt="" data-size="line"> **component.** While all Thunkers can add AdMob to their app projects and live test the ads in their apps, only PRO Thunkers can download and publish apps with AdMob.
 
 All apps must be approved by Thunkable subject to our [review guidelines](admob.md#review-guidelines). If you are a PRO Thunker, you can [**submit your app for review here**](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ\_Uon406Demqt\_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform). Once approved, apps can be downloaded and published without further review.
 
@@ -156,10 +156,10 @@ For your convenience, we have provided a test  `Ad Unit ID` for you to see how a
 
 During live test, all AdMob ads will be set to `test mode = true`, which means clicks and impressions will not be counted. This is true even if you add your own `Ad Unit ID` and set `test mode = false`.
 
-## Download and Publish ![](.gitbook/assets/pro.png)&#x20;
+## Download and Publish <img src=".gitbook/assets/pro.png" alt="" data-size="line">&#x20;
 
 {% hint style="info" %}
-Only ![](.gitbook/assets/pro.png) **** members can download and publish apps with AdMob
+Only <img src=".gitbook/assets/pro.png" alt="" data-size="line"> **** members can download and publish apps with AdMob
 {% endhint %}
 
 ### **Submit for Review**

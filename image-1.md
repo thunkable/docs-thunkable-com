@@ -17,7 +17,7 @@ There are a few ways you can display an image in your app:\
 
 1. **Upload a picture to your project Files:**\
    ****\
-   ****![](.gitbook/assets/files\_upload\_file.png)\
+   ****<img src=".gitbook/assets/files_upload_file.png" alt="" data-size="original">\
 
 2. **Provide a link in the Image properties**\
    ****\

@@ -28,7 +28,7 @@ Bug fixes
 
 Platform updates
 
-* [Publish to iOS](../publish-to-app-store-ios.md) - Supports the ability to publish to iOS with two-factor authentication turned on
+* [Publish to iOS](../publish-to-app-store-ios/) - Supports the ability to publish to iOS with two-factor authentication turned on
 
 Component / block updates
 

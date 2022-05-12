@@ -6,53 +6,18 @@ Since Thunkable's cross platform ✕ allows creators to build one app that works
 The App Store review is typically more rigorous and consequently more time-intensive than the Play Store review--but both stores are continually raising the bar for what can be listed in their stores.
 {% endhint %}
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"><a href="publish-to-app-store-ios.md">Publish to App Store</a> (iOS)</th>
-      <th
-      style="text-align:left"><a href="publish-to-play-store-android.md">Publish to Play Store</a> (Android)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Min requirements</td>
-      <td style="text-align:left">Apple Developer Program account ($100 / year)</td>
-      <td style="text-align:left">Google Play Developer account ($25 one-time fee)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Add&apos;l requirements</td>
-      <td style="text-align:left">
-        <p>Design assets</p>
-        <ul>
-          <li>Icon (1024 x 1024 px)</li>
-          <li>iPhone and iPad screenshots</li>
-        </ul>
-        <p>Privacy policy url for all apps</p>
-      </td>
-      <td style="text-align:left">
-        <p>Design assets</p>
-        <ul>
-          <li>Icon (512 x 512 px)</li>
-          <li>App screenshots</li>
-          <li>Feature graphic (1024 x 500 px)</li>
-        </ul>
-        <p>Privacy policy (for certain apps that require sensitive information e.g.
-          access to phone camera)</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Est. approval time</td>
-      <td style="text-align:left">A few days</td>
-      <td style="text-align:left">A few hours</td>
-    </tr>
-  </tbody>
-</table>
+|                    | [Publish to App Store](publish-to-app-store-ios/) (iOS)                                                                               | [Publish to Play Store](publish-to-play-store-android.md) (Android)                                                                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Min requirements   | Apple Developer Program account ($100 / year)                                                                                         | Google Play Developer account ($25 one-time fee)                                                                                                                                                                                 |
+| Add'l requirements | <p>Design assets</p><ul><li>Icon (1024 x 1024 px)</li><li>iPhone and iPad screenshots</li></ul><p>Privacy policy url for all apps</p> | <p>Design assets</p><ul><li>Icon (512 x 512 px)</li><li>App screenshots</li><li>Feature graphic (1024 x 500 px)</li></ul><p>Privacy policy (for certain apps that require sensitive information e.g. access to phone camera)</p> |
+| Est. approval time | A few days                                                                                                                            | A few hours                                                                                                                                                                                                                      |
 
 You may need to create screenshots in different sizes for your app listing. You can learn how to do that here: [Generate Screenshots](generate-screenshots.md).
 
-{% page-ref page="publish-to-app-store-ios.md" %}
+{% content-ref url="publish-to-app-store-ios/" %}
+[publish-to-app-store-ios](publish-to-app-store-ios/)
+{% endcontent-ref %}
 
-{% page-ref page="publish-to-play-store-android.md" %}
-
+{% content-ref url="publish-to-play-store-android.md" %}
+[publish-to-play-store-android.md](publish-to-play-store-android.md)
+{% endcontent-ref %}
