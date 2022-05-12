@@ -51,7 +51,7 @@ This is not your app name! This is just the name of your project on Thunkable. W
 
 ## App (Bundle) ID
 
-A unique identifier for your app on the [App Store](publish-to-app-store-ios.md#register-an-app-id-on-app-store-connect) or [Play Store](publish-to-play-store-android.md#the-package-name).&#x20;
+A unique identifier for your app on the [App Store](publish-to-app-store-ios/#register-an-app-id-on-app-store-connect) or [Play Store](publish-to-play-store-android.md#the-package-name).&#x20;
 
 This should follow a pattern like `com.domain.creatorname.appname`
 
@@ -78,7 +78,7 @@ Please make sure that the file you upload does not have the same name as another
 | Shape        | Square (equal height and width)               |
 | File Type    | Preferably .png (vs. jpg or other file types) |
 
-For publishing to the iOS [App Store](publish-to-app-store-ios.md#upload-an-icon-and-enter-your-build-number-and-version-number), you will also need an app icon that does not have any transparency or it may cause an error.
+For publishing to the iOS [App Store](publish-to-app-store-ios/#upload-an-icon-and-enter-your-build-number-and-version-number), you will also need an app icon that does not have any transparency or it may cause an error.
 
 {% hint style="info" %}
 For publishing your app to the Play and App stores, you will need to create a separate icon with a higher resolution. For [Google Play](https://developer.android.com/google-play/resources/icon-design-specifications#creating\_assets), the current requirement is 500 x 500 px. For the [App Store](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon#app-icon-sizes), it's 1024 x 1024 px.
@@ -90,7 +90,7 @@ PRO Thunkable users have the option to set their app to Private. A private app w
 
 ## Auto-increment Version
 
-When you publish to the [App Store](publish-to-app-store-ios.md) or the [Play Store](publish-to-play-store-android.md), you will need to increment (increase) your version number each time. If this switch is set to `true,` Thunkable will automatically increment your project's version number each time you publish your app (iOS) or download your app (Android).
+When you publish to the [App Store](publish-to-app-store-ios/) or the [Play Store](publish-to-play-store-android.md), you will need to increment (increase) your version number each time. If this switch is set to `true,` Thunkable will automatically increment your project's version number each time you publish your app (iOS) or download your app (Android).
 
 ## AdMob Settings
 
@@ -133,7 +133,7 @@ This property enables you to set the safe area view color. With this, you can cu
 
 ### Version Number
 
-Set a [version number](publish-to-app-store-ios.md#set-a-version-number) for this version of your iOS app.
+Set a [version number](publish-to-app-store-ios/#set-a-version-number) for this version of your iOS app.
 
 ### iOS Permissions
 

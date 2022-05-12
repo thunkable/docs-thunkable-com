@@ -18,7 +18,7 @@ Due to special circumstances from Apple, there is a limit of one downloaded app 
 
 ## How can I download iOS apps for testing?&#x20;
 
-In order to facilitate iOS testing, you will need to follow the instructions on the [Publish](publish-to-app-store-ios.md) page to use [TestFlight](broken-reference).&#x20;
+In order to facilitate iOS testing, you will need to follow the instructions on the [Publish](publish-to-app-store-ios/) page to use [TestFlight](publish-to-app-store-ios/testflight.md).&#x20;
 
 ## General Download Limits
 
@@ -45,40 +45,6 @@ Anyone installing your app directly, instead of from the Play Store, will need t
 {% endhint %}
 
 ![](.gitbook/assets/download-fig-4.png)
-
-## Download and install iOS app
-
-### Download iOS app
-
-To download your iOS app, click on the Download icon and select **Download iOS**&#x20;
-
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.12.23-am.png)
-
-* Enter your email address in the pop-up window
-
-![](.gitbook/assets/screen-shot-2021-02-22-at-8.29.23-am.png)
-
-You will be sent an email with a link to download your app.
-
-### Click on the download link in your email
-
-{% hint style="info" %}
-The link to download the app is only intended for your own use and will expire after 24 hours
-{% endhint %}
-
-![](.gitbook/assets/thunkable-documentation-exhibits-86.png)
-
-### Install iOS App
-
-You will need to trust Thunkable on your iOS device before installing your iOS apps that you have downloaded from Thunkable. You only need to do this once.
-
-To trust Thunkable on your device, you will need to open **Settings** > **General** > **Device Management** and click the button to **Trust "Thunkable, Inc."**&#x20;
-
-{% hint style="info" %}
-Anyone installing your app directly to iOS, instead of from the App Store or TestFlight, will need to trust Thunkable on their iOS device
-{% endhint %}
-
-![](.gitbook/assets/assets\_-lan5scxl2uqujuoqkjo\_-lan5weceranwag7ig2g\_-lan671msr8pjsfhbvj7\_download-fig-3.png)
 
 ### Troubleshooting
 
