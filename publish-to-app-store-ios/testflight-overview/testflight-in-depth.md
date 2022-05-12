@@ -1,7 +1,7 @@
-# TestFlight
+# TestFlight in Depth
 
 \
-![](../.gitbook/assets/testflight-128x128\_27.png)
+![](../../.gitbook/assets/testflight-128x128\_27.png)
 
 ## Testing Apps with TestFlight
 
