@@ -16,6 +16,10 @@ This refers to being able to download an app directly to your phone as opposed t
 
 Due to special circumstances from Apple, there is a limit of one downloaded app per phone on iOS. Download wait times may also be a bit longer. You can download and install as many apps as you like to your Android device.
 
+## How can I download iOS apps for testing?&#x20;
+
+In order to facilitate iOS testing, you will need to follow the instructions on the [Publish](publish-to-app-store-ios.md) page to use [TestFlight](broken-reference).&#x20;
+
 ## General Download Limits
 
 Users should be aware of the total number of downloads they are allowed per month. If you reach you total allowed downloads, you will not be allowed to download again until your next billing cycle begins.&#x20;
