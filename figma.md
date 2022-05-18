@@ -13,7 +13,7 @@ You will be asked to Authenticate with your Figma account. You will only need to
 Paste in the URL of your Figma Project and select a Page in the dropdown menu.&#x20;
 
 {% hint style="info" %}
-At the moment, we are only supporting imports for mobile designs at 375x669 px in portrait mode.&#x20;
+At the moment, we are only supporting imports for mobile designs at 375x667 px in portrait mode.&#x20;
 {% endhint %}
 
 The Figma importer will add all Artboards in a single page, so we recommend creating a designated Page in Figma with the Artboards you intend on importing. &#x20;
