@@ -6,6 +6,26 @@ description: The platform where anyone can build their own mobile apps.
 
 Welcome to Thunkable! We're excited to help you begin your app building journey.
 
+## Drag and Drop or Snap to Place?
+
+[If your Thunkable project looks like this:](https://docs.thunkable.com/v/drag-and-drop/)
+
+![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.32.55 PM.png>)
+
+You are using the [Drag and Drop UI.](https://docs.thunkable.com/v/drag-and-drop/)
+
+[Click here to go to the Thunkable Drag and Drop Docs.](https://docs.thunkable.com/v/drag-and-drop/)
+
+
+
+If your Thunkable project looks like this:
+
+![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.34.27 PM.png>)
+
+You are using the Snap to Place UI. Keep reading! You're in the right place.
+
+
+
 On Thunkable, anyone can easily design beautiful apps, program powerful functionality with drag & drop blocks, and upload apps to the [Google Play Store](publish-to-play-store-android.md) and [Apple's App Store](publish-to-app-store-ios/).
 
 You can also build [web apps](https://docs.thunkable.com/publish-as-a-web-app-pro), which are apps that you don't need to download and can be directly accessed online.&#x20;

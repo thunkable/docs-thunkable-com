@@ -226,7 +226,7 @@ If you are not seeing ads appear in your app, it may be due to the following rea
 * You have entered the App ID or the Publisher ID instead of the Ad Unit ID which begins with `ca-app-pub-xxx`
 * Please check the mobile device internet connectivity or disable ad blockers on the mobile device
 * Your setup is correct. The issue is that AdMob does not always have an ad to return for every request. This may happen particularly if you have just registered your AdMob publisher ID, as it takes some time and multiple requests before the new ID starts returning ads
-* [Check the community forum for other potential errors](https://community.thunkable.com)
+* [Check the community forum for other potential errors](https://community.thunkable.com/)
 
 ****
 

@@ -10,7 +10,7 @@ No set up is required but creating your free Cloudinary account is highly recomm
 
 No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
 
-### Create a [free Cloudinary](https://cloudinary.com) account
+### Create a [free Cloudinary](https://cloudinary.com/) account
 
 ![](<.gitbook/assets/Screen Shot 2022-02-16 at 9.44.19 AM.png>)
 

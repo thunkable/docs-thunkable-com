@@ -320,7 +320,7 @@ If you don’t accept your email invitation, the beta app will not be installed 
 
 When you test beta apps or beta App Clips with TestFlight, Apple will collect and send crash logs, your personal information such as name and email address, usage information, and any feedback you submit to the developer. Information that is emailed to the developer directly is not shared with Apple. The developer is permitted to use this information only to improve their app and is not permitted to share it with a third party. Apple may use this information to improve the TestFlight app.
 
-Apple retains TestFlight data for one year. To view and manage your data with Apple, including your data that is sent to Apple through TestFlight, visit [Data and Privacy](https://privacy.apple.com). For more information about how the developer handles your data, consult their privacy policy. To request access to or deletion of your TestFlight data, contact the developer directly.
+Apple retains TestFlight data for one year. To view and manage your data with Apple, including your data that is sent to Apple through TestFlight, visit [Data and Privacy](https://privacy.apple.com/). For more information about how the developer handles your data, consult their privacy policy. To request access to or deletion of your TestFlight data, contact the developer directly.
 
 ### Information shared by using TestFlight <a href="#information-shared-feedback" id="information-shared-feedback"></a>
 

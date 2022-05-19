@@ -564,7 +564,7 @@ Platform Updates
 Platform updates
 
 * Improved performance of Thunkable Live app for iOS
-* Introduced [status page](https://status.thunkable.com) for Thunkable
+* Introduced [status page](https://status.thunkable.com/) for Thunkable
 
 ## Feb 15, 2021
 

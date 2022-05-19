@@ -10,7 +10,7 @@ The available font choices differ depending on whether you are developing for [A
 
 ### Android Fonts
 
-You can view these fonts [here](https://fonts.google.com).
+You can view these fonts [here](https://fonts.google.com/).
 
 | Font Name            |
 | -------------------- |
@@ -27,7 +27,7 @@ You can view these fonts [here](https://fonts.google.com).
 
 ### iOS Fonts
 
-You can view these fonts [here](http://iosfonts.com).
+You can view these fonts [here](http://iosfonts.com/).
 
 | Academy Engraved LET                 |
 | ------------------------------------ |

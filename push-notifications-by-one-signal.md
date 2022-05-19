@@ -32,7 +32,7 @@ You can toggle whether you request geolocation permissions from your end users i
 
 One Signal is a free service that supports unlimited devices and notifications. You can learn more about their features on the OneSignal [pricing page](https://onesignal.com/pricing)
 
-* Go to [One Signal](https://onesignal.com) and sign up for an account
+* Go to [One Signal](https://onesignal.com/) and sign up for an account
 
 ![](<.gitbook/assets/image (80).png>)
 
@@ -68,7 +68,7 @@ After you have added an app and given it a name, select the Google Android optio
 
 ### 2. Configure Your Platform
 
-For this next step, you will need a [Firebase](https://firebase.google.com) account.&#x20;
+For this next step, you will need a [Firebase](https://firebase.google.com/) account.&#x20;
 
 For instructions on how to set up a Firebase account, please click [here](https://docs.thunkable.com/realtime-db#set-up-your-own-firebase-account).
 
