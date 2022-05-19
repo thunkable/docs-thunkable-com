@@ -10,7 +10,7 @@ Welcome to Thunkable! We're excited to help you begin your app building journey.
 
 [If your Thunkable project looks like this:](https://docs.thunkable.com/v/drag-and-drop/)
 
-![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.32.55 PM.png>)
+![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.36.15 PM.png>)
 
 You are using the [Drag and Drop UI.](https://docs.thunkable.com/v/drag-and-drop/)
 
@@ -20,7 +20,7 @@ You are using the [Drag and Drop UI.](https://docs.thunkable.com/v/drag-and-drop
 
 If your Thunkable project looks like this:
 
-![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.34.27 PM.png>)
+![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.36.55 PM.png>)
 
 You are using the Snap to Place UI. Keep reading! You're in the right place.
 
