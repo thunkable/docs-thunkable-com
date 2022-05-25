@@ -8,13 +8,13 @@ Welcome to Thunkable! We're excited to help you begin your app building journey.
 
 ## Drag and Drop or Snap to Place?
 
-[If your Thunkable project looks like this:](https://docs.thunkable.com/v/drag-and-drop/)
+[If your Thunkable project looks like this:](http://docs.thunkable.com/v/drag-and-drop/?utm\_source=StP+docs+homepage\&utm\_medium=If+your+project\&utm\_campaign=Redirect+StP+to+DnD+docs+homepage)
 
 ![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.36.15 PM.png>)
 
-You are using the [Drag and Drop UI.](https://docs.thunkable.com/v/drag-and-drop/)
+You are using the [Drag and Drop UI.](http://docs.thunkable.com/v/drag-and-drop/?utm\_source=StP+docs+homepage\&utm\_medium=Drag+and+Drop+UI\&utm\_campaign=Redirect+StP+to+DnD+docs+homepage)
 
-[Click here to go to the Thunkable Drag and Drop Docs.](https://docs.thunkable.com/v/drag-and-drop/)
+[Click here to go to the Thunkable Drag and Drop Docs.](http://docs.thunkable.com/v/drag-and-drop/?utm\_source=StP+docs+homepage\&utm\_medium=Click+here\&utm\_campaign=Redirect+StP+to+DnD+docs+homepage)
 
 
 
