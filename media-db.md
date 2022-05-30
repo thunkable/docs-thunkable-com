@@ -2,8 +2,10 @@
 
 ## Media DB Overview
 
-{% hint style="info" %}
-No set up is required but creating your free Cloudinary account is highly recommended
+Cloudinary Media DB is a service that allows you to store media files in the cloud. Thunkable's Media DB component allows you to send media directly from your Thunkable app to a linked Cloudinary account.
+
+{% hint style="warning" %}
+If you use Thunkable's default Cloudinary DB, your files will be deleted after 90 days. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
 {% endhint %}
 
 ## Getting Started
