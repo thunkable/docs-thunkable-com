@@ -49,10 +49,10 @@ Your end users may experience lags or delays if the size of the file the try to 
 
 ## Upload file to the cloud
 
-This block will upload a file to Cloudinary and return a URL of the newly uploaded file.
+Cloudinary Media DB is a service that allows you to store media files in the cloud. Thunkable's `upload file` block allows you to send media directly from your Thunkable app to a linked Cloudinary account.
 
 {% hint style="warning" %}
-If you use Thunkable's default Cloudinary DB, your media will be deleted after 90 days. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
+If you use Thunkable's default Cloudinary DB, your files will be deleted after 90 days. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
 {% endhint %}
 
 #### Advanced block
