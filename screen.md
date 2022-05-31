@@ -8,6 +8,10 @@ description: >-
 
 ## Adding a Screen to your Project
 
+{% hint style="warning" %}
+This feature is available to users with a Team level subscription only at this time.&#x20;
+{% endhint %}
+
 There are two ways to add a new screen to your app:
 
 Click the + icon next to your Screen names in the Screens bar.
