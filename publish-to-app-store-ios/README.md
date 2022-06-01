@@ -252,6 +252,14 @@ In the next tab, you will be prompted for your **App Name, Team ID and Bundle ID
 
 ### Create a Distribution Certificate
 
+{% hint style="warning" %}
+This step should only need to occur once. Although you need _a different provisioning file for each project_, _**your Account Certificate should remain the same between any projects published with Thunkable.**_ \
+\
+Once you issue a new certificate, that will be good for a period of 1 year from the date of creation. You should be able to publish as many apps as you want with that _**1 distribution certificate for you (the publisher)**_ and _**1 provisioning file per app (per published Thunkable project)**_\
+\
+A certificate is specific to the email account that was used to create the certificate. I.E. If you are helping another Thunker publish their app, you would need to log in and publish from that users account using their certificate.&#x20;
+{% endhint %}
+
 Two-factor authentication helps to keep your account secure and Apple has made it mandatory for new developers to turn two-factor authentication on. If you do have 2FA turned on, you'll need to complete the following steps to confirm your identity with Apple.
 
 #### Thunkable
