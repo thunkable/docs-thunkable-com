@@ -270,6 +270,14 @@ Two-factor authentication helps to keep your account secure and Apple has made i
 
 In the publishing dialog, click the link that says **Click to Download CSR.** This is your Certificate Signing Request file and you will need it to generate an iOS Distribution Certificate.&#x20;
 
+{% hint style="warning" %}
+This step should only need to occur once. Although you need _a different provisioning file for each project_, _**your Account Certificate should remain the same between any projects published with Thunkable.**_ \
+\
+Once you issue a new certificate, that will be good for a period of 1 year from the date of creation. You should be able to publish as many apps as you want with that _**1 distribution certificate for you (the publisher)**_ and _**1 provisioning file per app (per published Thunkable project)**_\
+\
+A certificate is specific to the email account that was used to create the certificate. I.E. If you are helping another Thunker publish their app, you would need to log in and publish from that users account using their certificate.&#x20;
+{% endhint %}
+
 
 
 ![](../.gitbook/assets/download\_csr.png)
@@ -427,7 +435,7 @@ You will see the app listing homepage. This page contains the tabs **App Store,*
 
 ![](../.gitbook/assets/app\_listing1.png)
 
-If your build is submitted successfully, it should appear under the TestFlight tab in this app listing homepage. [TestFlight](https://testflight.apple.com) is a tool from Apple that allows you to test your app before it is submitted for release in the App Store.
+If your build is submitted successfully, it should appear under the TestFlight tab in this app listing homepage. [TestFlight](https://testflight.apple.com/) is a tool from Apple that allows you to test your app before it is submitted for release in the App Store.
 
 ![](../.gitbook/assets/test\_flight.png)
 
@@ -457,7 +465,7 @@ Set a price point for your app. Apps can also be distributed for free.
 
 The final section requires screenshots for both iPhone and iPad and a high resolution icon.
 
-The high resolution icon will be featured in the App Store listing and must be 1024 x 1024 px with no transparency. To generate this icon, we recommend a tool [like this](https://makeappicon.com).
+The high resolution icon will be featured in the App Store listing and must be 1024 x 1024 px with no transparency. To generate this icon, we recommend a tool [like this](https://makeappicon.com/).
 
 You can see the screenshots you need in Apple's [screenshot specifications document](https://help.apple.com/app-store-connect/#/devd274dd925).
 
