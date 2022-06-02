@@ -12,7 +12,7 @@ You can watch a video to learn about all of the Sign In blocks here:
 
 ## Getting Started
 
-### Create your free [Firebase](https://firebase.google.com) account and create a new project
+### Create your free [Firebase](https://firebase.google.com/) account and create a new project
 
 ![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.19.36 PM.png>)
 

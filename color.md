@@ -30,7 +30,7 @@ You can use this block to set a color with [HSV (Hue saturation, value)](https:/
 
 ## Set Hex Color
 
-You can use a [Text](text.md) block to include a [hex value](https://htmlcolorcodes.com) for your preferred color:
+You can use a [Text](text.md) block to include a [hex value](https://htmlcolorcodes.com/) for your preferred color:
 
 ![](.gitbook/assets/screen-shot-2021-07-22-at-9.05.35-am.png)
 

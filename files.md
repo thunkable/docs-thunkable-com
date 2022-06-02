@@ -6,21 +6,21 @@ For each block in this drawer, you can right-click the block and select **Show a
 
 ![](<.gitbook/assets/image from photo library.png>)
 
-## Image from Photo Library
+## Image/Video from Photo Library
 
-This block will open the user's photo library and allow the user to select a photo. The photo can then be used in the app.
+This block will open the user's photo library and allow the user to select a photo or video. The file can then be used in the app.
 
-![](<.gitbook/assets/image (141).png>)
+![](<.gitbook/assets/photo video from lib.png>)
 
 #### Advanced Block
 
-![](<.gitbook/assets/image (132).png>)
+![](.gitbook/assets/pvfladv.png)
 
-| Output        | Data Type  | Function                                             |
-| ------------- | ---------- | ---------------------------------------------------- |
-| photo         | image      | if a photo was taken, returns the photo              |
-| was cancelled | true/false | returns whether the user cancelled selecting a photo |
-| error         | text       | if there was an error, returns the error             |
+| Output         | Data Type   | Function                                            |
+| -------------- | ----------- | --------------------------------------------------- |
+| photo or video | image/video | if a file was selected, returns the file            |
+| was cancelled  | true/false  | returns whether the user cancelled selecting a file |
+| error          | text        | if there was an error, returns the error            |
 
 ## File from Device
 

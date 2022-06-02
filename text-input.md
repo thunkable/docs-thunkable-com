@@ -23,25 +23,25 @@ description: >-
 
 ### Advanced Properties
 
-| Property                                 | Description                                                                            | Data Type                                                                  |
-| ---------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Color                                    | Color of Text Input's Text                                                             | Color                                                                      |
-| Background Color                         | Color of Text Input's background                                                       | Color                                                                      |
-| Hint Text Color                          | Color of Text Input's hint                                                             | Color                                                                      |
-| Font Family                              | Name of Font Family (options can be found at [Google Fonts](https://fonts.google.com)) | Text                                                                       |
-| Font Style (Web Only)                    | Select whether font is shown in _italics_                                              | Select from list `[normal, italic]`                                        |
-| Font Size                                | Height of Text in pixels                                                               | Number                                                                     |
-| Letter Spacing                           | Spacing between letters in pixels                                                      | Number                                                                     |
-| Text Decoration Line (Web only)          | Set whether text has ~~strikethrough~~ or underline                                    | Select from list `[none, underline, line-through, underline line-through]` |
-| Text Decoration Style (Web only)         | Set style of Text Decoration Line                                                      | Select from list `[solid, dotted, double, dashed]`                         |
-| Text Decoration Color (iOS and Web only) | Set color of Text Decoration Line                                                      | Color                                                                      |
-| Writing Direction (iOS and Web only)     | Set whether text should be written left-to-right or right-to-left                      | Select from list `[auto, ltr, rtl]`                                        |
-| Editable                                 | Toggle whether your end user can edit the text                                         | True/False                                                                 |
-| Multiline                                | Toggle whether your end user can enter multiple lines of text                          | True/False                                                                 |
-| Auto Focus                               | Toggle whether Text Input is automatically in focus when the Screen opens              | True/False                                                                 |
-| Max Length (Android and iOS only)        | Set maximum number of lines of text your end user can enter                            | Number                                                                     |
-| Clear Button Mode (iOS only)             | Toggle when your iOS end users have the option to clear the Text Input's text          | Select from list `[never, while-editing, unless-editing, always]`          |
-| Selection Color (Android and iOS only)   | Set color to use to highlight text when your end user selects text                     | Color                                                                      |
+| Property                                 | Description                                                                             | Data Type                                                                  |
+| ---------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Color                                    | Color of Text Input's Text                                                              | Color                                                                      |
+| Background Color                         | Color of Text Input's background                                                        | Color                                                                      |
+| Hint Text Color                          | Color of Text Input's hint                                                              | Color                                                                      |
+| Font Family                              | Name of Font Family (options can be found at [Google Fonts](https://fonts.google.com/)) | Text                                                                       |
+| Font Style (Web Only)                    | Select whether font is shown in _italics_                                               | Select from list `[normal, italic]`                                        |
+| Font Size                                | Height of Text in pixels                                                                | Number                                                                     |
+| Letter Spacing                           | Spacing between letters in pixels                                                       | Number                                                                     |
+| Text Decoration Line (Web only)          | Set whether text has ~~strikethrough~~ or underline                                     | Select from list `[none, underline, line-through, underline line-through]` |
+| Text Decoration Style (Web only)         | Set style of Text Decoration Line                                                       | Select from list `[solid, dotted, double, dashed]`                         |
+| Text Decoration Color (iOS and Web only) | Set color of Text Decoration Line                                                       | Color                                                                      |
+| Writing Direction (iOS and Web only)     | Set whether text should be written left-to-right or right-to-left                       | Select from list `[auto, ltr, rtl]`                                        |
+| Editable                                 | Toggle whether your end user can edit the text                                          | True/False                                                                 |
+| Multiline                                | Toggle whether your end user can enter multiple lines of text                           | True/False                                                                 |
+| Auto Focus                               | Toggle whether Text Input is automatically in focus when the Screen opens               | True/False                                                                 |
+| Max Length (Android and iOS only)        | Set maximum number of lines of text your end user can enter                             | Number                                                                     |
+| Clear Button Mode (iOS only)             | Toggle when your iOS end users have the option to clear the Text Input's text           | Select from list `[never, while-editing, unless-editing, always]`          |
+| Selection Color (Android and iOS only)   | Set color to use to highlight text when your end user selects text                      | Color                                                                      |
 
 ### Layout
 

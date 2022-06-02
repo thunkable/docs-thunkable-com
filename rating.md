@@ -25,7 +25,7 @@ There are two ways to set an Image for your Rating component:
 
 #### Select from Menu
 
-Thunkable provides a menu of pre-set icons from Expo that you can choose from. [Preview these icons here.](https://icons.expo.fyi)
+Thunkable provides a menu of pre-set icons from Expo that you can choose from. [Preview these icons here.](https://icons.expo.fyi/)
 
 #### Custom Image
 
@@ -96,7 +96,7 @@ Get or change the size of the margin between the icons of the Rating component.
 
 #### Icon
 
-You can select an image from the list available. All of the image options are suitable for any platform. You can preview the image options [here](https://icons.expo.fyi).
+You can select an image from the list available. All of the image options are suitable for any platform. You can preview the image options [here](https://icons.expo.fyi/).
 
 You can upload your own images to be displayed for filled and empty icons.
 

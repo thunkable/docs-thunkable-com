@@ -109,7 +109,7 @@ You can create dynamically named app, stored or cloud variables.
 
 ## Connecting a Firebase Realtime DB to your App
 
-### Create your free [Firebase](https://firebase.google.com) project and account
+### Create your free [Firebase](https://firebase.google.com/) project and account
 
 Thunkable provides a default Firebase account for testing purposes. When your app is ready to be distributed, we strongly advise connecting your app to your personal Firebase instance.
 

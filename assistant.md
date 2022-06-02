@@ -4,7 +4,7 @@ The Assistant component by Google's Dialogflow gives you the power of a Google H
 
 ## Getting Started
 
-### **Create a** [**free Dialogflow**](https://dialogflow.com) **account**
+### **Create a** [**free Dialogflow**](https://dialogflow.com/) **account**
 
 ![](.gitbook/assets/assistant-dialogflow-fig-1.png)
 
