@@ -20,12 +20,13 @@ This makes it easier to design complex layouts.
 
 ### Layout
 
-| Property | Description                                    | Data Type |
-| -------- | ---------------------------------------------- | --------- |
-| Height   | Height of Group in pixels                      | Number    |
-| Width    | Width of Group in pixels                       | Number    |
-| X        | Position of top left corner of Group on X-axis | Number    |
-| Y        | Position of top left corner of Group on Y-axis | Number    |
+| Property | Description                                                                                                                                                   | Data Type                                                   |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Position | Set whether the Group is positioned relative to the Screen (Group moves as end user scrolls) or relative to Device (Group stays in place as end user scrolls) | Select from menu: \[Relative to Screen, Relative to Device] |
+| Height   | Height of Group in pixels                                                                                                                                     | Number                                                      |
+| Width    | Width of Group in pixels                                                                                                                                      | Number                                                      |
+| X        | Position of top left corner of Group on X-axis                                                                                                                | Number                                                      |
+| Y        | Position of top left corner of Group on Y-axis                                                                                                                | Number                                                      |
 
 ### Image
 
