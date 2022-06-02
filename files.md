@@ -4,7 +4,7 @@
 
 For each block in this drawer, you can right-click the block and select **Show advanced block** to see an expanded block with additional outputs. Both the simple and advanced blocks will be explained in this document.
 
-![](<.gitbook/assets/image from photo library.png>)
+![](.gitbook/assets/phsav.png)
 
 ## Image/Video from Photo Library
 
