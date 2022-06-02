@@ -1,5 +1,17 @@
 # 📰 Release Notes
 
+## May 13, 2022
+
+Updates
+
+* [Groups](https://docs.thunkable.com/v/drag-and-drop/group): Allow custom touch opacity
+
+## May 6, 2022
+
+Updates
+
+* [Bluetooth Low Energy](https://docs.thunkable.com/v/drag-and-drop/bluetooth-low-energy): Fix ReceiveByteArray block
+
 ## May 2, 2022
 
 New Components
