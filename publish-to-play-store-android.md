@@ -4,11 +4,11 @@ description: How to publish your Thunkable project in the Google Play Store
 
 # Publish to Play Store (Android) with AAB
 
-{% hint style="info" %}
-Publishing your app is available to PRO, Business and Enterprise Thunkable creators. Learn more at [our pricing page](https://thunkable.com/#/pricing).
+{% hint style="warning" %}
+From July 20, 2022 you must now [review how your app collects and shares user data](https://developer.android.com/guide/topics/data/collect-share) before publishing or updating in the Play Store.
 {% endhint %}
 
-Publishing your app to the Play Store will help your app reach 2 billion active Android devices.
+Publishing your app to the Play Store will help your app reach 2 billion active Android devices. The ability to publish an Android app is available to PRO, Business and Enterprise Thunkable creators. Learn more at [our pricing page](https://thunkable.com/#/pricing).
 
 ## Minimum requirements
 
