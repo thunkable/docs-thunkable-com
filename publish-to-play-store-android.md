@@ -207,9 +207,13 @@ To export a keystore from a Thunkable project:
 
 ![](.gitbook/assets/screen-shot-2021-06-04-at-2.45.27-pm.png)
 
+#### Alias and Password
+
 In the dialog that comes up, you will see the keystore's password and a button that says Export Keystore. You will need this password to import your keystore to other projects. You can change the password at this stage by editing the password in the text box.
 
 ![](.gitbook/assets/screen-shot-2021-06-04-at-2.47.12-pm.png)
+
+The keystore alias will be **androidkey**
 
 Click OK to save the .keystore file to your computer.
 
