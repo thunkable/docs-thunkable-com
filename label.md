@@ -61,7 +61,7 @@ You can customize your label using the following properties:
 
 This event will fire when the user clicks on the label.
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MA5guzt3PT-bmFFNgtV%2F-MA5jXwBVyl0JQnJHoAV%2Fla\_click.png?alt=media\&token=9b19a208-53ce-4079-a5c5-b9a51416e0c5)
+![](.gitbook/assets/la\_click.png)
 
 ## Properties <a href="#properties" id="properties"></a>
 
@@ -69,29 +69,29 @@ The get and set background color properties work with the color of the label its
 
 ### Background Color <a href="#background-color" id="background-color"></a>
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYr8wphqyxcktI3LSs%2Fbg\_color.png?alt=media\&token=0c34d28a-233f-4faf-8e14-1bf1937903b2)
+![](.gitbook/assets/la\_bg\_color.png)
 
 ### Color <a href="#color" id="color"></a>
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrBE16\_5JDdFbvj6X%2Fcolor.png?alt=media\&token=79be07c2-c61d-43ff-bc6f-e36b157dc3ca)
+![](.gitbook/assets/la\_color.png)
 
 ### Font Size <a href="#font-size" id="font-size"></a>
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrEmf7fV\_kmMU-hZi%2Ffont\_size.png?alt=media\&token=7ca9c0cd-c915-4e90-8b63-35de1011e512)
+![](.gitbook/assets/la\_font\_size.png)
 
 ### Font Style <a href="#font-style" id="font-style"></a>
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrI1eHAHeohhzDJ77%2Ffont\_style.png?alt=media\&token=97760c0e-3dfd-47f9-a699-e9bfd435c251)
+![](.gitbook/assets/la\_font\_style.png)
 
 ### Font Weight <a href="#font-weight" id="font-weight"></a>
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrKDrUoRzlych2ekH%2Ffont\_weight.png?alt=media\&token=a2c0787d-ee53-4c3f-8a5f-b60300968e4c)
+![](.gitbook/assets/la\_font\_weight.png)
 
 ### Height <a href="#height" id="height"></a>
 
 The set and get height blocks work with the Height property of the label component. Acceptable input values are:
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrMmKFgwAnBjxmaiF%2Fheight.png?alt=media\&token=d893f675-821e-4770-b4b6-cad8f7814311)
+![](.gitbook/assets/la\_height.png)
 
 * Number of Pixels
 * Percentage Height
@@ -102,19 +102,19 @@ The set and get height blocks work with the Height property of the label compone
 
 The get and set number of lines property is used to work with the maximum number of lines of text that should be displayed in a label before that label starts to scroll.
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrPOmCs6UlKCEC8ES%2Fnum\_lines.png?alt=media\&token=8fbcc095-5ec2-4189-a85c-0a957592384d)
+![](.gitbook/assets/la\_num\_lines.png)
 
 ### Text <a href="#text" id="text"></a>
 
 This property corresponds to the text that is displayed in the label component.
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrRzONlpk0GaUmPmy%2Ftext.png?alt=media\&token=c7f514b6-b342-44b4-9b5f-9c4826ccc483)
+![](.gitbook/assets/la\_text.png)
 
 ### Text Align <a href="#text-align" id="text-align"></a>
 
 Text Align can be any of the following values:
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrTtYaUaIyX321lJC%2Ftext\_align.png?alt=media\&token=6c5d7b68-336f-4e0c-8a51-4cb24ae77012)
+![](.gitbook/assets/la\_text\_align.png)
 
 * Auto
 * Left
@@ -124,7 +124,7 @@ Text Align can be any of the following values:
 
 ### Visible <a href="#visible" id="visible"></a>
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYr390JU0vOfN\_ODXd%2F-MWYrWC11aSImy7ieRQB%2Fvisible.png?alt=media\&token=99d0c092-43e8-4b21-977f-63be22157d4e)
+![](.gitbook/assets/la\_visible.png)
 
 * True
 * False
@@ -133,7 +133,7 @@ Text Align can be any of the following values:
 
 The set and get width blocks work with the Width property of the label component.
 
-![](https://docs.thunkable.com/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-MWYsAlosgFhvUhh0x6j%2F-MWYxsqSYJdVVHiqoIHb%2Fwidth.png?alt=media\&token=b2e7105e-8ff5-4963-a59c-22435376e96d)
+![](.gitbook/assets/la\_widrth.png)
 
 * Number of Pixels
 * Percentage Width
