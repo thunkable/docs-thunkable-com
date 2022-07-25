@@ -1,4 +1,4 @@
-# TestFlight
+# TestFlight in Depth
 
 ![](https://2208788433-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LAn5scXl2uqUJUOqkJo-1024951234%2Fuploads%2FKs2WsSBJ3KcCP8HwOkXM%2Ftestflight-128x128\_27.png?alt=media\&token=04edad3c-855e-4d1e-b20c-cce9bc235bd4)​
 
@@ -110,11 +110,25 @@ Once you have builds available to test, and you've added them to a group, you ca
 2. 2.Click the TestFlight tab.
 3. 3.In the sidebar, under Testers & Groups, select a group.You can Invite testers using a public link, email, or both.
 
-**To invite testers using a public link:**1. Click Enable Public Link, and confirm in the dialog that appears.​![](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/TestFlight\_add\_external\_tester\_public\_link.png)​2. Under Tester Count, click Set Limit to limit the number of testers that can join this testing group using the public link. Enter a number between 1 and 10,000.​![](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/TestFlight\_set\_tester\_limit.png)​3. Copy the link, and share it using social media, messages, email, or other channel.Keep in mind that anyone can share this link, so testers may be able to join your testing group even if you don't invite them directly. If a tester joins your group using a public link, their name and email will not be displayed in the Testers section in App Store Connect (it will display as anonymous), but you will be able to see their installation date, sessions, and crashes. You can disable the public link at any time.
+**To invite testers using a public link:**
+
+1\. Click Enable Public Link, and confirm in the dialog that appears.
+
+​​2. Under Tester Count, click Set Limit to limit the number of testers that can join this testing group using the public link. Enter a number between 1 and 10,000.​
+
+![](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/TestFlight\_set\_tester\_limit.png)
+
+​3. Copy the link, and share it using social media, messages, email, or other channel.Keep in mind that anyone can share this link, so testers may be able to join your testing group even if you don't invite them directly. If a tester joins your group using a public link, their name and email will not be displayed in the Testers section in App Store Connect (it will display as anonymous), but you will be able to see their installation date, sessions, and crashes. You can disable the public link at any time.
+
+![](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/TestFlight\_add\_external\_tester\_public\_link.png)
 
 ### **To invite testers using their email address:** <a href="#to-invite-testers-using-their-email-address" id="to-invite-testers-using-their-email-address"></a>
 
-1\. Click the Add button (+) next to Testers.​![](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/TestFlight\_add\_external\_tester\_email.png)​2. In the pop-up menu that appears, choose an option. You can add new testers using their emails address, existing testers you've previously added, or import testers from a CSV file.3. Testers you invite will get an invitation email to start testing. If a tester accepts an email invitation, their name, email address, installation date, sessions, and crashes, will display in the Testers section in App Store Connect.
+1\. Click the Add button (+) next to Testers.
+
+![](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/TestFlight\_add\_external\_tester\_email.png)
+
+2\. In the pop-up menu that appears, choose an option. You can add new testers using their emails address, existing testers you've previously added, or import testers from a CSV file.3. Testers you invite will get an invitation email to start testing. If a tester accepts an email invitation, their name, email address, installation date, sessions, and crashes, will display in the Testers section in App Store Connect.
 
 ### Notify external testers after your build is approved <a href="#notify-external-testers-after-your-build-is-approved" id="notify-external-testers-after-your-build-is-approved"></a>
 
