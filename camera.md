@@ -112,3 +112,28 @@ This block will scan a barcode or a QR code and return its value.
 | type          | text       | returns whether bar code or QR code was scanned    |
 | was cancelled | true/false | returns whether the user cancelled scanning a code |
 | error         | text       | if there was an error, returns the error           |
+
+## Base64 Encoding
+
+Provided an image, video or audio file, this block generates a Base64 encoded file. _(Alternate Description: This block receives an image, video or audio file, and returns it Base64 encoded.)_
+
+Projects are restricted to 50MB total asset storage. Individual files using the Base64 block are subject to the same restrictions.  Based on our internal testing, maximum file size for Base64 encoding in web apps and web previewing is 10 MB, 40 MB in iOS and Android platforms.
+
+{% hint style="info" %}
+Keep in mind that while a file is encoding, your Thunkable app will not be able to navigate to other screens or engage in other functionality.  It is best to keep file sizes well below the maximum for best performance.
+{% endhint %}
+
+![](<.gitbook/assets/base64\_block (1).png>)
+
+#### Advanced Block
+
+![](<.gitbook/assets/base64\_advanced\_block (1).png>)
+
+|            Input           | Data Type |         Function        |
+| :------------------------: | :-------: | :---------------------: |
+| Image, Video & Music Files |  Any File | The file to be encoded. |
+
+|    Output    | Data Type |                      Function                     |
+| :----------: | :-------: | :-----------------------------------------------: |
+| Encoded File |    Text   |              The Base64 encoded file.             |
+|     Error    |    Text   | Returns error if thrown.  Else returns undefined. |
