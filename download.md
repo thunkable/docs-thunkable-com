@@ -18,7 +18,7 @@ Due to special circumstances from Apple, there is a limit of one downloaded app 
 
 ## How can I download iOS apps for testing?&#x20;
 
-In order to facilitate iOS testing, you will need to follow the instructions on the [Publish](publish-to-app-store-ios/) page to use [TestFlight](publish-to-app-store-ios/testflight.md).&#x20;
+In order to facilitate iOS testing, you will need to follow the instructions on the [Publish](publish-to-app-store-ios/) page to use [TestFlight](publish-to-app-store-ios/testflight-overview/testflight-in-depth.md).&#x20;
 
 ## General Download Limits
 
