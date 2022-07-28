@@ -39,13 +39,13 @@ Uploading a custom font is available on Thunkable's Business and Enterprise plan
 
 ### Layout
 
-| Property    | Description                                                                      | Data Type                                    |
-| ----------- | -------------------------------------------------------------------------------- | -------------------------------------------- |
-| X           | Position of top left corner of Button on X-axis, where the left hand side is X=0 | Number                                       |
-| Y           | Position of top left corner of Button on Y-axis, where the top hand side is X=0  | Number                                       |
-| Height      | Height of Button in pixels                                                       | Number                                       |
-| Width       | Width of Button in pixels                                                        | Number                                       |
-| Resize Mode |                                                                                  | Select from menu (Stretch or Float in place) |
+| Property    | Description                                                                                                                 | Data Type                                    |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| X           | Position of top left corner of Button on X-axis, where the left hand side is X=0                                            | Number                                       |
+| Y           | Position of top left corner of Button on Y-axis, where the top hand side is X=0                                             | Number                                       |
+| Height      | Height of Button in pixels                                                                                                  | Number                                       |
+| Width       | Width of Button in pixels                                                                                                   | Number                                       |
+| Resize Mode | Stretch the button to fit the device screen or render it the same as the design, regardless of the device (float in place). | Select from menu (Stretch or Float in place) |
 
 ### Style
 
