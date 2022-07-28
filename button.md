@@ -49,18 +49,18 @@ Uploading a custom font is available on Thunkable's Business and Enterprise plan
 
 ### Style
 
-| Property                    | Description                                                              | Data Type                                  |
-| --------------------------- | ------------------------------------------------------------------------ | ------------------------------------------ |
-| Visible                     | Toggle whether your end users can see the Button                         | True/False                                 |
-| Background (Color or Image) | Button's background color or the image displayed on the button           | Color or uploaded image file               |
-| Border Style                | Style of Button's border                                                 | Select from list `[solid, dotted, dashed]` |
-| Border Color                | Color of Button's border                                                 | Color                                      |
-| Border Width                | Width of Button's border in pixels                                       | Number                                     |
-| Border Radius               | Radius of corners of Button's border in pixels                           | Number                                     |
-| Shadow Color                | Color of Button's shadow                                                 | Color                                      |
-| Shadow Opacity              | Opacity of Button's shadow                                               | Number between 0 and 100                   |
-| Shadow Radius               | Radius of corners of Button's shadow in pixels                           | Number                                     |
-| Shadow Offset               | How far Button's shadow should be offset, in Height and Width, in pixels | Number                                     |
+| Property                    | Description                                                           | Data Type                                  |
+| --------------------------- | --------------------------------------------------------------------- | ------------------------------------------ |
+| Visible                     | Toggle whether your end users can see the Button                      | True/False                                 |
+| Background (Color or Image) | Button's background color or the image displayed on the button        | Color or uploaded image file               |
+| Border Style                | Style of Button's border                                              | Select from list `[solid, dotted, dashed]` |
+| Border Color                | Color of Button's border                                              | Color                                      |
+| Border Width                | Width of Button's border in pixels                                    | Number                                     |
+| Border Radius               | Radius of corners of Button's border in pixels                        | Number                                     |
+| Shadow Color                | Color of Button's shadow                                              | Color                                      |
+| Shadow Opacity              | Opacity of Button's shadow                                            | Number between 0 and 100                   |
+| Shadow Radius               | Radius of corners of Button's shadow in pixels                        | Number                                     |
+| Shadow Offset               | How far the Button's shadow is offset, in Height and Width, in pixels | Number                                     |
 
 ## Blocks
 
