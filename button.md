@@ -20,20 +20,17 @@ A button is just something you can click on to perform an action. This action ca
 
 ### Button
 
-| Property                    | Description                                    | Data Type                                                  |
-| --------------------------- | ---------------------------------------------- | ---------------------------------------------------------- |
-| Text                        | Text of the Button                             | Text                                                       |
-| Font                        | Font used to display Button's text             | Select from menu                                           |
-| Custom Font (mobile only)\* | Font used to display Button's text             | Upload TTF or OTF file                                     |
-| Text Color                  | Color of Button's text                         | Color                                                      |
-| Font Size                   | Size of Button's text                          | Number                                                     |
-| Font Bold                   | Toggle whether Button's text is **bold**       | True/False                                                 |
-| Font Italic                 | Toggle whether Button's text is _italic_       | True/False                                                 |
-| Background Color            | Color of Button's background                   | Color                                                      |
-| Background Picture          | Picture to show on Button                      | Upload image file                                          |
-| Resize Mode                 | How Background Picture should be resized       | Select from menu (cover, contain, stretch, repeat, center) |
-| Disabled                    | Toggle whether Button is disabled for end user | True/False                                                 |
-| Raised                      | Toggle whether Button has shadow               | True/False                                                 |
+| Property                    | Description                                    | Data Type              |
+| --------------------------- | ---------------------------------------------- | ---------------------- |
+| Text                        | Text of the Button                             | Text                   |
+| Font                        | Font used to display Button's text             | Select from menu       |
+| Custom Font (mobile only)\* | Font used to display Button's text             | Upload TTF or OTF file |
+| Text Color                  | Color of Button's text                         | Color                  |
+| Font Bold                   | Toggle whether Button's text is **bold**       | True/False             |
+| Font Italic                 | Toggle whether Button's text is _italic_       | True/False             |
+| Raised                      | Toggle whether Button has shadow               | True/False             |
+| Font Size                   | Size of Button's text                          | Number                 |
+| Disabled                    | Toggle whether Button is disabled for end user | True/False             |
 
 {% hint style="info" %}
 Uploading a custom font is available on Thunkable's Business and Enterprise plans.\
@@ -42,26 +39,28 @@ Uploading a custom font is available on Thunkable's Business and Enterprise plan
 
 ### Layout
 
-| Property | Description                                                                      | Data Type  |
-| -------- | -------------------------------------------------------------------------------- | ---------- |
-| X        | Position of top left corner of Button on X-axis, where the left hand side is X=0 | Number     |
-| Y        | Position of top left corner of Button on Y-axis, where the top hand side is X=0  | Number     |
-| Height   | Height of Button in pixels                                                       | Number     |
-| Width    | Width of Button in pixels                                                        | Number     |
-| Visible  | Toggle whether your end users can see the Button                                 | True/False |
+| Property    | Description                                                                      | Data Type                                    |
+| ----------- | -------------------------------------------------------------------------------- | -------------------------------------------- |
+| X           | Position of top left corner of Button on X-axis, where the left hand side is X=0 | Number                                       |
+| Y           | Position of top left corner of Button on Y-axis, where the top hand side is X=0  | Number                                       |
+| Height      | Height of Button in pixels                                                       | Number                                       |
+| Width       | Width of Button in pixels                                                        | Number                                       |
+| Resize Mode |                                                                                  | Select from menu (Stretch or Float in place) |
 
 ### Style
 
-| Property       | Description                                                              | Data Type                                  |
-| -------------- | ------------------------------------------------------------------------ | ------------------------------------------ |
-| Border Width   | Width of Button's border in pixels                                       | Number                                     |
-| Border Radius  | Radius of corners of Button's border in pixels                           | Number                                     |
-| Border Color   | Color of Button's border                                                 | Color                                      |
-| Border Style   | Style of Button's border                                                 | Select from list `[solid, dotted, dashed]` |
-| Shadow Color   | Color of Button's shadow                                                 | Color                                      |
-| Shadow Opacity | Opacity of Button's shadow                                               | Number between 0 and 100                   |
-| Shadow Radius  | Radius of corners of Button's shadow in pixels                           | Number                                     |
-| Shadow Offset  | How far Button's shadow should be offset, in Height and Width, in pixels | Number                                     |
+| Property                    | Description                                                              | Data Type                                  |
+| --------------------------- | ------------------------------------------------------------------------ | ------------------------------------------ |
+| Visible                     | Toggle whether your end users can see the Button                         | True/False                                 |
+| Background (Color or Image) | Button's background color or the image displayed on the button           | Color or uploaded image file               |
+| Border Style                | Style of Button's border                                                 | Select from list `[solid, dotted, dashed]` |
+| Border Color                | Color of Button's border                                                 | Color                                      |
+| Border Width                | Width of Button's border in pixels                                       | Number                                     |
+| Border Radius               | Radius of corners of Button's border in pixels                           | Number                                     |
+| Shadow Color                | Color of Button's shadow                                                 | Color                                      |
+| Shadow Opacity              | Opacity of Button's shadow                                               | Number between 0 and 100                   |
+| Shadow Radius               | Radius of corners of Button's shadow in pixels                           | Number                                     |
+| Shadow Offset               | How far Button's shadow should be offset, in Height and Width, in pixels | Number                                     |
 
 ## Blocks
 
