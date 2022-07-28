@@ -20,8 +20,8 @@ When you first sign in to Thunkable you will be prompted to create a project. To
 [project-settings.md](project-settings.md)
 {% endcontent-ref %}
 
-{% content-ref url="public-gallery.md" %}
-[public-gallery.md](public-gallery.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="assets.md" %}
@@ -34,11 +34,11 @@ When you first sign in to Thunkable you will be prompted to create a project. To
 
 ## Public Projects
 
-Public projects are included in the [Thunkable Public Gallery](public-gallery.md) for anyone to preview, download or remix. If you create a public project, please know that it can be viewed by anyone in the Thunkable community.&#x20;
+Public projects are included in the [Thunkable Public Gallery](broken-reference) for anyone to preview, download or remix. If you create a public project, please know that it can be viewed by anyone in the Thunkable community.&#x20;
 
 ## Private Projects
 
-Private projects are just that, private. They can only be seen by their app creator and do not get included in the [Thunkable Public Gallery.](public-gallery.md) Only Thunkable PRO users can create and share private projects.&#x20;
+Private projects are just that, private. They can only be seen by their app creator and do not get included in the [Thunkable Public Gallery.](broken-reference) Only Thunkable PRO users can create and share private projects.&#x20;
 
 [Learn more about PRO.](https://thunkable.com/#/pricing)
 
