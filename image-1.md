@@ -33,22 +33,23 @@ With the Resize Mode property, you can do the following:
 
 ### Layout
 
-| Property | Description                                                                     | Data Type  |
-| -------- | ------------------------------------------------------------------------------- | ---------- |
-| X        | Position of top left corner of Image on X-axis, where the left hand side is X=0 | Number     |
-| Y        | Position of top left corner of Image on Y-axis, where the top is Y=0            | Number     |
-| Height   | Height of Image in pixels                                                       | Number     |
-| Width    | Width of Image in pixels                                                        | Number     |
-| Visible  | Toggle whether your end users can see the Image                                 | True/False |
+| Property    | Description                                                                     | Data Type                                    |
+| ----------- | ------------------------------------------------------------------------------- | -------------------------------------------- |
+| X           | Position of top left corner of Image on X-axis, where the left hand side is X=0 | Number                                       |
+| Y           | Position of top left corner of Image on Y-axis, where the top is Y=0            | Number                                       |
+| Height      | Height of Image in pixels                                                       | Number                                       |
+| Width       | Width of Image in pixels                                                        | Number                                       |
+| Resize Mode | Define dimensions of the image component/container                              | Select from list `[Stretch, Float in Place]` |
 
 ### Style
 
 | Property       | Description                                                             | Data Type                                  |
 | -------------- | ----------------------------------------------------------------------- | ------------------------------------------ |
+| Visible        | Toggle whether your end users can see the Image                         | True/False                                 |
+| Border Style   | Style of Image's border                                                 | Select from list `[solid, dotted, dashed]` |
+| Border Color   | Color of Image's border                                                 | Color                                      |
 | Border Width   | Width of Image's border in pixels                                       | Number                                     |
 | Border Radius  | Radius of corners of Image's border in pixels                           | Number                                     |
-| Border Color   | Color of Image's border                                                 | Color                                      |
-| Border Style   | Style of Image's border                                                 | Select from list `[solid, dotted, dashed]` |
 | Shadow Color   | Color of Image's shadow                                                 | Color                                      |
 | Shadow Opacity | Opacity of Image's shadow                                               | Number between 0 and 100                   |
 | Shadow Radius  | Radius of corners of Image's shadow in pixels                           | Number                                     |

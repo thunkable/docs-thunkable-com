@@ -10,18 +10,19 @@ You can customize your label using the following properties:&#x20;
 
 ### Label
 
-| Property                    | Description                                                  | Data Type        |
-| --------------------------- | ------------------------------------------------------------ | ---------------- |
-| Text                        | Text that appears on the label                               | Text             |
-| Font                        | Font used to display Label's text                            | Select from menu |
-| Custom Font (mobile only)\* | Font used to display Label's text                            | OTF or TTF file  |
-| Font Size                   | Size of the text that appears on the label                   | Number           |
-| Color                       | Color of the text that appears on the label                  | Color            |
-| Background Color            | Sets the background color of the label                       | Color            |
-| Text Align                  | Set alignment of the text relative to the Label's outline    | Select from menu |
-| Font Style                  | Set whether font should be bolded or italicized              | Select from menu |
-| Font Weight                 | Set thickness of font                                        | Number           |
-| Number Of Lines             | Maximum amount of lines of text that your Label will display | Number           |
+| Property                    | Description                                                                                                      | Data Type        |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------- |
+| Text                        | Text that appears on the label                                                                                   | Text             |
+| Font                        | Font used to display Label's text                                                                                | Select from menu |
+| Custom Font (mobile only)\* | Font used to display Label's text                                                                                | OTF or TTF file  |
+| Color                       | Color of the text that appears on the label                                                                      | Color            |
+| Font Weight                 | Make the label's tex bold                                                                                        | True/False       |
+| Font Style                  | Make the label's text italicized                                                                                 | True/False       |
+| Underline                   | Underline the label's text                                                                                       | True/False       |
+| Strikethrough               | Apply strikethrough formatting to the label's text. You can further select the strikethrough's color and style.  | True/False       |
+| Text Align                  | Set alignment of the text relative to the Label's outline                                                        | Select from menu |
+| Font Size                   | Size of the text that appears on the label                                                                       | Number           |
+| Number Of Lines             | Maximum amount of lines of text that your Label will display                                                     | Number           |
 
 {% hint style="info" %}
 Uploading a custom font is available on Thunkable's Business and Enterprise plans.\
@@ -30,33 +31,35 @@ Uploading a custom font is available on Thunkable's Business and Enterprise plan
 
 ### Advanced Properties
 
-| Property                                 | Description                                            | Data Type                                                            |
-| ---------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------- |
-| Letter Spacing (iOS and web only)        | Spacing between letters of your Label                  | Number                                                               |
-| Text Decoration Line                     | Set whether your text contains line-through, underline | Select from list `[line-through, underline, underline line-through]` |
-| Text Decoration Style (iOS and web only) | Style of Text Decoration line                          | Select from list `[solid, dotted, dashed, double]`                   |
-| Text Decoration Color (iOS and web only) | Color of your Text Decoration Line                     | Color                                                                |
-| Writing Direction (iOS and web only)     | Writing direction of your Label's text                 | Select from list `[left-to-right, right-to-left]`                    |
+| Property                                           | Description                            | Data Type                                         |
+| -------------------------------------------------- | -------------------------------------- | ------------------------------------------------- |
+| <p>Writing Direction </p><p>(iOS and web only)</p> | Writing direction of your Label's text | Select from list `[left-to-right, right-to-left]` |
+| <p>Letter Spacing </p><p>(iOS and web only)</p>    | Spacing between letters of your Label  | Number                                            |
 
 ### **Layout**
 
-| Property | Description                                     | Data Type  |
-| -------- | ----------------------------------------------- | ---------- |
-| X        | Location of your Label on the X-axis in pixels  | Number     |
-| Y        | Location of your Label on the Y-axis in pixels  | Number     |
-| Height   | Height of your Label in pixels                  | Number     |
-| Width    | Width of your Label in pixels                   | Number     |
-| Visible  | Toggle whether your end users can see the Label | True/False |
+| Property    | Description                                                                                                                | Data Type                                  |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| X           | Location of your Label on the X-axis in pixels                                                                             | Number                                     |
+| Y           | Location of your Label on the Y-axis in pixels                                                                             | Number                                     |
+| Height      | Height of your Label in pixels                                                                                             | Number                                     |
+| Width       | Width of your Label in pixels                                                                                              | Number                                     |
+| Resize Mode | Stretch the label to fit the device screen or render it the same as the design, regardless of the device (float in place). | Select from menu (Stretch, Float in Place) |
 
 ### Style
 
-| Property         | Description                       | Data Type                                  |
-| ---------------- | --------------------------------- | ------------------------------------------ |
-| Background Color | Color of your Label's background  | Color                                      |
-| Border Width     | Width of border outline in pixels | Number                                     |
-| Border Radius    | Radius of corners of Label        | Number                                     |
-| Border Color     | Color of the Label's Border       | Color                                      |
-| Border Style     | Style of Label's Border           | Select from list `[solid, dotted, dashed]` |
+| Property         | Description                                                          | Data Type                                  |
+| ---------------- | -------------------------------------------------------------------- | ------------------------------------------ |
+| Visible          | Toggle whether your end users can see the Label                      | True/False                                 |
+| Background Color | Color of your Label's background                                     | Color                                      |
+| Border Style     | Style of Label's Border                                              | Select from list `[solid, dotted, dashed]` |
+| Border Color     | Color of the Label's Border                                          | Color                                      |
+| Border Width     | Width of border outline in pixels                                    | Number                                     |
+| Border Radius    | Radius of corners of Label                                           | Number                                     |
+| Shadow Color     | Color of Label's shadow                                              | Color                                      |
+| Shadow Opacity   | Opacity of Label's shadow                                            | Number between 0 and 100                   |
+| Shadow Radius    | Radius of corners of Label's shadow in pixels                        | Number                                     |
+| Shadow Offset    | How far the Label's shadow is offset, in Height and Width, in pixels | Number                                     |
 
 ## Blocks
 
