@@ -16,7 +16,7 @@ You can customize your label using the following properties:&#x20;
 | Font                        | Font used to display Label's text                                                                                | Select from menu |
 | Custom Font (mobile only)\* | Font used to display Label's text                                                                                | OTF or TTF file  |
 | Color                       | Color of the text that appears on the label                                                                      | Color            |
-| Font Weight                 | Make the label's tex bold                                                                                        | True/False       |
+| Font Weight                 | Make the label's text bold                                                                                       | True/False       |
 | Font Style                  | Make the label's text italicized                                                                                 | True/False       |
 | Underline                   | Underline the label's text                                                                                       | True/False       |
 | Strikethrough               | Apply strikethrough formatting to the label's text. You can further select the strikethrough's color and style.  | True/False       |
