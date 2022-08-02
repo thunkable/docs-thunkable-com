@@ -32,20 +32,20 @@ Please note that the Video component is not recommended for streaming live video
 
 ### Video
 
-| Name  | Description                                                                  | Data Type  |
-| ----- | ---------------------------------------------------------------------------- | ---------- |
-| Video | Name or URL of video as described in [Set Video](video.md#set-video) section | Text       |
-| Play  | Toggle whether or not video file auto-plays when Screen opens                | True/False |
+| Name  | Description                                                   | Data Type                               |
+| ----- | ------------------------------------------------------------- | --------------------------------------- |
+| Video | The video users can play within your app.                     | Uploaded video file or the video's URL. |
+| Play  | Toggle whether or not video file auto-plays when Screen opens | True/False                              |
 
 ### Layout
 
-| Property | Description                                                                               | Data Type  |
-| -------- | ----------------------------------------------------------------------------------------- | ---------- |
-| X        | Location of top left corner of Video component on X-axis, where the left hand side is X=0 | Number     |
-| Y        | Location of top left corner of Video component on Y-axis, where the top side is Y=0       | Number     |
-| Height   | Height of Video component in pixels                                                       | Number     |
-| Width    | Width of Video component in pixels                                                        | Number     |
-| Visible  | Toggle whether your end users can see the Video component                                 | True/False |
+| Property    | Description                                                                               | Data Type                                    |
+| ----------- | ----------------------------------------------------------------------------------------- | -------------------------------------------- |
+| X           | Location of top left corner of Video component on X-axis, where the left hand side is X=0 | Number                                       |
+| Y           | Location of top left corner of Video component on Y-axis, where the top side is Y=0       | Number                                       |
+| Height      | Height of Video component in pixels                                                       | Number                                       |
+| Width       | Width of Video component in pixels                                                        | Number                                       |
+| Resize Mode | Define dimensions of the video component/container                                        | Select from list `[Stretch, Float in Place]` |
 
 ## Blocks
 
