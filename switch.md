@@ -10,23 +10,23 @@ A switch is a component that has two settings, true and false. You can get your 
 
 ### Switch
 
-| Property         | Description                                        | Data Type  |
+| Name             | Description                                        | Data Type  |
 | ---------------- | -------------------------------------------------- | ---------- |
 | Value            | Initial value of Switch                            | True/False |
 | Tint Color       | Color of background when Switch is **false**       | Color      |
 | On Tint Color    | Color of background when Switch is **true**        | Color      |
-| Thumb Tint Color | Color of the Switch's slider                       | Color      |
+| Thumb Tint Color | Color of thumbpad of Switch                        | Color      |
 | Disabled         | Toggle whether value Switch can be changed by user | True/False |
 
 ### Layout
 
-| Property    | Description                                                                      | Data Type                                    |
-| ----------- | -------------------------------------------------------------------------------- | -------------------------------------------- |
-| X           | Location of top left corner of Switch on X-axis, where the left hand side is X=0 | Number                                       |
-| Y           | Location of top left corner of Switch on Y-axis, where the top side is Y=0       | Number                                       |
-| Height      | Height of Switch in pixels                                                       | Number                                       |
-| Width       | Width of Switch in pixels                                                        | Number                                       |
-| Resize Mode | Define dimensions of the Switch's component/container                            | Select from list `[Stretch, Float in Place]` |
+| Property | Description                                                                      | Data Type  |
+| -------- | -------------------------------------------------------------------------------- | ---------- |
+| X        | Location of top left corner of Switch on X-axis, where the left hand side is X=0 | Number     |
+| Y        | Location of top left corner of Switch on Y-axis, where the top side is Y=0       | Number     |
+| Height   | Height of Switch in pixels                                                       | Number     |
+| Width    | Width of Switch in pixels                                                        | Number     |
+| Visible  | Toggle whether your end users can see the Switch                                 | True/False |
 
 ## Blocks <a href="#events" id="events"></a>
 
