@@ -16,22 +16,27 @@ For activities that take more than a few seconds, loading icons can be helpful t
 
 ### Layout
 
-| Property | Description                                                                            | Data Type  |
-| -------- | -------------------------------------------------------------------------------------- | ---------- |
-| X        | Location of top left corner of Loading Icon on X-axis, where the left hand side is X=0 | Number     |
-| Y        | Location of top left corner of Loading Iconon Y-axis, where the top side is Y=0        | Number     |
-| Height   | Height of Loading Icon in pixels                                                       | Number     |
-| Width    | Width of Loading Icon in pixels                                                        | Number     |
-| Visible  | Toggle whether your end users can see the Loading Icon                                 | True/False |
+| Property    | Description                                                                            | Data Type                                    |
+| ----------- | -------------------------------------------------------------------------------------- | -------------------------------------------- |
+| X           | Location of top left corner of Loading Icon on X-axis, where the left hand side is X=0 | Number                                       |
+| Y           | Location of top left corner of Loading Iconon Y-axis, where the top side is Y=0        | Number                                       |
+| Height      | Height of Loading Icon in pixels                                                       | Number                                       |
+| Width       | Width of Loading Icon in pixels                                                        | Number                                       |
+| Resize Mode | Define dimensions of the loading icon component/container                              | Select from list `[Stretch, Float in Place]` |
 
 ### **Style**
 
-| **Property**  | Description                                                                             | Data Type                                  |
-| ------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
-| Border Width  | Width of border around Loading Icon in pixels                                           | Number                                     |
-| Border Radius | Radius of corners of border on Loading Icon in degrees                                  | Number                                     |
-| Border Color  | Color of border (only visible if border width > 0)                                      | Color                                      |
-| Border Style  | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
+| Property       | Description                                                                             | Data Type                                  |
+| -------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Visible        | Toggle whether your end users can see the Loading Icon                                  | True/False                                 |
+| Border Style   | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
+| Border Color   | Color of border (only visible if border width > 0)                                      | Color                                      |
+| Border Width   | Width of border around Loading Icon in pixels                                           | Number                                     |
+| Border Radius  | Radius of corners of border on Loading Icon in degrees                                  | Number                                     |
+| Shadow Color   | Color of loading icon's shadow                                                          | Color                                      |
+| Shadow Opacity | Opacity of loading icon's shadow                                                        | Number between 0 and 100                   |
+| Shadow Radius  | Radius of corners of loading icon's shadow in pixels                                    | Number                                     |
+| Shadow Offset  | How far loading icon's shadow should be offset, in Height and Width, in pixels          | Number                                     |
 
 ## Blocks
 
