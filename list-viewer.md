@@ -16,39 +16,44 @@ You can customize the List Viewer with the following properties:
 
 ### List Viewer
 
-| Property                    | Description                                     | Data Type          |
-| --------------------------- | ----------------------------------------------- | ------------------ |
-| Text Items                  | Set text items of List Viewer                   | List of text items |
-| Text Items Color:           | Set font color of Text Items                    | Color              |
-| Text Items Background Color | Set background color for List Viewer            | Color              |
-| Text Items Font Size        | Set font size of Text Items                     | Number             |
-| Show Arrow                  | Toggle whether arrow is shown beside text items | True/False         |
+| Property                      | Description                                           | Data Type          |
+| ----------------------------- | ----------------------------------------------------- | ------------------ |
+| Text Items                    | Set text items of List Viewer                         | List of text items |
+| Color                         | Set font color of Text Items                          | Color              |
+| Background Color (text items) | Set background color for the items in the List Viewer | Color              |
+| Font Size                     | Set font size of Text Items                           | Number             |
+| Show Arrow                    | Toggle whether arrow is shown beside text items       | True/False         |
 
 ### Advanced Properties
 
-| Property                             | Description                          | Data Type                           |
-| ------------------------------------ | ------------------------------------ | ----------------------------------- |
-| Writing Direction (iOS and web only) | Set writing direction of text items  | Select from list `[auto, ltr, rtl]` |
-| Background Color                     | Set background color of List Viewer  | Color                               |
+| Property                                 | Description                                            | Data Type                           |
+| ---------------------------------------- | ------------------------------------------------------ | ----------------------------------- |
+| Writing Direction (iOS and web app only) | Set writing direction of text items                    | Select from list `[auto, ltr, rtl]` |
+| Background Color (container)             | Set the background color of the List Viewer container. | Color                               |
 
 ### Layout
 
-| Property | Description                                                  | Data Type  |
-| -------- | ------------------------------------------------------------ | ---------- |
-| X        | Set the location of your List Viewer on the X-axis in pixels | Number     |
-| Y        | Set the location of your List Viewer on the Y-axis in pixels | Number     |
-| Height   | Set the Height of your List Viewer in pixels                 | Number     |
-| Width    | Set the Width of your List Viewer in pixels                  | Number     |
-| Visible  | Toggle whether your end users can see the List Viewer        | True/False |
+| Property    | Description                                                  | Data Type                                    |
+| ----------- | ------------------------------------------------------------ | -------------------------------------------- |
+| X           | Set the location of your List Viewer on the X-axis in pixels | Number                                       |
+| Y           | Set the location of your List Viewer on the Y-axis in pixels | Number                                       |
+| Height      | Set the Height of your List Viewer in pixels                 | Number                                       |
+| Width       | Set the Width of your List Viewer in pixels                  | Number                                       |
+| Resize Mode | Define dimensions of the list viewer component/container     | Select from list `[Stretch, Float in Place]` |
 
 ### Style
 
-| Property      | Description                                              | Data Type                                  |
-| ------------- | -------------------------------------------------------- | ------------------------------------------ |
-| Border Width  | Set width of List Viewer's border in pixels              | Number                                     |
-| Border Color  | Set color of List Viewer's border                        | Color                                      |
-| Border Style  | Set style of List Viewer's border                        | Select from list `[solid, dotted, dashed]` |
-| Border Radius | Set radius of corners for List Viewer's border in pixels | Number                                     |
+| Property       | Description                                                                   | Data Type                                  |
+| -------------- | ----------------------------------------------------------------------------- | ------------------------------------------ |
+| Visible        | Toggle whether your end users can see the List Viewer                         | True/False                                 |
+| Border Style   | Set style of List Viewer's border                                             | Select from list `[solid, dotted, dashed]` |
+| Border Color   | Set color of List Viewer's border                                             | Color                                      |
+| Border Width   | Set width of List Viewer's border in pixels                                   | Number                                     |
+| Border Radius  | Set radius of corners for List Viewer's border in pixels                      | Number                                     |
+| Shadow Color   | Color of List Viewer's shadow                                                 | Color                                      |
+| Shadow Opacity | Opacity of List Viewer's shadow                                               | Number between 0 and 100                   |
+| Shadow Radius  | Radius of corners of List Viewer's shadow in pixels                           | Number                                     |
+| Shadow Offset  | How far List Viewer's shadow should be offset, in Height and Width, in pixels | Number                                     |
 
 ## Blocks
 
