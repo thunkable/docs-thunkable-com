@@ -18,17 +18,12 @@ This makes it easier to design complex layouts.
 
 ## Properties
 
-### Layout
+### Group
 
-| Property    | Description                                                                         | Data Type                                                   |
-| ----------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Position    | Set whether the Group is positioned Relative to the Screen or Relative to Device ¹  | Select from menu: \[Relative to Screen, Relative to Device] |
-| Height      | Height of Group in pixels                                                           | Number                                                      |
-| Width       | Width of Group in pixels                                                            | Number                                                      |
-| X           | Position of top left corner of Group on X-axis                                      | Number                                                      |
-| Y           | Position of top left corner of Group on Y-axis                                      | Number                                                      |
-| Visible     | Set whether Group is shown on screen                                                | True/False                                                  |
-| Resize Mode | Set how Group is resized on wider screens - Stretch or Float in Place ²             | Select from menu: \[Resize, Float in Place]                 |
+| Property      | Description                                                                         | Data Type                                                   |
+| ------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Position      | Set whether the Group is positioned Relative to the Screen or Relative to Device ¹  | Select from menu: \[Relative to Screen, Relative to Device] |
+| Touch Opacity | Set opacity of Group when user clicks on Group                                      | Number between 0-100                                        |
 
 ¹ Relative to Screen: Group moves as end user scrolls\
 Relative to Device: Group stays in place as end user scrolls
@@ -36,27 +31,32 @@ Relative to Device: Group stays in place as end user scrolls
 ² Stretch: Resize Group in proportion with wider Screen\
 Float in Place: Keep same dimensions for Group on larger screens
 
-### Image
+### Layout
 
-| Property                       | Description                                                                                         | Data Type                                                                                                                                                                                                    |
-| ------------------------------ | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Background Picture             | The image file to be shown in the Image component                                                   | <p>PNG, JPG, GIF, SVG, etc.<br>Can also use URL that ends in file extension (eg <a href="https://thunkable.com/static/media/logo.ba96eb83.png">https://thunkable.com/static/media/logo.ba96eb83.png</a>)</p> |
-| Background Picture Resize Mode | Set how picture is shown if the file and the Image component have different dimensions/aspect ratio | Select from list `[cover, contain, stretch, repeat, center]`                                                                                                                                                 |
+| Property    | Description                                                             | Data Type                                   |
+| ----------- | ----------------------------------------------------------------------- | ------------------------------------------- |
+| X           | Position of top left corner of Group on X-axis                          | Number                                      |
+| Y           | Position of top left corner of Group on Y-axis                          | Number                                      |
+| Height      | Height of Group in pixels                                               | Number                                      |
+| Width       | Width of Group in pixels                                                | Number                                      |
+| Resize Mode | Set how Group is resized on wider screens - Stretch or Float in Place ² | Select from menu: \[Resize, Float in Place] |
 
 ### Style
 
-| Property         | Description                                                             | Data Type                                  |
-| ---------------- | ----------------------------------------------------------------------- | ------------------------------------------ |
-| Background Color | Color of Group's background                                             | Color                                      |
-| Border Width     | Width of Group's border in pixels                                       | Number                                     |
-| Border Radius    | Radius of corners of Group's border in pixels                           | Number                                     |
-| Border Color     | Color of Group's border                                                 | Color                                      |
-| Border Style     | Style of Group's border                                                 | Select from list `[solid, dotted, dashed]` |
-| Shadow Color     | Color of Group's shadow                                                 | Color                                      |
-| Shadow Opacity   | Opacity of Group's shadow                                               | Number between 0 and 100                   |
-| Shadow Radius    | Radius of corners of Group's shadow in pixels                           | Number                                     |
-| Shadow Offset    | How far Group's shadow should be offset, in Height and Width, in pixels | Number                                     |
-| Touch Opacity    | Set opacity of Group when user clicks on Group                          | Number between 0-100                       |
+| Property                     | Description                                                                                         | Data Type                                                                                                                                                                                                    |
+| ---------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Visible                      | Set whether Group is shown on screen                                                                | True/False                                                                                                                                                                                                   |
+| Background Fill              | Color of Group's background                                                                         | Color                                                                                                                                                                                                        |
+| Background Image             | The image file to be shown in the Group's background                                                | <p>PNG, JPG, GIF, SVG, etc.<br>Can also use URL that ends in file extension (eg <a href="https://thunkable.com/static/media/logo.ba96eb83.png">https://thunkable.com/static/media/logo.ba96eb83.png</a>)</p> |
+| Background Image Resize Mode | Set how picture is shown if the file and the Image component have different dimensions/aspect ratio | Select from list `[cover, contain, stretch, repeat, center]`                                                                                                                                                 |
+| Border Style                 | Style of Group's border                                                                             | Select from list `[solid, dotted, dashed]`                                                                                                                                                                   |
+| Border Color                 | Color of Group's border                                                                             | Color                                                                                                                                                                                                        |
+| Border Width                 | Width of Group's border in pixels                                                                   | Number                                                                                                                                                                                                       |
+| Border Radius                | Radius of corners of Group's border in pixels                                                       | Number                                                                                                                                                                                                       |
+| Shadow Color                 | Color of Group's shadow                                                                             | Color                                                                                                                                                                                                        |
+| Shadow Opacity               | Opacity of Group's shadow                                                                           | Number between 0 and 100                                                                                                                                                                                     |
+| Shadow Radius                | Radius of corners of Group's shadow in pixels                                                       | Number                                                                                                                                                                                                       |
+| Shadow Offset                | How far Group's shadow should be offset, in Height and Width, in pixels                             | Number                                                                                                                                                                                                       |
 
 ## Blocks
 
