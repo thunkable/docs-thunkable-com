@@ -30,13 +30,13 @@ Once you upload the PDF, you will be able to view it in your app and pinch to zo
 
 ### Layout
 
-| Property | Description                                                                          | Data Type  |
-| -------- | ------------------------------------------------------------------------------------ | ---------- |
-| X        | Location of top left corner of PDF Reader on X-axis, where the left hand side is X=0 | Number     |
-| Y        | Location of top left corner of PDF Reader on Y-axis, where the top side is Y=0       | Number     |
-| Height   | Height of PDF Reader in pixels                                                       | Number     |
-| Width    | Width of PDF Reader in pixels                                                        | Number     |
-| Visible  | Toggle whether your end users can see the PDF Reader                                 | True/False |
+| Property    | Description                                                                          | Data Type                                    |
+| ----------- | ------------------------------------------------------------------------------------ | -------------------------------------------- |
+| X           | Location of top left corner of PDF Reader on X-axis, where the left hand side is X=0 | Number                                       |
+| Y           | Location of top left corner of PDF Reader on Y-axis, where the top side is Y=0       | Number                                       |
+| Height      | Height of PDF Reader in pixels                                                       | Number                                       |
+| Width       | Width of PDF Reader in pixels                                                        | Number                                       |
+| Resize Mode | Define dimensions of the PDF Reader component/container                              | Select from list `[Stretch, Float in Place]` |
 
 ## Blocks
 
