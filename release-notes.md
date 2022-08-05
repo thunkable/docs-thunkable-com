@@ -77,13 +77,8 @@ Platform Updates
 
 Component Updates
 
-* Restored appearance of Label's 'TextAlign' property on Android/iOS
-
-## June 8, 2022
-
-Component Updates
-
 * Improvements to In-App Purchases component
+* Restored appearance of Label's 'TextAlign' property on Android/iOS
 
 ## June 3, 2022
 
