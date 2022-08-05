@@ -40,7 +40,7 @@ The Data Viewer List lets you connect to a Data Source and view your data as a l
 | Y           | Location of top left corner of component on Y-axis, where the top side is Y=0       | Number                                       |
 | Height      | Height of component in pixels                                                       | Number                                       |
 | Width       | Width of component in pixels                                                        | Number                                       |
-| Resize Mode | Define dimensions of the Data Viewer List component/container                       | Select from list `[Stretch, Float in Place]` |
+| Resize Mode | Define dimensions of the PDF Reader component/container                             | Select from list `[Stretch, Float in Place]` |
 
 ## Blocks
 

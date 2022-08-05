@@ -20,20 +20,20 @@ The Data Viewer Grid lets you connect to a Data Source and view your data as a g
 | ----------------- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | Data Source       | The [Data Source](data-sources.md#add-a-data-source-to-your-app) your data is to be pulled from             | Reference to chosen data source          |
 | Table             | Table from your Data Source to show data from                                                               | Reference to chosen table in Data Source |
-| Grid Appearance   | How your data will be displayed in your app                                                                 | Select from list                         |
-| Populate Data     | Select what items of data from your Data Source to show in which aspects of your layout                     | Select from lists                        |
+| Layout            | Format of how your data will be displayed in your app                                                       | Select from list                         |
+| Bindings          | Select what items of data from your Data Source to show in which aspects of yoru layout                     | Select from lists                        |
 | Horizontal Scroll | Toggle whether your Data Viewer should scroll horizontally (if `false`, Data Viewer will scroll vertically) | True/False                               |
 | Empty Text        | Text that will be displayed if there is no data to fill a string in your Data Viewer                        | Text                                     |
 
 ### Layout
 
-| Property    | Description                                                                         | Data Type                                    |
-| ----------- | ----------------------------------------------------------------------------------- | -------------------------------------------- |
-| X           | Location of top left corner of component on X-axis, where the left hand side is X=0 | Number                                       |
-| Y           | Location of top left corner of component on Y-axis, where the top side is Y=0       | Number                                       |
-| Height      | Height of component in pixels                                                       | Number                                       |
-| Width       | Width of component in pixels                                                        | Number                                       |
-| Resize Mode | Define dimensions of the Data Viewer Grid component/container                       | Select from list `[Stretch, Float in Place]` |
+| Property | Description                                                                         | Data Type  |
+| -------- | ----------------------------------------------------------------------------------- | ---------- |
+| X        | Location of top left corner of component on X-axis, where the left hand side is X=0 | Number     |
+| Y        | Location of top left corner of component on Y-axis, where the top side is Y=0       | Number     |
+| Height   | Height of component in pixels                                                       | Number     |
+| Width    | Width of component in pixels                                                        | Number     |
+| Visible  | Toggle whether your end users can see the component                                 | True/False |
 
 ## Blocks
 

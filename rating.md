@@ -12,14 +12,14 @@ A Rating component is made up of 5-10 _icons_. An icon can be filled, partially 
 
 ### Rating
 
-| Property         | Description                                            | Data Type                                   |
-| ---------------- | ------------------------------------------------------ | ------------------------------------------- |
-| Value            | Initial value of your rating                           | Number                                      |
-| Count            | Max value of your rating                               | Number between 5 and 10                     |
-| Image\*          | Shape of the icons in your Rating component            | Select from menu (Pick One or Custom Image) |
-| Read Only        | Toggle whether or not the user can edit the rating     | True/False                                  |
-| Rating Color     | Color of filled-in icons to reflect the current rating | Color                                       |
-| Background Color | Color of unfilled icons                                | Color                                       |
+| Property         | Description                                            | Data Type               |
+| ---------------- | ------------------------------------------------------ | ----------------------- |
+| Value            | Initial value of your rating                           | Number                  |
+| Count            | Max value of your rating                               | Number between 5 and 10 |
+| Image            | Shape of the icons in your Rating component            | Select from menu        |
+| Read Only        | Toggle whether or not the user can edit the rating     | True/False              |
+| Rating Color     | Color of filled-in icons to reflect the current rating | Color                   |
+| Background Color | Color of unfilled icons                                | Color                   |
 
 There are two ways to set an Image for your Rating component:
 
@@ -44,13 +44,13 @@ These URLs must end in a file extension, such as .jpg or .png.
 
 ### Layout
 
-| Property    | Description                                                                                | Data Type                                    |
-| ----------- | ------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| X           | Location of top left corner of Rating component on X-axis, where the left hand side is X=0 | Number                                       |
-| Y           | Location of top left corner of Rating component on Y-axis, where the top side is Y=0       | Number                                       |
-| Height      | Height of Rating component in pixels                                                       | Number                                       |
-| Width       | Width of Rating component in pixels                                                        | Number                                       |
-| Resize Mode | Define dimensions of the Rating component/container                                        | Select from list `[Stretch, Float in Place]` |
+| Property | Description                                                                                | Data Type  |
+| -------- | ------------------------------------------------------------------------------------------ | ---------- |
+| X        | Location of top left corner of Rating component on X-axis, where the left hand side is X=0 | Number     |
+| Y        | Location of top left corner of Rating component on Y-axis, where the top side is Y=0       | Number     |
+| Height   | Height of Rating component in pixels                                                       | Number     |
+| Width    | Width of Rating component in pixels                                                        | Number     |
+| Visible  | Toggle whether your end users can see the Rating component                                 | True/False |
 
 ## Blocks
 
