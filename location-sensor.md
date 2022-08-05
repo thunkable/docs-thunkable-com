@@ -16,17 +16,13 @@ To add a Location Sensor to your app:
 
 You will see a settings panel where you can set properties of the Location Sensor before clicking Submit.
 
-![](<.gitbook/assets/Screen Shot 2022-02-16 at 10.55.52 PM.png>)
-
-
-
 ## Properties
 
 | Property           | Description                                                                                                      | Data Type  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------- | ---------- |
 | EnableHighAccuracy | Enables network provider that uses Google Play services to improve location accuracy and location-based services | True/False |
 | Timeout            | How long the Lotion Sensor will look for the user's location before quitting, in milliseconds                    | Number     |
-| MaximumAge         | How long a previously fetched location will remain valid, in milliseconds                                        | Number     |
+| Maximum Age        | How long a previously fetched location will remain valid, in milliseconds                                        | Number     |
 
 ## Blocks
 
