@@ -87,6 +87,8 @@ This component is powered by [Microsoft Azure](https://blogs.microsoft.com/ai/az
 
 ![](<.gitbook/assets/image (158).png>)
 
+
+
 | Output           | Data Type              | Function                                                               |
 | ---------------- | ---------------------- | ---------------------------------------------------------------------- |
 | description      | text                   | description of the image                                               |
@@ -127,11 +129,11 @@ Keep in mind that while a file is encoding, your Thunkable app will not be able 
 
 ![](<.gitbook/assets/base64\_advanced\_block (1).png>)
 
-| Input                      | Data Type | Function                |
-| -------------------------- | --------- | ----------------------- |
-| Image, Video & Music Files | Any File  | The file to be encoded. |
+|            Input           | Data Type |         Function        |
+| :------------------------: | :-------: | :---------------------: |
+| Image, Video & Music Files |  Any File | The file to be encoded. |
 
-| Output       | Data Type | Function                                          |
-| ------------ | --------- | ------------------------------------------------- |
-| Encoded File | Text      | The Base64 encoded file.                          |
-| Error        | Text      | Returns error if thrown.  Else returns undefined. |
+|    Output    | Data Type |                      Function                     |
+| :----------: | :-------: | :-----------------------------------------------: |
+| Encoded File |    Text   |              The Base64 encoded file.             |
+|     Error    |    Text   | Returns error if thrown.  Else returns undefined. |

@@ -20,9 +20,11 @@ Find the **Timers** drawer of blocks and click on the ⊕ icon to add a Timer to
 
 You can also **Delete** the Timer.
 
+![](.gitbook/assets/timerdialouge.png)
+
 ### Edit a Timer
 
-You will see the Timers you have added to your app underneath the Timers section of your blocks. Click the gear icon next to the timer you want to edit.
+You will see the Timers you have added to your app underneath the Timers section of your blocks.
 
 ![](.gitbook/assets/timers-menu.png)
 
