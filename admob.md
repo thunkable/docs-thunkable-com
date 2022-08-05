@@ -83,10 +83,6 @@ To add an Interstitial ad to your app:
 2. Click on the icon next to the Ads drawer of blocks
 3. Select **AdMob Interstitial**
 
-![](.gitbook/assets/add-ad.png)
-
-![](.gitbook/assets/ads-dialog.png)
-
 ### Properties
 
 You will see a dialog where you can set the following properties:
@@ -96,8 +92,6 @@ You will see a dialog where you can set the following properties:
 | Ad Unit ID (Android) | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on Android devices                                                      | Text       |
 | Ad Unit ID (iOS)     | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on iOS devices                                                          | Text       |
 | Test Mode            | <p>Toggle whether real ads or sample ads should display in your app. <br><strong>Set this to true while testing your own app.</strong></p> | True/False |
-
-![](.gitbook/assets/admob-inter-dialog.png)
 
 ### Blocks
 
@@ -149,23 +143,15 @@ To add an Rewarded Video ad to your app:
 2. Click on the icon next to the Ads drawer of blocks
 3. Select **AdMob Rewarded Video**
 
-![](.gitbook/assets/add-ad.png)
-
-![](.gitbook/assets/ads-dialog.png)
-
-
-
 ### Properties
 
-You will see a dialog where you can set the following properties:
+You will see a dialogue where you can set the following properties:
 
 | Name                 | Description                                                                                                                                | Data Type  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | Ad Unit ID (Android) | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on Android devices                                                      | Text       |
 | Ad Unit ID (iOS)     | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on iOS devices                                                          | Text       |
 | Test Mode            | <p>Toggle whether real ads or sample ads should display in your app. <br><strong>Set this to true while testing your own app.</strong></p> | True/False |
-
-![](.gitbook/assets/videoadsettings.png)
 
 ### Blocks
 
