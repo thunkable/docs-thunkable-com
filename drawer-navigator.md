@@ -27,17 +27,18 @@ The names displayed in the Drawer Navigator will be the names of the [Screens](s
 
 ## Drawer Navigator Properties
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-8.01.13-am.png)
-
 You have many options for styling your Drawer Navigator, such as changing the background color or tint color. Here are the different options for customization:
 
-* **Drawer Width:** Width of the Drawer in pixels
-* **Drawer Position:** Position Drawer swipes out from: left or right
-* **DrawerOptions**
-  * **Active Tint Color:** Tint color for selected drawer.&#x20;
-  * **Active Background Color:** Background color for selected drawer.
-  * **Inactive Tint Color:** Text color for unselected drawers.&#x20;
-  * **Inactive Background Color:** Background color for unselected drawer.&#x20;
+| Property                  | Description                                     | Data Type                        |
+| ------------------------- | ----------------------------------------------- | -------------------------------- |
+| Drawer Width              | The width of the Drawer in pixels.              | Number                           |
+| Drawer Position           | The position the Drawer enters the screen from. | Select from menu (left or right) |
+| Active Tint Color         | Text color of selected drawer.                  | Color                            |
+| Active Background Color   | Background color of selected drawer.            | Color                            |
+| Inactive Tint Color       | Text color for unselected drawers.              | Color                            |
+| Inactive Background Color | Background color for unselected drawers.        | Color                            |
+
+
 
 ## Screen-Specific Drawer Navigator Properties
 
