@@ -19,34 +19,48 @@ Select **Add Navigator** and select the Navigator you want to add.
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-5.06.23-pm.png)
 
-## Tab Navigator Properties
+## Bottom Tab Navigator Properties
 
 You have many options for styling your Bottom Tab Navigator, such as changing the background color or tint color. Here are the different options for customization:
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-7.58.52-am.png)
+| Property                  | Description                                                         | Data Type        |
+| ------------------------- | ------------------------------------------------------------------- | ---------------- |
+| Active Tint Color         | Select a text color for the tab currently in use.                   | Color            |
+| Active Background Color   | Select a background color for the tab currently in use.             | Color            |
+| Inactive Tint Color       | Select a color for the text of the tabs that are not in use.        | Color            |
+| Inactive Background Color | Select a color for the tab not currently in use.                    | Color            |
+| Show Label Icon           | Select whether to show icons, labels, or both in the Tab Navigator. | Select from menu |
 
-#### **Simple Properties**
+## Tab-Specific Properties
 
-* **Active Tint Color:** Select a font color for the tab currently in use.
-* **Active Background Color:** Select a color for the tab currently in use.
-* **Inactive Tint Color:** Select a color for the text of the tabs that are not in use.&#x20;
-* **Inactive Background Color:** Select a color for the tab not currently in use.
-* **ShowIcon:** Toggle whether to show icons in the Tab Navigator.
-* **ShowLabel:** Toggle whether to show tab labels in the Tab Navigator.
-* **Adding Labels and Icons to Your Tab**
+Click on a tab in your design to access the properties panel for that specific tab.
 
-When designing a tab, you can use words or images to guide users to different screens.\
+### Screen
 
+| Property                           | Description                                                                                                                                      | Data Type                                                                                                                                                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Navigation Button Name             | Text that appears in the top tab navigator.                                                                                                      | Text                                                                                                                                                                                                         |
+| Scrollable                         | Select whether your user can scroll on this screen.                                                                                              | True/False                                                                                                                                                                                                   |
+| Background Color                   | Select the tab's background color.                                                                                                               | Color                                                                                                                                                                                                        |
+| Background Image                   | The image file to be shown in the tab's background                                                                                               | <p>PNG, JPG, GIF, SVG, etc.<br>Can also use URL that ends in file extension (eg <a href="https://thunkable.com/static/media/logo.ba96eb83.png">https://thunkable.com/static/media/logo.ba96eb83.png</a>)</p> |
+| Background Image Resize Mode       | Set how image is shown if the file and the tab component have different dimensions/aspect ratio                                                  | <p>Select from list <code>[cover, contain, stretch, repeat, center]</code><br></p>                                                                                                                           |
+| Orientation (iOS and Android only) | Toggle whether your end user can swipe a list item to the left to view an additional Button. Reveals Left Swipe Button settings if set to `true` | True/False                                                                                                                                                                                                   |
 
-![](https://lh5.googleusercontent.com/h0kkdAtk9f7SiMk54GMf\_rcdzBGMRc5MtbaH83mNWHM-L7fno9QV3rp\_-N1ssiZiHnH2j2yQPGcSqVnv3mJCbBsxdWWLnvub0ns6jk29Aj9FSM2GSlovKQOX1GkpZpGfpinTTY25)
+### Tab Navigation Options
 
-## Screen-Specific Tab Navigator Properties
+| Property          | Description                                                                            | Data Type                                                                                                                                                                                                    |
+| ----------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Tab Bar Label     | Set the Label of this Screen's tab in the Tab Navigator                                | Text                                                                                                                                                                                                         |
+| Active Tab Icon   | Set the Icon of this Screen's tab in the Tab Navigator for when the Screen is active   | <p>PNG, JPG, GIF, SVG, etc.<br>Can also use URL that ends in file extension (eg <a href="https://thunkable.com/static/media/logo.ba96eb83.png">https://thunkable.com/static/media/logo.ba96eb83.png</a>)</p> |
+| Inactive Tab Icon | Set the Icon of this Screen's tab in the Tab Navigator for when the Screen is inactive | <p>PNG, JPG, GIF, SVG, etc.<br>Can also use URL that ends in file extension (eg <a href="https://thunkable.com/static/media/logo.ba96eb83.png">https://thunkable.com/static/media/logo.ba96eb83.png</a>)</p> |
+| Tab Bar Visible   | Set whether the Tab Navigator is visible when this Screen is open                      | True/False                                                                                                                                                                                                   |
 
-There are some Tab Navigator properties that are specific to each Screen in your Navigator, such as Tab Label and Tab Icon.
+### Status Bar
 
-When you add a Screen to your Tab Navigator, you will a new section called **Tab Navigation Options** in your Screen's Properties panel with the following properties:
+| Property                   | Description | Data Type                                               |
+| -------------------------- | ----------- | ------------------------------------------------------- |
+| Visibility                 |             | True/False                                              |
+| Style                      |             | Select from menu (default, light-content, dark-content) |
+| Color (Android only)       |             | Color                                                   |
+| Translucent (Android only) |             | True/False                                              |
 
-**Tab Bar Label:** Set the Label of this Screen's tab in the Tab Navigator\
-**Active Tab Icon:** Set the Icon of this Screen's tab in the Tab Navigator for when the Screen is active\
-**Inactive Tab Icon:** Set the Icon of this Screen's tab in the Tab Navigator for when the Screen is inactive\
-**Tab Bar Visible:** Set whether the Tab Navigator is visible when this Screen is open
