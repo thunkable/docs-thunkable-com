@@ -28,16 +28,16 @@ You can get your own Google Maps API Key [here](https://developers.google.com/ma
 
 ### Advanced Properties
 
-| Property           | Description | Data Type                                                     |
-| ------------------ | ----------- | ------------------------------------------------------------- |
-| Provider           |             |                                                               |
-| Map Type           |             | Select from list (standard, satellite, hybrid, terrain, none) |
-| User location      |             |                                                               |
-| My location button |             |                                                               |
-| Compass            |             |                                                               |
-| Scroll             |             |                                                               |
-| Zoom               |             |                                                               |
-| Traffic            |             |                                                               |
+| Property           | Description                                                              | Data Type                                                     |
+| ------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| Provider           | Map provider (ex. Google).                                               | Text                                                          |
+| Map Type           | Style of map.                                                            | Select from list (standard, satellite, hybrid, terrain, none) |
+| User location      | Show the user where they are on the map.                                 | True/False                                                    |
+| My location button | Show button that allows the user to re-center the map on their location. | True/False                                                    |
+| Compass            | Show compass.                                                            | True/False                                                    |
+| Scroll             | Allow user to scroll on the map.                                         | True/False                                                    |
+| Zoom               | Allow user to zoom in and out on the map.                                | True/False                                                    |
+| Traffic            | Show traffic data.                                                       | True/False                                                    |
 
 ### Layout
 
