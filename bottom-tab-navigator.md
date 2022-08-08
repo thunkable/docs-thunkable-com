@@ -57,10 +57,12 @@ Click on a tab in your design to access the properties panel for that specific t
 
 ### Status Bar
 
-| Property                   | Description | Data Type                                               |
-| -------------------------- | ----------- | ------------------------------------------------------- |
-| Visibility                 |             | True/False                                              |
-| Style                      |             | Select from menu (default, light-content, dark-content) |
-| Color (Android only)       |             | Color                                                   |
-| Translucent (Android only) |             | True/False                                              |
+The status bar is located at the top of a phone's screen. The status bar displays information regarding signal strength, battery, and whether or not things like the alarm or wi-fi are enabled.
+
+| Property                   | Description                                                                                                                    | Data Type                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| Visibility                 | Decide whether you want the status bar visible on the screen.                                                                  | True/False                                              |
+| Style                      | Default is best practice, but you can select light-content or dark-content to potentially override the user's phone settings.  | Select from menu (default, light-content, dark-content) |
+| Color (Android only)       | Color of the status bar.                                                                                                       | Color                                                   |
+| Translucent (Android only) | When translucent is set to true, the app will appear under the status bar.                                                     | True/False                                              |
 
