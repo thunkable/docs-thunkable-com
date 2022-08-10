@@ -8,7 +8,7 @@ Welcome to Thunkable! We're excited to help you begin your app building journey.
 
 ## docs.thunkable.com is now home to Thunkable's Drag and Drop Docs!
 
-On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com) to host our documentation for Thunkable's Drag and Drop platform. Previously, this URL was home to our Snap to Place platform, which is now at an [alternate URL](https://docs.thunkable.com/v/snap-to-place).
+On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com) to host our documentation for Thunkable's Drag and Drop platform. Previously, this URL was home to our Snap to Place documentation, which is now at an [alternate URL](https://docs.thunkable.com/v/snap-to-place).
 
 ### **What's Drag and Drop vs. Snap to Place?**
 
