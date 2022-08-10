@@ -20,7 +20,7 @@ On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com)
 
 ### **What's Drag and Drop vs. Snap to Place?**
 
-Find out [here](./#drag-and-drop-or-snap-to-place)!
+Find out [here](./#whats-drag-and-drop-vs.-snap-to-place)!
 
 ### **If you are building on...**
 
