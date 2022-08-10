@@ -14,6 +14,26 @@ All apps built on Thunkable work for both Android and iOS devices (see:[ minimum
 
 You can get started by remixing existing projects from our [Sample Apps Page](https://docs.thunkable.com/sample-apps) or [Public Gallery](https://docs.thunkable.com/public-gallery).
 
+## docs.thunkable.com is now home to Thunkable's Drag and Drop Docs!
+
+On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com) to host our documentation for Thunkable's Drag and Drop platform. Previously, this URL was home to our Snap to Place documentation, which is now at an [alternate URL](https://docs.thunkable.com/v/snap-to-place).
+
+### **What's Drag and Drop vs. Snap to Place?**
+
+Find out [here](./#drag-and-drop-or-snap-to-place)!
+
+### **If you are building on...**
+
+|      Platform     |                  Then...                 |                                                  New Docs URL                                                 |
+| :---------------: | :--------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| **Drag and Drop** |        You are in the right place!       |                                [docs.thunkable.com](https://docs.thunkable.com)                               |
+| **Snap to Place** | You're accessing the wrong set of docs.  | [docs.thunkable.com/v/snap-to-place](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/) |
+
+### **What does this mean for you?**
+
+* If you link out to Thunkable Docs in any capacity, please check with the chart above to make sure you are linking to the right documentation. You will need to make changes no matter which platform you intend to point to.
+* You can always switch between our two platform docs on the upper left hand corner of the docs.
+
 ## Tutorial videos
 
 You can check out our [YouTube channel](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw) for video tutorials.
