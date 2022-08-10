@@ -6,15 +6,35 @@ description: The platform where anyone can build their own mobile apps.
 
 Welcome to Thunkable! We're excited to help you begin your app building journey.
 
+## docs.thunkable.com is now home to Thunkable's Drag and Drop Docs!
+
+On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com) to host our documentation for Thunkable's Drag and Drop platform. Previously, this URL was home to our Snap to Place platform, which is now at an [alternate URL](https://docs.thunkable.com/v/snap-to-place).
+
+### **What's Drag and Drop vs. Snap to Place?**
+
+Find out [here](./#drag-and-drop-or-snap-to-place)!
+
+### **If you are building on...**
+
+|      Platform     |                  Then...                 |                                                  New Docs URL                                                 |
+| :---------------: | :--------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| **Drag and Drop** |        You are in the right place!       |                                [docs.thunkable.com](https://docs.thunkable.com)                               |
+| **Snap to Place** | You're accessing the wrong set of docs.  | [docs.thunkable.com/v/snap-to-place](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/) |
+
+### **What does this mean for you?**
+
+* If you link out to Thunkable Docs in any capacity, please check with the chart above to make sure you are linking to the right documentation. You will need to make changes no matter which platform you intend to point to.
+* You can always switch between our two platform docs on the upper left hand corner of the docs.
+
 ## Drag and Drop or Snap to Place?
 
 [If your Thunkable project looks like this:](http://docs.thunkable.com/v/drag-and-drop/?utm\_source=StP+docs+homepage\&utm\_medium=If+your+project\&utm\_campaign=Redirect+StP+to+DnD+docs+homepage)
 
 ![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.36.15 PM.png>)
 
-You are using the [Drag and Drop UI.](http://docs.thunkable.com/v/drag-and-drop/?utm\_source=StP+docs+homepage\&utm\_medium=Drag+and+Drop+UI\&utm\_campaign=Redirect+StP+to+DnD+docs+homepage)
+You are using the [Drag and Drop UI.](https://docs.thunkable.com)
 
-[Click here to go to the Thunkable Drag and Drop Docs.](http://docs.thunkable.com/v/drag-and-drop/?utm\_source=StP+docs+homepage\&utm\_medium=Click+here\&utm\_campaign=Redirect+StP+to+DnD+docs+homepage)
+You are on the right set of docs!
 
 
 
@@ -22,7 +42,9 @@ If your Thunkable project looks like this:
 
 ![](<.gitbook/assets/Screen Shot 2022-05-19 at 7.36.55 PM.png>)
 
-You are using the Snap to Place UI. Keep reading! You're in the right place.
+You are using the Snap to Place UI.
+
+[Click here to access the Snap to Place Docs.](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/)
 
 
 
