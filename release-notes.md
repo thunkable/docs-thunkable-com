@@ -13,24 +13,24 @@ Platform Updates
 
 Component Updates
 
-* ​[Bottom Tab Navigator](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/bottom-tab-navigator): Remove unwanted white space underneath navigator on iOS
-* ​[Stack Navigator](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/stack-navigator): Fix 'Header Mode: None' on web apps
-* ​[Groups](https://docs.thunkable.com/v/drag-and-drop/group): Can now be positioned relative to device
-* ​[Lottie Animation](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/lottie): Show message if invalid file type uploaded to component
-* ​[Label](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/label): Fix Label.Click block
-* ​[Label](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/label): Fix Number of Lines property
-* ​[AdMob](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/admob): Fix error shown in console when mouse hovers over AdMob Banner in Design tab
+* ​[Bottom Tab Navigator](bottom-tab-navigator.md): Remove unwanted white space underneath navigator on iOS
+* ​[Stack Navigator](stack-navigator.md): Fix 'Header Mode: None' on web apps
+* ​[Groups](group.md): Can now be positioned relative to device
+* ​[Lottie Animation](lottie.md): Show message if invalid file type uploaded to component
+* ​[Label](label.md): Fix Label.Click block
+* ​[Label](label.md): Fix Number of Lines property
+* ​[AdMob](admob.md): Fix error shown in console when mouse hovers over AdMob Banner in Design tab
 
 New Components
 
-* ​[Camera](https://docs.thunkable.com/v/drag-and-drop/camera): Upload Video from photo library
+* ​[Camera](camera.md): Upload Video from photo library
 
 ## May 31, 2022 <a href="#may-31-2022" id="may-31-2022"></a>
 
 Updates
 
-* ​[Data Viewer Grid](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/data-viewer-grid): Prevent unwanted vertical scrolling on iOS when Horizontal Scrolling is enabled
-* ​[In-App Purchases](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/in-app-purchase): Improve error messaging
+* ​[Data Viewer Grid](data-viewer-grid.md): Prevent unwanted vertical scrolling on iOS when Horizontal Scrolling is enabled
+* ​[In-App Purchases](in-app-purchase.md): Improve error messaging
 
 ## May 25, 2022
 
