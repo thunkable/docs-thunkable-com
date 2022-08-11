@@ -103,4 +103,5 @@
   * [Login Issues](troubleshooting/login-issues.md)
   * [FAQs](troubleshooting/faqs.md)
 * [💾 Managing Storage](managing-storage.md)
-* [📝 Bugs and Feature Requests](bugs-and-feature-requests.md)
+* [📝 Bugs and Feature Requests](bugs-and-feature-requests/README.md)
+  * [📰 Release Notes](bugs-and-feature-requests/release-notes.md)
