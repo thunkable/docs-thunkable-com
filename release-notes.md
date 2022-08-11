@@ -4,6 +4,76 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 3, 2022
+
+Platform Updates
+
+* Project workspace: Close Download/Actions menus when item is clicked
+* Membership page: Added Upgrade Account button
+
+Component Updates
+
+* Screen: When new Screen is selected, center that screen in the Design workspace
+* Text Input: Fix handling newlines with \n character for Hint text
+* Button: Fixed style of Button in nested Group on the web
+* Figma import: Fix importing text boxes with newline characters
+
+## July 27, 2022
+
+Platform Updates
+
+* Added pop-up with warning if project is not saved before leaving/refreshing Thunkable project page
+* Updated wording on membership page
+* Updated Design tab UI
+* Fixed icons in project Settings panel
+* Adjusted the style of star box on the project detail page&#x20;
+* iOS Publish: Updated with Apple Sign In Entitlement&#x20;
+
+Component Updates
+
+* Google Sheets Data Source: Updated 'Delete Row' block so that row is deleted and not just cleared of values
+* Share block: made compatible with any file type
+* BLE: Added ListenForDisconnection block
+* Files drawer: fixed behavior where 'convert to base64' block appeared multiple times
+* Any Component drawer: Fixed generic event block
+* Google Sheets Data Sources: Fixed behavior where Google Sheet Data Source could be dropped when a project was remixed
+* Group: Improve handling of moving children when Group is moved
+* Web Viewer: Improved ability to interact with Web Viewer contained in a Group
+
+## July 15, 2022
+
+Platform Updates
+
+New Components
+
+* Drag and Drop UI: Added create and clone blocks
+* Drag and Drop UI: Added Relative X/Y and height/width blocks
+
+Component Updates
+
+* Data Sources: Added 'Get All Rows' block for Airtable Data Sources
+* Data Viewer: fixed bug seen when trying to add null value to Data Source
+
+## June 16, 2022
+
+Platform Updates
+
+* Added 'Delete Account' section to Thunkable Live app
+
+## June 10, 2022
+
+Component Updates
+
+* Improvements to In-App Purchases component
+* Restored appearance of Label's 'TextAlign' property on Android/iOS
+
+## June 3, 2022
+
+Component Updates
+
+* Figma: Fixed checkbox import
+* Label: Added Font Family property back to Label component
+
 ## June 1, 2022 <a href="#june-1-2022" id="june-1-2022"></a>
 
 Platform Updates
