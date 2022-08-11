@@ -12,15 +12,15 @@ You can also build [web apps](https://docs.thunkable.com/publish-as-a-web-app-pr
 
 All apps built on Thunkable work for both Android and iOS devices (see:[ minimum requirements](assets.md)).&#x20;
 
-You can get started by remixing existing projects from our [Sample Apps Page](https://docs.thunkable.com/sample-apps) or [Public Gallery](https://docs.thunkable.com/public-gallery).
-
 ## docs.thunkable.com is now home to Thunkable's Drag and Drop Docs!
 
 On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com) to host our documentation for Thunkable's Drag and Drop platform. Previously, this URL was home to our Snap to Place documentation, which is now at an [alternate URL](https://docs.thunkable.com/v/snap-to-place).
 
 ### **What's Drag and Drop vs. Snap to Place?**
 
-Find out [here](https://docs.thunkable.com/v/snap-to-place/)!
+Not sure which platform you're building on? Find out [here](https://docs.thunkable.com/v/snap-to-place/)!
+
+What's the difference between Drag and Drop vs. Snap to Place? Read our blog [here](https://blog.thunkable.com/drag-and-drop-app-builder)!
 
 ### **If you are building on...**
 
