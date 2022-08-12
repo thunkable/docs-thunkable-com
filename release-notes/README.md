@@ -4,6 +4,28 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 10, 2022
+
+Platform Updates
+
+* Updated navigation to prepare for Expo upgrade
+
+Component Updates
+
+* [Button](../button.md): Improve appearance of border
+
+## August 9, 2022
+
+Platform Updates
+
+* Improved consistency of naming copied projects
+* Updated project page icons
+
+Component Updates
+
+* [Airtable Data Sources](../data-sources.md#airtable): fix error when syncing with Airtable DB containing tables which have been deleted externally to the Thunkable project&#x20;
+* Updated Firebase used for [cloud variables](../variables.md#cloud-variables) and [Sign In](../sign-in.md)
+
 ## August 3, 2022
 
 Platform Updates
