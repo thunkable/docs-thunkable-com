@@ -55,7 +55,6 @@ Component Updates
 
 * Google Sheets Data Source: Updated 'Delete Row' block so that row is deleted and not just cleared of values
 * Share block: made compatible with any file type
-* BLE: Added ListenForDisconnection block
 * Files drawer: fixed behavior where 'convert to base64' block appeared multiple times
 * Any Component drawer: Fixed generic event block
 * Google Sheets Data Sources: Fixed behavior where Google Sheet Data Source could be dropped when a project was remixed
