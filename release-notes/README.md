@@ -4,6 +4,17 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 15, 2022
+
+Platform Updates
+
+* Fix issue with displaying assets in web apps
+
+Component Updates
+
+* [Web API](../web-api.md): Allow form data to be submitted to API
+* [Sound](../sound.md): Play sound even if device is set to silent
+
 ## August 10, 2022
 
 Platform Updates
