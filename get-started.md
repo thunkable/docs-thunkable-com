@@ -72,3 +72,7 @@ The language of blocks is a visible programming language. By dragging and droppi
 {% content-ref url="blocks.md" %}
 [blocks.md](blocks.md)
 {% endcontent-ref %}
+
+## Operating Systems (OS)&#x20;
+
+While Thunkable often works on older operating systems, we only develop for operating systems that actively receive security updates (currently iOS 15 and Android 10, 11, 12).
