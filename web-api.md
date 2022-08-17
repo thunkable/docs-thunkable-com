@@ -1,6 +1,6 @@
 # Web API
 
-Great data is an essential part of many apps built today and the Web API component enables apps to retrieve data from any public or private API \(application programming interface\) service on the web. For more advanced developers who have write access to a private API, this component also enables you to upload and delete data.
+Great data is an essential part of many apps built today and the Web API component enables apps to retrieve data from any public or private API (application programming interface) service on the web. For more advanced developers who have write access to a private API, this component also enables you to upload and delete data.
 
 To see what public APIs are available, we recommend [this list from Todd Motto](https://github.com/toddmotto/public-apis)
 
@@ -8,30 +8,27 @@ To see what public APIs are available, we recommend [this list from Todd Motto](
 
 To add a Web API component to your app:
 
-* Go to your Blocks tab
-* Find the `Advanced` drawer of blocks. Click the drop-down menu icon to show the Advanced invisible components
-* Click the ⊕ icon next to the `Web APIs` drawer
+* Go to your Blocks tab.
+* Scroll to the bottom of your blocks panel on the left side and find the `Advanced` section. &#x20;
+* Click the expand chevron to show the Advanced invisible components.
+* Click the ⊕ icon next to `Web APIs.`
 
-![](.gitbook/assets/advanced-components%20%281%29.png)
+![](<.gitbook/assets/advanced-components (1).png>)
 
-You will see a dialog with options to enter certain properties for your Web API component. Click Submit to create the Web API component, or Delete to dismiss the dialog without creating the component.
+A Web API component properties dialog launches. See the chart below for descriptions of the various properties. Click **Submit** to create the Web API component, or **Delete** to dismiss the dialog without creating the component.
 
-![](.gitbook/assets/web-api-contents.png)
+Once you have the API key, you'll need to enter the unique URL into the property field of the Web API component.
 
-For most public APIs, you'll likely have to first create an account to get your own unique API key. This is usually to prevent individuals from making too many requests or to charge developers when they exceed certain free limits.
+| Property        | Description                                                        | Required? |
+| --------------- | ------------------------------------------------------------------ | --------- |
+| URL             | The url for the web request which usually contains an API key      | Required  |
+| QueryParameters | Specifies some parameters of the data                              | Optional  |
+| Body            | Body of your API call. Select from String or Multipart Form Data.  | Optional  |
+| Headers         | Specifies some meta-data, eg: usernames and passwords              | Optional  |
 
-Once you have the API key, you'll need to enter the unique URL into the property field of the Web API component
+### Edit properties of your Web API
 
-| Property | Description | Required? |
-| :--- | :--- | :--- |
-| URL | The url for the web request which usually contains an API key | Required |
-| Query Parameter | Specifies some parameters of the data | Optional |
-| Body | Body of your API call | Optional |
-| Headers | Specifies some meta-data, eg: usernames and passwords | Optional |
-
-### Change properties of your Web API
-
-Once you have added at least one Web API component to your app, you will be able to view all of your Web API components under the `Web APIs` drawer in the Advanced section of the Blocks tab. 
+Once you have added at least one Web API component to your app, you will be able to view all of your Web API components under the `Web APIs` drawer in the Advanced section of the Blocks tab.&#x20;
 
 To edit the properties of a Web API component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click Delete to delete the component.
 
@@ -39,27 +36,27 @@ To edit the properties of a Web API component, click on the ⚙ icon next to the
 
 ## Setting Query Parameters and Headers
 
-Query parameters and headers can be set in the designer or in the blocks editor. In the example below you can add any property:value pair you want. You can add as many params to your app as you need, but each parameter has to be added one at a time. 
+Query parameters and headers can be set in the designer or in the blocks editor. In the example below you can add any property:value pair you want. You can add as many params to your app as you need, but each parameter has to be added one at a time.&#x20;
 
 ![](.gitbook/assets/wvd0.png)
 
-In the blocks editor, it is possible to use the `create object` block to add multiple property:value pairs simultaneously. 
+In the blocks editor, it is possible to use the `create object` block to add multiple property:value pairs simultaneously.&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-8.59.11-am.png)
 
-In addition to creating your own objects, it is also possible to use JSON to specify the property:value pairs for your query parameters or headers. 
+In addition to creating your own objects, it is also possible to use JSON to specify the property:value pairs for your query parameters or headers.&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.00.03-am.png)
 
-## Get and Format \(parse\) Data
+## Get and Format (parse) Data
 
 ![](.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
 
 To retrieve data from an API, you simply need to use the `Get` block.
 
-| Event | Description |
-| :--- | :--- |
-| Get \(`response`, `status`,`error`\) | Performs an HTTP GET request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+| Event                              | Description                                                                                                                                                              |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Get (`response`, `status`,`error`) | Performs an HTTP GET request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
 Most APIs will return data in JSON format, so we'll take a few moments to walk through a few examples of how to parse this data using our [Object](objects.md) blocks.
 
@@ -71,7 +68,7 @@ You can find a working example of this in the sample app, [Office Weather & Traf
 
 One of the most common output formats for APIs is JSON, short for Javascript Object Notation. The Open Weather Map API returns a JSON file like the one below.
 
-```text
+```
 {
     "coord":{"lon":85.17,"lat":26.67},
     "weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04n"}],
@@ -104,15 +101,15 @@ In the example above, `"base"`, `"dt"`, `"id"`, `"name"` and `"cod"` are simple 
 
 #### **Convert JSON to Object**
 
-![](.gitbook/assets/image%20%28105%29.png)
+![](<.gitbook/assets/image (105).png>)
 
-The first step in parsing this response is converting the JSON response to an [Object](objects.md). Objects have properties \(like `name`\) that we can retrieve and display in our app. Objects can be embedded within another object.
+The first step in parsing this response is converting the JSON response to an [Object](objects.md). Objects have properties (like `name`) that we can retrieve and display in our app. Objects can be embedded within another object.
 
 #### **Get Property of Object**
 
-![](.gitbook/assets/image%20%2868%29.png)
+![](<.gitbook/assets/image (68).png>)
 
-Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the name of the city we are viewing weather data for \(`"name":` in line 22\), we'll want to get the property `name` of the response:
+Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the name of the city we are viewing weather data for (`"name":` in line 22), we'll want to get the property `name` of the response:
 
 ![](.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
 
@@ -122,13 +119,13 @@ If we wanted to get the temperature in Dhaka from the Open Weather API above, we
 
 * Convert the JSON response to an object
 * Get the property `main` of the response object
-* Get the property `temp` of `main` 
+* Get the property `temp` of `main`&#x20;
 
 We can write this as getting the property `main.temp` of the response object:
 
-![](.gitbook/assets/image%20%28197%29.png)
+![](<.gitbook/assets/image (197).png>)
 
-You can read about getting nested values from Objects [here](objects.md#nested-values-and-values-from-arrays). 
+You can read about getting nested values from Objects [here](objects.md#nested-values-and-values-from-arrays).&#x20;
 
 ### Get Properties from Lists
 
@@ -140,7 +137,7 @@ You can find a working example of this in the sample app, [Ride](https://communi
 
 The JSON output of the Google Maps Distance Matrix API seems similar to the Open Weather Map API with one notable exception: it includes objects, properties and _lists_. Lists are items bounded by `[` square brackets `]`.
 
-```text
+```
 {
    "destination_addresses" : [ "Los Angeles, CA, USA" ],
    "origin_addresses" : [ "San Francisco, CA, USA" ],
@@ -167,7 +164,7 @@ The JSON output of the Google Maps Distance Matrix API seems similar to the Open
 
 If you want to retrieve the `"text"` property in line 13, you'll have to:
 
-* convert the JSON to an object 
+* convert the JSON to an object&#x20;
 * select the `"rows"` property of the object
 * select the first item in the list
 * select the `"elements"` property of the rows object
@@ -187,19 +184,18 @@ This can also be written as the property `rows[1].elements[1].duration.text` of 
 
 Uploading and deleting data is usually reserved for a private API that you or your organization owns
 
-| Event | Description |
-| :--- | :--- |
-| Put \(`response`, `status`,`error`\) | Performs an HTTP PUT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
-| Post \(`response`, `status`,`error`\) | Performs an HTTP POST request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
-| Patch \(`response, status, error`\) | Performs an HTTP PATCH request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+| Event                               | Description                                                                                                                                                                |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Put (`response`, `status`,`error`)  | Performs an HTTP PUT request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error`   |
+| Post (`response`, `status`,`error`) | Performs an HTTP POST request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error`  |
+| Patch (`response, status, error`)   | Performs an HTTP PATCH request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
 ## Delete data
 
-| Event | Description |
-| :--- | :--- |
-| Delete \(`response`, `status`,`error`\) | Performs an HTTP DELETE request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
+| Event                                 | Description                                                                                                                                                                 |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Delete (`response`, `status`,`error`) | Performs an HTTP DELETE request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
 ## See Also
 
 You can also post and receive messages between a web page and a [Web Viewer](web-viewer.md) using the Post Message function. Read more about that [here](web-viewer.md#post-message-receive-message).
-
