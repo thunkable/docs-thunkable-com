@@ -73,6 +73,22 @@ The language of blocks is a visible programming language. By dragging and droppi
 [blocks.md](blocks.md)
 {% endcontent-ref %}
 
-## Operating Systems (OS)&#x20;
+## Minimum Requirements
 
-While Thunkable often works on older operating systems, we only develop for operating systems that actively receive security updates (currently iOS 15 and Android 10, 11, 12).
+### Operating Systems (OS)&#x20;
+
+Thunkable recommends and actively supports using a mobile OS that is actively receiving security updates.
+
+This includes iOS 15+ and Android 10+.
+
+Thunkable apps are often compatible with older OS, but this is not guaranteed.
+
+### Browser
+
+Thunkable supports developing with the following browsers:&#x20;
+
+* Mozilla Firefox
+* Google Chrome
+* Apple Safari
+
+We recommend updating your browser regularly for the best experience.
