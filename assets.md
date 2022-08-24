@@ -22,6 +22,10 @@ You can view your total account storage size in your account settings.
 
 Assets can be uploaded from multiple parts of Thunkable, however with limited storage capacity, it's best to delete assets that aren't being used. To access your assets, click the Assets button on the left panel.
 
+### Maximum recommended asset size&#x20;
+
+We recommend that each of your asset files not exceed 50KB -100KB. Using smaller file sizes in your project will result in faster loading times for your users.
+
 ### Naming assets
 
 We recommend using a consistent naming method for your assets. This will make it easier to manage them if you use many asset files in your project.
