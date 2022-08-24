@@ -101,13 +101,13 @@ In the example above, `"base"`, `"dt"`, `"id"`, `"name"` and `"cod"` are simple 
 
 #### **Convert JSON to Object**
 
-![](<.gitbook/assets/image (105).png>)
-
 The first step in parsing this response is converting the JSON response to an [Object](objects.md). Objects have properties (like `name`) that we can retrieve and display in our app. Objects can be embedded within another object.
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-08-24 at 3.18.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### **Get Property of Object**
 
-![](<.gitbook/assets/image (68).png>)
+<figure><img src=".gitbook/assets/Screen Shot 2022-08-24 at 3.21.38 PM.png" alt=""><figcaption></figcaption></figure>
 
 Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the name of the city we are viewing weather data for (`"name":` in line 22), we'll want to get the property `name` of the response:
 

@@ -4,16 +4,27 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 17, 2022
+
+Platform Updates
+
+* Preparation for upgrading to React Navigation 5 with Expo 45
+* Improve analytics for causes of projects not saving
+
 ## August 15, 2022
 
 Platform Updates
 
 * Fix issue with displaying assets in web apps
+* Show accurate publish date for web apps
+* Drop support for iOS 12 as part of preparation for using Expo 45
+  * Will be adding support for iOS 16
 
 Component Updates
 
 * [Web API](../web-api.md): Allow form data to be submitted to API
 * [Sound](../sound.md): Play sound even if device is set to silent
+* [Logic blocks](../logic.md), [variables](../variables.md): Fix errors seen when trying to compare null variable to empty text or empty list
 
 ## August 10, 2022
 
