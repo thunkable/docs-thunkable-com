@@ -4,6 +4,29 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 25, 2022
+
+Platform Updates
+
+* [Download Android](../download.md#download-android-app), [Publish Android](../publish-to-play-store-android.md): added option to build Android app to target Android API 31/Android 12
+  * New apps to the Google Play Store must target at least Android API 31/Android 12
+  * Updates to existing apps on the Google Play Store must target Android API 31/Android 12 from **November 1, 2022**
+  * All existing apps on the Google Play Store must target Android API 31/Android 12 by **November 1, 2023**
+
+## August 24, 2022
+
+Platform Updates
+
+* Infrastructure upgrades
+* Increased frequency of project backups
+
+Component Updates
+
+* [AdMob](../admob.md): Improved error handling
+* [Group](../group.md):  improved appearance of Button inside nested Groups
+
+
+
 ## August 17, 2022
 
 Platform Updates
