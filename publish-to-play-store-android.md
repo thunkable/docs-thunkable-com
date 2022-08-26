@@ -10,6 +10,16 @@ From July 20, 2022 you must now [review how your app collects and shares user da
 
 Publishing your app to the Play Store will help your app reach 2 billion active Android devices. The ability to publish an Android app is available to PRO, Business and Enterprise Thunkable creators. Learn more at [our pricing page](https://thunkable.com/#/pricing).
 
+
+
+
+
+[Download Android](download.md#download-android-app), [Publish Android](publish-to-play-store-android.md): added option to build Android app to target Android API 31/Android 12
+
+* New apps to the Google Play Store must target at least Android API 31/Android 12
+* Updates to existing apps on the Google Play Store must target Android API 31/Android 12 from **November 1, 2022**
+* All existing apps on the Google Play Store must target Android API 31/Android 12 by **November 1, 2023**
+
 ## Minimum requirements
 
 * Google Play Developer Account ($25 one-time fee). Don't have an account? [**Sign up here**](https://play.google.com/apps/publish/signup/)
@@ -50,9 +60,17 @@ You can download your AAB file by clicking the download icon and selecting **Pub
 
 
 
-You will see a dialog asking you to enter your email address. An AAB file will be sent to you:
+You will see a dialog asking you to enter your email address.&#x20;
 
-![](.gitbook/assets/screen-shot-2021-06-03-at-11.58.07-am.png)
+You will be given the option to Target Build for Android 12 (API Level 31):
+
+* New apps to the Google Play Store must target at least Android API 31/Android 12
+* Updates to existing apps on the Google Play Store must target Android API 31/Android 12 from **November 1, 2022**
+* All existing apps on the Google Play Store must target Android API 31/Android 12 by **November 1, 2023**
+
+<figure><img src=".gitbook/assets/Screen Shot 2022-08-26 at 5.38.18 PM.png" alt=""><figcaption></figcaption></figure>
+
+After you click Send, you will receive you AAB file as an email. This will take approximately 30 minutes.
 
 {% hint style="warning" %}
 An AAB file cannot be installed on an Android device. If you want to download and install your project, please read the [Download](download.md#download-android-app) docs.
