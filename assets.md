@@ -20,10 +20,9 @@ You can view your total account storage size in your account settings.
 
 ## App Limits
 
-| Element       | Limit                                                                      |
-| ------------- | -------------------------------------------------------------------------- |
-| App size      | 50 MB for Free and [PRO](https://thunkable.com/#/pricing) accounts.        |
-| App downloads | 2 per month for Free, unlimited for [PRO](https://thunkable.com/#/pricing) |
+| Element  | Limit                                                               |
+| -------- | ------------------------------------------------------------------- |
+| App size | 50 MB for Free and [PRO](https://thunkable.com/#/pricing) accounts. |
 
 ## Uploading & Managing Assets
 
