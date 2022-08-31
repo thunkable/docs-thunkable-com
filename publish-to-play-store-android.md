@@ -10,16 +10,6 @@ From July 20, 2022 you must now [review how your app collects and shares user da
 
 Publishing your app to the Play Store will help your app reach 2 billion active Android devices. The ability to publish an Android app is available to PRO, Business and Enterprise Thunkable creators. Learn more at [our pricing page](https://thunkable.com/#/pricing).
 
-
-
-
-
-[Download Android](download.md#download-android-app), [Publish Android](publish-to-play-store-android.md): added option to build Android app to target Android API 31/Android 12
-
-* New apps to the Google Play Store must target at least Android API 31/Android 12
-* Updates to existing apps on the Google Play Store must target Android API 31/Android 12 from **November 1, 2022**
-* All existing apps on the Google Play Store must target Android API 31/Android 12 by **November 1, 2023**
-
 ## Minimum requirements
 
 * Google Play Developer Account ($25 one-time fee). Don't have an account? [**Sign up here**](https://play.google.com/apps/publish/signup/)

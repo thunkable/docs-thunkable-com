@@ -10,17 +10,24 @@ Use the **Assets Panel** to upload, rename and manage all of the assets you've u
 
 Each plan has a limited storage capacity.&#x20;
 
-| Free  | Starter | Pro | Business/Enterprise |
-| ----- | ------- | --- | ------------------- |
-| 200MB | 500MB   | 1GB | Unlimited           |
+| Free  | Starter | Pro | Business  |
+| ----- | ------- | --- | --------- |
+| 200MB | 500MB   | 1GB | Unlimited |
 
 You can view your total account storage size in your account settings.
 
 ![](<.gitbook/assets/thunkable (1).png>)
 
+## App Limits
+
+| Element       | Limit                                                                      |
+| ------------- | -------------------------------------------------------------------------- |
+| App size      | 50 MB for Free and [PRO](https://thunkable.com/#/pricing) accounts.        |
+| App downloads | 2 per month for Free, unlimited for [PRO](https://thunkable.com/#/pricing) |
+
 ## Uploading & Managing Assets
 
-Assets can be uploaded from multiple parts of Thunkable, however with limited storage capacity, it's best to delete assets that aren't being used. To access your assets, click the Assets button on the left panel.
+Assets can be uploaded from multiple parts of Thunkable, however, with limited storage capacity, it's best to delete assets that aren't being used. To access your assets, click the Assets button on the left panel.
 
 ### Maximum recommended asset size&#x20;
 
