@@ -4,6 +4,24 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 30, 2022
+
+Platform Updates
+
+* Improve appearance of read-only projects
+* Remove URL redirect for web apps
+* Improve appearance of account icon in project view
+
+Component Updates
+
+* [Date Input](../date-input.md): improve positioning on web apps
+
+## August 27, 2022
+
+Platform Updates
+
+* Frontend security update
+
 ## August 25, 2022
 
 Platform Updates
