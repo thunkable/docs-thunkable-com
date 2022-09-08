@@ -32,7 +32,11 @@ Here are three examples of navigators that you can use on Thunkable.
 
 **3.** [**Stack Navigators**](https://docs.thunkable.com/stack-navigator) - Navigators that allow you to stack screens on top of other screens.
 
-## Layout Components
+## Screen and Navigator Components
+
+{% content-ref url="screen.md" %}
+[screen.md](screen.md)
+{% endcontent-ref %}
 
 {% content-ref url="top-tab-navigator.md" %}
 [top-tab-navigator.md](top-tab-navigator.md)
@@ -50,9 +54,7 @@ Here are three examples of navigators that you can use on Thunkable.
 [drawer-navigator.md](drawer-navigator.md)
 {% endcontent-ref %}
 
-{% content-ref url="screen.md" %}
-[screen.md](screen.md)
-{% endcontent-ref %}
+## Layout Components
 
 {% content-ref url="row.md" %}
 [row.md](row.md)
