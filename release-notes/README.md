@@ -4,6 +4,28 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## September 7, 2022
+
+Platform Updates
+
+* [Android download](../download.md#download-android-app), [Android publish](../publish-to-play-store-android.md): built Android apps will target Android API 31 by default
+
+Component Updates
+
+* [Speech blocks](../speech.md): restored Amharic option in language drop-down
+
+## September 6, 2022
+
+Platform Updates
+
+* Improve quality of project backups
+
+## September 3, 2022
+
+Platform Updates
+
+* Background updates to improve stability of platform
+
 ## August 30, 2022
 
 Platform Updates
