@@ -8,6 +8,7 @@
 * [Your Thunkable Projects Page](your-thunkable-projects-page.md)
 * [🆕 Create New Project](projects.md)
 * [Project Settings](project-settings.md)
+* [Tablet view](tablet-view.md)
 * [Assets](assets.md)
 * [Figma Integration](figma.md)
 * [🛠️ Components and Features](components.md)
