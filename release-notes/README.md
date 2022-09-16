@@ -4,6 +4,16 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## September 13, 2022
+
+Platform Updates
+
+* [iOS Publish](../publish-to-app-store-ios/): Change how build numbers are generated
+
+Component Updates
+
+* [Data Sources](../data-sources.md): Improve updating display of data in Local Data Source when viewing project
+
 ## September 7, 2022
 
 Platform Updates
