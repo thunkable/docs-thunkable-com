@@ -48,6 +48,10 @@ Before you download your app, make sure you set the appropriate Build and Versio
 
 ## Download your Android App Bundle (AAB) file
 
+{% hint style="warning" %}
+An AAB file cannot be installed on an Android device. If you want to download and install your project, please read the [Download](download.md#download-android-app) docs.
+{% endhint %}
+
 You can download your AAB file by clicking the download icon and selecting **Publish Android**:&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-06-03-at-12.05.02-pm.png)
@@ -56,13 +60,9 @@ You can download your AAB file by clicking the download icon and selecting **Pub
 
 You will see a dialog asking you to enter your email address.&#x20;
 
-<figure><img src=".gitbook/assets/Screen Shot 2022-09-23 at 1.15.32 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2022-09-23 at 1.21.44 PM.png" alt=""><figcaption></figcaption></figure>
 
 After you click Send, you will receive your AAB file as an email. This will take approximately 30 minutes.
-
-{% hint style="warning" %}
-An AAB file cannot be installed on an Android device. If you want to download and install your project, please read the [Download](download.md#download-android-app) docs.
-{% endhint %}
 
 ## Submit your app for review
 
