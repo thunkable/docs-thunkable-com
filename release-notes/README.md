@@ -4,6 +4,21 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## September 22, 2022
+
+Platform Updates
+
+* Fix issue with signing in seen with new accounts
+* [Android Download](../download.md#download-android-app), [Android Publish](../publish-to-play-store-android.md): Remove option to build Android apps with Android API 30 - all Android apps now built with Android API 31/targeting Android 12
+* Web Preview: Hide blocks when previewing a read-only app
+* Fix opening the project detail page
+
+## September 16, 2022
+
+Platform Updates
+
+* Improve speed in snap-to-place projects
+
 ## September 13, 2022
 
 Platform Updates
