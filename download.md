@@ -18,13 +18,17 @@ Users should be aware of the total number of downloads they are allowed per mont
 
 ## Download Android app
 
+{% hint style="info" %}
+All Android apps built with Thunkable are built with Android API 31 and target Android 12
+{% endhint %}
+
 To download your Android app, click the Download icon and select **Download Android**&#x20;
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.11.40-am.png)
 
 * Enter your email address in the pop-up window
 
-![](.gitbook/assets/screen-shot-2021-02-22-at-8.26.54-am.png)
+<figure><img src=".gitbook/assets/Screen Shot 2022-09-23 at 1.19.31 PM.png" alt=""><figcaption></figcaption></figure>
 
 You will be sent an email with a link to download your app.
 
