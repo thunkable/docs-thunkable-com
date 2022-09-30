@@ -4,6 +4,19 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## September 27, 2022
+
+Platform Updates
+
+* Upgrade to [Expo 45](https://blog.expo.dev/expo-sdk-45-f4e332954a68)
+* [Android Download](../download.md#download-android-app), [Android Publish](../publish-to-play-store-android.md): Fix 'missing keystore' error
+
+## September 24, 2022
+
+Component Updates
+
+* [Bluetooth Low Energy](../bluetooth-low-energy.md): fix permissions for Android 11 devices&#x20;
+
 ## September 22, 2022
 
 Platform Updates
