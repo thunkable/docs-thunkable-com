@@ -23,6 +23,19 @@ Select **Create New Screen.**
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-5.11.05-pm.png)
 
+### Copy and paste components&#x20;
+
+Once you’ve perfected the design of a screen on the Design tab of a drag and drop project you can duplicate it using copy and paste keyboard shortcuts.
+
+To copy and paste a screen:&#x20;
+
+1.  Click on a screen name in the component tree (A) or the screen itself within your workspace (B).
+
+    <figure><img src="https://lh3.googleusercontent.com/aVVH2nMfdTb2fyerNLzn4HktWL-hv50diVzP90PQvpSbbB45FGWUwj1OF9chxAoR1iVJV813LPP3nL8Yd95Av6EAw5NEG1oOktoM1GXqDg8LyLCraIKV-zXSHmtBXHJp-LNdDX_446vqo7028JI4o9IrQYPDTPo4aIkhwA-ZakAejpB0DctUGreUVA" alt=""><figcaption></figcaption></figure>
+2. Type **ctrl+c** or **command+c** on Mac, and **ctrl+c** on PC, to copy the screen.&#x20;
+3. Type **ctrl+v** or **command+v** on Mac, and **ctrl+v** on PC, to paste a duplicate of the screen.
+4. The new screen will be added to the right of the existing screen.
+
 ## Screen Properties
 
 ### Screen
