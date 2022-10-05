@@ -24,6 +24,20 @@ Each UI component has unique properties that you can use to customize it. You ca
 
 In the example above, a **Label** has been selected. Note its unique properties such as its font, color, alignment, etc.&#x20;
 
+### Copy and paste components&#x20;
+
+Once you’ve perfected a UI component on the Design tab of a drag and drop project, you can duplicate it using copy-and-paste keyboard shortcuts.
+
+To copy and paste a component:&#x20;
+
+1.  Click on a component name in the component tree (A) or the component within a screen in your workspace (B).\
+
+
+    <figure><img src="https://lh6.googleusercontent.com/u-6CMjS6Fm-JDNhxsBeVM0ZRvhHUQdaafaeYLTkkX74NV-7Myc1eVKz8ljWce8SslmZyrnjgs-COKFzlDzlk9457vG-cS2RFi2FPl4WCYEB72Cfwl8Rk1-Yi-svdrGBWkSFuJhMvBJvxOV6wpTWqeRRKcgKvqU-o3omZbOxOw2d-YPf1Zoyn0BYA8A" alt=""><figcaption></figcaption></figure>
+2. Type **ctrl+c** or **command+c** on Mac, and **ctrl+c** on PC, to copy the component.&#x20;
+3. Type **ctrl+v** or **command+v** on Mac, and **ctrl+v** on PC, to paste a duplicate of the component.
+4. Click and drag the new component to position it as you desire.
+
 ## App Features
 
 [App Features](app-features.md) are features offer non-UI functionality.&#x20;
