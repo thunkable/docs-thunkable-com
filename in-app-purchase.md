@@ -90,7 +90,7 @@ Be mindful to leave extra time for testing in your app development cycle to allo
 
 ### App Store (iOS):
 
-On iOS you need to submit to the App Store via Testflight to test the features. You can read more about Testflight here.&#x20;
+On iOS you need to submit to the App Store via Testflight to test the features. You can read more about Testflight here: [TestFlight Overview](https://docs.thunkable.com/publish-to-app-store-ios/testflight-overview).&#x20;
 
 Testflight sets up a sandbox environment automatically. When you send your update to the app store, you are able to test without having it go to the live version.
 
