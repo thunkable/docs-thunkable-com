@@ -4,6 +4,13 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## September 28, 2022
+
+Platform Updates
+
+* Add ability to [copy and paste components](../ui-components.md#copy-and-paste-components) with hotkey commands
+* Add pop-up to confirm deletion of large (7+) groups of blocks
+
 ## September 27, 2022
 
 Platform Updates
