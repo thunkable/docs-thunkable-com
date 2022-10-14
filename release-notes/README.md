@@ -4,6 +4,31 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## October 14, 2022
+
+Platform Updates
+
+* Handle blocks crash for non-English languages
+* Fix for issues seen by some creators when deleting groups of blocks
+
+## October 13, 2022
+
+Component Updates
+
+* [Bluetooth Low Energy](../bluetooth-low-energy.md): Fix BLE Scan on Android
+
+## October 8, 2022
+
+Platform Updates
+
+* [Pricing page](https://thunkable.com/#/pricing): Add 'per month' pricing to all pricing cards
+
+## October 5, 2022
+
+Component Updates
+
+* [Logic Blocks](../logic.md): allow blocks that return true/false values to be used to set a component's text to true or false
+
 ## September 28, 2022
 
 Platform Updates
