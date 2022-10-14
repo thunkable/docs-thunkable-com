@@ -33,7 +33,7 @@ Select your product type:
 * In-App Product - a one-time purchase
 * Subscription - recurring purchases
 
-Read: Earn | aR
+[Read: Earn | Google Play | Android Developers](https://developer.android.com/distribute/best-practices/earn)
 
 ### Apple App Store (In-App Purchase → Manage)
 
@@ -47,6 +47,8 @@ After this is complete, you will now be able to add your In-App Purchases.
 * Non-Consumable - a product that can only be purchased once and keeps history in your apple account. If you try and buy a second time, it reports you have already purchased and offers a free download
 * Auto-Renewable Subscription
 * Non-Renewing Subscription
+
+[Read: In-App Purchase - App Store](https://developer.apple.com/in-app-purchase/)
 
 ## Properties
 
