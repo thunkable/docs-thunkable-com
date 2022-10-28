@@ -4,6 +4,34 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## October 25, 2022
+
+Platform Updates
+
+* Backend and infrastructure upgrades
+
+## October 25, 2022
+
+Platform Updates
+
+* Infrastructure upgrades
+
+Component Updates
+
+* [Sound](../sound.md): Fix sound autoplay in Snap to Place projects
+* [Sound](../sound.md): Fix sound playback in Drag and Drop projects
+
+## October 20, 2022
+
+Platform Updates
+
+* Backend and infrastructure upgrades
+* Fix copying blocks in builder
+
+Component Updates
+
+* [Sound](../sound.md): Fix firing of 'do' block
+
 ## October 14, 2022
 
 Platform Updates
