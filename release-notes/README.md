@@ -4,7 +4,7 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
-## October 25, 2022
+## November 1, 2022
 
 Platform Updates
 
@@ -14,7 +14,7 @@ Platform Updates
 
 Platform Updates
 
-* Infrastructure upgrades
+* Backend and Infrastructure upgrades
 
 Component Updates
 
