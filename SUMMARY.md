@@ -128,6 +128,7 @@
     * [Setup your Cloud environment](in-app-purchases/host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/README.md)
       * [Android Subscriptions Code](in-app-purchases/host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/android-subscriptions-code.md)
       * [Android Purchases Code](in-app-purchases/host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/android-purchases-code.md)
+      * [iOS Code](in-app-purchases/host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/ios-code.md)
       * [Server Logs](in-app-purchases/host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/server-logs.md)
   * [In-App Setup](in-app-purchases/in-app-setup.md)
   * [Purchase Subscription / Purchase One-Time Item](in-app-purchases/purchase-subscription-purchase-one-time-item.md)

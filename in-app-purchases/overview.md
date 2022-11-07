@@ -4,16 +4,16 @@
 
 In-App Purchases (IAPs) are a great way to monetize your app. These allow you to offer access to specific in-app sections. This allows you to offer some content to the general user, but also offer ‘premium’ content/features of your app for a price.​To begin, you'll need to take care of a few details for either platform you plan to incorporate IAP with. Follow the links below to get the groundwork laid to begin using IAP in your app!
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="android-play-store-setup.md" %}
+[android-play-store-setup.md](android-play-store-setup.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="ios-app-store-setup.md" %}
+[ios-app-store-setup.md](ios-app-store-setup.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="host-your-server-side-verification-code-on-firebase/" %}
+[host-your-server-side-verification-code-on-firebase](host-your-server-side-verification-code-on-firebase/)
 {% endcontent-ref %}
 
 ## IAP Block & Code combinations <a href="#iap-block-and-code-combinations" id="iap-block-and-code-combinations"></a>

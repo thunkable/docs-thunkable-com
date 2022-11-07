@@ -18,7 +18,7 @@ Drag an image component onto the screen. The chart URL will be used as the image
 
 * Drag an image component to the screen
 * Go to your blocks
-* Following some user or system generated action, set the url for the image component using the Quickchart API **base URL** provided while [saving your chart](broken-reference)
+* Following some user or system generated action, set the url for the image component using the Quickchart API **base URL** provided while saving your chart
 * All chart updates will be made by appending text `join blocks` to the image source URL.&#x20;
 
 <figure><img src="../.gitbook/assets/Charting in Thunkable  Blocking it out.png" alt=""><figcaption></figcaption></figure>

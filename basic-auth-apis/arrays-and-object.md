@@ -14,7 +14,7 @@ Once you've done this you can then perform all the usual CRUD operations which t
 
 <figure><img src="../.gitbook/assets/yfinAPI_url.png" alt=""><figcaption></figcaption></figure>
 
-Now that your developer account is set up you can start making requests. The first thing we can do is to get the price for a given stock. We do this by sending a GET request to the _/v6/finance/quote_ endpoint. Notice in the Curl section above that two headers are also required here; _accept_ and _X-API-KEY._ If you're unfamiliar with setting API headers take a look at the <mark style="color:purple;">Setting API Headers</mark> section.
+Now that your developer account is set up you can start making requests. The first thing we can do is to get the price for a given stock. We do this by sending a GET request to the _/v6/finance/quote_ endpoint. Notice in the Curl section above that two headers are also required here; _accept_ and _X-API-KEY._ If you're unfamiliar with setting API headers take a look at the [<mark style="color:purple;">Setting API Headers</mark> ](../no-auth-apis/setting-headers.md)section.
 
 ### Block it out
 

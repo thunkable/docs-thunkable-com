@@ -204,7 +204,7 @@ exports.verifyiOSPurchase = functions.https.onRequest((req, res) => {
 
 ## The Verify API Endpoint URL&#x20;
 
-If you followed the directions [here](broken-reference) you will have ended up with a trigger url.&#x20;
+If you followed the directions for iOS Code [here](broken-reference) you will have ended up with a trigger url.&#x20;
 
 find the trigger URL by going to your [function list](https://console.cloud.google.com/functions/list) and selecting the iOS Verify function.&#x20;
 

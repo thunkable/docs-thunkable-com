@@ -232,11 +232,11 @@ Notice that the blocks are almost similar for these two. Thats because the respo
 
 ## The Purchase or Subscription API Endpoint URLs&#x20;
 
-If you followed the directions [here](broken-reference) or [here](broken-reference) you will have ended up with a trigger url.&#x20;
+If you followed the directions for [Android Subscriptions Code](host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/android-subscriptions-code.md) or [Android Purchases Codes](host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/android-purchases-code.md) you will have a trigger URL.&#x20;
 
-find the trigger URL by going to your [function list](https://console.cloud.google.com/functions/list) and selecting the purchase or  subscription function&#x20;
+Find the trigger URL by going to your [function list](https://console.cloud.google.com/functions/list) and selecting the purchase or  subscription function&#x20;
 
-then click the trigger Tab and notice the included url.&#x20;
+Then click the trigger Tab and notice the included URL.&#x20;
 
 <figure><img src="../.gitbook/assets/3 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -247,6 +247,6 @@ Copy in the URL and add a header as shown in the image below
 <figure><img src="../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** \
-in the above example, there are several references to <mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="background-color:purple;"><mark style="color:purple;">"<mark style="color:purple;"></mark>[<mark style="background-color:purple;"><mark style="color:purple;">server log<mark style="color:purple;"></mark>](broken-reference)<mark style="background-color:purple;"><mark style="color:purple;">s"<mark style="color:purple;"></mark><mark style="background-color:purple;">.</mark> this is nothing more than saving data to firebase in order to see logs in a different manner. \
+in the above example, there are several references to "server logs." this is nothing more than saving data to firebase in order to see logs in a different manner. \
 \
 Error logging should occur during testing to allow for easier debugging.&#x20;
