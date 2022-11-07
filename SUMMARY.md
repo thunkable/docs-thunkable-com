@@ -134,3 +134,5 @@
   * [Verify and Acknowledge Android Purchases and Subscription](in-app-purchases/verify-and-acknowledge-android-purchases-and-subscription.md)
   * [Verify iOS Purchases](in-app-purchases/verify-ios-purchases.md)
   * [Get Products Info](in-app-purchases/get-products-info.md)
+  * [Get Most Recent Active Purchase](in-app-purchases/get-most-recent-active-purchase.md)
+  * [Get Purchase History / Restore Purchases](in-app-purchases/get-purchase-history-restore-purchases.md)

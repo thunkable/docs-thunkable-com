@@ -22,7 +22,7 @@ These codes will allow you to acknowledge and verify purchases or subscriptions.
 
 ### 4. Save the trigger type
 
-<figure><img src="../../../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Copy the code below and click the blue "next" button
 

@@ -238,13 +238,13 @@ find the trigger URL by going to your [function list](https://console.cloud.goog
 
 then click the trigger Tab and notice the included url.&#x20;
 
-<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 you will copy this url then go back into your Thunkable projects to the blocks page and create a new [web api](https://docs.thunkable.com/v/drag-and-drop/web-api)
 
 Copy in the URL and add a header as shown in the image below
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** \
 in the above example, there are several references to <mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="background-color:purple;"><mark style="color:purple;">"<mark style="color:purple;"></mark>[<mark style="background-color:purple;"><mark style="color:purple;">server log<mark style="color:purple;"></mark>](broken-reference)<mark style="background-color:purple;"><mark style="color:purple;">s"<mark style="color:purple;"></mark><mark style="background-color:purple;">.</mark> this is nothing more than saving data to firebase in order to see logs in a different manner. \

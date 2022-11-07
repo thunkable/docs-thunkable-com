@@ -16,7 +16,7 @@ Or, click **Live Test** in the Design screen of your app, and click the text **P
 
 Open the link in Google Chrome.
 
-![](<.gitbook/assets/1 (2).png>)
+![](<.gitbook/assets/1 (2) (1).png>)
 
 Click Settings > More Tools > Developer Tools to view app in **Developer mode.**
 
