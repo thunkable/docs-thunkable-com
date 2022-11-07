@@ -319,15 +319,15 @@ At this point, you should be able to access the Google Play Developer API throug
 
 2. Find the service account you created in [Step 4](android-play-store-setup.md#step-4-setup-your-google-cloud-account-and-android-service-account) and click "View in Google Cloud Platform"
 
-<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
 
 3\. Find and click on the service account in the list in the Google Cloud Platform
 
-<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click the Keys tab
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 5\. Click "Add key" then "Create new Key"
 

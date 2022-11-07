@@ -6,13 +6,13 @@ These codes will allow you to acknowledge and verify purchases or subscriptions.
 
 ### 2. Click Create Function
 
-<figure><img src="../../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Give your new function  a meaningful name
 
 **androidSubscriptionHandler** should be the  name you use here
 
-<figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Save the trigger type
 
