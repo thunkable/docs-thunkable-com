@@ -18,11 +18,11 @@ These codes will allow you to acknowledge and verify purchases or subscriptions.
 
 **androidPurchaseHandler** should be the name you use here
 
-<figure><img src="../../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Save the trigger type
 
-<figure><img src="../../../.gitbook/assets/4 (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 5. Copy the code below and click the blue "next" button
 
@@ -129,7 +129,7 @@ exports.androidPurchaseHandler = functions.https.onRequest((request, response) =
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/5 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 6. Clear the default and paste the copied code into the code
 

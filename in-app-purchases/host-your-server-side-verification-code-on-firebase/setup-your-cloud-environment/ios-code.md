@@ -12,17 +12,25 @@ These codes will allow you to acknowledge and verify purchases or subscriptions.
 
 ### 2. Click Create Function
 
-![this process creates a new endpoint for you ](broken-reference)
+<figure><img src="../../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Give your new function  a meaningful name
 
 **verifyiOSPurchase** should be the name you use here
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Save the trigger type
 
-![](broken-reference)
+<div>
+
+<img src="broken-reference" alt="">
+
+ 
+
+<figure><img src="../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 5. Copy the code below and click the blue "next" button
 
@@ -75,7 +83,7 @@ exports.verifyiOSPurchase = functions.https.onRequest((req, res) => {
 
 </details>
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/5 (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 6. Clear the default and paste the copied code into the code
 
@@ -108,11 +116,11 @@ exports.verifyiOSPurchase = functions.https.onRequest((req, res) => {
 
 the name used here should match the name used in **Step 3** above
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/8 (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 9. Deploy the function
 
-![](broken-reference)
+<figure><img src="../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 ### 10. Set function invocation privacy permissions
 

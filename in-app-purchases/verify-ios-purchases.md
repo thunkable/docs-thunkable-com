@@ -204,11 +204,11 @@ exports.verifyiOSPurchase = functions.https.onRequest((req, res) => {
 
 ## The Verify API Endpoint URL&#x20;
 
-If you followed the directions for iOS Code [here](broken-reference) you will have ended up with a trigger url.&#x20;
+If you followed the directions for [iOS Code](host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/ios-code.md) you will have a trigger URL.&#x20;
 
-find the trigger URL by going to your [function list](https://console.cloud.google.com/functions/list) and selecting the iOS Verify function.&#x20;
+Find the trigger URL by going to your [function list](https://console.cloud.google.com/functions/list) and selecting the iOS Verify function.&#x20;
 
-then click the trigger Tab and notice the included url.&#x20;
+Then click the trigger Tab and notice the included URL.&#x20;
 
 <figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -219,6 +219,6 @@ Copy in the URL and add a header as shown in the image below
 <figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 **Note:** \
-in the above example, there are several references to <mark style="background-color:purple;">"</mark>[<mark style="background-color:purple;">server log</mark>](broken-reference)<mark style="background-color:purple;">s"</mark>. this is nothing more than saving data to firebase in order to see logs in a different manner. \
+in the above example, there are several references to "[server logs](host-your-server-side-verification-code-on-firebase/setup-your-cloud-environment/server-logs.md)." this is nothing more than saving data to firebase in order to see logs in a different manner. \
 \
 Error logging should occur during testing to allow for easier debugging. \

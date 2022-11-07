@@ -244,7 +244,7 @@ you will copy this url then go back into your Thunkable projects to the blocks p
 
 Copy in the URL and add a header as shown in the image below
 
-<figure><img src="../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** \
 in the above example, there are several references to "server logs." this is nothing more than saving data to firebase in order to see logs in a different manner. \

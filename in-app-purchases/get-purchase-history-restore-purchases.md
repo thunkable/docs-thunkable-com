@@ -114,7 +114,7 @@ If there's not an error, pass the `List of Purchase Info` to the `Restore Previo
 {% tab title="4" %}
 Handling restoration will look different for each app, however in general it should follow this general format.
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
 
 Notice the \_listOfPurchases variable. you can create that by clicking the cog wheel, dragging an `input name`  block into the `inputs` receiver, and giving it a meaningful name
 {% endtab %}
