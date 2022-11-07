@@ -113,3 +113,4 @@
 * [🆓 No Auth APIs](no-auth-apis/README.md)
   * [Why use an API?](no-auth-apis/why-use-an-api.md)
   * [CRUD Operations](no-auth-apis/crud-operations.md)
+  * [Setting Headers](no-auth-apis/setting-headers.md)
