@@ -114,3 +114,6 @@
   * [Why use an API?](no-auth-apis/why-use-an-api.md)
   * [CRUD Operations](no-auth-apis/crud-operations.md)
   * [Setting Headers](no-auth-apis/setting-headers.md)
+* [📊 Charting APIs](charting-apis/README.md)
+  * [Create a chart template](charting-apis/create-a-chart-template.md)
+  * [Charting in Thunkable](charting-apis/charting-in-thunkable.md)
