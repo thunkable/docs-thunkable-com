@@ -117,3 +117,6 @@
 * [📊 Charting APIs](charting-apis/README.md)
   * [Create a chart template](charting-apis/create-a-chart-template.md)
   * [Charting in Thunkable](charting-apis/charting-in-thunkable.md)
+* [🔐 Basic Auth APIs](basic-auth-apis/README.md)
+  * [API Keys](basic-auth-apis/api-keys.md)
+  * [Arrays and Object](basic-auth-apis/arrays-and-object.md)
