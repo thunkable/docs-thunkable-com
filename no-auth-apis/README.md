@@ -1,0 +1,2 @@
+# 🆓 No Auth APIs
+
