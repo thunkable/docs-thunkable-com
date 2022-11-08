@@ -7,13 +7,13 @@ By the end of this demo you should understand that:
 1. API requests are asynchronous, which means:
 2. For the best performance, you should always aim to minimize the total number of calls in your app.&#x20;
 
-<mark style="background-color:purple;"></mark>![](<../.gitbook/assets/image (1) (1).png>)<mark style="background-color:purple;"></mark>
+<mark style="background-color:purple;"></mark>![](<../.gitbook/assets/image (1) (1) (2).png>)<mark style="background-color:purple;"></mark>
 
 ### Google Sheet
 
 Let's get started by making a copy of this sheet, which has all the functions your app will need. By default the Google Finance function will return the most recent price for a given symbol. Alternatively, you can pass any one of a number of different parameters to find the corresponding value. In the image below, we are showing the price in cell **B2** and showing the chance in price in cell **B3.** With everything set up in our Google Sheet we can connect this directly to our Thunkable project.
 
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ### Thunkable Project
 

@@ -155,14 +155,14 @@ In the side menu, expand "APIs & Services" and select "OAuth consent screen"
 On the OAuth consent screen, select the User Type and select "CREATE." \
 (You probably want to select "External" unless you are creating an app specifically for users in the same organization as your Google Cloud account).
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. **Complete the App Information form.**&#x20;
 
 Make sure you complete the required fields, highlighted in red below. \
 Click "SAVE AND CONTINUE" .
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/08_create_consent_screen_x2.png" alt=""><figcaption></figcaption></figure>
 
@@ -179,12 +179,12 @@ Select the "**.../auth/userinfo.email**" and "**.../auth/userinfo.profile**" sco
 
 In the side menu, select "Credentials."&#x20;
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 On the Credentials screen, click the "CREATE CREDENTIALS" button at the top\
 Select "OAuth client ID"
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 #### **6. Select credentials for the platforms you are building for.**&#x20;
 
@@ -199,7 +199,7 @@ For "Package name" you should use the App (Bundle) ID listed under "Publishing S
 
 <figure><img src=".gitbook/assets/android_01_create_client_id_x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 7a. Get the SHA-1 Certificate fingerprint
 

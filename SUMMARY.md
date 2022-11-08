@@ -137,3 +137,4 @@
   * [Get Products Info](in-app-purchases/get-products-info.md)
   * [Get Most Recent Active Purchase](in-app-purchases/get-most-recent-active-purchase.md)
   * [Get Purchase History / Restore Purchases](in-app-purchases/get-purchase-history-restore-purchases.md)
+* [Versioning](versioning.md)

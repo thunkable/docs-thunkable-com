@@ -200,7 +200,7 @@ exports.verifyiOSPurchase = functions.https.onRequest((req, res) => {
 
 </details>
 
-<figure><img src="../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## The Verify API Endpoint URL&#x20;
 

@@ -18,7 +18,7 @@ Thunkable also offer interactivity for App Features. These App Features offer co
 
 [UI Components](ui-components.md) make up the visual aspect of your user interface. Combine, style and customize Thunkable UI components to give your app personality and style that best suits your brand.
 
-![](<.gitbook/assets/image (6) (1).png>)
+![](<.gitbook/assets/image (6) (2).png>)
 
 Each UI component has unique properties that you can use to customize it. You can find this at the top of the **Properties panel**. All UI components have a section called **Layout** and **Style**.&#x20;
 
