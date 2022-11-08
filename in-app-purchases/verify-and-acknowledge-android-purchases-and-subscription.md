@@ -226,7 +226,7 @@ exports.androidPurchaseHandler = functions.https.onRequest((request, response) =
 
 Notice that the blocks are almost similar for these two. Thats because the response is handled the same way. We broke up the API calls in the code into "Subscription" and "One-Time Purchase" as they technically call different API's.&#x20;
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 

@@ -147,7 +147,7 @@ if the item passed the checks in **step 6,** check if `purchasedItems` list cont
 {% tab title="8" %}
 The final step is to save the state of the purchase locally so that you do not need to verify purchases every day. It is recommended to regularly [check that subscriptions are still valid](get-purchase-history-restore-purchases.md#verify-ios-transaction-and-purchase-status).&#x20;
 
-<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
 In this example, we store a T/F value for the purchase as well as the transactionReceipt. This allows the app to permit/block access to the purchased item and allows the app to check if the purchase is still valid again in the future.&#x20;
 {% endtab %}
