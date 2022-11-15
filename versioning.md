@@ -1,9 +1,5 @@
 # Versioning
 
-### **COMING SOON!**
-
-****
-
 **Note:** Project Versioning is currently being beta-tested.&#x20;
 
 ## Overview&#x20;
