@@ -4,6 +4,45 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## November 14, 2022
+
+Platform Updates
+
+* [Figma](../figma.md): Improve formatting of Figma UI components with attached blocks
+* Fix behavior seen by some users where a project refreshed as it saved
+* Further backend upgrades and improvements
+
+
+
+## November 8, 2022
+
+Platform Updates
+
+* [Project Versioning V1 ](../versioning.md)released
+* Blocks: Show confirmation modal when deleting large amount of blocks via keystroke
+* Blocks: Improve performance of Blocks workspace
+
+New Components
+
+* [Sign In with Google](../sign-in.md#google-sign-in) released
+
+Component Updates
+
+* [Dialogflow](../assistant.md): Improve performance on published Android apps
+
+## November 7, 2022
+
+Platform Updates
+
+* [iOS download](../download.md#ios-download), [iOS publish](../publish-to-app-store-ios/): improve efficiancy and reduce size of built iOS apps
+
+Component Updates
+
+* [Canvas](../canvas.md): Improve Canvas interaction with other UI components (Button, Image, etc)
+* [Group](../group.md): Improve interactivity of components nested in Groups
+* [Text Input](../text-input.md): enabled nested scroll view on Android
+* Admob Banner (Snap to Place UI): Remove unnecessary blocks
+
 ## November 1, 2022
 
 Platform Updates
