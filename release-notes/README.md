@@ -4,6 +4,22 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## November 17, 2022
+
+Platform Updates
+
+* Backend/infrastructure updates
+
+## November 16, 2022
+
+Platform Updates
+
+* Backend/infrastructure updates
+
+Component Updates
+
+* [Google Sign-In](../signing-in.md#sign-in-with-google): Improve settings UX
+
 ## November 14, 2022
 
 Platform Updates
