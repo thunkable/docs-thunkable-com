@@ -10,7 +10,7 @@ description: Navigate to different screens using a bottom tab navigator.
 
 You can watch a video tutorial for using Navigators in your Thunkable app here:
 
-{% embed url="https://www.youtube.com/watch?v=0NrkKiCGaxk&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q_Np&index=2" %}
+{% embed url="https://youtu.be/TqIVHGYdi54" %}
 
 ## Adding Navigators
 
