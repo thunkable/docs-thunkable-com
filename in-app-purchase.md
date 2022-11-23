@@ -98,7 +98,7 @@ Testflight sets up a sandbox environment automatically. When you send your updat
 
 ### Play Store (Android):
 
-On Android publish to the Play Store via internal beta testing. You can read more about internal beta testing in the Play Store here.
+On Android publish to the Play Store via internal beta testing. You can read more about internal beta testing in the Play Store here: [Set up an open, closed, or internal test](https://support.google.com/googleplay/android-developer/answer/9845334?hl=en).&#x20;
 
 You have to upload the APK or AAB file to the Play Store console before you can add any In-App Purchases.
 
