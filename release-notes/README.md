@@ -4,6 +4,18 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## November 24, 2022
+
+Component Updates
+
+* [In-App Purchase](../in-app-purchase.md): Fixes for one-time purchases and subscription purchases
+
+## November 23, 2022
+
+Platform Updates
+
+* Backend/infrastructure upgrades
+
 ## November 17, 2022
 
 Platform Updates
