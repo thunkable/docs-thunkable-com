@@ -4,11 +4,35 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## December 6, 2022
+
+Platform Updates
+
+* Improved asset retrieval&#x20;
+
+## December 1, 2022
+
+Component Updates
+
+* [in-app-purchase.md](../in-app-purchase.md "mention"): Fix for 'Purchase Subscription' action
+
+## November 29, 2022
+
+Platform Updates
+
+* Improved account deletion process in Thunkable Live apps
+* Removed some packages to make built apps smaller
+
+Component Updates
+
+* [map.md](../map.md "mention"): Fixed positioning of custom icons
+* [group.md](../group.md "mention"): Fixed positioning of components in Groups that are 'Relative to Device'
+
 ## November 24, 2022
 
 Component Updates
 
-* [In-App Purchase](../in-app-purchase.md): Fixes for one-time purchases and subscription purchases
+* [in-app-purchase.md](../in-app-purchase.md "mention") Fixes for one-time purchases and subscription purchases
 
 ## November 23, 2022
 
@@ -30,7 +54,7 @@ Platform Updates
 
 Component Updates
 
-* [Google Sign-In](../signing-in.md#sign-in-with-google): Improve settings UX
+* @sign: Improve settings UX
 
 ## November 14, 2022
 
