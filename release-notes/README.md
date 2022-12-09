@@ -54,7 +54,7 @@ Platform Updates
 
 Component Updates
 
-* @sign: Improve settings UX
+* [#sign-in-with-google](../signing-in.md#sign-in-with-google "mention"): Improve settings UX
 
 ## November 14, 2022
 
