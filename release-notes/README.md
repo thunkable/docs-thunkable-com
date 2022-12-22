@@ -403,7 +403,3 @@ Updates
 
 * [Data Viewer List](../data-viewer-list.md): Fix scrolling on Android when Screen is scrollable
 
-## Previous Releases
-
-See an archive [here](https://docs.thunkable.com/v/snap-to-place/release-notes).&#x20;
-
