@@ -4,35 +4,6 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
-## December 29, 2022
-
-Platform Updates
-
-* Improvements to front end text
-
-New Components
-
-* Added open AI Services API Integration
-  * Text Completion
-  * Image Generation
-
-Component Updates
-
-* [Local Data Sources](../data-sources.md#create-your-own-table): improve UX when deleting column
-* [canvas.md](../canvas.md "mention"): Improve UX when changing background color with blocks
-
-## December 19, 2022
-
-Platform Updates
-
-* Improve quality of project backups
-
-## December 7, 2022
-
-Platform Updates
-
-* Provided more info on [Pricing Page](https://thunkable.com/#/pricing)
-
 ## December 6, 2022
 
 Platform Updates
