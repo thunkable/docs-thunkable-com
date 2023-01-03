@@ -26,7 +26,7 @@ This makes it easier to design complex layouts.
 | Touch Opacity | Set opacity of Group when user clicks on Group                                      | Number between 0-100                                        |
 
 ¹ Relative to Screen: Group moves as end user scrolls\
-Relative to Device: Group stays in place as end user scrolls
+Relative to Device: Group stays in place as end user scrolls (suitable for creating a Floating Action Button)
 
 ² Stretch: Resize Group in proportion with wider Screen\
 Float in Place: Keep same dimensions for Group on larger screens
