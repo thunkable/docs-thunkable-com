@@ -138,3 +138,4 @@
   * [API Keys](basic-auth-apis/api-keys.md)
   * [Arrays and Object](basic-auth-apis/arrays-and-object.md)
 * [Versioning](versioning.md)
+* [OpenAI ChatGPT Integration](openai-chatgpt-integration.md)
