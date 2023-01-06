@@ -2,7 +2,7 @@
 
 ### Overview
 
-ChatGPT is a chatbot from the OpenAI Research Laboratory that allows users to interact with the model in a conversational way, producing detailed and thorough responses to most any query a user posts to the chatbot,&#x20;
+An artificial intelligence research and deployment company,[ OpenAI](https://openai.com/) focuses on the creation of safe, artificial, general intelligence. Their latest AI model, called ChatGPT, has the ability to interact with a user in a conversational tone. When prompted, it composes responses relevant to the topic requested. Thunkable creators can utilize this model in their own apps and tap into the power of AI and natural language generation.&#x20;
 
 ### Create an OpenAI account and generate a secret API key
 
