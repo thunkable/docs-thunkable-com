@@ -12,7 +12,7 @@ Platform Updates
 
 New Components
 
-* Released Open AI integration blocks
+* [openai-chatgpt-integration.md](../openai-chatgpt-integration.md "mention")
 
 Component Updates
 
