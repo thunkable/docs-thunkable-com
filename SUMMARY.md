@@ -87,6 +87,7 @@
 * [In-App Purchase](in-app-purchase.md)
 * [Bluetooth Low Energy](bluetooth-low-energy.md)
 * [Assistant by Dialogflow](assistant.md)
+* [OpenAI ChatGPT Integration](openai-chatgpt-integration.md)
 * ["Any Component" Blocks](any-component-blocks.md)
 * [💰 In App Purchases](in-app-purchases/README.md)
   * [Overview](in-app-purchases/overview.md)
@@ -139,4 +140,3 @@
   * [API Keys](basic-auth-apis/api-keys.md)
   * [Arrays and Object](basic-auth-apis/arrays-and-object.md)
 * [Versioning](versioning.md)
-* [OpenAI ChatGPT Integration](openai-chatgpt-integration.md)
