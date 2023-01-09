@@ -122,6 +122,7 @@
   * [FAQs](troubleshooting/faqs.md)
 * [💾 Managing Storage](managing-storage.md)
 * [📰 Release Notes](release-notes/README.md)
+  * [Release Notes 2022](release-notes/release-notes-2022.md)
   * [Release Notes 2021](release-notes/release-notes-2021.md)
   * [Release Notes 2020](release-notes/release-notes-2020.md)
   * [Release Notes 2019](release-notes/release-notes-2019.md)
