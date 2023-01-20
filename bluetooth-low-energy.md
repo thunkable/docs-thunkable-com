@@ -38,8 +38,12 @@ Version 1 of the BLE component in Thunkable ✕ contains 5 functions, each of wh
 * [Scan](bluetooth-low-energy.md#scan)
 * [Connect to Device Id](bluetooth-low-energy.md#connect-to-device-id)
 * [Connect to Device Name](bluetooth-low-energy.md#connect-to-device-name)
-* [Receive](bluetooth-low-energy.md#receive)
-* [Transmit](bluetooth-low-energy.md#transmit)
+* [Disconnect](bluetooth-low-energy.md#disconnect)
+* [Receive String](bluetooth-low-energy.md#receive-string)
+* [Receive Byte Array](bluetooth-low-energy.md#receive-byte-array)
+* [Listen for Disconnection](bluetooth-low-energy.md#listen-for-disconnection)
+* [Transmit String](bluetooth-low-energy.md#transmit-string)
+* [Transmit Byte Array](bluetooth-low-energy.md#transmit-byte-array)
 
 ### Scan
 
@@ -47,11 +51,13 @@ This function is used to scan for nearby BLE or Bluetooth enabled devices. Scann
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.02.36-am.png)
 
-| Parameter    | Type   | Description                                              |
-| ------------ | ------ | -------------------------------------------------------- |
-| Device Ids   | List   | **Returns** a list of the IDs of the available devices   |
-| Device Names | List   | **Returns** a list of the names of the available devices |
-| error        | String | **Returns** an error message from the function           |
+#### Outputs
+
+| Output Name  | Data Type | Description                                          |
+| ------------ | --------- | ---------------------------------------------------- |
+| Device Ids   | List      | Returns a list of the IDs of the available devices   |
+| Device Names | List      | Returns a list of the names of the available devices |
+| error        | Text      | Returns an error message from the function           |
 
 ### Connect to Device Id
 
@@ -59,11 +65,19 @@ The `Connect to Device Id` function allows your app to connect to a BLE enabled 
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.03.04-am.png)
 
-| Parameter   | Type   | Description                                                         |
-| ----------- | ------ | ------------------------------------------------------------------- |
-| Device Id   | String | **Expects** a text string with the device id you want to connect to |
-| Device Name | String | **Returns** the name of the device you have just connected to       |
-| error       | String | **Returns** an error message from the function                      |
+#### Inputs
+
+| Input Name | Data Type | Description                                                     |
+| ---------- | --------- | --------------------------------------------------------------- |
+| Device Id  | Text      | Expects a text string with the device id you want to connect to |
+
+#### Outputs
+
+| Output Name | Data Type | Description                                                             |
+| ----------- | --------- | ----------------------------------------------------------------------- |
+| Device Name | Text      | Returns the name of the device you have just connected to               |
+| error       | Text      | If an error message is returned, returns the error. Else returns `null` |
+|             |           |                                                                         |
 
 ### Connect to Device Name
 
@@ -71,46 +85,130 @@ When you know the name of the BLE device that you want to connect to you can use
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.03.19-am.png)
 
-| Parameter   | Type   | Description                                                        |
-| ----------- | ------ | ------------------------------------------------------------------ |
-| Device Name | String | **Expects** a text block with the name of the device to connect to |
-| Device Id   | String | **Returns** the Id of the device that you have just connected to   |
-| error       | String | **Returns** an error message from the function                     |
+#### Inputs
 
-### Receive
+| Input Name  | Data Type | Description                                                    |
+| ----------- | --------- | -------------------------------------------------------------- |
+| Device Name | Text      | Expects a text block with the name of the device to connect to |
 
-If you have a BLE device that is capable of sending data to another device then you will need to use the `Receive` function in your app in order to listen to, or receive, data coming from the BLE device.
+#### Outputs
 
-You need to be connected to another Bluetooth device in order to use this block.
-
-You can receive a **String** or a **Byte Array**.
-
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.03.39-am.png)
-
-| Parameter           | Type   | Description                                                                               |
-| ------------------- | ------ | ----------------------------------------------------------------------------------------- |
-| characteristic UUID | String | **Expects** a text block with a 32-bit UUID for the BLE type, service or profile required |
-| data                | String | **Returns** a string containing the information received from the BLE device              |
-| error               | String | **Returns** an error message from the function                                            |
-
-### Transmit
-
-Should you need to send data to a BLE device then you can use the `Transmit` function to send that information.&#x20;
-
-You need to be connected to another Bluetooth device in order to use this block.
-
-You can transmit a **String** or a **Byte Array**.
-
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.04.31-am.png)
-
-| Parameter           | Type   | Description                                                                               |
-| ------------------- | ------ | ----------------------------------------------------------------------------------------- |
-| characteristic UUID | String | **Expects** a text block with a 32-bit UUID for the BLE type, service or profile required |
-| data                | String | **Expects** a text block with the message that you want to send to your BLE device        |
-| error               | String | **Returns** an error message from the function                                            |
+| Output Name | Data Type | Description                                                             |
+| ----------- | --------- | ----------------------------------------------------------------------- |
+| Device Id   | Text      | Returns the ID of the device that you have just connected to            |
+| error       | Text      | If an error message is returned, returns the error. Else returns `null` |
 
 ### Disconnect
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.05.18-am.png)
 
 If connected to another Bluetooth device, this block will disconnect your app from the device.
+
+
+
+### Receive String
+
+If you have a BLE device that is capable of sending data to another device then you will need to use the `Receive String` function in your app in order to listen to, or receive, data coming from the BLE device in String format.
+
+You need to be connected to another Bluetooth device in order to use this block.
+
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.03.39-am.png)
+
+#### Inputs
+
+| Input Name          | Data Type | Description                                                                           |
+| ------------------- | --------- | ------------------------------------------------------------------------------------- |
+| characteristic UUID | Text      | Expects a text block with a 32-bit UUID for the BLE type, service or profile required |
+
+#### Outputs
+
+| Output Name   | Type | Description                                                                   |
+| ------------- | ---- | ----------------------------------------------------------------------------- |
+| data (string) | Text | Returns **** a string containing the information received from the BLE device |
+| error         | Text | If an error message is returned, returns the error. Else returns `null`       |
+|               |      |                                                                               |
+
+### Receive Byte Array
+
+If you have a BLE device that is capable of sending data to another device then you will need to use the `Receive Byte Array` function in your app in order to listen to, or receive, data coming from the BLE device in Byte Array format.
+
+You need to be connected to another Bluetooth device in order to use this block.
+
+<figure><img src=".gitbook/assets/receive_byte_array.png" alt=""><figcaption></figcaption></figure>
+
+#### Inputs
+
+| Input Name          | Data Type | Description                                                                           |
+| ------------------- | --------- | ------------------------------------------------------------------------------------- |
+| characteristic UUID | Text      | Expects a text block with a 32-bit UUID for the BLE type, service or profile required |
+
+#### Outputs
+
+| Output Name       | Data Type                         | Description                                                                       |
+| ----------------- | --------------------------------- | --------------------------------------------------------------------------------- |
+| data (byte array) | array ([list](lists.md)) of bytes | Returns **** a byte array containing the information received from the BLE device |
+| error             | Text                              | If an error message is returned, returns the error. Else returns `null`           |
+
+### Listen for Disconnection
+
+This asynchronous function listens for when your device disconnects from a named Bluetooth device.
+
+You can program some events to happen when your device disconnects from the named device in the `then do` section of this block.
+
+<figure><img src=".gitbook/assets/listen_for_disconnection.png" alt=""><figcaption></figcaption></figure>
+
+#### Inputs
+
+| Input Name | Data Type | Description                                                        |
+| ---------- | --------- | ------------------------------------------------------------------ |
+| Device ID  | Text      | Unique ID of the bluetooth device to listen for disconnection with |
+
+#### Outputs
+
+| Output Name | Data Type | Description                                                             |
+| ----------- | --------- | ----------------------------------------------------------------------- |
+| Error       | Text      | If an error message is returned, returns the error. Else returns `null` |
+
+### Transmit String
+
+Should you need to send data as a string of text to a BLE device, you can use the `Transmit String` function to send that information.&#x20;
+
+You need to be connected to another Bluetooth device in order to use this block.
+
+![](.gitbook/assets/screen-shot-2021-04-12-at-9.04.31-am.png)
+
+#### Inputs
+
+| Input Name          | Data Type | **Description**                                                                           |
+| ------------------- | --------- | ----------------------------------------------------------------------------------------- |
+| characteristic UUID | Text      | **Expects** a text block with a 32-bit UUID for the BLE type, service or profile required |
+| data                | Text      | Expects a text block with the message that you want to send to your BLE device            |
+
+#### Outputs
+
+| Output Name | Data Type | Description                                                             |
+| ----------- | --------- | ----------------------------------------------------------------------- |
+| error       | Text      | If an error message is returned, returns the error. Else returns `null` |
+
+### Transmit Byte Array
+
+Should you need to send data as an array ([list](lists.md)) of bytes to a BLE device, you can use the `Transmit Byte Array` function to send that information.&#x20;
+
+You need to be connected to another Bluetooth device in order to use this block.
+
+<figure><img src=".gitbook/assets/transmit_byte_array.png" alt=""><figcaption></figcaption></figure>
+
+#### Inputs
+
+| Input Name          | Data Type                         | Description                                                                           |
+| ------------------- | --------------------------------- | ------------------------------------------------------------------------------------- |
+| characteristic UUID | Text                              | Expects a text block with a 32-bit UUID for the BLE type, service or profile required |
+| data                | array ([list](lists.md)) of bytes | Expects a text block with the message that you want to send to your BLE device        |
+
+#### Outputs
+
+| Output Name | Data Type | Description                                                             |
+| ----------- | --------- | ----------------------------------------------------------------------- |
+| error       | Text      | If an error message is returned, returns the error. Else returns `null` |
+
+###
