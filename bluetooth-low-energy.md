@@ -49,13 +49,13 @@ Version 1 of the BLE component in Thunkable ✕ contains 5 functions, each of wh
 
 This function is used to scan for nearby BLE or Bluetooth enabled devices. Scanning happens for 10 seconds. Once scanning has successfully completed then a list of the available device ids and a list of available names will be returned. If the scanning function can not be completed then an error will be returned.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.02.36-am.png)
+<figure><img src=".gitbook/assets/scan.png" alt=""><figcaption></figcaption></figure>
 
 #### Outputs
 
 | Output Name  | Data Type | Description                                          |
 | ------------ | --------- | ---------------------------------------------------- |
-| Device Ids   | List      | Returns a list of the IDs of the available devices   |
+| Device IDs   | List      | Returns a list of the IDs of the available devices   |
 | Device Names | List      | Returns a list of the names of the available devices |
 | error        | Text      | Returns an error message from the function           |
 
@@ -63,7 +63,7 @@ This function is used to scan for nearby BLE or Bluetooth enabled devices. Scann
 
 The `Connect to Device Id` function allows your app to connect to a BLE enabled device based in the Id of that device.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.03.04-am.png)
+<figure><img src=".gitbook/assets/connect_id.png" alt=""><figcaption></figcaption></figure>
 
 #### Inputs
 
@@ -83,7 +83,7 @@ The `Connect to Device Id` function allows your app to connect to a BLE enabled 
 
 When you know the name of the BLE device that you want to connect to you can use the `Connect to Device Name` block to connect directly to it. Please note that device names are not unique and it is relatively easy to change the name of a BLE device.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.03.19-am.png)
+<figure><img src=".gitbook/assets/connect_name.png" alt=""><figcaption></figcaption></figure>
 
 #### Inputs
 
@@ -100,7 +100,7 @@ When you know the name of the BLE device that you want to connect to you can use
 
 ### Disconnect
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.05.18-am.png)
+<figure><img src=".gitbook/assets/disconnect.png" alt=""><figcaption></figcaption></figure>
 
 If connected to another Bluetooth device, this block will disconnect your app from the device.
 
@@ -112,7 +112,7 @@ If you have a BLE device that is capable of sending data to another device then 
 
 You need to be connected to another Bluetooth device in order to use this block.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.03.39-am.png)
+<figure><img src=".gitbook/assets/receive_string.png" alt=""><figcaption></figcaption></figure>
 
 #### Inputs
 
@@ -175,7 +175,7 @@ Should you need to send data as a string of text to a BLE device, you can use th
 
 You need to be connected to another Bluetooth device in order to use this block.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.04.31-am.png)
+<figure><img src=".gitbook/assets/transmit_string.png" alt=""><figcaption></figcaption></figure>
 
 #### Inputs
 
