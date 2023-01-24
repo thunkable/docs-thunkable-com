@@ -21,6 +21,6 @@ To change your app's default app layout:
    \- Tablet + Portrait\
    \- Tablet + Landscape
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LAn5scXl2uqUJUOqkJo-84897653%2Fuploads%2FO5zmsGIzmAseUJkUH7Of%2Fdefaultlayoutsettings-2.png?alt=media\&token=1b7da700-4c10-4345-b3b5-8c8c5444dfca)
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LAn5scXl2uqUJUOqkJo-84897653%2Fuploads%2FO5zmsGIzmAseUJkUH7Of%2Fdefaultlayoutsettings-2.png?alt=media&#x26;token=1b7da700-4c10-4345-b3b5-8c8c5444dfca" alt=""><figcaption></figcaption></figure>
 
 ****
