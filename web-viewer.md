@@ -64,7 +64,7 @@ You can see examples of sending/receiving messages and get further setup instruc
 
 #### See Also
 
-You may also find the [Web API](web-api.md) component useful for sending/receiving information between your app and a website.
+You may also find the [Web API](web-api/) component useful for sending/receiving information between your app and a website.
 
 ### Events
 

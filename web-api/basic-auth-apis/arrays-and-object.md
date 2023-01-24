@@ -12,7 +12,7 @@ Once you've done this you can then perform all the usual CRUD operations which t
 
 ### GET Stock Data
 
-<figure><img src="../.gitbook/assets/yfinAPI_url.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/yfinAPI_url.png" alt=""><figcaption></figcaption></figure>
 
 Now that your developer account is set up you can start making requests. The first thing we can do is to get the price for a given stock. We do this by sending a GET request to the _/v6/finance/quote_ endpoint. Notice in the Curl section above that two headers are also required here; _accept_ and _X-API-KEY._ If you're unfamiliar with setting API headers take a look at the [<mark style="color:purple;">Setting API Headers</mark> ](../no-auth-apis/setting-headers.md)section.
 
@@ -20,11 +20,11 @@ Now that your developer account is set up you can start making requests. The fir
 
 In your Thunkable project your blocks should look like this:
 
-<figure><img src="../.gitbook/assets/yfin_headers.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/yfin_headers.png" alt=""><figcaption></figcaption></figure>
 
 Next, we want to request the data and do some simple error handling. To do this we will add the following blocks:
 
-<figure><img src="../.gitbook/assets/yfin_get.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/yfin_get.png" alt=""><figcaption></figcaption></figure>
 
 
 

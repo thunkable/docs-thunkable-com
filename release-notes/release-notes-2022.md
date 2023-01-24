@@ -293,7 +293,7 @@ Platform Updates
 
 Component Updates
 
-* [Web API](../web-api.md): Allow form data to be submitted to API
+* [Web API](../web-api/): Allow form data to be submitted to API
 * [Sound](../sound.md): Play sound even if device is set to silent
 * [Logic blocks](../logic.md), [variables](../variables.md): Fix errors seen when trying to compare null variable to empty text or empty list
 

@@ -21,7 +21,7 @@ Drag an image component onto the screen. The chart URL will be used as the image
 * Following some user or system generated action, set the url for the image component using the Quickchart API **base URL** provided while saving your chart
 * All chart updates will be made by appending text `join blocks` to the image source URL.&#x20;
 
-<figure><img src="../.gitbook/assets/Charting in Thunkable  Blocking it out.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Charting in Thunkable  Blocking it out.png" alt=""><figcaption></figcaption></figure>
 
 ## Use the no-code chart API <a href="#use-the-no-code-chart-api" id="use-the-no-code-chart-api"></a>
 
@@ -37,7 +37,7 @@ These customizations are passed as URL parameters. For example, to override char
 ?title=New title
 ```
 
-<figure><img src="../.gitbook/assets/Charting in Thunkable  use no code 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Charting in Thunkable  use no code 1.png" alt=""><figcaption></figcaption></figure>
 
 You can join URL parameters together using the **&** symbol. For example:
 
@@ -45,7 +45,7 @@ You can join URL parameters together using the **&** symbol. For example:
 ?title=New title&labels=Q1,Q2,Q3,Q4
 ```
 
-<figure><img src="../.gitbook/assets/Charting in Thunkable  use no code 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Charting in Thunkable  use no code 2.png" alt=""><figcaption></figcaption></figure>
 
 To override data, use **data1**, **data2**, **data3**, …, for each dataset on the chart.
 
@@ -55,7 +55,7 @@ For example, to override the first (primary) dataset:
 ?data1=40,60,80,100
 ```
 
-<figure><img src="../.gitbook/assets/Charting in Thunkable  use no code 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Charting in Thunkable  use no code 3.png" alt=""><figcaption></figcaption></figure>
 
 To override multiple datasets and the chart title:
 
@@ -64,4 +64,4 @@ To override multiple datasets and the chart title:
 
 ```
 
-<figure><img src="../.gitbook/assets/Charting in Thunkable  use no code 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Charting in Thunkable  use no code 4.png" alt=""><figcaption></figcaption></figure>

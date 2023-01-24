@@ -2,13 +2,19 @@
 
 These components require a little more set-up than the other [app features](app-features.md), but deliver awesome functionality to your app.
 
-{% page-ref page="web-api.md" %}
+{% content-ref url="web-api/" %}
+[web-api](web-api/)
+{% endcontent-ref %}
 
-{% page-ref page="bluetooth-low-energy.md" %}
+{% content-ref url="bluetooth-low-energy.md" %}
+[bluetooth-low-energy.md](bluetooth-low-energy.md)
+{% endcontent-ref %}
 
-{% page-ref page="assistant.md" %}
+{% content-ref url="assistant.md" %}
+[assistant.md](assistant.md)
+{% endcontent-ref %}
 
-{% page-ref page="any-component-blocks.md" %}
-
-
+{% content-ref url="any-component-blocks.md" %}
+[any-component-blocks.md](any-component-blocks.md)
+{% endcontent-ref %}
 

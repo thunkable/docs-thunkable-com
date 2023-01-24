@@ -85,7 +85,7 @@ New components
 
 Component updates
 
-* [Web API](../web-api.md) - added blocks to support changing headers and query parameters
+* [Web API](../web-api/) - added blocks to support changing headers and query parameters
 
 Bug fixes
 

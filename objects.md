@@ -1,6 +1,6 @@
 # Objects
 
-The Object blocks pair well with the [Web API](web-api.md), [Map](map.md) and [Location Sensor](location-sensor.md) components which often send data in object format.&#x20;
+The Object blocks pair well with the [Web API](web-api/), [Map](map.md) and [Location Sensor](location-sensor.md) components which often send data in object format.&#x20;
 
 ## Creating an Object
 
@@ -16,7 +16,7 @@ You can click on the gear icon to add properties to your object:
 
 ### Convert between Object and JSON
 
-Sometimes, you want to convert between JSON (JavaScript Object Notation) and Objects. If an [API](web-api.md) returns a JSON value, you can convert it to an Object to use with Object blocks. Use the `get object from JSON` block:
+Sometimes, you want to convert between JSON (JavaScript Object Notation) and Objects. If an [API](web-api/) returns a JSON value, you can convert it to an Object to use with Object blocks. Use the `get object from JSON` block:
 
 ![](.gitbook/assets/obj-fromjson.png)
 
@@ -63,7 +63,7 @@ With the `set property` block, you can change the value of a single property of 
 
 ### Getting values from an API
 
-You can use Object blocks when making calls to an[ API.](web-api.md)
+You can use Object blocks when making calls to an[ API.](web-api/)
 
 Often, when retrieving data from an API like [Weather Underground](https://www.wunderground.com/weather/api/d/docs?MR=1), you will get a large data dump in JSON format like shown below.
 

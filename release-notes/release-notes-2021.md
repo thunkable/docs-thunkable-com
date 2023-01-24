@@ -446,7 +446,7 @@ Platform Updates
 Component Updates
 
 * Improve appearance of customized [Switch](broken-reference) colors
-* Update error message shown when [Web API](../web-api.md) fails to fetch data
+* Update error message shown when [Web API](../web-api/) fails to fetch data
 
 New Components
 

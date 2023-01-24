@@ -22,7 +22,7 @@ Platform Updates
 
 Component updates
 
-* Add [PATCH](../web-api.md#upload-data) method to [Web API](../web-api.md) component
+* Add [PATCH](../web-api/#upload-data) method to [Web API](../web-api/) component
 
 ## October 28, 2020
 

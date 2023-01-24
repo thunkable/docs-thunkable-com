@@ -13,7 +13,7 @@ To add a Web API component to your app:
 * Click the expand chevron to show the Advanced invisible components.
 * Click the ⊕ icon next to `Web APIs.`
 
-![](<.gitbook/assets/advanced-components (1).png>)
+![](<../.gitbook/assets/advanced-components (1).png>)
 
 A Web API component properties dialog launches. See the chart below for descriptions of the various properties. Click **Submit** to create the Web API component, or **Delete** to dismiss the dialog without creating the component.
 
@@ -32,25 +32,25 @@ Once you have added at least one Web API component to your app, you will be able
 
 To edit the properties of a Web API component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click Delete to delete the component.
 
-![](.gitbook/assets/web-apis-blicks.png)
+![](../.gitbook/assets/web-apis-blicks.png)
 
 ## Setting Query Parameters and Headers
 
 Query parameters and headers can be set in the designer or in the blocks editor. In the example below you can add any property:value pair you want. You can add as many params to your app as you need, but each parameter has to be added one at a time.&#x20;
 
-![](.gitbook/assets/wvd0.png)
+![](../.gitbook/assets/wvd0.png)
 
 In the blocks editor, it is possible to use the `create object` block to add multiple property:value pairs simultaneously.&#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-8.59.11-am.png)
+![](../.gitbook/assets/screen-shot-2021-04-12-at-8.59.11-am.png)
 
 In addition to creating your own objects, it is also possible to use JSON to specify the property:value pairs for your query parameters or headers.&#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.00.03-am.png)
+![](../.gitbook/assets/screen-shot-2021-04-12-at-9.00.03-am.png)
 
 ## Get and Format (parse) Data
 
-![](.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
 
 To retrieve data from an API, you simply need to use the `Get` block.
 
@@ -58,7 +58,7 @@ To retrieve data from an API, you simply need to use the `Get` block.
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Get (`response`, `status`,`error`) | Performs an HTTP GET request using the Url property and retrieves the `response`. Reports `status` of request and if request does not go through, will report an `error` |
 
-Most APIs will return data in JSON format, so we'll take a few moments to walk through a few examples of how to parse this data using our [Object](objects.md) blocks.
+Most APIs will return data in JSON format, so we'll take a few moments to walk through a few examples of how to parse this data using our [Object](../objects.md) blocks.
 
 ### Get Simple Properties
 
@@ -97,21 +97,21 @@ One of the most common output formats for APIs is JSON, short for Javascript Obj
 
 In your JSON response, objects can be found within the `"` quotes `"` followed by a colon `:`. The properties of the object is follows the colon `:` but is within the `{` curly brackets`}`.
 
-In the example above, `"base"`, `"dt"`, `"id"`, `"name"` and `"cod"` are simple properties of the JSON response. `"coord"` ,   `"main"` , `"wind"`, `"clouds"` and `"sys"` are properties of the overall response, but each of these properties is also an object with properties of its own, or [nested properties, ](objects.md#nested-values-and-values-from-arrays)contained within the `{` curly brackets `}`.  `"weather"` is a one-item list which also contains an object.
+In the example above, `"base"`, `"dt"`, `"id"`, `"name"` and `"cod"` are simple properties of the JSON response. `"coord"` ,   `"main"` , `"wind"`, `"clouds"` and `"sys"` are properties of the overall response, but each of these properties is also an object with properties of its own, or [nested properties, ](../objects.md#nested-values-and-values-from-arrays)contained within the `{` curly brackets `}`.  `"weather"` is a one-item list which also contains an object.
 
 #### **Convert JSON to Object**
 
-The first step in parsing this response is converting the JSON response to an [Object](objects.md). Objects have properties (like `name`) that we can retrieve and display in our app. Objects can be embedded within another object.
+The first step in parsing this response is converting the JSON response to an [Object](../objects.md). Objects have properties (like `name`) that we can retrieve and display in our app. Objects can be embedded within another object.
 
-<figure><img src=".gitbook/assets/Screen Shot 2022-08-24 at 3.18.25 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-24 at 3.18.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### **Get Property of Object**
 
-<figure><img src=".gitbook/assets/Screen Shot 2022-08-24 at 3.21.38 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen Shot 2022-08-24 at 3.21.38 PM.png" alt=""><figcaption></figcaption></figure>
 
 Once you have converted the JSON into objects, you can then specify the `objects` and `property` that you are interested in. To get the name of the city we are viewing weather data for (`"name":` in line 22), we'll want to get the property `name` of the response:
 
-![](.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-26-at-12.54.56-pm.png)
 
 ### Get Nested Properties
 
@@ -123,13 +123,13 @@ If we wanted to get the temperature in Dhaka from the Open Weather API above, we
 
 We can write this as getting the property `main.temp` of the response object:
 
-![](<.gitbook/assets/image (197).png>)
+![](<../.gitbook/assets/image (197).png>)
 
-You can read about getting nested values from Objects [here](objects.md#nested-values-and-values-from-arrays).&#x20;
+You can read about getting nested values from Objects [here](../objects.md#nested-values-and-values-from-arrays).&#x20;
 
 ### Get Properties from Lists
 
-You can read about getting nested values and values from lists in Objects [here](objects.md#nested-values-and-values-from-arrays). Let's work through an example.
+You can read about getting nested values and values from lists in Objects [here](../objects.md#nested-values-and-values-from-arrays). Let's work through an example.
 
 #### Example 2: [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
@@ -172,13 +172,13 @@ If you want to retrieve the `"text"` property in line 13, you'll have to:
 * select the `"duration"` property of the elements object
 * select the `"text"` property of the duration object
 
-You can see the example below for how this would look using the [Object](objects.md) and [List](lists.md) blocks
+You can see the example below for how this would look using the [Object](../objects.md) and [List](../lists.md) blocks
 
-![](.gitbook/assets/screen-shot-2018-08-01-at-3.18.25-pm.png)
+![](../.gitbook/assets/screen-shot-2018-08-01-at-3.18.25-pm.png)
 
 This can also be written as the property `rows[1].elements[1].duration.text` of the response:
 
-![](.gitbook/assets/screen-shot-2021-04-26-at-12.50.17-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-26-at-12.50.17-pm.png)
 
 ## Upload data
 
@@ -198,4 +198,4 @@ Uploading and deleting data is usually reserved for a private API that you or yo
 
 ## See Also
 
-You can also post and receive messages between a web page and a [Web Viewer](web-viewer.md) using the Post Message function. Read more about that [here](web-viewer.md#post-message-receive-message).
+You can also post and receive messages between a web page and a [Web Viewer](../web-viewer.md) using the Post Message function. Read more about that [here](../web-viewer.md#post-message-receive-message).

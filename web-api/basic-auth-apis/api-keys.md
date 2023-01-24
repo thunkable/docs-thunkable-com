@@ -12,13 +12,13 @@ With all the APIs in this section, the first thing you will need to do is regist
 
 In this tutorial we're going to learn how to generate an API key on RapidAPI and use it to build a digital version of the classic pen-and-paper Compatibility Calculator game that some of you may remember from your childhood.
 
-<figure><img src="../.gitbook/assets/lcal_overview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/lcal_overview.png" alt=""><figcaption></figcaption></figure>
 
 ## Rapid API
 
 RapidAPI is a platform that makes discovering and connecting to APIs easier. If you want an API for restaurants, public transport schedules, flight data or, well pretty much anything really then you can just search RapidAPI for some examples. Their blog post on the [Top 50 Most Popular APIs ](https://rapidapi.com/blog/most-popular-api/)gives a good sense of the variety that's on offer.&#x20;
 
-<figure><img src="../.gitbook/assets/rapid_api.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rapid_api.png" alt=""><figcaption></figcaption></figure>
 
 ### Love Calculator
 
