@@ -1,6 +1,6 @@
 # Bluetooth Low Energy
 
-## Description
+Description
 
 Bluetooth Low Energy, or BLE, is used to wirelessly connect two devices to one another. The BLE component allows you to find and connect to BLE devices and to communicate directly with them.
 
@@ -44,6 +44,7 @@ Version 1 of the BLE component in Thunkable ✕ contains 5 functions, each of wh
 * [Listen for Disconnection](bluetooth-low-energy.md#listen-for-disconnection)
 * [Transmit String](bluetooth-low-energy.md#transmit-string)
 * [Transmit Byte Array](bluetooth-low-energy.md#transmit-byte-array)
+* Transmit Hexadecimal
 
 ### Scan
 
@@ -171,7 +172,7 @@ You can program some events to happen when your device disconnects from the name
 
 ### Transmit String
 
-Should you need to send data as a string of text to a BLE device, you can use the `Transmit String` function to send that information.&#x20;
+Use this block to send data as a string of text to a BLE device.
 
 You need to be connected to another Bluetooth device in order to use this block.
 
@@ -192,7 +193,7 @@ You need to be connected to another Bluetooth device in order to use this block.
 
 ### Transmit Byte Array
 
-Should you need to send data as an array ([list](lists.md)) of bytes to a BLE device, you can use the `Transmit Byte Array` function to send that information.&#x20;
+Use this block to send data as an array ([list](lists.md)) of bytes to a BLE device.
 
 You need to be connected to another Bluetooth device in order to use this block.
 
@@ -211,4 +212,24 @@ You need to be connected to another Bluetooth device in order to use this block.
 | ----------- | --------- | ----------------------------------------------------------------------- |
 | error       | Text      | If an error message is returned, returns the error. Else returns `null` |
 
-###
+### Transmit Hexadecimal
+
+Use this block to send data in [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) format to a BLE device.
+
+You need to be connected to another Bluetooth device in order to use this block.
+
+<figure><img src=".gitbook/assets/hex.png" alt=""><figcaption></figcaption></figure>
+
+#### Inputs
+
+| Input Name          | Data Type                                                               | Description                                                                           |
+| ------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| characteristic UUID | Text                                                                    | Expects a text block with a 32-bit UUID for the BLE type, service or profile required |
+| data (hexadecimal)  | data in [hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal) format | Expects a text block with the message that you want to send to your BLE device        |
+
+#### Outputs
+
+| Output Name | Data Type | Description                                                             |
+| ----------- | --------- | ----------------------------------------------------------------------- |
+| error       | Text      | If an error message is returned, returns the error. Else returns `null` |
+
