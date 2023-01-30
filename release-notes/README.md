@@ -10,7 +10,7 @@ Component Updates
 
 * [openai-chatgpt-integration.md](../openai-chatgpt-integration.md "mention"): Update default API key
 * [in-app-purchase.md](../in-app-purchase.md "mention"): Fix for behavior where event listeners were not firing
-* [bluetooth-low-energy.md](../bluetooth-low-energy.md "mention"): Add `Transmit Hexadecimal` block
+* [bluetooth-low-energy.md](../bluetooth-low-energy.md "mention"): Add [#transmit-hexadecimal](../bluetooth-low-energy.md#transmit-hexadecimal "mention") block
 
 ## January 24, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
