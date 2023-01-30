@@ -4,6 +4,13 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## Jan 30, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* [organizations.md](../organizations.md "mention"): Released docs
+  * Allow multiple Thunkable accounts within a single Organization to collaborate on a single project
+
 ## January 26, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
 Component Updates
@@ -33,6 +40,8 @@ Component Updates
 
 Platform Updates
 
+* Released [organizations.md](../organizations.md "mention")
+  * Allow multiple Thunkable accounts within a single Organization to collaborate on a single project
 * Backend infrastructure upgrades
 * Improve user experience when sharing project that connects to online data source (eg. using API keys) with non-owner of data source
 * Improve fetching account permissions when opening projects

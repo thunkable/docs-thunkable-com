@@ -12,6 +12,7 @@
 * [Tablet view](tablet-view.md)
 * [Assets](assets.md)
 * [Figma Integration](figma.md)
+* [Organizations](organizations.md)
 * [🛠️ Components and Features](components.md)
 * [🔘 UI Components](ui-components.md)
 * [Button](button.md)
@@ -140,4 +141,3 @@
   * [Release Notes 2019](release-notes/release-notes-2019.md)
   * [Release Notes 2018](release-notes/release-notes-2018.md)
 * [📝 Bugs and Feature Requests](bugs-and-feature-requests.md)
-* [Organizations](organizations.md)
