@@ -4,11 +4,24 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## February 14, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* [live-test.md](../live-test.md "mention"): Changes to displaying latest version number on Thunkable Live for Android app
+* [assets.md](../assets.md "mention"): Refetch assets based on major version number
+
+Component Updates
+
+* [top-tab-navigator.md](../top-tab-navigator.md "mention")/ [bottom-tab-navigator.md](../bottom-tab-navigator.md "mention"): improve display of tab icons
+* [ui-components.md](../ui-components.md "mention"): Gracefully handle null values for style properties&#x20;
+* [figma.md](../figma.md "mention"): Improvements to image rendering, performance of 'When Image click' events
+
 ## February 2, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
 Platform Updates
 
-* Auto-versioning: Thunkable will automatically create backups of your project
+* [#auto-versioning](../versioning.md#auto-versioning "mention"): Thunkable will automatically create backups of your project
 * Web Preview: Fix for behavior where project page would scroll inadvertently when previewing project on web
 * Asset preview: Fix for issues seen by some users when previewing assets using the link in the asset modal
 
