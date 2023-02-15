@@ -4,6 +4,28 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## February 2, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Auto-versioning: Thunkable will automatically create backups of your project
+* Web Preview: Fix for behavior where project page would scroll inadvertently when previewing project on web
+* Asset preview: Fix for issues seen by some users when previewing assets using the link in the asset modal
+
+## February 1, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Backend and infrastructure updates
+* Expanded automated test suite
+* Updated descriptions of benefits on [pricing page](https://thunkable.com/#/pricing)
+
+## Jan 31, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Backend and infrastructure updates
+
 ## Jan 30, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
 Platform Updates
