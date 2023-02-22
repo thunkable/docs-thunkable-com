@@ -45,14 +45,25 @@ Apple requires that you explain to users why you may need access to sensitive se
 
 ![](../.gitbook/assets/screen-shot-2021-04-12-at-9.18.35-am.png)
 
-**User Tracking** \
-If your app shares trackable data with any third parties, you must tell your end user what data is being shared and why. This should be left blank if no trackable data is shared with third parties.
+**Tracking Usage Description**\
+If your app contains AdMob, Location Sensor, Push Notifications, or Web Viewer components you must include user tracking usage details (UTUD). Sharing trackable data with third parties requires that you tell your users what data is being shared and why.
 
-If you do not include this and your app engages in tracking, Apple will reject your submission and ask you to resubmit while including an appropriate tracking string.&#x20;
+These fields should be left blank if no trackable data is shared with third parties or if your app contains a Web Viewer that only accesses a local HTML file.
 
-To learn more about when to include a tracking string,[ click here.](https://intercom.help/thunkable/en/articles/5945318-nsusertrackingusagedescription-messages)
+If you do not include this and your app engages in tracking, Apple will reject your submission and ask you to resubmit with an appropriate tracking string.&#x20;
 
-![](<../.gitbook/assets/Screen Shot 2022-02-22 at 3.02.47 PM.png>)
+There are two locations where you can set your Tracking Usage Description:
+
+1.  **Project Settings**\
+    ****
+
+    ![](<../.gitbook/assets/Screen Shot 2022-02-22 at 3.02.47 PM.png>)
+2.  **Publishing Wizard**\
+    ****
+
+    <figure><img src="../.gitbook/assets/publish iOS -  Upload an Icon and Enter your Version Number.png" alt=""><figcaption></figcaption></figure>
+
+To learn more about what to say in your Tracking Usage Description, see [What should I say in my Tracking Usage Description?](https://intercom.help/thunkable/en/articles/5945318-nsusertrackingusagedescription-messages#h\_6f57296c21)[ ](https://intercom.help/thunkable/en/articles/5945318-nsusertrackingusagedescription-messages)
 
 ### Create an Apple Developer Account
 
@@ -392,15 +403,17 @@ If you did not create an app listing on App Store Connect before getting started
 
 ![](<../.gitbook/assets/image (187).png>)
 
-### Upload an Icon and enter your Build Number and Version Number
+### Upload an Icon and Enter your Version Number
 
-You're almost there! Review your app icon and your Build Number and Version Number.&#x20;
+You're almost there! Review your app icon and your Version Number.&#x20;
 
 **App icon:** This app icon appears when a user downloads your app from the App Store. Our recommended size is 192 x 192 px. This icon must not have any transparent pixels.
 
-**Build and Version Numbers:** The version number is visible to your users when they download a new version of your app. The build number needs to increase with each version and is only visible to you. You can opt to let Thunkable automatically increment your build and version numbers.
+**Version Number:** The version number is visible to your users when they download a new version of your app. You can opt to let Thunkable automatically increment your version numbers.
 
-![](../.gitbook/assets/08\_app\_info-1.png)
+**User Tracking and Usage Description:** If your app includes  AdMob or Web Viewer components, you need to inform the user why the app is requesting permission to use data for tracking the user or the device.&#x20;
+
+![](<../.gitbook/assets/publish iOS -  Upload an Icon and Enter your Version Number.png>)
 
 ### Congratulations
 
@@ -520,6 +533,11 @@ For Step 6, _Upload your new build to App Store Connect,_ follow the instruction
 * Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
 * Apple ID and privacy terms. You must accept Apple's new Apple ID and privacy terms.
 * You see a message saying "ITMS-90809: Deprecated API Usage - Apple will stop accepting submissions of apps that use UIWebView APIs". This is a warning, but you can still publish your app. See the [Web Viewer](https://docs.thunkable.com/web-viewer) documentation for more details.
+* Apple account password. If you change or update the password for your Apple account password, Apple deletes your app-specific password. If you change your Apple account password, you must create a new app-specific password.
+* Invalid Bundle ID. A bundle ID, or package name, is a unique identifier for your app. It can be updated in App Settings. Ensure your bundle ID follows the following rules:
+  * Has at least two segments \[one or more dots].
+  * Each segment must start with a letter.
+  * All characters must be alphanumeric or an underscore \[a-z, A-Z, 0-9, or \_].
 
 ## Adding Push Notifications
 
