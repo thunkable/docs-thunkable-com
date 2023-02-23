@@ -20,7 +20,7 @@ The Thunkable team will take care of setting up and managing your organization. 
 
 When creating a new project, Organization members can assign the project to their own personal projects or the Organization.&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2023-02-23 at 9.59.23 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-02-23 at 2.09.14 PM.png" alt=""><figcaption></figcaption></figure>
 
 Projects assigned to the Organization can be collaborated on by members of the Organization.&#x20;
 
