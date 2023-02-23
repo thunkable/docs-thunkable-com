@@ -8,17 +8,19 @@ Thunkable Organizations is a set of administration and collaboration capabilitie
 
 A single Creator can edit the project at a time, and their changes are available for other members to view when they refresh their page.&#x20;
 
+## Organization Management
+
 {% hint style="info" %}
 To get started with Thunkable Organizations, please contact the Thunkable team here: [book a meeting](https://meetings.hubspot.com/bryan-luckyheard/team-pricing-request).
 {% endhint %}
 
-## Organizations
+The Thunkable team will take care of setting up and managing your organization. If you need to add a member to your organization after it's created, simply reach out to your Thunkable representative to make that request.
 
-### Assigning a Project to an Organization
+## Assigning a Project to an Organization
 
 When creating a new project, Organization members can assign the project to their own personal projects or the Organization.&#x20;
 
-<figure><img src=".gitbook/assets/Screen Shot 2023-01-27 at 4.37.07 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2023-02-23 at 9.59.23 AM.png" alt=""><figcaption></figcaption></figure>
 
 Projects assigned to the Organization can be collaborated on by members of the Organization.&#x20;
 
@@ -30,7 +32,7 @@ Projects created within an organization cannot be shared with users outside of t
 
 <figure><img src=".gitbook/assets/Screen Shot 2023-01-27 at 4.35.47 PM.png" alt=""><figcaption></figcaption></figure>
 
-### Viewing and Editing Modes
+## Viewing and Editing Modes
 
 When accessing Organization projects, members are in one of two modes: Editing or Viewing. There can only be one project member in Editing mode at any given time – all other members of the Organization remain in Viewing mode.&#x20;
 
@@ -54,7 +56,7 @@ Only one project member can be in Editing mode at a time.&#x20;
 **Note:** If the member currently in Editing mode is offline, no other member can edit the project. The member currently in Editing mode must come back online and grant access to a different member.\
 &#x20;
 
-### Sharing and Updating Permissions
+## Sharing and Updating Permissions
 
 <figure><img src=".gitbook/assets/Screen Shot 2023-01-27 at 4.34.38 PM.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,7 +1,7 @@
 # Ads by AdMob
 
 {% hint style="info" %}
-**AdMob is a**  <img src=".gitbook/assets/pro.png" alt="" data-size="line"> **component.** All Thunkers can add AdMob to their projects and live test the ads in their apps. PRO Thunkers who [join our MCM network](admob.md#join-thunkables-mcm-network) can download and publish apps that contain ads.
+**AdMob is a**  <img src=".gitbook/assets/pro.png" alt="" data-size="line"> **component.** All Thunkers can add AdMob to their projects and live test the ads in their apps. Only PRO Thunkers can download and publish apps that contain ads. To get started, [join our MCM network](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ\_Uon406Demqt\_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform?pli=1).
 {% endhint %}
 
 * [Create an AdMob account](admob.md#create-an-admob-account)
@@ -23,7 +23,7 @@ Apps with large audiences can use AdMob to not only generate revenue for the cre
 
 We **highly recommend** that you only add ads to your app after you have a large audience of users (otherwise, you won't generate much revenue anyway).
 
-## Create an AdMob Account
+## Setup Your AdMob Account
 
 You need an [AdMob account](https://admob.google.com/home/get-started/) to show ads in your project.
 
@@ -34,19 +34,63 @@ Once you have an AdMob account, you will need to paste the following into the [A
 * [Tracking Usage Description](https://developer.apple.com/app-store/user-privacy-and-data-use/) (if publishing to App Store)
   * Default value: "This identifier will be used to deliver personalized ads to you."
 
-You will also need individual [Ad Unit IDs](https://support.google.com/admob/answer/7356431?hl=en) for each AdMob component in your project.
+![](<.gitbook/assets/Screenshot 2023-02-16 at 4.29.28 PM.png>)
 
-## Banner ad
+Once you have published your app, you will also need individual [Ad Unit IDs](https://support.google.com/admob/answer/7356431?hl=en) for each AdMob component in your project. To add an Ad Unit ID:
+
+1. Click on the Apps tab in your AdMob Sidebar
+2. Click View All Apps
+3. Click the name of the app associated with the ad unit.
+4. Click on the Add Ad Unit button
+5. Select the type of ad you wish to add (Note: Thunkable only currently supports Banner, Interstitial, or Rewarded Ads).
+6. Add a name for your Ad Unit (e.g. "Banner Ad")
+7. Click the Create Ad Unit button
+
+![](<.gitbook/assets/Screenshot 2023-02-16 at 2.55.32 PM.png>)
+
+### Join Thunkable's MCM Network
+
+To download and publish Thunkable apps that contain ads, you must first be a member of Thunkable's MCM (Multiple Customer Management) network.&#x20;
+
+An invitation to this network will be sent to you the first time you [submit your app for review](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ\_Uon406Demqt\_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform?pli=1).
+
+By joining this network, you consent to sharing 10% of your AdMob revenue with Thunkable to support maintenance costs.
+
+### Submit Your App For Review
+
+Thunkable has partnered with AdMob to ensure that apps created on our cross-platform use ads to monetize apps in a way that both provides high quality traffic to advertisers and a high quality user experience for end users of apps.
+
+All apps with AdMob must be first approved by Thunkable before they can be downloaded or published. AdMob has its [own policies](https://support.google.com/admob/answer/7313578) that an app must comply with including but not limited to:&#x20;
+
+* Inappropriate content that advertisers do not want to be associated with e.g. copyrighted, adult
+* Invalid activity that lowers the quality of traffic to advertisers e.g. ad placements that encourage clicks
+
+Thunkable will review apps for compliance with AdMob policies but will specifically **reject apps** that are:
+
+* Incomplete apps - apps that are still in their early stages and won't show how ads will be used in the app
+* Earning apps - apps that encourage users to clicks ads in exchange for some form of payment
+* Auto-impression apps  - apps that repeatedly load banner ads in the background of apps
+* Apps that show an Interstitial ad or Video ad on startup - these ads must be implemented properly in your app
+
+**Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.**
+
+If your app is rejected, you will be provided with an explanation and a recommendation for changes to make to your app to get it approved.
+
+You are welcome to submit the same app for approval multiple times.
+
+## Types of Ads
+
+### Banner ad
 
 The Banner ad is a rectangular image or text ads that occupy a spot within an app's layout.&#x20;
 
 AdMob banner ads are the simplest ad format to implement and are recommended for beginners. No blocks are needed to show your Banner ad to your end users.
 
-![](.gitbook/assets/screen-shot-2021-04-13-at-9.21.23-am.png)
-
 The first banner ad will load when ready and will reload a new ad every minute.
 
 There is a maximum of 1 Banner ad allowed per screen. You can show multiple banners in a single multi-screen app.
+
+<figure><img src=".gitbook/assets/Screenshot 2023-02-16 at 4.46.12 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Properties
 
@@ -65,7 +109,7 @@ There is a maximum of 1 Banner ad allowed per screen. You can show multiple bann
 | Y       | Location of top left corner of Banner ad on Y-axis, where the top side is Y=0 | Number     |
 | Visible | Set whether the Banner ad component is visible                                | True/False |
 
-## Interstitial Ad
+### Interstitial Ad
 
 Interstitial ads are full-screen ads that cover the interface of their host app.&#x20;
 
@@ -83,6 +127,8 @@ To add an Interstitial ad to your app:
 2. Click on the icon next to the Ads drawer of blocks
 3. Select **AdMob Interstitial**
 
+![](<.gitbook/assets/Screenshot 2023-02-16 at 5.13.27 PM.png>)
+
 ### Properties
 
 You will see a dialog where you can set the following properties:
@@ -94,6 +140,8 @@ You will see a dialog where you can set the following properties:
 | Test Mode            | <p>Toggle whether real ads or sample ads should display in your app. <br><strong>Set this to true while testing your own app.</strong></p> | True/False |
 
 ### Blocks
+
+<figure><img src=".gitbook/assets/Screenshot 2023-02-16 at 3.36.44 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### Events
 
@@ -113,7 +161,7 @@ Set and get [properties](admob.md#properties-1) of your Interstitial ad.
 
 Ad Unit ID (Android):
 
-![](<.gitbook/assets/screen-shot-2021-04-08-at-4.01.14-pm-copy (1).jpg>)
+<figure><img src=".gitbook/assets/Screen Shot 2021-04-08 at 4.01.14 PM copy.jpg" alt=""><figcaption></figcaption></figure>
 
 Ad Unit ID (iOS):
 
@@ -185,7 +233,7 @@ Test Mode:
 
 ## Live Test <a href="#live-test" id="live-test"></a>
 
-For your convenience, we have provided a test  `Ad Unit ID` for you to see how a particular ad format may appear in your app.&#x20;
+For your convenience, we have provided a test  `Ad Unit ID` for you to see how a particular ad format may appear in your app. _You must change this to your own Publisher and Ad Unit ID before publishing._
 
 During live test, all AdMob ads will be set to `test mode = true`, which means clicks and impressions will not be counted.&#x20;
 
@@ -199,65 +247,44 @@ To protect the integrity of your account, we have by default set `test mode = tr
 
 When you are ready activate your ads when you publish, you'll simply need to set `test mode = false`.
 
-![](.gitbook/assets/thunkable-docs-exhibits-14.png)
+<figure><img src=".gitbook/assets/Screenshot 2023-02-16 at 4.54.46 PM.png" alt=""><figcaption></figcaption></figure>
 
 Downloading your app with `test mode = false` to generate more impressions/clicks for your ads is considered [invalid traffic](https://support.google.com/admob/answer/3342054?hl=en\&ref\_topic=9756841) and may lead to your AdMob account being suspended or disabled.
-
-### Join Thunkable's MCM Network
-
-To download and publish Thunkable apps that contain ads, you must be a member of Thunkable's MCM network.&#x20;
-
-An invitation to this network will be sent to you the first time you [submit your app for review](admob.md#submit-your-app-for-review).
-
-By joining this network, you consent to sharing 10% of your AdMob revenue with Thunkable to support maintenance costs.
-
-### Submit Your App For Review
-
-Thunkable has partnered with AdMob to ensure that apps created on our cross-platform use ads to monetize apps in a way that both provides high quality traffic to advertisers and a high quality user experience for end users of apps.
-
-All apps with AdMob must be first approved by Thunkable before they can be downloaded or published. AdMob has its [own policies](https://support.google.com/admob/answer/7313578) that an app must comply with including but not limited to:&#x20;
-
-* Inappropriate content that advertisers do not want to be associated with e.g. copyrighted, adult
-* Invalid activity that lowers the quality of traffic to advertisers e.g. ad placements that encourage clicks
-
-Thunkable will review apps for compliance with AdMob policies but will specifically **reject apps** that are:
-
-* Incomplete apps - apps that are still in their early stages and won't show how ads will be used in the app
-* Earning apps - apps that encourage users to clicks ads in exchange for some form of payment
-* Auto-impression apps  - apps that repeatedly load banner ads in the background of apps
-* Apps that show an Interstitial ad or Video ad on startup - these ads must be implemented properly in your app
-
-**Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.**
-
-If your app is rejected, you will be provided with an explanation and a recommendation for changes to make to your app to get it approved.
-
-You are welcome to submit the same app for approval multiple times.
 
 ### **Build Your App!**
 
 Once approved, apps can be downloaded and published without further review.
 
+* [Publish to App Store (iOS)](https://docs.thunkable.com/publish-to-app-store-ios)
+* [Publish to Play Store (Android) with AAB](https://docs.thunkable.com/publish-to-play-store-android)
+
 ## iOS and AdMob Permissions
 
-With iOS 14.5, your app users will be asked if they consent to an advertising identifier being used to show them personalized ads. This is what the dialog looks like:
+With iOS 14.5 and above, your app users will be asked if they consent to an advertising identifier being used to show them personalized ads. This is what the dialog looks like:
 
 ![](<.gitbook/assets/tracking-dialog (1).png>)
 
 \
-You can set a personalized Tracking Usage Description in your [Project Settings](https://app.gitbook.com/@thunkable/s/thunkable-docs/\~/drafts/-M\_Zx-u6yI9rGYrOR5dc/projects/settings#tracking-usage-description-ios-only).‌\
+You can set a personalized Tracking Usage Description in your [Project Settings](project-settings.md).‌\
 \
 If this permission is declined, your app will still show ads. These will be more generic ads and won't be targeted at the user.\
 \
 ﻿If the user has turned off the `Allow Apps to Request to Track` property in their device settings, this permission will be declined by default and they will not see this dialog.
 
+{% hint style="info" %}
 ## **Troubleshooting**
 
 If you are not seeing ads appear in your app, it may be due to the following reasons:
 
-* Your AdMob account has been disabled due to a policy violation. Please sign in to your AdMob account
+* Your AdMob account has been disabled due to a policy violation. Please sign in to [your AdMob account](https://admob.google.com/home/)
 * Your AdMob component property `test mode = true`. To activate, you'll need to flip the switch to `test mode = false`
-* Your  `Ad Unit ID` has not yet been activated. This may take up to a few hours
+* Your `Ad Unit ID` has not yet been activated. This may take up to a few hours
 * You have entered the App ID or the Publisher ID instead of the Ad Unit ID which begins with `ca-app-pub-xxx`
 * Please check the mobile device internet connectivity or disable ad blockers on the mobile device
 * Your setup is correct. The issue is that AdMob does not always have an ad to return for every request. This may happen particularly if you have just registered your AdMob publisher ID, as it takes some time and multiple requests before the new ID starts returning ads
 * [Check the community forum for other potential errors](https://community.thunkable.com/)
+
+Adding error handling to your AdMob blocks can better help troubleshoot issues
+
+![](<.gitbook/assets/Screenshot 2023-02-16 at 3.36.44 PM.png>)
+{% endhint %}
