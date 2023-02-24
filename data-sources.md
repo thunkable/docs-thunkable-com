@@ -23,9 +23,9 @@ In the modal that appears, you can choose a previously connected Data Source, or
 
 When adding a new Data Source, you can choose a source of your data:
 
-* [Create your own table](data-viewer-list.md#create-your-own-table)
-* [Airtable](data-viewer-list.md#airtable)
-* [Google Sheets](data-viewer-list.md#google-sheets)
+* [Create your own table](data-sources.md#create-your-own-table)
+* [Airtable](data-sources.md#airtable)
+* [Google Sheets](data-sources.md#google-sheets)
 * [Webflow](data-sources.md#webflow)
 
 ![](<.gitbook/assets/Screen Shot 2021-11-05 at 9.30.56 AM.png>)
