@@ -4,6 +4,19 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## February 22, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Improve performance on project page list
+* Improve performance of My Data sources tab
+
+## February 17, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Backend and infrastructure updates to improve site speed and reliability
+
 ## February 14, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
 Platform Updates
