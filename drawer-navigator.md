@@ -17,13 +17,19 @@ You can watch a video tutorial for using Navigators in your Thunkable app here:
 To add a navigator to your app, click **Screens +** at the top of your component tree. \
 Select **Add Navigator** and select the Navigator you want to add.
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-5.06.23-pm.png)
+<figure><img src=".gitbook/assets/add screen  add navigator menu.png" alt=""><figcaption></figcaption></figure>
+
+## Add Screens to the Drawer Navigator
+
+Within the component tree, drag and drop screens to nest them under the Drawer Navigator component.
+
+![](<.gitbook/assets/2023-02-27\_11-22-07 (1).gif>)
 
 
 
-## Name Your Drawers
+## Screen-Specific Drawer Navigator Properties
 
-The names displayed in the Drawer Navigator will be the names of the [Screens](screen.md) it contains.&#x20;
+Once a screen has been added to the drawer navigator, a new section in the screen's properties panel, **Drawer Navigation Options**, **** becomes available. This is where you define the screen's label that displays in the user's drawer navigator.
 
 ## Drawer Navigator Properties
 
@@ -38,10 +44,3 @@ You have many options for styling your Drawer Navigator, such as changing the ba
 | Inactive Tint Color       | Text color for unselected drawers.              | Color                            |
 | Inactive Background Color | Background color for unselected drawers.        | Color                            |
 
-
-
-## Screen-Specific Drawer Navigator Properties
-
-When you add a Screen to your Drawer Navigator, you will a new section called **Drawer Navigation Options** in your Screen's Properties panel with the following properties:
-
-**Drawer Label:** Set the Label of this Screen's drawer in the Drawer Navigator
