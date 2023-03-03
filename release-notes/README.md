@@ -4,6 +4,24 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## March 1, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Component Updates
+
+* AdMob: Resolve 'replaceAdMobKeys' build issue seen by some users
+
+## February 28, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Drag and Drop: Introduced ability to 'nudge', using arrow keys to change positions of components
+* Upgraded package used for creators to sign in to Thunkable with Google
+* Improved efficiancy of iOS Buid Server
+
+Component Updates
+
+* [admob.md](../admob.md "mention"): upgraded ads package to newest Google Mobile Ads SDK
+
 ## February 22, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
 Platform Updates
