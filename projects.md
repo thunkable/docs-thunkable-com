@@ -19,25 +19,25 @@ Public projects are included in the [Thunkable Public Gallery](broken-reference)
 
 ## Private Projects
 
-Private projects are just that, private. They can only be seen by their app creator and do not get included in the [Thunkable Public Gallery.](broken-reference) Only Thunkable PRO users can create and share private projects.&#x20;
+Private projects are just that, private. They can only be seen by their app creator and do not get included in the [Thunkable Public Gallery.](broken-reference) Only Thunkable Pro users can create and share private projects.&#x20;
 
-[Learn more about PRO.](https://thunkable.com/#/pricing)
+[Learn more about Pro.](https://thunkable.com/#/pricing)
 
 ## Making Projects Public or Private
 
-To make your projects public or private, click the "details" button on a project. You can then click the Public/Private switch to change who can view your project.
+You can decide whether a project is public or private when you create it.&#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-15-at-2.42.01-pm.png)
+<figure><img src=".gitbook/assets/Screen Shot 2023-03-10 at 10.27.44 AM.png" alt=""><figcaption></figcaption></figure>
 
-You can also click on the gear icon on the upper left of the screen to access your [Project Settings](project-settings.md), and set your project to private from there.
+You can also change the privacy setting of an existing app. Click the gear icon in the upper left to access your app's  [Project Settings](project-settings.md) and use the switch to change the app's privacy settings.
 
 ![](.gitbook/assets/screen-shot-2021-04-15-at-2.43.35-pm.png)
 
 ## Read-Only projects
 
-Private projects become Read-Only projects when a Thunker's [PRO membership](https://thunkable.com/#/pricing) expires. Read-Only projects remain private and are not included in the Thunkable Gallery.
+Private projects become Read-Only projects when a Thunker's [Pro membership](https://thunkable.com/#/pricing) expires. Read-Only projects remain private and are not included in the Thunkable Gallery.
 
-You can only preview Read-Only. Once a project has been switched to Public, you cannot switch it back to Read-Only.
+You can only preview Read-Only. Once a project has been switched to public, you cannot switch it back to Read-Only.
 
 ## App Layout and Size
 
