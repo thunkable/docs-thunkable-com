@@ -4,33 +4,14 @@ description: There a several different types of project in Thunkable
 
 # 🆕 Create New Project
 
-A project is a place where your designs, files and blocks come together to create Android and iOS apps. There are four different types of project in Thunkable.
+A project is a place where your designs, files and blocks come together to create Android and iOS apps. There are four different types of projects in Thunkable.
 
 1. [Public Projects](projects.md#public-projects)
 2. [Private Projects](projects.md#private-projects)
 3. [Read-Only Projects](projects.md#read-only-projects)
-4. [Legacy Projects](projects.md#legacy-projects)
-5. [App layout and size](projects.md#undefined)
+4. [App layout and size](projects.md#undefined)
 
 When you first sign in to Thunkable you will be prompted to create a project. To learn more about the maximum size your projects can be, please see our article about the [minimum requirements](assets.md#app-size-limits-50-mb-per-app) for apps.
-
-### Other articles in this section
-
-{% content-ref url="project-settings.md" %}
-[project-settings.md](project-settings.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="assets.md" %}
-[assets.md](assets.md)
-{% endcontent-ref %}
-
-{% content-ref url="figma.md" %}
-[figma.md](figma.md)
-{% endcontent-ref %}
 
 ## Public Projects
 
@@ -60,7 +41,7 @@ You can only preview Read-Only. Once a project has been switched to Public, you 
 
 ## App Layout and Size
 
-By default, a Thunkable project is the size of a mobile phone in portrait mode. If you want to change this, you can do this by adjusting the default app layout in the Settings panel of you project. [Learn more about this here](project-settings.md#default-app-layout).
+By default, a Thunkable project is the size of a mobile phone in portrait mode. If you want to change this, you can do this by adjusting the default app layout in the Settings panel of your project. [Learn more about this here](project-settings.md#default-app-layout).
 
 {% hint style="warning" %}
 Please note that your layout will not automatically respond when you change your Default App Layout. Your existing components will not change size, and the distance between components will not change. We recommend setting your Default App Layout before you start adding components to your app.
