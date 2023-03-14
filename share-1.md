@@ -3,40 +3,39 @@
 ## Share a fully-editable copy of your app project
 
 {% hint style="info" %}
-For security purposes, when you share your project we automatically clear out any app settings which currently includes Firebase and Stripe keys and urls
+For security purposes, we remove personal data from your project settings such as API keys and URLs unless you specifically request to share those.
 {% endhint %}
 
-When you share a link to your project the recipient will get a copy of your UI components and your blocks. For your safety, we remove personal data from your project settings such as API keys and URLs. 
+When you share a link to your project the recipient will get a copy of your UI components and your blocks. For security purposes, we remove personal data from your project settings such as API keys and URLs unless you specifically request to share those.
 
-Please note, that if you have account information in your blocks or your UI design then this will not be removed. Only data in your project settings is removed. 
+Please note, that if you have account information in your blocks or your UI design then this will not be removed. Only data in your project settings are removed.&#x20;
 
 ## Generate a share link
 
-When you generate a share link, it will create a copy of your app project at the point in time you generate the link. If you update your app and want your collaborators / remixers to have the latest copy, you'll have to generate a new link
+When you generate a share link, it will create a copy of your app project at the point in time you generate the link. If you update your app and want your collaborators/remixers to have the latest copy, you'll have to generate a new link.
 
-Click the Share icon in the top right corner of your project:
+Click the **Share** icon in the top right corner of your project.
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.13.27-am.png)
 
-You will see a dialog warning you that sensitive details may be shared with the recipient of your copy link, and that you may want to remove sensitive details before making your copy. If you are happy to generate the share link, click `Generate Link`:
+Click to place a checkmark in the associated box if you want to shrae your project with API keys and passwords included.&#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.14.17-am.png)
+Click **Generate Link.**
+
+<figure><img src=".gitbook/assets/Screen Shot 2023-03-13 at 3.41.55 PM.png" alt=""><figcaption></figcaption></figure>
 
 You will be given a share link and an expiry date. The share link will no longer work after this date.
-
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.15.35-am.png)
 
 ### Share and track your links on your project page
 
 When a user clicks on your share link, a copy of your app will automatically appear in their account. For every copy of your app that is created in a user's account, you will get credit for a share on your project page
 
-![](.gitbook/assets/num_shares.png)
+![](.gitbook/assets/num\_shares.png)
 
 ## Share a read-only version of your app project
 
-If you want to share a read-only version of your app project, you simply set your project to `Public` in your App Settings page and share the link of your project url
+If you want to share a read-only version of your app project, you simply set your project to `Public` in your App Settings page and share the link of your project URL.
 
 ![](.gitbook/assets/screen-shot-2021-04-12-at-9.16.35-am.png)
 
-Users who visit the project url link do not automatically get a copy of your app in their account but they can use the [Make Copy](make-copy.md) button to create a copy if they wish
-
+Users who visit the project URL link do not automatically get a copy of your app in their account but they can create an editable copy of if if they wish.
