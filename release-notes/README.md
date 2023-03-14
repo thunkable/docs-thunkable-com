@@ -16,7 +16,7 @@ Platform Updates
 
 * Drag and Drop: Introduced ability to 'nudge', using arrow keys to change positions of components
 * Upgraded package used for creators to sign in to Thunkable with Google
-* Improved efficiancy of iOS Buid Server
+* Improved efficiency of iOS Build Server
 
 Component Updates
 
