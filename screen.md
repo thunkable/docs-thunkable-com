@@ -8,10 +8,6 @@ description: >-
 
 ## Adding a Screen to your Project
 
-{% hint style="warning" %}
-This feature is available to users with a Team level subscription only at this time.&#x20;
-{% endhint %}
-
 There are two ways to add a new screen to your app:
 
 Click the + icon next to your Screen names in the Screens bar.
@@ -78,6 +74,10 @@ The status bar is located at the top of a phone's screen. The status bar display
 
 
 ## Save Screen
+
+{% hint style="warning" %}
+This feature is available to users with a Team level subscription only at this time.&#x20;
+{% endhint %}
 
 Thunkable allows you to reuse a screen, and its associated blocks, in multiple projects with the "Save to My Screens" feature. You can find the **Save Screen** button at the top of the properties for every screen component in your app.
 
