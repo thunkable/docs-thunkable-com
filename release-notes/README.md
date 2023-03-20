@@ -4,6 +4,20 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## &#x20;<a href="#may-14-2022" id="may-14-2022"></a>
+
+## March 9, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Design Tab: Updated UI of Component Tree
+* [versioning.md](../versioning.md "mention"): Removed beta tag and updated project limits
+
+Component Updates
+
+* [data-viewer-grid.md](../data-viewer-grid.md "mention"): Fix horizontal scroll
+* [web-viewer.md](../web-viewer.md "mention"): Improve UI when showing videos within web pages in full screen
+
 ## March 1, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
 Component Updates
