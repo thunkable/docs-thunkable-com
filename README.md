@@ -1,93 +1,62 @@
----
-description: The platform where anyone can build their own mobile apps.
----
+# 👋 Welcome to Thunkable Docs
 
-# 👋 Welcome to Thunkable
+## One Product, Two Interfaces
 
-Welcome to Thunkable! We're excited to help you begin your app building journey.
+The first thing you need to know as we welcome you to our Thunkable Docs is that we have two libraries of documents. One for each of the interfaces we currently offer:
 
-On Thunkable, anyone can easily design beautiful apps, program powerful functionality with drag & drop blocks, and upload apps to the [Google Play Store](publish-to-play-store-android.md) and [Apple's App Store](publish-to-app-store-ios/).
+### **Drag and Drop**&#x20;
 
-You can also build [web apps](https://docs.thunkable.com/publish-as-a-web-app-pro), which are apps that you don't need to download and can be directly accessed online.&#x20;
+Drag and Drop is our new platform interface that took our Creator's favorite features and functions from the previous interface (Snap to Place) and improved on them.
 
-All apps built on Thunkable work for both Android and iOS devices (see:[ minimum requirements](assets.md)).&#x20;
+You'll know if you're looking for support with the Drag and Drog interface if your screen looks like this:
 
-## docs.thunkable.com is now home to Thunkable's Drag and Drop Docs!
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com) to host our documentation for Thunkable's Drag and Drop platform. Previously, this URL was home to our Snap to Place documentation, which is now at an [alternate URL](https://docs.thunkable.com/v/snap-to-place).
+You're in the right place if you're looking for the Thunkable Docs supporting our Drag and Drop interface.
 
-### **What's Drag and Drop vs. Snap to Place?**
+### **Snap to Place**
 
-Not sure which platform you're building on? Find out [here](https://docs.thunkable.com/v/snap-to-place/)!
+Snap to Place was our first foray into cross-platform app development. It is our old platform interface.&#x20;
 
-What's the difference between Drag and Drop vs. Snap to Place? Read our blog [here](https://blog.thunkable.com/drag-and-drop-app-builder)!
+You'll know if you're looking for support with the Snap to Place interface if your screen looks like this:
 
-### **If you are building on...**
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-|      Platform     |                  Then...                 |                                                  New Docs URL                                                 |
-| :---------------: | :--------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-| **Drag and Drop** |        You are in the right place!       |                                [docs.thunkable.com](https://docs.thunkable.com)                               |
-| **Snap to Place** | You're accessing the wrong set of docs.  | [docs.thunkable.com/v/snap-to-place](https://app.gitbook.com/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/) |
+The Thunkable Docs to support users of the Snap to Place interface are available here: [Snap to Place Docs](https://docs.thunkable.com/v/snap-to-place/)
 
-### **What does this mean for you?**
+{% hint style="info" %}
+You can toggle between the Drag and Drop and Snap to Place docs in the upper left corner. \
+\
+![](<.gitbook/assets/image (8).png>)
+{% endhint %}
 
-* If you link out to Thunkable Docs in any capacity, please check with the chart above to make sure you are linking to the right documentation. You will need to make changes no matter which platform you intend to point to.
-* You can always switch between our two platform docs on the upper left hand corner of the docs.
+## Additional Support Options
 
-## Tutorial videos
+In addition to our Thunkable Docs, we are also proud to offer you the following resources:
 
-You can check out our [YouTube channel](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw) for video tutorials.
-
-{% embed url="https://www.youtube.com/watch?v=dQQsvQr-f1U&list=PLB89L9PPGIrxGeViKhkRvHVD7yFc4q_Np" %}
-
-## Intro to Documentation
-
-If you're completely new to Thunkable, we recommend starting right here!
-
-{% content-ref url="get-started.md" %}
-[get-started.md](get-started.md)
-{% endcontent-ref %}
-
-If you're ready to start building, head to our **Create New Project** section:
-
-{% content-ref url="projects.md" %}
-[projects.md](projects.md)
-{% endcontent-ref %}
-
-Learn about the components and functionality you can add to your project in the **Components and Features** section:
-
-{% content-ref url="components.md" %}
-[components.md](components.md)
-{% endcontent-ref %}
-
-To learn how to program your app with drag & drop blocks, please click on the **Blocks** section:
-
-{% content-ref url="blocks.md" %}
-[blocks.md](blocks.md)
-{% endcontent-ref %}
-
-## Have specific questions?
-
-| Community                                                                                                                  | Email us                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Connect with our community of Thunkers around the world to get the latest developments and discuss everything app-related. | For all other requests, please email us [hello@thunkable.com](mailto:hello@thunkable.com) |
+1. ****[**Thunkable Academy**](https://academy.thunkable.com/)****\
+   ****Not sure where to get started? Check out the Thunkable Academy!
+2. ****[**Community**](https://community.thunkable.com/)****\
+   ****Want to connect with other Thunkable Creators? Ask a question and join the conversation in the Community!
+3. ****[**Instructional Videos**](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw)\
+   Enjoy instructional videos? Check out our library of tutorials available on YouTube.
 
 ## Pricing and Membership
 
-You can get started building with Thunkable today for free!
-
-As you progress as a developer with Thunkable, we offer different membership tiers that allow you to build more and do more.
-
-This includes:
+You can get started building with Thunkable today for free. As you progress as a developer with Thunkable, we offer different membership tiers that allow you to build more and do more. This includes:
 
 🖥️ Publishing web apps\
 💰 Showing AdMob ads in your app\
-🙈 Making Private Apps\
-⚡ Expedited Publishing\
-📢 Adding Push Notifications to your app\
-📱 Creating a Personalized Splash Screen\
+🙈 Making private apps\
+⚡ Expedited publishing\
+📢 Adding push notifications to your app\
+📱 Creating a personalized splash screen\
 and more!
 
-Thunkable offers plans to suit individual and business needs.
+Thunkable offers plans to suit individual and business needs. [Read more about the memberships Thunkable offers.](https://thunkable.com/#/pricing)
 
-[Read more about the memberships Thunkable offers.](https://thunkable.com/#/pricing)
+
+
+{% hint style="warning" %}
+On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com) to host our documentation for Thunkable's Drag and Drop platform. Previously, this URL was home to our Snap to Place documentation, which is now at an [alternate URL](https://docs.thunkable.com/v/snap-to-place).
+{% endhint %}

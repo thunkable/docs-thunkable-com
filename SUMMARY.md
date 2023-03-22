@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Thunkable](README.md)
+* [👋 Welcome to Thunkable Docs](README.md)
 * [👶 Getting Started](get-started.md)
 * [Signing In](signing-in.md)
 * [Tutorials](tutorials.md)
