@@ -10,7 +10,7 @@ Drag and Drop is our new platform interface that took our Creator's favorite fea
 
 You'll know if you're looking for support with the Drag and Drog interface if your screen looks like this:
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/DND project.png" alt=""><figcaption></figcaption></figure>
 
 You're in the right place if you're looking for the Thunkable Docs supporting our Drag and Drop interface.
 
@@ -20,7 +20,7 @@ Snap to Place was our first foray into cross-platform app development. It is our
 
 You'll know if you're looking for support with the Snap to Place interface if your screen looks like this:
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/STP Project.png" alt=""><figcaption></figcaption></figure>
 
 The Thunkable Docs to support users of the Snap to Place interface are available here: [Snap to Place Docs](https://docs.thunkable.com/v/snap-to-place/)
 
@@ -40,6 +40,8 @@ In addition to our Thunkable Docs, we are also proud to offer you the following 
    ****Want to connect with other Thunkable Creators? Ask a question and join the conversation in the Community!
 3. ****[**Instructional Videos**](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw)\
    Enjoy instructional videos? Check out our library of tutorials available on YouTube.
+4. **Contact our Support Team**\
+   ****Creators on our Pro, Business, and Team plans can click the chat icon in the upper right of a Thunkable Project page to connect with our team.&#x20;
 
 ## Pricing and Membership
 
