@@ -4,7 +4,23 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
-## &#x20;<a href="#may-14-2022" id="may-14-2022"></a>
+## March 22, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Improvements to iOS publishing process
+
+## March 21, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Add additional error handling to Google Sign In
+
+## March 15, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Streamline data being backed up to cloud for more efficient project retrieval
 
 ## March 9, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
