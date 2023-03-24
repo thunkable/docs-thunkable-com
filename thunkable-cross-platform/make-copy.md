@@ -6,5 +6,3 @@ When you have invested time building your app, you may want to make a copy of yo
 
 ![](../.gitbook/assets/makecopy.gif)
 
-
-

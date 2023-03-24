@@ -37,7 +37,7 @@ For the first time, you can also now live preview all your app projects from the
 
 Common issues
 
-#### **You see a blank / white screen when you live test \(even if there are items in your app\)**
+### **You see a blank / white screen when you live test \(even if there are items in your app\)**
 
 * If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
 * Your have unconnected blocks

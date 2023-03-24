@@ -9,13 +9,13 @@
 
 ## Space elements horizontally
 
-The `Justification` property allows you to space elements in a Screen horizontally
+The `Horizontal Alignment` property allows you to space elements in a Screen horizontally
 
 ![](../../../../.gitbook/assets/thunkable-documentation-exhibits-64%20%281%29.png)
 
 ## Space elements vertically
 
-The `Alignment` property allows you to space elements in a Screen vertically
+The `Vertical Alignment` property allows you to space elements in a Screen vertically
 
 ![](../../../../.gitbook/assets/spacing-fig-2.png)
 

@@ -1,7 +1,7 @@
 # Tab Navigator
 
-{% hint style="warning" %}
-Navigators are the only component that you cannot drag and drop into your phone at the moment. You'll have to drag it left to the tree hierarchy. Make sure that screens are fully contained within your navigator.
+{% hint style="danger" %}
+The original Tab Navigator component has been retired for a separate [Top](top-tab-navigator.md) and [Bottom](bottom-tab-navigator.md) Tab Navigator. Existing projects that have the original Tab Navigator will continue to be supported but we encourage creators to migrate to the new [Top](top-tab-navigator.md) and [Bottom](bottom-tab-navigator.md) Tab Navigator.
 {% endhint %}
 
 ![On Android, the tab bar is usually oriented at the top of the screen. On iOS, it is usually on the bottom.](../../../../.gitbook/assets/thunkable-documentation-exhibits-82.png)
@@ -22,7 +22,7 @@ To name your tabs, you'll have to navigate to the properties for your Screen
 
 ## Enable swiping
 
- Swiping is a popular way to move through screens and is enabled by the Tab Navigator
+Swiping is a popular way to move through screens and is enabled by the Tab Navigator
 
 | Property | Description |
 | :--- | :--- |
@@ -35,10 +35,4 @@ To hide the Tab bar, you'll actually have to change a Screen property
 | Property | Description |
 | :--- | :--- |
 | Tab Bar Visible | Default \(`true`\); If `false`, Tab bar will not be visible |
-
-## Adding icons to Tab bar
-
-{% hint style="info" %}
-Currently, it is not yet possible to add icons to your tab bar for iOS. We are working to add this feature soon.
-{% endhint %}
 

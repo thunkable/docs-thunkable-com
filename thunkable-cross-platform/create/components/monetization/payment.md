@@ -36,8 +36,6 @@ There are three properties that you need to retrieve from Stripe to connect it w
 
 On the Stripe dashboard, set your Developer toggle to "Viewing test data" and copy the Publishable key from the interface
 
-
-
 ![](../../../../.gitbook/assets/payment-stripe-fig-8%20%281%29.png)
 
 `Live Publishable Key`
@@ -48,7 +46,7 @@ On the Stripe dashboard, set your Developer toggle to live and copy the Publisha
 
 `Stripe Account ID`
 
-The Stripe Account ID is a unique account level ID that you retrieve by connecting your Stripe account to Thunkable. Make sure you are logged into your Stripe account and then visit ****BOTH ****[**x.thunkable.com/stripe/connect/test**](https://x.thunkable.com/stripe/connect/test) ****and ****[**x.thunkable.com/stripe/connect/live**](https://x.thunkable.com/stripe/connect/live) and click the buttons below
+The Stripe Account ID is a unique account level ID that you retrieve by connecting your Stripe account to Thunkable. Make sure you are logged into your Stripe account and then visit **BOTH** [**x.thunkable.com/stripe/connect/test**](https://x.thunkable.com/stripe/connect/test) **and** [**x.thunkable.com/stripe/connect/live**](https://x.thunkable.com/stripe/connect/live) and click the buttons below
 
 ![](../../../../.gitbook/assets/payment-stripe-fig-10%20%281%29.png)
 

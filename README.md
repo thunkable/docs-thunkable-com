@@ -1,22 +1,32 @@
-# Welcome
+---
+description: The platform where anyone can build their own mobile apps.
+---
 
-## What is Thunkable?
+# Welcome to Thunkable
 
-Thunkable is the easiest way to build an app. 
+## In the Beginning...
 
-**At Thunkable, our mission is simple -- to enable everyone to build their own beautiful and powerful mobile apps.**
+If you've made it to this page, you probably want to build an app. Congratulations!
 
-Instead of writing code, simply add your favorite components and connect them together. 
+Thunkable makes it simple to create and customize mobile apps without coding. 
 
-Instead of choosing between iOS or Android, Thunkable app projects work on both iOS and Android devices. 
+All apps built on Thunkable work for both Android and iOS, and you can get started by remixing existing projects from our Sample Apps or Public Gallery.
 
-Instead of starting your app from scratch, get inspired by and remix projects from our Public Gallery, featuring the work of our amazing community of app creators.
-
-## Questions?
+## Have specific questions?
 
 | Community | Email us |
 | :--- | :--- |
-| [Meet our community](https://community.thunkable.com/) of Thunkers to get the latest developments and answers to your toughest questions | For all other requests, email us [hello@thunkable.com](mailto:hello@thunkable.com)  |
+| Connect with our community of Thunkers around the world to get the latest developments and discuss everything app-related. | For all other requests, please email us [hello@thunkable.com](mailto:hello@thunkable.com) |
 
+With Thunkable, non-coders can easily design beautiful apps, program powerful functionality with drag & drop blocks and upload apps to the Google Play Store and Apple's App Store.
 
+All apps built on Thunkable work for both Android and iOS devices. 
+
+## [Pricing and Membership](https://thunkable.com/#/pricinghttps://thunkable.com/#/pricing)
+
+{% hint style="warning" %}
+Thunkable Classic docs has moved to a new home. You can find them at: 
+
+[classic-docs.thunkable.com](https://classic-docs.thunkable.com)
+{% endhint %}
 

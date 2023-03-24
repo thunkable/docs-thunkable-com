@@ -13,13 +13,13 @@ For more information on sizing in your app, please see our [introduction here​
 
 ## Space the elements vertically
 
-The `Justification` property allows you to space elements in a Column vertically
+The `Vertical Alignment` property allows you to space elements in a Column vertically
 
 ![](../../../../.gitbook/assets/column-fig-2.png)
 
 ## Space the elements horizontally
 
-The `Alignment` property allows you to space elements in a Column horizontally
+The `Horizontal Alignment` property allows you to space elements in a Column horizontally
 
 ![](../../../../.gitbook/assets/thunkable-documentation-exhibits-66.png)
 
@@ -36,6 +36,4 @@ The `Alignment` property allows you to space elements in a Column horizontally
 | Property | Description |
 | :--- | :--- |
 | Scrollable | Default \(`false`\). Indicates whether the column is scrollable. For scrollable to work, you must also set your screen height to `fit contents`  and the components in your column must have heights set in `absolute` pixels |
-
-## 
 

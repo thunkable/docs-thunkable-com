@@ -1,12 +1,14 @@
 # Realtime DB
 
-This storage option is useful for anything from saving game high scores to tracking social credit.
+This storage option is useful for anything from saving game high scores to tracking work credit, powered by Firebase.
 
 {% hint style="info" %}
-We highly recommend you use your own Firebase account with your app
+You can now use [cloud variables](../../blocks/variables.md#app-stored-and-cloud-variables) instead of adding a Realtime DB component. This will work the same way in the background but will save you a lot of blocks.
 {% endhint %}
 
-With the increased focus on user privacy, we strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself. We provide our database for your convenience but we may also clean out our shared account periodically
+{% hint style="danger" %}
+We highly recommend you use your own Firebase account with your app. With the increased focus on user privacy, we strongly advise that you use own Firebase account both to ensure the privacy of your user data and to give you visibility into the database itself. We provide our database for your convenience but we may also clean out our shared account periodically
+{% endhint %}
 
 * [Set up](realtime-db.md#set-up)
 * [Save data](realtime-db.md#save-data)
@@ -79,9 +81,7 @@ Once your project is connected to your Thunkable app, we recommend that you do a
 
 ## Separating your data into project buckets
 
-You might want to split your database into smaller spaces, also known as project buckets.  To do this, you would need to save your value as an object and use the create object block to create your project bucket. More details in [this post](https://community.thunkable.com/t/project-bucket-option-in-ios/31957).
-
-
+You might want to split your database into smaller spaces, also known as project buckets. To do this, you would need to save your value as an object and use the create object block to create your project bucket. More details in [this post](https://community.thunkable.com/t/project-bucket-option-in-ios/31957).
 
 ![Thanks to our power Thunker @actech for this awesome tip!](../../../../.gitbook/assets/image%20%289%29.png)
 

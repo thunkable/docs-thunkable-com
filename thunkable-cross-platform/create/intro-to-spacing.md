@@ -11,13 +11,13 @@ To position elements of an app in Thunkable, you'll have to manage the spacing b
 
 ![](../../.gitbook/assets/iosviewiconscreen.png)![](../../.gitbook/assets/iosviewiconrow.png)![](../../.gitbook/assets/iosviewiconcloumn.png)
 
-You can space elements within a Screen, Row or Column using two powerful properties `Justification` and `Alignment`.
+You can space elements within a Screen, Row or Column using two powerful properties`Horizontal Alignment` and `Vertical Alignment`.
 
-`Justification` in a Screen and Row; In a column, Justification and Alignment is reversed
+`Horizontal Alignment` in a Screen, Row or Column
 
 ![](../../.gitbook/assets/spacing-fig-1.png)
 
-`Alignment` in a Screen and Row
+`Vertical Alignment` in a Screen, Row or Column
 
 ![](../../.gitbook/assets/spacing-fig-2.png)
 

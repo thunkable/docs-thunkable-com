@@ -4,8 +4,6 @@
 
 ![](../../../../.gitbook/assets/photo-library-fig-1.png)
 
-
-
 ## Select Photo
 
 ![](../../../../.gitbook/assets/photo-library-fig-2.png)
