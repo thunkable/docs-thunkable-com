@@ -21,7 +21,7 @@ AdMob is the most popular ad network for monetizing mobile apps today.&#x20;
 
 Apps with large audiences can use AdMob to not only generate revenue for the creator, but in some cases, create better user experiences. For example, users may prefer to watch a [Rewarded Video Ad](admob.md#rewarded-video-ad) to unlock extra content than pay money to unlock extra content.
 
-We **highly recommend** that you only add ads to your app after you have a large audience of users (otherwise, you won't generate much revenue anyway).
+We **highly recommend** that you only add ads to your app after it has been completed and you have a good idea of how users will move through your app. Once your app is complete, you can go back in find natural points to add the different types of ads for your users.
 
 ## Setup Your AdMob Account
 
@@ -52,9 +52,9 @@ Once you have published your app, you will also need individual [Ad Unit IDs](ht
 
 To download and publish Thunkable apps that contain ads, you must first be a member of Thunkable's MCM (Multiple Customer Management) network.&#x20;
 
-An invitation to this network will be sent to you the first time you [submit your app for review](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ\_Uon406Demqt\_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform?pli=1).
+An invitation to this network will be sent to you the first time you submit your app for review. If you do not change AdMob accounts, this only needs to be done once, when you [submit your first app for review](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ\_Uon406Demqt\_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform?pli=1).
 
-By joining this network, you consent to sharing 10% of your AdMob revenue with Thunkable to support maintenance costs.
+By joining this network, you consent to sharing 10% of your AdMob revenue for all apps you have currently on AdMob with Thunkable to support maintenance costs.
 
 ### Submit Your App For Review
 
@@ -74,7 +74,7 @@ Thunkable will review apps for compliance with AdMob policies but will specifica
 
 **Thunkable reserves the right to change an app's approval status subject to any violation of our guidelines.**
 
-If your app is rejected, you will be provided with an explanation and a recommendation for changes to make to your app to get it approved.
+If your app is rejected, the Thunkable AdMob team will send an email to the address used in your submission and you will be provided with an explanation and a recommendation for changes to make to get your app approved upon re-submission.
 
 You are welcome to submit the same app for approval multiple times.
 
@@ -88,7 +88,7 @@ AdMob banner ads are the simplest ad format to implement and are recommended for
 
 The first banner ad will load when ready and will reload a new ad every minute.
 
-There is a maximum of 1 Banner ad allowed per screen. You can show multiple banners in a single multi-screen app.
+There is a maximum of 1 Banner ad allowed per screen. You can show multiple banners in a single multi-screen app. You can learn more about best practices for implementing and using banners [here](https://support.google.com/admob/answer/6128877?hl=en).
 
 <figure><img src=".gitbook/assets/Screenshot 2023-02-16 at 4.46.12 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -181,7 +181,7 @@ There is a limit of one rewarded video ad component per app, but you can show th
 
 To show a rewarded video app, you need to first add the component and then add the [`Show Ad` block ](admob.md#rewarded-video-ad-blocks)after the appropriate event in your app.&#x20;
 
-You'll then want to add a [`Reward User` event](admob.md#rewarded-video-ad-blocks) to reward your user in the app.&#x20;
+You'll then want to add a [`Reward User` event](admob.md#rewarded-video-ad-blocks) to reward your user in the app. You can learn more about best practices for implementing and using Rewarded Video ads [here](https://support.google.com/admob/answer/7313578?hl=en).
 
 ### Adding a Rewarded Video ad to your app
 
@@ -205,7 +205,7 @@ You will see a dialogue where you can set the following properties:
 
 #### Events
 
-Use the **when Ad Close** block to trigger events to happen when the interstitial closes.
+Use the **when Ad Close** block to trigger events to happen when the Rewarded Video ad closes.
 
 ![](<.gitbook/assets/admob-video-blocks-events (1).png>)
 
@@ -265,7 +265,7 @@ With iOS 14.5 and above, your app users will be asked if they consent to an adve
 ![](<.gitbook/assets/tracking-dialog (1).png>)
 
 \
-You can set a personalized Tracking Usage Description in your [Project Settings](project-settings.md).‌\
+You can set a personalized Tracking Usage Description in your [Project Settings](project-settings.md).‌ All characters in your Tracking Usage Description must be alphanumeric or an underscore \[a-z A-Z 0-9 \_]\
 \
 If this permission is declined, your app will still show ads. These will be more generic ads and won't be targeted at the user.\
 \
@@ -281,6 +281,7 @@ If you are not seeing ads appear in your app, it may be due to the following rea
 * Your `Ad Unit ID` has not yet been activated. This may take up to a few hours
 * You have entered the App ID or the Publisher ID instead of the Ad Unit ID which begins with `ca-app-pub-xxx`
 * Please check the mobile device internet connectivity or disable ad blockers on the mobile device
+* Check your app's [Readiness Status](https://support.google.com/admob/answer/10564477?hl=en). Only apps with a _Ready_ status will be served ads.
 * Your setup is correct. The issue is that AdMob does not always have an ad to return for every request. This may happen particularly if you have just registered your AdMob publisher ID, as it takes some time and multiple requests before the new ID starts returning ads
 * [Check the community forum for other potential errors](https://community.thunkable.com/)
 

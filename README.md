@@ -27,7 +27,7 @@ The Thunkable Docs to support users of the Snap to Place interface are available
 {% hint style="info" %}
 You can toggle between the Drag and Drop and Snap to Place docs in the upper left corner. \
 \
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (1).png>)
 {% endhint %}
 
 ## Additional Support Options
