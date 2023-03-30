@@ -177,7 +177,7 @@ the name used here should match the name used in **Step 3** above
 
 </div>
 
-### 10. Copy and paste the content of this projects [service account](https://app.gitbook.com/s/KrMxDvAEx21XNB81zaoj/in-app-purchases/overview/android-play-store-setup#download\_your\_service\_key) file from your computer into this newly created file.&#x20;
+### 10. Copy and paste the content of this projects [service account](http://localhost:5000/s/KrMxDvAEx21XNB81zaoj/in-app-purchases/overview/android-play-store-setup#download\_your\_service\_key) file from your computer into this newly created file.&#x20;
 
 <figure><img src="../../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 

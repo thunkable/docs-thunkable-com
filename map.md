@@ -10,13 +10,23 @@ The Map component lets you show an area of a Google map to the user. You can add
 
 ### Add Google Maps API Key
 
-You can add your own Google Maps API Key to your Thunkable project. This is not necessary to show a map in your app.
+You can live-test your app without adding your unique Google Maps API keys, but you need to add them if you want to download or publish your app.&#x20;
 
-Simply click on your project name to open the [Project Settings](project-settings.md) menu, and scroll down to the **Google Map Settings** section. You will see the option to enter a Google Maps API Key for Android and iOS.
+#### Generate a Google Maps API Key
 
-![](.gitbook/assets/mapapikeys.png)
+To generate your personal Google Maps API key, you need to:
 
-You can get your own Google Maps API Key [here](https://developers.google.com/maps/documentation/javascript/get-api-key).
+1. Create a Google Cloud project for your app.
+2. Create a billing account or enable billing for the project.
+3. If you intend to publish to Android and iOS, you will require a separate Google Maps API key for each. Enable a Maps SDK for Android and a Maps SDK for iOS.&#x20;
+
+For more detailed instructions, please see here: [Google Maps Platform: Set up your Google Cloud project](https://developers.google.com/maps/documentation/android-sdk/cloud-setup).
+
+#### Add Google Maps API Key to Thunkable&#x20;
+
+Once you've generated your Google Maps API keys, you can add them to your Thunkable project. Click the gear icon on the left of your project's designer tab to access your [Project Settings](project-settings.md). Scroll to the **Google Map Settings** section and paste your Android and iOS API keys into the corresponding fields.&#x20;
+
+![](<.gitbook/assets/project settings  Google Maps Settings.png>)
 
 ### Map
 
