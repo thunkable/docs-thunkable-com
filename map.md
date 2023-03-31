@@ -28,10 +28,10 @@ To generate your personal Google Maps API key, you need to:
 
 1. Navigate to **APIs & Services**.
 2. Select **Credentials** from the left side menu.
-3. Click **SHOW KEY**.\
+3.  Click **SHOW KEY**.\
 
 
-<img src=".gitbook/assets/Google Maps API show key 2.png" alt="" data-size="original">
+    <figure><img src=".gitbook/assets/Google Maps API show key 2.png" alt=""><figcaption></figcaption></figure>
 {% endhint %}
 
 For more detailed instructions, please see here: [Google Maps Platform: Set up your Google Cloud project](https://developers.google.com/maps/documentation/android-sdk/cloud-setup).
