@@ -18,7 +18,21 @@ To generate your personal Google Maps API key, you need to:
 
 1. Create a Google Cloud project for your app.
 2. Create a billing account or enable billing for the project.
-3. If you intend to publish to Android and iOS, you will require a separate Google Maps API key for each. Enable a Maps SDK for Android and a Maps SDK for iOS.&#x20;
+3. Click **Enable** to enable the Maps SDK for Android or Maps SDK for iOS. &#x20;
+4. Select **Enable all Google Maps APIs for this project**.\
+   ![](<.gitbook/assets/Google Maps API 2.png>)
+5. Copy the provided API key.&#x20;
+
+{% hint style="info" %}
+**Note:** If you close this pop pup message without copying your API key
+
+1. Navigate to **APIs & Services**.
+2. Select **Credentials** from the left side menu.
+3. Click **SHOW KEY**.\
+
+
+<img src=".gitbook/assets/Google Maps API show key 2.png" alt="" data-size="original">
+{% endhint %}
 
 For more detailed instructions, please see here: [Google Maps Platform: Set up your Google Cloud project](https://developers.google.com/maps/documentation/android-sdk/cloud-setup).
 
