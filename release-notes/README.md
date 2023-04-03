@@ -4,6 +4,13 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## March 28, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Added option to build Android, iOS apps with Expo 47
+  * iOS apps built with Expo 47 target iOS 16
+
 ## March 22, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
 Platform Updates
