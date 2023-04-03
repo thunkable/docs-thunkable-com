@@ -30,12 +30,9 @@ Once you have followed a tutorial, test your project on the web to see it live.&
 [live-test.md](live-test.md)
 {% endcontent-ref %}
 
-## **Step 4.** **Download the Thunkable Mobile App**
+## **Step 4.** **Download the Thunkable Live App**
 
-You're ready to test your app on a real phone! Click on one of the links below to download the Thunkable mobile app.
-
-| [**Download for Android**](https://play.google.com/store/apps/details?id=com.thunkable.live) | [**Download for iOS**](http://appstore.com/thunkablelive)      ****       |
-| :------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+The Thunkable Live app lets you preview your apps directly on your personal devices. Links to download for Android and iOS are here: [Thunkable Live App](https://thunkable.com/#/mobile)
 
 If you don't have an iOS or Android device, you can [set up an emulator](emulators.md) on your computer that will display your apps.
 
@@ -47,8 +44,6 @@ View the homepage for all of your Thunkable creations. Choose how you want your 
 [your-thunkable-projects-page.md](your-thunkable-projects-page.md)
 {% endcontent-ref %}
 
-With the Thunkable Live mobile app, you can preview your apps directly on your personal devices. To learn more, please click below.&#x20;
-
 ## Step 6. Create a new Project
 
 Continue your journey by creating more projects.
@@ -59,7 +54,7 @@ Continue your journey by creating more projects.
 
 ## Step 7. Components and Features
 
-We have custom components and third-party integrations that you can drop directly into your projects. These components will allow you to build more advanced features. &#x20;
+You can drop custom components and third-party integrations directly into your projects. These components will allow you to build more advanced features. &#x20;
 
 {% content-ref url="components.md" %}
 [components.md](components.md)
