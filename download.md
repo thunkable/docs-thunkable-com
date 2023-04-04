@@ -34,13 +34,27 @@ You will be sent an email with a link to download your app.
 
 ### Install Android App
 
-To install your Android app, you will need to go to **Settings** > **Security** and allow apps to be installed from **Unknown Sources**. This will allow you to install apps from sources other than the Play Store.
+To install the app on your Android device, you must indicate that you trust Thunkable. To do that:
 
-{% hint style="info" %}
-Anyone installing your app directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of apps from Unknown Sources
-{% endhint %}
+1. Open your Android device's Settings menu.
+2. Navigate to **Lock Screen and Security**.&#x20;
+3. Set the **Unknown Sources** option to true.
 
 ![](.gitbook/assets/download-fig-4.png)
+
+In addition, you may be alerted that Play Protect has blocked an unsafe app. This is because you are downloading the app outside of the Play Store. If that is the case:
+
+1. Select the APK file you downloaded to your device.
+2. Click **Install**.
+3. Click **More details**.
+4. Click **Install anyway**.
+5. Click **Open**.
+
+<figure><img src=".gitbook/assets/APK Screenshots (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Anyone installing your app directly, instead of from the Play Store, will need to change the setting on their phone to allow installation of apps from Unknown Sources.
+{% endhint %}
 
 ### Troubleshooting
 
