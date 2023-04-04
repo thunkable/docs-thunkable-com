@@ -1,5 +1,5 @@
 ---
-description: Preview your Thunkable project with our Thunkable live app, or on the Web
+description: Preview your Thunkable project with our Thunkable Live app, or on the Web
 ---
 
 # Live Test your App
@@ -96,10 +96,10 @@ You can click the **Preview in a New Window** text to preview your app in a new 
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.41.51-pm.png)
 
-You can also preview any _public_ app, directly from the Project Detail Page. Here's [one example](https://x.thunkable.com/projectPage/5ea6ed029ce3d64d1d3a27dc) but you can find thousands of others in the public gallery.
+You can also preview any _public_ app, directly from the Project Detail Page.&#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.43.12-pm.png)
+![](<.gitbook/assets/Project Detail Page.png>)
 
 ### Unsupported Components
 
-Not all components are supported on the web at this time so please see the list of unsupported components in the [Publish as a Web App](publish-as-a-web-app-pro.md#unsupported-components) page of the docs.
+Not all components are supported on the web at this time, so please see the list of unsupported components in the [Publish as a Web App](publish-as-a-web-app-pro.md#unsupported-components) document.
