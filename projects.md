@@ -4,28 +4,23 @@ description: There a several different types of project in Thunkable
 
 # 🆕 Create New Project
 
-A project is a place where your designs, files and blocks come together to create Android and iOS apps. There are four different types of projects in Thunkable.
+A project is where your designs, files, and blocks combine to create Android, iOS, and web apps.&#x20;
 
-1. [Public Projects](projects.md#public-projects)
-2. [Private Projects](projects.md#private-projects)
-3. [Read-Only Projects](projects.md#read-only-projects)
-4. [App layout and size](projects.md#undefined)
+## Public vs. Private Projects
 
-When you first sign in to Thunkable you will be prompted to create a project. To learn more about the maximum size your projects can be, please see our article about the [minimum requirements](assets.md#app-size-limits-50-mb-per-app) for apps.
-
-## Public Projects
+### Public Projects
 
 Public projects are included in the [Thunkable Public Gallery](broken-reference) for anyone to preview, download or remix. If you create a public project, please know that it can be viewed by anyone in the Thunkable community.&#x20;
 
-## Private Projects
+### Private Projects
 
-Private projects are just that, private. They can only be seen by their app creator and do not get included in the [Thunkable Public Gallery.](broken-reference) Only Thunkable Pro users can create and share private projects.&#x20;
+Private projects are available to Creators on Pro+ plans. These projects are private, meaning they can only be seen by their app creator. They are not displayed in the [Thunkable Public Gallery.](broken-reference)&#x20;
 
-[Learn more about Pro.](https://thunkable.com/#/pricing)
+Learn more about our plans here: [Thunkable Pricing Plans](https://thunkable.com/#/pricing)
 
-## Making Projects Public or Private
+### Making Projects Public or Private
 
-You can decide whether a project is public or private when you create it.&#x20;
+For Creators on Pro+ plans, you can decide whether a project is public or private when you create it.&#x20;
 
 <figure><img src=".gitbook/assets/Screen Shot 2023-03-10 at 10.27.44 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,7 +30,7 @@ You can also change the privacy setting of an existing app. Click the gear icon 
 
 ## Read-Only projects
 
-Private projects become Read-Only projects when a Thunker's [Pro membership](https://thunkable.com/#/pricing) expires. Read-Only projects remain private and are not included in the Thunkable Gallery.
+Private projects become Read-Only projects when a Creator's [Pro membership](https://thunkable.com/#/pricing) expires. Read-Only projects remain private and are not included in the Thunkable Gallery.
 
 You can only preview Read-Only. Once a project has been switched to public, you cannot switch it back to Read-Only.
 
