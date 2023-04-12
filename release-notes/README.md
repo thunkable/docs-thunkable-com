@@ -4,6 +4,32 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+
+
+## April 6, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* Thunkable Community: Improve sign-in process when signing in via SSO linked to an Apple or Google account
+* Cleaned up some backend files for better site performance
+
+## April 5, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* [live-test.md](../live-test.md "mention"): Added link to Privacy Policy and Terms and Conditions to Settings screen of the Thunkable Live app, to make access easier for users at all times
+
+## March 31, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
+
+Platform Updates
+
+* [organizations.md](../organizations.md "mention") Updates
+  * Updated project view for organization members with View access
+  * Allow organization members with Edit access to take over editing a project if previous editor has been inactive
+  * Introduced admin dashboard for administrators of organizations to view projects, members, etc
+  * Gracefully handle when a project in an Organization has previously been published, has an Android keystore file, and is now being duplicated within the organization
+  *
+
 ## March 28, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
 Platform Updates
