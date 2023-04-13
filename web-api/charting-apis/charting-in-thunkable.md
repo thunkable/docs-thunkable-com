@@ -7,7 +7,7 @@ Now that we know what URL parameters are, we can start creating blocks in our pr
 ### Overview
 
 {% hint style="success" %}
-**Remix Link:** [**https://x.thunkable.com/projectPage/6227740a29e8cb0010e04e5d**](https://x.thunkable.com/projectPage/6227740a29e8cb0010e04e5d)****
+**Remix Link:** [**https://x.thunkable.com/projectPage/6227740a29e8cb0010e04e5d**](https://x.thunkable.com/projectPage/6227740a29e8cb0010e04e5d)
 {% endhint %}
 
 To recreate the UI for this app you can add an image and a button - click on the remix button to add the UI and blocks for this project to your Thunkable account.

@@ -52,7 +52,7 @@ Repeat an action for a certain amount of times, with the incrementer index _i_
 
 ### For each item j in list
 
-__
+
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-3.33.51-pm.png)
 

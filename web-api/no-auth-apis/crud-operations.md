@@ -12,7 +12,7 @@ At the end of this tutorial, you should be able to&#x20;
 ### Overview
 
 {% hint style="success" %}
-**Remix Link:** [<mark style="color:blue;">**https://x.thunkable.com/projectPage/620e62ccc6b7590159627317**</mark>](https://x.thunkable.com/projectPage/620e62ccc6b7590159627317)<mark style="color:blue;">****</mark>
+**Remix Link:** [<mark style="color:blue;">**https://x.thunkable.com/projectPage/620e62ccc6b7590159627317**</mark>](https://x.thunkable.com/projectPage/620e62ccc6b7590159627317)
 {% endhint %}
 
 The app we're going to build in this example is called "Dogs-as-a-Service". It connects to the [dog.ceo API](https://dog.ceo/dog-api/) and can "fetch" an image and breed name for a random dog.&#x20;
@@ -46,7 +46,7 @@ Our response contains just two properties, `message` and `status` which really m
 {% endswagger-response %}
 {% endswagger %}
 
-All we need to do here is get the value from the `message` property and pass that to our image component. The <mark style="color:blue;"></mark> [<mark style="color:blue;">object blocks</mark>](https://docs.thunkable.com/v/drag-and-drop/objects) <mark style="color:blue;"></mark> in Thunkable make this incredibly easy to do and we can set our picture by using just two of them. First we have to convert the raw JSON response into an object using the <mark style="background-color:red;">get object from JSON</mark> block, then we can go ahead and get the message value and pass it to the image component using the <mark style="background-color:red;">get property of object</mark> block like this:
+All we need to do here is get the value from the `message` property and pass that to our image component. The [<mark style="color:blue;">object blocks</mark>](https://docs.thunkable.com/v/drag-and-drop/objects) in Thunkable make this incredibly easy to do and we can set our picture by using just two of them. First we have to convert the raw JSON response into an object using the <mark style="background-color:red;">get object from JSON</mark> block, then we can go ahead and get the message value and pass it to the image component using the <mark style="background-color:red;">get property of object</mark> block like this:
 
 <figure><img src="../../.gitbook/assets/daas_fetch_image.png" alt=""><figcaption></figcaption></figure>
 
@@ -77,5 +77,5 @@ In this first example we've learned how make a `Get` request in Thunkable and us
 If you have any questions about this tutorial, please post them over in the Thunkable Community
 
 {% hint style="info" %}
-**Community Link:** [<mark style="color:blue;">**https://community.thunkable.com/t/dog-breeds-api-tutorial/**</mark>](https://bit.ly/3iJvOYS)<mark style="color:blue;">****</mark>
+**Community Link:** [<mark style="color:blue;">**https://community.thunkable.com/t/dog-breeds-api-tutorial/**</mark>](https://bit.ly/3iJvOYS)
 {% endhint %}

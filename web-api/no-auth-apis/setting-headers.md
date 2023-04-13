@@ -12,7 +12,7 @@ By the end of this lesson you'll understand how to:
 ### Overview
 
 {% hint style="success" %}
-**Remix link:** [<mark style="color:blue;">**https://x.thunkable.com/projectPage/620e5675396bbd001066d68a**</mark>](https://x.thunkable.com/projectPage/620e5675396bbd001066d68a)<mark style="color:blue;">****</mark>
+**Remix link:** [<mark style="color:blue;">**https://x.thunkable.com/projectPage/620e5675396bbd001066d68a**</mark>](https://x.thunkable.com/projectPage/620e5675396bbd001066d68a)
 {% endhint %}
 
 According to [their docs](https://icanhazdadjoke.com/api), _icanhazdadjoke.com can be used as an API for fetching a random joke, a specific joke, or searching for jokes in a variety of formats._
@@ -80,5 +80,5 @@ In the next section we'll increase the complexity slightly and learn how to use 
 If you have any questions about this tutorial, please post them in this topic over in the Thunkable Community
 
 {% hint style="info" %}
-**Community Link:** [<mark style="color:blue;">**https://community.thunkable.com/t/jokes-api-tutorial**</mark>](https://bit.ly/3tQsuBz)<mark style="color:blue;">****</mark>
+**Community Link:** [<mark style="color:blue;">**https://community.thunkable.com/t/jokes-api-tutorial**</mark>](https://bit.ly/3tQsuBz)
 {% endhint %}

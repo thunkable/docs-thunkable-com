@@ -531,7 +531,7 @@ Component Updates
 
 Platform Updates
 
-* **Upgraded to** [**Expo 43**](https://blog.expo.dev/expo-sdk-43-aa9b3c7d5541)****
+* **Upgraded to** [**Expo 43**](https://blog.expo.dev/expo-sdk-43-aa9b3c7d5541)
 * Thunkable Live App: UI updates
 * Thunkable Live: Reset app testing local storage when local data source is updated
 * Figma: Import assets as regular Thunkable assets

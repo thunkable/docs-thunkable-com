@@ -1,8 +1,8 @@
 # Verify and Acknowledge Android Purchases and Subscription
 
 For Android, when a user initiates a transaction, it must be completed by first verifying then acknowledging the purchase. Once you've verified the purchase, your app is ready to grant the purchased item or subscription to the user. After granting entitlement, your app must then acknowledge the purchase. This acknowledgement **communicates to Google Play that you have granted entitlement for the purchase and completes the transaction. If you fail to complete this acknowledgement step your subscriptions will revert in a period of 3 days from the time of purchase.** \
-****\
-****The verification process can also be used to confirm that a users subscription status or purchase is still valid.
+\
+The verification process can also be used to confirm that a users subscription status or purchase is still valid.
 
 {% hint style="info" %}
 This is not the most efficient method and we want to acknowledge this. We will be continuing to update the docs as we produce more concrete examples. We also wanted to get something solid into your hands now. Look for updates soon! \

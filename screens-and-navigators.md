@@ -20,7 +20,7 @@ Most apps navigate through screens using navigators. Click [here](https://www.yo
 
 Here are three examples of navigators that you can use on Thunkable.
 
-1. ****[**Bottom**](https://docs.thunkable.com/bottom-tab-navigator) **and** [**Top Tab**](https://docs.thunkable.com/top-tab-navigator) **Navigators** - These navigators allow you to change screens by clicking on icons at the top or bottom of the screen.&#x20;
+1. [**Bottom**](https://docs.thunkable.com/bottom-tab-navigator) **and** [**Top Tab**](https://docs.thunkable.com/top-tab-navigator) **Navigators** - These navigators allow you to change screens by clicking on icons at the top or bottom of the screen.&#x20;
 
 ![Top Tab Navigator](<.gitbook/assets/image (112).png>)
 

@@ -4,12 +4,12 @@ The components in the ‘Any Component’ drawer are great tools to use instead 
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-10.46.27-am.png)
 
-For example, to change the colour of any button on the screen to blue (the blocks on the left) we have to use 6 blocks. Using the ‘Any Component’ Blocks (on the right), we only need to use 2 blocks. ****&#x20;
+For example, to change the colour of any button on the screen to blue (the blocks on the left) we have to use 6 blocks. Using the ‘Any Component’ Blocks (on the right), we only need to use 2 blocks.&#x20;
 
 ## **What is the Generic Event Block?**
 
 With the Generic Event block, you can set when an event will take place. \
-****
+
 
 For example, in the picture below, any button you click on the screen will change the text of Label1 to be “Thunking Is Fun!”.&#x20;
 
@@ -43,7 +43,7 @@ With the Create Block, you can program your app to create visible components (th
 
 
 When you use the create block, your app will automatically create something. For example:\
-****
+
 
 This picture shows that when Screen1 Opens, your app will create a button and put it on Screen1.
 
@@ -60,8 +60,8 @@ With the second dropdown menu, you can select where you want to position the com
 ![](.gitbook/assets/screen-shot-2021-04-08-at-11.03.38-am.png)
 
 _**Note: The options in the second and third drop down will vary depending on which component you select from the first dropdown.**_\
-__\
-__****The following block creates a new button and places it as the first item on Screen1.
+\
+The following block creates a new button and places it as the first item on Screen1.
 
 ![](<.gitbook/assets/create-example-1 (7).png>)
 
@@ -168,7 +168,7 @@ There are two ways to change the text of a component using the Generic Set Block
 
 ## **What is the Generic Get Block?**
 
-The Generic Get Block allows you to get properties (such as text and color) of any component that is on the app’s screen. ****&#x20;
+The Generic Get Block allows you to get properties (such as text and color) of any component that is on the app’s screen.&#x20;
 
 You can use the dropdown menu to select the component whose text you want to get.
 

@@ -303,7 +303,7 @@ Click **Export and upload a key from Java keystore:**
 
 ![](.gitbook/assets/export.png)
 
-You can skip straight to **Step 3: Upload generated ZIP** and **** Upload the [Keystore ZIP you downloaded from your project settings.](publish-to-play-store-android.md#download-your-bundle-key-zip)
+You can skip straight to **Step 3: Upload generated ZIP** and Upload the [Keystore ZIP you downloaded from your project settings.](publish-to-play-store-android.md#download-your-bundle-key-zip)
 
 Click **Continue.**
 

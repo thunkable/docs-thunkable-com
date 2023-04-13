@@ -1,13 +1,13 @@
 ---
-description: How to publish your project to the Internet as a Web App
+description: How to publish your project to the internet as a web app
 ---
 
-# Publish as a Web App (PRO)
+# Publish as a Web App
 
-Publishing as a Web App is currently the fastest way to publish your Thunkable app. This means that you can get user feedback in minutes instead of hours or days. One major advantage to publishing on the internet is that you don't need to pay additional fees to an app market place.&#x20;
+Publishing as a web app is the fastest way to publish your Thunkable app. This means that you can get user feedback in minutes instead of hours or days. One major advantage to publishing on the internet is that you don't need to pay additional fees to an app marketplace.&#x20;
 
 {% hint style="info" %}
-The "Publish as a Web App" component is a feature just for Thunkable creators with active PRO subscriptions. To upgrade your subscription please visit your [membership page](https://x.thunkable.com/account/membership). If you cancel your PRO membership, your app will be unpublished once your PRO membership expires.
+Publishing as a web app is available for Thunkable creators with active pro subscriptions. To upgrade your subscription please visit your [membership page](https://x.thunkable.com/account/membership). If you cancel your pro membership, your app will be unpublished once your pro membership expires.
 {% endhint %}
 
 ## Mobile Web App
@@ -34,27 +34,73 @@ Here's a 3 minute overview of how "Publish as a Web App" works.
 
 {% embed url="https://www.youtube.com/watch?v=7SgIseIqZWk" %}
 
-## How to Publish
+## Publish web app
 
-Start by clicking on the Publish menu and choose the "Publish as Web App (PRO)" option at the bottom of the drop down menu
+Click the Download and Publish icon and select **Publish web app.**
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.23.07-am.png)
-
-The first time you publish a new project you will have to click on the blue `Get link and publish` button.
-
-![](.gitbook/assets/03\_get\_link\_large-1.png)
+![](<.gitbook/assets/Download and Publish menu (2).png>)
 
 In the next modal you can:
 
 * open the app in a new tab
 * copy the app link
-* select whether to publish as a [**Mobile web app**](publish-as-a-web-app-pro.md#mobile-web-app) or a [**Responsive web app**](publish-as-a-web-app-pro.md#responsive-web-app)****
+* select whether to publish as a [**Mobile web app**](publish-as-a-web-app-pro.md#mobile-web-app) or a [**Responsive web app**](publish-as-a-web-app-pro.md#responsive-web-app)
 * share your app through popular channels like Facebook, Twitter and Reddit&#x20;
 * **unpublish** your app by clicking on `Disable published link` text
 
 ![](<.gitbook/assets/publish-as-web-app (2).png>)
 
 🎉 Congratulations - your Thunkable project is now live on the internet a published web app.
+
+## Publish to a custom domain
+
+### Configure your domain
+
+You need to configure your domain before you can publish your app to that domain. To do so, add the Thunkable IP address (34.136.177.42) to the A record of your domain which you can usually find in the DNS section of your domain provider.
+
+Here are the instructions from some popular domain name providers:&#x20;
+
+* [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/319/2237/how-can-i-set-up-an-a-address-record-for-my-domain/)
+* [AWS](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/ResourceRecordTypes.html#AFormat)
+* [Digital Ocean](https://docs.digitalocean.com/products/networking/dns/how-to/manage-records/)
+* [Google Domains](https://support.google.com/domains/answer/3290350?hl=en)
+* [GoDaddy](https://www.godaddy.com/help/add-an-a-record-19238)
+
+DNS synchronization often takes less than an hour but may take up to 72 hours. If your domain is not connecting within 48 hours, we recommend the following troubleshooting steps:
+
+* Confirm the IP address added to your A record is the correct IP (34.136.177.42).
+* Ensure you are using `http://` and not `https://`.
+
+### Publish to a custom domain
+
+**Note:** The windows you see may look slightly different from the ones shown below. The windows and prompts vary based on whether or not you’ve published your app as a web app previously.
+
+To publish your web app to a custom domain:
+
+1. Click the **Download and Publish** icon.\
+   \
+   ![](<.gitbook/assets/Download and Publish menu (2).png>)\
+
+2. Select **Publish web app**.\
+
+3. Add your custom domain in the provided field and click **Add Domain**. Note: this must be the domain and not the URL.\
+
+4.  Click **Check Status**. \
+
+
+    <figure><img src=".gitbook/assets/custom domain  check status.png" alt=""><figcaption></figcaption></figure>
+5. A green **Connected** tag will appear in the field when there is a successful connection. \
+
+6. Ensure the box next to **Publish web app to this domain** is checked.\
+
+7. Select a web app format (Mobile web app or Responsive web app).\
+
+8.  Click **Get link and publish** or **Publish current version**.\
+    \
+
+
+    <figure><img src=".gitbook/assets/custom domain  connected.png" alt=""><figcaption></figcaption></figure>
+9. Click **Done**.
 
 ## Updating your App
 

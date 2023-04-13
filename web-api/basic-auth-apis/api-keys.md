@@ -7,7 +7,7 @@ With all the APIs in this section, the first thing you will need to do is regist
 ### Overview
 
 {% hint style="success" %}
-**Remix Link:** [**https://x.thunkable.com/projectPage/62013029b08ede0011f1c03d**](https://x.thunkable.com/projectPage/62013029b08ede0011f1c03d)****
+**Remix Link:** [**https://x.thunkable.com/projectPage/62013029b08ede0011f1c03d**](https://x.thunkable.com/projectPage/62013029b08ede0011f1c03d)
 {% endhint %}
 
 In this tutorial we're going to learn how to generate an API key on RapidAPI and use it to build a digital version of the classic pen-and-paper Compatibility Calculator game that some of you may remember from your childhood.

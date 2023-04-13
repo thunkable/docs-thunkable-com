@@ -162,7 +162,7 @@ If there is an `error`, the error message is passed as an output.&#x20;
 
 #### Delete All Rows
 
-You can use the `delete all rows` **** block to delete all rows in your data source.\
+You can use the `delete all rows` block to delete all rows in your data source.\
 If there is an `error`, the error message is passed as an output.
 
 ![](.gitbook/assets/datasourcedeleteallrows.png)

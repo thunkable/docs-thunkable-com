@@ -216,7 +216,7 @@ For "SHA-1 certificate fingerprint" you will need to export your app's keystore 
     To use this command, you will need to [download the Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/) for your system. \
     After installing the JDK, you may run the command from the Command Prompt (Windows) or Terminal (macOS): \
     **`keytool -keystore`` `**_**`path-to-debug-or-production-keystore`**_**` ``-list -v`**\
-    **``**where "_path-to-debug-or-production-keystore_" is the location of the keystore file on your computer. \
+    where "_path-to-debug-or-production-keystore_" is the location of the keystore file on your computer. \
     If prompted for a password, enter the password you saved when exporting your keystore (see: [Alias and password](https://docs.thunkable.com/publish-to-play-store-android#alias-and-password))\
     Look for the "Certificate fingerprints" section. It may look something like:\
     \

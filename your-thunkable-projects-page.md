@@ -55,4 +55,3 @@ If the project is a remix of another project, the name and creator of the origin
 
 ![](<.gitbook/assets/Screen Shot 2021-11-11 at 9.49.29 AM.png>)
 
-****

@@ -29,7 +29,7 @@ Within the component tree, drag and drop screens to nest them under the Drawer N
 
 ## Screen-Specific Drawer Navigator Properties
 
-Once a screen has been added to the drawer navigator, a new section in the screen's properties panel, **Drawer Navigation Options**, **** becomes available. This is where you define the screen's label that displays in the user's drawer navigator.
+Once a screen has been added to the drawer navigator, a new section in the screen's properties panel, **Drawer Navigation Options**, becomes available. This is where you define the screen's label that displays in the user's drawer navigator.
 
 ## Drawer Navigator Properties
 

@@ -37,7 +37,7 @@ You can use the drop-down menus at the top of the screen to select different dev
 ## **Create screenshots for your chosen device**
 
 Go back to the top left-hand corner of your console dock.\
-****You will now see three dots to the left of the dock. \
+You will now see three dots to the left of the dock. \
 Click on these three dots to open a menu, and click on “Capture Screenshot” in the menu.
 
 ## **Required screenshot sizes for App Store**

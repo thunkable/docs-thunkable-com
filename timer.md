@@ -84,7 +84,7 @@ Returns interval of Timer in milliseconds
 
 ![](.gitbook/assets/setcount.png)
 
-Set whether Count Up **** is enabled for this Timer.
+Set whether Count Up is enabled for this Timer.
 
 #### Get Count Up
 

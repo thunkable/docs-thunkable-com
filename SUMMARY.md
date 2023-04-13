@@ -128,7 +128,7 @@
   * [TestFlight Overview](publish-to-app-store-ios/testflight-overview/README.md)
     * [TestFlight in Depth](publish-to-app-store-ios/testflight-overview/testflight-in-depth.md)
 * [Publish to Play Store (Android) with AAB](publish-to-play-store-android.md)
-* [Publish as a Web App (PRO)](publish-as-a-web-app-pro.md)
+* [Publish as a Web App](publish-as-a-web-app-pro.md)
 * [Generate Screenshots](generate-screenshots.md)
 * [🔎 Troubleshooting](troubleshooting/README.md)
   * [Login Issues](troubleshooting/login-issues.md)

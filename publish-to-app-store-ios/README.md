@@ -55,11 +55,11 @@ If you do not include this and your app engages in tracking, Apple will reject y
 There are two locations where you can set your Tracking Usage Description:
 
 1.  **Project Settings**\
-    ****
+
 
     ![](<../.gitbook/assets/Screen Shot 2022-02-22 at 3.02.47 PM.png>)
 2.  **Publishing Wizard**\
-    ****
+
 
     <figure><img src="../.gitbook/assets/publish iOS -  Upload an Icon and Enter your Version Number.png" alt=""><figcaption></figcaption></figure>
 
@@ -127,7 +127,7 @@ Go to the [Apple ID account website](https://appleid.apple.com/#!\&page=signin) 
 {% tab title="Step 7" %}
 ![](../.gitbook/assets/asp06.png)
 
-**Step 7:** Your app-specific password consists of four 4-letter phrases. **** You will not be able to retrieve this password once you click **Done** so make sure you save it some place safe.
+**Step 7:** Your app-specific password consists of four 4-letter phrases. You will not be able to retrieve this password once you click **Done** so make sure you save it some place safe.
 {% endtab %}
 {% endtabs %}
 
@@ -146,7 +146,7 @@ To revoke an app-specific password:
 
 Every app published on the App Store must have a unique name. For example, there can only ever be one app called `Thunkable Sample App`.  You can **Register your App ID** to reserve the name you want!
 
-Go to the [**Apple Developer website**](https://developer.apple.com/account) **** to **** register a new App ID. Click through the tabs below to see each screen in the ID creation process.
+Go to the [**Apple Developer website**](https://developer.apple.com/account) to register a new App ID. Click through the tabs below to see each screen in the ID creation process.
 
 Step 6 in the tabs below shows you where to find your App Name, Team ID, and Bundle ID.
 

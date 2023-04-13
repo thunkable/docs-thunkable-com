@@ -123,11 +123,11 @@ You need to be connected to another Bluetooth device in order to use this block.
 
 #### Outputs
 
-| Output Name   | Type | Description                                                                   |
-| ------------- | ---- | ----------------------------------------------------------------------------- |
-| data (string) | Text | Returns **** a string containing the information received from the BLE device |
-| error         | Text | If an error message is returned, returns the error. Else returns `null`       |
-|               |      |                                                                               |
+| Output Name   | Type | Description                                                              |
+| ------------- | ---- | ------------------------------------------------------------------------ |
+| data (string) | Text | Returns a string containing the information received from the BLE device |
+| error         | Text | If an error message is returned, returns the error. Else returns `null`  |
+|               |      |                                                                          |
 
 ### Receive Byte Array
 
@@ -145,10 +145,10 @@ You need to be connected to another Bluetooth device in order to use this block.
 
 #### Outputs
 
-| Output Name       | Data Type                         | Description                                                                       |
-| ----------------- | --------------------------------- | --------------------------------------------------------------------------------- |
-| data (byte array) | array ([list](lists.md)) of bytes | Returns **** a byte array containing the information received from the BLE device |
-| error             | Text                              | If an error message is returned, returns the error. Else returns `null`           |
+| Output Name       | Data Type                         | Description                                                                  |
+| ----------------- | --------------------------------- | ---------------------------------------------------------------------------- |
+| data (byte array) | array ([list](lists.md)) of bytes | Returns a byte array containing the information received from the BLE device |
+| error             | Text                              | If an error message is returned, returns the error. Else returns `null`      |
 
 ### Listen for Disconnection
 
