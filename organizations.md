@@ -2,37 +2,70 @@
 
 **Note:** Organizations is currently being beta-tested.
 
-## Overview
+## 1. Overview
 
 Thunkable Organizations is a set of administration and collaboration capabilities that allow multiple team members to work on a single project. Creators can jointly design and develop a single, shared project asynchronously.&#x20;
 
 A single Creator can edit the project at a time, and their changes are available for other members to view when they refresh their page.&#x20;
 
-## Organization Management
+## 2. Organization Management
 
 {% hint style="info" %}
 To get started with Thunkable Organizations, please contact the Thunkable team here: [book a meeting](https://meetings.hubspot.com/bryan-luckyheard/team-pricing-request).
 {% endhint %}
 
-The Thunkable team will take care of setting up and managing your organization. If you need to add a member to your organization after it's created, simply reach out to your Thunkable representative to make that request.
+The Thunkable team will take care of setting up and managing your organization. Once created, an Organization’s admin can add, remove, and modify members' roles.
 
-## Assigning a Project to an Organization
+### Admin Dashboard
 
-When creating a new project, Organization members can assign the project to their own personal projects or the Organization.&#x20;
+The Organizations Admin Dashboard is available for an Organization’s admins.
 
-<figure><img src=".gitbook/assets/Screenshot 2023-02-23 at 2.09.14 PM.png" alt=""><figcaption></figcaption></figure>
+#### Access Admin Dashboard
+
+1. Click your profile image in the upper right.
+2. Select Organizations. The Organizations page lists the organizations for which you hold admin status.
+
+#### View Organization
+
+1. Click an Organization name.
+2. The Members tab lists the Organization’s members.&#x20;
+3. The Projects tab lists the Organization’s projects.
+
+#### Add Member
+
+1. Click Add Member.
+2. Input the invitee’s email address.
+3. Indicate their role (Admin or Member).&#x20;
+4. Click Add
+
+#### Modify a Role
+
+1. Navigate to the Members tab of the Organization’s page&#x20;
+2. Click the role dropdown associated with the member.
+3. Select the appropriate role (Admin or Member).
+
+#### Remove a Member
+
+1. Navigate to the Members tab of the Organization’s page&#x20;
+2. Click the role dropdown associated with the member.
+3. Select Remove.
+4. Confirm the removal.
+
+## 3. Assigning a Project to an Organization
+
+When creating a new project, Organization members can assign it to their own personal projects or the Organization.&#x20;
 
 Projects assigned to the Organization can be collaborated on by members of the Organization.&#x20;
 
 _This decision cannot be undone._&#x20;
 
-Once a project is assigned to an Organization, it cannot be converted to a personal project and vice-versa. It remains a part of the Organization and cannot be moved to any one Creator’s personal projects, including the Admin of the Organization.
+Once a project is assigned to an Organization, it cannot be converted to a personal project and vice-versa. It remains part of the Organization and cannot be moved to any one Creator’s personal projects, including the Admin of the Organization.
 
 Projects created within an organization cannot be shared with users outside of the Organization.
 
 <figure><img src=".gitbook/assets/Screen Shot 2023-01-27 at 4.35.47 PM.png" alt=""><figcaption></figcaption></figure>
 
-## Viewing and Editing Modes
+## 4. Viewing and Editing Modes
 
 When accessing Organization projects, members are in one of two modes: Editing or Viewing. There can only be one project member in Editing mode at any given time – all other members of the Organization remain in Viewing mode.&#x20;
 
@@ -56,7 +89,7 @@ Only one project member can be in Editing mode at a time.&#x20;
 **Note:** If the member currently in Editing mode is offline, no other member can edit the project. The member currently in Editing mode must come back online and grant access to a different member.\
 &#x20;
 
-## Sharing and Updating Permissions
+## 5. Sharing and Updating Permissions
 
 <figure><img src=".gitbook/assets/Screen Shot 2023-01-27 at 4.34.38 PM.png" alt=""><figcaption></figcaption></figure>
 
