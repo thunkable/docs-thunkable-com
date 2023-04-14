@@ -11,26 +11,30 @@ A single Creator can edit the project at a time, and their changes are available
 ## 2. Organization Management
 
 {% hint style="info" %}
-To get started with Thunkable Organizations, please contact the Thunkable team here: [book a meeting](https://meetings.hubspot.com/bryan-luckyheard/team-pricing-request).
+To get started with Thunkable Organizations, please contact the Thunkable team here: [book a meeting](https://meetings.hubspot.com/bryan-luckyheard/team-pricing-request). The Thunkable team will take care of setting up and managing your organization.&#x20;
 {% endhint %}
 
-The Thunkable team will take care of setting up and managing your organization.&#x20;
+Thunkable Creators have:&#x20;
 
-### Permissions Summary
+* roles with the organization (admin or member)
+* permissions within a project (project owner, editor, or viewer)
+* modes when actively within a project (editing or viewing)
 
-| Action                  | Org. Admin | Project Owner |
-| ----------------------- | ---------- | ------------- |
-| Add/Remove members      | Yes        | No            |
-| Publish                 | -          | Yes           |
-| Share                   | -          | Yes           |
-| Download                | -          | Yes           |
-| Access project settings | -          | Yes           |
-| Grant Edit Access       | -          | Yes           |
-| Remix project           | -          | Yes           |
-| Duplicate project       | -          | Yes           |
-| Delete project          | -          | Yes           |
-| Figma import            | -          | Yes           |
-| Versioning              | -          | Yes           |
+### Roles and Permissions Summary
+
+| Action                  | Org. Admin                            | Project Owner                         | Editor                                | Viewer |
+| ----------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- | ------ |
+| Add/Remove members      | <mark style="color:green;">Yes</mark> | No                                    | No                                    | No     |
+| Publish                 | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+| Share                   | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+| Download                | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+| Access project settings | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+| Grant Edit Access       | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+| Remix project           | -                                     | <mark style="color:green;">Yes</mark> | <mark style="color:green;">Yes</mark> | No     |
+| Duplicate project       | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+| Delete project          | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+| Figma import            | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+| Versioning              | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
 
 ### Admin Dashboard
 
