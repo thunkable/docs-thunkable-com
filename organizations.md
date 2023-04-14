@@ -14,11 +14,27 @@ A single Creator can edit the project at a time, and their changes are available
 To get started with Thunkable Organizations, please contact the Thunkable team here: [book a meeting](https://meetings.hubspot.com/bryan-luckyheard/team-pricing-request).
 {% endhint %}
 
-The Thunkable team will take care of setting up and managing your organization. Once created, an Organization’s admin can add, remove, and modify members' roles.
+The Thunkable team will take care of setting up and managing your organization.&#x20;
+
+### Permissions Summary
+
+| Action                  | Org. Admin | Project Owner |
+| ----------------------- | ---------- | ------------- |
+| Add/Remove members      | Yes        | No            |
+| Publish                 | -          | Yes           |
+| Share                   | -          | Yes           |
+| Download                | -          | Yes           |
+| Access project settings | -          | Yes           |
+| Grant Edit Access       | -          | Yes           |
+| Remix project           | -          | Yes           |
+| Duplicate project       | -          | Yes           |
+| Delete project          | -          | Yes           |
+| Figma import            | -          | Yes           |
+| Versioning              | -          | Yes           |
 
 ### Admin Dashboard
 
-The Organizations Admin Dashboard is available for an Organization’s admins.
+The Organizations Admin Dashboard is available for an Organization’s admins. This is where they can add, remove, and modify members' roles.
 
 #### Access Admin Dashboard
 
