@@ -4,7 +4,20 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## April 12, 2023
 
+Platform Updates
+
+* [organizations.md](../organizations.md "mention"): Introduce [#admin-dashboard](../organizations.md#admin-dashboard "mention")
+* [#publish-web-app](../publish-as-a-web-app-pro.md#publish-web-app "mention"): Introduce [#publish-to-a-custom-domain](../publish-as-a-web-app-pro.md#publish-to-a-custom-domain "mention")
+* [#preview-your-app-on-the-web](../live-test.md#preview-your-app-on-the-web "mention"): Fixes to opening of web preview in new window
+* Improved site behavior when clicking on project 3-dot menu in project list view on Projects Page&#x20;
+
+Component Updates
+
+* [data-sources.md](../data-sources.md "mention"): [#webflow](../data-sources.md#webflow "mention"): Allow connecting to a Webflow data source with OAuth
+* [sound.md](../sound.md "mention"): Stop sound playing in Thunkable Live app after exiting project
+* [#text-to-speech](../speech.md#text-to-speech "mention") Stop sound playing in Thunkable Live app after exiting project
 
 ## April 6, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
