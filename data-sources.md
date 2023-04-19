@@ -88,23 +88,46 @@ Looking to reset your Google Sheets connection? [Click here](troubleshooting/#ho
 
 ### Webflow
 
-You can connect your Thunkable project to a **Webflow site**. A site is based on a series of **collections**. Each collection is a group of **items**.
+When using Weblow as the data source for your Thunkable app, you’ll connect to a Webflow CMS or Content Management System collection.&#x20;
 
-When you connect your Webflow site to your Thunkable project, you can choose a collection from this site in the same way you can choose a Table from a Local Data Source.
+To connect your Webflow CMS to your Thunkable project, you have two options:
 
-To get started, navigate to Project Settings from your Webflow Dashboard or Designer,  click the Integrations tab and [generate an API key](https://university.webflow.com/lesson/intro-to-the-webflow-api).
+* API Key
+* OAuth
 
-Paste this token into Thunkable and click the `Refresh` button to see your Webflow site listed.&#x20;
+#### Connecting by API Key
 
-Choose the site you'd like to use as your data source and click `Create`.
+Within the Webflow platform:
 
-![](.gitbook/assets/Webflow-Data-Source.png)
+1. Navigate to your site settings.
+2. Click the Integrations tab
+3. Under the **API access** header, click Generate API token.&#x20;
+4. Copy the Webflow API token.
 
-You now have access to the collections and its items of your selected Webflow site.
+Within the Thunkable platform:
+
+![](<.gitbook/assets/data sources - webflow - API Key.png>)
+
+1. Paste the copied Webflow API token into the corresponding field.&#x20;
+2. Click **Refresh** to see your Webflow sites.&#x20;
+3. Select the site you want to use as your data source.
+4. Click Create.&#x20;
 
 {% hint style="info" %}
 To protect the quality of its service, the Webflow CMS API default rate limit is 60 requests/minute.  Exceeding this limit will result in an error on the Thunkable platform, so please keep this in mind as you build your app.
 {% endhint %}
+
+#### Connecting by OAuth
+
+![](<.gitbook/assets/data sources - webflow - OAuth.png>)
+
+1. Click **Connect to Webflow**.
+2. A Webflow authorization screen opens.
+3. Select the sites or Workspaces you want to authorize access to.
+4.  Click **Authorize app**.\
+
+
+    <figure><img src=".gitbook/assets/data sources - webflow - authorize.png" alt=""><figcaption></figcaption></figure>
 
 ## Data Source blocks
 
