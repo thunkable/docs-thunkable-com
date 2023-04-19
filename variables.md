@@ -6,6 +6,10 @@ In app creation, variables work like containers to hold numbers, phrases, the re
 
 Instead of repeating these values in multiple places, a variable can be used wherever it is needed in your Blocks code.
 
+{% hint style="danger" %}
+Variable names can only contain alphanumeric characters and underscore. Invalid characters may cause your app to crash.
+{% endhint %}
+
 ## Video tutorials
 
 You can find videos to demonstrate the use of [app variables](variables.md#app-variables), [stored variables](variables.md#stored-variables) and [cloud variables](variables.md#cloud-variables) below:
@@ -68,6 +72,10 @@ To save media as a cloud variable, use the [Cloudinary Media DB](camera.md#uploa
 ![](.gitbook/assets/varval.png)
 
 To create a variable when the app starts, you can grab the block above, select your variable `scope` (app, stored, cloud) and give the variable a `name` like hello. You'll have to connect a block to give app variables an initial value (in the picture above). We recommend placing these blocks in the initial app screen.
+
+{% hint style="danger" %}
+Variable names can only contain alphanumeric characters and underscore. Invalid characters may cause your app to crash.
+{% endhint %}
 
 ### Set a variable during an app event
 
