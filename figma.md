@@ -32,6 +32,21 @@ If you want text to be editable, we recommend you replace that image with a Thun
 
 ![](<.gitbook/assets/figma main screen.png>)
 
+## Supported Objects
+
+The following Figma objects are supported by the integration:&#x20;
+
+* Canvas
+* Component
+* Ellipse
+* Frame
+* Group
+* Instance
+* Line
+* Rectangle
+* Text
+* Vector
+
 ## Updating a file
 
 As you change and update your original designs, keep Thunkable up to date by re-syncing a Screen.
