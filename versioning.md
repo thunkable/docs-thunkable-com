@@ -17,7 +17,8 @@ Never worry about losing your app progress with auto versioning. Thunkable autom
 To access the two most recent auto versions of your project:&#x20;
 
 1. Access the **Design** tab of your project.&#x20;
-2. Click **Version History** in the upper right corner.
+2. Click the **Version History** clock icon in the upper right.\
+   ![](<.gitbook/assets/verioning-new Version History icon.png>)
 
 Each auto version’s name reflects the date and time the version was created.
 
@@ -36,7 +37,8 @@ The Restore option reverts your current project to this version.&#x20;
 To save a version of your project:&#x20;
 
 1. Access the **Design** tab of your project.&#x20;
-2. Click **Version History** in the upper right corner.&#x20;
+2. Click the **Version History** clock icon in the upper right.\
+   ![](<.gitbook/assets/verioning-new Version History icon.png>)
 3. Click **Create Version**. A new version of the project is created with the default version name reflecting the date and time the version was created.&#x20;
 4. To change the name of a version, click in the version name field and type your preferred version name.
 
