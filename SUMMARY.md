@@ -7,7 +7,7 @@
 * [Live Test your App](live-test.md)
 * [Your Thunkable Projects Page](your-thunkable-projects-page.md)
 * [🆕 Create New Project](projects.md)
-* [Project Settings](project-settings.md)
+* [App Settings](project-settings.md)
 * [Versioning](versioning.md)
 * [Tablet view](tablet-view.md)
 * [Assets](assets.md)
