@@ -52,7 +52,7 @@ Avoid using whitespace characters (" ") in your file names
 
 ![](<.gitbook/assets/image (205).png>)
 
-You can manage your files directly in the lefthand panel. Else if can do this in the media files modal by clicking the **+** beside the **Media Files** title.
+You can manage your files directly in the Assets panel on the left, or click the plus icon next to the Media Files header to open the Media Files modal and manage them there.&#x20;
 
 ![](<.gitbook/assets/image (210).png>)
 
