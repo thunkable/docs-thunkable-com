@@ -4,7 +4,34 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
-## April 12, 2023
+## April 20, 2023
+
+Platform Updates
+
+* Updates to Public Gallery
+* Drag and Drop UI: Updated top navigation bar
+* Improved analytics
+* Expanded test suite
+
+Component Updates
+
+* [lottie.md](../lottie.md "mention"): Upgraded Animation by Lottie library for web
+* [ui-components.md](../ui-components.md "mention"): Updated component defaults
+
+## April 18, 2023
+
+Platform Updates
+
+* Resolve behavior where projects that were connected to deleted data sources were inaccessible to some users
+* Auto Versions: Improve loading of selected auto versions in Design tab
+
+## April 18, 2023
+
+Platform Updates
+
+* Change how we store keystores to preserve ability to properly duplicate projects with keystores&#x20;
+
+## April 13, 2023
 
 Platform Updates
 
