@@ -34,6 +34,8 @@ When adding a new Data Source, you can choose a source of your data:
 
 ### Create your Own Table
 
+{% embed url="https://youtu.be/2x52CJQsc9M" %}
+
 Start by naming your data source.
 
 ![](.gitbook/assets/name\_local\_data2.png)
