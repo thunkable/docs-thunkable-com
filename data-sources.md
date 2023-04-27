@@ -94,6 +94,8 @@ Looking to reset your Google Sheets connection? [Click here](troubleshooting/#ho
 
 ### Webflow
 
+{% embed url="https://youtu.be/4WLOPIP_WuY" %}
+
 When using Weblow as the data source for your Thunkable app, you’ll connect to a Webflow CMS or Content Management System collection.&#x20;
 
 To connect your Webflow CMS to your Thunkable project, you have two options:
