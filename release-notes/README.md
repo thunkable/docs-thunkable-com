@@ -4,6 +4,42 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## May 4, 2023
+
+Platform Updates
+
+* [ui-components.md](../ui-components.md "mention"): Improve visibility of component names while renaming on Safari
+* [share-1.md](../share-1.md "mention"): Ensure Share links link to fully updated copy of Thunkable projects
+* [live-test.md](../live-test.md "mention"): Improve Google login UX for returning users
+
+Component Updates
+
+* [ui-components.md](../ui-components.md "mention"): Updated component defauls
+* [map.md](../map.md "mention"): Added GeoJSON
+* [figma.md](../figma.md "mention"): Add warning when imported Figma board contains unsupported asset types
+
+## April 26, 2023
+
+Platform Updates
+
+* [publish-as-a-web-app-pro.md](../publish-as-a-web-app-pro.md "mention"): Remove phone frame outline from mobile web apps when viewed on a mobile device
+* [organizations.md](../organizations.md "mention"): Allow Organization members to view Organization details via accoutn settings menu
+* [publish-to-app-store-ios](../publish-to-app-store-ios/ "mention"): When prompted to add information to App Settings, the App Settings menu will be opened
+* [your-thunkable-projects-page.md](../your-thunkable-projects-page.md "mention"): Added pagination to Grid View of projects page
+* Snap to Place UI: Improve UX when deleting invisible components from a project
+
+Component Updates
+
+* [data-sources.md](../data-sources.md "mention"): Allow connecting to Webflow data souce via OAuth
+* [map.md](../map.md "mention"): Preserve panning and zooming when toggling visibility
+* [data-sources.md](../data-sources.md "mention"): Resolve behavior where some users couldn't access projects whose associated data sources had been deleted
+
+## April 25, 2023
+
+Platform Updates
+
+* [live-test.md](../live-test.md "mention"): Prevent [Versions](https://docs.thunkable.com/versioning) of a project from appearing as separate projects in the Thunkable Live app&#x20;
+
 ## April 20, 2023
 
 Platform Updates
