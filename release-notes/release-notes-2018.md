@@ -251,7 +251,7 @@ Platform updates
 
 Component updates
 
-* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](broken-reference), [Text to Speech](broken-reference) and [Assistant](../assistant.md)
+* Properties now set / changeable in blocks including all Text / Background Color properties for visible components and Language properties for [Translator](broken-reference), [Text to Speech](broken-reference) and [Assistant](broken-reference)
 * Transparent color now available as a color property across all visible components
 * Easy select and upload via Picture property for [Image](broken-reference) component
 

@@ -55,7 +55,7 @@ Component updates
 
 Component updates
 
-* [Assistant](../assistant.md) by Dialogflow - upgrades the API to V2 since V1 is retiring on Oct 23, 2019
+* [Assistant](broken-reference) by Dialogflow - upgrades the API to V2 since V1 is retiring on Oct 23, 2019
 
 ## Sep 12, 2019
 

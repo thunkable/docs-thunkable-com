@@ -10,8 +10,8 @@ These components require a little more set-up than the other [app features](app-
 [bluetooth-low-energy.md](bluetooth-low-energy.md)
 {% endcontent-ref %}
 
-{% content-ref url="assistant.md" %}
-[assistant.md](assistant.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="any-component-blocks.md" %}

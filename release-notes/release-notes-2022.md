@@ -99,7 +99,7 @@ New Components
 
 Component Updates
 
-* [Dialogflow](../assistant.md): Improve performance on published Android apps
+* [Dialogflow](broken-reference): Improve performance on published Android apps
 
 ## November 7, 2022
 
