@@ -101,6 +101,28 @@ This is a good time to add any markers, polylines or polygons to your app that y
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.10.55-pm.png)
 
+#### **Add GeoJSON**
+
+GeoJSON is a format for encoding geographical data structures that is based on the JSON (JavaScript Object Notation) format. It is a lightweight and versatile format that is widely used for storing and exchanging spatial data. GeoJSON provides you with a simple and flexible way to add geographic data to your Google Maps app, making it easy to create engaging and informative map-based applications.
+
+Incorporating GeoJSON in your Thunkable Map component allows you to draw lines, shapes (rectangles, triangles, squares, and custom shapes), and markers on the map.&#x20;
+
+{% hint style="warning" %}
+We do not currently support adding GeoJSON tooltips or callouts.
+{% endhint %}
+
+To use the **Add GeoJSON** block:
+
+1. On the Design tab of your Thunkable project, add a map component to a screen.
+2. On the Blocks tab, within the component tree, click the **Map** component.
+3. Drag and drop the **Add GeoJSON** block into your workspace.
+4. Click **Text**.
+5. Drag the empty text block and connect it to the **Add GeoJSON** block.
+6. Paste your GeoJSON data into the empty text block. This can be retrieved from a website such as [GeoJSON.io](http://geojson.io).
+7. Drag and drop the **Add GeoJSON** block into an event block. For example, the **onMapReady** block to render the GeoJSON when the map loads, or the **when button click** block to render the GeoJSON when the user clicks a button.
+
+<figure><img src=".gitbook/assets/GeoJSON blocks v2.png" alt=""><figcaption></figcaption></figure>
+
 #### On User Location Change
 
 This event happens when the location of the user changes. It returns the **coordinate** object.\
@@ -180,6 +202,10 @@ This block takes the following inputs:
 | Title       | Title of marker (displayed when marker is clicked)       | Text                      |
 | Description | Description of marker (displayed when marker is clicked) | Text                      |
 | Pin Color   | Color of marker                                          | Color                     |
+
+#### Add GeoJSON
+
+
 
 #### Add Icon Marker
 
