@@ -7,7 +7,7 @@
 * [Create an AdMob account](admob.md#create-an-admob-account)
 * [Banner ads](admob.md#banner-ad)
 * [Interstitial ads](admob.md#interstitial-ad)
-* [Rewarded video ads](admob.md#rewarded-video-ad)
+* [Rewarded video ads](admob.md#rewarded-video-a-d)
 * [Live Test](admob.md#live-test)
 * [Download and publish your app](admob.md#download-and-publish)
 * [iOS and AdMob Permissions](admob.md#ios-and-admob-permissions)
@@ -15,11 +15,15 @@
 
 ## AdMob Overview&#x20;
 
-![](.gitbook/assets/webp.net-resizeimage.png)
+<div align="left">
+
+<img src=".gitbook/assets/webp.net-resizeimage.png" alt="">
+
+</div>
 
 AdMob is the most popular ad network for monetizing mobile apps today.&#x20;
 
-Apps with large audiences can use AdMob to not only generate revenue for the creator, but in some cases, create better user experiences. For example, users may prefer to watch a [Rewarded Video Ad](admob.md#rewarded-video-ad) to unlock extra content than pay money to unlock extra content.
+Apps with large audiences can use AdMob to not only generate revenue for the creator, but in some cases, create better user experiences. For example, users may prefer to watch a [Rewarded Video Ad](admob.md#rewarded-video-a-d) to unlock extra content than pay money to unlock extra content.
 
 We **highly recommend** that you only add ads to your app after it has been completed and you have a good idea of how users will move through your app. Once your app is complete, you can go back in find natural points to add the different types of ads for your users.
 
@@ -141,7 +145,11 @@ You will see a dialog where you can set the following properties:
 
 ### Blocks
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/Screenshot 2023-02-16 at 3.36.44 PM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### Events
 
@@ -171,7 +179,7 @@ Test Mode:
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.01.14-pm.png)
 
-## R**ewarded Video** Ad
+## R**ewarded Video** Ad <a href="#rewarded-video-a-d" id="rewarded-video-a-d"></a>
 
 Rewarded Video Ads are full-screen video ads that users have the option of watching in full [in exchange for in-app rewards](https://support.google.com/admob/answer/7313578).&#x20;
 
