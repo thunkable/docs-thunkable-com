@@ -62,7 +62,7 @@ You will see a dialog asking you to enter your email address.&#x20;
 
 <figure><img src=".gitbook/assets/Screen Shot 2022-09-23 at 1.21.44 PM.png" alt=""><figcaption></figcaption></figure>
 
-After you click Send, you will receive your AAB file as an email. This will take approximately 30 minutes.
+After you click Send, you will receive your AAB file in an email. This will take approximately 30 minutes.
 
 ## Submit your app for review
 

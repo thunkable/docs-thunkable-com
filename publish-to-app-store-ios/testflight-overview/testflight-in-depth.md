@@ -29,17 +29,17 @@ To get started, install TestFlight on the device you’ll use for testing. Then,
 
 ### Installing a beta iOS or iPadOS app via email or public link invitation <a href="#installing-ios" id="installing-ios"></a>
 
-1. 1.​[Install TestFlight](https://itunes.apple.com/us/app/testflight/id899247664?mt=8) on the iOS or iPadOS device that you’ll use for testing.
-2. 2.Open your email invitation or tap the public link on your device.
-3. 3.When installing via email invitation, tap “View in TestFlight” or “Start testing” then tap “Install” or “Update” for the app you want to test.
-4. 4.When installing via public link, tap “Install” or “Update”.
+1. ​[Install TestFlight](https://itunes.apple.com/us/app/testflight/id899247664?mt=8) on the iOS or iPadOS device that you’ll use for testing.
+2. Open your email invitation or tap the public link on your device.
+3. When installing via email invitation, tap “View in TestFlight” or “Start testing” then tap “Install” or “Update” for the app you want to test.
+4. When installing via public link, tap “Install” or “Update”.
 
 ### Installing a beta macOS app via email or public link invitation <a href="#installing-ios-1" id="installing-ios-1"></a>
 
-1. 1.​[Install TestFlight](https://itunes.apple.com/us/app/testflight/id899247664?mt=8) on the Mac that you’ll use for testing.
-2. 2.Open your email invitation or click the public link on your Mac.
-3. 3.When installing via email invitation, click “View in TestFlight” or “Start testing” then click “Install” or “Update” for the app you want to test.
-4. 4.When installing via public link, click “Install” or “Update”.
+1. ​[Install TestFlight](https://itunes.apple.com/us/app/testflight/id899247664?mt=8) on the Mac that you’ll use for testing.
+2. Open your email invitation or click the public link on your Mac.
+3. When installing via email invitation, click “View in TestFlight” or “Start testing” then click “Install” or “Update” for the app you want to test.
+4. When installing via public link, click “Install” or “Update”.
 
 ## Adding Internal Test Users <a href="#adding-internal-test-users" id="adding-internal-test-users"></a>
 
@@ -47,20 +47,20 @@ Create a group and add up to 100 [internal testers](https://help.apple.com/app-s
 
 ### Create an Internal Test group <a href="#create-an-internal-test-group" id="create-an-internal-test-group"></a>
 
-1. 1.From My Apps, select your app.
-2. 2.Click the TestFlight tab.
-3. 3.In the sidebar, click the Add button (+) next to Internal Testing.
-4. 4.In the dialog that appears, enter the name for a new internal group, then click Create. You can change the name later, if needed.
+1. From My Apps, select your app.
+2. Click the TestFlight tab.
+3. In the sidebar, click the Add button (+) next to Internal Testing.
+4. In the dialog that appears, enter the name for a new internal group, then click Create. You can change the name later, if needed.
 
 Select the “Enable automatic distribution” checkbox to allow Xcode to automatically deliver builds to everyone in the group. If automatic distribution is not enabled, all builds must be manually added to the group. Builds created by Xcode Cloud always need to be manually added to groups in App Store Connect.
 
 ### Add internal testers to a group <a href="#add-internal-testers-to-a-group" id="add-internal-testers-to-a-group"></a>
 
-1. 1.From My Apps, select your app.
-2. 2.Click the TestFlight tab.
-3. 3.In the sidebar, click the Add button (+) next to Internal Testing.
-4. 4.Next to Testers, click the Add button (+).Users that are eligible to be internal testers appear in a dialog._Note:_ If a user you want to add doesn’t appear, [change their user role](https://help.apple.com/app-store-connect/#/devdbefef011).
-5. 5.Select the checkbox next to each user you want to invite, then click Add.
+1. From My Apps, select your app.
+2. Click the TestFlight tab.
+3. In the sidebar, click the Add button (+) next to Internal Testing.
+4. Next to Testers, click the Add button (+).Users that are eligible to be internal testers appear in a dialog._Note:_ If a user you want to add doesn’t appear, [change their user role](https://help.apple.com/app-store-connect/#/devdbefef011).
+5. Select the checkbox next to each user you want to invite, then click Add.
 
 If you have builds available for testing, the users you select will receive an email inviting them to test the app. They’ll be directed to accept the invitation using the[TestFlight](https://help.apple.com/app-store-connect/#/devf00dd882d) app on their device or via a redemption code. Internal testers can download and test all builds for 90 days.
 
@@ -100,7 +100,9 @@ You can invite [external testers](https://help.apple.com/app-store-connect/#/dev
 9. 9.Optionally, select “Automatically notify testers.”If you leave this checkbox deselected, you will have to manually distribute the build to testers after it's approved by [TestFlight App Review](https://help.apple.com/app-store-connect/#/dev3bfa33892) later.
 10. 10.Depending on the status of the build, click either Submit Review or Start Testing.You can only have one build of each version in review at a time. Once that build is approved, you can submit additional builds.
 
-After you submit your build to TestFlight App Review, Apple reviews the build and the accompanying [metadata](https://help.apple.com/app-store-connect/#/dev6e8e7453e). The first build you submit requires a full review, but later builds for the same version may not.If Apple approves your build for TestFlight beta testing, users on the App Store Connect account with the Admin role will receive an email notifying them of the approval.If Apple rejects your build or metadata, the external status will be Rejected and you can click status to see rejection details._Note:_ Submitting a build to TestFlight App Review doesn’t submit it to App Review for sale in the App Store.
+After you submit your build to TestFlight App Review, Apple reviews the build and the accompanying [metadata](https://help.apple.com/app-store-connect/#/dev6e8e7453e). The first build you submit requires a full review, but later builds for the same version may not.If Apple approves your build for TestFlight beta testing, users on the App Store Connect account with the Admin role will receive an email notifying them of the approval. If Apple rejects your build or metadata, the external status will be Rejected and you can click status to see rejection details.
+
+_Note:_ Submitting a build to TestFlight App Review doesn’t submit it to App Review for sale in the App Store.
 
 ### Invite external testers <a href="#invite-external-testers" id="invite-external-testers"></a>
 

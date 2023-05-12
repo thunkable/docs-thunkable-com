@@ -2,7 +2,7 @@
 
 ### Step 1: Enter your test information
 
-[Enter test information](https://help.apple.com/app-store-connect/#/deva50a6ab41) about your app, such as a description and feedback email. You will need this if you plan to distribute your build to [external testers](https://help.apple.com/app-store-connect/#/deved4d898a5) (persons outside your team).
+[Enter test information](https://help.apple.com/app-store-connect/#/deva50a6ab41) about your app, such as a description and feedback email. You will need this if you plan to distribute your build to [external testers](https://help.apple.com/app-store-connect/#/deved4d898a5) (i.e. users outside your company or team).
 
 ### Step 2: Upload your build
 

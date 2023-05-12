@@ -5,7 +5,7 @@ With the introduction of [responsive web apps,](publish-as-a-web-app-pro.md#resp
 * View your app on many different device screens
 * Create your own app screenshots for publishing your app
 
-You can now create all screenshots necessary with Thunkable X!
+You can now create all screenshots necessary with Thunkable!
 
 ## **Preview your app on different sized device screens:**
 

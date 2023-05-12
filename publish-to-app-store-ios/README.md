@@ -150,7 +150,7 @@ Go to the [**Apple Developer website**](https://developer.apple.com/account) to 
 
 Step 6 in the tabs below shows you where to find your App Name, Team ID, and Bundle ID.
 
-* **App Name:** The app Name must be unique to the App Store and is what appears next to the app icon when it is downloaded on a user's phone.
+* **App Name:** The App Name must be unique to the App Store and is what appears next to the app icon when it is downloaded on a user's phone.
 * **Team ID:**  A unique account identifier that is linked to your Apple Developer Program membership. Apple will automatically create this for you, and it can be used for every app you publish.
 * **Bundle ID:** Also unique to your app, but not visible to your app users. Otherwise, a single Explicit App ID should work. Apple recommends reversing your domain name to create your bundle ID i.e. _com.yourDomainName.yourAppName_ to avoid conflicts with other apps.
   * _Note: Starting June 16, 2020, uploading apps to the App Store requires an explicit bundle ID. Wildcard bundle IDs are no longer available when creating app records._
@@ -275,7 +275,7 @@ In the next tab, you will be prompted for your **App Name, Team ID and Bundle ID
 
 ### Create a Distribution Certificate
 
-Two-factor authentication helps to keep your account secure and Apple has made it mandatory for new developers to turn two-factor authentication on. If you do have 2FA turned on, you'll need to complete the following steps to confirm your identity with Apple.
+Two-factor authentication helps to keep your account secure. Apple has made it mandatory for new developers to turn two-factor authentication on. If you do have 2FA turned on, you'll need to complete the following steps to confirm your identity with Apple.
 
 #### Thunkable
 
@@ -496,7 +496,7 @@ You may need to answer a question about export compliance. You can select **No**
 
 ### Advertising identifier
 
-After submitting your app for review, you may asked, "Does this app use the Advertising Identifier (IDFA)?"&#x20;
+After submitting your app for review, you may be asked, "Does this app use the Advertising Identifier (IDFA)?"&#x20;
 
 The app will still be able to be published but you will want to check the **following three boxes**:&#x20;
 
