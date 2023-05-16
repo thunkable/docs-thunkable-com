@@ -104,7 +104,11 @@ Only one project member can be in Editing mode at a time.&#x20;
 * When the member currently in Editing mode switches to View mode, the member requesting Editing access is switched to Editing mode and can make changes to the project.
 {% endhint %}
 
+<div align="left">
+
 <figure><img src=".gitbook/assets/unnamed.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **Note:** If the member currently in Editing mode is offline, no other member can edit the project. The member currently in Editing mode must come back online and grant access to a different member.\
 &#x20;

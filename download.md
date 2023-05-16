@@ -40,7 +40,11 @@ To install the app on your Android device, you must indicate that you trust Thun
 2. Navigate to **Lock Screen and Security**.&#x20;
 3. Set the **Unknown Sources** option to true.
 
-![](.gitbook/assets/download-fig-4.png)
+<div align="left">
+
+<img src=".gitbook/assets/download-fig-4.png" alt="">
+
+</div>
 
 In addition, you may be alerted that Play Protect has blocked an unsafe app. This is because you are downloading the app outside of the Play Store. If that is the case:
 

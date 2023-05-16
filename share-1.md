@@ -16,7 +16,11 @@ When you generate a share link, it will create a copy of your app project at the
 
 Click the **Share** icon in the top right corner of your project.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.13.27-am.png)
+<div align="left">
+
+<img src=".gitbook/assets/screen-shot-2021-04-12-at-9.13.27-am.png" alt="">
+
+</div>
 
 Click to place a checkmark in the associated box if you want to shrae your project with API keys and passwords included.&#x20;
 
@@ -36,6 +40,10 @@ When a user clicks on your share link, a copy of your app will automatically app
 
 If you want to share a read-only version of your app project, you simply set your project to `Public` in your App Settings page and share the link of your project URL.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.16.35-am.png)
+<div align="left">
+
+<img src=".gitbook/assets/screen-shot-2021-04-12-at-9.16.35-am.png" alt="">
+
+</div>
 
 Users who visit the project URL link do not automatically get a copy of your app in their account but they can create an editable copy of if if they wish.

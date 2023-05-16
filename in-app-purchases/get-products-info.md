@@ -52,4 +52,8 @@ Note on subscription period&#x20;
 
 This block will allow you to list the items that you have included in the app for sale. In order to use this block properly, your apps IAP component should always have an up-to-date IAP list of items and subscriptions.&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/product info.png" alt=""><figcaption></figcaption></figure>
+
+</div>

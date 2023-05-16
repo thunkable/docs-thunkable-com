@@ -12,17 +12,25 @@ These codes will allow you to acknowledge and verify purchases or subscriptions.
 
 ### 2. Click Create Function
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 3. Give your new function  a meaningful name
 
 **verifyiOSPurchase** should be the name you use here
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 4. Save the trigger type
 
-<div>
+<div align="left">
 
 <img src="broken-reference" alt="">
 
@@ -83,7 +91,11 @@ exports.verifyiOSPurchase = functions.https.onRequest((req, res) => {
 
 </details>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/5 (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 6. Clear the default and paste the copied code into the code
 
@@ -116,11 +128,19 @@ exports.verifyiOSPurchase = functions.https.onRequest((req, res) => {
 
 the name used here should match the name used in **Step 3** above
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/8 (4).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 9. Deploy the function
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 10. Set function invocation privacy permissions
 

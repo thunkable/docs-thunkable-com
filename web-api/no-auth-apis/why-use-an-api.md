@@ -7,7 +7,7 @@ By the end of this demo you should understand that:
 1. API requests are asynchronous, which means:
 2. For the best performance, you should always aim to minimize the total number of calls in your app.&#x20;
 
-<mark style="background-color:purple;"></mark>![](<../../.gitbook/assets/image (1) (1) (2).png>)<mark style="background-color:purple;"></mark>
+![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 ### Google Sheet
 
@@ -19,27 +19,47 @@ Let's get started by making a copy of this sheet, which has all the functions yo
 
 The user interface for this example is quite simple, but if you want yours to look identical to the tutorial then go ahead and make a copy of it for yourself.&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/gfin_UI.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Next step is to connect to our Sheet. Click on the Data tab on left hand side of your screen and choose "Google Sheets" as your data source.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/gfin_add_data (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Finally, choose the Google Finance sheet and create a new data source within your Thunkable project.&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/gfin_create_data.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Send Data
 
 Since we're just testing the waters we won't worry too much about data validation just yet. The first thing we'll do is get a ticker symbol from the user and send it to our sheet. In your Thunkable blocks it looks like this:
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/gfin_set.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Get Data
 
 After a few seconds the data will update and we can call the new values from the Sheet.&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/gfin_get.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Now, the first and last thing we do is show/hide the loading icon. In between, we send a new value to the sheet, wait 3 seconds and then (hopefully!) get the most recent price back. Since we have no control over how long it takes our Sheet to update this 3 second values is really a best guess. Most of the time it will be a lot faster, but other times it will be significantly slower and we'll end up fetching the previous value from the spreadsheet. In general we want to avoid doing things like this in our app and instead make asynchronous calls to an API.&#x20;
 
@@ -53,7 +73,11 @@ If you want to learn more about building a stock quotation app and how to do thi
 
 The other value in our spreadsheet is the **change** in price. This will either have gone up, gone down or stayed the same. While this isn't - strictly speaking - related to working with APIs, it's nice to demo how you can make decisions in your app, based on different responses you might get. In this case, we want the text to be green if the price has increased, red if it has decreased and black if it's stayed the same.&#x20;
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/gfin_format.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Conclusion
 

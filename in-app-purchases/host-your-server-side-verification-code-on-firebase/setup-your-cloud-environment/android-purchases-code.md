@@ -12,17 +12,29 @@ These codes will allow you to acknowledge and verify purchases or subscriptions.
 
 ### 2. Click Create Function
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 3. Give your new function  a meaningful name
 
 **androidPurchaseHandler** should be the name you use here
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/3 (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 4. Save the trigger type
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/4 (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 5. Copy the code below and click the blue "next" button
 
@@ -129,7 +141,11 @@ exports.androidPurchaseHandler = functions.https.onRequest((request, response) =
 
 </details>
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/5 (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 6. Clear the default and paste the copied code into the code
 
@@ -163,11 +179,15 @@ exports.androidPurchaseHandler = functions.https.onRequest((request, response) =
 
 the name used here should match the name used in **Step 3** above
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/9.1 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 9. Click the plus icon to create a new file and name it "serviceAccount.json"
 
-<div>
+<div align="left">
 
 <figure><img src="../../../.gitbook/assets/9.1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -179,11 +199,19 @@ the name used here should match the name used in **Step 3** above
 
 ### 10. Copy and paste the content of this projects [service account](http://localhost:5000/s/KrMxDvAEx21XNB81zaoj/in-app-purchases/overview/android-play-store-setup#download\_your\_service\_key) file from your computer into this newly created file.&#x20;
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 11. Deploy the function
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 12. Set function invocation privacy permissions
 

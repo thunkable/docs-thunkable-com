@@ -226,9 +226,17 @@ exports.androidPurchaseHandler = functions.https.onRequest((request, response) =
 
 Notice that the blocks are almost similar for these two. Thats because the response is handled the same way. We broke up the API calls in the code into "Subscription" and "One-Time Purchase" as they technically call different API's.&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
+</div>
+
+<div align="left">
+
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## The Purchase or Subscription API Endpoint URLs&#x20;
 
@@ -238,13 +246,21 @@ Find the trigger URL by going to your [function list](https://console.cloud.goog
 
 Then click the trigger Tab and notice the included URL.&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/3 (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 you will copy this url then go back into your Thunkable projects to the blocks page and create a new [web api](https://docs.thunkable.com/v/drag-and-drop/web-api)
 
 Copy in the URL and add a header as shown in the image below
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/4 (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **Note:** \
 in the above example, there are several references to "server logs." this is nothing more than saving data to firebase in order to see logs in a different manner. \

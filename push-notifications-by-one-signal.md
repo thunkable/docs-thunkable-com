@@ -2,7 +2,11 @@
 
 ## Push Notifications Overview
 
-![One Signal is the world leader n push notifications and they offer their service for free. ](.gitbook/assets/onesignaldemo.png)
+<div align="left">
+
+<img src=".gitbook/assets/onesignaldemo.png" alt="One Signal is the world leader n push notifications and they offer their service for free. ">
+
+</div>
 
 Push notifications are one of the biggest advantages that mobile apps have over  mobile websites, since they can send messages to users without the app being open.&#x20;
 

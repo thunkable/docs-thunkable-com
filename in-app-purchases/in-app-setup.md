@@ -9,5 +9,9 @@ We recommend you setup Stored Variables to hold this information locally for now
 
 The following is an example of saving information related to a Subscription and 1-Time purchase. The expiry time or T/F value is saved along with the corresponding transaction ID.&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/Screen Shot 2022-04-05 at 10.48.16 AM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 

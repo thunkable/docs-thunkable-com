@@ -1,0 +1,230 @@
+# Layout Component
+
+{% hint style="info" %}
+The Layout component is currently being beta-tested.
+{% endhint %}
+
+## 1. Overview
+
+Thunkable’s Layout component allows for more precise positioning of UI components on an app screen, by allowing you to position UI components dependent on other UI components on the screen. For example, in a typical sign-in screen, if a user inputs an incorrect email address or password, a screen built with a Layout component allows you to shift the UI components on the screen to display the error messaging to the user.&#x20;
+
+## 2. Add a Layout to a Screen
+
+To add a Layout to a screen:
+
+1. Drag and drop the Layout UI component onto a screen. You’ll notice it is composed of two Containers, one on top of the other.&#x20;
+2. Click and drag the sizing handles in the corners to resize the Layout UI component.&#x20;
+3. Click and drag to reposition it.
+
+<figure><img src=".gitbook/assets/add Layout component gif.gif" alt=""><figcaption></figcaption></figure>
+
+## 3. Insert Additional Containers
+
+By default, a newly added Layout has two horizontal Containers arranged vertically, one on top of the other. To insert additional Containers to a Layout:
+
+1. Click to select the Layout UI component in the component tree or within the screen.
+2. At the top of the Layout’s properties panel, select whether you want to insert a Horizontal or Vertical Container.\
+   ∙ **Horizontal Container** - UI components within the Container are aligned horizontally, side by side\
+   ∙ **Vertical Container** - UI components within the Container are aligned vertically, on top of each other
+3. Identify into which Layout or Container you want to insert the new Container.
+4. Click **Add**. &#x20;
+
+## 4. Add UI Components
+
+To add UI components to a Layout:
+
+1. Drag and drop UI components into a Container on a screen.&#x20;
+2.  Once UI components are in a Container, rearrange their order by dragging and dropping their component names in the component tree.\
+    \
+
+
+    <figure><img src=".gitbook/assets/move components in tree.gif" alt=""><figcaption></figcaption></figure>
+
+## 5. Layout Properties
+
+The following properties are configured on the right in the Layout's properties panel.&#x20;
+
+{% tabs %}
+{% tab title="Alignment " %}
+| Property                        | Value         | Description                                                                                                                                                                                                                                                      |
+| ------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Direction                       | vertical      | The elements directly within the Layout (could be a UI component or a Container) are aligned vertically, on top of each other.                                                                                                                                   |
+| Direction                       | horizontal    | The elements directly within the Layout (could be a UI component or a Container) are aligned horizontally, side by side.                                                                                                                                         |
+| Vertical / Horizontal Alignment | top           | The elements directly within the Layout (could be a UI component or a Container) are positioned at the top of the Layout.                                                                                                                                        |
+| Vertical / Horizontal Alignment | bottom        | The elements directly within the Layout (could be a UI component or a Container) are positioned at the bottom of the Layout.                                                                                                                                     |
+| Vertical / Horizontal Alignment | left          | The elements directly within the Layout (could be a UI component or a Container) are positioned at the left of the Layout.                                                                                                                                       |
+| Vertical / Horizontal Alignment | right         | The elements directly within the Layout (could be a UI component or a Container) are positioned at the right of the Layout.                                                                                                                                      |
+| Vertical / Horizontal Alignment | center        | The elements directly within the Layout (could be a UI component or a Container) are positioned in the center of the Layout (either top to bottom or left to right, depending on the selected direction).                                                        |
+| Vertical / Horizontal Alignment | space-between | The elements directly within the Layout (could be a UI component or a Container) are positioned with an equal amount of space between them.                                                                                                                      |
+| Vertical / Horizontal Alignment | space-around  | The elements directly within the Layout (could be a UI component or a Container) are positioned with an equal amount of space between them, including at the top and bottom for a vertical direction Layout or left and right for a horizontal direction Layout. |
+| Scrollable                      | true/on       | The user can scroll within the Layout.                                                                                                                                                                                                                           |
+| Scrollable                      | false/off     | The user cannot scroll within the Layout.                                                                                                                                                                                                                        |
+| Scroll Bar Visible              | true/on       | The scroll bar is visible to the user.                                                                                                                                                                                                                           |
+| Scroll Bar Visible              | false/off     | The scroll bar is not visible to the user.                                                                                                                                                                                                                       |
+{% endtab %}
+
+{% tab title="Layout" %}
+| Property    | Value            | Description                                                                                              |
+| ----------- | ---------------- | -------------------------------------------------------------------------------------------------------- |
+| X           | coordinate value | Position of the upper left corner of the Layout on the X-axis, where the left side of the screen is X=0. |
+| Y           | coordinate value | Position of the upper left corner of the Layout on the Y-axis, where the top of the screen is Y=0.       |
+| Height      | number in pixels | The Layout’s height is defined by a custom number of pixels.                                             |
+| Width       | number in pixels | The Layout’s width is defined by a custom number of pixels.                                              |
+| Resize Mode | Stretch          | Stretches the Layout to fit the dimensions of the device's screen.                                       |
+| Resize Mode | Float in Place   | Renders the Layout in the same aspect ratio as the design, regardless of the device size.                |
+{% endtab %}
+
+{% tab title="Image" %}
+| Property                       | Value        | Description                                                                                                         |
+| ------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------- |
+| Background Picture             | Upload files | Click to upload an image file.                                                                                      |
+| Background Picture             | Type in URL  | Type in an image URL.                                                                                               |
+| Background Picture Resize Mode | cover        | Fills the entire Layout without changing the height and width ratio of the image.                                   |
+| Background Picture Resize Mode | contain      | The entire image is scaled down to fit inside the Layout, without changing the height and width ratio of the image. |
+| Background Picture Resize Mode | stretch      | The image's height will change to fill the Layout length-wise.                                                      |
+| Background Picture Resize Mode | repeat       | The image repeats to cover the Layout. The image's height and width ratio do not change.                            |
+| Background Picture Resize Mode | center       | The image is positioned in the middle of the Layout.                                                                |
+{% endtab %}
+
+{% tab title="Style" %}
+| Property         | Value                    | Description                                                                                                 |
+| ---------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Visible          | visible                  | Users can see the Layout.                                                                                   |
+| Visible          | invisible                | Users cannot see the Layout.                                                                                |
+| Background Color | color                    | The background color of the Layout.                                                                         |
+| Border: Style    | solid                    | The Layout’s border is a solid line.                                                                        |
+| Border: Style    | dotted                   | The Layout’s border is a dotted line.                                                                       |
+| Border: Style    | dashed                   | The Layout’s border is a dashed line.                                                                       |
+| Border: Color    | color                    | The Layout’s border is the color selected.                                                                  |
+| Border: Width    | number in pixels         | The width of the Layout’s border is defined by a custom number of pixels.                                   |
+| Border: Radius   | number in pixels         | The radius of the Layout border’s corners is defined by a custom number of pixels.                          |
+| Shadow: Color    | color                    | The Layout’s shadow is the color selected.                                                                  |
+| Shadow: Opacity  | number between 0 and 100 | The opacity of the Layout’s shadow.                                                                         |
+| Shadow: Radius   | number in pixels         | The radius of the Layout shadow’s corners is defined by a custom number of pixels.                          |
+| Shadow: Offset   | number in pixels         | How far the Layout’s shadow should be offset, in height and width, is defined by a custom number of pixels. |
+{% endtab %}
+
+{% tab title="Spacing" %}
+| Property | Value  | Description                                                                                                      |
+| -------- | ------ | ---------------------------------------------------------------------------------------------------------------- |
+| Margin   | top    | The margin between the Layout’s top border and the next UI component as defined by a custom number of pixels.    |
+| Margin   | bottom | The margin between the Layout’s bottom border and the next UI component as defined by a custom number of pixels. |
+| Margin   | left   | The margin between the Layout’s left border and the next UI component as defined by a custom number of pixels.   |
+| Margin   | right  | The margin between the Layout’s right border and the next UI component as defined by a custom number of pixels.  |
+| Padding  | top    | The padding between the Layout and its top border as defined by a custom number of pixels.                       |
+| Padding  | bottom | The padding between the Layout and its bottom border as defined by a custom number of pixels.                    |
+| Padding  | left   | The padding between the Layout and its left border as defined by a custom number of pixels.                      |
+| Padding  | right  | The padding between the Layout and its right border as defined by a custom number of pixels.                     |
+{% endtab %}
+{% endtabs %}
+
+## 6. Container Properties
+
+The following properties are configured on the right in the Container's properties panel.&#x20;
+
+{% tabs %}
+{% tab title="Alignment" %}
+| Property                        | Value         | Description                                                                                                                                                                                                    |
+| ------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Direction                       | vertical      | UI components within the Container are aligned vertically, on top of each other.                                                                                                                               |
+| Direction                       | horizontal    | UI components within the Container are aligned horizontally, side by side.                                                                                                                                     |
+| Vertical / Horizontal Alignment | top           | UI components are positioned at the top of the Container                                                                                                                                                       |
+| Vertical / Horizontal Alignment | bottom        | UI components are positioned at the bottom of the Container                                                                                                                                                    |
+| Vertical / Horizontal Alignment | left          | UI components are positioned at the left of the Container                                                                                                                                                      |
+| Vertical / Horizontal Alignment | right         | UI components are positioned at the right of the Container                                                                                                                                                     |
+| Vertical / Horizontal Alignment | center        | UI components are positioned in the center of the Container (either top to bottom or left to right depending on the selected direction)                                                                        |
+| Vertical / Horizontal Alignment | space-between | UI components are positioned with an equal amount of space between them                                                                                                                                        |
+| Vertical / Horizontal Alignment | space-around  | UI components are positioned with an equal amount of space between them, including at the top and bottom for vertical direction Containers or left and right for horizontal direction Containers               |
+| Scrollable                      | true/on       | <p>The user can scroll within the Container. </p><p>Note: When setting a Container as scrollable, we recommend the size of the UI components within it are set to an absolute pixel value or Fit Contents.</p> |
+| Scrollable                      | false/off     | The user cannot scroll within the Container.                                                                                                                                                                   |
+| Scroll Bar Visible              | true/on       | The scroll bar is visible to the user.                                                                                                                                                                         |
+| Scroll Bar Visible              | false/off     | The scroll bar is not visible to the user.                                                                                                                                                                     |
+{% endtab %}
+
+{% tab title="Layout" %}
+| Property | Value                   | Description                                                                                                                                                                                |
+| -------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Height   | Fit contents            | The Container’s height is the same as the tallest UI component or Container within it (horizontal direction) or the stacked UI components or Containers within it (vertical direction).    |
+| Height   | Fill container          | The elements directly within the Container (could be a UI component or another Container) fill the Container vertically.                                                                   |
+| Height   | Size (e.g. 50px or 50%) | The Container’s height is defined by a custom number of pixels or percentage of the screen.                                                                                                |
+| Width    | Fit contents            | The Container’s width is the same as the widest UI component or Container within it (vertical direction) or the side-by-side UI components or Containers within it (horizontal direction). |
+| Width    | Fill container          | The elements directly within the Container (could be a UI component or another Container) fill the Container horizontally.                                                                 |
+| Width    | Size (e.g. 50px or 50%) | The Container’s width is defined by a custom number of pixels or percentage of the screen.                                                                                                 |
+{% endtab %}
+
+{% tab title="Image" %}
+| Property                       | Value        | Description                                                                                                         |
+| ------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------- |
+| Background Picture             | Upload files | Click to upload an image file.                                                                                      |
+| Background Picture             | Type in URL  | Type in an image URL.                                                                                               |
+| Background Picture Resize Mode | cover        | Fills the entire screen without changing the height and width ratio of the image.                                   |
+| Background Picture Resize Mode | contain      | The entire image is scaled down to fit inside the screen, without changing the height and width ratio of the image. |
+| Background Picture Resize Mode | stretch      | The image's height will change to fill the screen length-wise.                                                      |
+| Background Picture Resize Mode | repeat       | The image repeats to cover the screen. The image's height and width ratio do not change.                            |
+| Background Picture Resize Mode | center       | The image is positioned in the middle of the frame.                                                                 |
+{% endtab %}
+
+{% tab title="Style" %}
+| Property         | Value                    | Description                                                                                                    |
+| ---------------- | ------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Visible          | visible                  | Users can see the Container.                                                                                   |
+| Visible          | invisible                | Users cannot see the Container.                                                                                |
+| Background Color | color                    | The background color of the Container.                                                                         |
+| Visible          | solid                    | The Container’s border is a solid line.                                                                        |
+| Visible          | dotted                   | The Container’s border is a dotted line.                                                                       |
+| Visible          | dashed                   | The Container’s border is a dashed line.                                                                       |
+| Border: Color    | color                    | The Container’s border is the color selected.                                                                  |
+| Border: Width    | number in pixels         | The width of the Container’s border is defined by a custom number of pixels.                                   |
+| Border: Radius   | number in pixels         | The radius of the Container border’s corners is defined by a custom number of pixels.                          |
+| Shadow: Color    | color                    | The Container’s shadow is the color selected.                                                                  |
+| Shadow: Opacity  | number between 0 and 100 | The opacity of the Container’s shadow.                                                                         |
+| Shadow: Radius   | number in pixels         | The radius of the Container shadow’s corners is defined by a custom number of pixels.                          |
+| Shadow: Offset   | number in pixels         | How far the Container’s shadow should be offset, in height and width, is defined by a custom number of pixels. |
+{% endtab %}
+
+{% tab title="Spacing" %}
+| Property | Value  | Description                                                                                                      |
+| -------- | ------ | ---------------------------------------------------------------------------------------------------------------- |
+| Margin   | top    | The margin between the Container’s top border and the next Container as defined by a custom number of pixels.    |
+| Margin   | bottom | The margin between the Container’s bottom border and the next Container as defined by a custom number of pixels. |
+| Margin   | left   | The margin between the Container’s left border and the next Container as defined by a custom number of pixels.   |
+| Margin   | right  | The margin between the Container’s right border and the next Container as defined by a custom number of pixels.  |
+| Padding  | top    | The padding between the Container and its top border as defined by a custom number of pixels.                    |
+| Padding  | bottom | The padding between the Container and its bottom border as defined by a custom number of pixels.                 |
+| Padding  | left   | The padding between the Container and its left border as defined by a custom number of pixels.                   |
+| Padding  | right  | The padding between the Container and its right border as defined by a custom number of pixels.                  |
+{% endtab %}
+{% endtabs %}
+
+## 7. Layout Blocks
+
+To access the blocks specific to the Layout component:
+
+1. Navigate to the Blocks tab.
+2. In the component tree on the left, click the **Layout component**.
+3. A drawer of Layout-specific blocks opens.
+
+| Block Image                                                    | Description                                                                                                                                                                                                                                |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](<.gitbook/assets/Layout block - call - scroll to end.png>) | If the Layout is scrollable, you can use this block to scroll the user to the end of the Layout. For example, a user clicks a button in a chat app, and the Layout scrolls to the end of the chat history to see the most recent messages. |
+| ![](<.gitbook/assets/2023-05-15\_15-10-19 copy.png>)           | If the Layout is scrollable, you can use this block to scroll the user to the start of the Layout.                                                                                                                                         |
+| ![](<.gitbook/assets/2023-05-15\_15-10-19 copy (1).png>)       | Sets the Layout’s height to a custom number of pixels.                                                                                                                                                                                     |
+| ![](<.gitbook/assets/2023-05-15\_15-10-19 copy (2) (1).png>)   | Gets the Layout’s height in pixels.                                                                                                                                                                                                        |
+| ![](<.gitbook/assets/computed height.png>)                     | Gets the Layout’s computed height, the on-screen dimensions of the Layout, after it has been rendered on-screen. The value returned is an integer, representing the height of the Layout in pixels.                                        |
+| ![](<.gitbook/assets/set width.png>)                           | Sets the Layout’s width to a custom number of pixels.                                                                                                                                                                                      |
+| ![](<.gitbook/assets/get width.png>)                           | Gets the Layout’s width in pixels.                                                                                                                                                                                                         |
+| ![](<.gitbook/assets/computed width.png>)                      | Gets the Layout’s computed width, the on-screen dimensions of the Layout, after it has been rendered on-screen. The value returned is an integer, representing the width of the Layout in pixels.                                          |
+| ![](<.gitbook/assets/set visible.png>)                         | <p>When set to true, sets the Layout to visible, meaning the Layout is visible to users.</p><p>When set to false, sets the Layout to invisible, meaning the Layout is not visible to users.</p>                                            |
+| ![](<.gitbook/assets/get visible.png>)                         | Gets the Layout’s visibility status. Returns true (visible) or false (invisible).                                                                                                                                                          |
+| ![](<.gitbook/assets/set X.png>)                               | Set the position of the upper left corner of the Layout on the X-axis, where the left side of the screen is X=0.                                                                                                                           |
+| ![](<.gitbook/assets/get X.png>)                               | Get the position of the upper left corner of the Layout on the X-axis, where the left side of the screen is X=0.                                                                                                                           |
+| ![](<.gitbook/assets/set Y.png>)                               | Set the position of the upper left corner of the Layout on the Y-axis, where the top of the screen is Y=0.                                                                                                                                 |
+| ![](<.gitbook/assets/get Y.png>)                               | Get the position of the upper left corner of the Layout on the Y-axis, where the top of the screen is Y=0.                                                                                                                                 |
+| ![](<.gitbook/assets/set color (w=50).png>)                    | Set the Layout’s background color.                                                                                                                                                                                                         |
+| ![](<.gitbook/assets/get color (w=50).png>)                    | Get the Layout’s background color.                                                                                                                                                                                                         |
+| ![](<.gitbook/assets/set resize .png>)                         | Set the Layout’s background picture resize mode. See the Layout Properties section for definitions of the acceptable values.                                                                                                               |
+| ![](<.gitbook/assets/set resize.png>)                          | Get the Layout’s background picture resize mode.                                                                                                                                                                                           |
+| ![](<.gitbook/assets/set scroll.png>)                          | <p>When set to true, sets the Layout to scrollable for users.</p><p>When set to false, sets the Layout to scrollable for users.</p>                                                                                                        |
+| ![](<.gitbook/assets/get scrollable.png>)                      | Gets the Layout’s scrollable status. Returns true (scrollable) or false (not scrollable).                                                                                                                                                  |
+| ![](<.gitbook/assets/set scroll bar.png>)                      | <p>When set to true, sets the Layout’s scroll bar to visible for users.</p><p>When set to false, sets the Layout’s scroll bar to invisible for users.</p>                                                                                  |
+| ![](<.gitbook/assets/get scroll bar.png>)                      | Gets the Layout’s scroll bar visibility status. Returns true (visible) or false (invisible).                                                                                                                                               |

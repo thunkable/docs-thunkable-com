@@ -54,7 +54,11 @@ Notes about purchaseState:
 
 </details>
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/a.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <figure><img src="../.gitbook/assets/b.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +72,11 @@ A quick note on the blocks above. users have asked where the individualPurchaes 
 {% tab title="1" %}
 First show the hider to block user interaction, then call <mark style="color:purple;">`Get Purchase History`</mark>&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 <mark style="color:green;">`List of Purchase info`</mark> will output a list of objects that are formatted like this:
 
@@ -102,19 +110,31 @@ transactionReceipt:"THIS_IS_A_VERY_LONG_STRING"
 {% tab title="2" %}
 Assign a temporary variable as an empty list.
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 {% endtab %}
 
 {% tab title="3" %}
 If there's not an error, pass the `List of Purchase Info` to the `Restore Previous Purchases` function, else handle the error<mark style="color:green;">`.`</mark>
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 {% endtab %}
 
 {% tab title="4" %}
 Handling restoration will look different for each app, however in general it should follow this general format.
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Notice the \_listOfPurchases variable. you can create that by clicking the cog wheel, dragging an `input name`  block into the `inputs` receiver, and giving it a meaningful name
 {% endtab %}
@@ -122,7 +142,11 @@ Notice the \_listOfPurchases variable. you can create that by clicking the cog w
 {% tab title="5" %}
 Loop through the list of purchases.  You can access this variable by right clicking on the function body and selecting `create _listOfPurchases`&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/5.b.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Notice that the 'for each item' variable name is 'individualPurchase'. See how to change those variable names below. \
 
@@ -133,7 +157,11 @@ Notice that the 'for each item' variable name is 'individualPurchase'. See how t
 {% tab title="6" %}
 in the loop, you will first check if that purchases product\_id matches one of your known products, and then the purchaseState to ensure the product's purchase is still valid.&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 There should be one of these for each item you have in your app using an if/else if/else allowing for 1 check per product.&#x20;
 {% endtab %}
@@ -141,13 +169,21 @@ There should be one of these for each item you have in your app using an if/else
 {% tab title="7" %}
 if the item passed the checks in **step 6,** check if `purchasedItems` list contains that purchase and if not, add it to the list.&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 {% endtab %}
 
 {% tab title="8" %}
 The final step is to save the state of the purchase locally so that you do not need to verify purchases every day. It is recommended to regularly [check that subscriptions are still valid](get-purchase-history-restore-purchases.md#verify-ios-transaction-and-purchase-status).&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 In this example, we store a T/F value for the purchase as well as the transactionReceipt. This allows the app to permit/block access to the purchased item and allows the app to check if the purchase is still valid again in the future.&#x20;
 {% endtab %}
