@@ -21,7 +21,7 @@
 * [Text Input](text-input.md)
 * [List Viewer](list-viewer.md)
 * [Group](group.md)
-* [Layout Component](layout-component.md)
+* [Layout](layout.md)
 * [Web Viewer](web-viewer.md)
 * [Switch](switch.md)
 * [Slider](slider.md)
