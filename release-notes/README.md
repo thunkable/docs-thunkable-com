@@ -4,6 +4,24 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## May 18, 2023
+
+New Components
+
+* [layout.md](../layout.md "mention"): Allow more precise positioning of components in Drag and Drop apps
+
+Component Updates
+
+* [figma.md](../figma.md "mention"): Correct typo
+* [figma.md](../figma.md "mention"): improve layout fidelity to original project when Click block used
+* [speech.md](../speech.md "mention"): updated package used to provide functionality
+
+## May 12, 2023
+
+Platform Updates
+
+* Update process for returning to login screen when login token has expired
+
 ## May 4, 2023
 
 Platform Updates
