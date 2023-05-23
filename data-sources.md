@@ -153,6 +153,8 @@ The inputs are dynamic so if you change the name of Column 1 or Column 2 in the 
 
 ### Read&#x20;
 
+{% embed url="https://youtu.be/kXex673U2Aw" %}
+
 The `get value from` blocks allows you get read one value from a specific cell in your data table. You can specify the column name in the block itself and pass the unique row id as an input.&#x20;
 
 Note that each row has its own unique 24 character ID. You must use this ID to refer to rows of your Airtable and Local data sources in the blocks below.
