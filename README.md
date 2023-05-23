@@ -56,9 +56,3 @@ You can get started building with Thunkable today for free. As you progress as a
 and more!
 
 Thunkable offers plans to suit individual and business needs. [Read more about the memberships Thunkable offers.](https://thunkable.com/#/pricing)
-
-
-
-{% hint style="warning" %}
-On August 10th, we transitioned [docs.thunkable.com](https://docs.thunkable.com) to host our documentation for Thunkable's Drag and Drop platform. Previously, this URL was home to our Snap to Place documentation, which is now at an [alternate URL](https://docs.thunkable.com/v/snap-to-place).
-{% endhint %}
