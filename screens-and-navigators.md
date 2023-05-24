@@ -16,7 +16,7 @@ To go from an idea to app, we strongly recommend that you sketch out your vision
 
 ## Arrange Screens with Navigators
 
-Most apps navigate through screens using navigators. Click [here](https://www.youtube.com/watch?v=Z9R\_kg4ew2M) to watch a tutorial on how to use each navigator.&#x20;
+Most apps navigate through screens using navigators.&#x20;
 
 Here are three examples of navigators that you can use on Thunkable.
 

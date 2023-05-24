@@ -44,7 +44,7 @@ Version 1 of the BLE component in Thunkable ✕ contains 5 functions, each of wh
 * [Listen for Disconnection](bluetooth-low-energy.md#listen-for-disconnection)
 * [Transmit String](bluetooth-low-energy.md#transmit-string)
 * [Transmit Byte Array](bluetooth-low-energy.md#transmit-byte-array)
-* Transmit Hexadecimal
+* [Transmit Hexadecimal](https://docs.thunkable.com/bluetooth-low-energy#transmit-hexadecimal)
 
 ### Scan
 

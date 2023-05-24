@@ -52,7 +52,7 @@ After this is complete, you will now be able to add your In-App Purchases.
 
 ## Properties
 
-To add IAP to your project, navigate to the block section and create an instance of the IAP component, which is nested under Advanced. During the setup stage, you need to enter the product IDs from the store setups.
+To add IAP to your project, navigate to the block section and create an instance of the IAP component, which is nested under Advanced. You need to enter the product IDs from the store setups during the setup stage.
 
 
 
