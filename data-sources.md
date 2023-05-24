@@ -143,6 +143,8 @@ To protect the quality of its service, the Webflow CMS API default rate limit is
 
 ### Create&#x20;
 
+{% embed url="https://youtu.be/mxyjQRv4aDg" %}
+
 The `create row in`block allows you to append new rows to the end of your data tables.&#x20;
 
 ![](.gitbook/assets/create\_row.png)
