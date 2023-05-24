@@ -58,26 +58,19 @@ After adding your app, OneSignal will ask you to select a platform. Below, we ha
 
 ## Android Setup
 
-Setting up push notifications for Android is relatively straightforward. Here's a quick overview of the steps, followed by a more detailed walk-through.
-
-1. [Select Your Platform](push-notifications-by-one-signal.md#1-choose-the-android-platform)
-2. [Configure Your Platform](push-notifications-by-one-signal.md#2-set-up-a-firebase-project)
-3. [Select Your SDK](push-notifications-by-one-signal.md#3-select-your-sdk)
-4. [Install Your SDK](push-notifications-by-one-signal.md#5-install-your-sdk)
-
-### 1. Select Your Platform
-
+{% tabs %}
+{% tab title="1. Select Platform" %}
 After you have added an app and given it a name, select the Google Android option.
 
 ![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.58.03 PM.png>)
 
 Click `Next: Configure Your Platform`
+{% endtab %}
 
-### 2. Configure Your Platform
-
+{% tab title="2. Configure Platform" %}
 For this next step, you will need a [Firebase](https://firebase.google.com/) account.&#x20;
 
-For instructions on how to set up a Firebase account, please click [here](https://docs.thunkable.com/realtime-db#set-up-your-own-firebase-account).
+For instructions on how to set up a Firebase account, please click [here](sign-in.md#getting-started).
 
 Open a Firebase project to tie your Push Notifications to.
 
@@ -96,14 +89,16 @@ Go back to the **One Signal** platform.
 Copy and paste the Firebase Server Key and the Firebase Sender ID sections into One Signal.
 
 Click `Save & Continue`
+{% endtab %}
 
-### 3. Select Your SDK
-
+{% tab title="3. Select SDK" %}
 The last thing you need to do in OneSignal is choose your target SDK. Select **Native Android** and click `Save & Continue.`
 
 ![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.13.24 AM.png>)
+{% endtab %}
 
-### 4. Install Your SDK
+{% tab title="4. Install SDK" %}
+
 
 Copy the alpha numeric code that OneSignal generates called **Your App ID** in the image below.
 
@@ -122,18 +117,13 @@ If you are live testing or have downloaded your Android app, you should see a co
 Select the "Messages" option and then select "New Push". You will now be able to create push notifications and send them to your app users.
 
 ![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.19.57 AM.png>)
+{% endtab %}
+{% endtabs %}
 
 ## &#x20;iOS Setup
 
-Setting up push notifications involves a few more steps on iOS than on Android, but every step is covered in detail below.&#x20;
-
-1. [Select Platform](push-notifications-by-one-signal.md#1-select-platform)
-2. [Configure Platform](push-notifications-by-one-signal.md#2-configure-platform)
-3. [Select SDK](push-notifications-by-one-signal.md#3-select-sdk)
-4. [Install SDK](push-notifications-by-one-signal.md#4-install-sdk)
-
-### 1. Select Platform
-
+{% tabs %}
+{% tab title="1. Select Platform" %}
 Get started by creating a new app. You need to do this even if your Thunkable project is intended for both iOS and Android.&#x20;
 
 Enter a name and choose **Apple iOS** as your platform.
@@ -141,9 +131,9 @@ Enter a name and choose **Apple iOS** as your platform.
 ![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.21.31 AM.png>)
 
 Click `Next: Configure Your Platform`
+{% endtab %}
 
-### 2. Configure Platform
-
+{% tab title="2. Configure Platform" %}
 OneSignal have provided [extensive documentation](https://documentation.onesignal.com/docs/generate-an-ios-push-certificate) on how to find your **Production Certificate .p12 file** as well as your **Production Private Key Password**. The most important steps are outlined below.
 
 To begin, open the [OneSignal Provisionator](https://onesignal.com/provisionator) webpage. This tool will generate a .p12 file and the accompanying password for you.
@@ -167,12 +157,14 @@ With that completed you can upload your .p12 file and enter the password in OneS
 ![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.24.08 AM.png>)
 
 Click `Save & Continue`
+{% endtab %}
 
-### 3. Select SDK
-
+{% tab title="3. Select SDK" %}
 Click on **Native iOS** to choose the SDK you wish to target. Then click **Next** to generate your App ID.
+{% endtab %}
 
-### 4. Install SDK
+{% tab title="4. Install SDK" %}
+
 
 Copy the alpha-numeric code labeled **Your App ID** and head back to Thunkable.
 
@@ -187,6 +179,8 @@ When you are ready to send your first push notification, select the "MESSAGES" o
 
 
 ![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.24.08 AM.png>)
+{% endtab %}
+{% endtabs %}
 
 ## Blocks
 

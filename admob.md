@@ -4,16 +4,7 @@
 **AdMob is a**  <img src=".gitbook/assets/pro.png" alt="" data-size="line"> **component.** All Thunkers can add AdMob to their projects and live test the ads in their apps. Only PRO Thunkers can download and publish apps that contain ads. To get started, [join our MCM network](https://docs.google.com/forms/d/e/1FAIpQLSf3DSZ\_Uon406Demqt\_pxJb1fiQRc6IT49CYf19bJr8VG40SQ/viewform?pli=1).
 {% endhint %}
 
-* [Create an AdMob account](admob.md#create-an-admob-account)
-* [Banner ads](admob.md#banner-ad)
-* [Interstitial ads](admob.md#interstitial-ad)
-* [Rewarded video ads](admob.md#rewarded-video-a-d)
-* [Live Test](admob.md#live-test)
-* [Download and publish your app](admob.md#download-and-publish)
-* [iOS and AdMob Permissions](admob.md#ios-and-admob-permissions)
-* [Troubleshooting](admob.md#troubleshooting)
-
-## AdMob Overview&#x20;
+## 1. AdMob Overview&#x20;
 
 <div align="left">
 
@@ -27,7 +18,7 @@ Apps with large audiences can use AdMob to not only generate revenue for the cre
 
 We **highly recommend** that you only add ads to your app after it has been completed and you have a good idea of how users will move through your app. Once your app is complete, you can go back in find natural points to add the different types of ads for your users.
 
-## Setup Your AdMob Account
+## 2. Setup Your AdMob Account
 
 You need an [AdMob account](https://admob.google.com/home/get-started/) to show ads in your project.
 
@@ -52,7 +43,7 @@ Once you have published your app, you will also need individual [Ad Unit IDs](ht
 
 ![](<.gitbook/assets/Screenshot 2023-02-16 at 2.55.32 PM.png>)
 
-### Join Thunkable's MCM Network
+### 3. Join Thunkable's MCM Network
 
 To download and publish Thunkable apps that contain ads, you must first be a member of Thunkable's MCM (Multiple Customer Management) network.&#x20;
 
@@ -60,7 +51,7 @@ An invitation to this network will be sent to you the first time you submit your
 
 By joining this network, you consent to sharing 10% of your AdMob revenue for all apps you have currently on AdMob with Thunkable to support maintenance costs.
 
-### Submit Your App For Review
+### 4. Submit Your App For Review
 
 Thunkable has partnered with AdMob to ensure that apps created on our cross-platform use ads to monetize apps in a way that both provides high quality traffic to advertisers and a high quality user experience for end users of apps.
 
@@ -82,7 +73,7 @@ If your app is rejected, the Thunkable AdMob team will send an email to the addr
 
 You are welcome to submit the same app for approval multiple times.
 
-## Types of Ads
+## 5. Types of Ads
 
 ### Banner ad
 
@@ -102,8 +93,8 @@ There is a maximum of 1 Banner ad allowed per screen. You can show multiple bann
 
 | Name                 | Description                                                                                                                                | Data Type  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| Ad Unit ID (Android) | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on Android devices                                                      | Text       |
-| Ad Unit ID (iOS)     | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on iOS devices                                                          | Text       |
+| Ad Unit ID (Android) | Ad Unit ID for showing your ad on Android devices                                                                                          | Text       |
+| Ad Unit ID (iOS)     | Ad Unit ID for showing your ad on iOS devices                                                                                              | Text       |
 | Test Mode            | <p>Toggle whether real ads or sample ads should display in your app. <br><strong>Set this to true while testing your own app.</strong></p> | True/False |
 
 #### Layout
@@ -139,8 +130,8 @@ You will see a dialog where you can set the following properties:
 
 | Name                 | Description                                                                                                                                | Data Type  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| Ad Unit ID (Android) | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on Android devices                                                      | Text       |
-| Ad Unit ID (iOS)     | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on iOS devices                                                          | Text       |
+| Ad Unit ID (Android) | Ad Unit ID for showing your ad on Android devices                                                                                          | Text       |
+| Ad Unit ID (iOS)     | Ad Unit ID for showing your ad on iOS devices                                                                                              | Text       |
 | Test Mode            | <p>Toggle whether real ads or sample ads should display in your app. <br><strong>Set this to true while testing your own app.</strong></p> | True/False |
 
 ### Blocks
@@ -179,7 +170,7 @@ Test Mode:
 
 ![](.gitbook/assets/screen-shot-2021-04-08-at-4.01.14-pm.png)
 
-## R**ewarded Video** Ad <a href="#rewarded-video-a-d" id="rewarded-video-a-d"></a>
+## 6. R**ewarded Video** Ad <a href="#rewarded-video-a-d" id="rewarded-video-a-d"></a>
 
 Rewarded Video Ads are full-screen video ads that users have the option of watching in full [in exchange for in-app rewards](https://support.google.com/admob/answer/7313578).&#x20;
 
@@ -205,8 +196,8 @@ You will see a dialogue where you can set the following properties:
 
 | Name                 | Description                                                                                                                                | Data Type  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| Ad Unit ID (Android) | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on Android devices                                                      | Text       |
-| Ad Unit ID (iOS)     | [Ad Unit ID](admob.md#create-an-admob-account) for showing your ad on iOS devices                                                          | Text       |
+| Ad Unit ID (Android) | Ad Unit ID for showing your ad on Android devices                                                                                          | Text       |
+| Ad Unit ID (iOS)     | Ad Unit ID for showing your ad on iOS devices                                                                                              | Text       |
 | Test Mode            | <p>Toggle whether real ads or sample ads should display in your app. <br><strong>Set this to true while testing your own app.</strong></p> | True/False |
 
 ### Blocks
@@ -239,7 +230,7 @@ Test Mode:
 
 ![](.gitbook/assets/admob-video-blocks-testmode.png)
 
-## Live Test <a href="#live-test" id="live-test"></a>
+## 7. Live Test <a href="#live-test" id="live-test"></a>
 
 For your convenience, we have provided a test  `Ad Unit ID` for you to see how a particular ad format may appear in your app. _You must change this to your own Publisher and Ad Unit ID before publishing._
 
@@ -247,7 +238,7 @@ During live test, all AdMob ads will be set to `test mode = true`, which means c
 
 This is true even if you add your own `Ad Unit ID` and set `test mode = false`.
 
-## Download and Publish <img src=".gitbook/assets/pro.png" alt="" data-size="line">&#x20;
+## 8. Download and Publish&#x20;
 
 ### Set `test mode = false`&#x20;
 
@@ -266,7 +257,7 @@ Once approved, apps can be downloaded and published without further review.
 * [Publish to App Store (iOS)](https://docs.thunkable.com/publish-to-app-store-ios)
 * [Publish to Play Store (Android) with AAB](https://docs.thunkable.com/publish-to-play-store-android)
 
-## iOS and AdMob Permissions
+## 9. iOS and AdMob Permissions
 
 With iOS 14.5 and above, your app users will be asked if they consent to an advertising identifier being used to show them personalized ads. This is what the dialog looks like:
 

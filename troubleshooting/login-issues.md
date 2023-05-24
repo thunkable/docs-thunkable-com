@@ -4,8 +4,6 @@
 We allow creators to log in with a Google account, an Apple account, or an email address.
 {% endhint %}
 
-![](../.gitbook/assets/webp.net-resizeimage-22.png)
-
 If you are seeing this page, you are likely having problems logging into our web platform. Our hardworking beaver is sad to hear that.
 
 Fortunately, we have some recommendations that will hopefully help you fix your login issues. Our top suggestions are:
@@ -31,11 +29,9 @@ To enable cookies, please follow the directions below:
 
 ## **Chrome**
 
-In Chrome you need to make sure that you are allowing sites to save and read cookie data. You will also need to ensure that you **do not block** third-party cookies.&#x20;
+In Chrome, you need to ensure that you allow sites to save and read cookie data. You will also need to ensure that you **do not block** third-party cookies.&#x20;
 
-Open you Chrome cookie settings: [chrome://settings/content/cookies](chrome://settings/content/cookies).
-
-More info about cookies in Chrome [here](https://support.google.com/accounts/answer/61416?hl=en).
+For instructions, see here: [Chrome - Turn cookies on or off](https://support.google.com/accounts/answer/61416?hl=en\&co=GENIE.Platform%3DDesktop)&#x20;
 
 ![](../.gitbook/assets/chrome\_cookie\_settings.png)
 

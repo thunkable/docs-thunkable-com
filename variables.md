@@ -63,7 +63,7 @@ When you retrieve this text from your cloud variable, you can convert it to a li
 
 ![](.gitbook/assets/vartextlist.png)
 
-To save media as a cloud variable, use the [Cloudinary Media DB](camera.md#upload-image-to-the-cloud) component to upload your audio to the cloud and get a URL that points to it. You can save this URL as a cloud variable.
+To save media as a cloud variable, use the [Upload File](files.md#upload-file-to-the-cloud) block to upload your audio to Cloudinary and get a URL that points to it. You can save this URL as a cloud variable.
 
 ## Set Variable Value
 
@@ -121,7 +121,7 @@ You can create dynamically named app, stored or cloud variables.
 
 Thunkable provides a default Firebase account for testing purposes. When your app is ready to be distributed, we strongly advise connecting your app to your personal Firebase instance.
 
-Firebase Realtime Database also pairs well with [Sign in](https://github.com/thunkable/thunkable-docs/tree/4a752596e288fca776105e94dc5e863bb9a3e25a/ios/components/screen-layout/authentication/sign-in.md) and you can use a single Firebase project for both services.
+Firebase Realtime Database also pairs well with [Sign in](sign-in.md) and you can use a single Firebase project for both services.
 
 ![](<.gitbook/assets/firebase-fig-3 (1).png>)
 
