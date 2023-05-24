@@ -22,19 +22,7 @@ Thunkable Creators have:&#x20;
 
 ### Roles and Permissions Summary
 
-| Action                  | Org. Admin                            | Project Owner                         | Editor                                | Viewer |
-| ----------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- | ------ |
-| Add/Remove members      | <mark style="color:green;">Yes</mark> | No                                    | No                                    | No     |
-| Publish                 | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
-| Share                   | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
-| Download                | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
-| Access project settings | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
-| Grant Edit Access       | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
-| Remix project           | -                                     | <mark style="color:green;">Yes</mark> | <mark style="color:green;">Yes</mark> | No     |
-| Duplicate project       | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
-| Delete project          | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
-| Figma import            | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
-| Versioning              | -                                     | <mark style="color:green;">Yes</mark> | No                                    | No     |
+<table><thead><tr><th width="237">Action</th><th width="119">Org. Admin</th><th width="149">Project Owner</th><th>Editor</th><th>Viewer</th></tr></thead><tbody><tr><td>Add/Remove members</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td><td>No</td></tr><tr><td>Publish</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr><tr><td>Share</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr><tr><td>Download</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr><tr><td>Access project settings</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr><tr><td>Grant Edit Access</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr><tr><td>Remix project</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:green;">Yes</mark></td><td>No</td></tr><tr><td>Duplicate project</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr><tr><td>Delete project</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr><tr><td>Figma import</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr><tr><td>Versioning</td><td>-</td><td><mark style="color:green;">Yes</mark></td><td>No</td><td>No</td></tr></tbody></table>
 
 ### Admin Dashboard
 

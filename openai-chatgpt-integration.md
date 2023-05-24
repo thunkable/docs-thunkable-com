@@ -38,9 +38,7 @@ To setup the OpenAI integration in Thunkable:&#x20;
 
 ### API Key
 
-| Property | Description                                                                                          | Data Type |
-| -------- | ---------------------------------------------------------------------------------------------------- | --------- |
-| API Key  | Your person API for making requests to the OpenAI API (default key used if this field is left blank) | Text      |
+<table><thead><tr><th>Property</th><th width="374.33333333333326">Description</th><th>Data Type</th></tr></thead><tbody><tr><td>API Key</td><td>Your person API for making requests to the OpenAI API (default key used if this field is left blank)</td><td>Text</td></tr></tbody></table>
 
 ### Request Settings
 
@@ -48,10 +46,7 @@ Request Settings are passed as a [list](lists.md) of [Objects](objects.md), or k
 
 See what kind of settings you can pass in OpenAI's [Making Requests](https://beta.openai.com/docs/api-reference/making-requests) documentation.
 
-| Property | Description                                                           | Data Type |
-| -------- | --------------------------------------------------------------------- | --------- |
-| Property | Name of the property you are assigning a value to in your API request | Text      |
-| Value    | Value of the property you are specifying in your API request          | Text      |
+<table><thead><tr><th>Property</th><th width="374.33333333333326">Description</th><th>Data Type</th></tr></thead><tbody><tr><td>Property</td><td>Name of the property you are assigning a value to in your API request</td><td>Text</td></tr><tr><td>Value</td><td>Value of the property you are specifying in your API request</td><td>Text</td></tr></tbody></table>
 
 ## Blocks
 
@@ -63,9 +58,7 @@ See what kind of settings you can pass in OpenAI's [Making Requests](https://bet
 
 Make a call to [OpenAI's Completion model](https://beta.openai.com/docs/api-reference/completions)
 
-| Input Name | Description                                    | Data Type | Required? |
-| ---------- | ---------------------------------------------- | --------- | --------- |
-| Prompt     | Text prompt for OpenAI to generate text around | Text      | Yes       |
+<table><thead><tr><th width="143">Input Name</th><th width="342">Description</th><th width="125">Data Type</th><th width="225">Required?</th></tr></thead><tbody><tr><td>Prompt</td><td>Text prompt for OpenAI to generate text around</td><td>Text</td><td>Yes</td></tr></tbody></table>
 
 | Output Name | Description                                                             | Data Type                                 |
 | ----------- | ----------------------------------------------------------------------- | ----------------------------------------- |
@@ -78,9 +71,7 @@ Make a call to [OpenAI's Completion model](https://beta.openai.com/docs/api-refe
 
 Make a call to [OpenAI's Create Image model](https://beta.openai.com/docs/api-reference/images/create)
 
-| Input Name | Description                               | Data Type | Required? |
-| ---------- | ----------------------------------------- | --------- | --------- |
-| Prompt     | Text prompt for OpenAI to generate image  | Text      | Yes       |
+<table><thead><tr><th width="143">Input Name</th><th width="342">Description</th><th width="125">Data Type</th><th width="225">Required?</th></tr></thead><tbody><tr><td>Prompt</td><td>Text prompt for OpenAI to generate image </td><td>Text</td><td>Yes</td></tr></tbody></table>
 
 | Output Name | Description                                                             | Data Type                                 |
 | ----------- | ----------------------------------------------------------------------- | ----------------------------------------- |

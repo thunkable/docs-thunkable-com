@@ -10,9 +10,7 @@ Use the **Assets Panel** to upload, rename and manage all of the assets you've u
 
 Each plan has a limited storage capacity.&#x20;
 
-| Free  | Starter | Pro | Business  |
-| ----- | ------- | --- | --------- |
-| 200MB | 500MB   | 1GB | Unlimited |
+<table><thead><tr><th width="150">Free</th><th width="150">Starter</th><th width="168.7142857142857">Pro</th><th>Business</th></tr></thead><tbody><tr><td>200MB</td><td>500MB</td><td>1GB</td><td>Unlimited</td></tr></tbody></table>
 
 You can view your total account storage size in your account settings.
 

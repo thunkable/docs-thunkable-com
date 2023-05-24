@@ -38,14 +38,7 @@ Your end users may experience lags or delays if the size of the file the try to 
 
 ![](<.gitbook/assets/file exp.png>)
 
-| Output        | Description                                                                                                                 | Data Type                                                                                           |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| file          | Points to the file that has been uploaded                                                                                   | <p>Data type of the file that has been uploaded.<br>Can also return address of the file as text</p> |
-| name          | Name of the uploaded file                                                                                                   | Text                                                                                                |
-| mime type     | Describes the type of file in [MIME format](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics\_of\_HTTP/MIME\_types) | Text                                                                                                |
-| size          | Returns size of uploaded file in bytes                                                                                      | Number                                                                                              |
-| was cancelled | Indicates whether the end user cancelled selecting a file                                                                   | True/False                                                                                          |
-| error         | If there is an error, returns the error. Else returns `null`                                                                | Text                                                                                                |
+<table><thead><tr><th width="150">Output</th><th width="287.76404494382024">Description</th><th>Data Type</th></tr></thead><tbody><tr><td>file</td><td>Points to the file that has been uploaded</td><td>Data type of the file that has been uploaded.<br>Can also return address of the file as text</td></tr><tr><td>name</td><td>Name of the uploaded file</td><td>Text</td></tr><tr><td>mime type</td><td>Describes the type of file in <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types">MIME format</a></td><td>Text</td></tr><tr><td>size</td><td>Returns size of uploaded file in bytes</td><td>Number</td></tr><tr><td>was cancelled</td><td>Indicates whether the end user cancelled selecting a file</td><td>True/False</td></tr><tr><td>error</td><td>If there is an error, returns the error. Else returns <code>null</code></td><td>Text</td></tr></tbody></table>
 
 ## Upload file to the cloud
 

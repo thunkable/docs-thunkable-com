@@ -10,19 +10,7 @@ You can customize your label using the following properties:&#x20;
 
 ### Label
 
-| Property                    | Description                                                                                                      | Data Type        |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------- |
-| Text                        | Text that appears on the label                                                                                   | Text             |
-| Font                        | Font used to display Label's text                                                                                | Select from menu |
-| Custom Font (mobile only)\* | Font used to display Label's text                                                                                | OTF or TTF file  |
-| Color                       | Color of the text that appears on the label                                                                      | Color            |
-| Font Weight                 | Make the label's text bold                                                                                       | True/False       |
-| Font Style                  | Make the label's text italicized                                                                                 | True/False       |
-| Underline                   | Underline the label's text                                                                                       | True/False       |
-| Strikethrough               | Apply strikethrough formatting to the label's text. You can further select the strikethrough's color and style.  | True/False       |
-| Text Align                  | Set alignment of the text relative to the Label's outline                                                        | Select from menu |
-| Font Size                   | Size of the text that appears on the label                                                                       | Number           |
-| Number Of Lines             | Maximum amount of lines of text that your Label will display                                                     | Number           |
+<table><thead><tr><th width="216.69525053355846">Property</th><th>Description</th><th>Data Type</th></tr></thead><tbody><tr><td>Text</td><td>Text that appears on the label</td><td>Text</td></tr><tr><td>Font</td><td>Font used to display Label's text</td><td>Select from menu</td></tr><tr><td>Custom Font (mobile only)*</td><td>Font used to display Label's text</td><td>OTF or TTF file</td></tr><tr><td>Color</td><td>Color of the text that appears on the label</td><td>Color</td></tr><tr><td>Font Weight</td><td>Make the label's text bold</td><td>True/False</td></tr><tr><td>Font Style</td><td>Make the label's text italicized</td><td>True/False</td></tr><tr><td>Underline</td><td>Underline the label's text</td><td>True/False</td></tr><tr><td>Strikethrough</td><td>Apply strikethrough formatting to the label's text. You can further select the strikethrough's color and style. </td><td>True/False</td></tr><tr><td>Text Align</td><td>Set alignment of the text relative to the Label's outline</td><td>Select from menu</td></tr><tr><td>Font Size</td><td>Size of the text that appears on the label</td><td>Number</td></tr><tr><td>Number Of Lines</td><td>Maximum amount of lines of text that your Label will display</td><td>Number</td></tr></tbody></table>
 
 {% hint style="info" %}
 Uploading a custom font is available on Thunkable's Business and Enterprise plans.\
@@ -38,13 +26,7 @@ Uploading a custom font is available on Thunkable's Business and Enterprise plan
 
 ### **Layout**
 
-| Property    | Description                                                                                                                | Data Type                                  |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| X           | Location of your Label on the X-axis in pixels                                                                             | Number                                     |
-| Y           | Location of your Label on the Y-axis in pixels                                                                             | Number                                     |
-| Height      | Height of your Label in pixels                                                                                             | Number                                     |
-| Width       | Width of your Label in pixels                                                                                              | Number                                     |
-| Resize Mode | Stretch the label to fit the device screen or render it the same as the design, regardless of the device (float in place). | Select from menu (Stretch, Float in Place) |
+<table><thead><tr><th width="187.33333333333331">Property</th><th>Description</th><th>Data Type</th></tr></thead><tbody><tr><td>X</td><td>Location of your Label on the X-axis in pixels</td><td>Number</td></tr><tr><td>Y</td><td>Location of your Label on the Y-axis in pixels</td><td>Number</td></tr><tr><td>Height</td><td>Height of your Label in pixels</td><td>Number</td></tr><tr><td>Width</td><td>Width of your Label in pixels</td><td>Number</td></tr><tr><td>Resize Mode</td><td>Stretch the label to fit the device screen or render it the same as the design, regardless of the device (float in place).</td><td>Select from menu (Stretch, Float in Place)</td></tr></tbody></table>
 
 ### Style
 

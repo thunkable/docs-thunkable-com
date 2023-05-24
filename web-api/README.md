@@ -19,12 +19,7 @@ A Web API component properties dialog launches. See the chart below for descript
 
 Once you have the API key, you'll need to enter the unique URL into the property field of the Web API component.
 
-| Property        | Description                                                        | Required? |
-| --------------- | ------------------------------------------------------------------ | --------- |
-| URL             | The url for the web request which usually contains an API key      | Required  |
-| QueryParameters | Specifies some parameters of the data                              | Optional  |
-| Body            | Body of your API call. Select from String or Multipart Form Data.  | Optional  |
-| Headers         | Specifies some meta-data, eg: usernames and passwords              | Optional  |
+<table><thead><tr><th>Property</th><th width="536.3333333333333">Description</th><th>Required?</th></tr></thead><tbody><tr><td>URL</td><td>The url for the web request which usually contains an API key</td><td>Required</td></tr><tr><td>QueryParameters</td><td>Specifies some parameters of the data</td><td>Optional</td></tr><tr><td>Body</td><td>Body of your API call. Select from String or Multipart Form Data. </td><td>Optional</td></tr><tr><td>Headers</td><td>Specifies some meta-data, eg: usernames and passwords</td><td>Optional</td></tr></tbody></table>
 
 ### Edit properties of your Web API
 

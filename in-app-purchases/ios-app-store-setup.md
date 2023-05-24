@@ -173,14 +173,7 @@ By default, a one month renewal lasts 5 minutes. If you wish to speed up the ren
 
 The columns in the chart below represent each of the accelerated renewal rates you can select for a tester in App Store Connect. The corresponding test durations are listed underneath the accelerated rates for each product duration.
 
-| Actual Duration | Monthly renewal every 3 minutes | Monthly renewal every 5 minutes (default) | Monthly renewal every 15 minutes | Monthly renewal every 30 minutes | Monthly renewal every hour |
-| --------------- | ------------------------------- | ----------------------------------------- | -------------------------------- | -------------------------------- | -------------------------- |
-| 1 week          | 3 minutes                       | 3 minutes                                 | 5 minutes                        | 10 minutes                       | 15 minutes                 |
-| 1 month         | 3 minutes                       | 5 minutes                                 | 15 minutes                       | 30 minutes                       | 1 hour                     |
-| 2 months        | 6 minutes                       | 10 minutes                                | 30 minutes                       | 1 hour                           | 2 hours                    |
-| 3 months        | 9 minutes                       | 15 minutes                                | 45 minutes                       | 1 hour 30 minutes                | 3 hours                    |
-| 6 months        | 18 minutes                      | 30 minutes                                | 1 hour 30 minutes                | 3 hours                          | 6 hours                    |
-| 1 year          | 36 minutes                      | 1 hour                                    | 3 hours                          | 6 hours                          | 12 hours                   |
+<table data-header-hidden><thead><tr><th></th><th width="177"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Actual Duration</td><td>Monthly renewal every 3 minutes</td><td>Monthly renewal every 5 minutes (default)</td><td>Monthly renewal every 15 minutes</td><td>Monthly renewal every 30 minutes</td><td>Monthly renewal every hour</td></tr><tr><td>1 week</td><td>3 minutes</td><td>3 minutes</td><td>5 minutes</td><td>10 minutes</td><td>15 minutes</td></tr><tr><td>1 month</td><td>3 minutes</td><td>5 minutes</td><td>15 minutes</td><td>30 minutes</td><td>1 hour</td></tr><tr><td>2 months</td><td>6 minutes</td><td>10 minutes</td><td>30 minutes</td><td>1 hour</td><td>2 hours</td></tr><tr><td>3 months</td><td>9 minutes</td><td>15 minutes</td><td>45 minutes</td><td>1 hour 30 minutes</td><td>3 hours</td></tr><tr><td>6 months</td><td>18 minutes</td><td>30 minutes</td><td>1 hour 30 minutes</td><td>3 hours</td><td>6 hours</td></tr><tr><td>1 year</td><td>36 minutes</td><td>1 hour</td><td>3 hours</td><td>6 hours</td><td>12 hours</td></tr></tbody></table>
 
 ###
 {% endtab %}
@@ -214,12 +207,8 @@ You will need to sign in again with your Sandbox Apple ID on your device to comp
 3.  Under the Security section, select **Generate Passwords**.
 
     If you don't see the option to generate app-specific passwords, you'll need to [enable two-factor authentication](https://www.imore.com/how-enable-2-factor-authentication-iphone-and-ipad), which is [different than two-step verification](https://www.imore.com/two-factor-authentication).
-
-
 4. Enter a **label** for the password. Be sure the name relates to the app for which you are generating the password, like "Outlook" or "Thunderbird."
-5.  Select **Create**.
-
-
+5. Select **Create**.
 6.  Copy the **app-specific password** you generated and save it in a file on your local system such that you may reference it as needed while building your app.&#x20;
 
 

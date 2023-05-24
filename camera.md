@@ -48,10 +48,7 @@ Opens user camera, films from selected camera for chosen amount of time, returns
 
 ![](<.gitbook/assets/advanced timed.png>)
 
-| Input               | Data Type        | Function                     |
-| ------------------- | ---------------- | ---------------------------- |
-| Number of Seconds   | Number           | Set how long to record for   |
-| Using \[...] Camera | Select from menu | Select camera to record with |
+<table><thead><tr><th width="253.47193347193343">Input</th><th width="199.93102570628662">Data Type</th><th>Function</th></tr></thead><tbody><tr><td>Number of Seconds</td><td>Number</td><td>Set how long to record for</td></tr><tr><td>Using [...] Camera</td><td>Select from menu</td><td>Select camera to record with</td></tr></tbody></table>
 
 | Output    | Data Type  | Function                                                   |
 | --------- | ---------- | ---------------------------------------------------------- |

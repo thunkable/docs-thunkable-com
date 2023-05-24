@@ -31,11 +31,7 @@ You will see a dialog with options to enter an [Android app ID](push-notificatio
 
 ## Properties
 
-|      Property Name      | Description                                                                            | Data Type  |
-| :---------------------: | -------------------------------------------------------------------------------------- | ---------- |
-|      Android App ID     | App ID from One Signal for Android devices                                             | Text       |
-|        iOS App ID       | App ID from One Signal for iOS devices                                                 | Text       |
-| Geolocation Permissions | Toggle whether to show your end users a request to share their location with OneSignal | True/False |
+<table><thead><tr><th width="250.78823998915988" align="center">Property Name</th><th width="319.6037233730376">Description</th><th>Data Type</th></tr></thead><tbody><tr><td align="center">Android App ID</td><td>App ID from One Signal for Android devices</td><td>Text</td></tr><tr><td align="center">iOS App ID</td><td>App ID from One Signal for iOS devices</td><td>Text</td></tr><tr><td align="center">Geolocation Permissions</td><td>Toggle whether to show your end users a request to share their location with OneSignal</td><td>True/False</td></tr></tbody></table>
 
 ### Geolocation Permissions
 

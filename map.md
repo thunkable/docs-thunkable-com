@@ -195,13 +195,7 @@ Adds a generic map marker to your map at the specified latitude/longitude.
 
 This block takes the following inputs:
 
-| Input       | Description                                              | Data Type                 |
-| ----------- | -------------------------------------------------------- | ------------------------- |
-| Latitude    | Latitude of marker's position                            | Number between -90 and 90 |
-| Longitude   | Longitude of marker's position                           | Number between -90 and 90 |
-| Title       | Title of marker (displayed when marker is clicked)       | Text                      |
-| Description | Description of marker (displayed when marker is clicked) | Text                      |
-| Pin Color   | Color of marker                                          | Color                     |
+<table><thead><tr><th width="150">Input</th><th width="310.2755707033053">Description</th><th>Data Type</th></tr></thead><tbody><tr><td>Latitude</td><td>Latitude of marker's position</td><td>Number between -90 and 90</td></tr><tr><td>Longitude</td><td>Longitude of marker's position</td><td>Number between -90 and 90</td></tr><tr><td>Title</td><td>Title of marker (displayed when marker is clicked)</td><td>Text</td></tr><tr><td>Description</td><td>Description of marker (displayed when marker is clicked)</td><td>Text</td></tr><tr><td>Pin Color</td><td>Color of marker</td><td>Color</td></tr></tbody></table>
 
 #### Add GeoJSON
 
@@ -215,13 +209,7 @@ Adds a marker of a selected image to your map at the specified latitude/longitud
 
 This block takes the following inputs:
 
-| Input       | Description                                              | Data Type                                                               |
-| ----------- | -------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Latitude    | Latitude of marker's position                            | Number between -90 and 90                                               |
-| Longitude   | Longitude of marker's position                           | Number between -90 and 90                                               |
-| Title       | Title of marker (displayed when marker is clicked)       | Text                                                                    |
-| Description | Description of marker (displayed when marker is clicked) | Text                                                                    |
-| Icon        | Image to use as marker                                   | Dropdown menu (select [asset](assets.md#uploading-and-managing-assets)) |
+<table><thead><tr><th width="150">Input</th><th width="310.2755707033053">Description</th><th>Data Type</th></tr></thead><tbody><tr><td>Latitude</td><td>Latitude of marker's position</td><td>Number between -90 and 90</td></tr><tr><td>Longitude</td><td>Longitude of marker's position</td><td>Number between -90 and 90</td></tr><tr><td>Title</td><td>Title of marker (displayed when marker is clicked)</td><td>Text</td></tr><tr><td>Description</td><td>Description of marker (displayed when marker is clicked)</td><td>Text</td></tr><tr><td>Icon</td><td>Image to use as marker</td><td>Dropdown menu (select <a href="assets.md#uploading-and-managing-assets">asset</a>)</td></tr></tbody></table>
 
 #### Add Polyline
 

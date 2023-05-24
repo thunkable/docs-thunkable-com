@@ -20,10 +20,7 @@ This makes it easier to design complex layouts.
 
 ### Group
 
-| Property      | Description                                                                         | Data Type                                                   |
-| ------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Position      | Set whether the Group is positioned Relative to the Screen or Relative to Device ¹  | Select from menu: \[Relative to Screen, Relative to Device] |
-| Touch Opacity | Set opacity of Group when user clicks on Group                                      | Number between 0-100                                        |
+<table><thead><tr><th width="150">Property</th><th width="347">Description</th><th>Data Type</th></tr></thead><tbody><tr><td>Position</td><td>Set whether the Group is positioned Relative to the Screen or Relative to Device ¹ </td><td>Select from menu: [Relative to Screen, Relative to Device]</td></tr><tr><td>Touch Opacity</td><td>Set opacity of Group when user clicks on Group</td><td>Number between 0-100</td></tr></tbody></table>
 
 ¹ Relative to Screen: Group moves as end user scrolls\
 Relative to Device: Group stays in place as end user scrolls (suitable for creating a Floating Action Button)
@@ -33,13 +30,7 @@ Float in Place: Keep same dimensions for Group on larger screens
 
 ### Layout
 
-| Property    | Description                                                             | Data Type                                   |
-| ----------- | ----------------------------------------------------------------------- | ------------------------------------------- |
-| X           | Position of top left corner of Group on X-axis                          | Number                                      |
-| Y           | Position of top left corner of Group on Y-axis                          | Number                                      |
-| Height      | Height of Group in pixels                                               | Number                                      |
-| Width       | Width of Group in pixels                                                | Number                                      |
-| Resize Mode | Set how Group is resized on wider screens - Stretch or Float in Place ² | Select from menu: \[Resize, Float in Place] |
+<table><thead><tr><th width="150">Property</th><th width="347">Description</th><th>Data Type</th></tr></thead><tbody><tr><td>X</td><td>Position of top left corner of Group on X-axis</td><td>Number</td></tr><tr><td>Y</td><td>Position of top left corner of Group on Y-axis</td><td>Number</td></tr><tr><td>Height</td><td>Height of Group in pixels</td><td>Number</td></tr><tr><td>Width</td><td>Width of Group in pixels</td><td>Number</td></tr><tr><td>Resize Mode</td><td>Set how Group is resized on wider screens - Stretch or Float in Place ²</td><td>Select from menu: [Resize, Float in Place]</td></tr></tbody></table>
 
 ### Style
 

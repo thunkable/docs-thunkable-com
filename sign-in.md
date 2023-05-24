@@ -246,15 +246,7 @@ Copy the resulting Client ID for this platform into the "Google Web Client ID" f
 If an app end user is already signed in with Google, this block will return the following outputs \
 If they are not logged in, the block will trigger a prompt to sign in with Google, after which a successful login will return the following:&#x20;
 
-| Output Name             | Output Value                                                            | Data Type |
-| ----------------------- | ----------------------------------------------------------------------- | --------- |
-| User ID                 | Unique identifier for user's Google account                             | Text      |
-| Display Name            | Full name associated with the Google account (eg. Mary Smith)           | Text      |
-| Given Name              | Given name associated with the Google account (eg. Mary)                | Text      |
-| Family Name             | Family name associated with the Google account (eg. Smith)              | Text      |
-| Email address           | Email address of the Google account                                     | Text      |
-| Profile photo image URL | URL that points to the profile image associated with the Google account | Text      |
-| error                   | If there is an error, returns the error. Else returns `null`            | Text      |
+<table><thead><tr><th width="173">Output Name</th><th width="360.3333333333333">Output Value</th><th>Data Type</th></tr></thead><tbody><tr><td>User ID</td><td>Unique identifier for user's Google account</td><td>Text</td></tr><tr><td>Display Name</td><td>Full name associated with the Google account (eg. Mary Smith)</td><td>Text</td></tr><tr><td>Given Name</td><td>Given name associated with the Google account (eg. Mary)</td><td>Text</td></tr><tr><td>Family Name</td><td>Family name associated with the Google account (eg. Smith)</td><td>Text</td></tr><tr><td>Email address</td><td>Email address of the Google account</td><td>Text</td></tr><tr><td>Profile photo image URL</td><td>URL that points to the profile image associated with the Google account</td><td>Text</td></tr><tr><td>error</td><td>If there is an error, returns the error. Else returns <code>null</code></td><td>Text</td></tr></tbody></table>
 
 {% hint style="warning" %}
 For web apps, no blocks, including errors, will be returned if the user rejects login (as opposed to fails login).
