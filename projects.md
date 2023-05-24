@@ -1,5 +1,5 @@
 ---
-description: There a several different types of project in Thunkable
+description: There are several different types of projects in Thunkable.
 ---
 
 # 🆕 Create New Project
@@ -10,11 +10,13 @@ A project is where your designs, files, and blocks combine to create Android, iO
 
 ### Public Projects
 
-Public projects are included in the [Thunkable Public Gallery](broken-reference) for anyone to preview, download or remix. If you create a public project, please know that it can be viewed by anyone in the Thunkable community.&#x20;
+Public projects are included in the Thunkable Public Gallery for anyone to preview, download or remix. If you create a public project, please know that it can be viewed by anyone in the Thunkable community.&#x20;
+
+<figure><img src=".gitbook/assets/public gallery.png" alt=""><figcaption></figcaption></figure>
 
 ### Private Projects
 
-Private projects are available to Creators on Pro+ plans. These projects are private, meaning they can only be seen by their app creator. They are not displayed in the [Thunkable Public Gallery.](broken-reference)&#x20;
+Private projects are available to Creators on Pro+ plans. These projects are private, meaning they can only be seen by their app creator. They are not displayed in the Thunkable Public Gallery.&#x20;
 
 Learn more about our plans here: [Thunkable Pricing Plans](https://thunkable.com/#/pricing)
 

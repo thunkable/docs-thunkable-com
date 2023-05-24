@@ -42,7 +42,7 @@ Click on these three dots to open a menu, and click on “Capture Screenshot” 
 
 ## **Required screenshot sizes for App Store**
 
-[Here](https://help.apple.com/app-store-connect/#/devd274dd925) is a list of screenshot sizes you need to publish to the App Store.
+[Here](https://developer.apple.com/help/app-store-connect/reference/screenshot-specifications) is a list of screenshot sizes you need to publish to the App Store.
 
 To get all of the screenshot sizes you need, create screenshots using the following device settings. Each device name will be followed by its corresponding screen size in the screenshot doc linked above.
 
