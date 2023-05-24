@@ -59,8 +59,6 @@ Most APIs will return data in JSON format, so we'll take a few moments to walk t
 
 #### Example 1: [Open Weather Map API](https://openweathermap.org/current)
 
-You can find a working example of this in the sample app, [Office Weather & Traffic](https://docs.thunkable.com/sample-apps#office-weather).
-
 One of the most common output formats for APIs is JSON, short for Javascript Object Notation. The Open Weather Map API returns a JSON file like the one below.
 
 ```

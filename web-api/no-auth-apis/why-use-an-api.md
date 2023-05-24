@@ -67,8 +67,6 @@ Now, the first and last thing we do is show/hide the loading icon. In between, w
 
 As we've just seen in the previous example, having fixed wait times in our app is a bad idea. In the best case scenario the operation is completed much quicker than our delay and we've kept our user waiting unnecessarily. The worst case scenario is that the delay isn't long enough and we get inaccurate or out of data information for our use. A much more sensible approach is to use an **asynchronous** approach. In this context asynchronous simply means that the request and response don't happen at fixed, or predefined, intervals. In the case of a synchronous approach we might send a value to our sheet and then repeatedly check, every 1 second, to see if the result has been updated. With an asynchronous request we send our data to the API and when the response is ready it gets sent back to the app. Our app "listens" for this response from the API and only acts when the response has been received.&#x20;
 
-If you want to learn more about building a stock quotation app and how to do this by connecting to a financial data API then check out our intermediate tutorial: [Taking Stock](../basic-auth-apis/api-keys.md)
-
 ### Data Formatting
 
 The other value in our spreadsheet is the **change** in price. This will either have gone up, gone down or stayed the same. While this isn't - strictly speaking - related to working with APIs, it's nice to demo how you can make decisions in your app, based on different responses you might get. In this case, we want the text to be green if the price has increased, red if it has decreased and black if it's stayed the same.&#x20;
