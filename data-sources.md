@@ -179,6 +179,8 @@ The `number of rows in` block returns an integer corresponding to how many rows 
 
 ### Update&#x20;
 
+{% embed url="https://youtu.be/ZvaW8YON2oU" %}
+
 You can use the `update value in` block to modify or update an existing cell in your data table. The column name is specified in the block itself. Both the **row id** and new **value** are passed as inputs.&#x20;
 
 ![](.gitbook/assets/update\_value.png)
