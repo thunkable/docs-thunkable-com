@@ -8,7 +8,11 @@ description: >-
 
 The Top Tab Navigator is positioned at the top of your app, and allows users to switch between different screens by clicking.&#x20;
 
-![](<.gitbook/assets/image (112).png>)
+<div align="left">
+
+<img src=".gitbook/assets/image (112).png" alt="">
+
+</div>
 
 ## Video Tutorial
 
@@ -25,7 +29,7 @@ Select **Add Navigator** and select the Navigator you want to add.
 
 ## Top Tab Navigator Properties
 
-You have many options for styling your Top Tab Navigator, such as changing the background color or tint color. Here are the different options for customization:
+You have many options for styling your Top Tab Navigator, such as changing the background color or tint color. To access the navigator's properties panel, click the Top Tab Navigator's name in the component tree. Here are the different options for customization:
 
 | Property            | Description                                                                                                                     | Data Type        |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -53,13 +57,21 @@ You have many options for styling your Top Tab Navigator, such as changing the b
 
 When designing a tab, you can use words or images to guide users to different screens.&#x20;
 
-![Using Words](<.gitbook/assets/image (112).png>)
+<div align="left">
 
-![Using Images](<.gitbook/assets/image (54).png>)
+<img src=".gitbook/assets/image (112).png" alt="Using Words">
+
+</div>
+
+<div align="left">
+
+<img src=".gitbook/assets/image (54).png" alt="Using Images">
+
+</div>
 
 ## Tab-Specific Properties
 
-Click on a tab in your design to access the properties panel for that specific tab.
+To access the properties panel for a specific tab, click the screen name in the component tree.&#x20;
 
 ### Screen
 

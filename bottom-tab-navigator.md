@@ -4,7 +4,11 @@ description: Navigate to different screens using a bottom tab navigator.
 
 # Bottom Tab Navigator
 
-![Bottom tabs are a popular way to navigate an app today](.gitbook/assets/thunkable-docs-exhibits-81.png)
+<div align="left">
+
+<img src=".gitbook/assets/thunkable-docs-exhibits-81.png" alt="Bottom tabs are a popular way to navigate an app today" width="563">
+
+</div>
 
 ## Video Tutorial
 
@@ -21,7 +25,7 @@ Select **Add Navigator** and select the Navigator you want to add.
 
 ## Bottom Tab Navigator Properties
 
-You have many options for styling your Bottom Tab Navigator, such as changing the background color or tint color. Here are the different options for customization:
+You have many options for styling your Bottom Tab Navigator, such as changing the background color or tint color. To access the navigator's properties panel, click the Bottom Tab Navigator's name in the component tree. Here are the different options for customization:
 
 | Property                  | Description                                                         | Data Type        |
 | ------------------------- | ------------------------------------------------------------------- | ---------------- |
@@ -33,7 +37,7 @@ You have many options for styling your Bottom Tab Navigator, such as changing th
 
 ## Tab-Specific Properties
 
-Click on a tab in your design to access the properties panel for that specific tab.
+To access the properties panel for a specific tab, click the screen name in the component tree.&#x20;
 
 ### Screen
 

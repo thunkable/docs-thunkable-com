@@ -2,9 +2,13 @@
 
 ## Time Input Overview
 
-A Time Input component is helpful when you want the user of your app to easily select a specific time using the native Android or iOS date picker
+A Time Input component allows your app's user to easily select a specific time using the native Android or iOS date picker.
 
-![Native Android Time Picker on the left and iOS on the right](<.gitbook/assets/thunkable-docs-exhibits-38 (1).png>)
+<div align="left">
+
+<img src=".gitbook/assets/thunkable-docs-exhibits-38 (1).png" alt="Native Android Time Picker on the left and iOS on the right">
+
+</div>
 
 ## Properties
 
@@ -12,8 +16,8 @@ A Time Input component is helpful when you want the user of your app to easily s
 
 | Property    | Description                                 | Data Type                                               |
 | ----------- | ------------------------------------------- | ------------------------------------------------------- |
-| Style       | Format to use when displaying selected date | Select from menu `[Hour:Minute AM/PM, Hour:Minute 24h]` |
-| Font Size   | Size of font when displaying date           | Number                                                  |
+| Style       | Format to use when displaying selected time | Select from menu `[Hour:Minute AM/PM, Hour:Minute 24h]` |
+| Font Size   | Size of font when displaying time           | Number                                                  |
 | Font Style  | Select whether font is italic               | True/False                                              |
 | Font Weight | Select whether font is bold                 | True/False                                              |
 | Color       | Color of font when displaying time          | Color                                                   |
@@ -30,7 +34,7 @@ A Time Input component is helpful when you want the user of your app to easily s
 
 ### **Style**
 
-| **Property**   | Description                                                                             | Data Type                                  |
+| Property       | Description                                                                             | Data Type                                  |
 | -------------- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
 | Visible        | Toggle whether your end users can see the Time Input                                    | True/False                                 |
 | Border Style   | Set whether border style is solid, dotted or dashed  (only visible if border width > 0) | Select from list `[solid, dotted, dashed]` |
@@ -44,13 +48,13 @@ A Time Input component is helpful when you want the user of your app to easily s
 
 ## Save the time
 
-The time that a user selects will show up automatically in the Time Input label but if you want to save the date somewhere to be uploaded later, you'll need to add a block like the one below.&#x20;
+The time that a user selects will show up automatically in the Time Input label but if you want to save the time somewhere to be uploaded later, you'll need to add a block like the one below.&#x20;
 
 ![](.gitbook/assets/screen-shot-2019-09-04-at-4.43.02-pm.png)
 
 | Event Property | Output                                |
 | -------------- | ------------------------------------- |
-| Get Time       | Date in whichever format you specify  |
+| Get Time       | Time in whichever format you specify  |
 | Get Hours      | Hour of the Day from `1-24`           |
 | Get Minutes    | Minutes from `1-60`                   |
 
