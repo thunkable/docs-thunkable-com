@@ -13,7 +13,7 @@
 * [Assets](assets.md)
 * [Figma Integration](figma.md)
 * [Organizations](organizations.md)
-* [🛠️ Components and Features](components.md)
+* [🛠️ UI Components and App Features](components.md)
 * [🔘 UI Components](ui-components.md)
 * [Button](button.md)
 * [Label](label.md)
