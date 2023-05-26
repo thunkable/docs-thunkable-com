@@ -4,6 +4,21 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## May 25, 2023
+
+Platform Updates
+
+* [ui-components.md](../ui-components.md "mention"): UI refresh for Layout section of properties panel for UI components
+* [organizations.md](../organizations.md "mention"): Updated org member permissions
+* Improve login UX when login token has expired
+
+New Components
+
+Component Updates
+
+* [web-api](../web-api/ "mention"): Switch seamlessly between String and Multipart API when inputting Body of Web API request
+* [slider.md](../slider.md "mention"): Fix 'onSlideComplete' block performance
+
 ## May 18, 2023
 
 New Components
