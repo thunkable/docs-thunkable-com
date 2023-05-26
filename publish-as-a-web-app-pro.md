@@ -137,3 +137,7 @@ Not all components are supported on the web at this time so please see the list 
 | **Share**                | Social         | **`Email and Phone work, other blocks not supported yet`** |
 | **Speech Recognizer**    | Voice          | **`Not supported yet`**                                    |
 | **Web Viewer**           | User Interface | **`Some Google sites not supported`**                      |
+
+## Troubleshooting
+
+* **404 Not Found** - This error is seen when a user tries to access a web app that the Creator unpublished.
