@@ -185,9 +185,9 @@ You can use the `update value in` block to modify or update an existing cell in 
 
 ![](.gitbook/assets/update\_value.png)
 
-
-
 ### Delete
+
+{% embed url="https://youtu.be/Ab66agEf3ok" %}
 
 #### Delete Row
 
