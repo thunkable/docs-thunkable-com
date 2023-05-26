@@ -488,11 +488,9 @@ You can see the screenshots you need in Apple's [screenshot specifications docum
 
 ### Export compliance
 
-You may need to answer a question about export compliance. You can select **No** when asked if your app uses encryption since apps made on Thunkable for iOS do not at the moment.
+You may need to answer a question about export compliance. Select **Yes** when asked if your app uses encryption.
 
 ![](../.gitbook/assets/thunkable-docs-exhibits-86.png)
-
-![](../.gitbook/assets/thunkable-docs-exhibits-87.png)
 
 ### Advertising identifier
 
