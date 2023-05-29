@@ -29,7 +29,7 @@ This block will open the user's file library and allow the user to select a file
 You can allow the user to upload any kind of file, or limit their selection by file type using the drop down menu.
 
 {% hint style="info" %}
-Your end users may experience lags or delays if the size of the file the try to upload is larger than 5MB
+Your end users may experience lags or delays if the file size they try to upload is larger than 5MB.
 {% endhint %}
 
 ![](.gitbook/assets/Untitled.png)

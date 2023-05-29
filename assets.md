@@ -4,7 +4,7 @@ description: Upload and manage your files from the Assets pane
 
 # Assets
 
-Use the **Assets Panel** to upload, rename and manage all of the assets you've uploaded to your project. You can also mage Figma files within this panel. To learn more about how to use the Figma upload feature, check it out [here](figma.md).&#x20;
+Use the **Assets Panel** to upload, rename and manage all of the assets you've uploaded to your project. You can also manage Figma files within this panel. To learn more about how to use the Figma upload feature, check it out [here](figma.md).&#x20;
 
 ## Account Storage Limits
 
@@ -34,8 +34,7 @@ We recommend that each of your asset files not exceed 50KB -100KB. Using smaller
 
 We recommend using a consistent naming method for your assets. This will make it easier to manage them if you use many asset files in your project.
 
-Here are two naming methods we recommend:\
-
+Here are two naming methods we recommend:
 
 1. [Snake Case](https://en.wikipedia.org/wiki/Snake\_case) - each space is replaced by an [underscore](https://en.wikipedia.org/wiki/Underscore) (\_) character, and the first letter of each word written in lowercase.
    * example\_one.png
@@ -45,7 +44,7 @@ Here are two naming methods we recommend:\
    * hereIsAnotherExample.html
 
 {% hint style="warning" %}
-Avoid using whitespace characters (" ") in your file names
+Use only alphanumeric characters and underscores in your asset names. Avoid other special characters and whitespace characters (" ") in your file names as these can cause problems with your project.
 {% endhint %}
 
 ![](<.gitbook/assets/image (205).png>)
@@ -56,7 +55,7 @@ You can manage your files directly in the Assets panel on the left, or click the
 
 ## How much space am I using?
 
-Check the size of an individual project by visiting the project details page .
+Check the size of an individual project by visiting the project details page.
 
 ![](<.gitbook/assets/thunkable (2).png>)
 
