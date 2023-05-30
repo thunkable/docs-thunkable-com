@@ -18,8 +18,8 @@ Check out our Signing In docs for more info:
 
 Check out our tutorials to get familiar with the platform and become an expert in the features Thunkable offers.&#x20;
 
-{% content-ref url="tutorials.md" %}
-[tutorials.md](tutorials.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Step 3. Test your project

@@ -1,4 +1,4 @@
-# Why use an API?
+# Update Data in a Data Source
 
 To answer this question, we're going to build an app that _doesn't_ use APIs. Instead, we will use a spreadsheet as an intermediary to get stock market data. Our app will write ticker symbols to the spreadsheet and get stock prices back from the sheet. Most of the time. Hopefully.&#x20;
 

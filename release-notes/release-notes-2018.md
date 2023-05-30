@@ -192,7 +192,7 @@ New components
 
 Platform updates
 
-* [Five new tutorials](../tutorials.md) for Thunkable beginners now located in platform panel on the left
+* [Five new tutorials](broken-reference) for Thunkable beginners now located in platform panel on the left
 * [Share a read-only version](../share-1.md#share-a-read-only-version-of-your-app-project-by-link) of your project is now supported with a public option
 
 Bug fixes
