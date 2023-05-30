@@ -30,8 +30,16 @@ The Organizations Admin Dashboard is available for an Organization’s admins. T
 
 #### Access Admin Dashboard
 
-1. Click your profile image in the upper right.
-2. Select Organizations. The Organizations page lists the organizations for which you hold admin status.
+1. Click your **profile image** in the upper right.
+2.  Select **Organizations**. \
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/Organizations Dashboard.png" alt="" width="144"><figcaption></figcaption></figure>
+
+    </div>
+3. The Organizations page lists the Organizations for which you hold admin status.
 
 #### View Organization
 
@@ -41,25 +49,27 @@ The Organizations Admin Dashboard is available for an Organization’s admins. T
 
 #### Add Member
 
-1. Click Add Member.
+1. Click **Add Member**.
 2. Input the invitee’s email address.
 3. Indicate their role (Admin or Member).&#x20;
-4. Click Add
+4. Click **Add**.
 
 #### Modify a Role
 
-1. Navigate to the Members tab of the Organization’s page&#x20;
-2. Click the role dropdown associated with the member.
+1. Navigate to the **Members tab** of the Organization’s page.&#x20;
+2. Click the **role dropdown** associated with the member.
 3. Select the appropriate role (Admin or Member).
 
 #### Remove a Member
 
-1. Navigate to the Members tab of the Organization’s page&#x20;
-2. Click the role dropdown associated with the member.
-3. Select Remove.
+1. Navigate to the **Members tab** of the Organization’s page.
+2. Click the **role dropdown** associated with the member.
+3. Select **Remove**.
 4. Confirm the removal.
 
 ## 3. Assigning a Project to an Organization
+
+### Creating a New Project in an Organization
 
 When creating a new project, Organization members can assign it to their own personal projects or the Organization.&#x20;
 
