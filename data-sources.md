@@ -1,56 +1,71 @@
 ---
 description: >-
-  The Data Sources blocks allow you work with the information that you have
-  stored in your connected Airtable Bases, Google Sheets or Local Tables.
+  Connecting your project to a data source allows you to work with the
+  information that you have stored in Airtable, Google Sheets, Webflow or a
+  local table.
 ---
 
 # Data Sources
 
-The Data Sources blocks allow you to perform a variety of CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) operations on records that you have stored in Airtable, Google Sheets or Local Tables.
+The data sources blocks allow you to perform a variety of CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) operations on records you have stored in Airtable, Google Sheets, Weblow or a local tables.
 
-## Add a Data Source to your App
+## 1. Connect Your App to a Data Source
 
-To access the Data Sources blocks you need to add a Data Source to your app. There are two ways to do this:
+There are two ways to connect your app to a source:
 
-* Add a [Data Viewer List](data-viewer-list.md) or a [Data Viewer Grid](data-viewer-grid.md) to your project
-* Click on the ⊕ icon in the Data Sources section of your component tree:
+1. Add a Data Viewer (list or grid) to your project. More on Data Viewers is available here: [data-viewers.md](data-viewers.md "mention"), OR
+2. Click the Data Sources icon in the menu on the far left and click the ⊕ icon.
+3. In the modal that appears, select a previously connected Data Source, or add a new one.&#x20;
+4. When connecting to a new data source, select from one of the following options: \
+   •  [Create your own table](data-sources.md#create-your-own-table)\
+   •  [Airtable](data-sources.md#airtable)\
+   •  [Google Sheets](data-sources.md#google-sheets)\
+   •  [Webflow](data-sources.md#webflow)
 
-![](.gitbook/assets/screen-shot-2021-03-26-at-2.46.24-pm.png)
+<div align="left">
 
-In the modal that appears, you can choose a previously connected Data Source, or add a new Data Source.&#x20;
+<img src=".gitbook/assets/Screen Shot 2021-11-05 at 9.30.56 AM.png" alt="" width="563">
 
-### Adding a New Data Source
+</div>
 
-When adding a new Data Source, you can choose a source of your data:
-
-* [Create your own table](data-sources.md#create-your-own-table)
-* [Airtable](data-sources.md#airtable)
-* [Google Sheets](data-sources.md#google-sheets)
-* [Webflow](data-sources.md#webflow)
-
-![](<.gitbook/assets/Screen Shot 2021-11-05 at 9.30.56 AM.png>)
-
-
-
-### Create your Own Table
+## 2. Create your Own Table
 
 {% embed url="https://youtu.be/2x52CJQsc9M" %}
 
-Start by naming your data source.
+To create your own table as a data source:
 
-![](.gitbook/assets/name\_local\_data2.png)
+1. Follow the steps above: [Connect Your App to a Data Source](data-sources.md#1.-connect-your-app-to-a-data-source) and select **Create your own table**.
+2. Give your local data source table a name.
+3. Click **Create**.
+4.  To add data to your local table, copy and paste it from another source or click into a cell and type to input the data. \
 
-You can now see this Data Source from your Data Sources section.\
-Click on the pen to rename the Data Source. \
-Click on the Data Source name to edit the data.
 
-![](<.gitbook/assets/Screen Shot 2022-02-04 at 12.14.36 PM.png>)
+    <div align="left">
 
-The data editor allows you to edit, add, and delete columns of information. To change any of the individual values simply click on the cell and type whatever you like.&#x20;
+    <img src=".gitbook/assets/edit_table2.png" alt="" width="563">
 
-![](.gitbook/assets/edit\_table2.png)
+    </div>
+5. To modify the table's columns:
+   * To **update** the table’s column headers, click their names and typ a new header name.
+   * To **add** additional columns, click the **+ New Column** button.
+   * To **delete** columns, click the **x** in the column’s title box.
+6. To modify the table's rows:
+   * To **add** additional rows, with your cursor in the bottom row, press your keyboard’s enter or return key.&#x20;
+   * To **delete** a row, right-click on it and select **Remove row**.
+7. When your table is complete, click the **X** in the upper right.
+8. The newly created local data source is now listed in your project's list of data sources.
+   * Click the pencil icon to **rename** the data source.&#x20;
+   * Click the data source's name to review and **edit** the data.
+   *   Click the trash can icon to **delete** the data source from your project.\
 
-### Airtable&#x20;
+
+       <div align="left">
+
+       <img src=".gitbook/assets/Screen Shot 2022-02-04 at 12.14.36 PM.png" alt="" width="375">
+
+       </div>
+
+## 3. Airtable&#x20;
 
 {% embed url="https://youtu.be/izoH3t0y2hQ" %}
 

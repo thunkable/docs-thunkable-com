@@ -14,21 +14,25 @@ Please note, that if you have account information in your blocks or your UI desi
 
 When you generate a share link, it will create a copy of your app project at the point in time you generate the link. If you update your app and want your collaborators/remixers to have the latest copy, you'll have to generate a new link.
 
-Click the **Share** icon in the top right corner of your project.
+1.  Click the **Share** icon in the top right corner of your project.\
 
-<div align="left">
 
-<img src=".gitbook/assets/screen-shot-2021-04-12-at-9.13.27-am.png" alt="">
+    <div align="left">
 
-</div>
+    <figure><img src=".gitbook/assets/share menu.png" alt="" width="284"><figcaption></figcaption></figure>
 
-Click to place a checkmark in the associated box if you want to shrae your project with API keys and passwords included.&#x20;
+    </div>
+2. Click **Share App**.
+3. Click to place a checkmark in the associated box if you want to share your project with API keys and passwords included.&#x20;
+4.  Click **Generate Link.**\
 
-Click **Generate Link.**
 
-<figure><img src=".gitbook/assets/Screen Shot 2023-03-13 at 3.41.55 PM.png" alt=""><figcaption></figcaption></figure>
+    <div align="left">
 
-You will be given a share link and an expiry date. The share link will no longer work after this date.
+    <figure><img src=".gitbook/assets/Screen Shot 2023-03-13 at 3.41.55 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+    </div>
+5. You will be given a share link and an expiry date. The share link will no longer work after this date.
 
 ### Share and track your links on your project page
 

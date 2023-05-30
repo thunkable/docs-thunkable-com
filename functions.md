@@ -2,7 +2,7 @@
 
 ## Function Overview
 
-A function is a block of code that performs a specific task. If you use the same set of code multiple times in your project, you can work more efficiently by using blocks. Clear function names also make your code more readable.
+A function is a block of code that performs a specific task. If you use the same code set multiple times in your project, you can work more efficiently using functions. Clear function names also make your code more readable.
 
 ![](.gitbook/assets/nofunctionsH.png)
 

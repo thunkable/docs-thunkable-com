@@ -88,7 +88,7 @@
 * [🚀 Advanced App Features](advanced-app-features.md)
 * [Web API](web-api/README.md)
   * [🆓 No Auth APIs](web-api/no-auth-apis/README.md)
-    * [Why use an API?](web-api/no-auth-apis/why-use-an-api.md)
+    * [Update Data in a Data Source](web-api/no-auth-apis/update-data-in-a-data-source.md)
     * [CRUD Operations](web-api/no-auth-apis/crud-operations.md)
     * [Setting Headers](web-api/no-auth-apis/setting-headers.md)
   * [📊 Charting APIs](web-api/charting-apis/README.md)
