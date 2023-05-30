@@ -65,13 +65,36 @@ When creating a new project, Organization members can assign it to their own per
 
 Projects assigned to the Organization can be collaborated on by members of the Organization.&#x20;
 
-_This decision cannot be undone._&#x20;
-
-Once a project is assigned to an Organization, it cannot be converted to a personal project and vice-versa. It remains part of the Organization and cannot be moved to any one Creator’s personal projects, including the Admin of the Organization.
+Once a project is assigned to an Organization, it cannot be converted to a personal project. It remains part of the Organization and cannot be moved to any one Creator’s personal projects, including the Admin of the Organization.
 
 Projects created within an organization cannot be shared with users outside of the Organization.
 
 <figure><img src=".gitbook/assets/Screen Shot 2023-01-27 at 4.35.47 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Duplicate into an Organization
+
+The owner of a personal project can make a copy of the project in an organization in which they are a member. To do this, as the project's owner:
+
+1. On the project's Design tab, click the **Project Actions** icon.
+2.  Select **Duplicate into...**\
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/Project Actions  Duplicate into.png" alt="" width="250"><figcaption></figcaption></figure>
+
+    </div>
+3. In the modal provided, give the project a name.
+4. Use the dropdown menu to indicate which Organization you want to copy the project into.
+5.  Click **Duplicate into Organization**.\
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/Duplicate into an Organization.png" alt="" width="375"><figcaption></figcaption></figure>
+
+    </div>
+6. You are the owner of the newly created project in the selected Organization. There are no other members with permissions on this project yet.
 
 ## 4. Viewing and Editing Modes
 
