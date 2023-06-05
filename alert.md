@@ -8,22 +8,25 @@ Alerts are useful components for displaying important messages while users are i
 
 To add an Alert component to your app:
 
-* Go to your Blocks tab
-* Click the ⊕ icon next to the `Alerts` drawer
+1. Navigate to the **Blocks** tab of your project.
+2. Under the App Features heading, locate **Alerts**.&#x20;
+3. Click the ⊕ symbol next to Alerts.
+4. Complete the properties fields as described below.&#x20;
+5. Click **Submit**.
 
 ![](<.gitbook/assets/alerts (1).png>)
 
-You will see a dialog with options to enter certain properties for your Alert component. Click Submit to create the Alert component, or Delete to dismiss the dialog without creating the component.
+You will see a dialog with options to enter certain properties for your Alert.&#x20;
 
 ![](.gitbook/assets/alert-dialog.png)
 
 ### Change properties of your Alert
 
-Once you have added at least one Web API component to your app, you will be able to view all of your Alert components under the `Alerts` drawer on the Blocks tab.&#x20;
+Once you have an Alert to your app, you can view it under the `Alerts` heading on the Blocks tab.&#x20;
 
 ![](.gitbook/assets/alerts-menu.png)
 
-To edit the properties of an Alert component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You will be able to change the properties and click Submit to save your changes, or click Delete to delete the component.
+To edit the properties of an Alert component, click on the ⚙ icon next to the component's name to bring up the properties dialog. You can change the properties and click Submit to save your changes, or click Delete to delete the component.
 
 ## One Button Alert
 
@@ -40,7 +43,7 @@ To set up an alert, simply fill in the following `simple` properties. The Cancel
 | Confirm Button Text | The text of the button    |
 | Cancel Button Text  | `LEAVE BLANK`             |
 
-## Two button alert
+## Two Button Alert
 
 Two button alerts have two buttons, one that dismisses the notification and one that can be programmed to start an event
 
@@ -48,12 +51,12 @@ To set one up, simply add the following `simple` properties
 
 ![](<.gitbook/assets/thunkable-docs-exhibits-14 (2).png>)
 
-| Property            | Description                                                                                                   |
-| ------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Title               | The title of the alert                                                                                        |
-| Message             | The subtitle of the alert                                                                                     |
-| Confirm Button Text | The text of the right confirm button; If the `danger` switch is turned on, the text will be in red (iOS only) |
-| Cancel Button Text  | The text of the left cancel button                                                                            |
+| Property            | Description                                                                                                      |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Title               | The title of the alert                                                                                           |
+| Message             | The subtitle of the alert                                                                                        |
+| Confirm Button Text | The text of the right confirm button; If the `Dangerous` switch is turned on, the text will be in red (iOS only) |
+| Cancel Button Text  | The text of the left cancel button                                                                               |
 
 ## Blocks
 

@@ -7,13 +7,15 @@ The accelerometer sensor is used to measure the force of acceleration acting on 
 
 ![The x, y and z axes of a standard smartphone](.gitbook/assets/screenshot-2019-05-18-at-15.27.06.png)
 
-## Adding a Accelerometer to your app
+## Adding an Accelerometer to your app
 
 To add an Accelerometer to your app:
 
-1. Go to the Blocks tab of your project
-2. Find the Sensors drawer of blocks and click on the ⊕ symbol to add a Sensor to your app
-3. Select Accelerometer from the menu that pops up
+1. Navigate to the **Blocks** tab of your project.
+2. Under the App Features heading, locate **Sensors**.&#x20;
+3. Click the ⊕ symbol next to Sensor.
+4. Select **Accelerometer** from the provided menu.
+5. Click **Add**.
 
 ![](.gitbook/assets/sensors.png)
 
@@ -63,7 +65,7 @@ When the accelerometer sensor detects a change in the force acting on the phone 
 
 ![](.gitbook/assets/screenshot-2019-05-18-at-14.13.50.png)
 
-| **Parameter**   | Type   | Returns                                                       |
+| Parameter       | Type   | Returns                                                       |
 | --------------- | ------ | ------------------------------------------------------------- |
 | `xAcceleration` | Number | Change in speed of the phone, along the x axis, in $$m/s^2$$  |
 | `yAcceleration` | Number | Change in speed of the phone, along the y axis, in $$m/s^2$$  |
@@ -82,7 +84,7 @@ You can get the values for xAcceleration, yAcceleration and zAcceleration at any
 
 #### Enabled
 
-By default the accelerometer sensor will be turned on, but you can use the `Enabled` property to read its current state and to change its state, i.e turn the sensor on and off.
+By default, the accelerometer sensor will be turned on, but you can use the `Enabled` property to read its current state and to change its state, i.e turn the sensor on and off.
 
 ![](.gitbook/assets/acc\_enabled.png)
 

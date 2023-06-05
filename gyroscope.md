@@ -10,9 +10,11 @@ The gyroscope is capable of measuring how quickly the phone is being turned. It 
 
 To add a Gyroscope to your app:
 
-1. Go to the Blocks tab of your project
-2. Find the Sensors drawer of blocks and click on the ⊕ symbol to add a Sensor to your app
-3. Select Gyroscope from the menu that pops up
+1. Navigate to the **Blocks** tab of your project.
+2. Under the App Features heading, locate **Sensors**.&#x20;
+3. Click the ⊕ symbol next to Sensor.
+4. Select **Gyroscope** from the provided menu.
+5. Click **Add**.
 
 ![](.gitbook/assets/sensors.png)
 

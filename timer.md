@@ -4,25 +4,24 @@
 
 ### Create a Timer
 
-You can add a Timer to your app from the Blocks tab of your Thunkable project.\
-Find the **Timers** drawer of blocks and click on the ⊕ icon to add a Timer to your app.
+You can add a Timer to your app from the Blocks tab of your Thunkable project. Under the App Features header, click the ⊕ icon next to Timers to add a Timer to your app.
 
 ![](.gitbook/assets/timers.png)
 
 ### Properties
 
-| Property | Description                                                                                                                                                   | Data Type  |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Interval | How regularly the Timer fires, in seconds or milliseconds                                                                                                     | Number     |
-| Count Up | Toggle whether the timer [time blocks](timer.md#get-time-in-seconds) return the current time as counted up from 0, or counted down from the interval duration | True/False |
-| Loop     | Toggle whether the Timer will start again once it has fired                                                                                                   | True/False |
-| Enabled  | Toggle whether the Timer is active in your app                                                                                                                | True/False |
+The Timer's properties are initially set when you add a Timer to your project.&#x20;
 
-You can also **Delete** the Timer.
+| Property | Description                                                                                                                                                    | Data Type  |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Interval | How regularly the Timer fires, in seconds or milliseconds                                                                                                      | Number     |
+| Count Up | Toggle whether the Timer's [time blocks](timer.md#get-time-in-seconds) return the current time as counted up from 0 or counted down from the interval duration | True/False |
+| Loops    | Toggle whether the Timer will start again once it has fired                                                                                                    | True/False |
+| Enabled  | Toggle whether the Timer is active in your app                                                                                                                 | True/False |
 
-### Edit a Timer
+### Edit or Delete a Timer
 
-You will see the Timers you have added to your app underneath the Timers section of your blocks. Click the gear icon next to the timer you want to edit.
+You will see the Timers you have added to your app underneath the Timers section of your blocks. To edit the properties after the fact or delete a timer, click the gear icon next to the Timer's name in the left panel of the Blocks tab.&#x20;
 
 ![](.gitbook/assets/timers-menu.png)
 

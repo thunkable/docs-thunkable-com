@@ -6,15 +6,17 @@
 
 To add a Location Sensor to your app:
 
-1. Go to the Blocks tab of your project
-2. Find the Sensors drawer of blocks and click on the ⊕ symbol to add a Sensor to your app
-3. Select Location Sensor from the menu that pops up
+1. Navigate to the **Blocks** tab of your project.
+2. Under the App Features heading, locate **Sensors**.&#x20;
+3. Click the ⊕ symbol next to Sensor.
+4. Select **Location Sensor** from the provided menu.
+5. Click **Add**.
 
 ![](.gitbook/assets/sensors.png)
 
 ![](.gitbook/assets/sensor-options.png)
 
-You will see a settings panel where you can set properties of the Location Sensor before clicking Submit.
+You will see a settings panel where you can set the properties of the Location Sensor before clicking Submit.
 
 ## Properties
 

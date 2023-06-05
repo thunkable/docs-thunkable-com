@@ -1,5 +1,14 @@
 # Generate Screenshots
 
+By adding app screenshots that showcase your app's features and functionality on its store listing page, you can help your app attract new users on the Apple App Store and Google Play. They are a requirement of the publishing process.&#x20;
+
+To generate app screenshots, the instructions vary depending on your Thunkable plan.
+
+1. [Business or Teams](generate-screenshots.md#business-or-teams-instructions)
+2. Pro, Starter, or Free
+
+## Business or Teams Instructions
+
 With the introduction of [responsive web apps,](publish-as-a-web-app-pro.md#responsive-web-app) you can now:
 
 * View your app on many different device screens
@@ -7,38 +16,50 @@ With the introduction of [responsive web apps,](publish-as-a-web-app-pro.md#resp
 
 You can now create all screenshots necessary with Thunkable!
 
-## **Preview your app on different sized device screens:**
+### **Preview Your App and Generate Screenshots**&#x20;
 
-First, publish your app as [responsive web app.](https://docs.thunkable.com/publish-as-a-web-app-pro#responsive-web-app)\
-Or, click **Live Test** in the Design screen of your app, and click the text **Preview as a responsive web app**
+1. Publish your app as a [responsive web app.](https://docs.thunkable.com/publish-as-a-web-app-pro#responsive-web-app)
+2. Copy the Web App URL link.
+3.  Open the link in Google Chrome.\
 
-![](<.gitbook/assets/screenshot (1).png>)
 
-Open the link in Google Chrome.
+    <div align="left">
 
-![](<.gitbook/assets/1 (2) (1).png>)
+    <img src=".gitbook/assets/1 (2) (1).png" alt="" width="563">
 
-Click Settings > More Tools > Developer Tools to view app in **Developer mode.**
+    </div>
+4. Click the **three stacked dots** in the upper right of your Chrome browser to access Chrome Settings.
+5. Click **More Tools**.
+6.  Click **Developer Tools** to view the app in developer mode**.**\
 
-![](.gitbook/assets/2.jpeg)
 
-In the top left hand corner of the dock, click the icon that looks like a phone and a tablet standing next to each other**.**
+    <div align="left">
 
-![](.gitbook/assets/screen-shot-2020-06-19-at-11.10.32-pm.png)
+    <img src=".gitbook/assets/2.jpeg" alt="" width="563">
 
-You will now see that your app looks like it is being viewed on a mobile device:
+    </div>
+7.  In the top left-hand corner of the dock, click the icon that looks like a phone and a tablet standing next to each other**.**\
 
-![](.gitbook/assets/6.png)
 
-You can use the drop-down menus at the top of the screen to select different devices and screen orientation.
+    <div align="left">
 
-![](.gitbook/assets/7.png)
+    <img src=".gitbook/assets/screen-shot-2020-06-19-at-11.10.32-pm.png" alt="">
 
-## **Create screenshots for your chosen device**
+    </div>
+8.  Use the drop-down menus at the top of the screen to select different devices and screen orientations.\
 
-Go back to the top left-hand corner of your console dock.\
-You will now see three dots to the left of the dock. \
-Click on these three dots to open a menu, and click on “Capture Screenshot” in the menu.
+
+    ![](.gitbook/assets/7.png)
+9. Return to the top left-hand corner of your console dock.
+10. Click the three dots icon to open an actions menu.
+11. Click **Capture Screenshot**.
+12. Repeat for required devices.
+
+## Pro, Starter, or Free
+
+1. Publish your app as a [mobile web app](publish-as-a-web-app-pro.md).&#x20;
+2. Capture a screenshot of your mobile web app. You don't need to worry about the grey border.
+3. Use a design tool such as [AppMockUp](https://app-mockup.com/) to create all the required screenshots.
 
 ## **Required screenshot sizes for App Store**
 
