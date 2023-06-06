@@ -2,11 +2,11 @@
 
 The Layout component is currently being beta-tested.
 
-## 1. Overview
+## Overview
 
 Thunkable’s Layout component allows for more precise positioning of UI components on an app screen, by allowing you to position UI components dependent on other UI components on the screen. For example, in a typical sign-in screen, if a user inputs an incorrect email address or password, a screen built with a Layout component allows you to shift the UI components on the screen to display the error messaging to the user.&#x20;
 
-## 2. Add a Layout to a Screen
+## Add a Layout to a Screen
 
 To add a Layout to a screen:
 
@@ -16,7 +16,7 @@ To add a Layout to a screen:
 
 <figure><img src=".gitbook/assets/add Layout component gif.gif" alt=""><figcaption></figcaption></figure>
 
-## 3. Insert Additional Containers
+## Insert Additional Containers
 
 By default, a newly added Layout has two horizontal Containers arranged vertically, one on top of the other. To insert additional Containers to a Layout:
 
@@ -27,7 +27,7 @@ By default, a newly added Layout has two horizontal Containers arranged vertical
 3. Identify into which Layout or Container you want to insert the new Container.
 4. Click **Add**. &#x20;
 
-## 4. Add UI Components
+## Add UI Components
 
 To add UI components to a Layout:
 
@@ -38,7 +38,7 @@ To add UI components to a Layout:
 
     <figure><img src=".gitbook/assets/move components in tree.gif" alt=""><figcaption></figcaption></figure>
 
-## 5. Layout Properties
+## Layout Properties
 
 The following properties are configured on the right in the Layout's properties panel.&#x20;
 
@@ -80,7 +80,7 @@ The following properties are configured on the right in the Layout's properties 
 {% endtab %}
 {% endtabs %}
 
-## 6. Container Properties
+## Container Properties
 
 The following properties are configured on the right in the Container's properties panel.&#x20;
 
@@ -122,7 +122,7 @@ The following properties are configured on the right in the Container's properti
 {% endtab %}
 {% endtabs %}
 
-## 7. Layout Blocks
+## Layout Blocks
 
 To access the blocks specific to the Layout component:
 
@@ -130,9 +130,9 @@ To access the blocks specific to the Layout component:
 2. In the component tree on the left, click the **Layout component**.
 3. A drawer of Layout-specific blocks opens.
 
-<table><thead><tr><th width="369">Block Image</th><th>Description</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/Layout block - call - scroll to end.png" alt=""></td><td>If the Layout is scrollable, you can use this block to scroll the user to the end of the Layout. For example, a user clicks a button in a chat app, and the Layout scrolls to the end of the chat history to see the most recent messages.</td></tr><tr><td><img src=".gitbook/assets/2023-05-15_15-10-19 copy.png" alt=""></td><td>If the Layout is scrollable, you can use this block to scroll the user to the start of the Layout.</td></tr><tr><td><img src=".gitbook/assets/2023-05-15_15-10-19 copy (1).png" alt=""></td><td>Sets the Layout’s height to a custom number of pixels.</td></tr><tr><td><img src=".gitbook/assets/2023-05-15_15-10-19 copy (2) (1).png" alt=""></td><td>Gets the Layout’s height in pixels.</td></tr><tr><td><img src=".gitbook/assets/computed height.png" alt=""></td><td>Gets the Layout’s computed height, the on-screen dimensions of the Layout, after it has been rendered on-screen. The value returned is an integer, representing the height of the Layout in pixels.</td></tr><tr><td><img src=".gitbook/assets/set width.png" alt=""></td><td>Sets the Layout’s width to a custom number of pixels.</td></tr><tr><td><img src=".gitbook/assets/get width.png" alt=""></td><td>Gets the Layout’s width in pixels.</td></tr><tr><td><img src=".gitbook/assets/computed width.png" alt=""></td><td>Gets the Layout’s computed width, the on-screen dimensions of the Layout, after it has been rendered on-screen. The value returned is an integer, representing the width of the Layout in pixels.</td></tr><tr><td><img src=".gitbook/assets/set visible.png" alt=""></td><td><p>When set to true, sets the Layout to visible, meaning the Layout is visible to users.</p><p>When set to false, sets the Layout to invisible, meaning the Layout is not visible to users.</p></td></tr><tr><td><img src=".gitbook/assets/get visible.png" alt=""></td><td>Gets the Layout’s visibility status. Returns true (visible) or false (invisible).</td></tr><tr><td><img src=".gitbook/assets/set X.png" alt=""></td><td>Set the position of the upper left corner of the Layout on the X-axis, where the left side of the screen is X=0.</td></tr><tr><td><img src=".gitbook/assets/get X.png" alt=""></td><td>Get the position of the upper left corner of the Layout on the X-axis, where the left side of the screen is X=0.</td></tr><tr><td><img src=".gitbook/assets/set Y.png" alt=""></td><td>Set the position of the upper left corner of the Layout on the Y-axis, where the top of the screen is Y=0.</td></tr><tr><td><img src=".gitbook/assets/get Y.png" alt=""></td><td>Get the position of the upper left corner of the Layout on the Y-axis, where the top of the screen is Y=0.</td></tr><tr><td><img src=".gitbook/assets/set color (w=50).png" alt=""></td><td>Set the Layout’s background color.</td></tr><tr><td><img src=".gitbook/assets/get color (w=50).png" alt=""></td><td>Get the Layout’s background color.</td></tr><tr><td><img src=".gitbook/assets/set resize .png" alt=""></td><td>Set the Layout’s background picture resize mode. See the Layout Properties section for definitions of the acceptable values.</td></tr><tr><td><img src=".gitbook/assets/set resize.png" alt=""></td><td>Get the Layout’s background picture resize mode.</td></tr><tr><td><img src=".gitbook/assets/set scroll.png" alt=""></td><td><p>When set to true, sets the Layout to scrollable for users.</p><p>When set to false, sets the Layout to scrollable for users.</p></td></tr><tr><td><img src=".gitbook/assets/get scrollable.png" alt=""></td><td>Gets the Layout’s scrollable status. Returns true (scrollable) or false (not scrollable).</td></tr><tr><td><img src=".gitbook/assets/set scroll bar.png" alt=""></td><td><p>When set to true, sets the Layout’s scroll bar to visible for users.</p><p>When set to false, sets the Layout’s scroll bar to invisible for users.</p></td></tr><tr><td><img src=".gitbook/assets/get scroll bar.png" alt=""></td><td>Gets the Layout’s scroll bar visibility status. Returns true (visible) or false (invisible).</td></tr></tbody></table>
+<table><thead><tr><th width="347">Block Image</th><th>Description</th></tr></thead><tbody><tr><td><img src=".gitbook/assets/Layout scroll to end (frame 470x40x2).png" alt=""></td><td>If the Layout is scrollable, you can use this block to scroll the user to the end of the Layout. For example, a user clicks a button in a chat app, and the Layout scrolls to the end of the chat history to see the most recent messages.</td></tr><tr><td><img src=".gitbook/assets/Layout scroll to start (frame 470x40x2).png" alt=""></td><td>If the Layout is scrollable, you can use this block to scroll the user to the start of the Layout.</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s height (frame 470x40x2).png" alt=""></td><td>Sets the Layout’s height to a custom number of pixels.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s height (frame 470x40x2).png" alt=""></td><td>Gets the Layout’s height in pixels.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s computed height (frame 470x40x2).png" alt=""></td><td>Gets the Layout’s computed height, the on-screen dimensions of the Layout, after it has been rendered on-screen. The value returned is an integer, representing the height of the Layout in pixels.</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s width (frame 470x40x2).png" alt=""></td><td>Sets the Layout’s width to a custom number of pixels.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s width (frame 470x40x2).png" alt=""></td><td>Gets the Layout’s width in pixels.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s computed width (frame 470x40x2).png" alt=""></td><td>Gets the Layout’s computed width, the on-screen dimensions of the Layout, after it has been rendered on-screen. The value returned is an integer, representing the width of the Layout in pixels.</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s visible (frame 470x40x2).png" alt=""></td><td><p>When set to true, sets the Layout to visible, meaning the Layout is visible to users.</p><p>When set to false, sets the Layout to invisible, meaning the Layout is not visible to users.</p></td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s visible (frame 470x40x2).png" alt=""></td><td>Gets the Layout’s visibility status. Returns true (visible) or false (invisible).</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s X (frame 470x40x2).png" alt=""></td><td>Set the position of the upper left corner of the Layout on the X-axis, where the left side of the screen is X=0.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s X (frame 470x40x2).png" alt=""></td><td>Get the position of the upper left corner of the Layout on the X-axis, where the left side of the screen is X=0.</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s Y (frame 470x40x2).png" alt=""></td><td>Set the position of the upper left corner of the Layout on the Y-axis, where the top of the screen is Y=0.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s Y (frame 470x40x2).png" alt=""></td><td>Get the position of the upper left corner of the Layout on the Y-axis, where the top of the screen is Y=0.</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s background color (frame 470x40x2).png" alt=""></td><td>Set the Layout’s background color.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s background color (frame 470x40x2).png" alt=""></td><td>Get the Layout’s background color.</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s background picture (frame 470x40x2).png" alt=""></td><td>Set the Layout's background picture. Click the dropdown menu to select an image from your computer.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s background picture (frame 470x40x2).png" alt=""></td><td>Get the Layout's background picture.</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s background picture resize (frame 470x40x2).png" alt=""></td><td>Set the Layout’s background picture resize mode. See the Layout Properties section for definitions of the acceptable values.</td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s background picture resize (frame 470x40x2).png" alt=""></td><td>Get the Layout’s background picture resize mode.</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s scrollable (frame 470x40x2).png" alt=""></td><td><p>When set to true, sets the Layout to scrollable for users.</p><p>When set to false, sets the Layout to scrollable for users.</p></td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s scrollable (frame 470x40x2).png" alt=""></td><td>Gets the Layout’s scrollable status. Returns true (scrollable) or false (not scrollable).</td></tr><tr><td><img src=".gitbook/assets/set Layout&#x27;s scroll bar visible (frame 470x40x2).png" alt=""></td><td><p>When set to true, sets the Layout’s scroll bar to visible for users.</p><p>When set to false, sets the Layout’s scroll bar to invisible for users.</p></td></tr><tr><td><img src=".gitbook/assets/get Layout&#x27;s scroll bar visible (frame 470x40x2).png" alt=""></td><td>Gets the Layout’s scroll bar visibility status. Returns true (visible) or false (invisible).</td></tr></tbody></table>
 
-## 8. Container Blocks
+## Container Blocks
 
 To access the blocks specific to the Container component:
 
