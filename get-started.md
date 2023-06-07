@@ -14,13 +14,9 @@ Check out our Signing In docs for more info:
 [signing-in.md](signing-in.md)
 {% endcontent-ref %}
 
-## **Step 2. Try Our Tutorials**
+## **Step 2. Complete the Thunkable Academy Course**
 
-Check out our tutorials to get familiar with the platform and become an expert in the features Thunkable offers.&#x20;
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+Check out our courses in [Thunkable Academy](https://academy.thunkable.com/) to familiarize yourself with the platform and build your first app.
 
 ## Step 3. Test your project
 
