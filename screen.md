@@ -73,33 +73,59 @@ The status bar is located at the top of a phone's screen. The status bar display
 
 
 
-## Save Screen
+## Save and Resuse Screens
+
+Thunkable allows you to reuse a screen, and its associated blocks, in multiple projects.&#x20;
 
 {% hint style="warning" %}
-This feature is available to users with a Team level subscription only at this time.&#x20;
+This feature is available with the Thunkable Teams plan. See here for more information: [Thunkable pricing](https://thunkable.com/#/pricing).
 {% endhint %}
 
-Thunkable allows you to reuse a screen, and its associated blocks, in multiple projects with the "Save to My Screens" feature. You can find the **Save Screen** button at the top of the properties for every screen component in your app.
+{% embed url="https://youtu.be/-gIH6tV7Yfs" %}
 
-![](.gitbook/assets/screen-shot-2021-10-01-at-9.59.01-am.png)
+### Save Screen
 
-### Name Your Screen
+1. Select the screen in the Designer.
+2. Click the vertical elipses at the top of the screen's properties pane.
+3. Click **Save Screen**.\
+   ![](<.gitbook/assets/Save Screen menu.png>)
+4. Give your screen a descriptive name.&#x20;
+5. Click **Save**.
 
-It's important that when you save your screen you use a descriptive and memorable name that describes what your screen does. The example below is for a sign in screen, which is something that often get reused across multiple projects.
+### Add Screen to Another Project
 
-![](.gitbook/assets/03\_name\_screen.png)
+1. Open the project in which you'd like to add the saved screen.
+2.  Click the upside-down arrow at the top of the Designer's component tree.\
 
-### Add a New Screen
 
-Once you've saved a screen, any time you click the **`+`** button at the top of your component tree to add a new screen to your project, you will be given the option to add a blank screen or to "Add From Saved Screens".
+    <div align="left">
 
-![](.gitbook/assets/screen-shot-2021-10-01-at-10.00.23-am.png)
+    <figure><img src=".gitbook/assets/Add From Saved Screens.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### Choose a Saved Screen
+    </div>
+3. Click **Add From Saved Screens**.
+4. Select the screen you want to add.
+5.  Click **Copy**.\
 
-Simply choose the screen that you want to add in and click the "Copy" button to proceed.
 
-![](.gitbook/assets/05\_choose\_screen.png)
+    ![](.gitbook/assets/05\_choose\_screen.png)
+
+### Errors&#x20;
+
+When a saved screen is added to a new project, you may notice some errors in the blocks that you’ll need to address. This is because the app you have added the screen to doesn’t necessarily have the same features. For example, the blocks may navigate the user to a screen that doesn’t exist in the new app. Another example of an error that would need to be addressed is if the screen had a data viewer, but the data source wasn’t connected to this project.
+
+### View All Saved Screens
+
+1. Navigate to your Projects Page.
+2.  Click **My Screens** in the upper left.\
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/Projects Screen  My Screens.png" alt="" width="563"><figcaption></figcaption></figure>
+
+    </div>
+3. On you My Screens page you can view your screens, rename them, and delete screens you no longer need.
 
 ## Screen Blocks&#x20;
 
