@@ -4,6 +4,8 @@ Great data is an essential part of many apps built today and the Web API compone
 
 To see what public APIs are available, we recommend [this list from Todd Motto](https://github.com/toddmotto/public-apis)
 
+{% embed url="https://youtu.be/sI_LGP-Z5kE" %}
+
 ## Adding a Web API to your app
 
 To add a Web API component to your app:
