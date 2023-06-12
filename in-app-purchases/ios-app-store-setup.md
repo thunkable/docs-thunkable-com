@@ -17,14 +17,14 @@ After this is complete, you will now be able to add your In-App Purchases.
 
 {% tabs %}
 {% tab title="Consumable, Non-Consumable, or Non-Renewing Subscriptions" %}
-**Required role:** You must have the [Account Holder](https://help.apple.com/app-store-connect/#/dev1d7b9bccf), [Admin](https://help.apple.com/app-store-connect/#/devf3ef59c83), [App Manager](https://help.apple.com/app-store-connect/#/dev26fb1aeb8), [Developer](https://help.apple.com/app-store-connect/#/deveb40aa0cc), or [Marketing](https://help.apple.com/app-store-connect/#/dev6ce96c97a) role to add and edit in-app purchases. See [Role permissions](https://help.apple.com/app-store-connect/#/deve5f9a89d7).
+**Required role:** You must have the Account Holder, Admin, App Manager, Developer, or Marketing role to add and edit in-app purchases. Learn more here: [Apple Developer Role Permissions](https://developer.apple.com/help/app-store-connect/reference/role-permissions).&#x20;
 
 1. From My Apps, select your app.
 2. In the sidebar under In-App Purchases, click Manage.
 3.  To add an in-app purchase, go to In-App Purchases and click the Add button (+).
 
     ![App Details Menu](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/InApp\_AppDetails-menu-5\_2x.png)
-4. Select Consumable, Non-Consumable, or Non-Renewing Subscriptions and click Create. For auto-renewable subscriptions, see [Create an auto-renewable subscription](https://help.apple.com/app-store-connect/#/dev06f89ce98).
+4. Select Consumable, Non-Consumable, or Non-Renewing Subscriptions and click Create. For auto-renewable subscriptions, see [Create an auto-renewable subscription](https://developer.apple.com/app-store/subscriptions/).
 5. Add the reference name, product ID, and a localized display name.
 6.  Click Save, or Submit for Review.
 
@@ -38,11 +38,11 @@ All in-app purchase metadata can be edited, except the Product ID and in-app pur
 {% tab title="Auto Renewable Subscriptions" %}
 ## Create an auto-renewable subscription <a href="#dev06f89ce98" id="dev06f89ce98"></a>
 
-To offer auto-renewable subscriptions within your app, you must first create auto-renewable subscription products in App Store Connect. When you create your first subscription product, the App Store Connect flow will guide you to create your first subscription group. When you create additional subscription products, you'll be able to add these products to the subscriptions groups you've already created, or create a new group. Before creating subscriptions, ensure that you understand the right subscription setup for your business model. See [Overview of auto-renewable subscription group setup](https://help.apple.com/app-store-connect/#/dev75708c031).
+To offer auto-renewable subscriptions within your app, you must first create auto-renewable subscription products in App Store Connect. When you create your first subscription product, the App Store Connect flow will guide you to create your first subscription group. When you create additional subscription products, you'll be able to add these products to the subscriptions groups you've already created, or create a new group. Before creating subscriptions, ensure that you understand the right subscription setup for your business model. See [Offer auto-renewable subscriptions](https://developer.apple.com/app-store/subscriptions/) to learn more.&#x20;
 
 To learn more about the subscription business model for your app, read [Offering Subscriptions](https://developer.apple.com/app-store/subscriptions/whats-new).
 
-**Required role:** [Account Holder](https://help.apple.com/app-store-connect/#/dev1d7b9bccf), [Admin](https://help.apple.com/app-store-connect/#/devf3ef59c83), [App Manager](https://help.apple.com/app-store-connect/#/dev26fb1aeb8), [Developer](https://help.apple.com/app-store-connect/#/deveb40aa0cc), or [Marketing](https://help.apple.com/app-store-connect/#/dev6ce96c97a). See [Role permissions](https://help.apple.com/app-store-connect/#/deve5f9a89d7).
+**Required role:** Account Holder, Admin, App Manager, Developer, or Marketing. Learn more here: [Apple Developer Role Permissions](https://developer.apple.com/help/app-store-connect/reference/role-permissions).&#x20;
 
 ### Create a subscription product
 
@@ -65,7 +65,7 @@ To learn more about the subscription business model for your app, read [Offering
 
     The Subscription Group page will open.
 7. Once you've created your subscription product, you'll be taken to its information page to add more details. Under Subscription Duration, choose a duration from the pop-up menu.
-8. Under Subscription Prices, [set a price for your auto-renewable subscription](https://help.apple.com/app-store-connect/#/devc9870599e).
+8. Under Subscription Prices, set a price for your auto-renewable subscription. Learn more here: [Manage pricing for auto-renewable subscriptions](https://developer.apple.com/help/app-store-connect/manage-subscriptions/manage-pricing-for-auto-renewable-subscriptions).
 9. Under Localizations, click on the Add button (+) to add a language for your localized display name.
 10. Enter your localized information.
 
@@ -124,11 +124,7 @@ Source: [Apple Official In-App Purchase Guide](https://developer.apple.com/libra
 {% tab title="Setup Test Users" %}
 You can test your app and in-app purchases without creating financial transactions by using sandbox, a test environment that uses the infrastructure of the App Store but doesn’t process actual payments. Instead, it returns transactions as if payments were processed successfully.&#x20;
 
-
-
-1.  From [Users and Access](https://help.apple.com/app-store-connect/#/devd2fe02057), click Testers under Sandbox.
-
-
+1. From **Users and Access**, click Testers under Sandbox.
 2. Click the Add icon (+).
 3. Enter the tester information, then click Invite.
 
@@ -160,8 +156,6 @@ To clear tester purchase history:
 ![](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/sandbox\_clear\_history.png)
 
 ![](https://help.apple.com/app-store-connect/en.lproj/GlobalArt/sandbox\_clear\_confirm.png)
-
-##
 {% endtab %}
 
 {% tab title="Subscription Renewal Rate" %}
@@ -204,12 +198,11 @@ You will need to sign in again with your Sandbox Apple ID on your device to comp
 
 1. Navigate to [Appleid.apple.com](https://appleid.apple.com/) from your web browser and sign in with your Apple ID and Password.
 2. Verify your identity with two-factor authentication.
-3.  Under the Security section, select **Generate Passwords**.
-
-    If you don't see the option to generate app-specific passwords, you'll need to [enable two-factor authentication](https://www.imore.com/how-enable-2-factor-authentication-iphone-and-ipad), which is [different than two-step verification](https://www.imore.com/two-factor-authentication).
-4. Enter a **label** for the password. Be sure the name relates to the app for which you are generating the password, like "Outlook" or "Thunderbird."
-5. Select **Create**.
-6.  Copy the **app-specific password** you generated and save it in a file on your local system such that you may reference it as needed while building your app.&#x20;
+3. Under the Security section, select **Generate Passwords**.
+4. If you don't see the option to generate app-specific passwords, you'll need to [enable two-factor authentication](https://support.apple.com/en-us/HT204915), which is different than two-step verification.
+5. Enter a **label** for the password. Be sure the name relates to the app for which you are generating the password, like "Outlook" or "Thunderbird."
+6. Select **Create**.
+7.  Copy the **app-specific password** you generated and save it in a file on your local system such that you may reference it as needed while building your app.&#x20;
 
 
 
