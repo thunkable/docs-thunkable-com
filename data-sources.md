@@ -42,7 +42,7 @@ To create your own table as a data source:
 
     <div align="left">
 
-    <img src=".gitbook/assets/edit_table2.png" alt="" width="563">
+    <figure><img src=".gitbook/assets/data sources - local table - app vs. stored DS (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
     </div>
 5. To modify the table's columns:
@@ -52,8 +52,11 @@ To create your own table as a data source:
 6. To modify the table's rows:
    * To **add** additional rows, with your cursor in the bottom row, press your keyboard’s enter or return key.&#x20;
    * To **delete** a row, right-click on it and select **Remove row**.
-7. When your table is complete, click the **X** in the upper right.
-8. The newly created local data source is now listed in your project's list of data sources.
+7. Select your preferred storage option:
+   * **App Data Source** - If the data is changed while the app is open, the table's data resets when a user of your app closes and reopens the app. This reduces the time it takes for the app to load on the user's device.&#x20;
+   * **Stored Data Source** - If the data is changed while the app is open, the table's data persists when a user closes and reopens the app.&#x20;
+8. When your table is complete, click the **X** in the upper right.
+9. The newly created local data source is now listed in your project's list of data sources.
    * Click the pencil icon to **rename** the data source.&#x20;
    * Click the data source's name to review and **edit** the data.
    *   Click the trash can icon to **delete** the data source from your project.\

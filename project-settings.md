@@ -69,7 +69,54 @@ For publishing to the iOS [App Store](publish-to-app-store-ios/#upload-an-icon-a
 For publishing your app to the Play and App stores, you will need to create a separate icon with a higher resolution. For [Google Play](https://developer.android.com/google-play/resources/icon-design-specifications#creating\_assets), the current requirement is 500 x 500 px. For the [App Store](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon#app-icon-sizes), it's 1024 x 1024 px.
 {% endhint %}
 
-## 2. Publishing Settings
+## 2. Splash Screen Image
+
+To access your app's splash screen image settings:
+
+1. Navigate to the project’s **Design tab**.
+2. Click the **Settings** icon in the left menu.
+3. Click the **three dots icon** at the bottom of the Project Settings section to access the advanced settings.
+
+![](<.gitbook/assets/splash screen image settings.png>)
+
+### Picture
+
+To customize your app’s splash screen picture:
+
+1. Click in the Picture field.
+2. Click **Upload files** and select an image from your computer, or select an image from your app’s current assets.
+
+#### Splash Screen Picture Requirements:
+
+* The picture must be square. Rectangle pictures will not render correctly.
+* The ideal dimensions for your splash screen picture are 1152x1152 pixels.&#x20;
+* If you want a transparent background, a PNG file is recommended.
+* [Android splash screen image dimension guide](https://developer.android.com/develop/ui/views/launch/splash-screen#dimensions)
+
+{% hint style="info" %}
+**Note:** If you do not select a custom splash screen picture, your app icon image will be used by default.&#x20;
+{% endhint %}
+
+### Background Color
+
+To customize the background color of your app’s splash screen:
+
+1. Click in the Background Color field.
+2. Use the color picker or input the HEX or RBGA codes to select your preferred color.
+
+{% hint style="info" %}
+**Note:** If you do not select a custom splash screen background color, white will be used by default.&#x20;
+{% endhint %}
+
+### Sample Splash Screens
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/splash screen - iOS vs. Android.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+## 3. Publishing Settings
 
 ### App (Bundle) ID
 
@@ -96,7 +143,7 @@ This property enables you to remove the Safe Area View which Thunkable adds to t
 
 This property enables you to set the safe area view color. With this, you can customize the background color of the _white area_. Please note, this is an app level setting and you won’t be able to customize the color at the screen level.
 
-## 3. Android Publishing Details
+## 4. Android Publishing Details
 
 ### Version Name
 
@@ -106,7 +153,7 @@ Set a [version name](publish-to-play-store-android.md#build-and-version-number) 
 
 Set a [version code](publish-to-play-store-android.md#build-and-version-number) for this version of your Android app.
 
-## 4. iOS
+## 5. iOS
 
 ### Version Number
 
@@ -122,7 +169,7 @@ When you add components that require permissions to your app, like the camera or
 
 You must add purpose strings for any component that explicitly requires a purpose string.
 
-## 5. Integrations
+## 6. Integrations
 
 If your app uses [translation](speech.md#translation), [image recognition](camera.md#image-recognition), [media upload to the cloud](camera.md#upload-image-to-the-cloud), or requires users to [sign in](sign-in.md), you can enter your personal API keys for these integrations in the app settings.&#x20;
 
