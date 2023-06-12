@@ -13,15 +13,20 @@ To add a Web API component to your app:
 * Go to your Blocks tab.
 * Scroll to the bottom of your blocks panel on the left side and find the `Advanced` section. &#x20;
 * Click the expand chevron to show the Advanced invisible components.
-* Click the ⊕ icon next to `Web APIs.`
-
-![](<../.gitbook/assets/advanced-components (1).png>)
+* Click the ⊕ icon next to `Web APIs.`\
+  ![](<../.gitbook/assets/Blocks  Advanced.png>)
 
 A Web API component properties dialog launches. See the chart below for descriptions of the various properties. Click **Submit** to create the Web API component, or **Delete** to dismiss the dialog without creating the component.
 
 Once you have the API key, you'll need to enter the unique URL into the property field of the Web API component.
 
-<table><thead><tr><th>Property</th><th width="536.3333333333333">Description</th><th>Required?</th></tr></thead><tbody><tr><td>URL</td><td>The url for the web request which usually contains an API key</td><td>Required</td></tr><tr><td>QueryParameters</td><td>Specifies some parameters of the data</td><td>Optional</td></tr><tr><td>Body</td><td>Body of your API call. Select from String or Multipart Form Data. </td><td>Optional</td></tr><tr><td>Headers</td><td>Specifies some meta-data, eg: usernames and passwords</td><td>Optional</td></tr></tbody></table>
+<table><thead><tr><th width="133">Property</th><th width="494.33333333333326">Description</th><th>Required?</th></tr></thead><tbody><tr><td>URL</td><td>The url for the web request which usually contains an API key</td><td>Required</td></tr><tr><td>QueryParameters</td><td>Specifies some parameters of the data</td><td>Optional</td></tr><tr><td>Body</td><td>Body of your API call. Select from String or Multipart Form Data. </td><td>Optional</td></tr><tr><td>Headers</td><td>Specifies some meta-data, eg: usernames and passwords</td><td>Optional</td></tr></tbody></table>
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/Web API modal.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ### Edit properties of your Web API
 

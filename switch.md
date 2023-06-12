@@ -4,7 +4,11 @@
 
 A switch is a component that has two settings, true and false. You can get your app to do specific tasks based on the value of the switch.
 
-![](https://gblobscdn.gitbook.com/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LAn5wecEraNWaG7Ig2g%2F-LAn68KdTsbXiRGsjXH9%2Fswitch-%E2%9C%95-fig-1.gif?alt=media)
+<div align="left">
+
+<figure><img src=".gitbook/assets/switch (web preview - cropped).png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## Properties <a href="#getting-started" id="getting-started"></a>
 

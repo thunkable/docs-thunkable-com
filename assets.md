@@ -14,7 +14,11 @@ Each plan has a limited storage capacity.&#x20;
 
 You can view your total account storage size in your account settings.
 
-![](<.gitbook/assets/thunkable (1).png>)
+<div align="left">
+
+<figure><img src=".gitbook/assets/Avatar  Settings.png" alt="" width="174"><figcaption></figcaption></figure>
+
+</div>
 
 ## App Limits
 

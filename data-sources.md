@@ -132,7 +132,11 @@ Within the Webflow platform:
 
 Within the Thunkable platform:
 
-![](<.gitbook/assets/data sources - webflow - API Key.png>)
+<div align="left">
+
+<figure><img src=".gitbook/assets/data sources - webflow - API Key.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 1. Paste the copied Webflow API token into the corresponding field.&#x20;
 2. Click **Refresh** to see your Webflow sites.&#x20;
@@ -145,7 +149,11 @@ To protect the quality of its service, the Webflow CMS API default rate limit is
 
 #### Connecting by OAuth
 
-![](<.gitbook/assets/data sources - webflow - OAuth.png>)
+<div align="left">
+
+<figure><img src=".gitbook/assets/data sources - webflow - OAuth.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 1. Click **Connect to Webflow**.
 2. A Webflow authorization screen opens.
@@ -157,7 +165,7 @@ To protect the quality of its service, the Webflow CMS API default rate limit is
 
 ## Data Source blocks
 
-![](.gitbook/assets/data\_sources\_drawer.png)
+![](<.gitbook/assets/Blocks  App Features  Data Sources.png>)
 
 ### Create&#x20;
 
@@ -168,8 +176,6 @@ The `create row in`block allows you to append new rows to the end of your data t
 ![](.gitbook/assets/create\_row.png)
 
 The inputs are dynamic so if you change the name of Column 1 or Column 2 in the designer these changes will be reflected in the block too.
-
-![](.gitbook/assets/edit\_table2.png)
 
 ### Read&#x20;
 

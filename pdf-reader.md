@@ -4,7 +4,11 @@
 
 Allow your users to view your favorite PDFs -- legal contracts, art posters or maybe even a PhD dissertation -- all from the convenience of your app
 
-![Bring your favorite PDFs with you in an app!](.gitbook/assets/thunkable-docs-exhibits-40.png)
+<div align="left">
+
+<img src=".gitbook/assets/thunkable-docs-exhibits-40.png" alt="Bring your favorite PDFs with you in an app!">
+
+</div>
 
 ## Properties
 
@@ -24,7 +28,7 @@ You can upload a PDF as an [Asset](assets.md) to your app and display it in the 
 
 You can enter a URL that points to a PDF on the web to display in your PDF. Make sure this URL ends in `.pdf`
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-5.00.27-pm.png)
+<figure><img src=".gitbook/assets/PDF Reader - properties panel - cropped.png" alt=""><figcaption></figcaption></figure>
 
 Once you upload the PDF, you will be able to view it in your app and pinch to zoom in.&#x20;
 

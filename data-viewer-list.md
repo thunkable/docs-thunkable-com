@@ -10,7 +10,11 @@ description: >-
 
 The Data Viewer List lets you connect to a Data Source and view your data as a list.
 
-![Example of a Data viewer List. Data is dummy data from Webflow.](<.gitbook/assets/Screen Shot 2022-02-04 at 12.47.54 PM.png>)
+<div align="left">
+
+<img src=".gitbook/assets/Screen Shot 2022-02-04 at 12.47.54 PM.png" alt="Example of a Data viewer List. Data is dummy data from Webflow." width="375">
+
+</div>
 
 ## Properties
 

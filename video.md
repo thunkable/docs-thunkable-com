@@ -8,9 +8,11 @@ description: The video component lets you play videos in your app.
 
 The Video component lets you play videos in your project that are stored in the cloud or in your project. Users can easily pause, rewind or fast-forward the video with this player.
 
+<div align="left">
 
+<img src=".gitbook/assets/screen-shot-2019-10-17-at-2.52.02-pm.png" alt="" width="375">
 
-![](.gitbook/assets/screen-shot-2019-10-17-at-2.52.02-pm.png)
+</div>
 
 ## Set Video
 

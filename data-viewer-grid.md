@@ -10,7 +10,11 @@ description: >-
 
 The Data Viewer Grid lets you connect to a Data Source and view your data as a grid. This layout works well with data that includes images.
 
-![Example of a Data viewer Grid. Data is dummy data from Webflow.](<.gitbook/assets/Screen Shot 2022-02-04 at 12.44.53 PM.png>)
+<div align="left">
+
+<img src=".gitbook/assets/Screen Shot 2022-02-04 at 12.44.53 PM.png" alt="Example of a Data viewer Grid. Data is dummy data from Webflow." width="375">
+
+</div>
 
 ## Properties
 

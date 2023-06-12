@@ -24,7 +24,11 @@ All Android apps built with Thunkable are built with Android API 31 and target A
 
 To download your Android app, click the Download icon and select **Download Android**&#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.11.40-am.png)
+<div align="left">
+
+<figure><img src=".gitbook/assets/Publish and Download - dropdown menu.png" alt="" width="321"><figcaption></figcaption></figure>
+
+</div>
 
 * Enter your email address in the pop-up window
 

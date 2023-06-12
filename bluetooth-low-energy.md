@@ -56,7 +56,7 @@ This function is used to scan for nearby BLE or Bluetooth enabled devices. Scann
 
 | Output Name  | Data Type | Description                                          |
 | ------------ | --------- | ---------------------------------------------------- |
-| Device IDs   | List      | Returns a list of the IDs of the available devices   |
+| Device Ids   | List      | Returns a list of the IDs of the available devices   |
 | Device Names | List      | Returns a list of the names of the available devices |
 | error        | Text      | Returns an error message from the function           |
 
@@ -162,13 +162,13 @@ You can program some events to happen when your device disconnects from the name
 
 | Input Name | Data Type | Description                                                        |
 | ---------- | --------- | ------------------------------------------------------------------ |
-| Device ID  | Text      | Unique ID of the bluetooth device to listen for disconnection with |
+| Device Id  | Text      | Unique ID of the bluetooth device to listen for disconnection with |
 
 #### Outputs
 
 | Output Name | Data Type | Description                                                             |
 | ----------- | --------- | ----------------------------------------------------------------------- |
-| Error       | Text      | If an error message is returned, returns the error. Else returns `null` |
+| error       | Text      | If an error message is returned, returns the error. Else returns `null` |
 
 ### Transmit String
 
@@ -180,7 +180,7 @@ You need to be connected to another Bluetooth device in order to use this block.
 
 #### Inputs
 
-| Input Name          | Data Type | **Description**                                                                           |
+| Input Name          | Data Type | Description                                                                               |
 | ------------------- | --------- | ----------------------------------------------------------------------------------------- |
 | characteristic UUID | Text      | **Expects** a text block with a 32-bit UUID for the BLE type, service or profile required |
 | data                | Text      | Expects a text block with the message that you want to send to your BLE device            |

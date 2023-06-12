@@ -10,7 +10,7 @@ Drag and Drop is our new platform interface that took our Creator's favorite fea
 
 You'll know if you're looking for support with the Drag and Drog interface if your screen looks like this:
 
-<figure><img src=".gitbook/assets/DND project.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Design tab.png" alt=""><figcaption></figcaption></figure>
 
 You're in the right place if you're looking for the Thunkable Docs supporting our Drag and Drop interface.
 

@@ -4,7 +4,11 @@
 
 For activities that take more than a few seconds, loading icons can be helpful to tell your app users that an activity is happening in the background, such as retrieving or uploading data.
 
-![The large loading icon is on the top; the small is on the bottom on a Pixel 3](.gitbook/assets/ezgif.com-crop.gif)
+<div align="left">
+
+<img src=".gitbook/assets/ezgif.com-crop.gif" alt="The large loading icon is on the top; the small one is on the bottom on a Pixel 3" width="188">
+
+</div>
 
 ## Properties&#x20;
 

@@ -28,11 +28,7 @@ For Creators on Pro+ plans, you can decide whether a project is public or privat
 
 You can also change the privacy setting of an existing app. Click the gear icon in the upper left to access your app's  [Project Settings](project-settings.md) and use the switch to change the app's privacy settings.
 
-<div align="left">
-
-<img src=".gitbook/assets/screen-shot-2021-04-15-at-2.43.35-pm.png" alt="">
-
-</div>
+![](<.gitbook/assets/Settings  Public App.png>)
 
 ## Read-Only projects
 

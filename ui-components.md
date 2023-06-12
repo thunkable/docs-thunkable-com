@@ -6,7 +6,7 @@ description: Components to interact with
 
 ​UI Components make up the visual aspect of your **User Interface**. Combine, style and customize Thunkable UI components to give your app personality and style that best suits your brand.​
 
-![](<.gitbook/assets/image (211).png>)
+<figure><img src=".gitbook/assets/Label  cropped properties panel.png" alt=""><figcaption></figcaption></figure>
 
 Every UI component has unique properties that you can use to customize it. You can find this at the top of the **Properties panel**. All UI components have a section called **Layout** and **Style**.‌
 

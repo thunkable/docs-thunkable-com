@@ -2,7 +2,7 @@
 
 To view or change your app settings, click on the **Settings** gear icon in the menu on the left.
 
-![](.gitbook/assets/settings.gif)
+![](<.gitbook/assets/App Settings.png>)
 
 ## 1. Project Settings
 
