@@ -54,6 +54,10 @@ In the next modal you can:
 
 ## Publish to a custom domain
 
+{% hint style="info" %}
+Publishing to a custom domain is available with the Thunkable Business or Team plan.
+{% endhint %}
+
 ### Configure your domain
 
 You need to configure your domain before you can publish your app to that domain. To do so, add the Thunkable IP address (34.136.177.42) to the A record of your domain which you can usually find in the DNS section of your domain provider.
