@@ -13,33 +13,37 @@ This is the first page you see when you sign in.
 
 Thunkable lets you choose between viewing your projects in **List View** or **Grid View**.
 
-![List View of Thunkable Projects page](.gitbook/assets/listview.jpg)
+<figure><img src=".gitbook/assets/Projects Page - list view.png" alt=""><figcaption></figcaption></figure>
 
-![Grid View of Thunkable projects page](.gitbook/assets/gridview.jpg)
+<figure><img src=".gitbook/assets/Projects Page - grid view.png" alt=""><figcaption></figcaption></figure>
 
 You can decide whether to view your projects in List View or Grid View in the upper right corner of the page.
 
-![](.gitbook/assets/listgridtoggle.png)
+<figure><img src=".gitbook/assets/Projects Page - list or grid.png" alt=""><figcaption></figcaption></figure>
 
 ## Filtering your projects
 
 ### Search Bar
 
-You can use the search bar to filter your projects by name
+You can use the search bar to filter your projects by name.
 
-![](.gitbook/assets/searchbar.png)
+<figure><img src=".gitbook/assets/Projects Page - search (filter by) + sort.png" alt=""><figcaption></figcaption></figure>
 
 ### Filter public/private projects
 
 [PRO Thunkable creators](https://thunkable.com/#/pricing) are able to create [private projects](projects.md#private-projects). You can use the Public and Private checkboxes to filter your projects, showing only public projects or only private projects.
 
-![](.gitbook/assets/pubprivpop.png)
+<figure><img src=".gitbook/assets/Projects Page - filter by publicprivate.png" alt=""><figcaption></figcaption></figure>
 
 ## Your Project Menu - Delete, Duplicate, and more
 
 When you click on the 3 dots on a project card (Grid View) or list item (List View), you can see some project options.
 
-![Project options menu](.gitbook/assets/screen-shot-2020-06-12-at-2.08.57-pm.png)
+<div align="left">
+
+<img src=".gitbook/assets/screen-shot-2020-06-12-at-2.08.57-pm.png" alt="Project options menu" width="375">
+
+</div>
 
 You can **delete** your project, **duplicate** your project, or see your **Project detail page.**
 

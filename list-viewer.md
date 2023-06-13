@@ -58,7 +58,7 @@ You can customize the Simple List with the following properties:
 ## Blocks
 
 {% hint style="warning" %}
-**Note:** The blocks in your project are titled "Simple\_List." The blocks in images below are titled "List\_Viewer." The component was recently renamed and these images will be updated soon. Thank you for your patience. &#x20;
+**Note:** The blocks in your project are titled "Simple\_List." The blocks in the images below are titled "List\_Viewer." The component was recently renamed and these images will be updated soon. Thank you for your patience. &#x20;
 {% endhint %}
 
 ### Functions
@@ -71,9 +71,10 @@ Performs an action when the user clicks on an item of the Simple List.
 
 **Outputs**
 
-| Item  | Text of selected item                             | String |
-| ----- | ------------------------------------------------- | ------ |
-| Index | Position of item in Simple List (starting with 1) | Number |
+| Name  | Description                                       | Data Type |
+| ----- | ------------------------------------------------- | --------- |
+| Item  | Text of selected item                             | String    |
+| Index | Position of item in Simple List (starting with 1) | Number    |
 
 ### Properties
 
