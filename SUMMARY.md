@@ -130,6 +130,7 @@
   * [Trouble logging in?](troubleshooting/login-issues.md)
   * [FAQs](troubleshooting/faqs.md)
 * [💾 Managing Storage](managing-storage.md)
+* [Bugs and Product Feedback](bugs-and-product-feedback.md)
 * [📰 Release Notes](release-notes/README.md)
   * [Release Notes 2022](release-notes/release-notes-2022.md)
   * [Release Notes 2021](release-notes/release-notes-2021.md)
