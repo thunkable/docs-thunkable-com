@@ -1,9 +1,5 @@
 # Stack Navigator
 
-![](.gitbook/assets/thunkable-documentation-exhibits-85.png)
-
-![](.gitbook/assets/thunkable-documentation-exhibits-84.png)
-
 ## Stack Navigator Properties
 
 ### Set Your Screen Transitions

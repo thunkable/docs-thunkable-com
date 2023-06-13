@@ -35,7 +35,7 @@ Apple holds a high standard for apps that are approved for distribution in the A
 
 You will need to set a version number in your project. You can set your version number in the [Project Settings panel](../project-settings.md) under **iOS > Version Number**.&#x20;
 
-![](../.gitbook/assets/screen-shot-2021-04-16-at-8.19.42-am.png)
+![](<../.gitbook/assets/Settings  iOS.png>)
 
 If this is your first time sending this app to App Store Connect, you can set the version number to 1. You will need to increment your version number, or increase it by 1, every time you submit a build to App Store Connect.
 
@@ -54,10 +54,8 @@ If you do not include this and your app engages in tracking, Apple will reject y
 
 There are two locations where you can set your Tracking Usage Description:
 
-1.  **Project Settings**\
-
-
-    ![](<../.gitbook/assets/Screen Shot 2022-02-22 at 3.02.47 PM.png>)
+1. **Project Settings**\
+   ![](<../.gitbook/assets/Settings  iOS.png>)
 2.  **Publishing Wizard**\
 
 
@@ -247,7 +245,7 @@ Now click on your app name to prepare your store listing
 
 Thunkable enables you to send your build directly to the App Store without the need for any specialized software or hardware. To begin the process, click on the **Download/Publish** icon and choose **Publish iOS** from the drop-down menu.
 
-![](../.gitbook/assets/screen-shot-2021-04-12-at-9.19.00-am.png)
+![](<../.gitbook/assets/Publish and Download - dropdown menu.png>)
 
 A publishing dialog will pop up to guide you through the publication process. Please take a moment to read all the instructions.&#x20;
 

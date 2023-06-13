@@ -4,7 +4,7 @@ description: Preview your Thunkable project with our Thunkable Live app, or on t
 
 # Live Test your App
 
-## **What is the Thunkable Live App?**
+**What is the Thunkable Live App?**
 
 The Thunkable Live app connects the projects in your web browser directly to your mobile device. It allows you to do two things:
 
@@ -27,15 +27,19 @@ While live testing, any changes that you make to your project should be reflecte
 
 ### **Getting started**
 
-From any of your Thunkable projects, click on the **Live Test** button at the top of the screen to begin live testing.
+From any of your Thunkable projects, click on the **Live Test on Device** button at the top of the screen to begin live testing.
 
-![](.gitbook/assets/live\_test\_icon.png)
+<div align="left">
+
+<figure><img src=".gitbook/assets/Thunkable Live.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ‌The next pop-up you see depends on if you are [signed in with Google](live-test.md#if-you-are-signed-in-with-google) or if you have [signed in by email](live-test.md#if-you-are-signed-in-by-email).‌
 
 ### **If you are signed in with Google:**
 
-Clicking on the Live Test button will remind you to open Thunkable Live on your device.
+Clicking on the Live Test on Device button will remind you to open Thunkable Live on your device.
 
 ![](.gitbook/assets/lt\_gmail.png)
 
@@ -49,15 +53,29 @@ When you click the Live Test button you will be prompted to enter a code into yo
 
 To find this code, open Thunkable Live on your device and click **Email sign in - Generate Test Code.**
 
-![](.gitbook/assets/img\_1315.png)
+<div align="left">
+
+<img src=".gitbook/assets/img_1315.png" alt="" width="188">
+
+</div>
 
 Enter this code into the first prompt and you will be able to live test your app.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/Thunkable Live - part 2.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ## **Live Preview**
 
 For the first time, you can live preview all your app projects from the comfort of your mobile device. Simply login and you should see a list of all your projects on your Thunkable Live app.
 
-![](<.gitbook/assets/live-preview-fig-1 (1).gif>)
+<div align="left">
+
+<img src=".gitbook/assets/live-preview-fig-1 (1).gif" alt="">
+
+</div>
 
 ## Troubleshooting
 
@@ -83,15 +101,19 @@ Common issues with the Thunkable Live app
 
 Preview on the Web allows you to live preview your own project directly from your browser. Simply click on "Live Test" to preview your own app in a pop-up window. &#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.39.02-pm.png)
+<div align="left">
 
-&#x20;
+<figure><img src=".gitbook/assets/Web Preview.png" alt="" width="563"><figcaption></figcaption></figure>
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.41.10-pm.png)
+</div>
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/Web Preview screen.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 You can click the **Preview in a New Window** text to preview your app in a new browser tab:
-
-![](.gitbook/assets/screen-shot-2021-04-08-at-4.41.51-pm.png)
 
 You can also preview any _public_ app, directly from the Project Detail Page.&#x20;
 

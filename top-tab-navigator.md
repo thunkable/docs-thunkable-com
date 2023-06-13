@@ -22,10 +22,10 @@ You can watch a video tutorial that explains all of the Navigators here:
 
 ## Adding Navigators
 
-To add a navigator to your app, click **Screens +** at the top of your component tree. \
+To add a navigator to your app, click the dropdown arrow at the top of your component tree.\
 Select **Add Navigator** and select the Navigator you want to add.
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-5.06.23-pm.png)
+<figure><img src=".gitbook/assets/Navigator menu.png" alt=""><figcaption></figcaption></figure>
 
 ## Top Tab Navigator Properties
 

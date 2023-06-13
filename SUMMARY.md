@@ -130,7 +130,7 @@
 * [Publish as a Web App](publish-as-a-web-app-pro.md)
 * [Generate Screenshots](generate-screenshots.md)
 * [🔎 Troubleshooting](troubleshooting/README.md)
-  * [Login Issues](troubleshooting/login-issues.md)
+  * [Trouble logging in?](troubleshooting/login-issues.md)
   * [FAQs](troubleshooting/faqs.md)
 * [💾 Managing Storage](managing-storage.md)
 * [📰 Release Notes](release-notes/README.md)

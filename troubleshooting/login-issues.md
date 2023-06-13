@@ -1,18 +1,14 @@
-# Login Issues
+# Trouble logging in?
 
-{% hint style="warning" %}
-We allow creators to log in with a Google account, an Apple account, or an email address.
-{% endhint %}
+Creators can log into Thunkable with a Google account, Apple account, or email address.
 
-If you are seeing this page, you are likely having problems logging into our web platform. Our hardworking beaver is sad to hear that.
+If you are having issues logging in to Thunkable, we recommend you do the following:
 
-Fortunately, we have some recommendations that will hopefully help you fix your login issues. Our top suggestions are:
-
-1. **Sign out completely** from Google and then sign back-in
-2. **Switch your browser** to Chrome, Firefox or Safari (if using Internet Explorer or Edge Web Browsers)
+1. **Sign out completely** from Google and then sign back in.
+2. **Switch your browser** to Chrome, Firefox or Safari (if using Internet Explorer or Edge Web Browsers).
 3. [**Enable cookies**](login-issues.md#pro-tip-how-to-enable-cookies) in your browser, if you have them switched off.
-4. **Uninstall AdBlocker** extensions or add-ons (if you have them installed)
-5. **Disable Kaspersky Lab Antivirus** or whitelist thunkable.com (if you have it installed)
+4. **Uninstall AdBlocker** extensions or add-ons (if you have them installed).
+5. **Disable Kaspersky Lab Antivirus** or whitelist thunkable.com (if you have it installed).
 
 A helpful summary is below:
 
@@ -23,33 +19,32 @@ A helpful summary is below:
 | AdBlockers          | No AdBlockers extensions or add-ons                                               | AdBlockers extensions or add-ons                |
 | Kaspersky Antivirus | Either disabling Kaspersky Lab Antivirus completely or whitelisting Thunkable.com | Kaspersky Lab Antivirus software                |
 
-## Pro-tip: How to enable cookies
+## How to enable cookies
 
 To enable cookies, please follow the directions below:
 
-## **Chrome**
+### **Chrome**
 
-In Chrome, you need to ensure that you allow sites to save and read cookie data. You will also need to ensure that you **do not block** third-party cookies.&#x20;
+In Chrome, you must ensure that you allow sites to save and read cookie data. You will also need to ensure that you **do not block** third-party cookies.&#x20;
 
 For instructions, see here: [Chrome - Turn cookies on or off](https://support.google.com/accounts/answer/61416?hl=en\&co=GENIE.Platform%3DDesktop)&#x20;
 
-![](../.gitbook/assets/chrome\_cookie\_settings.png)
+### **Firefox**
 
-## **Firefox**
+In Chrome, you must ensure that you allow sites to save and read cookie data. You will also need to ensure that you **do not block** third-party cookies.&#x20;
 
-* You will need to have settings like the one below.  More info [here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)**.**
+For instructions, see here: [Firefox - Enable Cookies](https://support.mozilla.org/en-US/kb/websites-say-cookies-are-blocked-unblock-them)
 
-![Screen Shot 2017-02-28 at 12.15.42 PM.png](https://lh5.googleusercontent.com/R2hWEd4litqU6PsCiCcO-ncSydqWPCeYkJAS1qNmCe80rifmnB\_6vp7G1MKqkc\_Ll518QTXSRi6NNZEkOd-\_jkVNip3-kSMKsRyt\_Q1kFT5TqrrwsoucfhdoNowFMWx0f74z1hhA)
+### **Safari**
 
-## **Safari**
+1. Open **Safari**.
+2. Click **Safari** in the upper left.
+3. Select **Preferences...**&#x20;
+4. Click **Privacy**.
+5. Ensure **Prevent cross-site tracking** is checked.
+6. Ensure **Block all cookies** is NOT checked.
 
-Open Safari > Preferences ... > Privacy
-
-Prevent cross-site tracking should be **checked.**&#x20;
-
-Block all cookies should be **unchecked**.
-
-![](../.gitbook/assets/safari\_cookie\_settings.png)
+<figure><img src="../.gitbook/assets/Safari  Preferences  Privacy  tracking + cookies.png" alt=""><figcaption></figcaption></figure>
 
 Read more about cross-site tracking [here](https://support.apple.com/en-ie/guide/safari/sfri40732/13.0/mac/10.15).
 

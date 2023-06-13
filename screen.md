@@ -12,12 +12,16 @@ There are two ways to add a new screen to your app:
 
 Click the + icon next to your Screen names in the Screens bar.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-8.06.10-am.png)
+<figure><img src=".gitbook/assets/Add screen from top header.png" alt=""><figcaption></figcaption></figure>
 
-Click **Screens +** at the top of your component tree. \
+Click **New Screen** icon at the top of your components tree. \
 Select **Create New Screen.**
 
-![](.gitbook/assets/screen-shot-2021-04-08-at-5.11.05-pm.png)
+<div align="left">
+
+<figure><img src=".gitbook/assets/Create new screen icon.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 ### Copy and paste components&#x20;
 

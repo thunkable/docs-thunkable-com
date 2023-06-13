@@ -199,7 +199,7 @@ For "Package name" you should use the App (Bundle) ID listed under "Publishing S
 
 <figure><img src=".gitbook/assets/android_01_create_client_id_x.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### 7a. Get the SHA-1 Certificate fingerprint
 
