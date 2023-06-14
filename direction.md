@@ -8,27 +8,31 @@ description: Program a sprite's direction
 
 ### Point Sprite Towards Pointer
 
-![](.gitbook/assets/dir_point_pointer.png)
+![](.gitbook/assets/dir\_point\_pointer.png)
 
-Turn the sprite in the direction of where the user has tapped on the canvas 
+Turn the sprite in the direction of where the user has tapped on the canvas&#x20;
 
 ### Point Sprite Towards Sprite
 
-![](.gitbook/assets/dir_point_sprite.png)
+![](.gitbook/assets/dir\_point\_sprite.png)
 
-Turn a sprite in the direction of another sprite 
+Turn a sprite in the direction of another sprite&#x20;
 
-## Angle 
+## Angle&#x20;
 
 ### Set or Change Sprite's Angle
 
-![](.gitbook/assets/dir_set_angle.png)
+<div align="left">
 
-Set or change the angle of the sprite 
+<figure><img src=".gitbook/assets/Canvas  Direction  setchange angle dropdown.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Set or change the angle of the sprite.
 
 ### Get Sprite's Angle
 
-![](.gitbook/assets/dir_get_angle.png)
+![](.gitbook/assets/dir\_get\_angle.png)
 
 Get the angle of the sprite
 
@@ -36,15 +40,14 @@ Get the angle of the sprite
 
 ### Set or Change Sprite's Angular Velocity
 
-![](.gitbook/assets/dir_set_angular_velocity.png)
+<figure><img src=".gitbook/assets/Canvas  Direction  setchange angular velocity dropdown.png" alt=""><figcaption></figcaption></figure>
 
-Set or change the angular velocity of the sprite 
+Set or change the angular velocity of the sprite.&#x20;
 
 ### Get Sprites Angular Velocity
 
-![](.gitbook/assets/dir_get_angular_velocity.png)
+![](.gitbook/assets/dir\_get\_angular\_velocity.png)
 
-Get the angular velocity of the sprite
+Get the angular velocity of the sprite.
 
-## 
-
+##
