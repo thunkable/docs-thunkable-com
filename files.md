@@ -66,7 +66,7 @@ To connect your Cloudinary accout to your Thunkable project:
 6. Input your Cloudinary Cloud Name, API Key, and API Secret.\
    ![](<.gitbook/assets/Settings  Cloudinary Settings.png>)
 
-#### Block: url from uploaded file / upload file
+### Block: url from uploaded file / upload file
 
 To access the `url from uploaded file` or `upload file` block:
 
