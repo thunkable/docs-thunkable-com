@@ -23,7 +23,7 @@ This block will return the users most recent purchase that is still valid/active
 
 //Android
 [{
-"packageName": "edu.fit.jgibb",
+"packageName": "com.thunkable.testapp",
 "productId": "new_sub",
 "acknowledged": true,
 "purchaseToken":"LONG STRING",

@@ -82,7 +82,7 @@ In-app products use the same default language as their app. To add translations 
 
 Review Google's updated [Subscriptions Policy](https://play.google.com/about/monetization-ads/subscriptions/) in the Developer Policy Center to ensure your app is compliant with the latest changes.
 
-Using [Google Play's billing system](https://developer.android.com/google/play/billing/billing\_admin.html), you can offer in-app products that charge users for content or services on a recurring basis, known as subscriptions. Subscriptions can include items like a collection of apps, games, or other content for a recurring fee within your app on Google Play.
+Using [Google Play's billing system](https://developers.google.com/android-publisher#subscriptions), you can offer in-app products that charge users for content or services on a recurring basis, known as subscriptions. Subscriptions can include items like a collection of apps, games, or other content for a recurring fee within your app on Google Play.
 
 You can offer multiple subscriptions within the same app. Subscriptions must be priced within the [accepted price range](https://support.google.com/googleplay/android-developer/table/3541286). Subscriptions can't be unpublished.
 
