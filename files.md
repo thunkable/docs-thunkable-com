@@ -40,38 +40,51 @@ Your end users may experience lags or delays if the file size they try to upload
 
 <table><thead><tr><th width="150">Output</th><th width="287.76404494382024">Description</th><th>Data Type</th></tr></thead><tbody><tr><td>file</td><td>Points to the file that has been uploaded</td><td>Data type of the file that has been uploaded.<br>Can also return address of the file as text</td></tr><tr><td>name</td><td>Name of the uploaded file</td><td>Text</td></tr><tr><td>mime type</td><td>Describes the type of file in <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types">MIME format</a></td><td>Text</td></tr><tr><td>size</td><td>Returns size of uploaded file in bytes</td><td>Number</td></tr><tr><td>was cancelled</td><td>Indicates whether the end user cancelled selecting a file</td><td>True/False</td></tr><tr><td>error</td><td>If there is an error, returns the error. Else returns <code>null</code></td><td>Text</td></tr></tbody></table>
 
-## Upload file to the cloud
+## Upload a File to the Cloud
 
-Cloudinary Media DB is a service that allows you to store media files in the cloud. Thunkable's `upload file` block allows you to send media directly from your Thunkable app to a linked Cloudinary account.
+Thunkable integrates with [Cloudinary](https://cloudinary.com/), a service that allows you to store media files in the cloud. The upload file block allows you to send media directly from your Thunkable app to a linked Cloudinary account.
+
+### Connect Your Cloudinary Account to Your Thunkable Project
+
+Thunkable provides a shared Cloudinary account for your convenience, but we strongly recommend creating your own account to ensure privacy for your uploaded media. In addition, the shared Thunkable Cloudinary account has a media size limit of 10MB per app and your files will be deleted after 90 days.
 
 {% hint style="warning" %}
-If you use Thunkable's default Cloudinary DB, your files will be deleted after 90 days. Please connect your own Cloudinary DB to your Thunkable project to keep your media safe.
+If you use Thunkable's default Cloudinary database, your files will be deleted after 90 days, so we recommend connecting your project to your own Cloudinary account to keep your media safe.&#x20;
 {% endhint %}
 
-#### Advanced block
+To connect your Cloudinary accout to your Thunkable project:
 
-![](<.gitbook/assets/file (1).png>)
+1. Create a free Cloudinary account here: [cloudinary.com](https://cloudinary.com/).
+2. From your **Cloudinary dashboard**, retrieve the following account details:&#x20;
+   1. **Cloud Name**
+   2. **API Key**
+   3. **API Secret**
+3. Return to your Thunkable project page.
+4. Click the Settings icon in the left side menu.\
+   ![](<.gitbook/assets/Settings icon w arrow callout.png>)
+5. Scroll down until you reach the Cloudinary Settings section.
+6. Input your Cloudinary Cloud Name, API Key, and API Secret.\
+   ![](<.gitbook/assets/Settings  Cloudinary Settings.png>)
+
+#### Block: url from uploaded file / upload file
+
+To access the `url from uploaded file` or `upload file` block:
+
+1. Navigate to your project's **Blocks** tab.
+2. Under the App Features heading, click **Files**.&#x20;
+3. Drag the `url from uploaded file` block into your workspace. This is the regular version of the block.\
+   ![](<.gitbook/assets/url from uploaded file block.png>)
+4. The `upload file` block is the advanced block. To access it, right-click the `url from uploaded file` block and select **Show advanced block**.\
+   \
+   ![](<.gitbook/assets/url from uploaded file block  right click menu  advanced block.png>)![](<.gitbook/assets/upload file block v2.png>)\
+
 
 | Output | Data Type | Function                                 |
 | ------ | --------- | ---------------------------------------- |
 | URL    | text      | returns a URL for the uploaded file      |
 | error  | text      | if there was an error, returns the error |
 
-### Connecting Your Cloudinary DB to Your Thunkable project
-
-No set up is required but creating your free Cloudinary account is highly recommended. Thunkable provides its own subscription key for your convenience but we strongly recommend creating your own account to ensure privacy for your uploaded media. We also have a current media size limit of 10MB per app and we may periodically clean out our default Cloudinary account
-
-#### Create a [free Cloudinary](https://cloudinary.com/) account
-
-![](<.gitbook/assets/image (222).png>)
-
-#### Connect your Cloudinary cloud to Thunkable
-
-To connect your Cloudinary cloud to Thunkable, simply retrieve the following fields from the Cloudinary dashboard: `Cloud name`, `API key`, and `API secret.` You can add these details to your app in the [Project Settings panel](project-settings.md#api-keys).
-
-![](<.gitbook/assets/image (220).png>)
-
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LAn5scXl2uqUJUOqkJo-84897653%2Fuploads%2F7dZE50mYtYJaQjI0sdeZ%2FScreen%20Shot%202022-02-16%20at%2010.04.27%20AM.png?alt=media\&token=65c825f8-3aad-4b5e-b6be-8cc9bb552b1f)
+To see an example of the `url from uploaded file` block in action, check out this video tutorial: [How to Create Data in a Thunkable Data Source](https://youtu.be/mxyjQRv4aDg?t=295).
 
 ## Resize Image
 
@@ -85,14 +98,14 @@ This block will take an image file and return it in the given dimensions, qualit
 
 | Input            | Data Type        | Function                                                                 |
 | ---------------- | ---------------- | ------------------------------------------------------------------------ |
-| \[resize] image  | Any image file   | The image to be resized                                                  |
-| Width            | Number           | Width in pixels to resize image file to                                  |
-| Height           | Number           | Height in pixels to resize image file to                                 |
-| Quality          | Number           | Quality of resulting image, as a percentage of quality of original image |
+| resize image     | Any image file   | The image to be resized                                                  |
+| width            | Number           | Width in pixels to resize image file to                                  |
+| height           | Number           | Height in pixels to resize image file to                                 |
+| quality          | Number           | Quality of resulting image, as a percentage of quality of original image |
 | using ... format | Select from menu | Select image type for resulting image                                    |
 
 | Output        | Data Type | Function                                                    |
 | ------------- | --------- | ----------------------------------------------------------- |
-| Resized Image | Image     | The resized image in the selected format and quality level  |
-| Error         | Text      | If there was an error, returns the error. Else returns NULL |
+| resized Image | Image     | The resized image in the selected format and quality level  |
+| error         | Text      | If there was an error, returns the error. Else returns NULL |
 
