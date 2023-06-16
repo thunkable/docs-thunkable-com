@@ -42,7 +42,7 @@ To create your own table as a data source:
 
     <div align="left">
 
-    <figure><img src=".gitbook/assets/data sources - local table - app vs. stored DS (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/data sources - local table - app vs. stored DS.png" alt="" width="563"><figcaption></figcaption></figure>
 
     </div>
 5. To modify the table's columns:
