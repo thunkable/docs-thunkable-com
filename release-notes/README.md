@@ -4,6 +4,52 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## June 14, 2023
+
+Platform Updates
+
+* [Drag and Drop](http://localhost:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/-LAn5scXl2uqUJUOqkJo-84897653/ "mention"): Show guidelines in Component Tree
+* Thunkable Live App: Show prompt to update outdated app
+
+## June 13, 2023
+
+Platform Updates
+
+* [Snap to Place](http://localhost:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/ "mention"): Changes to App Settings panel
+
+## June 12, 2023
+
+Platform Updates
+
+* Enable setting custom splash screen in [project-settings.md](../project-settings.md "mention")
+* Update Top Nav Dropdown menus UI
+* Improve accuracy of estimated time to build iOS apps
+
+New Components
+
+Component Updates
+
+* [image-1.md](../image-1.md "mention"): Update package for rendering SVG images
+* [admob.md](../admob.md "mention"): Set iOS tracking description when AdMob app ID is configured
+* [data-sources.md](../data-sources.md "mention"): Allow Local Data Sources to be 'App Data' or 'Stored Data'
+
+## June 2, 2023
+
+Component Updates
+
+* [any-component-blocks.md](../any-component-blocks.md "mention"): Improve UX for editing properties of freshly created/cloned component
+
+## May 30, 2023
+
+Platform Updates
+
+* [Drag and Drop](http://localhost:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/-LAn5scXl2uqUJUOqkJo-84897653/ "mention") UI: Updates to left navigation panel
+* [organizations.md](../organizations.md "mention"): Enable duplicating personal projects into organizations
+
+Component Updates
+
+* [admob.md](../admob.md "mention"): Improve playback of AdMob Rewarded Video
+
 ## May 25, 2023
 
 Platform Updates
