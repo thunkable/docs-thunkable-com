@@ -10,8 +10,12 @@ These components require a little more set-up than the other [app features](app-
 [bluetooth-low-energy.md](bluetooth-low-energy.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="in-app-purchase.md" %}
+[in-app-purchase.md](in-app-purchase.md)
+{% endcontent-ref %}
+
+{% content-ref url="openai-chatgpt-integration.md" %}
+[openai-chatgpt-integration.md](openai-chatgpt-integration.md)
 {% endcontent-ref %}
 
 {% content-ref url="any-component-blocks.md" %}
