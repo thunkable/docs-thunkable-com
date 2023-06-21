@@ -131,6 +131,19 @@ When a saved screen is added to a new project, you may notice some errors in the
     </div>
 3. On you My Screens page you can view your screens, rename them, and delete screens you no longer need.
 
+## Disable app screen preview
+
+You can disable screen preview for apps with many screens to improve platform performance and load time. When enabled, the project only loads the screen you're working on, and the others are paused.&#x20;
+
+<figure><img src=".gitbook/assets/disable app screen preview - Designer.png" alt=""><figcaption></figcaption></figure>
+
+To disable app screen preview:
+
+1. Click your **account avatar or icon** in the upper right corner.&#x20;
+2. Select **Settings**.&#x20;
+3. Click the **FEATURES** tab.
+4. Toggle on **Disable app screen preview**.
+
 ## Screen Blocks&#x20;
 
 ### when Screen1 Starts

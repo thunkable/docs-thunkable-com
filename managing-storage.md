@@ -25,3 +25,16 @@ Sometimes there's simply no option left other than to go back through your app a
 * Reduce block count by creating [functions](functions.md)
 * Use [loops](control.md#repeat-an-event) to perform repetitive tasks
 * Use the [Any Component](any-component-blocks.md) blocks as much as possible
+
+## Disable app screen preview
+
+You can disable screen preview for apps with many screens to improve platform performance and load time. When enabled, the project only loads the screen you're working on, and the others are paused.&#x20;
+
+<figure><img src=".gitbook/assets/disable app screen preview - Designer.png" alt=""><figcaption></figcaption></figure>
+
+To disable app screen preview:
+
+1. Click your **account avatar or icon** in the upper right corner.&#x20;
+2. Select **Settings**.&#x20;
+3. Click the **FEATURES** tab.
+4. Toggle on **Disable app screen preview**.
