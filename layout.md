@@ -154,3 +154,51 @@ To access the blocks specific to the Container component:
 2. In the component tree on the left, click the **Container component** that is nested under the Layout component.
 3. A drawer of Container-specific blocks opens.
 4. The blocks are the same as the ones above in the [Layout Blocks section](layout.md#7.-layout-blocks), but specific to the Container instead of the Layout.
+
+## Create a Custom Data Viewer&#x20;
+
+Thunkable provides a variety of default Data Viewer List and Data Viewer Grid templates, but saving a customized Layout component as a Data
+
+### To save a Layout as a Data Viewer:
+
+1. When you're happy with the Layout you have customized, ensure it is selected in the component tree.
+2. Click the **vertical ellipsis** next to the Layout's name in the properties panel.
+3.  Select **Save as Data Viewer Layout**.\
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/Layout - Save as Data Viewer Layout.png" alt="" width="563"><figcaption></figcaption></figure>
+
+    </div>
+4. Give your Data Viewer Layout a detilaed **name**.
+5. Select the **Layout Type** you want to create. \
+   \- List for a Data Viewer List\
+   \- Grid for a Data Viewer List.
+6. Click **OK**.
+
+### To use a saved Layout as a Data Viewer:
+
+1. Click the **Create New Screen** icon at the top of the component tree in the Designer. &#x20;
+2. Drag a **Data Viewer Lis**t or **Data Viewer Grid** onto your screen.
+3. Reposition and resize as necessary.
+4. Connect you project to a data source. See here for instructions on connecting a data source: [Data Sources](data-sources.md).
+5.  Click the sample template to access the Data Viewer templates available to you.\
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/Data Viewer List - properties panel - design template.png" alt="" width="290"><figcaption></figcaption></figure>
+
+    </div>
+6. Click to select the Layout you saved as a Data Viewer from the bottom of the template library.&#x20;
+7.  Map your data source columns to components within your custom Data Viewer Layout. \
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/Data Viewer - properites panel - map column data.png" alt="" width="279"><figcaption></figcaption></figure>
+
+    </div>
+
+See here for more on working with Data Viewers and Data Sources: [Data Viewers and Data Sources](data-viewers.md).
