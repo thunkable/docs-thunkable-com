@@ -97,7 +97,7 @@ There are two locations where you can set your Tracking Usage Description:
 
     </div>
 
-### Create an App-specific password
+### Create an app-specific password
 
 If a developer uses a third-party platform like Thunkable to send an app build to App Store Connect, the developer must create an app-specific password.&#x20;
 
@@ -141,16 +141,17 @@ You will need your app-specific password to send each new build to your App Stor
     {% endhint %}
 8. Click **Done**.
 
-#### Changing an App-specific password
+#### Change an app-specific password
 
-To change an app-specific password, you will need to revoke your old password and generate a new password using the steps above. \
+Any time you change or reset your primary Apple ID password, all of your app-specific passwords are revoked automatically to protect the security of your account. You need to generate new app-specific passwords for any apps that you want to continue using.\
 \
-To revoke an app-specific password:
+To manually revoke an app-specific password:
 
-1. Sign into your [Apple ID account page](https://appleid.apple.com/#!\&page=signin)
-2. In the **Security** section, click **Edit**
-3. Go to the **App-Specific Passwords** section and click **View History**
-4. Click the ⓧ next to an individual password to revoke it, or click 'Revoke All' to revoke all of your app-specific passwords
+1. Sign in to [appleid.apple.com](https://appleid.apple.com/account/home).
+2. In the **Sign-In and Security** section, select **App-Specific Passwords**.
+3. Select the **Remove** button next to a password you want to delete, or **Revoke All**.
+
+After you revoke a password, the app using that password will be signed out of your account until you generate a new password and sign in again.
 
 ### Register an App ID on App Store Connect
 
@@ -263,10 +264,12 @@ To generate an Apple certificate and upload it to Thunkable:
 One certificate from Apple is all you need for all the apps you publish from your account in a year. However, the certificate must be uploaded every time you update your app, so we recommend you rename it and save it somewhere you'll know to look for it next time.&#x20;
 {% endhint %}
 
+{% hint style="info" %}
+When a certificate expires, it will not affect published apps, but you must create a new one and connect it to a new provisioning profile the next time you update a published app or publish a new app.&#x20;
+{% endhint %}
+
 {% hint style="warning" %}
-Although you need a different provisioning profile for each project, your certificate remains the same across all projects published with Thunkable. \
-\
-A certificate is specific to the email account that was used to create the certificate. I.E. If you are helping another Thunker publish their app, you would need to log in and publish from that users account using their certificate.&#x20;
+A certificate is specific to the email account that was used to generate it. Therefore, if you help another Creator publish their app, you must log in and publish from that Creator's account using their certificate.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
@@ -344,15 +347,19 @@ You're nearly done! You just need to ensure these app settings fields are comple
 * **Version Number:** The version number is visible to your users when they download a new version of your app. See here for additional information: [Set a Version Number](./#set-a-version-number).
 * **User Tracking Usage Description** - If your app utilizes one of the following features, you must provide user tracking usage details (UTUD): AdMob, Location Sensor, Push Notifications, or Web Viewer (but not if your Web Viewer component only accesses a local HTML file). See here for additional information: [Tracking Usage Description](./#tracking-usage-description).
 
-![](<../.gitbook/assets/publish iOS -  Upload an Icon and Enter your Version Number.png>)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/iOS Publishing Wizard - App info.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 When the necessary fields are populated, click **Submit**.&#x20;
 
 ### Congratulations
 
-You should shortly receive an email from Thunkable to let you know that your build is being sent to the App Store. There are still a number of steps that you need to complete on App Store Connect before your app can be published, but that's everything completed from the Thunkable side of things - congrats!
+You should shortly receive an email from Thunkable informing you that your build is being sent to the App Store. There are still a number of steps you need to complete on App Store Connect before your app can be published, but that's everything completed from the Thunkable side of things - congratulations!
 
-![](../.gitbook/assets/app\_sent.png)
+Because of Apple's thorough review process, app submissions are frequently not approved on the first attempt. See here to assist you in troubleshooting the issues Apple flags with your submission: [Troubleshooting](./#troubleshooting).
 
 ## Next Steps - App Store Connect
 
@@ -387,8 +394,6 @@ To view your build:
 10. Click **Save** in the upper right.
 
 ![](../.gitbook/assets/test\_flight.png)
-
-(If there are any issues, you’ll get an email from us telling you what you’ll need to fix.)
 
 ### iOS App - Prepare for Submission
 
@@ -494,9 +499,6 @@ For Step 6, _Upload your new build to App Store Connect,_ follow the instruction
 
 **You do not see your app uploaded to App Store Connect**
 
-* Download. One way to check if your app is build-able is to download it to your phone first. Two common download errors are:
-  * You uploaded an icon that has the same name as an existing asset that you have uploaded
-  * Your app icon is not an image file
 * Icons. Apple additionally does not allow you to have any icons with any transparent colors. We recommend app icons to be 192 x 192 px
 * Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
 * App Store Connect. Make sure to [follow this step](../publish.md#step-③--create-a-new-app-in-itunes-connect) on creating a new app on iTunes Connect

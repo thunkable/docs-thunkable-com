@@ -1,59 +1,64 @@
 # Generate Screenshots
 
-By adding app screenshots that showcase your app's features and functionality on its store listing page, you can help your app attract new users on the Apple App Store and Google Play. They are a requirement of the publishing process.&#x20;
+By adding app screenshots that showcase your app's features and functionality on its store listing page, you can help your app attract new users on the Apple App Store and Google Play Store. They are a requirement of the publishing process.&#x20;
 
 To generate app screenshots, the instructions vary depending on your Thunkable plan.
 
 1. [Business or Teams](generate-screenshots.md#business-or-teams-instructions)
-2. Pro, Starter, or Free
+2. [Pro, Starter, or Free](generate-screenshots.md#pro-starter-or-free)
 
 ## Business or Teams Instructions
 
-With the introduction of [responsive web apps,](publish-as-a-web-app-pro.md#responsive-web-app) you can now:
+To generate screenshots with a Business of Teams plan:
 
-* View your app on many different device screens
-* Create your own app screenshots for publishing your app
-
-You can now create all screenshots necessary with Thunkable!
-
-### **Preview Your App and Generate Screenshots**&#x20;
-
-1. Publish your app as a [responsive web app.](https://docs.thunkable.com/publish-as-a-web-app-pro#responsive-web-app)
+1. Publish your app as a responsive web app. See instructions here: [Responsive Web App](publish-as-a-web-app-pro.md#responsive-web-app)
 2. Copy the Web App URL link.
 3.  Open the link in Google Chrome.\
 
 
     <div align="left">
 
-    <img src=".gitbook/assets/1 (2) (1).png" alt="" width="563">
+    <img src=".gitbook/assets/Responsive Web App.png" alt="">
 
     </div>
-4. Click the **three stacked dots** in the upper right of your Chrome browser to access Chrome Settings.
+4. Click the **vertical ellipsis** in the upper right of your Chrome browser to access Chrome Settings.
 5. Click **More Tools**.
 6.  Click **Developer Tools** to view the app in developer mode**.**\
 
 
     <div align="left">
 
-    <img src=".gitbook/assets/2.jpeg" alt="" width="563">
+    <figure><img src=".gitbook/assets/Generate Screenshots  Developer Tools.png" alt=""><figcaption></figcaption></figure>
 
     </div>
-7.  In the top left-hand corner of the dock, click the icon that looks like a phone and a tablet standing next to each other**.**\
+7.  In the top left-hand corner of the developer tools, click the icon that looks like a laptop and a phone.\
 
 
     <div align="left">
 
-    <img src=".gitbook/assets/screen-shot-2020-06-19-at-11.10.32-pm.png" alt="">
+    <img src=".gitbook/assets/Generate Screenshot - responsive web app emulator (Chrome developer tools).png" alt="">
 
     </div>
-8.  Use the drop-down menus at the top of the screen to select different devices and screen orientations.\
+8.  Use the drop-down menu at the top of the screen to select different devices and screen orientations.\
 
 
-    ![](.gitbook/assets/7.png)
-9. Return to the top left-hand corner of your console dock.
-10. Click the three dots icon to open an actions menu.
-11. Click **Capture Screenshot**.
-12. Repeat for required devices.
+    <figure><img src=".gitbook/assets/Generate Screenshots - device menu.png" alt=""><figcaption></figcaption></figure>
+
+    {% hint style="warning" %}
+    Refresh your screen each time you select a new device to ensure the selection is applied to your responsive web app.
+    {% endhint %}
+9. If the device you need isn't listed, click **Edit...** at the bottom of the selection list and add additional devices as necessary.&#x20;
+10. Alternatively, if you know the device dimensions, select **Responsive** from the device menu and enter the dimensions manually.&#x20;
+11. To generate the screenshot, click the **vertical ellipsis** to the left of the developer's tools console. &#x20;
+12. Click **Capture screenshot**.\
+
+
+    <figure><img src=".gitbook/assets/Generate Screenshots - capture screenshot menu.png" alt=""><figcaption></figcaption></figure>
+13. Repeat for required devices.
+
+{% hint style="info" %}
+We recommend that you create a folder on your computer to save and organize all of the assets you will require for publishing your app.&#x20;
+{% endhint %}
 
 ## Pro, Starter, or Free
 
@@ -79,7 +84,7 @@ iPad Pro (12.9 inch screenshots - suitable for iPad Pro 3rd gen and iPad Pro 2nd
 
 #### Upload 5.8 inch screenshots in Media Manager
 
-When you look at your screenshot upload window, you will see the text ‘View All Sizes in Media Manager’. Click here. In the iOS tab, you will see a segment that says ‘6.5-inch display’. At the bottom of this segment you will see the text ‘5.8-inch display’. Next to this you will see a checkbox with the text ‘Use 6.5-inch Display’. Uncheck this box and expand the ‘5.8-inch Display’ segment. Click on ‘Choose File’, and upload your 5.8-inch screenshots.
+When you look at your screenshot upload window, you will see the text ‘View All Sizes in Media Manager’. Click here. In the iOS tab, you will see a segment that says ‘6.5-inch display’. At the bottom of this segment you will see the text ‘5.8-inch display’. Next to this, you will see a checkbox with the text ‘Use 6.5-inch Display’. Uncheck this box and expand the ‘5.8-inch Display’ segment. Click on ‘Choose File’, and upload your 5.8-inch screenshots.
 
 #### Resize 5.8 inch screenshots to 6.5 inch screenshots
 
