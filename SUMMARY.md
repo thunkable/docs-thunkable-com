@@ -120,7 +120,7 @@
 * [📥 Download](download.md)
 * [📤 Share](share-1.md)
 * [📱 Publish](publish.md)
-* [Publish to App Store (iOS)](publish-to-app-store-ios/README.md)
+* [Publish to the App Store (iOS)](publish-to-app-store-ios/README.md)
   * [TestFlight Overview](publish-to-app-store-ios/testflight-overview/README.md)
     * [TestFlight in Depth](publish-to-app-store-ios/testflight-overview/testflight-in-depth.md)
 * [Publish to Play Store (Android) with AAB](publish-to-play-store-android.md)
