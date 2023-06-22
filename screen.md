@@ -77,7 +77,7 @@ The status bar is located at the top of a phone's screen. The status bar display
 
 
 
-## Save and Resuse Screens
+## Save and Reuse Screens
 
 Thunkable allows you to reuse a screen, and its associated blocks, in multiple projects.&#x20;
 
