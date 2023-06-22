@@ -4,47 +4,53 @@ description: How to publish your Thunkable project in the Google Play Store
 
 # Publish to Play Store (Android) with AAB
 
-{% hint style="warning" %}
-From July 20, 2022 you must now [review how your app collects and shares user data](https://developer.android.com/guide/topics/data/collect-share) before publishing or updating in the Play Store.
-{% endhint %}
+Success on Google Play starts with quality. The best apps and games have higher ratings, more installs, and more engagement. We recommend visiting the [Play Store Developer Policy Center](https://play.google.com/about/developer-content-policy/#!?modal\_active=none) before you submit your app to the Play Store.
 
-Publishing your app to the Play Store will help your app reach 2 billion active Android devices. The ability to publish an Android app is available to PRO, Business and Enterprise Thunkable creators. Learn more at [our pricing page](https://thunkable.com/#/pricing).
+Publishing to the Google Play Store requires a Google Play Developer Account (approximately $25 USD one-time fee). Don't have an account? [Sign up here](https://play.google.com/apps/publish/signup/).
 
 {% hint style="info" %}
-All Android apps built with Thunkable are built with Android API 31 and target Android 12
+All Android apps built with Thunkable are built with Android API 31 and target Android 12.
 {% endhint %}
 
-## Minimum requirements
+## App Settings
 
-* Google Play Developer Account ($25 one-time fee). Don't have an account? [**Sign up here**](https://play.google.com/apps/publish/signup/)
+To publish your app on Android, you'll need to add of access the following in your Thunkable project's App Settings:
 
-{% hint style="info" %}
-Success on Google Play starts with quality. The best apps and games have higher ratings, more installs, and more engagement. We recommend visiting the [Play Store Developer Policy Center](https://play.google.com/about/developer-content-policy/#!?modal\_active=none) before you submit your app to the Play Store
-{% endhint %}
+* App Name - see here for best practices: [App Settings](project-settings.md)
+* Icon - see here for best practices: [App Settings](project-settings.md)
+* [Package Name](publish-to-play-store-android.md#package-name) (referred to as App (Bundle) ID in Thunkable)&#x20;
+* [Android Version](publish-to-play-store-android.md#android-version)
 
-## App info
+### Package Name
 
-To publish your app on Android, you'll need to add an `app icon`, a `name`, a `package name` and an app `version`. To find the App settings, click on the gear icon on the top left of the screen.
+Every new Thunkable project is automatically given a unique App (Bundle) ID. For the purposes of publishing to the Play Store, this is refered to as your app's **package name**. &#x20;
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.20.26-am.png)
+To locate your package name:
 
-For recommendations on your `app icon` and `name`, [please see this guide](project-settings.md).
+1. Open your Thunkable project.
+2. Navigate to the **Design tab**.
+3. Click the **Settings** gear icon in the sidebar.
+4.  Copy the content of the **App (Bundle) ID** field. This is your package name. \
+    \
 
-### The Package Name
 
-Each Android app that is published to the Play Store has a unique `package name`. Currently, you can enter this in the App (Bundle) ID field.
+    <div align="left">
 
-Your app's package name is unique to your app. We recommend reversing your domain name to create your package name i.e. _com.yourDomainName.yourAppName_ to avoid conflicts with other apps.
+    <figure><img src=".gitbook/assets/App Settings  App Bundle ID.png" alt="" width="351"><figcaption></figcaption></figure>
 
-You can find your package name in your Project Settings under `App (Bundle) ID.`
+    </div>
 
-Your package name should be all lower case. None of the segments should begin with a number. None of the segments should have an accent on the characters.
+You'll notice that Thunkable adheres to the following naming convention to avoid conflicts with other apps: com.yourDomainName.yourAppName. It is all lower case letters, none of the segments begin with a number, and there are no characteres with accents.
 
-### Build and Version Number
+### Android Version
 
-Before you download your app, make sure you set the appropriate Build and Version Number. Google Play requires each new version of your app to have a unique and sequentially higher Build and Version Number. You can also let Thunkable auto-increment (or automatically increase) the build and version numbers for you.
+Google Play requires each new version of your app to have a unique and sequentially higher Version Name and Version Code. You can let Thunkable auto-increment (or automatically increase) the version data for you.
 
-![](.gitbook/assets/screen-shot-2021-04-12-at-9.21.54-am.png)
+<div align="left">
+
+<figure><img src=".gitbook/assets/App Settings  Android Publishing Version.png" alt="" width="352"><figcaption></figcaption></figure>
+
+</div>
 
 ## Download your Android App Bundle (AAB) file
 
@@ -52,93 +58,87 @@ Before you download your app, make sure you set the appropriate Build and Versio
 An AAB file cannot be installed on an Android device. If you want to download and install your project, please read the [Download](download.md#download-android-app) docs.
 {% endhint %}
 
-You can download your AAB file by clicking the download icon and selecting **Publish Android**:&#x20;
+To download your Android App Bundle (AAB) file:
 
-![](.gitbook/assets/screen-shot-2021-06-03-at-12.05.02-pm.png)
+1. Within your Thunkable project, click the **Publish and Download** icon.
+2. Select **Publish Android** from the drop-down menu.\
+   \
+   ![](<.gitbook/assets/Publish Android.png>)\
+
+3. A publishing modal is provided to guide you through the publication process.&#x20;
+4. Enter the **email address** you want the app download link sent to.&#x20;
+5.  Click **Send**. \
 
 
+    <div align="left">
 
-You will see a dialog asking you to enter your email address.&#x20;
+    <figure><img src=".gitbook/assets/Android Publish - email.png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screen Shot 2022-09-23 at 1.21.44 PM.png" alt=""><figcaption></figcaption></figure>
-
-After you click Send, you will receive your AAB file in an email. This will take approximately 30 minutes.
+    </div>
+6. In approximately 30 minutes, you will receive your AAB file to the email address you provided.&#x20;
+7. When you receive the email, download the AAB file to your computer. Note: If you use Google Chrome, your browser settings may prevent you from downloading your AAB file. Simply open the email in Firefox or Safari to download your AAB file.
 
 ## Submit your app for review
 
-Go to the [Google Play Console](https://play.google.com/console/) to complete these next steps.
+### Create a new app on the Google Play Console
 
-### Create a new app on the Google Play Developer Console
+1. Sign-in to your [**Google Play Console**](https://play.google.com/console/) account.
+2. Click **Create app** in the upper right.
+3. Complete the requested **app details** fields. Note: The App Name is how your app will appear on Google Play.&#x20;
+4. Complete the required **declarations**.
+5. Click **Create app**.
 
-Click **Create app** in your Google Play console to get started.
+### App Dashboard
 
-![](.gitbook/assets/screen-shot-2021-06-04-at-7.04.26-am.png)
+While you're getting set up, the Google Play Console Dashboard shows you what you need to do to get your app up and running. This includes recommendations on how to manage, test, and promote your app. Once you've completed a task, return to the Google Play Console Dashboard to explore what else you need can do.
 
-You will be asked to provide some details about your app:
+We'll focus on the the following steps:
 
-* **App Name** (Text)
-* **Default Language** (Select from a drop-down menu)
-* If you're releasing an **App** or a **Game** (select one)
-* If your app is **Free** or **Paid** (select one)
+* Set up your app&#x20;
+* Publish Your app on Google Play
 
-![](.gitbook/assets/screen-shot-2021-06-04-at-7.05.14-am.png)
+### Set up your app
 
-You will also be asked to confirm that your app meets the **Google Play Developer Program Policies** and to accept that your app may be subject to **US export laws**.
+In this section, you'll share with Google the content of your app, and manage how it is organized and presented on Google Play.
 
-![](.gitbook/assets/screen-shot-2021-06-04-at-7.06.12-am.png)
+1. Click **View tasks** in the Set up your app section to see the tasks you must complete.&#x20;
+2. Click on a task.&#x20;
+3. Complete the required fields.
+4. Click **Save**.
+5. Click **Dashboard** above the task name in the upper left.
+6. Repeat with the remaining tasks in the list.
 
-Google offers optional steps to set up internal testing for your project. You can follow the steps to set this up. We will focus on the **Set Up Your app** and **Publish Your app on Google Play** steps.
+{% hint style="info" %}
+Apps that request access to sensitive permissions or data (as defined in the [user data policies](https://play.google.com/about/privacy-security-deception/user-data/)) are required by the Google Play Store to include a privacy policy. All apps made on Thunkable request access to sensitive permissions or data, which means you will need to provide a privacy policy.
+{% endhint %}
 
-### Set Up Your App
+### Main store listing
 
-Provide some information about your app's content.
+1. Click **Main store listing** under the Grow heading in the sidebar.
+2. Complete the required fields and upload the required assets. See here for additional guidance: [Add preview assets to showcase your app](https://support.google.com/googleplay/android-developer/answer/9866151).
+3. Click **Save**.
 
-![](.gitbook/assets/screen-shot-2021-06-04-at-7.54.04-am.png)
+### Create and publish a release
 
-* **App access**:  is any of your app's content locked behind a paywall or login screen?
-* **Ads**: does your app serve ads?
-* **Content rating**: Does your app contain strong language, violence, or other sensitive material?
-* **Target audience**: Is this app designed for children?
-* **News apps**: Is the function of your app to provide news updates to your users?
+1. Return to the Google Play Console **Dashboard**.
+2. Click **View tasks** in the Create and publish a release section to see the tasks you must complete.&#x20;
+3. Click the **Select countries** task.&#x20;
+4. Identify the countries you want your app to be available in.
+5. Click **Create a new release**.
+6. Upload the AAB file into the **App bundles** section. Instructions for downloading your AAB are available here: [Download your Android App Bundle (AAB) file](publish-to-play-store-android.md#download-your-android-app-bundle-aab-file).
+7. Add a **Release name** so you can identify this release. It isn't shown to users on Google Play.
+8. Add **Release notes**. Let users know what's in your release.
+9. Click **Next**.
 
-You can also add some information for how your app should be categorized and presented in the Play Store:
+### **Errors, warnings and messages**
 
-* Set an **App Category**, and add **Tags** to make your app more easily searchable
-* Add **Contact Details**: you must provide an email address, and you can also provide a phone number or website
-* Choose whether or not your app may be marketed outside of the Google Play store
+If there are any issues with your release or any information you should be aware of, you will be notified in the Errors, warnings and messages section.
 
-Setting up your Store Listing will require the following:
+* **Errors** will prevent you from publishing your release.&#x20;
+* **Warnings** will not prevent you from publishing a release.
+* **Messages** will not prevent you from publishing a release.
 
-* An **App Name** to be shown the Play Store
-* A **Short Description** of your app
-* A **Full Description** of your app
-* An **App Icon**&#x20;
-  * 512 \* 512 pixels
-  * Up to 1MB in size
-* A **Feature Graphic**
-  * 1024 \* 500 pixels
-  * Up to 1MB in size
-* An optional YouTube **Video** URL to demonstrate your app
-* At least one **Phone Screenshot**
-  * 16:9 or 9:16 aspect ratio
-  * Each side between 320 and 3,840 pixels
-  * Up to 8MB in size
-* At least one **Tablet Screenshot**
-  * 16:9 or 9:16 aspect ratio
-  * Each side between 320 and 3,840 pixels
-  * Up to 8MB in size
-
-All images can be in PNG or JPEG format.
-
-See [Sample Assets](publish-to-play-store-android.md#sample-assets) at the end of this document for examples.
-
-### Publish Your App on Google Play
-
-![](<.gitbook/assets/publish (2).png>)
-
-You will be asked which **countries and regions** you want your app to be available in.
-
-Then you will be asked to **create a new release**.
+Once you have addressed the necessary issues, click **Next**.
 
 #### Prepare
 
@@ -148,33 +148,13 @@ Google will offer to protect your app signing key. You can click **Continue** to
 
 See [Manage Your Own App Signing](publish-to-play-store-android.md#manage-your-own-app-signing) below if you do not want Google to manage your app signing.&#x20;
 
-### Upload your AAB file
 
-![](.gitbook/assets/preview-release-2.png)
-
-Upload your AAB file in the **App Bundles and APKs** section. This may take a few minutes.
-
-Add a **Release Name** and **Release Notes** in the **Release Details** section.
-
-**Review and Release**
-
-**Errors, Warnings, and Messages** will let you know if there are any issues with your release or any information you should be aware of. **Errors** will prevent you from publishing your release. **Warnings** and **Messages** will not prevent you from publishing a release.
 
 **New App Bundles and APKs** will show any new APK or AAB files you have added to this release.
-
-**Release Notes** will show the release notes for this release.
 
 Click **Start Rollout to Production** to publish your app!
 
 Once your app has been reviewed, it will go live on the Google Play Store.
-
-### Add a privacy policy
-
-{% hint style="info" %}
-Apps that request access to sensitive permissions or data (as defined in the [user data policies](https://play.google.com/about/privacy-security-deception/user-data/)) are required by the Google Play Store to include a privacy policy. Currently all apps made on Thunkable request access to sensitive permissions or data, which means you will need to provide a privacy policy
-{% endhint %}
-
-**Congrats! You are now ready to submit to the Play Store.**
 
 ## **Updating an existing app on the Play Store**
 
