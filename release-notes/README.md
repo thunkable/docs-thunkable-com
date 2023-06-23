@@ -4,6 +4,19 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## June 20, 2023
+
+Platform Updates
+
+* Drag-and-Drop UI: UI update for drop-down menus
+* Add T hotkey to toggle between Design and Blocks tabs in Thunkable projects
+
+Component Updates
+
+* [screen.md](../screen.md "mention"): Add option to [Account Features](https://x.thunkable.com/account/features) to show placeholder images for non-active screens in project as it's being edited to improve load time
+* [sound.md](../sound.md "mention"): Fix bug where recorded sounds played back quietly on iOS
+* [layout.md](../layout.md "mention"): Allow custom Layouts to be used as Data Viewer layouts
+
 ## June 14, 2023
 
 Platform Updates
