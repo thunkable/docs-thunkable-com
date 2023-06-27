@@ -1,105 +1,18 @@
 ---
-description: Preview your Thunkable project with our Thunkable Live app, or on the Web
+description: >-
+  Preview and test your Thunkable project with the Thunkable Live app or Web
+  Preview.
 ---
 
-# Live Test your App
+# Preview and Test your App
 
-**What is the Thunkable Live App?**
+## Overview
 
-The Thunkable Live app connects the projects in your web browser directly to your mobile device. It allows you to do two things:
+There are two ways to test and preview your Thunkable app: Web Preview in your computer's browser or on your mobile device with the Thunkable Live app. These tools aren't designed to check for errors, but to allow you to preview your app's design and test its functionality in real time.
 
-1. You can [**Live Test**](live-test.md#live-test) your project. Any changes you make in your browser are displayed on your device immediately.&#x20;
-2. You can [**Live Preview**](live-test.md#live-preview) any of your projects, directly on your device, without the need to be logged in to your computer.
+## Web Preview
 
-## **Download the Thunkable Live App**
-
-The Thunkable Live app allows you to preview and live test your app on your mobile device, in real-time, while you are building it. Not even the most seasoned developers have this superpower.&#x20;
-
-Links to download Thunkable Live on your mobile device are available here: [https://thunkable.com/#/mobile](https://thunkable.com/#/mobile)
-
-If you don't have an iOS or Android device, you can also [set up an emulator](emulators.md) on your computer that will mimic what you would see on an actual device.‌
-
-With Thunkable Live installed on your device, you are now ready to live test or preview.‌
-
-## **Live Test**
-
-While live testing, any changes that you make to your project should be reflected in your app. Bear in mind that the Thunkable Live app doesn't check your project for errors. Some changes that you make may crash the app. If this happens simply exit out of the app and re-open it.
-
-### **Getting started**
-
-From any of your Thunkable projects, click on the **Live Test on Device** button at the top of the screen to begin live testing.
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/Thunkable Live.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
-
-‌The next pop-up you see depends on if you are [signed in with Google](live-test.md#if-you-are-signed-in-with-google) or if you have [signed in by email](live-test.md#if-you-are-signed-in-by-email).‌
-
-### **If you are signed in with Google:**
-
-Clicking on the Live Test on Device button will remind you to open Thunkable Live on your device.
-
-![](.gitbook/assets/lt\_gmail.png)
-
-Sign in with the same Google account in Thunkable Live to preview your projects directly on your device.
-
-### **If you are signed in by Email:**
-
-When you click the Live Test button you will be prompted to enter a code into your computer.
-
-![](.gitbook/assets/lt\_email.png)
-
-To find this code, open Thunkable Live on your device and click **Email sign in - Generate Test Code.**
-
-<div align="left">
-
-<img src=".gitbook/assets/img_1315.png" alt="" width="188">
-
-</div>
-
-Enter this code into the first prompt and you will be able to live test your app.
-
-<div align="left">
-
-<figure><img src=".gitbook/assets/Thunkable Live - part 2.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
-
-## **Live Preview**
-
-For the first time, you can live preview all your app projects from the comfort of your mobile device. Simply login and you should see a list of all your projects on your Thunkable Live app.
-
-<div align="left">
-
-<img src=".gitbook/assets/live-preview-fig-1 (1).gif" alt="">
-
-</div>
-
-## Troubleshooting
-
-Common issues with the Thunkable Live app
-
-### **You see a blank / white screen when you live test (even if there are items in your app)**
-
-* If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
-* Your have unconnected blocks
-* You have an event triggered by a Screen.Start which may be causing the screen to crash
-* Your app and desktop may not be logged into the same account
-
-### **App is crashing because of a bug on our end; we are trying to fix it as soon as we can**
-
-* (Android only) You are trying to set the value of a Slider in your blocks&#x20;
-* (Android only) You are trying to set the latitude and longitude of a Map in your blocks
-
-### **Image is not showing up on your phone**
-
-* The height or width of the image may be set to 'Fit contents'
-
-## Preview your App on the Web
-
-Preview on the Web allows you to live preview your own project directly from your browser. Simply click on "Live Test" to preview your own app in a pop-up window. &#x20;
+You can test and preview your project directly within your browser. This is a great option when designing your app's user interface and building out the app's functionality with blocks.
 
 <div align="left">
 
@@ -113,12 +26,80 @@ Preview on the Web allows you to live preview your own project directly from you
 
 </div>
 
-You can click the **Preview in a New Window** text to preview your app in a new browser tab:
+It is important to note, however, that Web Preview does not support some app features. This is because some app features require functionality only available on a mobile device, such as push notifications, accelerometer, and Bluetooth low energy. For a full list of features that cannot be tested with Web Preview, please see here: [Publish as a Web App](publish-as-a-web-app-pro.md#unsupported-components).
 
-You can also preview any _public_ app, directly from the Project Detail Page.&#x20;
+You can also preview any public app, directly from the app's Project Detail Page.&#x20;
 
 ![](<.gitbook/assets/Project Detail Page.png>)
 
-### Unsupported Components
+## **Thunkable Live App**
 
-Not all components are supported on the web at this time, so please see the list of unsupported components in the [Publish as a Web App](publish-as-a-web-app-pro.md#unsupported-components) document.
+The Thunkable Live app connects the projects in your web browser to your mobile device. It allows you to preview and test your projects directly on your device. Any changes you make in your browser are displayed on your device immediately. You can also take your project on the go and show it off with the Thunkable Live app.
+
+Links to download Thunkable Live on your mobile device are available here: [https://thunkable.com/#/mobile](https://thunkable.com/#/mobile)
+
+### **Download the Thunkable Live App**
+
+Links to download Thunkable Live for Android and iOS are available here: [https://thunkable.com/#/mobile](https://thunkable.com/#/mobile)
+
+If you don't have an iOS or Android device, you can also [set up an emulator](emulators.md) on your computer that mimics what you would see on an actual device.‌
+
+### **Testing and Previewing with Thunkable Live**
+
+1. Open your project in your web browser.
+2.  Click the **Live Test on Device** icon.\
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/Thunkable Live.png" alt="" width="375"><figcaption></figcaption></figure>
+
+    </div>
+3. If you're **signed in to Thunkable with Google**:
+   1. Open the **Thunkable Live** app on your device.
+   2. &#x20;Sign in with the same **Google** **account**.&#x20;
+4. If you're **signed in to Thunkable with email**:
+   1. Click **Enter my code**.
+   2. Open the Thunkable Live app on your device.
+   3.  Click **Email sign in - Generate test code.**\
+
+
+       <div align="left">
+
+       <img src=".gitbook/assets/img_1315.png" alt="" width="188">
+
+       </div>
+   4.  A test code is displayed on your device screen. Enter it into the provided field on your web browser. \
+
+
+       <div align="left">
+
+       <figure><img src=".gitbook/assets/Thunkable Live - part 2.png" alt="" width="375"><figcaption></figcaption></figure>
+
+       </div>
+   5. Click **Connect**.
+5.  Select the app you want to open from your list of Thunkable projects.\
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/IMG_9155.PNG" alt="" width="188"><figcaption></figcaption></figure>
+
+    </div>
+
+## Troubleshooting
+
+#### **If you see a blank or white screen when you live test an app with UI components...**
+
+* If you have added a navigator to your app, ensure screens are nested underneath it in the component tree. If your screens are not nested, drag and drop to nest them within the navigator.
+* Ensure your blocks are connected without errors.
+* Ensure you're logged into the same account on your web browser and the Thunkable Live app.&#x20;
+* You have an event triggered by a Screen.Start which may be causing the screen to crash
+
+#### **If changes that you make cause the app to crash...**
+
+* Close the app and reopen it.&#x20;
+
+#### **If an image is not showing up on your device...**
+
+* You may have the image's height or width set to `Fit contents`. Try changing this and try again.

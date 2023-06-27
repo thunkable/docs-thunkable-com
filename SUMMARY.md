@@ -3,7 +3,7 @@
 * [👋 Welcome to Thunkable Docs](README.md)
 * [👶 Getting Started](get-started.md)
 * [Signing In](signing-in.md)
-* [Live Test your App](live-test.md)
+* [Preview and Test your App](live-test.md)
 * [Your Thunkable Projects Page](your-thunkable-projects-page.md)
 * [🆕 Create New Project](projects.md)
 * [App Settings](project-settings.md)
