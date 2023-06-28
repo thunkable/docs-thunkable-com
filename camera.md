@@ -74,6 +74,8 @@ Opens user camera, films from selected camera for chosen amount of time, returns
 
 ## Image Recognition
 
+{% embed url="https://youtu.be/tH4k9sXgzFY" %}
+
 This block will generate a description of a given image. This block requires internet access.
 
 This component is powered by [Microsoft Azure](https://blogs.microsoft.com/ai/azure-image-captioning/). You can get your own server URL and subscription key for Microsoft Azure [here](https://azure.microsoft.com/en-us/free/). You can add these details to your app in the [Project Settings panel](project-settings.md#api-keys), which you can access by clicking on your app icon.
