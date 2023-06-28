@@ -4,7 +4,9 @@
 
 ## Testing Apps with TestFlight
 
-Help developers test beta versions of their apps and App Clips using the TestFlight app. Download TestFlight on the App Store for iPhone, iPad, Mac, and Apple TV.
+Apple's TestFlight app makes it easy to invite users to test your apps and collect valuable feedback before releasing them on the App Store. You can invite up to 100 internal testers per app, and each can test on up to 30 devices. You can also invite up to 10,000 external testers using their email address or sharing a public link.
+
+Download the TestFlight app on the App Store for iPhone, iPad, Mac, and Apple TV.
 
 ### Getting started <a href="#getting-started" id="getting-started"></a>
 

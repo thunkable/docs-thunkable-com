@@ -487,7 +487,34 @@ The app will still be able to be published, but you will want to check the **fol
 * [x] Attribute an action taken within this app to a previously served advertisement
 * [x] I, YOUR\_NAME, confirm that this app, and any third party…
 
-Note, you should **not** check the box labeled **Serve advertisements within the app**.
+Note, you should **not** check the box labelled **Serve advertisements within the app**.
+
+## Adding Push Notifications
+
+To publish an app to the App Store that contains Push Notifications, you need to:
+
+1. Send an app that does **not** contain Push Notifications to App Store Connect. Follow the iOS publishing instructions above.
+2. Add Push Notifications to your app project. Instructions are available here: [Push Notifications by OneSignal: iOS Configuration](../push-notifications-by-one-signal.md#ios-configuration).
+3. Create a new .mobileprovision file.&#x20;
+4. Send the new version of your app to App Store Connect. Follow the iOS publishing instructions above.
+
+Between sending these two versions of your app to App Store Connect, you will need to create a new **.mobileprovision** file. Here's a quick overview of what that process looks like.
+
+Click on _Provisioning Profiles > All_ to see your current iOS provisioning profiles. Notice that the app you just created is now **invalid** so we need to generate a new one.
+
+![](../.gitbook/assets/inactive.png)
+
+Open the inactive profile and click on **Edit** to generate a new one.
+
+![](../.gitbook/assets/edit.png)
+
+Scroll to the bottom of the page and click **Generate.**
+
+![](../.gitbook/assets/generate.png)
+
+On the next screen, click the **Download** button and the .mobileprovision file will be saved to your downloads folder.
+
+![](../.gitbook/assets/download.png)
 
 ## Update Your App
 
@@ -512,34 +539,6 @@ For Step 6, _Upload your new build to App Store Connect,_ follow the instruction
   * Has at least two segments \[one or more dots].
   * Each segment must start with a letter.
   * All characters must be alphanumeric or an underscore \[a-z, A-Z, 0-9, or \_].
-
-## Adding Push Notifications
-
-To publish an app to the App Store that contains Push Notifications, you need to:
-
-* send an app that does not contain Push Notifications to App Store Connect
-* add push notifications to your app project ([see instructions here](../push-notifications-by-one-signal.md#ios-setup))
-* send the new version of your app to App Store Connect
-
-Between sending these two versions of your app to App Store Connect, you will need to create a new **.mobileprovision** file. Here's a quick overview of what that process looks like.
-
-Click on _Provisioning Profiles > All_ to see your current iOS provisioning profiles. Notice that the app you just created is now **invalid** so we need to generate a new one.
-
-![](../.gitbook/assets/inactive.png)
-
-Open the inactive profile and click on **Edit** to generate a new one.
-
-![](../.gitbook/assets/edit.png)
-
-Scroll to the bottom of the page and click **Generate.**
-
-![](../.gitbook/assets/generate.png)
-
-On the next screen, click the **Download** button and the .mobileprovision file will be saved to your downloads folder.
-
-![](../.gitbook/assets/download.png)
-
-&#x20;
 
 ## Remove your app from the App Store
 

@@ -8,9 +8,35 @@ Success on Google Play starts with quality. The best apps and games have higher 
 
 Publishing to the Google Play Store requires a Google Play Developer Account (approximately $25 USD one-time fee). Don't have an account? [Sign up here](https://play.google.com/apps/publish/signup/).
 
-{% hint style="info" %}
+{% hint style="success" %}
 All Android apps built with Thunkable are built with Android API 31 and target Android 12.
 {% endhint %}
+
+## AAB vs APK
+
+When you download an app from Thunkable you receive an email with an **APK file** that you download directly to your Android device.
+
+When you publish an Android app you receive an email with an **AAB file** for you to upload to the Google Play Store.&#x20;
+
+## Required Assets
+
+We recommend you compile the following assets before embarking on the publishing journey.
+
+* **App Information**
+  * \[Text] App Name\
+    To be shown in the Play Store.
+  * \[Text] A Short Description of your app
+  * \[Text] A Full Description of your app
+* **App Icon**
+  * \[Image] 512 x 512 pixels
+  * Up to 1MB in size
+* **Feature Graphic**
+  * \[Image] 1024 x 500 pixels
+  * Up to 1MB in size
+* **Phone Screenshots**
+  * \[Images] 16:9 or 9:16 aspect ratio
+  * Each side between 320 and 3,840 pixels
+  * Up to 8MB in size
 
 ## App Settings
 
@@ -53,6 +79,8 @@ Google Play requires each new version of your app to have a unique and sequentia
 </div>
 
 ## Download your Android App Bundle (AAB) file
+
+The Apple and Android publishing processes are quite different. To publish with Apple, you complete the process in the Thunkable publishing wizard and the app file is sent directly to your Apple TestFlight. To publish with Android, you receive an email from Thunkable with your app's AAB file, which you download and then upload to the Google Play Store.
 
 {% hint style="warning" %}
 An AAB file cannot be installed on an Android device. If you want to download and install your project, please read the [Download](download.md#download-android-app) docs.
@@ -150,8 +178,6 @@ See [Manage Your Own App Signing](publish-to-play-store-android.md#manage-your-o
 
 
 
-**New App Bundles and APKs** will show any new APK or AAB files you have added to this release.
-
 Click **Start Rollout to Production** to publish your app!
 
 Once your app has been reviewed, it will go live on the Google Play Store.
@@ -168,20 +194,24 @@ If you are updating an existing app on the Google Play Store, your Thunkable pro
 
 You will need need to change any app signing settings when updating a published app.
 
-### The Keystore / Private Key
+### The Keystore / Signing Key
 
-Keystores in Android are storage mechanisms for security certificates to prevent others from updating your app on the Google Play store. Your keystore contains a private key that is unique to your app. Copied apps within an account (using the [Make Copy](make-copy.md)) will keep the same keystore as the original app. Apps that are copied from a [Share copy](share-1.md) link will not have the same keystore.
+Keystores in Android are storage mechanisms for security certificates to prevent others from updating your app on the Google Play store. Your keystore contains a private key that is unique to your app.&#x20;
+
+Duplicated apps within an account ([Duplicate Your Project](make-copy.md)) maintain the same keystore as the original app. Apps copied from a [Share](share-1.md) link do not have the same keystore.
 
 {% hint style="danger" %}
-Thunkable does not store your keystore outside of your app. If your app has been deleted, and you have not downloaded a copy of your keystore, then it is permanently lost. Please use [Google's App Signing Service ](https://support.google.com/googleplay/android-developer/answer/7384423?hl=en)so that you can update your published apps in the event that your keystore is lost.
+You must save your Android keystore and password somewhere safe. Google will not provide it for you if you lose it.
 {% endhint %}
+
+If your app was deleted, and you have not downloaded a copy of your keystore, it is permanently lost. We strongly recommend you use [Google's App Signing Service ](https://support.google.com/googleplay/android-developer/answer/7384423?hl=en)so that you can update your published apps if your keystore is lost.
 
 ### Exporting / importing a keystore to your app
 
-#### Export keystore from a Thunkable Project
+#### Export keystore from a Thunkable project
 
 {% hint style="info" %}
-A Thunkable project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time
+A Thunkable project will not have a keystore until either a keystore is imported **or** the project is downloaded as an Android app for the first time.
 {% endhint %}
 
 If you make a copy of a Thunkable project, the copy will have a different keystore to the original project.&#x20;
@@ -247,11 +277,17 @@ Removing your app from the Play Store will not delete it from devices which have
 
 ### Phone/Tablet Screenshots
 
+<div align="left">
 
+<img src=".gitbook/assets/thunkable-background-image-1080-x-1920-px-11.png" alt="" width="375">
 
-![](.gitbook/assets/thunkable-background-image-1080-x-1920-px-11.png)
+</div>
 
-![App screenshots](<.gitbook/assets/thunkable-background-image-1080-x-1920-px-12 (1).png>)
+<div align="left">
+
+<img src=".gitbook/assets/thunkable-background-image-1080-x-1920-px-12 (1).png" alt="" width="375">
+
+</div>
 
 ## Manage Your Own App Signing
 
@@ -265,12 +301,14 @@ You will need to download your Keystore Zip. This is a compressed version of you
 
 You can download this from your project settings under **Keystore Zip**:
 
-![](.gitbook/assets/top\_keystore.png)
+<div align="left">
 
+<img src=".gitbook/assets/top_keystore.png" alt="">
 
+</div>
 
 {% hint style="info" %}
-We recommend creating a new folder on your computer. Download your AAB file and your Keystore Zip to this new folder. That way the correct AAB file and Keystore Zip will be together!
+We recommend creating a new folder on your computer. Download your AAB file and your Keystore Zip to this new folder. That way, the correct AAB file and Keystore Zip will be together.
 {% endhint %}
 
 ### In the Play Store:

@@ -1,5 +1,7 @@
 # TestFlight Overview
 
+Apple's TestFlight app makes it easy to invite users to test your apps and collect valuable feedback before releasing them on the App Store. You can invite up to 100 internal testers per app, and each can test on up to 30 devices. You can also invite up to 10,000 external testers using their email address or sharing a public link.
+
 ### Step 1: Enter your test information
 
 [Enter test information](https://help.apple.com/app-store-connect/#/deva50a6ab41) about your app, such as a description and feedback email. You will need this if you plan to distribute your build to [external testers](https://help.apple.com/app-store-connect/#/deved4d898a5) (i.e. users outside your company or team).
@@ -14,7 +16,7 @@ You can [create groups](https://help.apple.com/app-store-connect/#/dev839fb66e9?
 
 ### Step 4: Testers download TestFlight and accept your invitations
 
-Testers install the free [TestFlight](https://help.apple.com/app-store-connect/#/devf00dd882d) app on their devices. Then they use their invitation email or a public link to accept invitations, install your app, send feedback, and get updates. Testers download and install thinned variants of your app.
+You invite users to a testing group and your app. Testers install the free [TestFlight](https://help.apple.com/app-store-connect/#/devf00dd882d) app on their devices. Then they use their invitation email or a public link to accept invitations, install your app, send feedback, and get updates. Testers download and install thinned variants of your app.
 
 ### Step 5: View tester and build information
 
