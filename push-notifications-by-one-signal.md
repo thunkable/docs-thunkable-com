@@ -1,186 +1,144 @@
-# Push Notifications by One Signal
+# Push Notifications by OneSignal
 
-## Push Notifications Overview
+## Overview
 
-<div align="left">
+Push notifications are one of the biggest advantages of mobile apps over mobile websites since they can send messages to users without the app being open.&#x20;
 
-<img src=".gitbook/assets/onesignaldemo.png" alt="One Signal is the world leader n push notifications and they offer their service for free. ">
+However, notifications that are irrelevant and too frequent are often dismissed or blocked.  We highly recommend sending notifications only when the content is relevant to the user. Examples include an e-commerce app letting the user know about a sale, or a game app letting the user know about a new level or feature.
 
-</div>
-
-Push notifications are one of the biggest advantages that mobile apps have over  mobile websites, since they can send messages to users without the app being open.&#x20;
-
-However, annoying notifications---those that are irrelevant and too frequent---can be dismissed or blocked easily.  We highly recommend sending notifications only when the content is relevant to the user. Examples include an e-commerce app letting the end user know about a sale, or a game app letting the user know about a new level or feature.
+Thunkable utilizes the services of [OneSignal](https://onesignal.com/) to facilitate push notifications from your app. OneSignal is a free service that supports unlimited devices and notifications. You can learn more about their features here: [OneSignal pricing page](https://onesignal.com/pricing).
 
 {% hint style="info" %}
-**Push Notifications are a**  <img src=".gitbook/assets/pro.png" alt="" data-size="line"> **component.** While all Thunkers can add Push Notifications to their app projects and live test them in their apps (Android only), only Thunkers with PRO, Business or Enterprise accounts can download and publish apps with Push Notifications. See our [pricing page](https://thunkable.com/#/pricing) for more details.
+**Push Notifications are available on Thunkable Pro, Business, and Team plans.** While all Creators can add Push Notifications to their projects and live test them in their Android apps, only Creators on the previously mentioned plans can download and publish apps with Push Notifications. See our [pricing page](https://thunkable.com/#/pricing) for more details.
 {% endhint %}
 
-## Adding a Push Notifications component to your app
+## Add Push Notifications to your app
 
-To add or edit a Push Notifications component to your app :
+To add Push Notifications to your app :
 
-* Go to your Blocks tab
-* Click the ⚙ icon next to the `Push Notifications` drawer
+1. Navigate to your project's **Blocks tab**.
+2. Locate **Push Notification** under the App Features heading.
+3.  Click the **gear icon** next to Push Notification.\
 
-![](.gitbook/assets/push-notifications.png)
 
-You will see a dialog with options to enter an [Android app ID](push-notifications-by-one-signal.md#android-setup) or an [iOS app ID](push-notifications-by-one-signal.md#ios-setup) for your Push Notifications component. You can learn how to get these IDs in the rest of this document.
+    <div align="left">
 
-![](<.gitbook/assets/Screen Shot 2022-01-24 at 10.03.50 AM.png>)
+    <img src=".gitbook/assets/push-notifications.png" alt="">
 
-## Properties
+    </div>
+4.  The Push Notification settings modal opens. This is where you will enter your OneSignal Android App ID and OneSignal iOS App ID to configure the connection between OneSignal and your Thunkable project. \
 
-<table><thead><tr><th width="250.78823998915988" align="center">Property Name</th><th width="319.6037233730376">Description</th><th>Data Type</th></tr></thead><tbody><tr><td align="center">Android App ID</td><td>App ID from One Signal for Android devices</td><td>Text</td></tr><tr><td align="center">iOS App ID</td><td>App ID from One Signal for iOS devices</td><td>Text</td></tr><tr><td align="center">Geolocation Permissions</td><td>Toggle whether to show your end users a request to share their location with OneSignal</td><td>True/False</td></tr></tbody></table>
 
-### Geolocation Permissions
+    <div align="left">
 
-OneSignal allows you to push messages to users in certain locations. You will need permission from your end users to register their location to use this feature. \
-You can toggle whether you request geolocation permissions from your end users in the Push Notifications settings panel.
+    <img src=".gitbook/assets/push notifications modal in Thunkable.png" alt="" width="563">
 
-## Sign up with One Signal
+    </div>
 
-One Signal is a free service that supports unlimited devices and notifications. You can learn more about their features on the OneSignal [pricing page](https://onesignal.com/pricing)
+    {% hint style="info" %}
+    **Geolocation Permissions** - OneSignal allows you to push messages to users based on their location. In order to do that, you need permission from your users to register their location. Use the toggle in the Push Notification settings to indicate whether you want to request users share their location with OneSignal.
+    {% endhint %}
 
-* Go to [One Signal](https://onesignal.com/) and sign up for an account
 
-![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.54.53 PM.png>)
+5. The remainder of this document will assist you with:
+   1. [Creating a OneSignal Account](push-notifications-by-one-signal.md#create-a-onesignal-account)
+   2. [Creating a OneSignal App](push-notifications-by-one-signal.md#create-a-onesignal-app)
+   3. [Configuring for Android](push-notifications-by-one-signal.md#android-configuration)
+   4. [Configuring for iOS](push-notifications-by-one-signal.md#ios-configuration)
 
-After you have signed up, click Add App:
+## Create a OneSignal Account
 
-![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.56.19 PM.png>)
+1. Go to [**OneSignal**](https://onesignal.com/).
+2. Click **Sign Up**.
+3. Create your account and complete the OneSignal onboarding.
 
-Enter your app name, then proceed with [setting up for Android](push-notifications-by-one-signal.md#android-setup) or [setting up for iOS](push-notifications-by-one-signal.md#ios-setup):
+## Create a OneSignal App
 
-![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.58.03 PM.png>)
+1.  If you didn't create an app as part of the OneSignal onboarding, navigate to your OneSignal dashboard and click **+ New App/Website**.\
 
-After adding your app, OneSignal will ask you to select a platform. Below, we have created guides for both Android and iOS.
 
-## Android Setup
+    ![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.56.19 PM.png>)
 
-{% tabs %}
-{% tab title="1. Select Platform" %}
-After you have added an app and given it a name, select the Google Android option.
 
-![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.58.03 PM.png>)
 
-Click `Next: Configure Your Platform`
-{% endtab %}
+    {% hint style="info" %}
+    If you intend to send push notifications to your app's users on Android and iOS you will need to create a new app in OneSignal for each, Android and iOS.
+    {% endhint %}
+2. Enter your **app name**. We recommend including the platform in your app name, for example, Employee Directory - Android or Employee Directory - iOS.&#x20;
+3.  Select **Apple iOS (APNs)** or **Google Android (FCM)**.\
 
-{% tab title="2. Configure Platform" %}
-For this next step, you will need a [Firebase](https://firebase.google.com/) account.&#x20;
 
-For instructions on how to set up a Firebase account, please click [here](sign-in.md#getting-started).
+    ![](<.gitbook/assets/Screen Shot 2022-02-16 at 11.58.03 PM.png>)
+4. Click **Next: Configure Your Platform**.
+5. Follow the platform-specific configuration instructions below.
+   1. [Android Configuration](push-notifications-by-one-signal.md#android-configuration)
+   2. [iOS Configuration](push-notifications-by-one-signal.md#ios-configuration)
 
-Open a Firebase project to tie your Push Notifications to.
+## Android Configuration
 
-Click on the gear icon beside Project Overview and select **Project settings**.
+1. If you don't already have one, create a [**Firebase**](https://firebase.google.com/) account. Instructions for getting started with Firebase are available here: [Firebase Account Setup](https://docs.thunkable.com/sign-in#getting-started).
+2. Follow OneSignal's instructions to generate a Firebase Server API key for sending Android App Notifications here: [Android: Firebase Credentials](https://documentation.onesignal.com/docs/generate-a-google-server-api-key).
+3. In OneSignal, select **Native Android** as your target SDK.
+4.  Click **Save & Continue**.\
 
-![](<.gitbook/assets/image (218).png>)
 
-Go to the `Cloud Messaging` tab and get your Server Key and Sender ID:
+    <div align="left">
 
-![](.gitbook/assets/fbclm.png)
+    <img src=".gitbook/assets/Screen Shot 2022-02-17 at 12.13.24 AM.png" alt="">
 
-Go back to the **One Signal** platform.
+    </div>
+5.  Copy **Your App ID**.\
 
-![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.10.21 AM.png>)
 
-Copy and paste the Firebase Server Key and the Firebase Sender ID sections into One Signal.
+    ![](.gitbook/assets/app-id.png)
+6. Return to the Blocks tab of your Thunkable project. Do not close the OneSignal tab.&#x20;
+7. Click the **gear icon** next to Push Notification.
+8. In the **Android App ID** field, paste **Your App ID** that you copied from OneSignal in step 5.&#x20;
+9.  Click **Submit**.\
 
-Click `Save & Continue`
-{% endtab %}
 
-{% tab title="3. Select SDK" %}
-The last thing you need to do in OneSignal is choose your target SDK. Select **Native Android** and click `Save & Continue.`
+    <div align="left">
 
-![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.13.24 AM.png>)
-{% endtab %}
+    <img src=".gitbook/assets/push notifications modal in Thunkable.png" alt="" width="563">
 
-{% tab title="4. Install SDK" %}
+    </div>
+10. Click the **Live Test on Device** icon and open the Thunkable Live app on your device.
+11. Return to your **OneSignal** tab.&#x20;
+12. Click **Check Subscribed Users.**\
 
 
-Copy the alpha numeric code that OneSignal generates called **Your App ID** in the image below.
+    <figure><img src=".gitbook/assets/OneSignal - Check Subscribed Users.png" alt=""><figcaption></figcaption></figure>
+13. If the configuration was successful, you will see a congratulations message.
+14. Click **Done**.&#x20;
+15. To send push notifications to your app's Android users, see this section: [Send Push Notifications](push-notifications-by-one-signal.md#send-push-notifications).
 
-![](.gitbook/assets/app-id.png)
+## &#x20;iOS Configuration
 
-On Thunkable, open the Push Notifications dialog and paste this ID into the Android App ID field.
+1. Follow OneSignal's instructions to generate a p8 certificate: [iOS: p8 Token-Based Connection to APNs](https://documentation.onesignal.com/docs/establishing-an-apns-authentication-key).
+2. In OneSignal, select **Native iOS** as your target SDK.
+3.  Click **Save & Continue**.\
 
-![](<.gitbook/assets/image (216) (1) (1).png>)
 
-Click the Live Test button. Once the app is on your phone, go back to One Signal.&#x20;
+    <figure><img src=".gitbook/assets/OneSignal - Native iOS SDK.png" alt=""><figcaption></figcaption></figure>
+4.  Copy **Your App ID**.\
 
-Click the "Check Subscribed Users" button.
 
-If you are live testing or have downloaded your Android app, you should see a congratulations message. Click "DONE".
+    <figure><img src=".gitbook/assets/OneSignal - Apple iOS - Your App ID.png" alt=""><figcaption></figcaption></figure>
+5. Return to the Blocks tab of your Thunkable project. Do not close the OneSignal tab.&#x20;
+6. Click the **gear icon** next to Push Notification.
+7. In the **iOS App ID** field, paste **Your App ID** that you copied from OneSignal in step 4.&#x20;
+8.  Click **Submit**.\
 
-Select the "Messages" option and then select "New Push". You will now be able to create push notifications and send them to your app users.
 
-![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.19.57 AM.png>)
-{% endtab %}
-{% endtabs %}
+    <div align="left">
 
-## &#x20;iOS Setup
+    <figure><img src=".gitbook/assets/push notifications modal in Thunkable.png" alt="" width="563"><figcaption></figcaption></figure>
 
-{% tabs %}
-{% tab title="1. Select Platform" %}
-Get started by creating a new app. You need to do this even if your Thunkable project is intended for both iOS and Android.&#x20;
+    </div>
 
-Enter a name and choose **Apple iOS** as your platform.
+## Send Push Notifications
 
-![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.21.31 AM.png>)
-
-Click `Next: Configure Your Platform`
-{% endtab %}
-
-{% tab title="2. Configure Platform" %}
-OneSignal have provided [extensive documentation](https://documentation.onesignal.com/docs/generate-an-ios-push-certificate) on how to find your **Production Certificate .p12 file** as well as your **Production Private Key Password**. The most important steps are outlined below.
-
-To begin, open the [OneSignal Provisionator](https://onesignal.com/provisionator) webpage. This tool will generate a .p12 file and the accompanying password for you.
-
-![](.gitbook/assets/onesignalportal.png)
-
-Follow the on screen instructions. Enter your Apple Developer ID and password. This portal works with 2FA enabled as well. If prompted, enter your 2FA code. Choose your team and the relevant Bundle ID and click generate. **You must be a Team Administrator to generate the files.**
-
-You can now download the .p12, .cer and .pem files that are generated for you.
-
-{% hint style="success" %}
-Don't forget to save your password somewhere safe!
-{% endhint %}
-
-Click on **Apple iOS**&#x20;
-
-![](.gitbook/assets/screenshot-2019-05-01-at-13.31.08.png)
-
-With that completed you can upload your .p12 file and enter the password in OneSignal. Click **Save** to proceed to the next step.
-
-![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.24.08 AM.png>)
-
-Click `Save & Continue`
-{% endtab %}
-
-{% tab title="3. Select SDK" %}
-Click on **Native iOS** to choose the SDK you wish to target. Then click **Next** to generate your App ID.
-{% endtab %}
-
-{% tab title="4. Install SDK" %}
-
-
-Copy the alpha-numeric code labeled **Your App ID** and head back to Thunkable.
-
-On Thunkable, open the Push Notifications dialog and paste this ID into the iOS App ID field.
-
-![](<.gitbook/assets/image (216) (1) (1).png>)
-
-You are now almost done. In order to now publish your app your will have to create a .mobileprovision profile. You can find details of how to do this on the ["Publish to App Store" page](publish-to-app-store-ios/#adding-push-notifications).
-
-When you are ready to send your first push notification, select the "MESSAGES" option and then select "NEW PUSH". You will now be able to create push notifications and send them to your app users.
-
-
-
-![](<.gitbook/assets/Screen Shot 2022-02-17 at 12.24.08 AM.png>)
-{% endtab %}
-{% endtabs %}
+Once you have your platforms configured in OneSignal you can create and sent push notifications to your app's users. Follow OneSignal's instructions here: [Sending Messages](https://documentation.onesignal.com/docs/sending-notifications#sending-push-notifications-from-onesignal-dashboard).
 
 ## Blocks
 
@@ -190,4 +148,4 @@ When you are ready to send your first push notification, select the "MESSAGES" o
 
 ![](<.gitbook/assets/Screen Shot 2022-01-10 at 1.08.59 PM.png>)
 
-This block returns the unique user ID of the device
+This block returns the unique user ID of the device.

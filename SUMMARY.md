@@ -81,7 +81,7 @@
 * [Camera](camera.md)
 * [Files](files.md)
 * [Account Sign In](sign-in.md)
-* [Push Notifications by One Signal](push-notifications-by-one-signal.md)
+* [Push Notifications by OneSignal](push-notifications-by-one-signal.md)
 * [Alert](alert.md)
 * [Timer](timer.md)
 * [🚀 Advanced App Features](advanced-app-features.md)
