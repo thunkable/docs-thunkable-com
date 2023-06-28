@@ -4,109 +4,75 @@ Here are some of the most common issues that our users are running into:
 
 ## Live Test
 
-Common issue
-
-**You see a blank / white screen when you live test (even if there are items in your app)**
+**Issue:** You see a blank / white screen when you live test (even if there are items in your app)
 
 * If you have a Navigator as the first item in your tree, make sure your screen is dropped within it
 * Your have unconnected blocks
 * You have an event triggered by a Screen.Start which may be causing the screen to crash
 * Your app and desktop may not be logged into the same account
 
-**Image is not showing up on your phone**
+**Issue:** Image is not showing up on your phone
 
 * The height or width of the image may be set to 'Fit contents'
 
-## Download
+## Download Android
 
-### iOS
-
-Common issues
-
-**You receive an email from the hard-working beaver saying that this app will not build**
-
-Common issues
-
-* You uploaded an icon that has the same name as an existing asset that you have uploaded
-* Your app icon is not an image file
-* We are having trouble with our build servers. Please try again in 30 minutes or chat with us if you are still having problems
-
-**You cannot install your app and get the message "Cannot connect to storage.googleapis.com"**
-
-* You have a special character like "&" in your [App Name](../project-settings.md#app-name)
-
-### Android
-
-**Trouble downloading AAB and APK files from Google Chrome:**
+**Issue:** Trouble downloading AAB and APK files from Google Chrome
 
 * The Google Chrome browser blocks downloads for your safety. If you open the email with a download link for your APK or AAB file in Google Chrome, you may not be able to download your file. \
   You can try one of these options:
   1. Open the email in another browser, like Firefox or Safari, and download the file.
   2. Change your Google Chrome settings to allow you to download files. \
      [You can find instructions to do this here. ](https://www.businessinsider.com/how-to-stop-chrome-from-blocking-downloads)\
-     Please note that changing your browser security settings can make you more vulnerable as you use the web, and Google Chrome recommends against disabling this setting.
+     Please note that changing your browser security settings can make you more vulnerable as you use the web, and Google Chrome does not recommend disabling this setting.
 
-## Publish
+## Publish iOS
 
-### iOS
+**Issue:** You don't see your app uploaded to App Store Connect
 
-Common issues
-
-**You do not see your app uploaded to App Store Connect**
-
-* Download. One way to check if your app is build-able is to download it to your phone first. Two common download errors are:
-  * You uploaded an icon that has the same name as an existing asset that you have uploaded
-  * Your app icon is not an image file
-* Icons. Apple additionally does not allow you to have any icons with any transparent colors. We recommend app icons to be 192 x 192 px
-* Membership. To publish to the App Store, you'll need to sign up for [Apple Developer Program Membership](https://developer.apple.com/programs/). This currently costs $99 / year.
-* Certificates. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time and Thunkable creates one when it publishes to your account
-* Provisioning profile. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive.  To publish successfully, you'll also need to delete any inactive provisioning profiles
-* Two-factor authentication. You must turn off two-factor authentication for your Apple Developer ID to publish with Thunkable. Please [click here](https://community.thunkable.com/t/important-two-factor-authentication-publishing-to-ios-app-store-on-thunkable-cross-platform/42504) to see our recommendations for turning off two-factor authentication&#x20;
-* Login. Apple ID or password were entered incorrectly.  Since we don't store either one, there's no easy way for us to check so enter it slowly
-* Apple ID an privacy terms. You must accept Apple's new Apple ID and privacy terms.
+* **Icons**. Ensure your icon is 192 x 192 px and has no transparencies.&#x20;
+* **Membership**. You require an active [Apple Developer Program Membership](https://developer.apple.com/programs/) to publish to the App Store.&#x20;
+* **Certificates**. If you have an existing Apple Developer Program account with 2 iOS certificates, you'll have to revoke one. Apple only allows developers to have 2 iOS certificates at a time, and Thunkable creates one when it publishes to your account
+* **Provisioning profile**. After you revoke your certificate, it is possible that one or more of your provisioning profiles will become inactive. To publish successfully, you need to delete any inactive provisioning profiles.
+* **Login**. Ensure your Apple ID and password are entered correctly. Thunkable cannot access your credentials, so save them somewhere safe.
+* **Apple ID and privacy terms**. You must accept Apple's new Apple ID and privacy terms.
 
 ### Android
 
-**You cannot update an existing app on the Google Play Store**
+**Issue:** You cannot update an existing app on the Google Play Store
 
 * If you want to update an existing app on the Google Play Store, your app will need to have:&#x20;
   * the same package name
   * a higher or incremented version number
   * the same keystore
-* The first two are easily editable in the App Settings page but the keystore is not yet able to be imported/exported.&#x20;
-* Copied apps within an account (using [Duplicate Your Project](../make-copy.md)) will keep the same keystore as the original app. Apps copied from a [Share copy](../share-1.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same Keystore.&#x20;
+* The first two are easily editable in your App Settings, but the keystore cannot be imported/exported.&#x20;
+* Copied apps within an account ([Duplicate Your Project](../make-copy.md)) will keep the same keystore as the original app. Apps copied from a [Share](../share-1.md#share-a-fully-editable-copy-of-your-app-project) link will not have the same Keystore.&#x20;
 
 ## Data Sources
 
 ### How can I reset my Google Sheets connection in Thunkable?
 
-#### 1. Reset from Thunkable
+#### A. Reset from Thunkable
 
-* Go to x.thunkable.com
-* Navigate to the My Data Sources tab
-* Delete your Google Sheets data sources by clicking the trashcan icon
+1. Login to your Thunkable account.
+2. Click the **My Data Sources** tab on your Projects Page.
+3. Click the **trash can icon** to delete the Google Sheets data source.
 
 ![](<../.gitbook/assets/image (216) (1).png>)
 
-#### 2. Reset from Google
+#### B. Reset from Google
 
 If you are having difficulties connecting to your Google Sheets from Thunkable, you may need to reset your Google Sheets connection.
 
-* Go to [https://myaccount.google.com/security](https://myaccount.google.com/security)
-* Go to `Third-party apps with account access` and click `Manage third-party access`
+1. Navigate to [https://myaccount.google.com/security](https://myaccount.google.com/security)
+2. Scroll to the **Your connections to third-party apps & services** section.
+3. Click the **Thunkable** connection.&#x20;
+4.  Click **See details** in the **Thunkable has some access to your Google Account section**.\
 
-![](<../.gitbook/assets/google drive security.png>)
 
-* Click on Thunkable and click `Remove Access`
+    <figure><img src="../.gitbook/assets/Google Sheets connection.png" alt=""><figcaption></figcaption></figure>
+5.  Click **Remove Access**.\
 
-{% tabs %}
-{% tab title="Thunkable" %}
-![](<../.gitbook/assets/thunkable account access (1).png>)
-{% endtab %}
 
-{% tab title="Remove Access" %}
-![](<../.gitbook/assets/Screen Shot 2022-01-12 at 10.12.19 AM (1).png>)
-{% endtab %}
-{% endtabs %}
-
-You can now return to Thunkable and re-connect to your Google Sheets account
+    <figure><img src="../.gitbook/assets/Google Sheets - remove access.png" alt=""><figcaption></figcaption></figure>
+6. Return to Thunkable and re-connect to your Google Sheets account.
