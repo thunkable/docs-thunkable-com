@@ -14,10 +14,6 @@ To go from an idea to an app, we strongly recommend sketching out your vision us
 [screen.md](screen.md)
 {% endcontent-ref %}
 
-## Navigator Tutorial
-
-{% embed url="https://www.youtube.com/watch?v=TqIVHGYdi54" %}
-
 ## Arrange Screens with Navigators
 
 Most apps navigate through screens using navigators. Four navigator options are available in Thunkable: bottom tab, top tab, drawer, and stack navigators.&#x20;

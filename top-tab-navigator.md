@@ -16,9 +16,7 @@ The Top Tab Navigator is positioned at the top of your app, and allows users to 
 
 ## Video Tutorial
 
-You can watch a video tutorial that explains all of the Navigators here:
-
-{% embed url="https://www.youtube.com/watch?v=TqIVHGYdi54" %}
+{% embed url="https://youtu.be/ZkxI53wF3UE" %}
 
 ## Adding Navigators
 
