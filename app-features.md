@@ -64,8 +64,8 @@ App features allow you to tap into a mobile device’s unique functionalities. T
 [timer.md](timer.md)
 {% endcontent-ref %}
 
-{% content-ref url="location.md" %}
-[location.md](location.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Advanced App Features

@@ -81,7 +81,6 @@
 * [Camera](camera.md)
 * [Files](files.md)
 * [Account Sign In](sign-in.md)
-* [Location](location.md)
 * [Push Notifications by OneSignal](push-notifications-by-one-signal.md)
 * [Alert](alert.md)
 * [Timer](timer.md)
