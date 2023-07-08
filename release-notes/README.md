@@ -4,6 +4,24 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## July 3, 2023
+
+Platform Updates
+
+* Update survey shown to new accounts
+
+## July 5, 2023
+
+Platform Updates
+
+* Improve how Android Keystores are stored and retrieved
+* Add hotkeys: \[T] to toggle beween Design/Blocks, \[P] to preview your project on the web
+* Performance improvements
+
+Component updates
+
+* Fix sound playback when media file has whitespace character in name
+
 ## June 20, 2023
 
 Platform Updates
