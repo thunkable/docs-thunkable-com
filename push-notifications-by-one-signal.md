@@ -183,13 +183,3 @@ The first time your app is opened on a new device, it is automatically assigned 
 
 ![](<.gitbook/assets/Screen Shot 2022-01-10 at 1.08.59 PM.png>)
 
-
-
-## Chat with Ioannis
-
-testing is challenging - android is easier - download the app to see the notification in action
-
-ios - have to publish to TestFlight - to publish to TestFlight w/ notifications enablesd, need a certificate specific to notifications - to create the certificate - the provisioning profile
-
-need to generate and download a new  provisioning profile - new one with notificaitons enabled
-
