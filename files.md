@@ -48,10 +48,6 @@ Thunkable integrates with [Cloudinary](https://cloudinary.com/), a service that 
 
 Thunkable provides a shared Cloudinary account for your convenience, but we strongly recommend creating your own account to ensure privacy for your uploaded media. In addition, the shared Thunkable Cloudinary account has a media size limit of 10MB per app and your files will be deleted after 90 days.
 
-{% hint style="warning" %}
-If you use Thunkable's default Cloudinary database, your files will be deleted after 90 days, so we recommend connecting your project to your own Cloudinary account to keep your media safe.&#x20;
-{% endhint %}
-
 To connect your Cloudinary accout to your Thunkable project:
 
 1. Create a free Cloudinary account here: [cloudinary.com](https://cloudinary.com/).
