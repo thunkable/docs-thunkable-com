@@ -9,7 +9,7 @@ description: >-
 
 The data sources blocks allow you to perform a variety of CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) operations on records you have stored in Airtable, Google Sheets, Weblow or a local tables.
 
-## 1. Connect Your App to a Data Source
+## Connect Your App to a Data Source
 
 There are two ways to connect your app to a source:
 
@@ -28,7 +28,7 @@ There are two ways to connect your app to a source:
 
 </div>
 
-## 2. Create your Own Table
+## Create your Own Table
 
 {% embed url="https://youtu.be/2x52CJQsc9M" %}
 
@@ -68,7 +68,7 @@ To create your own table as a data source:
 
        </div>
 
-## 3. Airtable&#x20;
+## Airtable&#x20;
 
 {% embed url="https://youtu.be/izoH3t0y2hQ" %}
 
@@ -80,7 +80,7 @@ Choose the base you want to use as your data source and click `Create`.
 
 ![](.gitbook/assets/airtable\_setup.png)
 
-### Google Sheets
+## Google Sheets
 
 {% embed url="https://youtu.be/0YsorQtDsvc" %}
 
@@ -110,7 +110,7 @@ At this time, connecting to **.xlsx** files that are hosted on Google Sheets is 
 Looking to reset your Google Sheets connection? [Click here](troubleshooting/#how-can-i-reset-my-google-sheets-connection-in-thunkable) for instructions
 {% endhint %}
 
-### Webflow
+## Webflow
 
 {% embed url="https://www.youtube.com/watch?v=4WLOPIP_WuY/?1" %}
 
@@ -163,7 +163,7 @@ To protect the quality of its service, the Webflow CMS API default rate limit is
 
     <figure><img src=".gitbook/assets/data sources - webflow - authorize.png" alt=""><figcaption></figcaption></figure>
 
-## Data Source blocks
+## Data Sources Blocks
 
 ![](<.gitbook/assets/Blocks  App Features  Data Sources.png>)
 
