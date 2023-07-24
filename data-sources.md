@@ -86,9 +86,10 @@ Choose the base you want to use as your data source and click `Create`.
 
 In Google Sheets, the entire document is considered to be the data source.
 
-In order to use a Google Sheet as a data source, the first row in your Sheet must be a **header** row.
+To use a Google Sheet as a data source the following must be true:
 
-Your Google Sheet must be [sharable](https://support.google.com/docs/answer/2494822?hl=en\&co=GENIE.Platform%3DDesktop) for Thunkable to access its data.&#x20;
+* The first row in your sheet must be a header row and every column must have a header.
+* Your Google Sheet must be [sharable](https://support.google.com/docs/answer/2494822?hl=en\&co=GENIE.Platform%3DDesktop) so that Thunkable can access the data.&#x20;
 
 To connect a Google Sheet, sign in and grant permission for your Thunkable project to access your Google Drive.
 
