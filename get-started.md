@@ -83,3 +83,7 @@ Thunkable supports developing with the following browsers:&#x20;
 * Apple Safari
 
 We recommend updating your browser regularly for the best experience.
+
+{% hint style="success" %}
+**Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://form.asana.com/?k=UQqJPrAV\_0n0bK6mskl2SA\&d=114052394876887). Your valuable insights will help us improve and better serve you in the future.
+{% endhint %}

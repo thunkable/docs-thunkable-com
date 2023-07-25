@@ -252,3 +252,6 @@ If they are not logged in, the block will trigger a prompt to sign in with Googl
 For web apps, no blocks, including errors, will be returned if the user rejects login (as opposed to fails login).
 {% endhint %}
 
+{% hint style="success" %}
+**Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://form.asana.com/?k=UQqJPrAV\_0n0bK6mskl2SA\&d=114052394876887). Your valuable insights will help us improve and better serve you in the future.
+{% endhint %}

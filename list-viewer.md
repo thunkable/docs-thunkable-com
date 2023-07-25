@@ -143,3 +143,7 @@ The `Computed Width`block returns the width of the Simple List in pixels after i
 ![](.gitbook/assets/lvv.png)
 
 Set and get the visibility of the Simple List.
+
+{% hint style="success" %}
+**Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://form.asana.com/?k=UQqJPrAV\_0n0bK6mskl2SA\&d=114052394876887). Your valuable insights will help us improve and better serve you in the future.
+{% endhint %}

@@ -124,4 +124,12 @@ The app calls the OpenAI API and populates the label and image components when t
 
 The label component shows the text output from the OpenAI model. The image component shows the image output from the OpenAI model.&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot_2023-01-03-15-55-59-63_9dc5dd0bd3f5e5332cf0ed1172f4b46e.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src=".gitbook/assets/Screenshot_2023-01-03-15-55-59-63_9dc5dd0bd3f5e5332cf0ed1172f4b46e.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+{% hint style="success" %}
+**Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://form.asana.com/?k=UQqJPrAV\_0n0bK6mskl2SA\&d=114052394876887). Your valuable insights will help us improve and better serve you in the future.
+{% endhint %}

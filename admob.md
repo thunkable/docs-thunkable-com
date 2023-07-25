@@ -288,3 +288,7 @@ Adding error handling to your AdMob blocks can better help troubleshoot issues
 
 ![](<.gitbook/assets/Screenshot 2023-02-16 at 3.36.44 PM.png>)
 {% endhint %}
+
+{% hint style="success" %}
+**Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://form.asana.com/?k=UQqJPrAV\_0n0bK6mskl2SA\&d=114052394876887). Your valuable insights will help us improve and better serve you in the future.
+{% endhint %}
