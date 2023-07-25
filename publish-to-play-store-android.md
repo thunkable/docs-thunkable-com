@@ -9,7 +9,11 @@ Success on Google Play starts with quality. The best apps and games have higher 
 Publishing to the Google Play Store requires a Google Play Developer Account (approximately $25 USD one-time fee). Don't have an account? [Sign up here](https://play.google.com/apps/publish/signup/).
 
 {% hint style="success" %}
-All Android apps built with Thunkable are built with Android API 31 and target Android 12.
+All Android apps built with Thunkable are built with Android API 33 and target Android 12 or 13.
+{% endhint %}
+
+{% hint style="warning" %}
+If your app is built to target Android 13, you must complete an advertising ID declaration. See here for additional information: [Advertising ID](publish-to-play-store-android.md#a-dvertising-id). This is not required for apps built to target Android 12. &#x20;
 {% endhint %}
 
 ## AAB vs APK
@@ -157,6 +161,18 @@ Apps that request access to sensitive permissions or data (as defined in the [us
 7. Add a **Release name** so you can identify this release. It isn't shown to users on Google Play.
 8. Add **Release notes**. Let users know what's in your release.
 9. Click **Next**.
+
+### **Advertising ID**
+
+If your app is built to target Android 13, you must complete an advertising ID declaration. This is not required for apps built to target Android 12.&#x20;
+
+Complete the advertising ID declaration:
+
+1. In response to the question, "Does your app use advertising ID?", select **Yes**.&#x20;
+2. In response to the question, "Why does your app need to use advertising ID?", select:
+   1. App functionality
+   2. Analytics
+   3. Advertising or marketing (only if your app used AdMob)
 
 ### **Errors, warnings and messages**
 
