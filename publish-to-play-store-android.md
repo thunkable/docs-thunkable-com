@@ -13,7 +13,7 @@ You can build your Android apps with Thunkable to target Android 13 (Android SDK
 {% endhint %}
 
 {% hint style="warning" %}
-If your app is built to target Android 13, you must complete an advertising ID declaration. See here for additional information: [Advertising ID](publish-to-play-store-android.md#a-dvertising-id). This is not required for apps built to target Android 12. &#x20;
+If your app is built to target Android 13, you must complete an advertising ID declaration. See here for additional information: [Advertising ID](https://docs.thunkable.com/publish-to-play-store-android#a-dvertising-id). This is not required for apps built to target Android 12. &#x20;
 {% endhint %}
 
 ## AAB vs APK
@@ -157,7 +157,7 @@ Apps that request access to sensitive permissions or data (as defined in the [us
 3. Click the **Select countries** task.&#x20;
 4. Identify the countries you want your app to be available in.
 5. Click **Create a new release**.
-6. Upload the AAB file into the **App bundles** section. Instructions for downloading your AAB are available here: [Download your Android App Bundle (AAB) file](publish-to-play-store-android.md#download-your-android-app-bundle-aab-file).
+6. Upload the AAB file into the **App bundles** section. Instructions for downloading your AAB are available here: [Download your Android App Bundle (AAB) file](https://docs.thunkable.com/publish-to-play-store-android#create-and-publish-a-release).
 7. Add a **Release name** so you can identify this release. It isn't shown to users on Google Play.
 8. Add **Release notes**. Let users know what's in your release.
 9. Click **Next**.
