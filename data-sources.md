@@ -72,13 +72,36 @@ To create your own table as a data source:
 
 {% embed url="https://youtu.be/izoH3t0y2hQ" %}
 
-In Airtable, a base in considered to be the data source. Adding an [Airtable](https://www.airtable.com/) database is simple.&#x20;
+When using [Airtable](https://www.airtable.com/) as your data source, a base is connected to Thunkable. To connect your Airtable base to your Thunkable project, you have two options:
 
-To start, copy your API key from your Airtable account page. An Airtable API key is a 14 character code that begins with the three letters "key". Paste this key into Thunkable and click the `Refresh` button to see a list of your Airtable bases.&#x20;
+* API Key (supported until Jan 31, 2024)
+* OAuth
 
-Choose the base you want to use as your data source and click `Create`.
+#### Connecting by API Key
 
-![](.gitbook/assets/airtable\_setup.png)
+1. Navigate to your Airtable account page.
+2. Copy your API key (a 14-character code beginning with "key").&#x20;
+3. Return to your Thunkable tab.&#x20;
+4. Paste the copied Airtable API token into the corresponding field.&#x20;
+5. Click **Refresh** to see your Airtable bases.&#x20;
+6. Select the base you want to use as your data source.
+7. Click **Create**.&#x20;
+
+#### Connecting by OAuth
+
+1. Click **Connect to Airtable**.
+2. An Airtable authorization screen opens.
+3. Click **+ Add a base**.
+4. Select the base you want to authorize access to.
+5. Click **Grant access**.
+6. Select the correct base from the dropdown menu.
+7. Click **Create**.
+
+<div align="left">
+
+<figure><img src=".gitbook/assets/Airtable - DS connection modal.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
 
 ## Google Sheets
 
@@ -142,7 +165,7 @@ Within the Thunkable platform:
 1. Paste the copied Webflow API token into the corresponding field.&#x20;
 2. Click **Refresh** to see your Webflow sites.&#x20;
 3. Select the site you want to use as your data source.
-4. Click Create.&#x20;
+4. Click **Create**.&#x20;
 
 {% hint style="info" %}
 To protect the quality of its service, the Webflow CMS API default rate limit is 60 requests/minute.  Exceeding this limit will result in an error on the Thunkable platform, so please keep this in mind as you build your app.
