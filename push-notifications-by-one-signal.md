@@ -134,27 +134,63 @@ To test Android push notifications, download the app to your Android device and 
 
 ## &#x20;iOS Configuration
 
+### Generate a p8 Certificate
+
 1. Follow OneSignal's instructions to generate a p8 certificate: [iOS: p8 Token-Based Connection to APNs](https://documentation.onesignal.com/docs/establishing-an-apns-authentication-key).
-2. In OneSignal, select **Native iOS** as your target SDK.
-3.  Click **Save & Continue**.\
+2. When you get to the section titled "Provisioning Profiles," return to these instructions.
+
+### Add Push Notifications to the App Identifier
+
+1. In your Apple Developer account, select **Identifiers** under the Certificates, IDs & Profiles heading.
+2. Select your app from the list of Identifiers.
+3. Scroll down the list of app capabilities, and place a checkmark next to **Push Notifications**.
+4. Click **Save**.
+5. Select your app from the list of Identifiers again.
+6. Scroll down the list of app capabilities, until you get to **Push Notifications** again.
+7. Click the associated **Configure** button.
+8. Under Production SSL Certificate, click **Create Certificate**.
+9. Under Upload a Certificate Signing Request, click **Choose File**.
+10. Select the **Certificate Signing Request (CSR)** you downloaded from Thunkable as part of the publishing process.
+11. Click **Continue**.
+12. Click **Download** to download your iOS certificate.
+
+### Download your Provisioning Profile
+
+1. Access your Apple Developer account’s [Profiles](https://developer.apple.com/account/resources/profiles/list).&#x20;
+2. Select your app from the list of Profiles.
+3. Click **Edit**.
+4. Click **Save**.
+5. Click **Download**.
+
+### OneSignal
+
+1. In OneSignal, select **Native iOS** as your target SDK.
+2.  Click **Save & Continue**.\
 
 
     <figure><img src=".gitbook/assets/OneSignal - Native iOS SDK.png" alt=""><figcaption></figcaption></figure>
-4.  Copy **Your App ID**.\
+3.  Copy **Your App ID**.\
 
 
     <figure><img src=".gitbook/assets/OneSignal - Apple iOS - Your App ID.png" alt=""><figcaption></figcaption></figure>
-5. Return to the Blocks tab of your Thunkable project. Do not close the OneSignal tab.&#x20;
-6. Click the **gear icon** next to Push Notification.
-7. In the **iOS App ID** field, paste **Your App ID** that you copied from OneSignal in step 4.&#x20;
-8.  Indicate whether you want to collect **Geolocation Permissions**. OneSignal allows you to push messages to users based on their location. In order to do that, you need permission from your users to register their location. Use the toggle in the Push Notification settings to indicate whether you want to request users share their location with OneSignal.
+4. Return to the Blocks tab of your Thunkable project. Do not close the OneSignal tab.&#x20;
+5.  Click the **gear icon** next to Push Notification.\
+
+
+    <div align="left">
+
+    <figure><img src=".gitbook/assets/BlocksApp FeatuersPush Notifications.png" alt="" width="279"><figcaption></figcaption></figure>
+
+    </div>
+6. In the **iOS App ID** field, paste **Your App ID** that you copied from OneSignal in step 4.&#x20;
+7.  Indicate whether you want to collect **Geolocation Permissions**. OneSignal allows you to push messages to users based on their location. In order to do that, you need permission from your users to register their location. Use the toggle in the Push Notification settings to indicate whether you want to request users share their location with OneSignal.
 
 
 
     {% hint style="warning" %}
     If you enable **Geolocation Permissions**, when you publish your app, ensure that you indicate that you're tracking location when you publish your app.
     {% endhint %}
-9.  Click **Submit**.\
+8.  Click **Submit**.\
 
 
     <div align="left">
