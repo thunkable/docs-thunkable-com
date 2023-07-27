@@ -137,3 +137,4 @@
   * [Release Notes 2020](release-notes/release-notes-2020.md)
   * [Release Notes 2019](release-notes/release-notes-2019.md)
   * [Release Notes 2018](release-notes/release-notes-2018.md)
+* [Keyboard Shortcuts](keyboard-shortcuts.md)
