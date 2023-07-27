@@ -39,14 +39,14 @@ Component Updates
 
 Platform Updates
 
-* [Drag and Drop](http://localhost:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/-LAn5scXl2uqUJUOqkJo-84897653/ "mention"): Show guidelines in Component Tree
+* [Drag and Drop](http://127.0.0.1:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/-LAn5scXl2uqUJUOqkJo-84897653/ "mention"): Show guidelines in Component Tree
 * Thunkable Live App: Show prompt to update outdated app
 
 ## June 13, 2023
 
 Platform Updates
 
-* [Snap to Place](http://localhost:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/ "mention"): Changes to App Settings panel
+* [Snap to Place](http://127.0.0.1:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/Ue3rgJfvQYLrpDR1HfWv/ "mention"): Changes to App Settings panel
 
 ## June 12, 2023
 
@@ -74,7 +74,7 @@ Component Updates
 
 Platform Updates
 
-* [Drag and Drop](http://localhost:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/-LAn5scXl2uqUJUOqkJo-84897653/ "mention") UI: Updates to left navigation panel
+* [Drag and Drop](http://127.0.0.1:5000/o/-LAn5sG4mFK2i\_t-TiD1/s/-LAn5scXl2uqUJUOqkJo-84897653/ "mention") UI: Updates to left navigation panel
 * [organizations.md](../organizations.md "mention"): Enable duplicating personal projects into organizations
 
 Component Updates

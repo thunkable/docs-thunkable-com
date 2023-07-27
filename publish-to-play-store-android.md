@@ -9,7 +9,7 @@ Success on Google Play starts with quality. The best apps and games have higher 
 Publishing to the Google Play Store requires a Google Play Developer Account (approximately $25 USD one-time fee). Don't have an account? [Sign up here](https://play.google.com/apps/publish/signup/).
 
 {% hint style="success" %}
-You can build your Android apps with Thunkable to target Android 13 (Android SDK 33) or Android 12 (Android SDK 31).
+You can build your Android apps with the latest Thunkable release to target Android 13 (Android SDK 33) or Android 12 (Android SDK 31).
 {% endhint %}
 
 {% hint style="warning" %}
