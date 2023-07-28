@@ -103,6 +103,12 @@ When using [Airtable](https://www.airtable.com/) as your data source, a base is 
 
 </div>
 
+#### Use a Custom View&#x20;
+
+In Airtable, a table is similar to a sheet in a spreadsheet. You can have multiple tables within your Airtable base, and each table can have multiple views. A view indicates how the data is presented within the table. For example, you can use views to show only specific fields or records and apply other configurations to manage the information in that view. The initial default view for an Airtable table is the grid view.
+
+When connecting an Airtable base as your Thunkable project’s data source, you can select a custom view instead of the default grid view. This will apply only to the first table in your base. For subsequent tables, Thunkable will use the default grid view. If you have a base with two tables and the second table has a custom view, you can reorder the tables within the base in Airtable so that the custom view is applied to the correct table.
+
 ## Google Sheets
 
 {% embed url="https://youtu.be/0YsorQtDsvc" %}
