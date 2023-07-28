@@ -4,6 +4,40 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## July 27, 2023
+
+Component Updates
+
+* [#airtable](../data-sources.md#airtable "mention"): Add OAuth authentication to connect to Airtable account
+
+## July 26, 2023
+
+Platform Updates
+
+* Fix rendering Live Test code in Thunkable Live app for accounts that sign in with email
+* Fix file uploaod for iOS certificates
+
+## July 25, 2023
+
+Platform Updates
+
+* Add Ability to build Android apps to target Android 33 \
+  [publish-to-play-store-android.md](../publish-to-play-store-android.md "mention")
+* Add hotkeys: \[F] to focus on selected screen, \[Space + Arrow] to pan
+* [organizations.md](../organizations.md "mention"): Introduced Comments&#x20;
+
+Component Updates
+
+* Update Image Picker
+* Resolve issues seen by some accounts when adding Google Sheets to projects
+* Improve audio when playing back recorded video
+
+## July 17, 2023
+
+Component Updates
+
+* [files.md](../files.md "mention"): Improve file upload in Thunkable Live app
+
 ## July 5, 2023
 
 Platform Updates
