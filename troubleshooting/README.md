@@ -78,5 +78,5 @@ If you are having difficulties connecting to your Google Sheets from Thunkable, 
 6. Return to Thunkable and re-connect to your Google Sheets account.
 
 {% hint style="success" %}
-**Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://form.asana.com/?k=UQqJPrAV\_0n0bK6mskl2SA\&d=114052394876887). Your valuable insights will help us improve and better serve you in the future.
+**Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfCwn5L2xyla-LSLZX0DSWFcFeJ43qp-r1tELCacuVS2zduLA/viewform?usp=sf\_link). Your valuable insights will help us improve and better serve you in the future.
 {% endhint %}

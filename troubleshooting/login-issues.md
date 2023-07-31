@@ -51,3 +51,7 @@ Read more about cross-site tracking [here](https://support.apple.com/en-ie/guide
 Read more about managing cookies [here](https://support.apple.com/en-ie/guide/safari/sfri11471/mac).
 
 **IMPORTANT**: Please make sure to refresh your page after you enable cookies
+
+{% hint style="success" %}
+**Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfCwn5L2xyla-LSLZX0DSWFcFeJ43qp-r1tELCacuVS2zduLA/viewform?usp=sf\_link). Your valuable insights will help us improve and better serve you in the future.
+{% endhint %}
