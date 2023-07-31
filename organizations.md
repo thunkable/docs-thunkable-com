@@ -181,7 +181,9 @@ To view comments on a UI component:
 
 1. Access the project’s Design tab.
 2. Click the **Comment** icon to open the comment panel on the right.
-3. Comments are grouped with the UI component they were added to. The most recent comment is added to the bottom of the UI component’s comments. The UI components with the most recent comments appear at the top of the comment panel.&#x20;
+3. Comments are grouped with the UI component they were added to.
+   1. Comments are displayed in the order they were added, with the most recent comment appearing at the bottom of the UI component's comments.
+   2. UI components with the most recent comments appear at the top of the comment panel, making it easier to find the most recent discussions.
 4. Click the Comment icon to close the comment panel.
 
 ### Delete Comments
