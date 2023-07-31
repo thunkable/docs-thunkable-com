@@ -92,8 +92,18 @@ When using [Airtable](https://www.airtable.com/) as your data source, a base is 
 1. Click **Connect to Airtable**.
 2. An Airtable authorization screen opens.
 3. Click **+ Add a base**.
-4. Select the base you want to authorize access to.
-5. Click **Grant access**.
+4.  Select the bases you want to authorize access to. \
+
+
+    {% hint style="info" %}
+    Select all the bases you want your Thunkable projects to have access to. This includes any bases you've previously connected by API key, as well as any new bases you want to connect to Thunkable.
+    {% endhint %}
+5.  Click **Grant access**.\
+
+
+    {% hint style="info" %}
+    If you are connecting by OAuth for the sole purpose of migrating your connection from API Key and are not creating a new data source, you are done. Steps 6 and 7 only apply when creating a new data source.&#x20;
+    {% endhint %}
 6. Select the correct base from the dropdown menu.
 7. Click **Create**.
 
@@ -108,6 +118,10 @@ When using [Airtable](https://www.airtable.com/) as your data source, a base is 
 In Airtable, a table is similar to a sheet in a spreadsheet. You can have multiple tables within your Airtable base, and each table can have multiple views. A view indicates how the data is presented within the table. For example, you can use views to show only specific fields or records and apply other configurations to manage the information in that view. The initial default view for an Airtable table is the grid view.
 
 When connecting an Airtable base as your Thunkable project’s data source, you can select a custom view instead of the default grid view. This will apply only to the first table in your base. For subsequent tables, Thunkable will use the default grid view. If you have a base with two tables and the second table has a custom view, you can reorder the tables within the base in Airtable so that the custom view is applied to the correct table.
+
+{% hint style="success" %}
+Once you've connected your Airtable the Thunkable account via OAuth, API keys are no longer used.
+{% endhint %}
 
 ## Google Sheets
 
