@@ -4,6 +4,24 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 2, 2023
+
+Component Updates
+
+* [sprites.md](../sprites.md "mention"): Fix for 'Create Sprite Type' block
+
+## August 1, 2023
+
+Component Updates
+
+* [data-sources.md](../data-sources.md "mention"): [#google-sheets](../data-sources.md#google-sheets "mention") - Make memory usage more efficient
+
+## July 31, 2023
+
+Platform Updates
+
+* Reduce size of built apps
+
 ## July 27, 2023
 
 Component Updates
