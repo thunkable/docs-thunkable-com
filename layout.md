@@ -174,7 +174,7 @@ Thunkable provides a variety of default [Data Viewer List](data-viewer-list.md) 
 4. Give your Data Viewer Layout a detailed **name**.
 5. Select the **Layout Type** you want to create. \
    \- List for a Data Viewer List\
-   \- Grid for a Data Viewer List.
+   \- Grid for a Data Viewer Grid
 6. Click **OK**.
 
 ### To use a saved Layout as a Data Viewer:
