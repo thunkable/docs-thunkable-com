@@ -2,44 +2,46 @@
 description: >-
   When you tap on the play icon to hear your favourite music, you are using a
   button.
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Button Component
 
-## Button Overview
+## Overview
 
-![](../../../.gitbook/assets/button-fig-1.png)
+The button component gives your user familiar ways to start actions in your app. Examples include navigating between app screens, submitting user inputs, and triggering a device’s camera to take a photo.&#x20;
 
-A button is just something you can click on to perform an action. This action can be anything from navigating to a different screen, saving information to a database, or playing a sound.
+In the block combination below, when a user clicks Button1 they will be taken to, or navigate to, Screen2.
 
-![Changing the text on the button](../../../.gitbook/assets/btn\_click\_2.png)
+<div align="left">
 
-![Navigate to a different screen](../../../.gitbook/assets/btn\_click\_1.png)
+<img src="../../../.gitbook/assets/btn_click_1.png" alt="Navigate to a different screen" width="375">
+
+</div>
 
 ## Properties
 
 ### Button
 
-| Property                    | Description                                    | Data Type              |
-| --------------------------- | ---------------------------------------------- | ---------------------- |
-| Text                        | Text of the Button                             | Text                   |
-| Font                        | Font used to display Button's text             | Select from menu       |
-| Custom Font (mobile only)\* | Font used to display Button's text             | Upload TTF or OTF file |
-| Text Color                  | Color of Button's text                         | Color                  |
-| Font Bold                   | Toggle whether Button's text is **bold**       | True/False             |
-| Font Italic                 | Toggle whether Button's text is _italic_       | True/False             |
-| Raised                      | Toggle whether Button has shadow               | True/False             |
-| Font Size                   | Size of Button's text                          | Number                 |
-| Disabled                    | Toggle whether Button is disabled for end user | True/False             |
+<table><thead><tr><th width="214.33333333333331">Property</th><th width="198">Value</th><th>Description</th></tr></thead><tbody><tr><td>Text</td><td>Text</td><td>Text displayed on the button.</td></tr><tr><td>Font</td><td>Select from font menu</td><td>Font for the button's text.</td></tr><tr><td>Custom Font (mobile only)*</td><td>Upload TTF or OTF file</td><td>Font for the button's text.</td></tr><tr><td>Text Color</td><td>Color</td><td>Color the button's text.</td></tr><tr><td>Font Bold</td><td>True/False</td><td>True = button's text is <strong>bold</strong>.<br>False = button's text is not bold.</td></tr><tr><td>Font Italic</td><td>True/False</td><td>True = button's text is <em>italic.</em><br>False = button's text is not <em>italic.</em></td></tr><tr><td>Raised</td><td>True/False</td><td>True = button has a shadow.<br>False = button does not have a shadow.</td></tr><tr><td>Font Size</td><td>Number</td><td>Font size of the button's text.</td></tr><tr><td>Disabled</td><td>True/False</td><td>True = button is disabled for the user by default.<br>False = button is enabled for the user by default.</td></tr></tbody></table>
 
 {% hint style="info" %}
-Uploading a custom font is available on Thunkable's Business and Enterprise plans.\
-[Read more about our pricing plans here.](https://thunkable.com/#/pricing)
+Uploading a custom font may only be available for Creators on certain Thunkable plans. Please refer to our [pricing page](https://thunkable.com/#/pricing) for more information.
 {% endhint %}
 
 ### Layout
 
-<table><thead><tr><th width="173.33333333333331">Property</th><th>Description</th><th>Data Type</th></tr></thead><tbody><tr><td>X</td><td>Position of top left corner of Button on X-axis, where the left hand side is X=0</td><td>Number</td></tr><tr><td>Y</td><td>Position of top left corner of Button on Y-axis, where the top hand side is X=0</td><td>Number</td></tr><tr><td>Height</td><td>Height of Button in pixels</td><td>Number</td></tr><tr><td>Width</td><td>Width of Button in pixels</td><td>Number</td></tr><tr><td>Resize Mode</td><td>Stretch the button to fit the device screen or render it the same as the design, regardless of the device (float in place).</td><td>Select from menu (Stretch or Float in place)</td></tr></tbody></table>
+<table><thead><tr><th width="158.66666666666666">Property</th><th width="186">Value</th><th>Description</th></tr></thead><tbody><tr><td>X</td><td>coordinate value</td><td>Position of the upper left corner of the button on the X-axis, where the left side of the screen is X=0.</td></tr><tr><td>Y</td><td>coordinate value</td><td>Position of the upper left corner of the button on the Y-axis, where the top of the screen is Y=0.</td></tr><tr><td>Height</td><td>number in pixels</td><td>The button's height is defined by a custom number of pixels.</td></tr><tr><td>Width</td><td>number in pixels</td><td>The button's width is defined by a custom number of pixels.</td></tr><tr><td>Resize Mode</td><td>Stretch</td><td>Stretches the button to fit the dimensions of the device's screen.</td></tr><tr><td>Resize Mode</td><td>Float in Place</td><td>Renders the button in the same aspect ratio as the design, regardless of the device size.</td></tr></tbody></table>
 
 ### Style
 
