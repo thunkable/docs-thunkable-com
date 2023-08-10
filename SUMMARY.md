@@ -8,7 +8,7 @@
 * [🆕 Create New Project](projects.md)
 * [App Settings](project-settings.md)
 * [Versioning](versioning.md)
-* [Tablet view](tablet-view.md)
+* [Tablet View](tablet-view.md)
 * [Assets](assets.md)
 * [Figma Integration](figma.md)
 * [Organizations](organizations.md)
