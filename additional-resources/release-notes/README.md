@@ -6,6 +6,10 @@ description: Keep up to date with our releases!
 
 ## August 9, 2023
 
+Platform Updates
+
+* Improve iOS download experience by changing how assets are retrieved during the build process
+
 Component Updates
 
 * [data-sources.md](../../getting-started/data-sources.md "mention"): fix linked project count in My Datasource tab
