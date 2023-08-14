@@ -4,6 +4,13 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 9, 2023
+
+Component Updates
+
+* [data-sources.md](../../getting-started/data-sources.md "mention"): fix linked project count in My Datasource tab
+* [image-1.md](../../app-design/ui-components/basic-components/image-1.md "mention"): Fix visibilty of border around GIF files on Android
+
 ## August 2, 2023
 
 Component Updates
