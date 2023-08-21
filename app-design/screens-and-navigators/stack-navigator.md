@@ -16,8 +16,14 @@ To enable a Stack transition, add a Screen navigation block like the one below. 
 
 ### Header Mode
 
+| Property   | Description                                | Data Type                                                                                                                                             |
+| ---------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| HeaderMode | Define how the header appears in your app. | <p>Select from list:<br><code>float</code> - headers fade in with the screen change<br><code>screen</code> - headers slide with the screen change</p> |
+
+### Header Shown
+
 It is possible to hide the Header bar and maintain the Stacking transition by using the Stack property below. Hiding the Header bar will also hide the back button that makes it easier to transition to the previous screen.
 
-| Property   | Description                                | Data Type                                                                                                                                                                                                           |
-| ---------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| HeaderMode | Define how the header appears in your app. | <p>Select from list:<br><code>float</code> - headers fade in with the screen change<br><code>screen</code> - headers slide with the screen change<br><code>none</code> - hide header (including the back arrow)</p> |
+| Property    | Description                               | Data Type                                                                                                                         |
+| ----------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| HeaderShown | Define if the header appears in your app. | <p>Toggle:</p><p><code>true (blue)</code> - show header<br><code>false (grey)</code> - hide header (including the back arrow)</p> |
