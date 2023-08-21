@@ -4,6 +4,24 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 19, 2023
+
+Platform Updates
+
+* Upgrade backend libraries
+* Allow [self-serve upgrade to Business plans](https://thunkable.com/pricing)
+* Upgrades to onboarding survey shown to new accounts
+
+New Components
+
+* [Broken link](broken-reference "mention"): added Location drawer of blocks
+* [Broken link](broken-reference "mention"): Added new Location blocks: geocoding and reverse geocoding
+
+Component Updates
+
+* [#webflow](../../getting-started/data-sources.md#webflow "mention"): text updates
+* [video.md](../../app-design/ui-components/media-components/video.md "mention"): Fix autoplay on Android
+
 ## August 9, 2023
 
 Platform Updates
