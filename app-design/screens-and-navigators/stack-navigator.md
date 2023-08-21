@@ -1,4 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Stack Navigator
+
+## Video Tutorial: How to Use the Thunkable Stack Navigator
+
+In this tutorial, we'll explore what a stack navigator is and provide step-by-step instructions on implementation.
 
 {% embed url="https://youtu.be/bN9W7kxe1Fw" %}
 
