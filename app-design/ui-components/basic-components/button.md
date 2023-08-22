@@ -29,6 +29,14 @@ In the block combination below, when a user clicks Button1 they will be taken to
 
 </div>
 
+## Video Tutorial
+
+### How to Change Thunkable Screens with a Button Click
+
+In this tutorial, you’ll learn how to use the “navigate to” block to allow your app’s users to navigate between app screens with a simple button click.
+
+{% embed url="https://youtu.be/8Nl_eF56ZxY" %}
+
 ## Properties
 
 ### Button

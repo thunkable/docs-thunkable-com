@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Control Blocks
 
 ## Navigate to a Screen
@@ -5,6 +19,14 @@
 You can manage much of your screen navigation through our [Top Tab](../../app-design/screens-and-navigators/top-tab-navigator.md), [Bottom Tab](../../app-design/screens-and-navigators/bottom-tab-navigator.md), [Drawer](../../app-design/screens-and-navigators/drawer-navigator.md) and [Stack](../../app-design/screens-and-navigators/stack-navigator.md) navigator components but for simple screen navigation, you can use the very popular block below
 
 ![](../../.gitbook/assets/screen-shot-2021-04-26-at-8.04.10-am.png)
+
+### Video Tutorial
+
+#### How to Change Thunkable Screens with a Button Click
+
+In this tutorial, you’ll learn how to use the **navigate to** block to allow your app’s users to navigate between app screens with a simple button click.
+
+{% embed url="https://youtu.be/8Nl_eF56ZxY" %}
 
 ## If `this`, do `that`
 
