@@ -46,7 +46,7 @@ In addition to our Thunkable Docs, we are also proud to offer you the following 
    Not sure where to get started? Check out the Thunkable Academy!
 2. [**Community**](https://community.thunkable.com/)\
    Want to connect with other Thunkable Creators? Ask a question and join the conversation in the Community!
-3. [**Instructional Videos**](https://www.youtube.com/channel/UCTVZRyybOCDBL2zLXSeQVsw)\
+3. [**Instructional Videos**](https://www.youtube.com/@Thunkable)\
    Enjoy instructional videos? Check out our library of tutorials available on YouTube.
 4. **Contact our Support Team**\
    Creators on our Pro, Business, and Team plans can click the chat icon in the upper right of a Thunkable Project page to connect with our team.&#x20;

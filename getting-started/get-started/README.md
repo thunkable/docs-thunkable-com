@@ -52,8 +52,12 @@ Continue your journey by creating more projects.
 
 You can drop custom components and third-party integrations directly into your projects. These components will allow you to build more advanced features. &#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../app-design/ui-components/" %}
+[ui-components](../../app-design/ui-components/)
+{% endcontent-ref %}
+
+{% content-ref url="../../blocks/app-features/" %}
+[app-features](../../blocks/app-features/)
 {% endcontent-ref %}
 
 ## Step 8. Blocks
