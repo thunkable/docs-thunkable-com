@@ -24,9 +24,12 @@ In this tutorial, you’ll learn how to use the “navigate to” block to allow
 
 {% embed url="https://youtu.be/5eGLS2ZPVsA" %}
 
-**Template app:** https://x.thunkable.com/projectPage/64e4f871bd8fd77d3628f694 (click **Copy Project** in the upper right)
+**Template app:**&#x20;
 
-### Supported text to speech languages
+1. Click: [https://x.thunkable.com/projectPage/64e4f871bd8fd77d3628f694](https://x.thunkable.com/projectPage/64e4f871bd8fd77d3628f694)&#x20;
+2. Click **Copy Project** in the upper right.
+
+### Supported Text-to-Speech Languages
 
 | Language          | Android | iOS | Web |
 | ----------------- | ------- | --- | --- |
@@ -122,7 +125,7 @@ In this tutorial, you’ll learn how to use the “navigate to” block to allow
 
 ## Translation
 
-Translate a piece of text. This block is powered by Yandex. Any language code from [this list ](https://yandex.com/dev/translate/doc/dg/concepts/api-overview.html)can be used.
+Translate a piece of text. This block is powered by [Yandex](https://translate.yandex.com/).&#x20;
 
 ![](<../../.gitbook/assets/image (139).png>)
 
@@ -130,4 +133,8 @@ Translate a piece of text. This block is powered by Yandex. Any language code fr
 
 Recognize a piece of audio in a given language. Returns a text transcription of the speech.
 
-![](<../../.gitbook/assets/image (155).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/image (155).png" alt="">
+
+</div>
