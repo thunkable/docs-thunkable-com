@@ -10,11 +10,21 @@ You can see the [Text to Speech](speech.md#text-to-speech) and [Translation](spe
 
 {% embed url="https://www.youtube.com/watch?v=0NrkKiCGaxk" %}
 
-## Text to Speech
+## Text-to-Speech
 
 Read a piece of text aloud in a specified language.
 
 ![](<../../.gitbook/assets/image (153).png>)
+
+### Video Tutorial
+
+#### How to Create a Text-to-Speech App in Thunkable
+
+In this tutorial, you’ll learn how to use the “navigate to” block to allow your app’s users to navigate between app screens with a simple button click.
+
+{% embed url="https://youtu.be/5eGLS2ZPVsA" %}
+
+**Template app:** https://x.thunkable.com/projectPage/64e4f871bd8fd77d3628f694 (click **Copy Project** in the upper right)
 
 ### Supported text to speech languages
 
