@@ -4,6 +4,20 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 24, 2023
+
+Platform Updates
+
+* Remove unused packages to deliver services faster
+* Updated welcome video
+* Updated onboarding survey
+
+Component Updates
+
+* [sign-in.md](../../blocks/app-features/sign-in.md "mention"): updated Sign In libraries
+* [admob.md](../../blocks/app-features/admob.md "mention"): Updated AdMob library
+* [lottie.md](../../app-design/ui-components/media-components/lottie.md "mention"): Updated Lottie Libraries
+
 ## August 19, 2023
 
 Platform Updates
