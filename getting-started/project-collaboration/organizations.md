@@ -11,7 +11,7 @@ A single Creator can edit the project at a time, and their changes are available
 ## Organization Management
 
 {% hint style="info" %}
-To get started with Thunkable Organizations, please contact the Thunkable team here: [book a meeting](https://meetings.hubspot.com/bryan-luckyheard/team-pricing-request). The Thunkable team will take care of setting up and managing your organization.&#x20;
+Organizations may only be available for Creators on certain Thunkable plans. To learn more about our plans, please visit our [pricing page](http://thunkable.com/pricing) and select Contact Us to book a meeting with our team and get your accounts set up.
 {% endhint %}
 
 Thunkable Creators have:&#x20;
