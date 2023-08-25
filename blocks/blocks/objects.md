@@ -1,6 +1,6 @@
 # Objects Blocks
 
-The Object blocks pair well with the [Web API](../advanced-app-features/web-api/), [Map](../../app-design/ui-components/embed-components/map.md) and [Location Sensor](../app-features/sensors-blocks/location-sensor.md) components which often send data in object format.&#x20;
+The Object blocks pair well with the [Web API](../advanced-app-features/web-api/), [Map](../../app-design/ui-components/embed-components/map.md) and [Location Sensor](../../location-sensor.md) components which often send data in object format.&#x20;
 
 ## Creating an Object
 
@@ -51,7 +51,7 @@ You can use the `get Object properties of` block to return the names of the prop
 
 ![](../../.gitbook/assets/getprops.png)
 
-This block returns a list of property names. This list can be used with [list](lists.md) blocks.
+This block returns a list of property names. This list can be used with [list](../../lists.md) blocks.
 
 ## Set Property Values of an Object
 

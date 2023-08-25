@@ -24,7 +24,7 @@ Sometimes there's simply no option left other than to go back through your app a
 
 * Reduce block count by creating [functions](../../blocks/blocks/functions.md)
 * Use [loops](../../blocks/blocks/control.md#repeat-an-event) to perform repetitive tasks
-* Use the [Any Component](../../blocks/advanced-app-features/any-component-blocks.md) blocks as much as possible
+* Use the [Any Component](../../any-component-blocks.md) blocks as much as possible
 
 ## Disable app screen preview
 

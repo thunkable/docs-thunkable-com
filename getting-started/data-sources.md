@@ -151,7 +151,7 @@ At this time, connecting to **.xlsx** files that are hosted on Google Sheets is 
 ![](../.gitbook/assets/screen-shot-2020-09-21-at-11.37.46-am.png)
 
 {% hint style="info" %}
-Looking to reset your Google Sheets connection? [Click here](../additional-resources/troubleshooting/#how-can-i-reset-my-google-sheets-connection-in-thunkable) for instructions
+Looking to reset your Google Sheets connection? [Click here](../troubleshooting/#how-can-i-reset-my-google-sheets-connection-in-thunkable) for instructions
 {% endhint %}
 
 ## Webflow
@@ -237,7 +237,7 @@ If your data source is a **Google Sheet**, you can refer to the row by its integ
 
 ![](../.gitbook/assets/darasourcesgetrowobject.png)
 
-The `list of values in` block allows you to read an entire column of data from a table and returns it as a list that you can then manipulate with the built-in [List blocks](../blocks/blocks/lists.md).
+The `list of values in` block allows you to read an entire column of data from a table and returns it as a list that you can then manipulate with the built-in [List blocks](../lists.md).
 
 ![](../.gitbook/assets/list\_of\_values.png)
 

@@ -56,8 +56,8 @@ Learn more about individual components below.
 [text-input.md](basic-components/text-input.md)
 {% endcontent-ref %}
 
-{% content-ref url="data-components/list-viewer.md" %}
-[list-viewer.md](data-components/list-viewer.md)
+{% content-ref url="../../list-viewer.md" %}
+[list-viewer.md](../../list-viewer.md)
 {% endcontent-ref %}
 
 {% content-ref url="embed-components/web-viewer.md" %}

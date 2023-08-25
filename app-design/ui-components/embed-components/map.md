@@ -304,7 +304,7 @@ Returns the width of the Map on the device screen in pixels.
 
 ## See Also
 
-You can pair the Map component with a [Location Sensor](../../../blocks/app-features/sensors-blocks/location-sensor.md). This helps you show content relevant to the user's location.
+You can pair the Map component with a [Location Sensor](../../../location-sensor.md). This helps you show content relevant to the user's location.
 
 These blocks will set the map's latitude and longitude to show the user's location once the map is ready:
 

@@ -172,7 +172,7 @@ If you want to retrieve the `"text"` property in line 13, you'll have to:
 * select the `"duration"` property of the elements object
 * select the `"text"` property of the duration object
 
-You can see the example below for how this would look using the [Object](../../blocks/objects.md) and [List](../../blocks/lists.md) blocks
+You can see the example below for how this would look using the [Object](../../blocks/objects.md) and [List](../../../lists.md) blocks
 
 ![](../../../.gitbook/assets/screen-shot-2018-08-01-at-3.18.25-pm.png)
 

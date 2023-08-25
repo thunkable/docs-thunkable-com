@@ -49,7 +49,7 @@ You can **delete** your project, **duplicate** your project, or see your **Proje
 
 ### **Your Project Detail Page**
 
-On the Project Detail page, you can test out your app, similar to when it has been published as a [mobile web app](../../publishing-apps/publish-as-a-web-app-pro.md#mobile-web-app).&#x20;
+On the Project Detail page, you can test out your app, similar to when it has been published as a [mobile web app](../../publish-as-a-web-app-pro.md#mobile-web-app).&#x20;
 
 Your project will be shown in your chosen [Default App Layout](../../settings/project-settings/#default-app-layout).
 

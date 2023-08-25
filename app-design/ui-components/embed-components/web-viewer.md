@@ -7,7 +7,7 @@ description: Display websites in your app
 ## Web Viewer Overview
 
 {% hint style="info" %}
-Some websites may not appear when previewing your app on the web. You may need to [Live Test](../../../getting-started/live-test.md#live-test) the app on a device, or [download](../../../settings/manage-your-projects/download-and-share/download.md) and install the app, to see your web page.
+Some websites may not appear when previewing your app on the web. You may need to [Live Test](../../../live-test.md#live-test) the app on a device, or [download](../../../settings/manage-your-projects/download-and-share/download.md) and install the app, to see your web page.
 {% endhint %}
 
 ![](../../../.gitbook/assets/web-viewer-fig-1.png)

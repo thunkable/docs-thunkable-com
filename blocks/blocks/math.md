@@ -100,8 +100,8 @@ Returns a random fraction $$x$$ where $$0 ≤ x < 1$$
 
 #### Other Ways to add randomness to your app
 
-The [Lists](lists.md) blocks also have blocks for selecting [random items from a list of values](lists.md#sum-min-max-averages-standard-deviation-random-item).
+The [Lists](../../lists.md) blocks also have blocks for selecting [random items from a list of values](../../lists.md#sum-min-max-averages-standard-deviation-random-item).
 
 ## See Also
 
-The [Lists](lists.md) blocks have a block for getting certain mathematical values from a List, including [sum min, max, averages, and standard deviation.](lists.md#sum-min-max-averages-standard-deviation-random-item)
+The [Lists](../../lists.md) blocks have a block for getting certain mathematical values from a List, including [sum min, max, averages, and standard deviation.](../../lists.md#sum-min-max-averages-standard-deviation-random-item)

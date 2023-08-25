@@ -14,7 +14,7 @@ Read more in the [Canvas docs](../../app-design/ui-components/embed-components/c
 ## Sprites
 
 Sprites are the elements on your stage that represent characters, obstacles, and more. \
-Read more in the [Sprites docs.](sprites.md)
+Read more in the [Sprites docs.](../../sprites.md)
 
 ## Canvas Label
 
