@@ -15,7 +15,7 @@ To add your own Google Maps Web Geocoding API Key to your Thunkable project:
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/Google Maps Web Geocoding API Key.png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Google Maps Web Geocoding API Key.png" alt="" width="352"><figcaption></figcaption></figure>
 
 </div>
 
@@ -25,7 +25,7 @@ Geocoding is the process of converting an address to a latitude-longitude pair. 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/coordinates from address block2.png" alt="" width="327"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coordinates from address block2.png" alt="" width="327"><figcaption></figcaption></figure>
 
 </div>
 
@@ -45,7 +45,7 @@ In the sample block combination below, when the Geocode button (btnGeocode) is c
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/coordinates from address block combination2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/coordinates from address block combination2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -65,7 +65,7 @@ Reverse Geocoding is the process of converting a latitude-longitude pair into a 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/address from coordinates block2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/address from coordinates block2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -79,7 +79,7 @@ In the sample block combination below, when the Reverse Geocode button (btnRever
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/address from coordinates block combination2.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/address from coordinates block combination2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

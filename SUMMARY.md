@@ -1,7 +1,6 @@
 # Table of contents
 
 * [What is Thunkable?](README.md)
-* [Location Blocks](location-blocks.md)
 
 ## 🗺 Getting Started
 
@@ -75,6 +74,7 @@
   * [Camera Blocks](blocks/app-features/camera.md)
   * [Files Blocks](blocks/app-features/files-blocks.md)
   * [Sign In Blocks](blocks/app-features/sign-in.md)
+  * [Location Blocks](blocks/app-features/location-blocks.md)
   * [Push Notification Blocks](blocks/app-features/push-notifications-by-one-signal.md)
   * [Alert Blocks](blocks/app-features/alert.md)
   * [Timer Blocks](blocks/app-features/timer.md)
