@@ -22,8 +22,8 @@ Check out our courses in [Thunkable Academy](https://academy.thunkable.com/) to 
 
 Once you have followed a tutorial, test your project on the web to see it live.&#x20;
 
-{% content-ref url="../../live-test.md" %}
-[live-test.md](../../live-test.md)
+{% content-ref url="../live-test.md" %}
+[live-test.md](../live-test.md)
 {% endcontent-ref %}
 
 ## **Step 4.** **Download the Thunkable Live App**

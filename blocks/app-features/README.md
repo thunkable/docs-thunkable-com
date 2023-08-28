@@ -10,20 +10,20 @@ App features are accessed from your project's Blocks tab.
 
 ## Sensors
 
-{% content-ref url="../../gyroscope.md" %}
-[gyroscope.md](../../gyroscope.md)
+{% content-ref url="sensors-blocks/gyroscope.md" %}
+[gyroscope.md](sensors-blocks/gyroscope.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../magnetometer.md" %}
-[magnetometer.md](../../magnetometer.md)
+{% content-ref url="sensors-blocks/magnetometer.md" %}
+[magnetometer.md](sensors-blocks/magnetometer.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../accelerometer.md" %}
-[accelerometer.md](../../accelerometer.md)
+{% content-ref url="sensors-blocks/accelerometer.md" %}
+[accelerometer.md](sensors-blocks/accelerometer.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../location-sensor.md" %}
-[location-sensor.md](../../location-sensor.md)
+{% content-ref url="sensors-blocks/location-sensor.md" %}
+[location-sensor.md](sensors-blocks/location-sensor.md)
 {% endcontent-ref %}
 
 ## Audio/Video

@@ -15,7 +15,7 @@ Platform Updates
 Component Updates
 
 * [sign-in.md](../../blocks/app-features/sign-in.md "mention"): updated Sign In libraries
-* [admob.md](../../admob.md "mention"): Updated AdMob library
+* [admob.md](../../blocks/app-features/admob.md "mention"): Updated AdMob library
 * [lottie.md](../../app-design/ui-components/media-components/lottie.md "mention"): Updated Lottie Libraries
 
 ## August 19, 2023
@@ -51,7 +51,7 @@ Component Updates
 
 Component Updates
 
-* [sprites.md](../../sprites.md "mention"): Fix for 'Create Sprite Type' block
+* [sprites.md](../../gaming/gaming/sprites.md "mention"): Fix for 'Create Sprite Type' block
 
 ## August 1, 2023
 
@@ -83,7 +83,7 @@ Platform Updates
 Platform Updates
 
 * Add Ability to build Android apps to target Android 33 \
-  [publish-to-play-store-android.md](../../publish-to-play-store-android.md "mention")
+  [publish-to-play-store-android.md](../../publishing-apps/publish-to-play-store-android.md "mention")
 * Add hotkeys: \[F] to focus on selected screen, \[Space + Arrow] to pan
 * [organizations.md](../../getting-started/project-collaboration/organizations.md "mention"): Introduced Comments&#x20;
 
@@ -156,14 +156,14 @@ New Components
 Component Updates
 
 * [image-1.md](../../app-design/ui-components/basic-components/image-1.md "mention"): Update package for rendering SVG images
-* [admob.md](../../admob.md "mention"): Set iOS tracking description when AdMob app ID is configured
+* [admob.md](../../blocks/app-features/admob.md "mention"): Set iOS tracking description when AdMob app ID is configured
 * [data-sources.md](../../getting-started/data-sources.md "mention"): Allow Local Data Sources to be 'App Data' or 'Stored Data'
 
 ## June 2, 2023
 
 Component Updates
 
-* [any-component-blocks.md](../../any-component-blocks.md "mention"): Improve UX for editing properties of freshly created/cloned component
+* [any-component-blocks.md](../../blocks/advanced-app-features/any-component-blocks.md "mention"): Improve UX for editing properties of freshly created/cloned component
 
 ## May 30, 2023
 
@@ -174,7 +174,7 @@ Platform Updates
 
 Component Updates
 
-* [admob.md](../../admob.md "mention"): Improve playback of AdMob Rewarded Video
+* [admob.md](../../blocks/app-features/admob.md "mention"): Improve playback of AdMob Rewarded Video
 
 ## May 25, 2023
 
@@ -199,8 +199,8 @@ New Components
 
 Component Updates
 
-* [figma.md](../../figma.md "mention"): Correct typo
-* [figma.md](../../figma.md "mention"): improve layout fidelity to original project when Click block used
+* [figma.md](../../app-design/figma.md "mention"): Correct typo
+* [figma.md](../../app-design/figma.md "mention"): improve layout fidelity to original project when Click block used
 * [speech.md](../../blocks/app-features/speech.md "mention"): updated package used to provide functionality
 
 ## May 12, 2023
@@ -215,21 +215,21 @@ Platform Updates
 
 * [ui-components](../../app-design/ui-components/ "mention"): Improve visibility of component names while renaming on Safari
 * [share-1.md](../../settings/manage-your-projects/download-and-share/share-1.md "mention"): Ensure Share links link to fully updated copy of Thunkable projects
-* [live-test.md](../../live-test.md "mention"): Improve Google login UX for returning users
+* [live-test.md](../../getting-started/live-test.md "mention"): Improve Google login UX for returning users
 
 Component Updates
 
 * [ui-components](../../app-design/ui-components/ "mention"): Updated component defauls
 * [map.md](../../app-design/ui-components/embed-components/map.md "mention"): Added GeoJSON
-* [figma.md](../../figma.md "mention"): Add warning when imported Figma board contains unsupported asset types
+* [figma.md](../../app-design/figma.md "mention"): Add warning when imported Figma board contains unsupported asset types
 
 ## April 26, 2023
 
 Platform Updates
 
-* [publish-as-a-web-app-pro.md](../../publish-as-a-web-app-pro.md "mention"): Remove phone frame outline from mobile web apps when viewed on a mobile device
+* [publish-as-a-web-app-pro.md](../../publishing-apps/publish-as-a-web-app-pro.md "mention"): Remove phone frame outline from mobile web apps when viewed on a mobile device
 * [organizations.md](../../getting-started/project-collaboration/organizations.md "mention"): Allow Organization members to view Organization details via accoutn settings menu
-* [publish-to-app-store-ios](../../publish-to-app-store-ios/ "mention"): When prompted to add information to App Settings, the App Settings menu will be opened
+* [publish-to-app-store-ios](../../publishing-apps/publish-to-app-store-ios/ "mention"): When prompted to add information to App Settings, the App Settings menu will be opened
 * [your-thunkable-projects-page.md](../../getting-started/get-started/your-thunkable-projects-page.md "mention"): Added pagination to Grid View of projects page
 * Snap to Place UI: Improve UX when deleting invisible components from a project
 
@@ -243,7 +243,7 @@ Component Updates
 
 Platform Updates
 
-* [live-test.md](../../live-test.md "mention"): Prevent [Versions](https://docs.thunkable.com/versioning) of a project from appearing as separate projects in the Thunkable Live app&#x20;
+* [live-test.md](../../getting-started/live-test.md "mention"): Prevent [Versions](https://docs.thunkable.com/versioning) of a project from appearing as separate projects in the Thunkable Live app&#x20;
 
 ## April 20, 2023
 
@@ -277,8 +277,8 @@ Platform Updates
 Platform Updates
 
 * [organizations.md](../../getting-started/project-collaboration/organizations.md "mention"): Introduce [#admin-dashboard](../../getting-started/project-collaboration/organizations.md#admin-dashboard "mention")
-* [#publish-web-app](../../publish-as-a-web-app-pro.md#publish-web-app "mention"): Introduce [#publish-to-a-custom-domain](../../publish-as-a-web-app-pro.md#publish-to-a-custom-domain "mention")
-* [#preview-your-app-on-the-web](../../live-test.md#preview-your-app-on-the-web "mention"): Fixes to opening of web preview in new window
+* [#publish-web-app](../../publishing-apps/publish-as-a-web-app-pro.md#publish-web-app "mention"): Introduce [#publish-to-a-custom-domain](../../publishing-apps/publish-as-a-web-app-pro.md#publish-to-a-custom-domain "mention")
+* [#preview-your-app-on-the-web](../../getting-started/live-test.md#preview-your-app-on-the-web "mention"): Fixes to opening of web preview in new window
 * Improved site behavior when clicking on project 3-dot menu in project list view on Projects Page&#x20;
 
 Component Updates
@@ -298,7 +298,7 @@ Platform Updates
 
 Platform Updates
 
-* [live-test.md](../../live-test.md "mention"): Added link to Privacy Policy and Terms and Conditions to Settings screen of the Thunkable Live app, to make access easier for users at all times
+* [live-test.md](../../getting-started/live-test.md "mention"): Added link to Privacy Policy and Terms and Conditions to Settings screen of the Thunkable Live app, to make access easier for users at all times
 
 ## March 31, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
@@ -364,7 +364,7 @@ Platform Updates
 
 Component Updates
 
-* [admob.md](../../admob.md "mention"): upgraded ads package to newest Google Mobile Ads SDK
+* [admob.md](../../blocks/app-features/admob.md "mention"): upgraded ads package to newest Google Mobile Ads SDK
 
 ## February 22, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
@@ -383,14 +383,14 @@ Platform Updates
 
 Platform Updates
 
-* [live-test.md](../../live-test.md "mention"): Changes to displaying latest version number on Thunkable Live for Android app
+* [live-test.md](../../getting-started/live-test.md "mention"): Changes to displaying latest version number on Thunkable Live for Android app
 * [assets.md](../../settings/assets.md "mention"): Refetch assets based on major version number
 
 Component Updates
 
-* [top-tab-navigator.md](../../top-tab-navigator.md "mention")/ [bottom-tab-navigator.md](../../bottom-tab-navigator.md "mention"): improve display of tab icons
+* [top-tab-navigator.md](../../app-design/screens-and-navigators/top-tab-navigator.md "mention")/ [bottom-tab-navigator.md](../../app-design/screens-and-navigators/bottom-tab-navigator.md "mention"): improve display of tab icons
 * [ui-components](../../app-design/ui-components/ "mention"): Gracefully handle null values for style properties&#x20;
-* [figma.md](../../figma.md "mention"): Improvements to image rendering, performance of 'When Image click' events
+* [figma.md](../../app-design/figma.md "mention"): Improvements to image rendering, performance of 'When Image click' events
 
 ## February 2, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
@@ -444,7 +444,7 @@ Platform Updates
 
 Component Updates
 
-* [figma.md](../../figma.md "mention"): Add missing translations to remaining Figma blocks&#x20;
+* [figma.md](../../app-design/figma.md "mention"): Add missing translations to remaining Figma blocks&#x20;
 
 ## January 18, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 
@@ -458,7 +458,7 @@ Platform Updates
 
 Component Updates
 
-* [figma.md](../../figma.md "mention"): Add missing translations to Figma blocks&#x20;
+* [figma.md](../../app-design/figma.md "mention"): Add missing translations to Figma blocks&#x20;
 
 ## January 13, 2023 <a href="#may-14-2022" id="may-14-2022"></a>
 

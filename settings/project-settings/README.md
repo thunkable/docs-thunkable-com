@@ -14,7 +14,7 @@ This is a description of your app and how you intend it to be used. It is not ne
 
 Your app name is the name you choose for your app. It differs from the project name, which displays at the top of your project. While the project name is internal and may include details specific to your team, the app name is user-facing.
 
-The app name is the name that is displayed on the Google Play Store or Apple App Store, and that users see when they install your app on their device. This name is also used to set the page title when you publish as a [web app](../../publish-as-a-web-app-pro.md).&#x20;
+The app name is the name that is displayed on the Google Play Store or Apple App Store, and that users see when they install your app on their device. This name is also used to set the page title when you publish as a [web app](../../publishing-apps/publish-as-a-web-app-pro.md).&#x20;
 
 We recommend a short one or two word app name.
 
@@ -63,7 +63,7 @@ Please ensure the file you upload does not have the same name as another asset y
 | Shape     | Square (equal height and width)               |
 | File Type | Preferably .png (vs. jpg or other file types) |
 
-For publishing to the iOS [App Store](../../publish-to-app-store-ios/#upload-an-icon-and-enter-your-build-number-and-version-number), you will also need an app icon that does not have any transparency, or it may cause an error.
+For publishing to the iOS [App Store](../../publishing-apps/publish-to-app-store-ios/#upload-an-icon-and-enter-your-build-number-and-version-number), you will also need an app icon that does not have any transparency, or it may cause an error.
 
 {% hint style="info" %}
 For publishing your app to the Play and App stores, you will need to create a separate icon with a higher resolution. For [Google Play](https://developer.android.com/google-play/resources/icon-design-specifications#creating\_assets), the current requirement is 500 x 500 px. For the [App Store](https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon#app-icon-sizes), it's 1024 x 1024 px.
@@ -120,7 +120,7 @@ To customize the background color of your app’s splash screen:
 
 ### App (Bundle) ID
 
-A unique identifier for your app on the [App Store](../../publish-to-app-store-ios/#register-an-app-id-on-app-store-connect) or [Play Store](../../publish-to-play-store-android.md#the-package-name).&#x20;
+A unique identifier for your app on the [App Store](../../publishing-apps/publish-to-app-store-ios/#register-an-app-id-on-app-store-connect) or [Play Store](../../publishing-apps/publish-to-play-store-android.md#the-package-name).&#x20;
 
 This should follow a pattern like `com.domain.creatorname.appname`
 
@@ -133,7 +133,7 @@ PRO Thunkable users have the option to set their app to Private. A private app w
 
 ### Auto-increment Version
 
-When you publish to the [App Store](../../publish-to-app-store-ios/) or the [Play Store](../../publish-to-play-store-android.md), you will need to increment (increase) your version number each time. If this switch is set to `true,` Thunkable will automatically increment your project's version number each time you publish your app (iOS) or download your app (Android).
+When you publish to the [App Store](../../publishing-apps/publish-to-app-store-ios/) or the [Play Store](../../publishing-apps/publish-to-play-store-android.md), you will need to increment (increase) your version number each time. If this switch is set to `true,` Thunkable will automatically increment your project's version number each time you publish your app (iOS) or download your app (Android).
 
 ### Ignore Notch Area
 
@@ -147,17 +147,17 @@ This property enables you to set the safe area view color. With this, you can cu
 
 ### Version Name
 
-Set a [version name](../../publish-to-play-store-android.md#build-and-version-number) for this version of your Android app.
+Set a [version name](../../publishing-apps/publish-to-play-store-android.md#build-and-version-number) for this version of your Android app.
 
 ### Version Code
 
-Set a [version code](../../publish-to-play-store-android.md#build-and-version-number) for this version of your Android app.
+Set a [version code](../../publishing-apps/publish-to-play-store-android.md#build-and-version-number) for this version of your Android app.
 
 ## 5. iOS
 
 ### Version Number
 
-Set a [version number](../../publish-to-app-store-ios/#set-a-version-number) for this version of your iOS app.
+Set a [version number](../../publishing-apps/publish-to-app-store-ios/#set-a-version-number) for this version of your iOS app.
 
 ### Tracking Usage Description (iOS only)
 

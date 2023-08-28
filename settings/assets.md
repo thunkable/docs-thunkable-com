@@ -4,7 +4,7 @@ description: Upload and manage your files from the Assets pane
 
 # Assets
 
-Use the **Assets Panel** to upload, rename and manage all of the assets you've uploaded to your project. You can also manage Figma files within this panel. To learn more about how to use the Figma upload feature, check it out [here](../figma.md).&#x20;
+Use the **Assets Panel** to upload, rename and manage all of the assets you've uploaded to your project. You can also manage Figma files within this panel. To learn more about how to use the Figma upload feature, check it out [here](../app-design/figma.md).&#x20;
 
 ## Account Storage Limits
 

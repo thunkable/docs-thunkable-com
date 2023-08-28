@@ -18,7 +18,7 @@ These components require a little more set-up than the other [app features](../a
 [openai-services-chatgpt-integration-blocks.md](openai-services-chatgpt-integration-blocks.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../any-component-blocks.md" %}
-[any-component-blocks.md](../../any-component-blocks.md)
+{% content-ref url="any-component-blocks.md" %}
+[any-component-blocks.md](any-component-blocks.md)
 {% endcontent-ref %}
 

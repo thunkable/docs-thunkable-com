@@ -67,7 +67,7 @@ If you want to start an event from a confirm button, you will want to add the bl
 ## Button List: Alert with three or more buttons
 
 It is possible to add buttons to an alert for more sophisticated use cases.\
-This can be done using the `set Button List to` block by creating a [list](../../lists.md) of [objects](../blocks/objects.md).
+This can be done using the `set Button List to` block by creating a [list](../blocks/lists.md) of [objects](../blocks/objects.md).
 
 You can set the **Text** of the Alert. You can set the **Style** of the Alert to **ok, destructive** or **cancel.**
 

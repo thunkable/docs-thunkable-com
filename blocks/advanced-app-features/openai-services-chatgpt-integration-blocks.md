@@ -42,7 +42,7 @@ To setup the OpenAI integration in Thunkable:&#x20;
 
 ### Request Settings
 
-Request Settings are passed as a [list](../../lists.md) of [Objects](../blocks/objects.md), or key-value pairs. In this modal, you can pass the property name and property value in their own fields.
+Request Settings are passed as a [list](../blocks/lists.md) of [Objects](../blocks/objects.md), or key-value pairs. In this modal, you can pass the property name and property value in their own fields.
 
 See what kind of settings you can pass in OpenAI's [Making Requests](https://beta.openai.com/docs/api-reference/making-requests) documentation.
 
@@ -90,13 +90,13 @@ Get the API Key being used to make calls to the OpenAI API in your app
 
 #### Set API Request Settings
 
-Use [lists](../../lists.md) and [Objects](../blocks/objects.md) blocks to set the [Request Settings](openai-services-chatgpt-integration-blocks.md#request-settings) of your call to the OpenAI API
+Use [lists](../blocks/lists.md) and [Objects](../blocks/objects.md) blocks to set the [Request Settings](openai-services-chatgpt-integration-blocks.md#request-settings) of your call to the OpenAI API
 
 #### Get API Request Settings
 
 Get the [Request Settings](openai-services-chatgpt-integration-blocks.md#request-settings) of your call to the OpenAI API
 
-Your Request Settings will be returned as a [list](../../lists.md) of [Objects](../blocks/objects.md)
+Your Request Settings will be returned as a [list](../blocks/lists.md) of [Objects](../blocks/objects.md)
 
 ## Create a Thunkable Project Using the OpenAI Integration
 

@@ -28,8 +28,8 @@ This navigator allows your app's user to change screens by clicking on icons at 
 
 </div>
 
-{% content-ref url="../../bottom-tab-navigator.md" %}
-[bottom-tab-navigator.md](../../bottom-tab-navigator.md)
+{% content-ref url="bottom-tab-navigator.md" %}
+[bottom-tab-navigator.md](bottom-tab-navigator.md)
 {% endcontent-ref %}
 
 ### Top Tab Navigator
@@ -42,8 +42,8 @@ This navigator allows your app's user to change screens by clicking on icons at 
 
 </div>
 
-{% content-ref url="../../top-tab-navigator.md" %}
-[top-tab-navigator.md](../../top-tab-navigator.md)
+{% content-ref url="top-tab-navigator.md" %}
+[top-tab-navigator.md](top-tab-navigator.md)
 {% endcontent-ref %}
 
 ### Drawer Navigator
@@ -52,8 +52,8 @@ This navigator pulls out a side menu or drawer of navigation options for the app
 
 <img src="../../.gitbook/assets/drawer navigator.png" alt="" data-size="original">
 
-{% content-ref url="../../drawer-navigator.md" %}
-[drawer-navigator.md](../../drawer-navigator.md)
+{% content-ref url="drawer-navigator.md" %}
+[drawer-navigator.md](drawer-navigator.md)
 {% endcontent-ref %}
 
 ### Stack Navigator

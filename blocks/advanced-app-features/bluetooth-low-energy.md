@@ -145,10 +145,10 @@ You need to be connected to another Bluetooth device in order to use this block.
 
 #### Outputs
 
-| Output Name       | Data Type                               | Description                                                                  |
-| ----------------- | --------------------------------------- | ---------------------------------------------------------------------------- |
-| data (byte array) | array ([list](../../lists.md)) of bytes | Returns a byte array containing the information received from the BLE device |
-| error             | Text                                    | If an error message is returned, returns the error. Else returns `null`      |
+| Output Name       | Data Type                                   | Description                                                                  |
+| ----------------- | ------------------------------------------- | ---------------------------------------------------------------------------- |
+| data (byte array) | array ([list](../blocks/lists.md)) of bytes | Returns a byte array containing the information received from the BLE device |
+| error             | Text                                        | If an error message is returned, returns the error. Else returns `null`      |
 
 ### Listen for Disconnection
 
@@ -193,7 +193,7 @@ You need to be connected to another Bluetooth device in order to use this block.
 
 ### Transmit Byte Array
 
-Use this block to send data as an array ([list](../../lists.md)) of bytes to a BLE device.
+Use this block to send data as an array ([list](../blocks/lists.md)) of bytes to a BLE device.
 
 You need to be connected to another Bluetooth device in order to use this block.
 
@@ -201,10 +201,10 @@ You need to be connected to another Bluetooth device in order to use this block.
 
 #### Inputs
 
-| Input Name          | Data Type                               | Description                                                                           |
-| ------------------- | --------------------------------------- | ------------------------------------------------------------------------------------- |
-| characteristic UUID | Text                                    | Expects a text block with a 32-bit UUID for the BLE type, service or profile required |
-| data                | array ([list](../../lists.md)) of bytes | Expects a text block with the message that you want to send to your BLE device        |
+| Input Name          | Data Type                                   | Description                                                                           |
+| ------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------- |
+| characteristic UUID | Text                                        | Expects a text block with a 32-bit UUID for the BLE type, service or profile required |
+| data                | array ([list](../blocks/lists.md)) of bytes | Expects a text block with the message that you want to send to your BLE device        |
 
 #### Outputs
 

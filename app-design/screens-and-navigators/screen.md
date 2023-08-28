@@ -174,10 +174,10 @@ To disable app screen preview:
 
 ![](../../.gitbook/assets/screen-toggle-drawer-menu.png)
 
-| Function         | Description                                                                                                                       |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| ToggleDrawerMenu | Opens or Closes the drawer menu, if available. Must be used in conjunction with the [Drawer Navigator](../../drawer-navigator.md) |
+| Function         | Description                                                                                                                 |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ToggleDrawerMenu | Opens or Closes the drawer menu, if available. Must be used in conjunction with the [Drawer Navigator](drawer-navigator.md) |
 
 ## Screen-Specific Navigator Properties
 
-When you add a Screen to a Navigator, you will see a new section for **Navigation Options** in your Screen's Properties panel. You can read about these properties in the [Top Tab Navigator](../../top-tab-navigator.md#screen-specific-tab-navigator-properties), [Bottom Tab Navigator](../../bottom-tab-navigator.md#screen-specific-tab-navigator-properties), and [Drawer Navigator](../../drawer-navigator.md#screen-specific-drawer-navigator-properties) docs.
+When you add a Screen to a Navigator, you will see a new section for **Navigation Options** in your Screen's Properties panel. You can read about these properties in the [Top Tab Navigator](top-tab-navigator.md#screen-specific-tab-navigator-properties), [Bottom Tab Navigator](bottom-tab-navigator.md#screen-specific-tab-navigator-properties), and [Drawer Navigator](drawer-navigator.md#screen-specific-drawer-navigator-properties) docs.
