@@ -159,7 +159,15 @@ To access the blocks specific to the Container component:
 
 Thunkable provides a variety of default [Data Viewer List](../data-components/data-viewers/data-viewer-list.md) and [Data Viewer Grid](../data-components/data-viewers/data-viewer-grid.md) templates, but saving a customized Layout component as a Data Viewer allows you to display your data in a way that reflects your brand design and preferences.&#x20;
 
-### To save a Layout as a Data Viewer:
+### Video Tutorial
+
+#### How to Customize a Data Viewer in Thunkable
+
+In this tutorial, we’ll show you how to customize a Thunkable data viewer so you can display your data in a way that meets your user’s needs and reflects your brand design.
+
+{% embed url="https://youtu.be/O6ohIj0ZfMg" %}
+
+### Save a Layout as a Data Viewer
 
 1. When you're happy with the Layout you have customized, ensure it is selected in the component tree.
 2. Click the **vertical ellipsis** next to the Layout's name in the properties panel.
