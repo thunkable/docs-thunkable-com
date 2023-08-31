@@ -1,100 +1,106 @@
 ---
-description: The image component lets you display pictures in your app.
+description: >-
+  The image component allows you to display pictures in your app and can be made
+  clickable using blocks.
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Image Component
 
-## Image Overview
+## Overview
 
-The Image component lets you display pictures in your app and pairs nicely with image-based components like the [Camera](../../../blocks/app-features/camera.md), [Photo Library](../../../blocks/app-features/camera.md#use-image-from-photo-library), and [Image Recognizer](../../../blocks/app-features/camera.md#image-recognition).
+The image component is used to display visual content, such as pictures, icons, logos, and other types of images, within the user interface of an app. The image component is foundational in creating visually appealing and engaging mobile app interfaces.
 
-![](../../../.gitbook/assets/image-fig-1.png)
+<div align="left" data-full-width="false">
+
+<figure><img src="../../../.gitbook/assets/image-fig-1.png" alt="The image component used in Thunkable to show the image of Billy Beaver on a mobile screen."><figcaption></figcaption></figure>
+
+</div>
 
 ## Properties
 
+You can customize your image using the following properties:&#x20;
+
 ### Image
 
-| Property            | Description                                                                                         | Data Type                                                                                                                                                                                                    |
-| ------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Picture             | The image file to be shown in the Image component                                                   | <p>PNG, JPG, GIF, SVG, etc.<br>Can also use URL that ends in file extension (eg <a href="https://thunkable.com/static/media/logo.ba96eb83.png">https://thunkable.com/static/media/logo.ba96eb83.png</a>)</p> |
-| Picture Resize Mode | Set how picture is shown if the file and the Image component have different dimensions/aspect ratio | Select from list `[cover, contain, stretch, repeat, center]`                                                                                                                                                 |
+| Property            | Value                                                                                | Description                                                                                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Picture             | <p>PNG, JPG, GIF, SVG, etc.<br>Can also use a URL that ends in a file extension.</p> | The image file displayed in the image component.                                                                                                           |
+| Picture Resize Mode | Select from: cover, contain, stretch, repeat, and center.                            | Define how the image is displayed if the file and the image component have different dimensions/aspect ratios. See the definitions of each setting below.  |
 
 #### Picture Resize Mode
 
+* **Center:** The image is displayed at its original size within the container, and it is centered both vertically and horizontally. This means that if the image is larger than the container, parts of it may extend beyond the container's edges.
+* **Cover:** The image is resized to completely cover the container while maintaining its aspect ratio. This mode ensures that the entire container is filled with the image, and any excess image parts are cropped if necessary. This can result in parts of the image being clipped.
+* **Contain:** The image is resized to fit entirely within the container while maintaining its aspect ratio. This mode ensures that the entire image is visible within the container, and it may result in empty space around the image if the container's aspect ratio differs from the image's aspect ratio.
+* **Repeat:** The image is tiled or repeated to fill the entire container, both horizontally and vertically. This mode is often used for creating patterns or backgrounds that seamlessly repeat across the container.
+* **Stretch:** The image is resized to fully cover the container without maintaining its original aspect ratio. This can distort the image and may result in an unnatural appearance, so it's generally not recommended for most scenarios.
+
 ![](../../../.gitbook/assets/image-fig-3.png)
 
-With the Resize Mode property, you can do the following:
-
-* **Center:** Positions the picture in the middle of the image component
-* **Cover:** Resizes the picture to its max height or width regardless without changing the image quality.
-* **Contain:** Resizes the picture to fit the area without changing its quality
-* **Repeat:** Repeats the picture at its original quality within the image component area
-* **Stretch:** The picture’s height will change to fill the image component length-wise
+When working with these resize modes, it's important to consider the context of your app's design and the type of content you're displaying. Different situations might call for different resize modes to achieve the desired visual outcome. For instance, cover might be suitable for background images, while contain could work well for displaying profile pictures. Always strive to maintain a visually pleasing and user-friendly experience while keeping the specific characteristics of each resize mode in mind.
 
 ### Layout
 
-| Property    | Description                                                                     | Data Type                                    |
-| ----------- | ------------------------------------------------------------------------------- | -------------------------------------------- |
-| X           | Position of top left corner of Image on X-axis, where the left hand side is X=0 | Number                                       |
-| Y           | Position of top left corner of Image on Y-axis, where the top is Y=0            | Number                                       |
-| Height      | Height of Image in pixels                                                       | Number                                       |
-| Width       | Width of Image in pixels                                                        | Number                                       |
-| Resize Mode | Define dimensions of the image component/container                              | Select from list `[Stretch, Float in Place]` |
+| Property    | Value            | Desciption                                                                                              |
+| ----------- | ---------------- | ------------------------------------------------------------------------------------------------------- |
+| X           | coordinate value | Position of the upper left corner of the image on the X-axis, where the left side of the screen is X=0. |
+| Y           | coordinate value | Position of the upper left corner of the image on the Y-axis, where the top of the screen is Y=0.       |
+| Height      | number in pixels | The image's height is defined by a custom number of pixels.                                             |
+| Width       | number in pixels | The image's width is defined by a custom number of pixels.                                              |
+| Resize Mode | Stretch          | Stretches the image to fit the dimensions of the device's screen.                                       |
+| Resize Mode | Float in Place   | Renders the image in the same aspect ratio as the design, regardless of the device size.                |
 
 ### Style
 
-| Property       | Description                                                             | Data Type                                  |
-| -------------- | ----------------------------------------------------------------------- | ------------------------------------------ |
-| Visible        | Toggle whether your end users can see the Image                         | True/False                                 |
-| Border Style   | Style of Image's border                                                 | Select from list `[solid, dotted, dashed]` |
-| Border Color   | Color of Image's border                                                 | Color                                      |
-| Border Width   | Width of Image's border in pixels                                       | Number                                     |
-| Border Radius  | Radius of corners of Image's border in pixels                           | Number                                     |
-| Shadow Color   | Color of Image's shadow                                                 | Color                                      |
-| Shadow Opacity | Opacity of Image's shadow                                               | Number between 0 and 100                   |
-| Shadow Radius  | Radius of corners of Image's shadow in pixels                           | Number                                     |
-| Shadow Offset  | How far Image's shadow should be offset, in Height and Width, in pixels | Number                                     |
+| Property        | Value                    | Description                                                                                                |
+| --------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| Visible         | visible                  | Users can see the image.                                                                                   |
+| Visible         | invisible                | Users cannot see the image.                                                                                |
+| Border: Color   | color                    | The image's border is the color selected.                                                                  |
+| Border: Width   | number in pixels         | The width of the image's border is defined by a custom number of pixels.                                   |
+| Border: Radius  | number in pixels         | The radius of the image border’s corners is defined by a custom number of pixels.                          |
+| Shadow: Color   | color                    | The image's shadow is the color selected.                                                                  |
+| Shadow: Opacity | number between 0 and 100 | The opacity of the image's shadow.                                                                         |
+| Shadow: Radius  | number in pixels         | The radius of the image shadow’s corners is defined by a custom number of pixels.                          |
+| Shadow: Offset  | number in pixels         | How far the image's shadow should be offset, in height and width, is defined by a custom number of pixels. |
 
-## Blocks
+## Image Blocks
 
-### Events
+To access the blocks specific to the label component:
 
-#### Click
+1. On the Design tab, add a **Image** component to a screen.
+2. Navigate to the **Blocks** tab.
+3. In the component tree on the left, click the name of the image component.
+4. A drawer of image-specific blocks opens.
 
-![](../../../.gitbook/assets/image\_click.png)
+| Block Image                                              | Description                                                                                                        |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![](<../../../.gitbook/assets/image (226).png>)          | This event will fire when the user clicks on the image.                                                            |
+| ![](../../../.gitbook/assets/setImage.png)               | Set the image component's Picture.                                                                                 |
+| ![](../../../.gitbook/assets/getImage.png)               | Get the image component's Picture.                                                                                 |
+| ![](../../../.gitbook/assets/setImageResize.png)         | Set the image component's [resize mode](image-1.md#picture-resize-mode)                                            |
+| ![](<../../../.gitbook/assets/getImageResize (1).png>)   | Get the image component's [resize mode](image-1.md#picture-resize-mode)                                            |
+| ![](../../../.gitbook/assets/setImageHeight.png)         | Set the image component's height.                                                                                  |
+| ![](../../../.gitbook/assets/getImageHeight.png)         | Get the image component's height.                                                                                  |
+| ![](../../../.gitbook/assets/getImageComputedHeight.png) | Returns the height of the image component in pixels after it has been rendered on-screen.                          |
+| ![](../../../.gitbook/assets/setImageWidth.png)          | Set the image component's width.                                                                                   |
+| ![](../../../.gitbook/assets/getImageWidth.png)          | Get the image component's width.                                                                                   |
+| ![](../../../.gitbook/assets/getImageComputedWidth.png)  | Returns the width of the image component in pixels after it has been rendered on-screen                            |
+| ![](../../../.gitbook/assets/setImageVisible.png)        | Set whether the image component is visible on the screen.                                                          |
+| ![](../../../.gitbook/assets/getImageVisible.png)        | Get whether the image component is visible on the screen.                                                          |
+| ![](../../../.gitbook/assets/setImageX.png)              | Set the position image the upper left corner of the image on the X-axis, where the left side of the screen is X=0. |
+| ![](../../../.gitbook/assets/getImageX.png)              | Get the position of the upper left corner of the image on the X-axis, where the left side of the screen is X=0.    |
+| ![](../../../.gitbook/assets/setImageY.png)              | Set the position of the upper left corner of the image on the Y-axis, where the top of the screen is Y=0.          |
+| ![](../../../.gitbook/assets/getImageY.png)              | Get the position of the upper left corner of the image on the Y-axis, where the top of the screen is Y=0.          |
 
-This event handler is fired when the user clicks on the image.
-
-### Properties
-
-#### Picture&#x20;
-
-![](../../../.gitbook/assets/imp.png)
-
-Set and get the Image component's Picture.
-
-
-
-#### Resize Mode&#x20;
-
-![](../../../.gitbook/assets/imr.png)
-
-Set and get the Image component's [Resize mode](image-1.md#picture-resize-mode)
-
-#### Height&#x20;
-
-![](../../../.gitbook/assets/imh.png)
-
-Returns the height of the Image component in pixels after it has been rendered on-screen.
-
-#### Width
-
-![](../../../.gitbook/assets/imw.png)
-
-Returns the width of the Image component in pixels after it has been rendered on-screen.
-
-#### Visible&#x20;
-
-![](../../../.gitbook/assets/imv.png)
-
-Set and get whether the Image component is visible on the screen.
