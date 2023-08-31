@@ -11,7 +11,7 @@
   * [Versioning](getting-started/get-started/versioning.md)
 * [Keyboard Shortcuts](getting-started/keyboard-shortcuts.md)
 * [Preview and Test your App](getting-started/live-test.md)
-* [Data Sources](getting-started/data-sources/README.md)
+* [Data Sources](getting-started/data-sources.md)
   * [Google Sheets Data Source](getting-started/data-sources/data-sources.md)
   * [Airtable Data Source](getting-started/data-sources/data-sources-1.md)
   * [Webflow Data Source](getting-started/data-sources/data-sources-2.md)

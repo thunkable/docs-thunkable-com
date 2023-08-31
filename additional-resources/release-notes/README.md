@@ -33,7 +33,7 @@ New Components
 
 Component Updates
 
-* [#webflow](../../getting-started/data-sources/#webflow "mention"): text updates
+* [#webflow](../../getting-started/data-sources.md#webflow "mention"): text updates
 * [video.md](../../app-design/ui-components/media-components/video.md "mention"): Fix autoplay on Android
 
 ## August 9, 2023
@@ -44,7 +44,7 @@ Platform Updates
 
 Component Updates
 
-* [data-sources](../../getting-started/data-sources/ "mention"): fix linked project count in My Datasource tab
+* [data-sources.md](../../getting-started/data-sources.md "mention"): fix linked project count in My Datasource tab
 * [image-1.md](../../app-design/ui-components/basic-components/image-1.md "mention"): Fix visibilty of border around GIF files on Android
 
 ## August 2, 2023
@@ -57,7 +57,7 @@ Component Updates
 
 Component Updates
 
-* [data-sources](../../getting-started/data-sources/ "mention"): [#google-sheets](../../getting-started/data-sources/#google-sheets "mention") - Make memory usage more efficient
+* [data-sources.md](../../getting-started/data-sources.md "mention"): [#google-sheets](../../getting-started/data-sources.md#google-sheets "mention") - Make memory usage more efficient
 
 ## July 31, 2023
 
@@ -69,7 +69,7 @@ Platform Updates
 
 Component Updates
 
-* [#airtable](../../getting-started/data-sources/#airtable "mention"): Add OAuth authentication to connect to Airtable account
+* [#airtable](../../getting-started/data-sources.md#airtable "mention"): Add OAuth authentication to connect to Airtable account
 
 ## July 26, 2023
 
@@ -157,7 +157,7 @@ Component Updates
 
 * [image-1.md](../../app-design/ui-components/basic-components/image-1.md "mention"): Update package for rendering SVG images
 * [admob.md](../../blocks/app-features/admob.md "mention"): Set iOS tracking description when AdMob app ID is configured
-* [data-sources](../../getting-started/data-sources/ "mention"): Allow Local Data Sources to be 'App Data' or 'Stored Data'
+* [data-sources.md](../../getting-started/data-sources.md "mention"): Allow Local Data Sources to be 'App Data' or 'Stored Data'
 
 ## June 2, 2023
 
@@ -235,9 +235,9 @@ Platform Updates
 
 Component Updates
 
-* [data-sources](../../getting-started/data-sources/ "mention"): Allow connecting to Webflow data souce via OAuth
+* [data-sources.md](../../getting-started/data-sources.md "mention"): Allow connecting to Webflow data souce via OAuth
 * [map.md](../../app-design/ui-components/embed-components/map.md "mention"): Preserve panning and zooming when toggling visibility
-* [data-sources](../../getting-started/data-sources/ "mention"): Resolve behavior where some users couldn't access projects whose associated data sources had been deleted
+* [data-sources.md](../../getting-started/data-sources.md "mention"): Resolve behavior where some users couldn't access projects whose associated data sources had been deleted
 
 ## April 25, 2023
 
@@ -283,7 +283,7 @@ Platform Updates
 
 Component Updates
 
-* [data-sources](../../getting-started/data-sources/ "mention"): [#webflow](../../getting-started/data-sources/#webflow "mention"): Allow connecting to a Webflow data source with OAuth
+* [data-sources.md](../../getting-started/data-sources.md "mention"): [#webflow](../../getting-started/data-sources.md#webflow "mention"): Allow connecting to a Webflow data source with OAuth
 * [sound.md](../../blocks/app-features/sound.md "mention"): Stop sound playing in Thunkable Live app after exiting project
 * [#text-to-speech](../../blocks/app-features/speech.md#text-to-speech "mention") Stop sound playing in Thunkable Live app after exiting project
 

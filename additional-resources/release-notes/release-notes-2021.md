@@ -363,7 +363,7 @@ Platform Updates:
 
 Platform Updates:
 
-* Improvements to performance of Google Sheets [Data Sources](../../getting-started/data-sources/#google-sheets) picker
+* Improvements to performance of Google Sheets [Data Sources](../../getting-started/data-sources.md#google-sheets) picker
 
 ## May 27, 2021
 
@@ -381,7 +381,7 @@ Component Updates:
 * Drag and Drop UI: components that are not [Groups](https://docs.thunkable.com/v/drag-and-drop/groups) will no longer accept "children" in the Component Tree
 * Drag and Drop UI: [Data Viewer List](https://docs.thunkable.com/v/drag-and-drop/data-viewer-list)'s Left Swipe Enabled and Right Swipe Enabled properties are restored in Design Tab
 * Drag and Drop UI: [Label](https://docs.thunkable.com/v/drag-and-drop/label) and [Button](https://docs.thunkable.com/v/drag-and-drop/button) now have a range of fonts to choose from
-* Online [Data Sources](../../getting-started/data-sources/) are no longer disconnected from a project when it is copied within the same account
+* Online [Data Sources](../../getting-started/data-sources.md) are no longer disconnected from a project when it is copied within the same account
 
 ## May 24, 2021
 

@@ -22,7 +22,7 @@ The Data Viewer List lets you connect to a Data Source and view your data as a l
 
 | Property                            | Description                                                                                                                                        | Data Type                                |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| Data Source                         | The [Data Source](../../../../getting-started/data-sources/#add-a-data-source-to-your-app) your data is to be pulled from                          | References chosen data source            |
+| Data Source                         | The [Data Source](../../../../getting-started/data-sources.md#add-a-data-source-to-your-app) your data is to be pulled from                        | References chosen data source            |
 | Table                               | Table from your Data Source to show data from                                                                                                      | Reference to chosen table in Data Source |
 | Row Appearance                      | How your data will be displayed in your app                                                                                                        | Select from list                         |
 | Populate Data                       | Select what items of data from your data source to show in which aspects of your layout                                                            | Select from lists                        |
@@ -96,6 +96,6 @@ When you connect a Data Source to your project, you will also have access to a D
 
 Click on the link below to learn how to use the Data Sources blocks in your project.&#x20;
 
-{% content-ref url="../../../../getting-started/data-sources/" %}
-[data-sources](../../../../getting-started/data-sources/)
+{% content-ref url="../../../../getting-started/data-sources.md" %}
+[data-sources.md](../../../../getting-started/data-sources.md)
 {% endcontent-ref %}

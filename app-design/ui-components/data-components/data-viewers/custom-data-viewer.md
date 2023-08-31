@@ -49,7 +49,7 @@ In this tutorial, we’ll show you how to customize a Thunkable data viewer so y
 1. Click the **Create New Screen** icon at the top of the component tree in the Designer. &#x20;
 2. Drag a **Data Viewer Lis**t or **Data Viewer Grid** component onto your screen.
 3. Reposition and resize as necessary.
-4. Connect your project to a data source. See here for instructions on connecting a data source: [Data Sources](../../../../getting-started/data-sources/).
+4. Connect your project to a data source. See here for instructions on connecting a data source: [Data Sources](../../../../getting-started/data-sources.md).
 5.  Click the sample template to access the data viewer templates available to you.\
 
 

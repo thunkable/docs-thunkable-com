@@ -40,7 +40,7 @@ Component Updates
 
 Component Updates
 
-* [Delete All Rows](../../getting-started/data-sources/#delete-all-rows) block for [Data Sources ](../../getting-started/data-sources/)
+* [Delete All Rows](../../getting-started/data-sources.md#delete-all-rows) block for [Data Sources ](../../getting-started/data-sources.md)
 * [Alert](../../blocks/app-features/alert.md) now works in [Web Apps](../../publishing-apps/publish-as-a-web-app-pro.md)
 
 ## September 18, 2020
@@ -119,7 +119,7 @@ Component updates
 
 * Adding click events for [Text Input](../../app-design/ui-components/basic-components/text-input.md), [Label](../../app-design/ui-components/basic-components/label.md) and [Image](../../app-design/ui-components/basic-components/image-1.md) components
 * Improving the [Map](../../app-design/ui-components/embed-components/map.md) event
-* [Data Source](../../getting-started/data-sources/): Google Sheets can now be accessed by index in Data Source blocks&#x20;
+* [Data Source](../../getting-started/data-sources.md): Google Sheets can now be accessed by index in Data Source blocks&#x20;
 * [Time Input ](../../app-design/ui-components/input-components/time-input.md)label updated
 
 New components

@@ -56,8 +56,8 @@ Thunkable provides various default [data viewer list](data-viewer-list.md) and [
 
 When a data source powers your app, you can continuously update your app contents without having to republish it. It allows you to build a dynamic app that can create, read, update, and delete data. Thunkable supports Google Sheets, Airtable, Webflow, and local tables as data sources.
 
-{% content-ref url="../../../../getting-started/data-sources/" %}
-[data-sources](../../../../getting-started/data-sources/)
+{% content-ref url="../../../../getting-started/data-sources.md" %}
+[data-sources.md](../../../../getting-started/data-sources.md)
 {% endcontent-ref %}
 
 ### Data Sources Blocks

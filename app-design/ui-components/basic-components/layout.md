@@ -170,5 +170,3 @@ The layout component is the foundation of custom data viewers, which allow for m
 {% hint style="success" %}
 **Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfCwn5L2xyla-LSLZX0DSWFcFeJ43qp-r1tELCacuVS2zduLA/viewform?usp=sf\_link). Your valuable insights will help us improve and better serve you in the future.
 {% endhint %}
-
-### To save a Layout as a Data Viewer:

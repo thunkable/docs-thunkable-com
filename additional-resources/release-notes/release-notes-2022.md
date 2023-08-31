@@ -8,7 +8,7 @@ Platform Updates
 
 Component Updates
 
-* [Local Data Sources](../../getting-started/data-sources/#create-your-own-table): improve UX when deleting column
+* [Local Data Sources](../../getting-started/data-sources.md#create-your-own-table): improve UX when deleting column
 * [canvas.md](../../app-design/ui-components/embed-components/canvas.md "mention"): Improve UX when changing background color with blocks
 
 ## December 19, 2022
@@ -210,7 +210,7 @@ Platform Updates
 
 Component Updates
 
-* [Data Sources](../../getting-started/data-sources/): Improve updating display of data in Local Data Source when viewing project
+* [Data Sources](../../getting-started/data-sources.md): Improve updating display of data in Local Data Source when viewing project
 
 ## September 7, 2022
 
@@ -316,7 +316,7 @@ Platform Updates
 
 Component Updates
 
-* [Airtable Data Sources](../../getting-started/data-sources/#airtable): fix error when syncing with Airtable DB containing tables which have been deleted externally to the Thunkable project&#x20;
+* [Airtable Data Sources](../../getting-started/data-sources.md#airtable): fix error when syncing with Airtable DB containing tables which have been deleted externally to the Thunkable project&#x20;
 * Updated Firebase used for [cloud variables](../../blocks/blocks/variables.md#cloud-variables) and [Sign In](../../blocks/app-features/sign-in.md)
 
 ## August 3, 2022

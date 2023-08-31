@@ -12,7 +12,7 @@ This block will vibrate the device.
 
 ![](../../.gitbook/assets/device-hour.png)
 
-At the moment, all the dates and times are in numerical format i.e. month = 1 rather than month = Jan. If you want to convert the numbers into names, we suggest you to add a Local [Data Source](../../getting-started/data-sources/#create-your-own-table) and a simple table like the ones shown below.
+At the moment, all the dates and times are in numerical format i.e. month = 1 rather than month = Jan. If you want to convert the numbers into names, we suggest you to add a Local [Data Source](../../getting-started/data-sources.md#create-your-own-table) and a simple table like the ones shown below.
 
 ![](../../.gitbook/assets/screen-shot-2021-04-08-at-11.31.33-am.png)
 
