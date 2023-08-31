@@ -44,6 +44,10 @@ In this tutorial, we’ll show you how to customize a Thunkable data viewer so y
    \- Grid for a data viewer grid
 6. Click **OK**.
 
+{% hint style="danger" %}
+A custom data viewer is designed to view data. It is not intended to receive user inputs. As such, we recommend that input components such as the text input and button, for example, are not included in a custom data viewer layout.
+{% endhint %}
+
 ### To Use a Saved Layout as a Data Viewer:
 
 1. Click the **Create New Screen** icon at the top of the component tree in the Designer. &#x20;

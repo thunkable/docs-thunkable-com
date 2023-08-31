@@ -28,7 +28,7 @@ Once you have followed a tutorial, test your project on the web to see it live.&
 
 ## **Step 4.** **Download the Thunkable Live App**
 
-The Thunkable Live app lets you preview your apps directly on your personal devices. Links to download for Android and iOS are here: [Thunkable Live App](https://thunkable.com/#/mobile)
+The Thunkable Live app lets you preview your apps directly on your personal devices. Links to download for Android and iOS are here: [Thunkable Live App](https://thunkable.com/mobile)
 
 If you don't have an iOS or Android device, you can [set up an emulator](../../additional-resources/emulators.md) on your computer that will display your apps.
 

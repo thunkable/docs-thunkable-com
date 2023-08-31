@@ -26,7 +26,7 @@ Thunkable imports your Figma files in a way that best preserves your original de
 
 Shapes such as rectangle or a circle will be imported as a shape. \
 You can continue to edit its style within Thunkable. \
-Images and text will be imported as a png and saved like a normal [asset](../settings/assets.md) that has been uploaded to Thunkable. \
+Images and text will be imported as a svg and saved like a normal [asset](../settings/assets.md) that has been uploaded to Thunkable. \
 We have done this intentionally to preserve the original font styles. \
 If you want text to be editable, we recommend you replace that image with a Thunkable [label](ui-components/basic-components/label.md).&#x20;
 

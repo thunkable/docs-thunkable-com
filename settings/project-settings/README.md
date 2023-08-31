@@ -18,8 +18,8 @@ The app name is the name that is displayed on the Google Play Store or Apple App
 
 We recommend a short one or two word app name.
 
-{% hint style="warning" %}
-Avoid using the character "&" in your app name: at the moment, it prevents your app from being installed on your device
+{% hint style="danger" %}
+Avoid using symbols in your app name. Doing so prevents your app from being installed on your device. All characters must be alphanumeric or an underscore \[a-z, A-Z, 0-9, \_].
 {% endhint %}
 
 ### Default App Layout <a href="#default-app-layout" id="default-app-layout"></a>

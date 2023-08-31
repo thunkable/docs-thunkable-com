@@ -35,12 +35,12 @@ Once a screen has been added to the drawer navigator, a new section in the scree
 
 You have many options for styling your Drawer Navigator, such as changing the background color or tint color. Here are the different options for customization:
 
-| Property                  | Description                                     | Data Type                        |
-| ------------------------- | ----------------------------------------------- | -------------------------------- |
-| Drawer Width              | The width of the Drawer in pixels.              | Number                           |
-| Drawer Position           | The position the Drawer enters the screen from. | Select from menu (left or right) |
-| Active Tint Color         | Text color of selected drawer.                  | Color                            |
-| Active Background Color   | Background color of selected drawer.            | Color                            |
-| Inactive Tint Color       | Text color for unselected drawers.              | Color                            |
-| Inactive Background Color | Background color for unselected drawers.        | Color                            |
+| Property                  | Description                                                                                              | Data Type                        |
+| ------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| Drawer Width              | The width of the drawer in pixels. By default, this is 280 pixels for phones and 320 pixels for tablets. | Number                           |
+| Drawer Position           | The position the Drawer enters the screen from.                                                          | Select from menu (left or right) |
+| Active Tint Color         | Text color of selected drawer.                                                                           | Color                            |
+| Active Background Color   | Background color of selected drawer.                                                                     | Color                            |
+| Inactive Tint Color       | Text color for unselected drawers.                                                                       | Color                            |
+| Inactive Background Color | Background color for unselected drawers.                                                                 | Color                            |
 

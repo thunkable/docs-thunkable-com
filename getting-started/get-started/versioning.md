@@ -8,7 +8,7 @@ Thunkable’s versioning functionality allows you to preserve a version of your 
 
 There are two forms of versioning available, auto-versioning and manual versioning, both of which are available to our Pro, Business, and Team Creators.&#x20;
 
-Pro plans allow for 10 manual versions per project, and Business and Team plans allow for 50 versions per project. Overall storage limits remain the same and each saved version counts towards the account’s limit, meaning if a creator makes one version of a 50MB project they will be using 100MB of account storage. For more on plan limits please see here: [Thunkable pricing](https://thunkable.com/#/pricing).
+Pro plans allow for 10 manual versions per project, and Business and Team plans allow for 50 versions per project. Overall storage limits remain the same and each saved version counts towards the account’s limit, meaning if a creator makes one version of a 50MB project they will be using 100MB of account storage. For more on plan limits please see here: [Thunkable pricing](https://thunkable.com/pricing).
 
 ## Auto-versioning
 
