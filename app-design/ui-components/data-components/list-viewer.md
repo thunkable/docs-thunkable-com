@@ -88,7 +88,7 @@ Set the text items displayed in your Simple List. Works with [list](../../../blo
 
 !['set Simple List's text items' block used with make list from text block](../../../.gitbook/assets/medium\_list.png)
 
-This block also works with blocks to retrieve columns from [Data Sources](../../../getting-started/data-sources.md):
+This block also works with blocks to retrieve columns from [Data Sources](../../../getting-started/data-sources/):
 
 ![Fetching data from a Local Table](../../../.gitbook/assets/local-table.png)
 

@@ -50,6 +50,6 @@ They can be connected to a commonly used set of blocks that range from opening s
 [functions.md](functions.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../getting-started/data-sources.md" %}
-[data-sources.md](../../getting-started/data-sources.md)
+{% content-ref url="../../getting-started/data-sources/" %}
+[data-sources](../../getting-started/data-sources/)
 {% endcontent-ref %}

@@ -8,7 +8,7 @@ Since big companies and hackers often target large repositories of sensitive dat
 
 ### Store data locally
 
-For simple personal data like user login info, you can use a [local table data source](../../getting-started/data-sources.md#create-your-own-table) to save data directly to the device.
+For simple personal data like user login info, you can use a [local table data source](../../getting-started/data-sources/#create-your-own-table) to save data directly to the device.
 
 {% hint style="info" %}
 Data stored locally on the phone is often uploaded to the cloud by a phone's back-up provider.

@@ -155,62 +155,20 @@ To access the blocks specific to the Container component:
 3. A drawer of Container-specific blocks opens.
 4. The blocks are the same as the ones above in the [Layout Blocks section](layout.md#7.-layout-blocks), but specific to the Container instead of the Layout.
 
-## Create a Custom Data Viewer&#x20;
+## Related Docs
 
-Thunkable provides a variety of default [Data Viewer List](../data-components/data-viewers/data-viewer-list.md) and [Data Viewer Grid](../data-components/data-viewers/data-viewer-grid.md) templates, but saving a customized Layout component as a Data Viewer allows you to display your data in a way that reflects your brand design and preferences.&#x20;
+### Custom Data Viewer
 
-### Video Tutorial
+The layout component is the foundation of custom data viewers, which allow for more precise positioning of UI components on an app screen.
 
-#### How to Customize a Data Viewer in Thunkable
-
-In this tutorial, we’ll show you how to customize a Thunkable data viewer so you can display your data in a way that meets your user’s needs and reflects your brand design.
-
-{% embed url="https://youtu.be/O6ohIj0ZfMg" %}
-
-### Save a Layout as a Data Viewer
-
-1. When you're happy with the Layout you have customized, ensure it is selected in the component tree.
-2. Click the **vertical ellipsis** next to the Layout's name in the properties panel.
-3.  Select **Save as Data Viewer Layout**.\
+{% content-ref url="../data-components/data-viewers/custom-data-viewer.md" %}
+[custom-data-viewer.md](../data-components/data-viewers/custom-data-viewer.md)
+{% endcontent-ref %}
 
 
-    <div align="left">
-
-    <figure><img src="../../../.gitbook/assets/Layout - Save as Data Viewer Layout.png" alt="" width="563"><figcaption></figcaption></figure>
-
-    </div>
-4. Give your Data Viewer Layout a detailed **name**.
-5. Select the **Layout Type** you want to create. \
-   \- List for a Data Viewer List\
-   \- Grid for a Data Viewer Grid
-6. Click **OK**.
-
-### To use a saved Layout as a Data Viewer:
-
-1. Click the **Create New Screen** icon at the top of the component tree in the Designer. &#x20;
-2. Drag a **Data Viewer Lis**t or **Data Viewer Grid** onto your screen.
-3. Reposition and resize as necessary.
-4. Connect you project to a data source. See here for instructions on connecting a data source: [Data Sources](../../../getting-started/data-sources.md).
-5.  Click the sample template to access the Data Viewer templates available to you.\
-
-
-    <div align="left">
-
-    <figure><img src="../../../.gitbook/assets/Data Viewer List - properties panel - design template.png" alt="" width="290"><figcaption></figcaption></figure>
-
-    </div>
-6. Click to select the Layout you saved as a Data Viewer from the bottom of the template library.&#x20;
-7.  Map your data source columns to components within your custom Data Viewer Layout. \
-
-
-    <div align="left">
-
-    <figure><img src="../../../.gitbook/assets/Data Viewer - properites panel - map column data.png" alt="" width="279"><figcaption></figcaption></figure>
-
-    </div>
-
-See here for more on working with Data Viewers and Data Sources: [Data Viewers and Data Sources](../data-components/data-viewers/).
 
 {% hint style="success" %}
 **Have feedback on this doc?** Please take a moment to share your feedback here: [Thunkable Docs Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfCwn5L2xyla-LSLZX0DSWFcFeJ43qp-r1tELCacuVS2zduLA/viewform?usp=sf\_link). Your valuable insights will help us improve and better serve you in the future.
 {% endhint %}
+
+### To save a Layout as a Data Viewer:

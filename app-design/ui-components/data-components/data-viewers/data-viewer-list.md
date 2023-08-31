@@ -22,10 +22,10 @@ The Data Viewer List lets you connect to a Data Source and view your data as a l
 
 | Property                            | Description                                                                                                                                        | Data Type                                |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| Data Source                         | The [Data Source](../../../../getting-started/data-sources.md#add-a-data-source-to-your-app) your data is to be pulled from                        | References chosen data source            |
+| Data Source                         | The [Data Source](../../../../getting-started/data-sources/#add-a-data-source-to-your-app) your data is to be pulled from                          | References chosen data source            |
 | Table                               | Table from your Data Source to show data from                                                                                                      | Reference to chosen table in Data Source |
 | Row Appearance                      | How your data will be displayed in your app                                                                                                        | Select from list                         |
-| Populate Data                       | Select what items of data from your Data Source to show in which aspects of your layout                                                            | Select from lists                        |
+| Populate Data                       | Select what items of data from your data source to show in which aspects of your layout                                                            | Select from lists                        |
 | Left Swipe                          | Toggle whether your end user can swipe a list item to the left to view an additional Button. Reveals Left Swipe Button settings if set to `true`   | True/False                               |
 | Left Swipe Button Text              | Text of Button visible when user swipes list item to the left                                                                                      | Text                                     |
 | Left Swipe Button Text Color        | Text Color of Button visible when user swipes list item to the left                                                                                | Color                                    |
@@ -92,10 +92,10 @@ Set and get the Empty Text property of the Data Viewer List
 
 ### Data Sources
 
-When you connect a Data Source to your project you will also have access to a second block drawer. These Data Source blocks allow you to perform a variety of CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) operations on your data.&#x20;
+When you connect a Data Source to your project, you will also have access to a Data Sources block drawer. These Data Source blocks allow you to perform a variety of CRUD (**C**reate, **R**ead, **U**pdate, **D**elete) operations on your data.&#x20;
 
 Click on the link below to learn how to use the Data Sources blocks in your project.&#x20;
 
-{% content-ref url="../../../../getting-started/data-sources.md" %}
-[data-sources.md](../../../../getting-started/data-sources.md)
+{% content-ref url="../../../../getting-started/data-sources/" %}
+[data-sources](../../../../getting-started/data-sources/)
 {% endcontent-ref %}

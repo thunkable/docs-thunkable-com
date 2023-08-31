@@ -20,14 +20,14 @@ The Data Viewer Grid lets you connect to a Data Source and view your data as a g
 
 ### Data Viewer Grid
 
-| Property          | Description                                                                                                                 | Data Type                                |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| Data Source       | The [Data Source](../../../../getting-started/data-sources.md#add-a-data-source-to-your-app) your data is to be pulled from | Reference to chosen data source          |
-| Table             | Table from your Data Source to show data from                                                                               | Reference to chosen table in Data Source |
-| Grid Appearance   | How your data will be displayed in your app                                                                                 | Select from list                         |
-| Populate Data     | Select what items of data from your Data Source to show in which aspects of your layout                                     | Select from lists                        |
-| Horizontal Scroll | Toggle whether your Data Viewer should scroll horizontally (if `false`, Data Viewer will scroll vertically)                 | True/False                               |
-| Empty Text        | Text that will be displayed if there is no data to fill a string in your Data Viewer                                        | Text                                     |
+| Property          | Description                                                                                                               | Data Type                                |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Data Source       | The [Data Source](../../../../getting-started/data-sources/#add-a-data-source-to-your-app) your data is to be pulled from | Reference to chosen data source          |
+| Table             | Table from your Data Source to show data from                                                                             | Reference to chosen table in Data Source |
+| Grid Appearance   | How your data will be displayed in your app                                                                               | Select from list                         |
+| Populate Data     | Select what items of data from your Data Source to show in which aspects of your layout                                   | Select from lists                        |
+| Horizontal Scroll | Toggle whether your Data Viewer should scroll horizontally (if `false`, Data Viewer will scroll vertically)               | True/False                               |
+| Empty Text        | Text that will be displayed if there is no data to fill a string in your Data Viewer                                      | Text                                     |
 
 ### Layout
 
@@ -47,7 +47,7 @@ The `Item Click` event is fired when any card in the Data Viewer is clicked.&#x2
 
 Returns a `row id` which corresponds to the unique Thunkable Id of the card that was clicked.&#x20;
 
-The row id is particularly useful when used with the the [Data Source](../../../../getting-started/data-sources.md) blocks.
+The row id is particularly useful when used with the the [Data Source](../../../../getting-started/data-sources/) blocks.
 
 ![](../../../../.gitbook/assets/grid\_click.png)
 
@@ -85,6 +85,6 @@ When you connect a Data Source to your project you will also have access to a se
 
 Click on the link below to learn how to use the Data Sources blocks in your project.&#x20;
 
-{% content-ref url="../../../../getting-started/data-sources.md" %}
-[data-sources.md](../../../../getting-started/data-sources.md)
+{% content-ref url="../../../../getting-started/data-sources/" %}
+[data-sources](../../../../getting-started/data-sources/)
 {% endcontent-ref %}
