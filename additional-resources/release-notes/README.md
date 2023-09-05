@@ -4,6 +4,14 @@ description: Keep up to date with our releases!
 
 # 📰 Release Notes
 
+## August 30, 2023
+
+Platform Updates
+
+* Removed unused libraries
+* Upgraded libraries
+* Updated onboarding survey
+
 ## August 24, 2023
 
 Platform Updates
