@@ -1,8 +1,22 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Switch Component
 
-## Switch Overview​ <a href="#switch-overview" id="switch-overview"></a>
+## Overview​ <a href="#switch-overview" id="switch-overview"></a>
 
-A switch is a component that has two settings, true and false. You can get your app to do specific tasks based on the value of the switch.
+The switch component is a two-state toggle that allows users to select between two options. It is commonly used in selecting on/off for things like sound, Bluetooth, WiFi etc.
 
 <div align="left">
 
@@ -14,25 +28,53 @@ A switch is a component that has two settings, true and false. You can get your 
 
 ### Switch
 
-| Property         | Description                                        | Data Type  |
-| ---------------- | -------------------------------------------------- | ---------- |
-| Value            | Initial value of Switch                            | True/False |
-| Tint Color       | Color of background when Switch is **false**       | Color      |
-| On Tint Color    | Color of background when Switch is **true**        | Color      |
-| Thumb Tint Color | Color of the Switch's slider                       | Color      |
-| Disabled         | Toggle whether value Switch can be changed by user | True/False |
+| Property         | Value      | Description                                        |
+| ---------------- | ---------- | -------------------------------------------------- |
+| Value            | True/False | Initial value of Switch                            |
+| Tint Color       | Color      | Color of background when Switch is **false**       |
+| On Tint Color    | Color      | Color of background when Switch is **true**        |
+| Thumb Tint Color | Color      | Color of the Switch's slider                       |
+| Disabled         | True/False | Toggle whether value Switch can be changed by user |
 
 ### Layout
 
-| Property    | Description                                                                      | Data Type                                    |
-| ----------- | -------------------------------------------------------------------------------- | -------------------------------------------- |
-| X           | Location of top left corner of Switch on X-axis, where the left hand side is X=0 | Number                                       |
-| Y           | Location of top left corner of Switch on Y-axis, where the top side is Y=0       | Number                                       |
-| Height      | Height of Switch in pixels                                                       | Number                                       |
-| Width       | Width of Switch in pixels                                                        | Number                                       |
-| Resize Mode | Define dimensions of the Switch's component/container                            | Select from list `[Stretch, Float in Place]` |
+| Property    | Value            | Desciption                                                                                               |
+| ----------- | ---------------- | -------------------------------------------------------------------------------------------------------- |
+| X           | coordinate value | Position of the upper left corner of the switch on the X-axis, where the left side of the screen is X=0. |
+| Y           | coordinate value | Position of the upper left corner of the switch on the Y-axis, where the top of the screen is Y=0.       |
+| Height      | number in pixels | The switch's height is defined by a custom number of pixels.                                             |
+| Width       | number in pixels | The switch's width is defined by a custom number of pixels.                                              |
+| Resize Mode | Stretch          | Stretches the switch to fit the dimensions of the device's screen.                                       |
+| Resize Mode | Float in Place   | Renders the switch in the same aspect ratio as the design, regardless of the device size.                |
 
 ## Blocks <a href="#events" id="events"></a>
+
+To access the blocks specific to the switch component:
+
+1. On the Design tab, add a **Image** component to a screen.
+2. Navigate to the **Blocks** tab.
+3. In the component tree on the left, click the name of the image component.
+4. A drawer of image-specific blocks opens.
+
+| Block Image                                              | Description                                                                                                        |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![](<../../../.gitbook/assets/image (226).png>)          | This event will fire when the user clicks on the image.                                                            |
+| ![](../../../.gitbook/assets/setImage.png)               | Set the image component's Picture.                                                                                 |
+| ![](../../../.gitbook/assets/getImage.png)               | Get the image component's Picture.                                                                                 |
+| ![](../../../.gitbook/assets/setImageResize.png)         | Set the image component's [resize mode](switch.md#picture-resize-mode)                                             |
+| ![](<../../../.gitbook/assets/getImageResize (1).png>)   | Get the image component's [resize mode](switch.md#picture-resize-mode)                                             |
+| ![](../../../.gitbook/assets/setImageHeight.png)         | Set the image component's height.                                                                                  |
+| ![](../../../.gitbook/assets/getImageHeight.png)         | Get the image component's height.                                                                                  |
+| ![](../../../.gitbook/assets/getImageComputedHeight.png) | Returns the height of the image component in pixels after it has been rendered on-screen.                          |
+| ![](../../../.gitbook/assets/setImageWidth.png)          | Set the image component's width.                                                                                   |
+| ![](../../../.gitbook/assets/getImageWidth.png)          | Get the image component's width.                                                                                   |
+| ![](../../../.gitbook/assets/getImageComputedWidth.png)  | Returns the width of the image component in pixels after it has been rendered on-screen                            |
+| ![](../../../.gitbook/assets/setImageVisible.png)        | Set whether the image component is visible on the screen.                                                          |
+| ![](../../../.gitbook/assets/getImageVisible.png)        | Get whether the image component is visible on the screen.                                                          |
+| ![](../../../.gitbook/assets/setImageX.png)              | Set the position image the upper left corner of the image on the X-axis, where the left side of the screen is X=0. |
+| ![](../../../.gitbook/assets/getImageX.png)              | Get the position of the upper left corner of the image on the X-axis, where the left side of the screen is X=0.    |
+| ![](../../../.gitbook/assets/setImageY.png)              | Set the position of the upper left corner of the image on the Y-axis, where the top of the screen is Y=0.          |
+| ![](../../../.gitbook/assets/getImageY.png)              | Get the position of the upper left corner of the image on the Y-axis, where the top of the screen is Y=0.          |
 
 ### Events&#x20;
 

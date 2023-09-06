@@ -77,7 +77,7 @@ When working with these resize modes, it's important to consider the context of 
 
 ## Image Blocks
 
-To access the blocks specific to the label component:
+To access the blocks specific to the switch component:
 
 1. On the Design tab, add a **Image** component to a screen.
 2. Navigate to the **Blocks** tab.
